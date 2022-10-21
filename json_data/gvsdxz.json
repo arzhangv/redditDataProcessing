@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I installed malicious adobe acrobat, fell for the good youtube comments. Then only started researching day after and discovered this https://www.joesandbox.com/analysis/233532/0/pdf\nI installed this with my windows defender disabled and internet connection disabled, yes im a complete idiot have to learn it the hard way i guess. So i ran malwarebytes and all kinds of malware removals, got rid of some stuff also complete deleted all the adobe installations cleared registries and so on but im not sure if im still safe since i installed it with defender disabled, should i reset windows just to be sure?\nCan someone look at the report and tell me how bad it is?",
+        "title": "Need advice",
+        "score": 1,
+        "id": "gvsdxz",
+        "commsNum": 0,
+        "timeStamp": "2020/06/03-04:39:49",
+        "author_name": "kudoistas1",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/gvsdxz/need_advice/"
+    },
+    "posts": {}
+}

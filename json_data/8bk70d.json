@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Title, thanks! ",
+        "title": "Thoughts on Bitdefender antirasomware",
+        "score": 0,
+        "id": "8bk70d",
+        "commsNum": 3,
+        "timeStamp": "2018/04/11-13:11:31",
+        "author_name": "guardsbank",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8bk70d/thoughts_on_bitdefender_antirasomware/"
+    },
+    "posts": {
+        "dy9sqe7": {
+            "comment": "Link: https://ransomfree.cybereason.com/",
+            "timeStamp": "2018/05/01-08:36:39",
+            "id": "dy9sqe7",
+            "is_submitter": false,
+            "link_id": "t3_8bk70d",
+            "parent_id": "t1_dy9sp79",
+            "score": 1,
+            "stickied": false,
+            "author_name": "jesuislautr3c"
+        },
+        "dy9sp79": {
+            "comment": "It's ok, I've used it in testing environments to benchmark against others with sample files containing multiple ransomware... For these free distributions, I favor Cybereason.",
+            "timeStamp": "2018/05/01-08:36:09",
+            "id": "dy9sp79",
+            "is_submitter": false,
+            "link_id": "t3_8bk70d",
+            "parent_id": "t3_8bk70d",
+            "score": 2,
+            "stickied": false,
+            "author_name": "jesuislautr3c"
+        },
+        "dxi0m9p": {
+            "comment": "First time hearing about it.",
+            "timeStamp": "2018/04/17-01:17:48",
+            "id": "dxi0m9p",
+            "is_submitter": false,
+            "link_id": "t3_8bk70d",
+            "parent_id": "t3_8bk70d",
+            "score": 3,
+            "stickied": false,
+            "author_name": "sephstorm"
+        }
+    }
+}

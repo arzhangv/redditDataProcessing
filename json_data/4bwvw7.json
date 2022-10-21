@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "New ransomware strain identified and analyzed by Carbon Black's research team",
+        "score": 1,
+        "id": "4bwvw7",
+        "commsNum": 0,
+        "timeStamp": "2016/03/25-08:22:07",
+        "author_name": "dadoftwins71309",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.carbonblack.com/2016/03/25/threat-alert-powerware-new-ransomware-written-in-powershell-targets-organizations-via-microsoft-word/"
+    },
+    "posts": {}
+}

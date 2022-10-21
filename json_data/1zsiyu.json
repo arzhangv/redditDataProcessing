@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I'm a noob, but I thought what I found was interesting, and was hoping someone could expand on it:\n\nI have had my chrome browser infected with a kind of adware that searches for strings in (html?) and then maliciously inserts a custom html tag around common search terms, in my case the term was \"college degrees\", which then links to an ad. \n\nSo I looked at the source and found the following html at the link:\n    &lt;nobr&gt;&lt;a id=\"FALINK_1_0_0\" class=\"FAtxtL\" href=\"#\"&gt;college degrees&lt;/a&gt;&lt;/nobr&gt;\n\nObviously this looked suspicious, so I scrolled down to the end of page to see the source of the js for the page, and saw this:\n\n    &lt;script type=\"text/javascript\" src=\"http://cdn.sendori.com/js/inlinekeywords.js\"&gt;&lt;/script&gt;\n\nAfter a 30 second google search I came to the conclusion there was a good chance this is was a related script. Curiously going to this url in browser displays some js to the page:\n\nhttp://pastebin.com/K5g9Qt3u\n\nSome terms here look interesting, its defining the following things:\n\nblacklist_keywords, blacklist_urls, slider_keywords\n\nBy the way, visiting one of these blacklisted urls returns this:\n\nhttp://www.conversantmedia.com/legal/privacy\n\nI particularly liked where they seem to be using the NSA's \"meta-data\" argument here:\n\n&gt;At Conversant, Inc., or any of its subsidiaries or affiliates, including Commission Junction, Inc., a Conversant Company (\u201cConversant,\u201d \u201cwe,\u201d \u201cus,\u201d or \u201cour\u201d), we provide online advertising services. To do this we follow information usage practices based on two beliefs: first, that protecting user privacy is essential to the growth and prosperity of the Internet; second, that a personalized web experience can provide significant benefits to Internet end users if done properly. In accordance with these beliefs, Conversant creates results for advertisers and publishers in revolutionary ways without compromising individual privacy.\n\n&gt;Personally Identifiable Information (\u201cPII\u201d): Information that can be linked to an identifiable individual person. This type of data includes things like full name, home address, telephone number, or email address.\n\n&gt;Non-Personally Identifiable Information (\u201cNon-PII\u201d): Information that cannot identify an individual person, such as IP address, browser types, operating systems, domain names, access dates and times, referring website addresses, online transactions and browsing and search activity.\n\n&gt;Please take some time to read about what our business does, learn how we ensure that data you share with us is collected and used safely, and visit resources that provide more depth on our industry.\n\nSome of these naming conventions seem really interesting too:\n\nCATEGORY:\"sendoricategoryantivirus\nCATEGORY:\"sendoricategorybanks\"\n\nInteresting that the domain is registered \".com\" but they have no website up, and it returns forbidden. Also, I'm assuming that the server name stands for \"content-delivery-network\"\n\nLet me know what you guys think, would be really interesting to see some more experienced people's comments on this. \n\nEdit:\n\nDid some research by googling uncommon variable names and stuff, came up with this code, which seems to be related. \n\nhttp://pastebin.com/YQsbSShC\n\n\n\n\n",
+        "title": "Think you guys might find this interesting?",
+        "score": 9,
+        "id": "1zsiyu",
+        "commsNum": 3,
+        "timeStamp": "2014/03/06-23:01:04",
+        "author_name": "why_the_love",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/1zsiyu/think_you_guys_might_find_this_interesting/"
+    },
+    "posts": {}
+}

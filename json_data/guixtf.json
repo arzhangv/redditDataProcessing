@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hey, I got this message when opening discord about a Javascript error. I watched a video on this and did everything (%localappdata% and more). I re-installed Discord etc and changed all the passwords on sites with the same old one like  I used on Discord. Am I save now or do I have to do more?",
+        "title": "JS:AnarchyGrabber",
+        "score": 1,
+        "id": "guixtf",
+        "commsNum": 6,
+        "timeStamp": "2020/06/01-04:28:15",
+        "author_name": "crashologics",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/guixtf/jsanarchygrabber/"
+    },
+    "posts": {
+        "fskoj88": {
+            "comment": "[removed]",
+            "timeStamp": "2020/06/01-15:35:49",
+            "id": "fskoj88",
+            "is_submitter": false,
+            "link_id": "t3_guixtf",
+            "parent_id": "t3_guixtf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fska44h": {
+            "comment": "Avast is a pretty bad AV, yes.",
+            "timeStamp": "2020/06/01-13:35:21",
+            "id": "fska44h",
+            "is_submitter": false,
+            "link_id": "t3_guixtf",
+            "parent_id": "t1_fsj60g9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MinimarRE"
+        },
+        "fsk745t": {
+            "comment": "avast can sometimes act like an adware if you are using the free version",
+            "timeStamp": "2020/06/01-13:10:55",
+            "id": "fsk745t",
+            "is_submitter": false,
+            "link_id": "t3_guixtf",
+            "parent_id": "t1_fsj60g9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "damla_is_cringey"
+        },
+        "fsk22uq": {
+            "comment": "The best antivirus is not downloading suspicous files. After all, a chain is only as strong as the weakest link...",
+            "timeStamp": "2020/06/01-12:30:19",
+            "id": "fsk22uq",
+            "is_submitter": false,
+            "link_id": "t3_guixtf",
+            "parent_id": "t1_fsj60g9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Russiky"
+        },
+        "fsj60g9": {
+            "comment": "Why should I uninstall avast? Is it a bad antivirus? And I did everything (%appdata%). I uninstalled Discord and deleted all files. I re-installed Discord and activated 2 factor authentication. I changed all the passwords. I look on my whole computer and I can only find \"analytics.js\" from Ryzen.",
+            "timeStamp": "2020/06/01-08:05:01",
+            "id": "fsj60g9",
+            "is_submitter": true,
+            "link_id": "t3_guixtf",
+            "parent_id": "t1_fsisn9z",
+            "score": 1,
+            "stickied": false,
+            "author_name": "crashologics"
+        },
+        "fsisn9z": {
+            "comment": "no you are not safe. \n\nhere are some steps to get rid of the virus.\n\n\n1. uninstall Avast and use Malwarebytes instead.\n\n2. if you are on windows, click the search bar and type %appdata%.\n\n3. delete all of your discord files including \u0130ndex.js and emtpy your trash can\n\n4. if you find a file named anarchygrabber, 4n4rchy or something, delete it too.\n\n5. if it still doesn't fix, reinstall the OS with a USB or a  Disk drive(i have done it when my computer was infected by another virus.)\n\nnote: i only know how to do it in windows, since i have never owned a Mac or never used or saw one, i think someone will comment how to do it in mac.",
+            "timeStamp": "2020/06/01-05:51:15",
+            "id": "fsisn9z",
+            "is_submitter": false,
+            "link_id": "t3_guixtf",
+            "parent_id": "t3_guixtf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "damla_is_cringey"
+        }
+    }
+}

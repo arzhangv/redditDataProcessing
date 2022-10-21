@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "ByeBear: SandboxEscaper's latest zero day",
+        "score": 1,
+        "id": "bxt5nl",
+        "commsNum": 0,
+        "timeStamp": "2019/06/07-03:49:38",
+        "author_name": "ThisIsLibra",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://github.com/SandboxEscaper/polarbearrepo/tree/master/ByeBear"
+    },
+    "posts": {}
+}

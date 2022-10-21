@@ -1,0 +1,154 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi all,\n\nI'm looking for a detailed guide to get into malware analysis and building a secure analysis lab on a workstation.\n\nThanks",
+        "title": "Malware analysis lab guide needed",
+        "score": 16,
+        "id": "c0q5hf",
+        "commsNum": 12,
+        "timeStamp": "2019/06/14-15:26:59",
+        "author_name": "User_644",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 12,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/c0q5hf/malware_analysis_lab_guide_needed/"
+    },
+    "posts": {
+        "etkpacp": {
+            "comment": "Is there a prefer host OS (Windows, Linux, Mac)?",
+            "timeStamp": "2019/07/11-21:04:28",
+            "id": "etkpacp",
+            "is_submitter": false,
+            "link_id": "t3_c0q5hf",
+            "parent_id": "t3_c0q5hf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "seag33k"
+        },
+        "erhaqtg": {
+            "comment": "[removed]",
+            "timeStamp": "2019/06/18-08:20:00",
+            "id": "erhaqtg",
+            "is_submitter": false,
+            "link_id": "t3_c0q5hf",
+            "parent_id": "t3_c0q5hf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "er8xla6": {
+            "comment": "you can setup good malware analysis box on Intel NUC or any mini pc , this way you can isolate your setup from you personal pc or other devices in your network",
+            "timeStamp": "2019/06/15-08:45:17",
+            "id": "er8xla6",
+            "is_submitter": false,
+            "link_id": "t3_c0q5hf",
+            "parent_id": "t3_c0q5hf",
+            "score": 0,
+            "stickied": false,
+            "author_name": "vinumsv"
+        },
+        "er8tm1h": {
+            "comment": "A Malware analysis university class:\n\n [https://github.com/RPISEC/Malware](https://github.com/RPISEC/Malware)",
+            "timeStamp": "2019/06/15-08:11:27",
+            "id": "er8tm1h",
+            "is_submitter": false,
+            "link_id": "t3_c0q5hf",
+            "parent_id": "t3_c0q5hf",
+            "score": 2,
+            "stickied": false,
+            "author_name": "cr4zym0nki"
+        },
+        "er8gv33": {
+            "comment": "If I could upvote this 10 times I would. Amazing book. Shows you more than just how to. Gives you tons of options regarding your lab.",
+            "timeStamp": "2019/06/15-06:11:08",
+            "id": "er8gv33",
+            "is_submitter": false,
+            "link_id": "t3_c0q5hf",
+            "parent_id": "t1_er7ml3d",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Ellowrath"
+        },
+        "er82462": {
+            "comment": "OA Labs have amazing all round videos, including a lab set up one: https://youtu.be/gFxImi5t37c\n\nMalwaretech is another great blog: https://www.malwaretech.com/2017/11/creating-a-simple-free-malware-analysis-environment.html",
+            "timeStamp": "2019/06/15-03:19:58",
+            "id": "er82462",
+            "is_submitter": false,
+            "link_id": "t3_c0q5hf",
+            "parent_id": "t3_c0q5hf",
+            "score": 3,
+            "stickied": false,
+            "author_name": "thebloodguy"
+        },
+        "er7mlid": {
+            "comment": "[removed]",
+            "timeStamp": "2019/06/14-23:53:29",
+            "id": "er7mlid",
+            "is_submitter": false,
+            "link_id": "t3_c0q5hf",
+            "parent_id": "t1_er7ml3d",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "er7ml3d": {
+            "comment": "https://www.amazon.com/Building-Virtual-Machine-Labs-Hands/dp/1546932631\n\nProject Avatar is the best imo, worth the coin",
+            "timeStamp": "2019/06/14-23:53:21",
+            "id": "er7ml3d",
+            "is_submitter": false,
+            "link_id": "t3_c0q5hf",
+            "parent_id": "t3_c0q5hf",
+            "score": 5,
+            "stickied": false,
+            "author_name": "RyanStankye"
+        },
+        "er7cu40": {
+            "comment": "Great guide, thanks for sharing!",
+            "timeStamp": "2019/06/14-21:56:41",
+            "id": "er7cu40",
+            "is_submitter": false,
+            "link_id": "t3_c0q5hf",
+            "parent_id": "t1_er6n6xt",
+            "score": 3,
+            "stickied": false,
+            "author_name": "danstheman7"
+        },
+        "er6ts01": {
+            "comment": "Is this any good?",
+            "timeStamp": "2019/06/14-17:06:32",
+            "id": "er6ts01",
+            "is_submitter": false,
+            "link_id": "t3_c0q5hf",
+            "parent_id": "t1_er6qqrt",
+            "score": 0,
+            "stickied": false,
+            "author_name": "nobearclaw"
+        },
+        "er6qqrt": {
+            "comment": "[https://malwareunicorn.org/](https://malwareunicorn.org/#/)",
+            "timeStamp": "2019/06/14-16:23:01",
+            "id": "er6qqrt",
+            "is_submitter": false,
+            "link_id": "t3_c0q5hf",
+            "parent_id": "t3_c0q5hf",
+            "score": 8,
+            "stickied": false,
+            "author_name": "enriquefg"
+        },
+        "er6n6xt": {
+            "comment": "Sudosev has a pretty good guide here\n\nhttps://www.alienvault.com/blogs/security-essentials/building-a-home-lab-to-become-a-malware-hunter-a-beginners-guide\n\nLooks like it's been updated since I last looked at it too.",
+            "timeStamp": "2019/06/14-15:35:06",
+            "id": "er6n6xt",
+            "is_submitter": false,
+            "link_id": "t3_c0q5hf",
+            "parent_id": "t3_c0q5hf",
+            "score": 16,
+            "stickied": false,
+            "author_name": "danspanner"
+        }
+    }
+}

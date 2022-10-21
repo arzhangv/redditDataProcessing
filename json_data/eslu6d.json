@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "hello community.\n\ni remember when vxheaven was up there was a software section with tools to build malware and computer viruses. It was fun to play with. Does anyone have backups or know where I can download these?\n\nThanks",
+        "title": "Malware making tools",
+        "score": 1,
+        "id": "eslu6d",
+        "commsNum": 5,
+        "timeStamp": "2020/01/22-17:30:35",
+        "author_name": "Prodialup",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/eslu6d/malware_making_tools/"
+    },
+    "posts": {
+        "ffbxjc1": {
+            "comment": "python is amazing for malware",
+            "timeStamp": "2020/01/23-05:26:20",
+            "id": "ffbxjc1",
+            "is_submitter": false,
+            "link_id": "t3_eslu6d",
+            "parent_id": "t1_ffbagxl",
+            "score": 1,
+            "stickied": false,
+            "author_name": "evictedtomato"
+        },
+        "ffbagxl": {
+            "comment": "Here's a trade secret I'll give ya for free; one of the best malware making tools you can get; you can make it do damn near anything you can think of:\n\nhttps://www.python.org/\n\nThere's even great documentation available!\n\nhttps://www.amazon.com/Python-All-One-Dummies-Shovic/dp/1119557593/",
+            "timeStamp": "2020/01/22-21:30:16",
+            "id": "ffbagxl",
+            "is_submitter": false,
+            "link_id": "t3_eslu6d",
+            "parent_id": "t3_eslu6d",
+            "score": 1,
+            "stickied": false,
+            "author_name": "cdp1337"
+        },
+        "ffb1mtq": {
+            "comment": "Program them yourself, much more fun and rewarding",
+            "timeStamp": "2020/01/22-19:19:01",
+            "id": "ffb1mtq",
+            "is_submitter": false,
+            "link_id": "t3_eslu6d",
+            "parent_id": "t3_eslu6d",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MysticalTeamMember"
+        },
+        "ffavynh": {
+            "comment": "Script kiddie",
+            "timeStamp": "2020/01/22-18:15:52",
+            "id": "ffavynh",
+            "is_submitter": false,
+            "link_id": "t3_eslu6d",
+            "parent_id": "t3_eslu6d",
+            "score": 1,
+            "stickied": false,
+            "author_name": "PhisherPrice"
+        },
+        "ffaul4c": {
+            "comment": "I would like to know as well",
+            "timeStamp": "2020/01/22-18:00:41",
+            "id": "ffaul4c",
+            "is_submitter": false,
+            "link_id": "t3_eslu6d",
+            "parent_id": "t3_eslu6d",
+            "score": 1,
+            "stickied": false,
+            "author_name": "1711frgtn"
+        }
+    }
+}

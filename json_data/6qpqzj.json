@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[removed]",
+        "title": "Help needed - dealing with the mother of Malwares",
+        "score": 0,
+        "id": "6qpqzj",
+        "commsNum": 5,
+        "timeStamp": "2017/07/31-09:59:02",
+        "author_name": "vinniffa",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6qpqzj/help_needed_dealing_with_the_mother_of_malwares/"
+    },
+    "posts": {
+        "dkz4jkl": {
+            "comment": "Sorry guys. My attention span was low when I created the thread. And  my pages weren't even rendering correctly. ANyway, I did a system restore to solve it. Thanks.",
+            "timeStamp": "2017/07/31-11:09:28",
+            "id": "dkz4jkl",
+            "is_submitter": true,
+            "link_id": "t3_6qpqzj",
+            "parent_id": "t3_6qpqzj",
+            "score": -5,
+            "stickied": false,
+            "author_name": "vinniffa"
+        },
+        "dkz3et8": {
+            "comment": "Give r/techsupport or r/antivirus a go.",
+            "timeStamp": "2017/07/31-10:49:29",
+            "id": "dkz3et8",
+            "is_submitter": false,
+            "link_id": "t3_6qpqzj",
+            "parent_id": "t1_dkz0knz",
+            "score": 4,
+            "stickied": false,
+            "author_name": "YouCanIfYou"
+        },
+        "dkz3bno": {
+            "comment": "From the sidebar:\n\n&gt; A place for malware reports and information. This is NOT a place for help with malware removal or various other end-user questions.\n\n&gt; Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware\n\n In particular, the stickied [Official Malware Removal Guide](https://www.reddit.com/r/techsupport/comments/33evdi/suggested_reading_official_malware_removal_guide/) on /r/techsupport may be helpful.",
+            "timeStamp": "2017/07/31-10:47:57",
+            "id": "dkz3bno",
+            "is_submitter": false,
+            "link_id": "t3_6qpqzj",
+            "parent_id": "t3_6qpqzj",
+            "score": 6,
+            "stickied": false,
+            "author_name": "canadian1296"
+        },
+        "dkz0knz": {
+            "comment": "It renders some ads on pages (like reddit) too",
+            "timeStamp": "2017/07/31-09:59:45",
+            "id": "dkz0knz",
+            "is_submitter": true,
+            "link_id": "t3_6qpqzj",
+            "parent_id": "t3_6qpqzj",
+            "score": -4,
+            "stickied": false,
+            "author_name": "vinniffa"
+        }
+    }
+}

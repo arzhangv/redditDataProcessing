@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Has anyone found actual samples of FireEye-named APT28? If so can you share? None of the readily available hashes I've found are on virusshare or malwr. ",
+        "title": "Looking for APT28 samples",
+        "score": 9,
+        "id": "2klzhg",
+        "commsNum": 10,
+        "timeStamp": "2014/10/28-14:32:03",
+        "author_name": "dualmal",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 10,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2klzhg/looking_for_apt28_samples/"
+    },
+    "posts": {}
+}

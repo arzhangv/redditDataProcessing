@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "How I Reverse Engineer Malware",
+        "score": 25,
+        "id": "4t8r0d",
+        "commsNum": 8,
+        "timeStamp": "2016/07/17-00:50:14",
+        "author_name": "dem0n",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 8,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://blog.devit.co/how-i-reverse-malware/"
+    },
+    "posts": {}
+}

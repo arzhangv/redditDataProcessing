@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hi all,\n\nI was wondering if there are any platforms similar to [https://virustracker.info/](https://virustracker.info/).  \nI need to check any IP address or CIDR if it has contacted to a sinkholed domain.",
+        "title": "Sinkhole query platform",
+        "score": 1,
+        "id": "ui2x0b",
+        "commsNum": 0,
+        "timeStamp": "2022/05/04-02:48:00",
+        "author_name": "Addison-Helena",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ui2x0b/sinkhole_query_platform/"
+    },
+    "posts": {
+        "i7axrfb": {
+            "comment": "I really like everything abuse.ch does, like: https://feodotracker.abuse.ch\nor https://bazaar.abuse.ch",
+            "timeStamp": "2022/05/04-08:33:16",
+            "id": "i7axrfb",
+            "is_submitter": false,
+            "link_id": "t3_ui2x0b",
+            "parent_id": "t3_ui2x0b",
+            "score": 1,
+            "stickied": false,
+            "author_name": "gen0h"
+        }
+    }
+}

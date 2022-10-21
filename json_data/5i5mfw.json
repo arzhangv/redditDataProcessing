@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "http://imgur.com/a/BkWgH\n\nHere's a screenshot. I've seen it a few times and I'm pretty sure when you call they trick you into buying antivirus. \n\nWhat is the initial cause of this? Is it a bad ad on an ad network? DNS poisoning?\n\nUPDATE: Got another one today.\n\nhttp://error8f3.com/qa70/index.php?s1=5269&amp;s2=Chrome&amp;vcid=5b5bcc2d-1cfa-43f6-ba77-b9c05b6119cf&amp;dfn=(888)%20599-25518&amp;dn=%2B18885992551&amp;a=ADSU\n\nOpen in Chrome, then run \n\n    taskkill /im /F chrome.exe\n\nto get out of it.",
+        "title": "What Causes Fake Microsoft Page?",
+        "score": 15,
+        "id": "5i5mfw",
+        "commsNum": 32,
+        "timeStamp": "2016/12/13-11:32:59",
+        "author_name": "bigbleu",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 32,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5i5mfw/what_causes_fake_microsoft_page/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I finished reading and working through Practical Malware Analysis about 3 weeks ago. I'm looking for some good recommendations on a follow up. \n\nSo far I've purchased shellcoders handbook, malware analysis cookbook, and practical reversing. I'm waiting on those resources to get to me. \n\nAre there any others? I really enjoyed practical malware analysis and it's labs. The cookbook looks good but might be out dated. Is there anything you guys know of that has real examples of browser based attacks (like JavaScript and EK reversing), PDF and document exploits or other things I can expect to see in the wild? ",
+        "title": "Where to go after PMA?",
+        "score": 8,
+        "id": "5v6h6p",
+        "commsNum": 5,
+        "timeStamp": "2017/02/20-11:09:00",
+        "author_name": "ShittySecurity",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5v6h6p/where_to_go_after_pma/"
+    },
+    "posts": {}
+}

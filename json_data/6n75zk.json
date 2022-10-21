@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "No files exist on my computer that are involved with chromium in any way, there's no chromium processes running on task manager however there IS the chromium application when I go to control panel the uninstall programs. I've tried uninstalling it but every time it asks me to close the browsers which are never opened. I've tried restarting, uninstalling chrome first, searching for chromium files, virus scan, looking for background processes and none of these have worked, please help asap.",
+        "title": "Chromium won't go away.",
+        "score": 0,
+        "id": "6n75zk",
+        "commsNum": 5,
+        "timeStamp": "2017/07/13-22:47:36",
+        "author_name": "KyleKeekSmith",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6n75zk/chromium_wont_go_away/"
+    },
+    "posts": {
+        "dkdd3s6": {
+            "comment": "Please read the side bar. . .",
+            "timeStamp": "2017/07/18-00:16:46",
+            "id": "dkdd3s6",
+            "is_submitter": false,
+            "link_id": "t3_6n75zk",
+            "parent_id": "t3_6n75zk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "swizzledudeftw"
+        },
+        "dk9glkj": {
+            "comment": "This is not /r/techsupport - go there for help.",
+            "timeStamp": "2017/07/15-11:25:09",
+            "id": "dk9glkj",
+            "is_submitter": false,
+            "link_id": "t3_6n75zk",
+            "parent_id": "t3_6n75zk",
+            "score": 3,
+            "stickied": false,
+            "author_name": "hypervis0r"
+        },
+        "dk8zlg1": {
+            "comment": "Tried that yesterday but couldn't find anything, woke up today and chromium is no longer thwew however I didnt get to remove it, I'm suspicious that it could still be hidden somewhere? Do you know of anything thats designed to track down this kind of thing or am I better off just rebooting my conputer just to be safe?",
+            "timeStamp": "2017/07/15-02:55:20",
+            "id": "dk8zlg1",
+            "is_submitter": true,
+            "link_id": "t3_6n75zk",
+            "parent_id": "t1_dk7upgn",
+            "score": 1,
+            "stickied": false,
+            "author_name": "KyleKeekSmith"
+        },
+        "dk7upgn": {
+            "comment": "It's probably installed and used by another program. Look at the rest of your programs for anything weird.",
+            "timeStamp": "2017/07/14-09:19:27",
+            "id": "dk7upgn",
+            "is_submitter": false,
+            "link_id": "t3_6n75zk",
+            "parent_id": "t3_6n75zk",
+            "score": 3,
+            "stickied": false,
+            "author_name": "wmassingham"
+        },
+        "dk7jbv6": {
+            "comment": "Chromium can lodge itself pretty deeply into the system, but you should be able to find process files. Quite interesting that you can't. It could be that they are under a different name. In any case, let's try a couple of solutions. Considering you did a virus scan, it is a possibility, that it can't remove certain malware while Windows is in normal mode. Try this:\n\n1. Restart the PC in \"safe mode with networking\"\n2. Install RKill and run it to kill any malicious services (Potentially Chromium processes)\n3. Install any popular anti-virus and do a quick scan (Majority of the providers do have free versions of their software)\n4. Install and scan your PC with Malwarebytes and Hitman Pro\n5. Restart PC in normal mode and do another quick scan with Malwarebytes\n\nThese steps should entirely clear up any malicious software. Let me know if this helped. And as always, I recommend /r/techsupport or /r/antivirus for more removal guides.\n ",
+            "timeStamp": "2017/07/14-05:17:15",
+            "id": "dk7jbv6",
+            "is_submitter": false,
+            "link_id": "t3_6n75zk",
+            "parent_id": "t3_6n75zk",
+            "score": 2,
+            "stickied": false,
+            "author_name": "JoshRosserino"
+        }
+    }
+}

@@ -1,0 +1,154 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hello all,\n\nI am new to Malware analysis and have come across a tool (Zip2John) from what I understand it finds the password hash for the ZIP file in question and extracts it to be cracked by JohnTheRipper. To then unzip it successfully to get the files within.\n\nMy question is this..... in the case of a malware case that you are presented of a password protected ZIP file, if you have the ability to use this tool to be able to find the password and extract whatever is inside it, would that be proper and forensically sound? \n\nIf I was to use that tool would it change the file within the ZIP in any way, shape, or form? It seems as this is an amazing tool but I would like to hear from you all if this is a recommended tool or if I should shy away from it.",
+        "title": "Zip2John for password protected ZIP files",
+        "score": 1,
+        "id": "rmkc6v",
+        "commsNum": 0,
+        "timeStamp": "2021/12/22-17:42:38",
+        "author_name": "Tyyphoon9",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/rmkc6v/zip2john_for_password_protected_zip_files/"
+    },
+    "posts": {
+        "hqjy9s8": {
+            "comment": "Oh shit thank you, i didn't even know that was a sub!",
+            "timeStamp": "2021/12/30-07:16:25",
+            "id": "hqjy9s8",
+            "is_submitter": true,
+            "link_id": "t3_rmkc6v",
+            "parent_id": "t1_hqjy6zn",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Tyyphoon9"
+        },
+        "hqjy6zn": {
+            "comment": "You can post the hash to /r/crackthis and let others attempt to crack it for you.",
+            "timeStamp": "2021/12/30-07:15:51",
+            "id": "hqjy6zn",
+            "is_submitter": false,
+            "link_id": "t3_rmkc6v",
+            "parent_id": "t3_rmkc6v",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DrinkMoreCodeMore"
+        },
+        "hpr81c1": {
+            "comment": "Oh yeah, definitely. It may not be obvious to some that \"copy of\" does not actually mean they are identical.",
+            "timeStamp": "2021/12/23-17:39:52",
+            "id": "hpr81c1",
+            "is_submitter": false,
+            "link_id": "t3_rmkc6v",
+            "parent_id": "t1_hpr0i9m",
+            "score": 1,
+            "stickied": false,
+            "author_name": "D1ces"
+        },
+        "hpr0i9m": {
+            "comment": "thanks i was maybe a little coarse with my comment, however md5sum is the correct answer to starting off malware analysis to be sure you know exactly what version of what you are dealing with. i have seen entire folders of \"copy of duplicate (3)\" and i suggest instead of making lots of copies, take note of the exact hashsum of the file and only keep the one copy aside from your backups to a storage medium",
+            "timeStamp": "2021/12/23-16:38:46",
+            "id": "hpr0i9m",
+            "is_submitter": false,
+            "link_id": "t3_rmkc6v",
+            "parent_id": "t1_hpqybmq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "kizzie1337"
+        },
+        "hpqybmq": {
+            "comment": "Appreciate you chiming in as OP may not have known about md5sum, I think you misunderstand the OPs concern. Yes, md5sum is important for identifying a difference in two files, however step one is working off a copy that you can instrument without concern of modifying the original.",
+            "timeStamp": "2021/12/23-16:21:19",
+            "id": "hpqybmq",
+            "is_submitter": false,
+            "link_id": "t3_rmkc6v",
+            "parent_id": "t1_hpopmg6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "D1ces"
+        },
+        "hpqv4si": {
+            "comment": "John doesn't modify files, it brute forces against hashes read from elsewhere. You do not need to modify anything to pull these hashes. Even if John is successful, that doesn't automatically open the zip for you. You have to put the password in as if you set it yourself. Imagine a text file with a line in it that's obfuscated. Zip2john is basically reading that line, jotting it down, and then a completely separate program is trying to figure out what it means.",
+            "timeStamp": "2021/12/23-15:55:54",
+            "id": "hpqv4si",
+            "is_submitter": false,
+            "link_id": "t3_rmkc6v",
+            "parent_id": "t1_hponrmm",
+            "score": 1,
+            "stickied": false,
+            "author_name": "D1ces"
+        },
+        "hpquka6": {
+            "comment": "Correct, that is what I meant. There's nothing wrong with using md5sum, but if you used the wrong tool and only that guys advice, you could accidentally modify it. Only good md5sum would do for you then is knowing you have a changed file.",
+            "timeStamp": "2021/12/23-15:51:27",
+            "id": "hpquka6",
+            "is_submitter": false,
+            "link_id": "t3_rmkc6v",
+            "parent_id": "t1_hppmkvl",
+            "score": 1,
+            "stickied": false,
+            "author_name": "D1ces"
+        },
+        "hppmkvl": {
+            "comment": "I think thats what he meant. Make a copy of the OG and verify its the same then use Zip2John on the copy so IF it edits it, it is only the copy and not the OG",
+            "timeStamp": "2021/12/23-10:28:54",
+            "id": "hppmkvl",
+            "is_submitter": true,
+            "link_id": "t3_rmkc6v",
+            "parent_id": "t1_hpopmg6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Tyyphoon9"
+        },
+        "hpopmg6": {
+            "comment": "no no no no no no no no no no no\n\n\nno\n\n\nuse md5sum to verify files have not changed. md5. fr. don't just rando copy shit jesus",
+            "timeStamp": "2021/12/23-06:33:29",
+            "id": "hpopmg6",
+            "is_submitter": false,
+            "link_id": "t3_rmkc6v",
+            "parent_id": "t1_hpnfd6h",
+            "score": 1,
+            "stickied": false,
+            "author_name": "kizzie1337"
+        },
+        "hponrmm": {
+            "comment": "Okay thats what I thought. \n\nI figured it would be safe to use but in the case of a report, if i used that tool against the copy and the password WAS cracked and unlocked the ZIP would that be a legit way to get it.\n\nSo yes i presume",
+            "timeStamp": "2021/12/23-06:18:36",
+            "id": "hponrmm",
+            "is_submitter": true,
+            "link_id": "t3_rmkc6v",
+            "parent_id": "t1_hpnfd6h",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Tyyphoon9"
+        },
+        "hpnsyyx": {
+            "comment": "Indeed. For forensics purposes, IANAL but I would think that this would suffice legally -- after making a copy, just do a before-and-after hash to ensure and demonstrate that it has remained unchanged.",
+            "timeStamp": "2021/12/23-00:15:43",
+            "id": "hpnsyyx",
+            "is_submitter": false,
+            "link_id": "t3_rmkc6v",
+            "parent_id": "t1_hpnfd6h",
+            "score": 1,
+            "stickied": false,
+            "author_name": "deargle"
+        },
+        "hpnfd6h": {
+            "comment": "\"zip2john processes input ZIP files into a format suitable for use with JtR.\"\n\nIt's not going to modify the zip file. From what I recall it will give you some hashes in the proper format that you can then run with John. Further, John the Ripper is a brute forcing tool and does not guarantee you'll be able to crack the hash.\n\nIf you're ever concerned about a tool modifying a file, just copy the file.",
+            "timeStamp": "2021/12/22-21:36:36",
+            "id": "hpnfd6h",
+            "is_submitter": false,
+            "link_id": "t3_rmkc6v",
+            "parent_id": "t3_rmkc6v",
+            "score": 1,
+            "stickied": false,
+            "author_name": "D1ces"
+        }
+    }
+}

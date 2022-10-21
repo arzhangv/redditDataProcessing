@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Not looking for help removing, but is this the right place to at least bring something to the attention of someone who might be developing definitions? Malwarebytes couldn't see it.  \n\n\nBasically, this thing got itself into chrome://policy &gt; NewTabPageLocation and I can't remove it. Still Googling how to edit that entry.\n\n&amp;#x200B;\n\nThe system is a Mac, 10.12.3\n\n&amp;#x200B;\n\nScreenshot:\n\n&amp;#x200B;\n\nhttps://i.redd.it/3ruarf1svh231.png",
+        "title": "Practically un-removable",
+        "score": 0,
+        "id": "bx02un",
+        "commsNum": 2,
+        "timeStamp": "2019/06/05-01:01:31",
+        "author_name": "Ruckus42",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/bx02un/practically_unremovable/"
+    },
+    "posts": {
+        "eq3t73u": {
+            "comment": "You need to also make the changes for Safari. WeKnow is a BITCH to remove.\n\nManually edit everything out of Chrome, and/or delete all those chrome files that govern settings that you are able to (I mean, that'll be automatically repopulated with defaults). Trying to edit it out of the policy page won't help, there's some sort of file that it often pulls from. I'll try and find my notes. And of course ensure there is no account syncing! \n\nYou will need sudo abilities because some areas don't show up in the file browser, so you need to use terminal to find them for Safari too (and maybe chrome. Sorry it's been a while).\n\nThe infection a staff member had that User Support brought to me to weed out was done via a fake flash installer. The user didn't know the mac image automatically updated flash, so he clicked one of those fake installers (Really easy to confuse for some). \n\nRemove all flash installer downloads to be certain they cannot reinfect themselves.",
+            "timeStamp": "2019/06/05-12:22:43",
+            "id": "eq3t73u",
+            "is_submitter": false,
+            "link_id": "t3_bx02un",
+            "parent_id": "t3_bx02un",
+            "score": 0,
+            "stickied": false,
+            "author_name": "Sam-Gunn"
+        },
+        "eq3cifk": {
+            "comment": "It's a Unix system, I know this!",
+            "timeStamp": "2019/06/05-09:49:36",
+            "id": "eq3cifk",
+            "is_submitter": false,
+            "link_id": "t3_bx02un",
+            "parent_id": "t3_bx02un",
+            "score": 0,
+            "stickied": false,
+            "author_name": "bong-rips-for-jesus"
+        }
+    }
+}

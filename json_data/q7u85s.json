@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Glary Utilities seems bad now...",
+        "score": 1,
+        "id": "q7u85s",
+        "commsNum": 6,
+        "timeStamp": "2021/10/13-23:45:40",
+        "author_name": "EmperorOfInterwebz",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://i.redd.it/celbi1434dt71.png"
+    },
+    "posts": {
+        "hwbxwsu": {
+            "comment": "[removed]",
+            "timeStamp": "2022/02/09-21:27:38",
+            "id": "hwbxwsu",
+            "is_submitter": false,
+            "link_id": "t3_q7u85s",
+            "parent_id": "t3_q7u85s",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hgt8emo": {
+            "comment": "[removed]",
+            "timeStamp": "2021/10/15-18:39:17",
+            "id": "hgt8emo",
+            "is_submitter": false,
+            "link_id": "t3_q7u85s",
+            "parent_id": "t3_q7u85s",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hgp7d2o": {
+            "comment": "[removed]",
+            "timeStamp": "2021/10/14-21:08:14",
+            "id": "hgp7d2o",
+            "is_submitter": false,
+            "link_id": "t3_q7u85s",
+            "parent_id": "t3_q7u85s",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hgm3c2b": {
+            "comment": "Popular free software gets monetized with bundled adware.  That's what you're seeing.\n\nAll these tools are essentially snake oil, they provide no benefit, especially on a modern computer in 2021.\n\nMore info regarding detections: https://customer.appesteem.com/deceptors/",
+            "timeStamp": "2021/10/14-07:14:51",
+            "id": "hgm3c2b",
+            "is_submitter": false,
+            "link_id": "t3_q7u85s",
+            "parent_id": "t3_q7u85s",
+            "score": 7,
+            "stickied": false,
+            "author_name": "GuidedHacking"
+        },
+        "hglds4g": {
+            "comment": "I wonder why tho.",
+            "timeStamp": "2021/10/14-03:00:26",
+            "id": "hglds4g",
+            "is_submitter": false,
+            "link_id": "t3_q7u85s",
+            "parent_id": "t3_q7u85s",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RCEdude"
+        },
+        "hglaymp": {
+            "comment": "Me quietly googling 'riskware'",
+            "timeStamp": "2021/10/14-02:17:34",
+            "id": "hglaymp",
+            "is_submitter": false,
+            "link_id": "t3_q7u85s",
+            "parent_id": "t3_q7u85s",
+            "score": 2,
+            "stickied": false,
+            "author_name": "blabbities"
+        }
+    }
+}

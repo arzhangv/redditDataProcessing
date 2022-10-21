@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I'm sorry if this post doesn't fit in this sub, but I'm just looking for info on these malwares I got hit with.\n\n&amp;#x200B;\n\nSo, I got a msg on discord about updating a program I have on my pc, so I downloaded the zip file and I took the new .exe file from that zip file and replaced the old on in my program and ran it. I was stupid and ignored the warnings because I thought it was a false positive which have happened in the past.\n\n&amp;#x200B;\n\nWindows Defender quarantined two files after I ran the exe.\n\n \n\n\tTrojan:Win32/Conteban.B!ml \n\n\tTrojan:Win32/Suloc.l!cl \n\nI have removed those files and further scans with windefender and malwarebytes premium doesn't show any malicious files on my system, so I think/hope I'm good.\n\n&amp;#x200B;\n\nI tried searching for info on google, and I think these might be ransomware but I don't know for sure.\n\nI uploaded the whole zip file to VirusTotal and I got this result: [https://www.virustotal.com/gui/file/66b8b7f71492853cbf34e4ee0d178d6bacff247e1835035817cb40d384b130f3/detection](https://www.virustotal.com/gui/file/66b8b7f71492853cbf34e4ee0d178d6bacff247e1835035817cb40d384b130f3/detection)\n\n&amp;#x200B;\n\nAre there any malware/virus pros here that can give me some further info on these files?\n\nAnd do you think I'm safe now or should I reinstall windows from scratch?\n\n&amp;#x200B;\n\nThank you",
+        "title": "Need some info on these malwares I got hit with",
+        "score": 1,
+        "id": "dzc835",
+        "commsNum": 0,
+        "timeStamp": "2019/11/20-18:04:30",
+        "author_name": "TorchGoblin",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/dzc835/need_some_info_on_these_malwares_i_got_hit_with/"
+    },
+    "posts": {}
+}

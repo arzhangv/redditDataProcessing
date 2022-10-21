@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I was wondering, did these toolbars track every URL you visit from the browser, or just what you typed into the toolbar? I know some extensions can do this (I think some AV extensions actually do it) but I can't really find out whether the most widespread adware toolbar did that as well. \n\nI believe the main purpose of this toolbar was showing ads, but from what I can tell, it may have been based on just the toolbar queries.\n\nCan anybody help me out?\n\n",
+        "title": "Anybody remember those MyWebSearch Toolbars..",
+        "score": 9,
+        "id": "73tdnv",
+        "commsNum": 3,
+        "timeStamp": "2017/10/02-08:15:00",
+        "author_name": "fredfredburger88",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/73tdnv/anybody_remember_those_mywebsearch_toolbars/"
+    },
+    "posts": {
+        "dnt1fah": {
+            "comment": "I assume toolbars would have to, if anything, ask for permission before tracking data (like a Chrome extension does) unless it was doing something outside of the browser.\n\nNot that it could get much from it, other than the website itself, since *hopefully hopefully hopefully* all the websites you use are HTTPS",
+            "timeStamp": "2017/10/02-09:32:28",
+            "id": "dnt1fah",
+            "is_submitter": false,
+            "link_id": "t3_73tdnv",
+            "parent_id": "t3_73tdnv",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Tiraboschi"
+        }
+    }
+}

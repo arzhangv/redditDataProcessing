@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Scam iOS apps found on Apple App Store tricking users to pay over $100 (video)",
+        "score": 1,
+        "id": "a2pl4q",
+        "commsNum": 2,
+        "timeStamp": "2018/12/03-07:21:41",
+        "author_name": "barakadua131",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://twitter.com/LukasStefanko/status/1069585084469121024?s=19"
+    },
+    "posts": {
+        "eb0fmg1": {
+            "comment": "do i see tiktok?",
+            "timeStamp": "2018/12/03-09:43:32",
+            "id": "eb0fmg1",
+            "is_submitter": false,
+            "link_id": "t3_a2pl4q",
+            "parent_id": "t3_a2pl4q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ComBakBarsik"
+        },
+        "eb07c8m": {
+            "comment": "This is not malware related",
+            "timeStamp": "2018/12/03-07:59:58",
+            "id": "eb07c8m",
+            "is_submitter": false,
+            "link_id": "t3_a2pl4q",
+            "parent_id": "t3_a2pl4q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "edward_snowedin"
+        }
+    }
+}

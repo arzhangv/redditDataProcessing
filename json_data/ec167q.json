@@ -1,0 +1,143 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "My mom went ahead and installed uTorrent (even thougth i explained her the risks). Now we are infected by this virus. I don't see any payloads yet, and the antivirus has detected 3 copys of ths virus.\nPLEASE HELP ME!!!!!!!!!!",
+        "title": "Trojan:VBS/Vigorf.A",
+        "score": 1,
+        "id": "ec167q",
+        "commsNum": 11,
+        "timeStamp": "2019/12/17-12:10:44",
+        "author_name": "Rubiktor012",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 11,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ec167q/trojanvbsvigorfa/"
+    },
+    "posts": {
+        "fbu2qy9": {
+            "comment": "[removed]",
+            "timeStamp": "2019/12/23-05:04:51",
+            "id": "fbu2qy9",
+            "is_submitter": false,
+            "link_id": "t3_ec167q",
+            "parent_id": "t1_fb8p7a9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fbu2crm": {
+            "comment": "[removed]",
+            "timeStamp": "2019/12/23-04:59:57",
+            "id": "fbu2crm",
+            "is_submitter": false,
+            "link_id": "t3_ec167q",
+            "parent_id": "t3_ec167q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fbhyzr2": {
+            "comment": "[removed]",
+            "timeStamp": "2019/12/20-15:55:06",
+            "id": "fbhyzr2",
+            "is_submitter": false,
+            "link_id": "t3_ec167q",
+            "parent_id": "t3_ec167q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fbakoxg": {
+            "comment": "[removed]",
+            "timeStamp": "2019/12/18-06:50:44",
+            "id": "fbakoxg",
+            "is_submitter": false,
+            "link_id": "t3_ec167q",
+            "parent_id": "t3_ec167q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fba8uua": {
+            "comment": "try to use system restore point if you have one\n\nif not just boot the computer into safe mode and try to remove the trojan using an antivirus",
+            "timeStamp": "2019/12/18-03:56:39",
+            "id": "fba8uua",
+            "is_submitter": false,
+            "link_id": "t3_ec167q",
+            "parent_id": "t1_fb8y9s6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "NikolaiMihovYT"
+        },
+        "fb8y9s6": {
+            "comment": "Windows 10",
+            "timeStamp": "2019/12/17-15:18:28",
+            "id": "fb8y9s6",
+            "is_submitter": true,
+            "link_id": "t3_ec167q",
+            "parent_id": "t1_fb8xcua",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Rubiktor012"
+        },
+        "fb8xcua": {
+            "comment": "What OS do you use?",
+            "timeStamp": "2019/12/17-15:07:59",
+            "id": "fb8xcua",
+            "is_submitter": false,
+            "link_id": "t3_ec167q",
+            "parent_id": "t1_fb8w7ps",
+            "score": 1,
+            "stickied": false,
+            "author_name": "NikolaiMihovYT"
+        },
+        "fb8w7ps": {
+            "comment": "I got it from torrent movies downloaded from don torrent.\n\nAlso mrt does not seem to exist on my PC",
+            "timeStamp": "2019/12/17-14:55:04",
+            "id": "fb8w7ps",
+            "is_submitter": true,
+            "link_id": "t3_ec167q",
+            "parent_id": "t1_fb8vex3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Rubiktor012"
+        },
+        "fb8vex3": {
+            "comment": "did you gt the virus from a torrent or from uTorrent itself?",
+            "timeStamp": "2019/12/17-14:46:18",
+            "id": "fb8vex3",
+            "is_submitter": false,
+            "link_id": "t3_ec167q",
+            "parent_id": "t3_ec167q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "NikolaiMihovYT"
+        },
+        "fb8p7a9": {
+            "comment": "give a try to antimalwares byte",
+            "timeStamp": "2019/12/17-13:39:09",
+            "id": "fb8p7a9",
+            "is_submitter": false,
+            "link_id": "t3_ec167q",
+            "parent_id": "t3_ec167q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "muniategui"
+        },
+        "fb8iz87": {
+            "comment": "r/techsupport might be better for solving this",
+            "timeStamp": "2019/12/17-12:36:06",
+            "id": "fb8iz87",
+            "is_submitter": false,
+            "link_id": "t3_ec167q",
+            "parent_id": "t3_ec167q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Schnitzel725"
+        }
+    }
+}

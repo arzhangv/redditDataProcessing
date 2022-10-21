@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hey so I setup several dionaea honeypots and they're probably at a couple mil detections now. I see that a majority of the attacks are Wannacry. I find that interesting. It goes after port 445 smb to spread itself. My question is why am I getting so many attacks on port 1433(sql)? I haven't captured anything that is targeting port 1433. The only thing I could find was this article about some sqlsnake worm from 2002?",
+        "title": "Dionaea Honeypot capturing mostly Wannacry still and a lot of attacks on port 1433",
+        "score": 1,
+        "id": "dw4vm2",
+        "commsNum": 1,
+        "timeStamp": "2019/11/13-21:32:01",
+        "author_name": "Ziggy__Pop",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/dw4vm2/dionaea_honeypot_capturing_mostly_wannacry_still/"
+    },
+    "posts": {
+        "f7h2p4n": {
+            "comment": "My guess is that it probably isn't some type of malware that is attacking that SQL port, but rather vulnerability scans by adversaries looking for targets of opportunity.\n\nThey may not have some type of automated way of exploiting a SQL vulnerability in deploying malware, but they're scanning may inform them of potential opportunities to build an attack.",
+            "timeStamp": "2019/11/14-03:20:26",
+            "id": "f7h2p4n",
+            "is_submitter": false,
+            "link_id": "t3_dw4vm2",
+            "parent_id": "t3_dw4vm2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "FusionCarcass"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I'm looking for visually interesting samples to my YT series. Is there a way to find public ones ? In repos can be difficult to search this. Got some on git, enderman, siam alam. Like Memz, Monoxide, jokes.. you know what I mean?",
+        "title": "Samples (GDI, visually interesting)",
+        "score": 1,
+        "id": "ubclxt",
+        "commsNum": 0,
+        "timeStamp": "2022/04/24-21:21:36",
+        "author_name": "tlzr",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ubclxt/samples_gdi_visually_interesting/"
+    },
+    "posts": {
+        "i63mwan": {
+            "comment": "What\u2019s your YouTube series? I don\u2019t have any of those as most of my collection is APT written malware. But I\u2019d love to watch my guy",
+            "timeStamp": "2022/04/24-23:42:45",
+            "id": "i63mwan",
+            "is_submitter": false,
+            "link_id": "t3_ubclxt",
+            "parent_id": "t3_ubclxt",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Herr4chan"
+        }
+    }
+}

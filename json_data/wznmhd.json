@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "When I went to shut down my computer today, I noticed this process known as \"watchthread.exe\" was preventing my computer from shutting down. I ran a Norton Scan and nothing came up. I haven't been able to find a file called \"watchthread.exe\" anywhere on my PC, nor did it appear within Task Manager. Is this some sort of spyware? Is it dangerous? What should I do to remove it?",
+        "title": "HELP: Unknown Process Preventing Shutdown- watchthread.exe",
+        "score": 1,
+        "id": "wznmhd",
+        "commsNum": 0,
+        "timeStamp": "2022/08/27-22:34:25",
+        "author_name": "simplyafool",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://i.redd.it/dh3uptn75ek91.jpg"
+    },
+    "posts": {}
+}

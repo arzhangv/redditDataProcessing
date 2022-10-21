@@ -1,0 +1,231 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "So I downloaded this crack software on a Virtual Machine to test it for malware first.\n\n1. Scanned the exe files with Malwarebytes, Windows defender and Virustotal, no virus found.\n\n2. Scanned the installed files in C/Program Files/ with Malwarebytes and Windows Defender, no virus found\n\n3. Did a full scan with Malwarebytes and Windows Defender, no Virus found\n\n4. Scanned the running apps with process explorer, no virus on virustotal.\n\n&amp;#x200B;\n\nCan I assume the crack is safe ? And install it on my main computer ? Considering I have credit cards and tonnes of password stored ?\n\n&amp;#x200B;\n\nThe crack is basically from 2019.\n\n&amp;#x200B;\n\nIs it still possible that there is a virus in these files ?",
+        "title": "\"Crack Software\"",
+        "score": 1,
+        "id": "ud92i1",
+        "commsNum": 0,
+        "timeStamp": "2022/04/27-10:32:46",
+        "author_name": "Glass_Sugar_4020",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ud92i1/crack_software/"
+    },
+    "posts": {
+        "i6nc4oh": {
+            "comment": "tried uniextractor, didnt work  \n'cant determine file type'",
+            "timeStamp": "2022/04/29-03:07:11",
+            "id": "i6nc4oh",
+            "is_submitter": true,
+            "link_id": "t3_ud92i1",
+            "parent_id": "t1_i6nbd8v",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Glass_Sugar_4020"
+        },
+        "i6nbd8v": {
+            "comment": "I agree, I always look for cracks which either provide an 'activation key' where I can just use the program offline with that offline key.  \nOr they provide like a text file, instruct to save it as .bat and run it.\n\nThis crack, activator.exe simply copied 2 files - vegas.exe and protien.dll, 2 files needed to run vegas in c/program files/vegas and  replaces them with original ones.\n\nIt would be much better if the creator of this crack had provided these files only rather than 'activator.exe, but well, I had no choice.\n\nAnyhow, I will personally send those files to whosoever wants the crack instead of sending them activator.exe. Also, will try to do that uniextract thing",
+            "timeStamp": "2022/04/29-02:56:55",
+            "id": "i6nbd8v",
+            "is_submitter": true,
+            "link_id": "t3_ud92i1",
+            "parent_id": "t1_i6n8k7y",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Glass_Sugar_4020"
+        },
+        "i6n8k7y": {
+            "comment": "1. Thats a good thing.\n\n2. (3 too) 5/10 malicious indicators for both. The malware could have detected the sandbox and stopped his actions. Also legitimate programs can trigger \"malicious indicators\".\n\n4. Again, it all depends which domain. And some sandbox basically lists ALL the domains contacted while the program is executed which of course leads to \n\n5. Malware doesnt need to drop exe/dll  files to execute them. Thats the easy way, not the only way. \n\n6. Well if you are at peace its fine.\n\nYou asked questions.\n\n&gt; Can I assume the crack is safe ? And install it on my main computer ? Considering I have credit cards and tonnes of password stored ?\n&gt; The crack is basically from 2019.\n\u200b&gt; Is it still possible that there is a virus in these files ?\n\nAny serious IT guy would tell would that there are indicators its safe, others that are grey, others that are neutral, but will NEVER tell it is 100% safe without checking it by itself. Its seems to want to be sure and thats the problem.\n\nMaybe you are not satisfied with this answer and i am sorry but id rather tell people to be careful and consider this a threat rather than telling people its safe and getting in infected. We all need to be humble in this domain, especially without the sample file.",
+            "timeStamp": "2022/04/29-02:16:32",
+            "id": "i6n8k7y",
+            "is_submitter": false,
+            "link_id": "t3_ud92i1",
+            "parent_id": "t1_i6jl353",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RCEdude"
+        },
+        "i6jl353": {
+            "comment": "1. I basically scanned all exe files using VT, 0/67.\n2. But sandbox analysis on Hybrid-Analysis showed 5/10 malicious indicators.\n3. Then I downloaded the original exe from the authorised vendor . Scanned them in a sandbox. Same. 5/10 malicious indicators. But it was 'whitelisted' as it was signed.\n4. I saw on VT that the files are contacting one domain outside, so I blocked all inbound and outbound connections using firewall.\n5. I checked the 'dropped files' when I ran those cracks on VT and Hybrid-Analysis. All files seemed ok, what the non crack version would drop.\n6. Once I was done with all this, I installed in on my pc with peace of mind.  \n\n\nAnyhow, here are the VT Links :-  \n1. [https://www.virustotal.com/gui/file/7ce177aeba320e78a607601cc2964fcded4a68844e2a01b6b5a7eeec93617629](https://www.virustotal.com/gui/file/7ce177aeba320e78a607601cc2964fcded4a68844e2a01b6b5a7eeec93617629)\n\n2. [https://www.virustotal.com/gui/file/0bd0c21cd425cf48aa8545f90281bc626a34047b3e13587fe1d43ec566238375](https://www.virustotal.com/gui/file/0bd0c21cd425cf48aa8545f90281bc626a34047b3e13587fe1d43ec566238375)",
+            "timeStamp": "2022/04/28-08:24:24",
+            "id": "i6jl353",
+            "is_submitter": true,
+            "link_id": "t3_ud92i1",
+            "parent_id": "t1_i6iwmgp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Glass_Sugar_4020"
+        },
+        "i6j7x7c": {
+            "comment": "I am the luckiest person on earth then.",
+            "timeStamp": "2022/04/28-06:52:39",
+            "id": "i6j7x7c",
+            "is_submitter": false,
+            "link_id": "t3_ud92i1",
+            "parent_id": "t1_i6j23z5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "plmaks"
+        },
+        "i6j23z5": {
+            "comment": "You got lucky.",
+            "timeStamp": "2022/04/28-06:08:36",
+            "id": "i6j23z5",
+            "is_submitter": false,
+            "link_id": "t3_ud92i1",
+            "parent_id": "t1_i6ir8y7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Tananar"
+        },
+        "i6iwmgp": {
+            "comment": "&gt; I want to know, do I still need to worry ?\n\nYes. Antiviruses are giving informations, not answers.\n\n&gt; these are widely used crack softwares. probably by millions\n\nAnd they are millions users trapped in botnets too, millions of users getting their login and password stolen, etc.. Fake cracks cheats and hacking tools are the way they get screwed you know. Btw, ever heard of russian puppets? You know that a program can launch another program? \nThe virus can launch the real crack and do its shit , and you think nothing is wrong.\n\n&gt; is it still possible for them to have a virus which didnt get detected ?\n\nExactly. Antiviruses are giving informations, not answers.\n\nYou need to know some things : \n\n\n1) AVs can be right or wrong. False positive, False negative, etc.. In the end, YOU DECIDE. \n\n2) Viruses actions can be stealth and delayed.\n\n3) There is NO WAY to tell if file is 100% safe without checking it properly and manually. Therefore as specialists they CANT TELL YOU its safe that would be unprofessional and dangerous. \n\nWhat do we have here? Not a VT scan link, not a file link, not a file hash, nothing for us to see :)",
+            "timeStamp": "2022/04/28-05:21:54",
+            "id": "i6iwmgp",
+            "is_submitter": false,
+            "link_id": "t3_ud92i1",
+            "parent_id": "t1_i6fi016",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RCEdude"
+        },
+        "i6ir8y7": {
+            "comment": "How did my computer not explode yet then?",
+            "timeStamp": "2022/04/28-04:29:21",
+            "id": "i6ir8y7",
+            "is_submitter": false,
+            "link_id": "t3_ud92i1",
+            "parent_id": "t1_i6ffbbc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "plmaks"
+        },
+        "i6g4vk3": {
+            "comment": "Debug it one cpu instruction at a time. Or run it through multiple dynamic sandboxes.",
+            "timeStamp": "2022/04/27-13:36:04",
+            "id": "i6g4vk3",
+            "is_submitter": false,
+            "link_id": "t3_ud92i1",
+            "parent_id": "t1_i6fenzn",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Tear-Sensitive"
+        },
+        "i6fx755": {
+            "comment": "12",
+            "timeStamp": "2022/04/27-12:46:41",
+            "id": "i6fx755",
+            "is_submitter": false,
+            "link_id": "t3_ud92i1",
+            "parent_id": "t1_i6fenzn",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Krombuchar2"
+        },
+        "i6fo49a": {
+            "comment": "One other note in reference to the comment that millions use cracks.\n\nYou are correct.  And there are tens of millions of systems that are participating in botnets.  They come from somewhere...",
+            "timeStamp": "2022/04/27-11:46:37",
+            "id": "i6fo49a",
+            "is_submitter": false,
+            "link_id": "t3_ud92i1",
+            "parent_id": "t1_i6fi016",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Brwdr"
+        },
+        "i6fnraq": {
+            "comment": "\\^\\^\\^THIS\\^\\^\\^\n\nI carefully read everything you posted.  I would not proceed.\n\nThe a/v solutions rely on signatures of known malware/virus.  A known malware/virus can be trivially altered and avoid the signature.  There are also methods of obfuscation that range from trivial (base64) to complicated (full encryption, split payload, etc) to avoid known signatures.  There are also malware/virus types that can detect a known sandbox (control VM that prevents malware/virus from escaping) condition and will not unload the package if they detect a sandbox.  The malware/virus would then work quite well on a regular system.\n\nYou're getting good advice.  What you are considering doing, to save some money, is very risky.  If you really do have financial information and credentials on your systems, I strong advise, with sincere concern, that you not run the executable on your personal systems.\n\nThis advice could be entirely incorrect.\n\nBut I doubt it.",
+            "timeStamp": "2022/04/27-11:44:17",
+            "id": "i6fnraq",
+            "is_submitter": false,
+            "link_id": "t3_ud92i1",
+            "parent_id": "t1_i6fkn1u",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Brwdr"
+        },
+        "i6fkn1u": {
+            "comment": "The decision can only be made by you, if you wish to risk all of the files and personal information on your device and possibly networked devices as well, then go ahead and install it, only then will you know whether or not it was worth the price of the software and supporting the developers or not",
+            "timeStamp": "2022/04/27-11:23:31",
+            "id": "i6fkn1u",
+            "is_submitter": false,
+            "link_id": "t3_ud92i1",
+            "parent_id": "t1_i6fi016",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ResearchOp"
+        },
+        "i6fi016": {
+            "comment": "man, did you even read my post\n\nmultiple antivirus showed that the files are okay\n\nI want to know, do I still need to worry ?\n\nthese are widely used crack softwares. probably by millions\n\nis it still possible for them to have a virus which didnt get detected ?",
+            "timeStamp": "2022/04/27-11:05:51",
+            "id": "i6fi016",
+            "is_submitter": true,
+            "link_id": "t3_ud92i1",
+            "parent_id": "t1_i6fg8zu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Glass_Sugar_4020"
+        },
+        "i6fg8zu": {
+            "comment": "No.  If the VM is compromised the local firewall should be assumed to be compromised.  If the host server is compromised by the malware, it's firewall should also be assumed to be compromised.",
+            "timeStamp": "2022/04/27-10:54:05",
+            "id": "i6fg8zu",
+            "is_submitter": false,
+            "link_id": "t3_ud92i1",
+            "parent_id": "t1_i6ffo0z",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Brwdr"
+        },
+        "i6ffo0z": {
+            "comment": "is windows firewall enough ?",
+            "timeStamp": "2022/04/27-10:50:14",
+            "id": "i6ffo0z",
+            "is_submitter": true,
+            "link_id": "t3_ud92i1",
+            "parent_id": "t1_i6ffbbc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Glass_Sugar_4020"
+        },
+        "i6ffbbc": {
+            "comment": "No.  You should never put an executable such as this on a computer with any value.  Never.\n\nYou need to know what you are doing if this is just curiosity.  Btw, license crack tools are problematic.  If this is research, so be it.  But other uses are not professional.\n\nThe host server for the VM's must be disposable (you are prepared to wipe it immediately) and segmented away from any other system/device.  Block outbound traffic from the host server.  Have a way to watch for packets from the host server and VM.  Or just put it all on another network that is connected to nothing, including the internet.  Though some malware will stay dormant until able to connect outbound.\n\nAdministratively deactivate the network interface on the VM, not within the OS, leave that on in case the payload is checking for network interfaces.  Run the .exe and see what happens and if a malware package detonates.  Do not assume all is well if you do not see anything immediately, some malware have a delay before becoming active.  You need to be able to watch for file changes on the VM and know how to investigate changes to those files, including when a file is added to, not just replacements, to know what is going on.  If that sounds complicated, you're not prepared to do this.\n\nAgain, never put something like this on a computer that has value or access to anything you value.  Ever.",
+            "timeStamp": "2022/04/27-10:47:51",
+            "id": "i6ffbbc",
+            "is_submitter": false,
+            "link_id": "t3_ud92i1",
+            "parent_id": "t3_ud92i1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Brwdr"
+        },
+        "i6fenzn": {
+            "comment": "what are the possibilities that it may still have virus ?",
+            "timeStamp": "2022/04/27-10:43:29",
+            "id": "i6fenzn",
+            "is_submitter": true,
+            "link_id": "t3_ud92i1",
+            "parent_id": "t1_i6fdhf2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Glass_Sugar_4020"
+        },
+        "i6fdhf2": {
+            "comment": "Dont assume that its safe just because the antivirus havent shown anything.",
+            "timeStamp": "2022/04/27-10:35:41",
+            "id": "i6fdhf2",
+            "is_submitter": false,
+            "link_id": "t3_ud92i1",
+            "parent_id": "t3_ud92i1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "meIsPri11"
+        }
+    }
+}

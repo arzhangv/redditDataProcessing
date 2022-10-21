@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "'MagicWeb' Malware Subverts AD FS Authentication, Microsoft Warns.",
+        "score": 1,
+        "id": "wx2rlv",
+        "commsNum": 0,
+        "timeStamp": "2022/08/24-19:59:18",
+        "author_name": "Glad_Living3908",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.darkreading.com/threat-intelligence/efficient-magicweb-malware-subverts-ad-fs-authentication-microsoft"
+    },
+    "posts": {}
+}

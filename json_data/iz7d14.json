@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "This kinda shocked me when I found out. Of-course that by definition this is how NAT acts, but for some reason I was certain that virtualization solutions prevents guests from accessing the host's network directly.\n\nOf course this can have devastating effects if you're  testing a sample on a VM and you think you're good, and it turns out it infected your entire network (don't test samples when connected to important networks is another mitigation).\n\nWrote a short article on how to disable it on Windows:\n\n[https://medium.com/@tom.gonda/preventing-vmware-guest-from-snooping-on-your-network-399977ff2c1e](https://medium.com/@tom.gonda/preventing-vmware-guest-from-snooping-on-your-network-399977ff2c1e)",
+        "title": "Just found out VMWare Workstation guests with NAT likely have the same access to the internal network as the host",
+        "score": 1,
+        "id": "iz7d14",
+        "commsNum": 0,
+        "timeStamp": "2020/09/24-15:29:09",
+        "author_name": "networksciencegg",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/iz7d14/just_found_out_vmware_workstation_guests_with_nat/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,165 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hey,\nI found a \"legit\" Service which installs malware, which sells loads to other users, its a botshop.\nI found his Logging Server, and his website where he promotes his malware as tool.\nI also stole all his install logs, so I have a pretty good overview.\nCan someone help me, my goal is it, to find the request call (i found his server were all .php files are, some are named connect, the next one install and so on so these are the apis) which gives me the malware, what I should install. I want to steal as many as possible binareis that should be installed on me, to send to malware labs and make them detected..\n",
+        "title": "Needing some help, found major Virus Distributor",
+        "score": 7,
+        "id": "6tlzba",
+        "commsNum": 11,
+        "timeStamp": "2017/08/14-05:09:06",
+        "author_name": "Lalaschlumpf",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 11,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6tlzba/needing_some_help_found_major_virus_distributor/"
+    },
+    "posts": {
+        "dm8mtrx": {
+            "comment": "Its detected already, but the site is for Windows Trial Removers, so the users turn off their AV.\n",
+            "timeStamp": "2017/08/28-09:09:46",
+            "id": "dm8mtrx",
+            "is_submitter": true,
+            "link_id": "t3_6tlzba",
+            "parent_id": "t1_dlloim5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Lalaschlumpf"
+        },
+        "dm5kn94": {
+            "comment": "I know I'm 'a bit' late, but Xylitol (Xylibox) also does this kind of stuff.",
+            "timeStamp": "2017/08/26-08:17:04",
+            "id": "dm5kn94",
+            "is_submitter": false,
+            "link_id": "t3_6tlzba",
+            "parent_id": "t1_dlp79go",
+            "score": 1,
+            "stickied": false,
+            "author_name": "hakannel"
+        },
+        "dlwn0mj": {
+            "comment": "Can you PM me the site? Really interested in how he did it. THX",
+            "timeStamp": "2017/08/20-18:52:18",
+            "id": "dlwn0mj",
+            "is_submitter": false,
+            "link_id": "t3_6tlzba",
+            "parent_id": "t3_6tlzba",
+            "score": 1,
+            "stickied": false,
+            "author_name": "CKkio23"
+        },
+        "dlp7dsj": {
+            "comment": "[deleted]",
+            "timeStamp": "2017/08/16-05:51:11",
+            "id": "dlp7dsj",
+            "is_submitter": false,
+            "link_id": "t3_6tlzba",
+            "parent_id": "t1_dlp0wzw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "dlp79go": {
+            "comment": "MMxD! No but his work was awesome! I don't believe he ever took stuff down but his posts on his blog were absolute fantastic! Too bad he's not around anymore :(\n\nThanks for the suggestion though!",
+            "timeStamp": "2017/08/16-05:48:16",
+            "id": "dlp79go",
+            "is_submitter": false,
+            "link_id": "t3_6tlzba",
+            "parent_id": "t1_dlp0wzw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "lrgame1983"
+        },
+        "dlp0wzw": {
+            "comment": "malwaremustdie?",
+            "timeStamp": "2017/08/16-02:00:55",
+            "id": "dlp0wzw",
+            "is_submitter": false,
+            "link_id": "t3_6tlzba",
+            "parent_id": "t1_dln5v1f",
+            "score": 1,
+            "stickied": false,
+            "author_name": "bigbottlequorn"
+        },
+        "dln5v1f": {
+            "comment": "Thanks for your suggestion, these are less known, I've looked it up but can't find it anymore :( ",
+            "timeStamp": "2017/08/14-23:32:17",
+            "id": "dln5v1f",
+            "is_submitter": false,
+            "link_id": "t3_6tlzba",
+            "parent_id": "t1_dlmjg0g",
+            "score": 2,
+            "stickied": false,
+            "author_name": "lrgame1983"
+        },
+        "dlmjg0g": {
+            "comment": "Krebs, Malwarebytes, wordfence?",
+            "timeStamp": "2017/08/14-15:05:07",
+            "id": "dlmjg0g",
+            "is_submitter": false,
+            "link_id": "t3_6tlzba",
+            "parent_id": "t1_dllvliq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Lucifirius"
+        },
+        "dllvliq": {
+            "comment": "There's this team somewhere actively sabotaging and taking down bots, I can't remember their name however :( maybe someone else knows here? I bet they would love to play with him.",
+            "timeStamp": "2017/08/14-08:09:57",
+            "id": "dllvliq",
+            "is_submitter": false,
+            "link_id": "t3_6tlzba",
+            "parent_id": "t3_6tlzba",
+            "score": 4,
+            "stickied": false,
+            "author_name": "lrgame1983"
+        },
+        "dllqbq0": {
+            "comment": "As said below/above/somewhere, use virustotal, malwr.com, etc. Ensure that for sites like malwr, it's setup to allow sample sharing!\n\nAlso submit it to Symantec via their malicious submission tool, and the same with others! \n\nThese are the quickest and most powerful ways to get all the AV companies aware and blocking it! \n",
+            "timeStamp": "2017/08/14-06:24:16",
+            "id": "dllqbq0",
+            "is_submitter": false,
+            "link_id": "t3_6tlzba",
+            "parent_id": "t3_6tlzba",
+            "score": 4,
+            "stickied": false,
+            "author_name": "Sam-Gunn"
+        },
+        "dllq70v": {
+            "comment": "Spread out activity over a week or so, depending on username.",
+            "timeStamp": "2017/08/14-06:21:15",
+            "id": "dllq70v",
+            "is_submitter": false,
+            "link_id": "t3_6tlzba",
+            "parent_id": "t3_6tlzba",
+            "score": 2,
+            "stickied": false,
+            "author_name": "nullableVoidPtr"
+        },
+        "dllopx0": {
+            "comment": "Welcooooome to the botshop! ",
+            "timeStamp": "2017/08/14-05:44:17",
+            "id": "dllopx0",
+            "is_submitter": false,
+            "link_id": "t3_6tlzba",
+            "parent_id": "t3_6tlzba",
+            "score": 2,
+            "stickied": false,
+            "author_name": "chefjl"
+        },
+        "dlloim5": {
+            "comment": "Just scan them all with VirusTotal.",
+            "timeStamp": "2017/08/14-05:38:43",
+            "id": "dlloim5",
+            "is_submitter": false,
+            "link_id": "t3_6tlzba",
+            "parent_id": "t3_6tlzba",
+            "score": 6,
+            "stickied": false,
+            "author_name": "chrispy9658"
+        }
+    }
+}

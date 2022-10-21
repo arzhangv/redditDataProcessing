@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "For some reason every time I click on a link in reddit, it opens to a new tab. I dont remember it doing that before. Some web pages goes back to a previous page some times aswell. My task bar sometimes does not function at all. I'm pretty sure I have a virus or something. I ran Avast, Malwarebyte, and windows defender and nothing came up. I'm a little worried. ",
+        "title": "Links open in new tab",
+        "score": 1,
+        "id": "a55lmk",
+        "commsNum": 2,
+        "timeStamp": "2018/12/11-02:13:57",
+        "author_name": "Tommytoonss",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/a55lmk/links_open_in_new_tab/"
+    },
+    "posts": {
+        "ebk3v2t": {
+            "comment": "Yes. Your machine has been comprised and the attacker is now opening new tabs when you click links on reddit! Becarefull tho he might delete your bank account! I would suggest you download wcry anti virus asap! Stay safe internet friend!",
+            "timeStamp": "2018/12/11-04:14:29",
+            "id": "ebk3v2t",
+            "is_submitter": false,
+            "link_id": "t3_a55lmk",
+            "parent_id": "t3_a55lmk",
+            "score": 2,
+            "stickied": false,
+            "author_name": "americaneagle98"
+        },
+        "ebk3thc": {
+            "comment": "[deleted]",
+            "timeStamp": "2018/12/11-04:13:23",
+            "id": "ebk3thc",
+            "is_submitter": false,
+            "link_id": "t3_a55lmk",
+            "parent_id": "t3_a55lmk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

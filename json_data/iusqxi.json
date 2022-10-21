@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Do I have a virus on my tablet?? I've *never* seen this popup before.",
+        "score": 1,
+        "id": "iusqxi",
+        "commsNum": 4,
+        "timeStamp": "2020/09/17-14:23:21",
+        "author_name": "MemeSkeleton666",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://i.redd.it/z25ntyn8zrn51.jpg"
+    },
+    "posts": {
+        "g5trnol": {
+            "comment": "lmfao",
+            "timeStamp": "2020/09/19-08:42:30",
+            "id": "g5trnol",
+            "is_submitter": true,
+            "link_id": "t3_iusqxi",
+            "parent_id": "t1_g5r65zw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MemeSkeleton666"
+        },
+        "g5r65zw": {
+            "comment": "Yes you do this is hitlers Nazi hacker warlord trying to get you to donate to a Nigerian prince to fund the nazis in the Afrika Korps.  Just close the window and you\u2019ll be fine...probably",
+            "timeStamp": "2020/09/18-16:01:00",
+            "id": "g5r65zw",
+            "is_submitter": false,
+            "link_id": "t3_iusqxi",
+            "parent_id": "t3_iusqxi",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Green_Bullet"
+        },
+        "g5mvqiv": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2020/09/17-14:23:21",
+            "id": "g5mvqiv",
+            "is_submitter": false,
+            "link_id": "t3_iusqxi",
+            "parent_id": "t3_iusqxi",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hi everybody.\n\nJust published a repo containing search engines and online services useful for pentesting, general security, red team, bug bounty etc..\n\nThis is the link: [https://github.com/edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines)",
+        "title": "Awesome Hacker Search Engines",
+        "score": 1,
+        "id": "vlrvsp",
+        "commsNum": 0,
+        "timeStamp": "2022/06/27-02:56:26",
+        "author_name": "edoardottt",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/vlrvsp/awesome_hacker_search_engines/"
+    },
+    "posts": {
+        "idyld1f": {
+            "comment": "my pleasure :)",
+            "timeStamp": "2022/06/27-11:31:03",
+            "id": "idyld1f",
+            "is_submitter": true,
+            "link_id": "t3_vlrvsp",
+            "parent_id": "t1_idy0bkb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "edoardottt"
+        },
+        "idy0bkb": {
+            "comment": "You're a superstar, thanks!",
+            "timeStamp": "2022/06/27-09:11:20",
+            "id": "idy0bkb",
+            "is_submitter": false,
+            "link_id": "t3_vlrvsp",
+            "parent_id": "t3_vlrvsp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "well50z"
+        },
+        "idx3mot": {
+            "comment": "[removed]",
+            "timeStamp": "2022/06/27-04:55:04",
+            "id": "idx3mot",
+            "is_submitter": false,
+            "link_id": "t3_vlrvsp",
+            "parent_id": "t3_vlrvsp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Fileless Command Lines",
+        "score": 1,
+        "id": "9xjquf",
+        "commsNum": 0,
+        "timeStamp": "2018/11/15-22:40:34",
+        "author_name": "0x52617669",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://github.com/chenerlich/FCL"
+    },
+    "posts": {}
+}

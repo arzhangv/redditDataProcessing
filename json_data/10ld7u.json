@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Do we have usermode/kernelmode hook detectors for Windows 8 like GMER?&lt;br /&gt;\nI know Process Hacker works in Win8 but it has no Hook info.",
+        "title": "Hook detector for windows 8? (32-bit and/or 64-bit)",
+        "score": 5,
+        "id": "10ld7u",
+        "commsNum": 17,
+        "timeStamp": "2012/09/27-17:27:09",
+        "author_name": "blahsphemer",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 17,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/10ld7u/hook_detector_for_windows_8_32bit_andor_64bit/"
+    },
+    "posts": {}
+}

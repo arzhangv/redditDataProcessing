@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "File Triage using Function Imports",
+        "score": 1,
+        "id": "e42u57",
+        "commsNum": 2,
+        "timeStamp": "2019/11/30-12:26:02",
+        "author_name": "FusionCarcass",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://practicalsecurityanalytics.com/threat-hunting-with-function-imports/"
+    },
+    "posts": {
+        "f9canda": {
+            "comment": "Thanks! Let me know if there is anything I can do to improve the posts.\n\nI wish I had more data to look at. One of my limitations is that my data sources are limited to VirusShare, MalShare, HybridAnalysis, and a few others which means my dataset mainly represents malware that is easier to get samples of. I'd love to see stats like this from VirusTotal.",
+            "timeStamp": "2019/12/01-09:27:06",
+            "id": "f9canda",
+            "is_submitter": true,
+            "link_id": "t3_e42u57",
+            "parent_id": "t1_f99rpte",
+            "score": 1,
+            "stickied": false,
+            "author_name": "FusionCarcass"
+        },
+        "f99rpte": {
+            "comment": "I've been waiting for this.\n\nGreat series, keep it up.",
+            "timeStamp": "2019/12/01-01:59:39",
+            "id": "f99rpte",
+            "is_submitter": false,
+            "link_id": "t3_e42u57",
+            "parent_id": "t3_e42u57",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mk1706"
+        }
+    }
+}

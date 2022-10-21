@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Hello, does anyone know what this js script might be doing?",
+        "score": 1,
+        "id": "hu5ph4",
+        "commsNum": 4,
+        "timeStamp": "2020/07/19-11:48:09",
+        "author_name": "strange_fate",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://i.redd.it/z6dp3q5x0vb51.png"
+    },
+    "posts": {
+        "fyl02vc": {
+            "comment": "Here is a generated report https://www.joesandbox.com/analysis/98217/0/html\n\nhttps://any.run/report/8299b6bccaa6444a64153cb096f027f1217cdbc434adad97e2211d86ad5eaba8/77858656-d0f5-4aec-91ed-8be51453ca75\n\nI am looking at a site that is probably hacked and this script clears the console after it runs.",
+            "timeStamp": "2020/07/19-11:51:13",
+            "id": "fyl02vc",
+            "is_submitter": true,
+            "link_id": "t3_hu5ph4",
+            "parent_id": "t3_hu5ph4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "strange_fate"
+        },
+        "fykzq4f": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2020/07/19-11:48:10",
+            "id": "fykzq4f",
+            "is_submitter": false,
+            "link_id": "t3_hu5ph4",
+            "parent_id": "t3_hu5ph4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

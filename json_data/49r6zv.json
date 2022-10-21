@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Perp - http://www.tuneupmedia.com/ - because they deliberately include a PUP for reasons that one can only guess at.\n\nNote: I've received a support email, on complaining, that I consented to the browser extensions, the change of homepage(s) change of search engine(s)* as I upgraded/installed my TuneUp.\n\nTo kill the PUP pieces:\n\n1. In terminal ... rm -rf ~/Library/Application\\ Support/Spigot\n2. rm -rf ~/Library/LaunchAgents/com.spigot.*\n3. rm -rf ~/Library/Caches/com.spigot.*\n4. Work through the browsers extensions (delete the ones you know nothing about).\n5. In browsers again, change home page back\n6. In browser again, change search engine, and deleted a \"Yahoo\" one that isn't official and adds a affiliate/refer ID (that allows them to have commissions?).\n\n'Malware Removal Guides' says this is a [PUP](https://en.wikipedia.org/wiki/Potentially_unwanted_program) - http://www.malwareremovalguides.info/spigot-pup-optional-spigot-removal-guide/\n\nAvira AV (free) only detected ~Library/Application Support/Spigot/ApplicationManager on the second scan for some reason.  In installed Avira a day after the TuneUp install, when I first noticed the Yahoo search engine.\n",
+        "title": "TuneUp (iTunes sidebar) installs PUP things from 'Spigot'. Browser extensions (Chrome, FF, Safari), and an Application that keeps running. [Mac]",
+        "score": 3,
+        "id": "49r6zv",
+        "commsNum": 0,
+        "timeStamp": "2016/03/09-17:05:17",
+        "author_name": "paul_h",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/49r6zv/tuneup_itunes_sidebar_installs_pup_things_from/"
+    },
+    "posts": {}
+}

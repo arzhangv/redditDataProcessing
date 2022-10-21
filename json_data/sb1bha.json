@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "BlackCat Ransomware | Highly-Configurable, Rust-Driven RaaS On The Prowl For Victims",
+        "score": 1,
+        "id": "sb1bha",
+        "commsNum": 0,
+        "timeStamp": "2022/01/23-11:14:55",
+        "author_name": "malware_bender",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.sentinelone.com/labs/blackcat-ransomware-highly-configurable-rust-driven-raas-on-the-prowl-for-victims/"
+    },
+    "posts": {}
+}

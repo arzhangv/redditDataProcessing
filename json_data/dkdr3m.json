@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Smart Tips for Computer Malware Prevention",
+        "score": 0,
+        "id": "dkdr3m",
+        "commsNum": 1,
+        "timeStamp": "2019/10/19-19:37:51",
+        "author_name": "marlitodungog",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://antivirustoolsreviews.com/smart-tips-computer-malware-prevention/"
+    },
+    "posts": {
+        "f4jicx7": {
+            "comment": "[removed]",
+            "timeStamp": "2019/10/20-18:08:12",
+            "id": "f4jicx7",
+            "is_submitter": false,
+            "link_id": "t3_dkdr3m",
+            "parent_id": "t3_dkdr3m",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

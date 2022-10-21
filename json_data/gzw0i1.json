@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 0.92,
+        "selftext": "",
+        "title": "AvaMaria RAT Malware Analysis Writeup",
+        "score": 28,
+        "id": "gzw0i1",
+        "commsNum": 0,
+        "timeStamp": "2020/06/09-13:56:59",
+        "author_name": "kindredsec",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://github.com/itsKindred/malware-analysis-writeups/blob/master/ava-maria-rat/AvaMariaAnalysis.pdf"
+    },
+    "posts": {}
+}

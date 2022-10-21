@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "CannibalRAT, a RAT entirely written in Python observed in targeted attacks",
+        "score": 1,
+        "id": "81crk9",
+        "commsNum": 0,
+        "timeStamp": "2018/03/02-00:13:13",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/69742/malware/cannibalrat-rat-python.html"
+    },
+    "posts": {}
+}

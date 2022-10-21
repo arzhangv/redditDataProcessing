@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hello everyone. I got a sample I am going to do my own analysis on. I was wondering if any of you wanted to collaborate on finding out as much information on this sample as possible. If you are interested here is the download link for the sample:  [https://app.any.run/tasks/2987c12b-b262-4fe3-b4ec-419815436309](https://app.any.run/tasks/2987c12b-b262-4fe3-b4ec-419815436309)  and then just click on sample download link ([app.any.run](https://app.any.run) doesn't support a direct download link). \n\nYou will have to create an account and I apologize but it is well worth it in my opinion and it would be greatly appreciated if you do and collaborate with me.",
+        "title": "Malware collaboration",
+        "score": 0,
+        "id": "bhr87b",
+        "commsNum": 4,
+        "timeStamp": "2019/04/26-13:45:06",
+        "author_name": "dkaye_mal_anst18",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/bhr87b/malware_collaboration/"
+    },
+    "posts": {
+        "em51qfr": {
+            "comment": "Very cool, thanks for sharing.",
+            "timeStamp": "2019/04/30-07:26:31",
+            "id": "em51qfr",
+            "is_submitter": false,
+            "link_id": "t3_bhr87b",
+            "parent_id": "t1_em2pf9u",
+            "score": 2,
+            "stickied": false,
+            "author_name": "DrinkMoreCodeMore"
+        },
+        "em2pf9u": {
+            "comment": "For future reference on DarkComet samples, this script extracts the config: [https://github.com/kevthehermit/RATDecoders/blob/master/StandAlone/DarkComet.py](https://github.com/kevthehermit/RATDecoders/blob/master/StandAlone/DarkComet.py)",
+            "timeStamp": "2019/04/29-11:04:25",
+            "id": "em2pf9u",
+            "is_submitter": false,
+            "link_id": "t3_bhr87b",
+            "parent_id": "t1_elvb4sr",
+            "score": 2,
+            "stickied": false,
+            "author_name": "EvelJenius"
+        },
+        "elvsz40": {
+            "comment": "Pretty l33t stuff man nice work",
+            "timeStamp": "2019/04/26-18:38:35",
+            "id": "elvsz40",
+            "is_submitter": false,
+            "link_id": "t3_bhr87b",
+            "parent_id": "t1_elvb4sr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "edward_snowedin"
+        },
+        "elvb4sr": {
+            "comment": "DarkComet, config:\n\n\\[+\\] Printing Config to screen\n\n   \\[-\\] Key: CampaignID   Value: Guest16\\_min\n\n   \\[-\\] Key: Domains      Value: [203.0.100.22:26364](https://203.0.100.22:26364)\n\n   \\[-\\] Key: FTPHost      Value:\n\n   \\[-\\] Key: FTPKeyLogs   Value:\n\n   \\[-\\] Key: FTPPassword  Value:\n\n   \\[-\\] Key: FTPPort      Value:\n\n   \\[-\\] Key: FTPRoot      Value:\n\n   \\[-\\] Key: FTPSize      Value:\n\n   \\[-\\] Key: FTPUserName  Value:\n\n   \\[-\\] Key: FireWallBypass       Value:\n\n   \\[-\\] Key: Gencode      Value: eRouYbXd9zE4\n\n   \\[-\\] Key: Mutex        Value: DCMIN\\_MUTEX-ZNRP0A8\n\n   \\[-\\] Key: OfflineKeylogger     Value: 1\n\n   \\[-\\] Key: Password     Value:\n\n   \\[-\\] Key: Version      Value: #KCMDDC51#\n\n\\[+\\] End of Config",
+            "timeStamp": "2019/04/26-15:06:10",
+            "id": "elvb4sr",
+            "is_submitter": false,
+            "link_id": "t3_bhr87b",
+            "parent_id": "t3_bhr87b",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DigiAngelX"
+        }
+    }
+}

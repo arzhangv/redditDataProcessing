@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "How to start Reverse Engineering on Android Application",
+        "score": 1,
+        "id": "e6ykx1",
+        "commsNum": 1,
+        "timeStamp": "2019/12/06-05:12:06",
+        "author_name": "Z3r0s3c4",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.peerlyst.com/posts/how-to-start-reverse-engineering-on-android-application-ankit-mishra?trk=search_page_search_result"
+    },
+    "posts": {
+        "f9uow3v": {
+            "comment": "There are better and more structured way to reverse engineer Android apps. Typical I'd start with the manifest and figure out what the major components and permissions are. This gives me a good clue to the applications functionality. The manifest also gives me an entry point to the application and it's a good starting point. Broadcast receivers and intent filters gives you a clue about which system events the application is waiting for and listening.\n\nThere's so many other things I can go into like live debugging, static analysis, ndk analysis and frida + radare. AMA?",
+            "timeStamp": "2019/12/06-09:57:19",
+            "id": "f9uow3v",
+            "is_submitter": false,
+            "link_id": "t3_e6ykx1",
+            "parent_id": "t3_e6ykx1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "meglomania"
+        }
+    }
+}

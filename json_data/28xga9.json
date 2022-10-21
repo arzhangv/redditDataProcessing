@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "So my university started receiving email containing \"shipping info\" in html form.  So html-&gt;javascript-&gt;iframe-&gt;exploit (assuming you use the correct UA). I'm stumped.  It looks for kaspersky but i haven't got much further.  urlquery and wepawet nothing....\n\nhttp://pastebin.com/D0vA1Q2J",
+        "title": "Need some help analyzing suspect IE Exploit",
+        "score": 2,
+        "id": "28xga9",
+        "commsNum": 9,
+        "timeStamp": "2014/06/23-19:06:15",
+        "author_name": "velhoon",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 9,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/28xga9/need_some_help_analyzing_suspect_ie_exploit/"
+    },
+    "posts": {}
+}

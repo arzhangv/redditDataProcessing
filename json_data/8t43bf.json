@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Writing a rootkit, by someone who knows nothing about computer security",
+        "score": 8,
+        "id": "8t43bf",
+        "commsNum": 5,
+        "timeStamp": "2018/06/22-12:28:11",
+        "author_name": "CrazyM4n",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://aearnus.github.io/2018/06/21/writing-a-rootkit.html"
+    },
+    "posts": {
+        "e1cok2z": {
+            "comment": "Maybe you could use some sort of threading ",
+            "timeStamp": "2018/06/26-17:27:55",
+            "id": "e1cok2z",
+            "is_submitter": false,
+            "link_id": "t3_8t43bf",
+            "parent_id": "t1_e1clli1",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Ryancor"
+        },
+        "e1clli1": {
+            "comment": "I'd be interested to figure out a way to save/log/send all that data without absolutely destroying a computer. perhaps only logging data from stdin (fd 0) or stdout (fd 1) would cut it down to a manageable amount.",
+            "timeStamp": "2018/06/26-16:36:53",
+            "id": "e1clli1",
+            "is_submitter": true,
+            "link_id": "t3_8t43bf",
+            "parent_id": "t1_e1cabkf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "CrazyM4n"
+        },
+        "e1cabkf": {
+            "comment": "haha I compiled it and ran it on a VM, it def DOS\u2019s your kernel logs that\u2019s for sure, because there are reads and writes happening every second ",
+            "timeStamp": "2018/06/26-13:39:43",
+            "id": "e1cabkf",
+            "is_submitter": false,
+            "link_id": "t3_8t43bf",
+            "parent_id": "t1_e1c6zhj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Ryancor"
+        },
+        "e1c6zhj": {
+            "comment": "Yeah. It's not selective to userland though, this replaces `read()` and `write()` for the _entire system_ -- so to say that it's safe to use is quite a long shot.",
+            "timeStamp": "2018/06/26-12:54:16",
+            "id": "e1c6zhj",
+            "is_submitter": true,
+            "link_id": "t3_8t43bf",
+            "parent_id": "t1_e1auoom",
+            "score": 1,
+            "stickied": false,
+            "author_name": "CrazyM4n"
+        },
+        "e1auoom": {
+            "comment": "wait so if I\u2019m understanding correctly, once this kernel module is installed, any user land binary using read() or write() will go straight to this driver ?",
+            "timeStamp": "2018/06/25-20:39:20",
+            "id": "e1auoom",
+            "is_submitter": false,
+            "link_id": "t3_8t43bf",
+            "parent_id": "t3_8t43bf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Ryancor"
+        }
+    }
+}

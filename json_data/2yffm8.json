@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Spam campaign spreads Dridex Trojan via Macros in XML Files",
+        "score": 1,
+        "id": "2yffm8",
+        "commsNum": 0,
+        "timeStamp": "2015/03/09-03:15:57",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/34608/cyber-crime/dridex-trojan-via-macros-xml.html"
+    },
+    "posts": {}
+}

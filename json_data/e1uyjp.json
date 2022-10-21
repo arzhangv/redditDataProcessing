@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "For most of 2019, I had been using the free version of Betternet VPN on my iPhone. I did not have many problems with it. However, I came across this review:   \n[https://thebestvpn.com/reviews/betternet/](https://thebestvpn.com/reviews/betternet/)  \n\n\nIn this review the author, Rob Mardisalu, says, \"It\u2019s undoubtedly popular, but Betternet might not be as secure as it seems. In 2017, several outlets reported the result of an [academic study on VPN apps](https://research.csiro.au/ng/wp-content/uploads/sites/106/2016/08/paper-1.pdf) and whether they might be injecting malware or adware\u2014or just not providing the security they advertised. Betternet was ranked among the ten worst. Many of the other apps in that list were removed from the app store, but Betternet is still around. So far, I haven\u2019t been able to find any evidence of Betternet injecting malware or doing anything else nefarious. But the fact that an academic study identified them as suspect is very worrying. As you can see, Betternet has more downloads than all of the other free VPN apps combined, which does lend it a bit of credibility. However, we\u2019d much prefer that its AV-rank be significantly better than 13.\"  \n\n\nThis immediately alarmed me. \n\nI did more research and found this article:[https://www.bestvpn.co/reviews/betternet-vpn/](https://www.bestvpn.co/reviews/betternet-vpn/) in which the author, Muhammad Hamza Shahid, says, \"However, Betternet\u2019s reputation has gone downhill since a\u00a0[CSIRO study](https://research.csiro.au/ng/wp-content/uploads/sites/106/2016/08/paper-1.pdf)\u00a0revealed the provider sells adverts to users, which permit the installing of cookies onto devices.\"  \n\n\nThis was very troubling. I did some more research and went to the study that was repeatedly being cited. It appears that the article delt only with apps on the Google Play Store and on Android devices and not with apps on the Apple App Store. I believe this because the article said, \"In this paper we provide a first comprehensive analysis of 283 Android apps that use the Android VPN permission, which we extracted from a corpus of more than 1.4 million apps on the Google Play store.\"  \n\n\nThe section in the study dealing with Betternet is 4.2, if anyone cares to do anymore research.  \n\n\nUpon all of this new information, I deleted Betternet off of my iphone and I also deleted it off of my MacBook. I used both the free and paid versions on my MacBook, so my MacBook might not have been at as much risk as my iPhone (Some websites said the info in the CSIRO study only applied to the free version).  \n\n\nI also ran Malwarebytes on my MacBook, while I had Betternet, and it found no threats, so everything might have been ok.  \n\n\nSo I have a few questions for you guys. Does the stuff mentioned in the CSIRO study apply to the IOS app or does it only apply to the Android app? Betternet has been approved by Apple and it is one of the highest rated VPN apps on the Apple App Store. Apple verifies each of the apps on its App Store to make sure they do not contain malware, viruses, or anything like that. So I think my information may not have been compromised. Also, Malwarebytes did not detect any threats on my MacBook. However, if I was exposed to the risks outlined in the CSIRO study, how worried should I be? Could critical information such as photos, videos, passwords, files, screenshots, and account data have been collected by third parties? Is there any way I can tell if my information was collected? Should I be worried about this?  \n\n\nThank you guys, in advance, for your help.",
+        "title": "Betternet VPN",
+        "score": 1,
+        "id": "e1uyjp",
+        "commsNum": 2,
+        "timeStamp": "2019/11/26-00:10:49",
+        "author_name": "preferpaleo",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/e1uyjp/betternet_vpn/"
+    },
+    "posts": {
+        "f8skszc": {
+            "comment": "This x1000",
+            "timeStamp": "2019/11/26-07:45:37",
+            "id": "f8skszc",
+            "is_submitter": false,
+            "link_id": "t3_e1uyjp",
+            "parent_id": "t1_f8s5qgh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Sol_Sanctum"
+        },
+        "f8s5qgh": {
+            "comment": "If it\u2019s free you\u2019re the product.",
+            "timeStamp": "2019/11/26-04:12:05",
+            "id": "f8s5qgh",
+            "is_submitter": false,
+            "link_id": "t3_e1uyjp",
+            "parent_id": "t3_e1uyjp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "EveningTechnology"
+        }
+    }
+}

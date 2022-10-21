@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "VirusTotal tackles false positive malware detections plaguing antivirus and software vendors",
+        "score": 21,
+        "id": "2vnsn9",
+        "commsNum": 9,
+        "timeStamp": "2015/02/12-07:50:52",
+        "author_name": "youfavorite",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 9,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.networkworld.com/article/2883693/virustotal-tackles-false-positive-malware-detections-plaguing-antivirus-and-software-vendors.html"
+    },
+    "posts": {}
+}

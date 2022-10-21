@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Reverse engineering TrickBot (part 1 - packer)",
+        "score": 1,
+        "id": "73u33e",
+        "commsNum": 0,
+        "timeStamp": "2017/10/02-10:03:18",
+        "author_name": "jCuber",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://qmemcpy.github.io/post/reverse-engineering-malware-trickbot-part-1-packer"
+    },
+    "posts": {}
+}

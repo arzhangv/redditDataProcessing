@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Malware Triage - Analyzing PrnLoader Used To Drop Emotet (OALabs Tutorial)",
+        "score": 1,
+        "id": "kaip5r",
+        "commsNum": 3,
+        "timeStamp": "2020/12/10-08:42:23",
+        "author_name": "herrcore",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://youtu.be/5_-oR_135ss"
+    },
+    "posts": {
+        "gfbyzbw": {
+            "comment": "Haha! Yeh... really strange. It almost seems like some sort of joke, but it was actually dropping Emotet so I'm not sure.",
+            "timeStamp": "2020/12/10-15:25:02",
+            "id": "gfbyzbw",
+            "is_submitter": true,
+            "link_id": "t3_kaip5r",
+            "parent_id": "t1_gfb1zl2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "herrcore"
+        },
+        "gfbkey0": {
+            "comment": "It looks like it was designed specifically to cause trouble for RE software and to make it more difficult to deal with.",
+            "timeStamp": "2020/12/10-12:45:42",
+            "id": "gfbkey0",
+            "is_submitter": false,
+            "link_id": "t3_kaip5r",
+            "parent_id": "t1_gfb1zl2",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Sparkybear"
+        }
+    }
+}

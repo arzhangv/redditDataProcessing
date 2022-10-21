@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Researchers found similarities between LockBit 3.0 ransomware and BlackMatter, which is a rebranded variant of the DarkSide ransomware.",
+        "score": 1,
+        "id": "w9xj72",
+        "commsNum": 0,
+        "timeStamp": "2022/07/27-19:31:15",
+        "author_name": "Late_Ice_9288",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://securityaffairs.co/wordpress/133697/malware/lockbit-3-0-blackmatter-ransomware.html"
+    },
+    "posts": {}
+}

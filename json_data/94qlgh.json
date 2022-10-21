@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi, I would be so grateful for help with this one.\n\nI use Windows 8.1. I update it frequently. I run anti-virus and anti-malware scans frequently too.\n\nI just ran Malware Bytes and found this file: CLV SP3.4.5.GIF\n\nThis is the 3rd time in the last 3 weeks I have ran Malware Bytes and each time it finds this file. I quarantined it the first two times but that doesn't seem to fix the problem. Malware Bytes classifies this file as malware.\n\nWhat should I do about it?",
+        "title": "Recurring Malware",
+        "score": 0,
+        "id": "94qlgh",
+        "commsNum": 1,
+        "timeStamp": "2018/08/05-01:59:58",
+        "author_name": "WarriorMonkIRE",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/94qlgh/recurring_malware/"
+    },
+    "posts": {
+        "e3n12hh": {
+            "comment": "[deleted]",
+            "timeStamp": "2018/08/05-02:29:55",
+            "id": "e3n12hh",
+            "is_submitter": false,
+            "link_id": "t3_94qlgh",
+            "parent_id": "t1_e3n0vdo",
+            "score": 2,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "e3n0vdo": {
+            "comment": "\"A place for malware reports and information. This is NOT a place for help with malware removal or various other end-user questions\"",
+            "timeStamp": "2018/08/05-02:22:35",
+            "id": "e3n0vdo",
+            "is_submitter": false,
+            "link_id": "t3_94qlgh",
+            "parent_id": "t3_94qlgh",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Rakanisheu"
+        }
+    }
+}

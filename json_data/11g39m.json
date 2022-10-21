@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Microsoft Report Exposes Malware Families Attacking Supply Chain",
+        "score": 6,
+        "id": "11g39m",
+        "commsNum": 0,
+        "timeStamp": "2012/10/13-21:00:20",
+        "author_name": "antdude",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://threatpost.com/en_us/blogs/microsoft-report-exposes-malware-families-attacking-supply-chain-100912"
+    },
+    "posts": {}
+}

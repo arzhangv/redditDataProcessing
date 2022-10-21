@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Malware \u201cTreasureHunter\u201d innovates by using windows products IDs for his dynamic mutex",
+        "score": 1,
+        "id": "2yrtnj",
+        "commsNum": 0,
+        "timeStamp": "2015/03/12-00:23:05",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/34756/malware/malware-dynamic-mutex.html"
+    },
+    "posts": {}
+}

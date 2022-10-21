@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Best password managers for 2019",
+        "score": 0,
+        "id": "btye87",
+        "commsNum": 3,
+        "timeStamp": "2019/05/28-03:28:18",
+        "author_name": "Specialist_Yoghurt",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://tipsfromgeeks.com/guides/best-password-manager-2019/"
+    },
+    "posts": {
+        "epes2vn": {
+            "comment": "According to Geeks, obviously :p",
+            "timeStamp": "2019/05/29-20:19:25",
+            "id": "epes2vn",
+            "is_submitter": false,
+            "link_id": "t3_btye87",
+            "parent_id": "t1_ep5fynm",
+            "score": 1,
+            "stickied": false,
+            "author_name": "LemonFreshy"
+        },
+        "ep5fynm": {
+            "comment": "Best password managers. According to who?",
+            "timeStamp": "2019/05/28-07:55:55",
+            "id": "ep5fynm",
+            "is_submitter": false,
+            "link_id": "t3_btye87",
+            "parent_id": "t3_btye87",
+            "score": 2,
+            "stickied": false,
+            "author_name": "xOrMalware"
+        },
+        "ep4kfzt": {
+            "comment": "Don't spam this plagiarized garbage here. Please delete this post.",
+            "timeStamp": "2019/05/28-04:05:14",
+            "id": "ep4kfzt",
+            "is_submitter": false,
+            "link_id": "t3_btye87",
+            "parent_id": "t3_btye87",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Fraud_Investigator"
+        }
+    }
+}

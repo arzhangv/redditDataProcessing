@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "So, I downloaded a YouTube video with a website called  ([https://yt1s.com](https://yt1s.com/)) and I sent it via WhatsApp to my colleague. When he downloaded it on pc, a folder was created with profile pictures of people my friend contacts frequently and some scripts. I also sent it to another friend, who opened it on an Android. Should i be aware? (Sorry for the english and the little ignorance.",
+        "title": "PUP.Optional.OpenCandy",
+        "score": 1,
+        "id": "rp87ph",
+        "commsNum": 0,
+        "timeStamp": "2021/12/26-15:02:53",
+        "author_name": "kpi_ax",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/rp87ph/pupoptionalopencandy/"
+    },
+    "posts": {
+        "hq3clz1": {
+            "comment": "https://en.m.wikipedia.org/wiki/OpenCandy\n\nAdware.",
+            "timeStamp": "2021/12/26-17:27:36",
+            "id": "hq3clz1",
+            "is_submitter": false,
+            "link_id": "t3_rp87ph",
+            "parent_id": "t3_rp87ph",
+            "score": 1,
+            "stickied": false,
+            "author_name": "bigrigtrig"
+        },
+        "hq3645m": {
+            "comment": "This isn't a support subreddit",
+            "timeStamp": "2021/12/26-16:35:20",
+            "id": "hq3645m",
+            "is_submitter": false,
+            "link_id": "t3_rp87ph",
+            "parent_id": "t3_rp87ph",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Rakanisheu"
+        },
+        "hq2vh89": {
+            "comment": "PUP means 'potentially unwanted program'.\n\nUsually that means it doesnt do anything malicious and is just a stupid joke or a keygen.",
+            "timeStamp": "2021/12/26-15:13:27",
+            "id": "hq2vh89",
+            "is_submitter": false,
+            "link_id": "t3_rp87ph",
+            "parent_id": "t3_rp87ph",
+            "score": 1,
+            "stickied": false,
+            "author_name": "boli99"
+        }
+    }
+}

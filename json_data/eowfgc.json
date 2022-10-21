@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I have had malware for over a couple months now, I have reinstalled windows, 7 times 4 different ways. USB, factory image, Microsoft tool, restore. Nothing works I even tried scanning using Ubuntu off of a live boot. It loads up as soon as windows starts and infects the new windows system probably while I\u2019m setting up my next account. The reason I think it\u2019s a .png is because when I factory reset sysprep was running and an app crashed saying .png (that is most likely the mask for the program) but this was while the reset was configuring, no app should have even tried to run. It has also infected every computer on the same network with the very same issue. I have used Microsoft safety scanner, which it has found \u201cvirtool:win32/defendertamperingrestore\u201d it removes it then it just ends up returning. And this is on a factory reset computer that has never even connected to the internet. \n\nIf left to an internet connect it starts using Powershell replacing appx files. It had Remote Desktop connection icons hidden in a ton of files I found after running the computer on safe mode. I have scanned with Malwarebytes, Norton, avg, etc.. aside from avg and Microsoft safety scanner nothing else found anything.  I even paid for norton which didn\u2019t help anything.. I am in computer classes at university and can\u2019t even use my computer... I am completely helpless to this malware. I even bought a new hard drive for one of the computers before I knew other computers were also infected. And I ended up getting the malware again. And being a student I don\u2019t have money to buy two new computers...",
+        "title": "Malware .png even after factory reset",
+        "score": 1,
+        "id": "eowfgc",
+        "commsNum": 0,
+        "timeStamp": "2020/01/14-19:08:22",
+        "author_name": "Elijos4",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/eowfgc/malware_png_even_after_factory_reset/"
+    },
+    "posts": {}
+}

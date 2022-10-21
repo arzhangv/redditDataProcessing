@@ -1,0 +1,99 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hello, so I found VMProtect secured malware on my server, and I want to know what it does etc. Is there any way to just get into original executable, ignoring vmprotect? I will try to do something on my  own, but now I don't have much time.",
+        "title": "analysis of vmprotect \"protected\" malware",
+        "score": 1,
+        "id": "s0v5rw",
+        "commsNum": 0,
+        "timeStamp": "2022/01/10-13:31:30",
+        "author_name": "Th3rmosIsNoob",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/s0v5rw/analysis_of_vmprotect_protected_malware/"
+    },
+    "posts": {
+        "indorfl": {
+            "comment": "Kinda late, but if youve found this via a searchengine: You can use hatching triage ([https://tria.ge](https://tria.ge)) it does static and dynamic analysis, everything for free",
+            "timeStamp": "2022/09/06-16:19:52",
+            "id": "indorfl",
+            "is_submitter": false,
+            "link_id": "t3_s0v5rw",
+            "parent_id": "t3_s0v5rw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "IstAuchEgal"
+        },
+        "htczxc0": {
+            "comment": "UnpacMe doesn't unpack VMProtect and Themida because they're usually used for commercial games which UnpackMe tries not to unpack.\n\nI remember a DEFCON/BlackHat talk where to unpack, he made a run trace and tried to find the code groups least often executed, and joined them back up to create a still very obfuscated version of the program.",
+            "timeStamp": "2022/01/19-11:56:52",
+            "id": "htczxc0",
+            "is_submitter": false,
+            "link_id": "t3_s0v5rw",
+            "parent_id": "t1_hs7im0i",
+            "score": 1,
+            "stickied": false,
+            "author_name": "divbyda0"
+        },
+        "hs7pjor": {
+            "comment": "thx",
+            "timeStamp": "2022/01/11-07:04:52",
+            "id": "hs7pjor",
+            "is_submitter": true,
+            "link_id": "t3_s0v5rw",
+            "parent_id": "t1_hs5k0bd",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Th3rmosIsNoob"
+        },
+        "hs7im0i": {
+            "comment": "As much as unpacme is great, I'd be surprised if it can recover a vmprotected exe, doesn't vmprotect transpile the machine code  to bytecode for a custom VM?\n\nThe original file is gone, it's not getting unpacked in memory or anything.",
+            "timeStamp": "2022/01/11-06:16:42",
+            "id": "hs7im0i",
+            "is_submitter": false,
+            "link_id": "t3_s0v5rw",
+            "parent_id": "t1_hs5k0bd",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ogtfo"
+        },
+        "hs6zk93": {
+            "comment": "[removed]",
+            "timeStamp": "2022/01/11-03:17:04",
+            "id": "hs6zk93",
+            "is_submitter": false,
+            "link_id": "t3_s0v5rw",
+            "parent_id": "t3_s0v5rw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hs5snlz": {
+            "comment": "[removed]",
+            "timeStamp": "2022/01/10-19:41:35",
+            "id": "hs5snlz",
+            "is_submitter": false,
+            "link_id": "t3_s0v5rw",
+            "parent_id": "t1_hs5k0bd",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hs5k0bd": {
+            "comment": "https://www.unpac.me/#/",
+            "timeStamp": "2022/01/10-18:41:28",
+            "id": "hs5k0bd",
+            "is_submitter": false,
+            "link_id": "t3_s0v5rw",
+            "parent_id": "t3_s0v5rw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Trolling_turd"
+        }
+    }
+}

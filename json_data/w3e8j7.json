@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "[https://www.cybertalk.org/2022/07/01/wide-range-of-routers-under-attack-by-unusually-sophisticated-malware/](https://www.cybertalk.org/2022/07/01/wide-range-of-routers-under-attack-by-unusually-sophisticated-malware/)",
+        "title": "Wide range of routers under attack by unusually sophisticated malware...",
+        "score": 1,
+        "id": "w3e8j7",
+        "commsNum": 0,
+        "timeStamp": "2022/07/19-22:31:25",
+        "author_name": "Admirable_Baker",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/w3e8j7/wide_range_of_routers_under_attack_by_unusually/"
+    },
+    "posts": {
+        "igx23gg": {
+            "comment": "indeed. it talks about Trojans, though actually seems to describe a worm - and subsequenly doesnt give any useful information at all.\n\narticle not to be trusted. written by someone who doesnt really understand the topic, or just wants some ad clicks.",
+            "timeStamp": "2022/07/20-07:03:43",
+            "id": "igx23gg",
+            "is_submitter": false,
+            "link_id": "t3_w3e8j7",
+            "parent_id": "t1_igwmm3q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "boli99"
+        },
+        "igwmm3q": {
+            "comment": "Utterly useless article which refers you to yet ANOTHER article to get any actionable information.",
+            "timeStamp": "2022/07/20-04:59:46",
+            "id": "igwmm3q",
+            "is_submitter": false,
+            "link_id": "t3_w3e8j7",
+            "parent_id": "t3_w3e8j7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "CryptographicGenius"
+        }
+    }
+}

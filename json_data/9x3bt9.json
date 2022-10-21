@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "For part of my doctoral research I am planning to do a mini-project.\n\n&amp;#x200B;\n\nThe proposed mini-project is an analysis of anti-forensic or anti-VM techniques within malware samples.  \n\n\nThe dates for which the project would be effective would be from:  \n8/7/19 \u2013 6/11/19  \nThis paper would then likely\u00a0be submitted as part of a doctoral thesis, but also ideally as an independent paper submitted to conferences, it would definitely be published as part of the cybersecurity department's technical paper series (the cybersecurity institute here at the university). There would also be optional co-authorship available for the collaborating analyst or analysts.\n\n  \nThis research would be conducted with the academic supervision of respected academic authors in the field.\n\nPlease do let me know whether this would be an opportunity in which your company would be interested in pursuing.",
+        "title": "Malware Anti-Forensics Project: Industrial Collaboration",
+        "score": 1,
+        "id": "9x3bt9",
+        "commsNum": 6,
+        "timeStamp": "2018/11/14-11:37:53",
+        "author_name": "thickofits",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/9x3bt9/malware_antiforensics_project_industrial/"
+    },
+    "posts": {
+        "e9reiwo": {
+            "comment": "Hey there,\nI\u2019m interested in this, I\u2019d like a little more information about the project, like what system would you be targeting, what\u2019s your core hypothesis? \n\nI\u2019m not part of the industry yet. I\u2019m currently working on my master\u2019s thesis on malicious documents and would be graduating in May 2018. If I could help with your research I\u2019d love to. I believe I could be of asset to your project. Can we continue the discussion over PMs? ",
+            "timeStamp": "2018/11/15-10:07:47",
+            "id": "e9reiwo",
+            "is_submitter": false,
+            "link_id": "t3_9x3bt9",
+            "parent_id": "t3_9x3bt9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "boardslayer"
+        },
+        "e9r8zmn": {
+            "comment": "Sounds decent. Just don't be one of \"those\" research projects. Where your project basically is just a compilation of other people's research. Do some actual testing of tools found in the wild and such and you'll be golden. I used to dabble in anti-forensics. I got out of it when I started finding malware samples using my PoCs. \n\nAlso, check out the movfuscator. It's the most interesting and probably most mind-bogglingly annoying anti reverse-engineering compiler available. ",
+            "timeStamp": "2018/11/15-08:57:13",
+            "id": "e9r8zmn",
+            "is_submitter": false,
+            "link_id": "t3_9x3bt9",
+            "parent_id": "t3_9x3bt9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MisterCBax"
+        },
+        "e9qv4zb": {
+            "comment": "Ermm, so i'm not sure my post was clear enough, i'm looking for collaboration with an established antivirus company and an analyst or analysts based there.\n\nThe idea is to collaborate on a a research paper with them. I think this could be mutually beneficial.\n\nI'm currently speaking to a few people from different firms about this possibility, but i've had a great help and response during my masters thesis from this subreddit so I thought i'd see if i can try and tap the network contained within.\n\nAlso love the name RijndaelM (AES right?)",
+            "timeStamp": "2018/11/15-05:54:43",
+            "id": "e9qv4zb",
+            "is_submitter": true,
+            "link_id": "t3_9x3bt9",
+            "parent_id": "t1_e9qn7s1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "thickofits"
+        },
+        "e9qn7s1": {
+            "comment": "Same here, but can you explain in more details what kind of people are you looking for? I guess, a majority of interesting samples are analyzed already. You can find corresponding technical papers online. So do you have new, unknown samples and need malware analyst to look into those? Or do you need good writers to combine existing findings? ",
+            "timeStamp": "2018/11/15-03:08:49",
+            "id": "e9qn7s1",
+            "is_submitter": false,
+            "link_id": "t3_9x3bt9",
+            "parent_id": "t1_e9pno2b",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RijndaelM"
+        },
+        "e9q0dt7": {
+            "comment": "[deleted]",
+            "timeStamp": "2018/11/14-18:31:50",
+            "id": "e9q0dt7",
+            "is_submitter": false,
+            "link_id": "t3_9x3bt9",
+            "parent_id": "t1_e9pno2b",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "e9pno2b": {
+            "comment": "I'm interested personally, but I'd need to know more regarding the idea and the precise execution. We can discuss this via PM I think?",
+            "timeStamp": "2018/11/14-15:20:23",
+            "id": "e9pno2b",
+            "is_submitter": false,
+            "link_id": "t3_9x3bt9",
+            "parent_id": "t3_9x3bt9",
+            "score": 2,
+            "stickied": false,
+            "author_name": "ThisIsLibra"
+        }
+    }
+}

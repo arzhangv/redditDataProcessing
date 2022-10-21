@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Threat Alert: Mirai/Gafgyt Fork with New DDoS Modules Discovered  \n\n\nOn the 27th of August, we have found evidence that an IoT device in one of our customer environments had accessed a malicious software sample. We have investigated the sample and discovered that a Gafgyt fork has been updated and it is now being distributed with **two new Distributed Denial of Service (DDoS) modules** to launch attacks against targeted machines.\n\n[https://cujo.com/mirai-gafgyt-with-new-ddos-modules-discovered/](https://cujo.com/mirai-gafgyt-with-new-ddos-modules-discovered/)",
+        "title": "Threat Alert: Mirai/Gafgyt Fork with New DDoS Modules Discovered",
+        "score": 1,
+        "id": "pm3uym",
+        "commsNum": 0,
+        "timeStamp": "2021/09/11-01:46:35",
+        "author_name": "kernelv0id",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/pm3uym/threat_alert_miraigafgyt_fork_with_new_ddos/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "If you were wondering, then yes, malware runs smoothly on Windows 8",
+        "score": 1,
+        "id": "12r19g",
+        "commsNum": 0,
+        "timeStamp": "2012/11/06-13:03:26",
+        "author_name": "alexlamman",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://labs.bitdefender.com/2012/11/newest-windows-version-runs-oldest-malware-still-in-wildcore/"
+    },
+    "posts": {}
+}

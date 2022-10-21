@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi! Sorry if this is a strange question but I got some malware on my computer a few days ago. I managed to \"remove\" all the threats the programs I scanned with detected. \n\nUpon one of these programs completing a scheduled scan tonight, it detected two threats. One piqued my interest because I hadn't seen it before and it was in a folder named \"kuck\", which seemed insulting.. I navigate to my program files folder and cant seem to locate the folder, so I reveal hidden files/folders on my computer and sure enough, this was sitting inside.\n\nThe file is called \"swiped\". I am just pretty curious about what this thing does, but I'm definitely gonna get rid of it. If anyone could let me know that'd be sweet!\n\n[LINK TO THE FILE](http://www.mediafire.com/file/5dt89xzc91to1hm/swiped.exe)",
+        "title": "Found some malware on my computer.. I was wondering what it does.",
+        "score": 9,
+        "id": "8cuwvy",
+        "commsNum": 5,
+        "timeStamp": "2018/04/17-01:06:04",
+        "author_name": "JenLacuna",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8cuwvy/found_some_malware_on_my_computer_i_was_wondering/"
+    },
+    "posts": {
+        "dxjfzjf": {
+            "comment": "OP are you going to reupload?",
+            "timeStamp": "2018/04/17-16:57:48",
+            "id": "dxjfzjf",
+            "is_submitter": false,
+            "link_id": "t3_8cuwvy",
+            "parent_id": "t3_8cuwvy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "port443"
+        },
+        "dxiq1fe": {
+            "comment": "You might also want to rename the file, pre-compression to something like swiped.ex_ to prevent any accidental execution. Also, there are sites conveniently listed [here](https://securityintelligence.com/comparing-free-online-malware-analysis-sandboxes/) which will allow you to upload raw malware samples and they will scan them with multiple antivirus programs and generate sandbox reports to outline the actions the malware takes (such as calling home, moving files, etc...)",
+            "timeStamp": "2018/04/17-10:21:08",
+            "id": "dxiq1fe",
+            "is_submitter": false,
+            "link_id": "t3_8cuwvy",
+            "parent_id": "t3_8cuwvy",
+            "score": 8,
+            "stickied": false,
+            "author_name": "pairughdocks"
+        },
+        "dxijzzq": {
+            "comment": "Password+zip  it or upload to Mega",
+            "timeStamp": "2018/04/17-08:52:44",
+            "id": "dxijzzq",
+            "is_submitter": false,
+            "link_id": "t3_8cuwvy",
+            "parent_id": "t3_8cuwvy",
+            "score": 2,
+            "stickied": false,
+            "author_name": "JPaulMora"
+        },
+        "dxi0qyc": {
+            "comment": "Shoot, I\u2019ll have to do that tomorrow since I\u2019m now in bed. Thanks, I\u2019ll edit the post. :)",
+            "timeStamp": "2018/04/17-01:23:07",
+            "id": "dxi0qyc",
+            "is_submitter": false,
+            "link_id": "t3_8cuwvy",
+            "parent_id": "t1_dxi0ig7",
+            "score": 3,
+            "stickied": false,
+            "author_name": "JenLacuna"
+        },
+        "dxi0ig7": {
+            "comment": "Not found. Probably been removed. You can try putting it in a password protected zip file with the password \"infected\"",
+            "timeStamp": "2018/04/17-01:13:33",
+            "id": "dxi0ig7",
+            "is_submitter": false,
+            "link_id": "t3_8cuwvy",
+            "parent_id": "t3_8cuwvy",
+            "score": 7,
+            "stickied": false,
+            "author_name": "sephstorm"
+        }
+    }
+}

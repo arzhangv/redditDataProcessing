@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I need the ploutos.exe virus(the one that was used to hack into atms in that one 2010 presentation\n\ni am in desperate need for it if anyone can help me plsss!\n\n(and no i cant use the virus total thing im pretty sure it got declined)\n\n&amp;#x200B;\n[Virus Total](\"https://www.virustotal.com/gui/file/d99339d3dc6891cdd832754c5739640c62cd229c84e04e9e3cad743c6f66b1b9/details\")\nMD5:\teca2ca8ecf63816d9a157888e3d871dc\nSHA-1:\tb0b13b336ee8770bb2a90fb1292fd9dcabd046f4\nSHA-256:\td99339d3dc6891cdd832754c5739640c62cd229c84e04e9e3cad743c6f66b1b9",
+        "title": "Malware Needed!",
+        "score": 1,
+        "id": "txzq4c",
+        "commsNum": 0,
+        "timeStamp": "2022/04/06-16:51:19",
+        "author_name": "The_Lords_Cum_Sock",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/txzq4c/malware_needed/"
+    },
+    "posts": {
+        "i3z85cb": {
+            "comment": "what is aar?",
+            "timeStamp": "2022/04/08-18:12:10",
+            "id": "i3z85cb",
+            "is_submitter": true,
+            "link_id": "t3_txzq4c",
+            "parent_id": "t1_i3qn2f5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "The_Lords_Cum_Sock"
+        },
+        "i3qn2f5": {
+            "comment": "2 Samples on AAR. One is even named ploutos.exe.",
+            "timeStamp": "2022/04/07-01:49:41",
+            "id": "i3qn2f5",
+            "is_submitter": false,
+            "link_id": "t3_txzq4c",
+            "parent_id": "t3_txzq4c",
+            "score": 1,
+            "stickied": false,
+            "author_name": "GoranLind"
+        },
+        "i3prgs4": {
+            "comment": "i searched by md5 sha256 and name but i didnt find it there",
+            "timeStamp": "2022/04/06-19:54:02",
+            "id": "i3prgs4",
+            "is_submitter": true,
+            "link_id": "t3_txzq4c",
+            "parent_id": "t1_i3prdci",
+            "score": 1,
+            "stickied": false,
+            "author_name": "The_Lords_Cum_Sock"
+        },
+        "i3pkxfw": {
+            "comment": "i searched the hash on it but when i opened the file it was just 1 file idk if i have to do something extra but i didnt wanna bring it out of the zip file",
+            "timeStamp": "2022/04/06-19:02:44",
+            "id": "i3pkxfw",
+            "is_submitter": true,
+            "link_id": "t3_txzq4c",
+            "parent_id": "t1_i3pkr7l",
+            "score": 1,
+            "stickied": false,
+            "author_name": "The_Lords_Cum_Sock"
+        },
+        "i3pkr7l": {
+            "comment": "Check on vx-underground. They have all (almost all) malware samples.",
+            "timeStamp": "2022/04/06-19:01:27",
+            "id": "i3pkr7l",
+            "is_submitter": false,
+            "link_id": "t3_txzq4c",
+            "parent_id": "t3_txzq4c",
+            "score": 1,
+            "stickied": false,
+            "author_name": "socialanimal88"
+        },
+        "i3p663w": {
+            "comment": "[removed]",
+            "timeStamp": "2022/04/06-17:11:33",
+            "id": "i3p663w",
+            "is_submitter": false,
+            "link_id": "t3_txzq4c",
+            "parent_id": "t3_txzq4c",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

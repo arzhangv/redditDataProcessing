@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Few months back I have written a series of article on malware analysis interview questions and answer. \n\nThese are the questions which I frequently face during 10+ interviews. I think people preparing for malware analyst job may find these questions set to be helpful.\n\nAlso if you want to add more frequently asked questions or have some suggestions related to answers then feel free to add comment on that.\n\n[Malware analyst interview questions with detailed answers](https://nixhacker.com/malware-analysis-interview-questions-1/)",
+        "title": "Prepare for malware analyst interview with these questions.",
+        "score": 1,
+        "id": "9u3acl",
+        "commsNum": 5,
+        "timeStamp": "2018/11/04-05:23:24",
+        "author_name": "shubham0d",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/9u3acl/prepare_for_malware_analyst_interview_with_these/"
+    },
+    "posts": {
+        "e930yhj": {
+            "comment": "Excellent summary!!",
+            "timeStamp": "2018/11/04-23:10:17",
+            "id": "e930yhj",
+            "is_submitter": false,
+            "link_id": "t3_9u3acl",
+            "parent_id": "t3_9u3acl",
+            "score": 2,
+            "stickied": false,
+            "author_name": "mittypk"
+        },
+        "e92cz9k": {
+            "comment": "Very useful info! :) ",
+            "timeStamp": "2018/11/04-16:00:51",
+            "id": "e92cz9k",
+            "is_submitter": false,
+            "link_id": "t3_9u3acl",
+            "parent_id": "t3_9u3acl",
+            "score": 2,
+            "stickied": false,
+            "author_name": "porfy94"
+        },
+        "e91qz1f": {
+            "comment": "Very helpful. Thank you. ",
+            "timeStamp": "2018/11/04-11:08:20",
+            "id": "e91qz1f",
+            "is_submitter": false,
+            "link_id": "t3_9u3acl",
+            "parent_id": "t3_9u3acl",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Tikiyetti"
+        },
+        "e91mcmk": {
+            "comment": "Thanks. ",
+            "timeStamp": "2018/11/04-10:09:26",
+            "id": "e91mcmk",
+            "is_submitter": true,
+            "link_id": "t3_9u3acl",
+            "parent_id": "t1_e913xxx",
+            "score": 2,
+            "stickied": false,
+            "author_name": "shubham0d"
+        },
+        "e913xxx": {
+            "comment": "Nice write up",
+            "timeStamp": "2018/11/04-05:35:59",
+            "id": "e913xxx",
+            "is_submitter": false,
+            "link_id": "t3_9u3acl",
+            "parent_id": "t3_9u3acl",
+            "score": 1,
+            "stickied": false,
+            "author_name": "infosecaphorism"
+        }
+    }
+}

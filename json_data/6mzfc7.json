@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[removed]",
+        "title": "My server was hacked by something called \"uxamp\"",
+        "score": 28,
+        "id": "6mzfc7",
+        "commsNum": 3,
+        "timeStamp": "2017/07/12-21:40:51",
+        "author_name": "austintxdude",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6mzfc7/my_server_was_hacked_by_something_called_uxamp/"
+    },
+    "posts": {
+        "dk9e8q4": {
+            "comment": "fwiw this thing had installed a DDoS bot on my server that would come alive at random and DDoS other people's servers.  Rough world out there.",
+            "timeStamp": "2017/07/15-10:30:06",
+            "id": "dk9e8q4",
+            "is_submitter": true,
+            "link_id": "t3_6mzfc7",
+            "parent_id": "t3_6mzfc7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "austintxdude"
+        },
+        "dk61p0u": {
+            "comment": "posted here https://github.com/Queatz/BotThatHackedMyServer",
+            "timeStamp": "2017/07/13-07:28:59",
+            "id": "dk61p0u",
+            "is_submitter": true,
+            "link_id": "t3_6mzfc7",
+            "parent_id": "t1_dk5uu5p",
+            "score": 1,
+            "stickied": false,
+            "author_name": "austintxdude"
+        },
+        "dk5uu5p": {
+            "comment": "Post the source to github or pastebin.  Or somewhere else if it's a java war. ",
+            "timeStamp": "2017/07/13-04:45:28",
+            "id": "dk5uu5p",
+            "is_submitter": false,
+            "link_id": "t3_6mzfc7",
+            "parent_id": "t3_6mzfc7",
+            "score": 4,
+            "stickied": false,
+            "author_name": "de_hatron"
+        }
+    }
+}

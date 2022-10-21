@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "GitHub - CyberSaxosTiGER/androidDump: A tool pulls loaded binaries ordered by memory regions",
+        "score": 1,
+        "id": "96x5wh",
+        "commsNum": 0,
+        "timeStamp": "2018/08/13-03:23:34",
+        "author_name": "tiger6700",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://github.com/CyberSaxosTiGER/androidDump"
+    },
+    "posts": {}
+}

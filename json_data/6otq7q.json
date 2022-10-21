@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "So, Malwarebytes automatically scanned my laptop, and said it found something on my pc.  I clicked for the scan results and saw \"Malware - Ransom.BSM\".  I immediately quarantined it and deleted it.  I tried googling Ransom.BSM, and searching on /r/Malware, but nothing came up.  Did I just avoid the next big ransomware attack or something?",
+        "title": "Ransom.BSM",
+        "score": 5,
+        "id": "6otq7q",
+        "commsNum": 5,
+        "timeStamp": "2017/07/22-00:12:04",
+        "author_name": "Electechx",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6otq7q/ransombsm/"
+    },
+    "posts": {
+        "dlxzpy6": {
+            "comment": "I wrote a .bat/.exe file myself and Malwarebytes detected/identified it as Ransom.BSM...",
+            "timeStamp": "2017/08/21-15:42:22",
+            "id": "dlxzpy6",
+            "is_submitter": false,
+            "link_id": "t3_6otq7q",
+            "parent_id": "t3_6otq7q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "NGPriest"
+        },
+        "dknb1tn": {
+            "comment": "You might have, you might have not. As people have mentioned, this is a very standard classification for Anti-malware developers to know what type of malicious software you are dealing with. Ransom.BSM looks like Ransomware family malware. I am happy you avoided such issue. If it happens next time, make sure to get the logs or a screenshot, would be nice to know what we might be dealing with!",
+            "timeStamp": "2017/07/24-06:20:35",
+            "id": "dknb1tn",
+            "is_submitter": false,
+            "link_id": "t3_6otq7q",
+            "parent_id": "t3_6otq7q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "JoshRosserino"
+        },
+        "dkkquaf": {
+            "comment": "Sounds like a heuristic detection a family of ransomewares.",
+            "timeStamp": "2017/07/22-11:36:41",
+            "id": "dkkquaf",
+            "is_submitter": false,
+            "link_id": "t3_6otq7q",
+            "parent_id": "t3_6otq7q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "CapitalismIsFascism"
+        },
+        "dkkeixv": {
+            "comment": "I checked the reports folder, it doesn't seem to be there.  Even if it was, however, it would only have the name of the malware and probably the time it detected it and removed it.  I think what ranger910 suggests is probably the truth.",
+            "timeStamp": "2017/07/22-06:50:39",
+            "id": "dkkeixv",
+            "is_submitter": true,
+            "link_id": "t3_6otq7q",
+            "parent_id": "t1_dkka9n1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Electechx"
+        },
+        "dkkdiwt": {
+            "comment": "To me it sounds like a generic name a vendor gives to a class of malware. There's so many different random pieces a malware that not all are given unique names and files that show characteristics of a certain class will get labeled with a generic name. But as the other commenter pointed out, without a has or preferably the file itself, it's not really possible to tell",
+            "timeStamp": "2017/07/22-06:20:53",
+            "id": "dkkdiwt",
+            "is_submitter": false,
+            "link_id": "t3_6otq7q",
+            "parent_id": "t3_6otq7q",
+            "score": 6,
+            "stickied": false,
+            "author_name": "ranger910"
+        },
+        "dkka9n1": {
+            "comment": "Do you have a hash of the removed file? Log? ",
+            "timeStamp": "2017/07/22-04:21:11",
+            "id": "dkka9n1",
+            "is_submitter": false,
+            "link_id": "t3_6otq7q",
+            "parent_id": "t3_6otq7q",
+            "score": 2,
+            "stickied": false,
+            "author_name": "toop4"
+        }
+    }
+}

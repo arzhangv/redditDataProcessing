@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hello i need those sample form virustotal or other repository?\n\n0e6fdbdf1fb1e758d2352407d4dbf91e\n896ffa6cb6d7789662acedc3f9c024a0\ne16349e8bb8f76dcff973cb71e9ea59e",
+        "title": "need to have those sample from virustotal or other repo",
+        "score": 0,
+        "id": "8v4dip",
+        "commsNum": 1,
+        "timeStamp": "2018/06/30-12:40:10",
+        "author_name": "dpicollege",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8v4dip/need_to_have_those_sample_from_virustotal_or/"
+    },
+    "posts": {
+        "e1kgbqj": {
+            "comment": "You can request access to virusshare if you have a clear idea of you're doing. ",
+            "timeStamp": "2018/06/30-12:59:57",
+            "id": "e1kgbqj",
+            "is_submitter": false,
+            "link_id": "t3_8v4dip",
+            "parent_id": "t3_8v4dip",
+            "score": 1,
+            "stickied": false,
+            "author_name": "de_hatron"
+        },
+        "e1kf8vf": {
+            "comment": "[deleted]",
+            "timeStamp": "2018/06/30-12:40:37",
+            "id": "e1kf8vf",
+            "is_submitter": false,
+            "link_id": "t3_8v4dip",
+            "parent_id": "t3_8v4dip",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

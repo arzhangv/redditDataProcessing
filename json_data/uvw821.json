@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "How to start dynamic analysis on windows kernel rootkits.",
+        "score": 1,
+        "id": "uvw821",
+        "commsNum": 0,
+        "timeStamp": "2022/05/23-02:21:02",
+        "author_name": "0x4ndr3",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://medium.com/@0x4ndr3/starting-dynamic-analysis-on-a-windows-x64-rootkit-8c7a74871fda"
+    },
+    "posts": {}
+}

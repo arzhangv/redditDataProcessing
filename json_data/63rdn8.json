@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi,\nI am currently investigating a malware that injects a dll into explorer.exe and I want to reverse that dll in order to understands its functionality.\nI'm looking for the best way I can extract that DLL from explorer.exe dynamically and create a seperate DLL file.\nMy current attempts is with the OllyDump plugin but I would like to hear from you if there is any simpler way. ",
+        "title": "Extracting an injected DLL from a process",
+        "score": 2,
+        "id": "63rdn8",
+        "commsNum": 4,
+        "timeStamp": "2017/04/05-23:56:05",
+        "author_name": "vrmyr",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/63rdn8/extracting_an_injected_dll_from_a_process/"
+    },
+    "posts": {}
+}

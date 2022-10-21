@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Stealthy malware targeting air-gapped PCs leaves no trace of infection",
+        "score": 1,
+        "id": "4bwj6b",
+        "commsNum": 0,
+        "timeStamp": "2016/03/25-06:52:34",
+        "author_name": "malwarematt",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://arstechnica.com/security/2016/03/stealthy-malware-targeting-air-gapped-pcs-leaves-no-trace-of-infection/"
+    },
+    "posts": {}
+}

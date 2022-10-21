@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Virustotal Graph: \"malware\" &amp; \"malicious\" &amp; lots of branches - the \"root node\" was downloaded on my laptop (that I share with one other person).",
+        "score": 1,
+        "id": "pxm7xf",
+        "commsNum": 1,
+        "timeStamp": "2021/09/28-19:49:57",
+        "author_name": "crescentm00n",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.virustotal.com/graph/embed/gc23b4d9e8b14442b9a7658edd0adde848bb95e9af02f443b8332c7d9e8b33c1f"
+    },
+    "posts": {
+        "heogc04": {
+            "comment": "I don't know much about malware, is this as bad as it looks?\n\n&amp;#x200B;\n\nComputer is obviously infected and has issues which led me to VirusTotal in the first place. Nothing came up detected by the antiviruses but the 3 sandboxes flagged it as \"STEALER,\" \"MALWARE,\" \"MALWARE\" Check out the BEHAVIOR tab [results for virustotal scan](https://www.virustotal.com/gui/file/e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855/relations) (any advice?)",
+            "timeStamp": "2021/09/28-20:06:55",
+            "id": "heogc04",
+            "is_submitter": true,
+            "link_id": "t3_pxm7xf",
+            "parent_id": "t3_pxm7xf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "crescentm00n"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "\u201cKyle and Stan\u201d Malvertising Network Threatens Windows and Mac Users With Mutating Malware",
+        "score": 14,
+        "id": "2ft5tm",
+        "commsNum": 2,
+        "timeStamp": "2014/09/08-07:28:56",
+        "author_name": "craiwill",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://blogs.cisco.com/security/kyle-and-stan/"
+    },
+    "posts": {}
+}

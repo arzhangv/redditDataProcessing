@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Shellcode analysis: fast recovery of imports names by hash values",
+        "score": 1,
+        "id": "in74qd",
+        "commsNum": 1,
+        "timeStamp": "2020/09/05-12:22:03",
+        "author_name": "yeggor",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://yeggor.github.io/ida-mal-enums/"
+    },
+    "posts": {
+        "g47aa8z": {
+            "comment": "[removed]",
+            "timeStamp": "2020/09/05-21:15:25",
+            "id": "g47aa8z",
+            "is_submitter": false,
+            "link_id": "t3_in74qd",
+            "parent_id": "t3_in74qd",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

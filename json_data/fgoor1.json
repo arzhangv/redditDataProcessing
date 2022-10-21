@@ -1,0 +1,121 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Microsoft Hijacks Necurs Botnet that Infected 9 Million PCs Worldwide",
+        "score": 1,
+        "id": "fgoor1",
+        "commsNum": 9,
+        "timeStamp": "2020/03/10-18:00:27",
+        "author_name": "DrinkMoreCodeMore",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 9,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://thehackernews.com/2020/03/necurs-botnet-takedown.html"
+    },
+    "posts": {
+        "flwka6p": {
+            "comment": "hahaha exactly",
+            "timeStamp": "2020/03/30-00:37:13",
+            "id": "flwka6p",
+            "is_submitter": false,
+            "link_id": "t3_fgoor1",
+            "parent_id": "t1_flclknd",
+            "score": 1,
+            "stickied": false,
+            "author_name": "_brainfuck"
+        },
+        "flclknd": {
+            "comment": "Microsoft itself is a botnet and windows is the payload file",
+            "timeStamp": "2020/03/24-00:43:12",
+            "id": "flclknd",
+            "is_submitter": false,
+            "link_id": "t3_fgoor1",
+            "parent_id": "t3_fgoor1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "blood6445"
+        },
+        "fk99g5y": {
+            "comment": "I see.",
+            "timeStamp": "2020/03/11-17:04:14",
+            "id": "fk99g5y",
+            "is_submitter": false,
+            "link_id": "t3_fgoor1",
+            "parent_id": "t1_fk8znzi",
+            "score": 2,
+            "stickied": false,
+            "author_name": "BaGamman"
+        },
+        "fk8znzi": {
+            "comment": "Since they cracked it's domain name generation scheme, they prob just snag all the domains to try and cut the head off of it as much as possible. It'll probably bounce back from this tho if I had to guess.",
+            "timeStamp": "2020/03/11-15:31:26",
+            "id": "fk8znzi",
+            "is_submitter": true,
+            "link_id": "t3_fgoor1",
+            "parent_id": "t1_fk8v80h",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DrinkMoreCodeMore"
+        },
+        "fk8v80h": {
+            "comment": "Yes, so that they'll use it for their own ends I guess ?",
+            "timeStamp": "2020/03/11-14:52:22",
+            "id": "fk8v80h",
+            "is_submitter": false,
+            "link_id": "t3_fgoor1",
+            "parent_id": "t3_fgoor1",
+            "score": 2,
+            "stickied": false,
+            "author_name": "BaGamman"
+        },
+        "fk6kuv9": {
+            "comment": "Uno reverse",
+            "timeStamp": "2020/03/10-22:42:40",
+            "id": "fk6kuv9",
+            "is_submitter": false,
+            "link_id": "t3_fgoor1",
+            "parent_id": "t3_fgoor1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "takochako"
+        },
+        "fk6bc84": {
+            "comment": "Well played",
+            "timeStamp": "2020/03/10-20:36:24",
+            "id": "fk6bc84",
+            "is_submitter": false,
+            "link_id": "t3_fgoor1",
+            "parent_id": "t3_fgoor1",
+            "score": 2,
+            "stickied": false,
+            "author_name": "kubi-kula"
+        },
+        "fk663x7": {
+            "comment": "[removed]",
+            "timeStamp": "2020/03/10-19:41:22",
+            "id": "fk663x7",
+            "is_submitter": false,
+            "link_id": "t3_fgoor1",
+            "parent_id": "t3_fgoor1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fk5zfho": {
+            "comment": "Hijack the hijackers",
+            "timeStamp": "2020/03/10-18:38:57",
+            "id": "fk5zfho",
+            "is_submitter": false,
+            "link_id": "t3_fgoor1",
+            "parent_id": "t3_fgoor1",
+            "score": 4,
+            "stickied": false,
+            "author_name": "54v1t4r"
+        }
+    }
+}

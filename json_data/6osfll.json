@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[removed]",
+        "title": "Quick question.",
+        "score": 0,
+        "id": "6osfll",
+        "commsNum": 2,
+        "timeStamp": "2017/07/21-18:54:34",
+        "author_name": "ReeceF11",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6osfll/quick_question/"
+    },
+    "posts": {
+        "dkksf5h": {
+            "comment": "Probably just me over worrying haha \ud83d\ude02 ",
+            "timeStamp": "2017/07/22-12:11:40",
+            "id": "dkksf5h",
+            "is_submitter": true,
+            "link_id": "t3_6osfll",
+            "parent_id": "t1_dkk3fck",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ReeceF11"
+        },
+        "dkk3fck": {
+            "comment": "If it didn't install anything, then you're malware free. (Then again, how do you really know?)\n\nDid it trace your IP? Well, your IP address is in the web server logs now so they definitely have your IP address. I'm not sure what you're actually worried about here talking about a link which \"traces ips or hackers\".",
+            "timeStamp": "2017/07/21-23:09:22",
+            "id": "dkk3fck",
+            "is_submitter": false,
+            "link_id": "t3_6osfll",
+            "parent_id": "t3_6osfll",
+            "score": 1,
+            "stickied": false,
+            "author_name": "LeftHandedGraffiti"
+        }
+    }
+}

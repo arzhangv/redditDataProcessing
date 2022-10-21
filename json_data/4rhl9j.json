@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "*) to be clear: the payload has minor modification to change extension from .locky to .zepto w/ other minors, but in overall  it origins, works, looks as per locky does, we call this \"Locky OEM\".\n\n##Notes:\n\n1. All campaigns I received lead to few payloads..\n\n2. The data is shared to push cleanup process for the hacked sites.\n\n3. BGP network origin data may not be that accurate, please double check.\n\n4. Encrypted extension switched to .zepto, but the rest looks like locky...OEM? lol\n\n##Campaign pictures, spam templates, reversing notes:\n\nhttp://imgur.com/a/kOexV\n\n##Spambot:\n\n    154.118.244.117 |  |327825 | 154.118.244.0/22 | Neelana | ZA | - | Neelana Communications\n    14.174.71.248 | static.vnpt.vn. |45899 | 14.174.64.0/20 | VNPT-AS | VN | vnpt.com.vn | Vietnam Post\n\n##Payload URL:\n\n    homenordic.com/98uhnvcx4x\n    lojaeberlin.com/98uhnvcx4x\n    brazilmart.com/98uhnvcx4x\n    sgi-shipping.com/98uhnvcx4x\n    brewinbooks.com/98uhnvcx4x\n    thecorporate.gift/98uhnvcx4x\n    hangusaxachtay.com/98uhnvcx4x\n    flyingcarts.com/98uhnvcx4x\n    imbagscanta.com/98uhnvcx4x\n    foxprint.ro/98uhnvcx4x\n\nUtilized hacked site's nodes in BGP info:\n\n    homenordic.com  | 109.199.123.118 | ip-109-199-123-118.siteground.com. |32475 | 109.199.96.0/19 | SINGLEHOP-LLC | US | getclouder.com | GetClouder EOOD\n    lojaeberlin.com | 108.175.149.16 | stats.trout.arvixe.com. |20013 | 108.175.149.0/24 | CYRUSONE | US | arvixe.com | Arvixe LLC\n    brazilmart.com  | 209.222.76.36 |  |35017 | 209.222.76.0/24 | SWIFTWAY | GB | razorservers.com | Razor Inc.\n    sgi-shipping.com| 160.153.74.199 | ip-160-153-74-199.ip.secureserver.net. |26496 | 160.153.64.0/19 | AS-26496-GO-DADDY-CO | US | godaddy.com | GoDaddy.com LLC\n    brewinbooks.com | 79.170.44.88 | web88.extendcp.co.uk. |20738 | 79.170.40.0/21 | AS20738 | GB | heartinternet.co.uk | Heart Internet Ltd\n    thecorporate.gift | 75.98.175.98 | ssr9.supercp.com. |55293 | 75.98.160.0/20 | A2HOSTING | US | a2hosting.com | A2 Hosting Inc.\n    hangusaxachtay.com | 42.112.36.6 | uratic.ambiclick.com. |18403 | 42.112.36.0/24 | FPT-AS | VN | fpt.com.vn | FPT Telecom Company\n    flyingcarts.com | 160.153.45.1 | ip-160-153-45-1.ip.secureserver.net. |26496 | 160.153.32.0/19 | AS-26496-GO-DADDY-CO | US | godaddy.com | GoDaddy.com LLC\n    imbagscanta.com | 192.186.196.38 | ip-192-186-196-38.ip.secureserver.net. |26496 | 192.186.196.0/22 | AS-26496-GO-DADDY-CO | US | godaddy.com | GoDaddy.com LLC\n    foxprint.ro     | 46.102.232.140 | foxprint.ro. |35818 | 46.102.232.0/23 | WEBFACTOR | RO | hostbase.net | SC Webfactor SRL\n\n##Sample hash\n\n    ae0f64395eff7ff5a663701271d77a495a19076e890e596cb9d2237aaf0f317a\n\n##CNC Hardcoded in bin\n\n    185.106.122.38 | server.drprivat.me. |60117 | 185.106.122.0/24 | HS | NL | Host Sailor \n    185.106.122.46 | mx432.azolex.eu.    |60117 | 185.106.122.0/24 | HS | NL | Host Sailor \n\n\n##CNC DGA in alive state (not down nor sinkholed)\n\n    rbwubtpsyokqn.info | 185.129.148.6 | - |15615 | 185.129.148.0/24 | IT_SERVICES | LV | -\n    eobjiqh.ru         | 185.129.148.6 | - |15615 | 185.129.148.0/24 | IT_SERVICES | LV | -\n\n##MalwareMustDie\n(Many other good people are involved to this data collective effort)",
+        "title": "#Locky group drops Zepto ransomware ^ July 6th 2016",
+        "score": 9,
+        "id": "4rhl9j",
+        "commsNum": 12,
+        "timeStamp": "2016/07/06-01:52:35",
+        "author_name": "mmd0xFF",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 12,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/4rhl9j/locky_group_drops_zepto_ransomware_july_6th_2016/"
+    },
+    "posts": {}
+}

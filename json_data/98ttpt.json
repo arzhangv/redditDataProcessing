@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Malware researcher reverse engineered a threat that went undetected for at least 2 years",
+        "score": 1,
+        "id": "98ttpt",
+        "commsNum": 0,
+        "timeStamp": "2018/08/20-07:02:21",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://securityaffairs.co/wordpress/75478/malware/malware-reverse-engineering.html"
+    },
+    "posts": {}
+}

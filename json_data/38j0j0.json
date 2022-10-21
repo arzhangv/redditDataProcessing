@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "So recently I got into reverse engineering and malware analysis so I'm a bit of a newbie, but how would I go about viewing the content of which a TCP or UDP client sends and receives in plain text? I'm using Procmon to get the length of the content in bytes and whatnot, but what tool would show me the content in plain text?\n\nFor example, a TCP client sends \"7:Win32:XP:Administrator\" to the server, and the server then replies \"thx\". I want to see the actual string sent by the client and received by the server. I'm doing analysis on a RAT, if it helps.\n\nI apologize for any spelling errors or bad English, I'm typing this on my phone in class.",
+        "title": "Viewing outgoing/incoming TCP/UDP packets in plain text?",
+        "score": 4,
+        "id": "38j0j0",
+        "commsNum": 7,
+        "timeStamp": "2015/06/04-08:20:46",
+        "author_name": "lnsecurity",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/38j0j0/viewing_outgoingincoming_tcpudp_packets_in_plain/"
+    },
+    "posts": {}
+}

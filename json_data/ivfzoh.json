@@ -1,0 +1,99 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Good resources from legitimate security professionals online is hard to find.  I find mostly blogs trying to sell me a service.  Looking for a good infosec blog that focuses on mobile spyware or has done.  A technical blog, that talks about things like actual limitations of spyware and remote attack vectors.  Any good ones out there?",
+        "title": "Spyware Demystification",
+        "score": 1,
+        "id": "ivfzoh",
+        "commsNum": 7,
+        "timeStamp": "2020/09/18-15:22:05",
+        "author_name": "seolaAi",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ivfzoh/spyware_demystification/"
+    },
+    "posts": {
+        "g5xnfo2": {
+            "comment": "Patrick Wardle's blog [https://objective-see.com/blog.html](https://objective-see.com/blog.html) is a great resource for information about iOS and OSX malware.",
+            "timeStamp": "2020/09/19-22:28:02",
+            "id": "g5xnfo2",
+            "is_submitter": false,
+            "link_id": "t3_ivfzoh",
+            "parent_id": "t3_ivfzoh",
+            "score": 2,
+            "stickied": false,
+            "author_name": "revolver-ocelot-saa"
+        },
+        "g5xkx1b": {
+            "comment": "Wow, both the Pegasus paper and Xhelper ( https://blog.malwarebytes.com/android/2020/02/new-variant-of-android-trojan-xhelper-reinfects-with-help-from-google-play/ ) shed some much wanted insight!  This is the stuff I am looking for.  I pretty much follow your guidelines for protection already but just assumed a home-cooked malware would find a way to circumnavigate any anti-virus.  I could not factory reset my devices because recovery was missing on them.  \n\nPersonally, it is one thing to deal with privacy violation on state level or local level, quite another thing to have to deal with the cost involved with replacing bricked devices with corrupted recovery.  Local threats add another layer of psychological cost.  Sure someone is reading your diary...now if you want to keep a diary it is going to cost you.  \n\nSo, my hunt to know how to protect myself continues.  But light was shed on me this day.  Thank-you.",
+            "timeStamp": "2020/09/19-22:11:56",
+            "id": "g5xkx1b",
+            "is_submitter": true,
+            "link_id": "t3_ivfzoh",
+            "parent_id": "t1_g5umn33",
+            "score": 2,
+            "stickied": false,
+            "author_name": "seolaAi"
+        },
+        "g5v3dtf": {
+            "comment": "[removed]",
+            "timeStamp": "2020/09/19-14:03:26",
+            "id": "g5v3dtf",
+            "is_submitter": false,
+            "link_id": "t3_ivfzoh",
+            "parent_id": "t1_g5umn33",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "g5umn33": {
+            "comment": "The vectors are not sexy - realistically, the most likely way someone is going to be installing stalkerware is by having physical access to the device and installing an APK. Depending on how long they have the device and what features the malware offers they may also jailbreak it and get a much deeper level of access.\n\nThe handy thing about this class of software is it's marketed widely, so you can just go to the websites and look at how it works. Lets sample a few:\n\n&amp;#x200B;\n\n&gt;mobile-spy  \n&gt;  \n&gt;This email will also contain a link to download the program. You can  download and install the application onto the device to be monitored  using the included instructions. Also, the download and installation  instructions can be found in the online User Guide.\n\n&amp;#x200B;\n\n&gt;SpyZeeDownload SpyZee app on cell phone via browsing such as: chrome, firefox,  default browser. And Install the SpyZee spying software onto your  target phones\n\n&amp;#x200B;\n\n&gt;XNSPY  \n&gt;  \n&gt;Our Xnspy app requires a one-time access on both Android and iOS  devices. Once our service is set up and running, you can view all data  remotely through your web account.\n\n&amp;#x200B;\n\n&gt;FlexiSPY  \n&gt;  \n&gt;You must have physical access to the device to install FlexiSPY.  It cannot be installed remotely. (this one also offers phones with it pre-installed)\n\nI can't find any that offer installation remotely or in a subtle way.\n\nRemotely installing something like this is either going to require some serious social engineering (where the victim is convinced to install it themselves) or a very, very expensive exploit that  is just not realistic for anyone using crappy double/triple-digit dollar subscription spyware.\n\nInstalling something that survives a factory reset might exist at the state level but is not realistic for stalkerware. Check out Citizenlabs analysis of Pegasus for the most advanced mobile malware that has had a public writeup, I don't think it had that capability and even if it did - they tend towards self-destruction if they think it's been detected rather than trying really hard to stay installed.\n\n[https://info.lookout.com/rs/051-ESQ-475/images/lookout-pegasus-technical-analysis.pdf](https://info.lookout.com/rs/051-ESQ-475/images/lookout-pegasus-technical-analysis.pdf)\n\nThere are some stalkerware apps on the app store (which have just been banned by Google as of October) but those will be listed in the device App listings, albeit disguised as something else. Many will also be detected by mobile malware solutions.\n\nIf you want to protect yourself then:\n\n* Restrict apps to app-store only\n* Never let anyone borrow the phone\n* Use a mobile antivirus (absolutely not perfect, but as far as malware goes -- stalkerware is low hanging fruit)\n* A factory reset will pretty much guarantee the device is clean, as long as you don't restore it when setting the device back up again\n\nedit: forgot about [xhelper](https://securelist.com/unkillable-xhelper-and-a-trojan-matryoshka/96487/) which can survive a factory reset, but won't survive reflashing the device",
+            "timeStamp": "2020/09/19-12:22:03",
+            "id": "g5umn33",
+            "is_submitter": false,
+            "link_id": "t3_ivfzoh",
+            "parent_id": "t1_g5uetpl",
+            "score": 2,
+            "stickied": false,
+            "author_name": "testudobinarii"
+        },
+        "g5uetpl": {
+            "comment": "I see.  I am frustrated by that.  There are products being sold within a legal grey area that provide remote access to mobile devices.  Could a professional not inspect these services and report on how they operate, making educated recommendations about how to actually protect oneself?  If it is legal that these services exist, would it not be legal to investigate how they operate?  \n\nIn regards to android, I thought that architecture was open-source?  I think a professional could extrapolate possible vectors from all the open data that exists on mobile architecture to make some safely accurate general statements about what levels of access a remote attacker has.  Accurate, if not complete.  \n\nLook, I am smart enough to know I don't know enough.  I can't seem to find even mid-level articles on demystifying this kind of malware, for free.\n\nAll I want to do is protect myself from those who abuse this software, or have the ability to write their own.  \n\nCan not the vectors be demystified?  Is it possible for a remote attacker to gain access without physical access?  Can they install malware that stays put after a factory reset?  \n\nI think this is important to know.  All I get from one person IRL, an ex-private investigator, is that if a hacker wants in they will get in.  Once they do you need to buy a new phone.",
+            "timeStamp": "2020/09/19-11:35:05",
+            "id": "g5uetpl",
+            "is_submitter": true,
+            "link_id": "t3_ivfzoh",
+            "parent_id": "t1_g5sk2xk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "seolaAi"
+        },
+        "g5udl3x": {
+            "comment": "[removed]",
+            "timeStamp": "2020/09/19-11:27:53",
+            "id": "g5udl3x",
+            "is_submitter": false,
+            "link_id": "t3_ivfzoh",
+            "parent_id": "t3_ivfzoh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "g5sk2xk": {
+            "comment": "I've wanted to write one of these for a while but there is a significant worry about the legal side of openly reverse engineering a companies closed source software in order to damage their business because you contest whatever nonsense claims to legitimacy they have.  If a big AV company has to win their right to detect [adware](https://blog.malwarebytes.com/malwarebytes-news/2017/11/winning-the-battle-against-pups-on-your-computer-and-in-u-s-district-court/) in court as \"potentially unwanted\" then anyone writing about spyware is also putting a target on their back. \n\nPerhaps it's a job for a mysterious anonymous researcher.",
+            "timeStamp": "2020/09/19-00:04:53",
+            "id": "g5sk2xk",
+            "is_submitter": false,
+            "link_id": "t3_ivfzoh",
+            "parent_id": "t3_ivfzoh",
+            "score": 6,
+            "stickied": false,
+            "author_name": "testudobinarii"
+        }
+    }
+}

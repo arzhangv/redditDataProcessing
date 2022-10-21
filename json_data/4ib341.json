@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I'm interested in researching new/0day malware and was told that the best way to do so was to spin up a VM and spider websites with a sandbox such as Cuckoo.  Apparently this is how a lot of new malware is discovered -- organizations like Google inspect new websites, see what actions they take, and classify them as either malicious or non-malicious.\n\nHowever, upon reading into the subject, I discovered that a lot of new malware has the ability to tell that it's being run in a sandbox or VM and cease execution.  If that were to happen, I might be able to discover that such-and-such a site was malicious (which I suppose is good enough for Google), but I wouldn't be able to get my hands on the actual main malware sample, which is what I'm interested in.\n\nIs there any way to force malware to execute in a VM/sandbox and make it think it's running on a regular computer?  Barring that, is there any way to determine information about the main malware executable from the initial shellcode dropped from the attack site?\n\nI know it's possible to reverse engineer the malware manually and remove the parts of the program that do the anti-VM checks, but I'm thinking more about something I could do in an automated fashion, since my goal is to spider a bunch of websites to find new malware samples and having to inspect every potentially malicious sample manually would be too slow.",
+        "title": "Forcing malware to detonate in a sandbox",
+        "score": 20,
+        "id": "4ib341",
+        "commsNum": 9,
+        "timeStamp": "2016/05/07-11:21:42",
+        "author_name": "exosphere5",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 9,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/4ib341/forcing_malware_to_detonate_in_a_sandbox/"
+    },
+    "posts": {}
+}

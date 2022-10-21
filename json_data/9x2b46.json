@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "I Wrote my Own Ransomware; did not make 1 iota of a Bitcoin by Thomas Fischer",
+        "score": 1,
+        "id": "9x2b46",
+        "commsNum": 2,
+        "timeStamp": "2018/11/14-09:46:24",
+        "author_name": "0xKaishakunin",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.sicherheitsforschung-magdeburg.de/uploads/journal/MJS_059_Fischer_Ransomware.pdf"
+    },
+    "posts": {
+        "e9p6ud5": {
+            "comment": "So from reading the abstract, introduction, and conclusion, it sounds like he determined that he could write ransomware in under 24 hours, though it might quicker in real life. The end.\n\nIs this (along with a clickbaity title) seriously all it takes to publish a paper?",
+            "timeStamp": "2018/11/14-11:35:30",
+            "id": "e9p6ud5",
+            "is_submitter": false,
+            "link_id": "t3_9x2b46",
+            "parent_id": "t3_9x2b46",
+            "score": 4,
+            "stickied": false,
+            "author_name": "iagox86"
+        },
+        "e9oycl5": {
+            "comment": "**I Wrote my Own Ransomware; did not make 1 iota of a Bitcoin**\n\n*by Thomas Fischer*\n\n2016 saw a substantial rise in ransomware attacks and in some cases the return of some favourites with Cryptowall, CTB-LOCKER and TeslaCrypt being some of the most popular. The volume of attacks was in fact pretty steady for a good part of the year, with regular campaigns coming out on a weekly basis. It was interesting to see the variety in mechanisms used for the ransomware which not only included self-contained binaries but went all the way to the use of scripts. As part of the research I conducted last year, I wanted to understand why there's such a drive and lure for ransomware, outside of the victims payment, as well as have some way of properly testing \u00bbanti-ransomware\u00ab solutions with an unknown variant. So to do that, I went ahead and built my own ransomware and drew some conclusions on why it became so popular. This talk explore the background and process used to build a live ransomware that I was able to use for controlled testing. To finally draw some of my own personal conclusions.\nKeywords: Malware, Malware Analysis, Bitcoin, Encryption\n\nThis article appears in the special edition \u201eIn Depth Security \u2013 Proceedings of the DeepSec Conferences Vol. 3\u201c. \n\nMore articles can be found at http://www.sicherheitsforschung-magdeburg.de/publikationen/journal.html#c362",
+            "timeStamp": "2018/11/14-09:46:46",
+            "id": "e9oycl5",
+            "is_submitter": true,
+            "link_id": "t3_9x2b46",
+            "parent_id": "t3_9x2b46",
+            "score": 1,
+            "stickied": false,
+            "author_name": "0xKaishakunin"
+        }
+    }
+}

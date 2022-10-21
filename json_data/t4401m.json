@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "If you're a malware operator who likes to Rush B and want to manage your victims while playing games, this is for you.\n\n[https://www.youtube.com/watch?v=b2L1lWtwBiI&amp;t=1s](https://www.youtube.com/watch?v=b2L1lWtwBiI&amp;t=1s)\n\n[https://twitter.com/kaganisildak/status/1498585440680656896](https://twitter.com/kaganisildak/status/1498585440680656896)",
+        "title": "Demonstration of how use Counter-Strike 1.6 as Malware C2",
+        "score": 1,
+        "id": "t4401m",
+        "commsNum": 3,
+        "timeStamp": "2022/03/01-01:23:15",
+        "author_name": "kaganisildak",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/t4401m/demonstration_of_how_use_counterstrike_16_as/"
+    },
+    "posts": {
+        "hz24hgz": {
+            "comment": "Seems like this would be one of the worst ways to manage a botnet but it's super cool. I wanna see them do Doom next.",
+            "timeStamp": "2022/03/02-07:27:44",
+            "id": "hz24hgz",
+            "is_submitter": false,
+            "link_id": "t3_t4401m",
+            "parent_id": "t3_t4401m",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DrinkMoreCodeMore"
+        },
+        "hyzgsmb": {
+            "comment": "Somewhere, many, many Russian players started screaming \"CYKA BLYAT.\"",
+            "timeStamp": "2022/03/01-16:33:34",
+            "id": "hyzgsmb",
+            "is_submitter": false,
+            "link_id": "t3_t4401m",
+            "parent_id": "t3_t4401m",
+            "score": 3,
+            "stickied": false,
+            "author_name": "tuxedo_jack"
+        },
+        "hyxmtb0": {
+            "comment": "[removed]",
+            "timeStamp": "2022/03/01-09:19:18",
+            "id": "hyxmtb0",
+            "is_submitter": false,
+            "link_id": "t3_t4401m",
+            "parent_id": "t3_t4401m",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

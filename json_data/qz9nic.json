@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "# book musk dot net\n\n## self-deprecating introduction\n\nHi all, this is my first post. I don't really know a whole lot about security or security research, so unfortunately this little endeavour hasn't been very fruitful for me so far. I would be thrilled to hear any feedback the community (or the mods) would be willing to throw my way, be that on the content of the post, my writing style, or something else.\n\nI saw a comment on r/WorldNews earlier today. It claimed to offer a free PDF (wow!) of Elon Musk's brand new book! Quite an impressive offer, especially considering that Elon Musk has never actually published a book that I could find any record of. So I clicked that link, and I downloaded the file it offered me, and I poked at it a bit to see what happened. The comment itself was quickly deleted (props to the WN mods where due), and I forgot to grab a screenshot of it. Sorry about that.\n\nSince I'm a noob and people will probably ask the reasonable question of what I did to protect myself while clicking this shady link:\n\n * I used a reputable VPN\n * Anything beyond reading files in a text editor was done in a VM\n * Yes, I am very aware that best practice probably would have been to use a VM from the very start, but I'm an idiot and impatient\n\n____\n\nThis section is also available as an [imgur album](https://imgur.com/a/GGmC8je) if you're into that.\n\n### [Image 1](https://imgur.com/Km6W3zb.jpg)\nThe site itself, which directs you to download a ZIP file through the \"READ THE BOOK FREE\" link. The file is hosted on Discord's CDN.\n\n### [Image 2](https://imgur.com/ycez5vV.jpg)\nThe contents of the ZIP file.\n\nArchive contents:\n\n * A shady PDF\n * An even shadier VBScript file\n * A readme.txt\n\n### [Image 3](https://imgur.com/naHwVgR.jpg)\nThe contents of readme.txt, which tells you to open the really shady VBScript file.\n\n### [Image 4](https://imgur.com/PxNFV5g.jpg)\nThe contents of the VBScript file. It's five lines, with four of them being guff. I don't know much about VBScript, but I know an IP address when I see one.\n\n### [Image 5](https://imgur.com/UDGRLBq.jpg)\nThe IP address points at a server in Russia. Here's what Shodan knows about it.\n\n### [Image 6](https://imgur.com/VgXar4Y.jpg)\nWe're in the VM from here on out. Here's that Russian webserver. I have no idea what it's trying to do under the hood, but I know it's obfuscated beyond my ability to read any of the underlying code.\n\n### [Image 7](https://imgur.com/hKCDVdq.jpg)\nWhatever it's doing, Firefox doesn't like it.\n\n### [Image 8](https://imgur.com/UxnM2d6.jpg)\nNo matter. In spite of the fact that we're not playing by the rules, their Google Sites page still gives us the password.\n\n### [Image 9](https://imgur.com/Ves4jo8.jpg)\nSurprisingly, at first blush it looks like this is the PDF they promised us. Upon closer inspection it appears to be a straight copy of \"Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future\" by Ashlee Vance, just with a different cover.\n\n___\n\n## Conclusions\n\nSurprise, I didn't learn much of anything, other than lots of shady links point you at websites hosted in Russia. A shocking revelation, I know. My \"investigation,\" if you're generous enough to call it that, ends here for now. I have no idea how to read VBScript, and I have no idea what that website was trying to do beyond use up as many resources as possible. Crypto mining, maybe? But then, that's mere speculation and hardly enough to sate the curious mind.\n\n### Next Steps\n\nIf I wanted to pursue this further, I'd probably learn some VBS and try to inspect the traffic coming out of my VM for additional clues. \n\nThanks for reading. 'Til next time, if there is a next time.\n\n-- AM",
+        "title": "short investigation of a spam post I found on r/WorldNews",
+        "score": 1,
+        "id": "qz9nic",
+        "commsNum": 6,
+        "timeStamp": "2021/11/21-17:26:25",
+        "author_name": "AbsurdistMonk",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/qz9nic/short_investigation_of_a_spam_post_i_found_on/"
+    },
+    "posts": {
+        "hnvzjca": {
+            "comment": "I seem to be a bit late to the party, but this looks pretty consistent with an email scam I get. The subject line is usually a set of random strings usually containing the words \"Elon, Musk, Bitcoin, an a random number\". There is usually an HTML file attached that certainly doesn't look sketchy at all. Static analysis of the HTML file revealed a single \"onerr=\" line that would redirect you to an IP or domain registered to Russia. I haven't gotten to the point of trying to download the actual malware yet, but some OSR shows it to be a bitcoin wallet stealer named RaccoonThief(?)",
+            "timeStamp": "2021/12/09-11:18:40",
+            "id": "hnvzjca",
+            "is_submitter": false,
+            "link_id": "t3_qz9nic",
+            "parent_id": "t3_qz9nic",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ImproperEatenKitKat"
+        },
+        "hlvjtyu": {
+            "comment": "[removed]",
+            "timeStamp": "2021/11/23-23:38:50",
+            "id": "hlvjtyu",
+            "is_submitter": false,
+            "link_id": "t3_qz9nic",
+            "parent_id": "t3_qz9nic",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hlmolve": {
+            "comment": "Use FakeNet. She can capture any callouts to see if they POST any credentials, it isolates the host so you shouldnt have to worry.\n\nIf you want send me a screenshot of the VBS lines I can try to tell you what it does.\n\nThe PDF may also have some malicious things within it so you may need to start doing dynamic analysis on it",
+            "timeStamp": "2021/11/22-04:05:05",
+            "id": "hlmolve",
+            "is_submitter": false,
+            "link_id": "t3_qz9nic",
+            "parent_id": "t3_qz9nic",
+            "score": 3,
+            "stickied": false,
+            "author_name": "tman10020"
+        },
+        "hllxw05": {
+            "comment": "The vbscript is using mshta.exe to download and execute code from the rando ip. That's all I can tell rn, on mobile. See https://www.mcafee.com/blogs/other-blogs/mcafee-labs/what-is-mshta-how-can-it-be-used-and-how-to-protect-against-it/",
+            "timeStamp": "2021/11/21-22:05:32",
+            "id": "hllxw05",
+            "is_submitter": false,
+            "link_id": "t3_qz9nic",
+            "parent_id": "t3_qz9nic",
+            "score": 1,
+            "stickied": false,
+            "author_name": "deargle"
+        },
+        "hlln285": {
+            "comment": "[removed]",
+            "timeStamp": "2021/11/21-20:18:44",
+            "id": "hlln285",
+            "is_submitter": false,
+            "link_id": "t3_qz9nic",
+            "parent_id": "t3_qz9nic",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hll928c": {
+            "comment": "[removed]",
+            "timeStamp": "2021/11/21-18:24:35",
+            "id": "hll928c",
+            "is_submitter": false,
+            "link_id": "t3_qz9nic",
+            "parent_id": "t3_qz9nic",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

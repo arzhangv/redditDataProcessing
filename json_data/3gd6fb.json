@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I've taken on a small project of learning PowerShell.  PowerShell is something I have been interested in for quite a long time and recently, a friend of mine developed a PowerShell script to profile any machine when the USB containing the script is plugged in.  It would grab the following:\n\n* Public IP address (quering with any popular whois site + output to .txt)\n* Windows registration key\n* NIC Model\n* OS Version\n* OS Architecture\n\nas well as some other interesting stuff.  Of course, I've read around and watched quite a few videos on the concept of PowerShell malware or even just using PowerShell in exploits (see the RFD talk at Black Hat 2014).\n\nBut what I'm asking from this post is... does anybody here have any scripts or snippets of PowerShell that they've found active in the wild?  I'm curious to see how it's written when it comes to throwing it into the wild to catch people out.",
+        "title": "PowerShell malware examples",
+        "score": 12,
+        "id": "3gd6fb",
+        "commsNum": 7,
+        "timeStamp": "2015/08/09-10:08:50",
+        "author_name": "sevaaraii",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/3gd6fb/powershell_malware_examples/"
+    },
+    "posts": {}
+}

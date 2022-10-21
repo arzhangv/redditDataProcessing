@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Been looking at browser security, and it still looks like chrome is still king.  altho, on windows 10 edge has application guard which looks very interesting, as it uses a read only HyperV container....\n\nas much as I want to like edge, it looking at some of the data and some live tests on youtube, chrome is just better.\n\nthoughts?",
+        "title": "Browser Security?",
+        "score": 0,
+        "id": "7ycrhf",
+        "commsNum": 6,
+        "timeStamp": "2018/02/17-22:55:41",
+        "author_name": "ghostinshell000",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/7ycrhf/browser_security/"
+    },
+    "posts": {}
+}

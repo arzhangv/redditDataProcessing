@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Not so fast my friend - Using Inverted Timing Attacks to Bypass Dynamic Analysis",
+        "score": 1,
+        "id": "2mou4u",
+        "commsNum": 1,
+        "timeStamp": "2014/11/18-10:55:32",
+        "author_name": "lastlinelabs",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://labs.lastline.com/not-so-fast-my-friend-using-inverted-timing-attacks-to-bypass-dynamic-analysis"
+    },
+    "posts": {}
+}

@@ -1,0 +1,121 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I want to make my own malware analysis laptop so that i can collect and store it in one place.\nWhat kind of machine does it require and whale softwares would i need??\n\nThanks in advance for ur support",
+        "title": "Malware analysis",
+        "score": 1,
+        "id": "9x1v0p",
+        "commsNum": 9,
+        "timeStamp": "2018/11/14-08:58:18",
+        "author_name": "fastbyte90",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 9,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/9x1v0p/malware_analysis/"
+    },
+    "posts": {
+        "e9qnc3x": {
+            "comment": "Could you suggest any books too??\n",
+            "timeStamp": "2018/11/15-03:12:31",
+            "id": "e9qnc3x",
+            "is_submitter": true,
+            "link_id": "t3_9x1v0p",
+            "parent_id": "t3_9x1v0p",
+            "score": 1,
+            "stickied": false,
+            "author_name": "fastbyte90"
+        },
+        "e9qnb2q": {
+            "comment": " Thanks for your indepth reply @Elmaxino",
+            "timeStamp": "2018/11/15-03:11:39",
+            "id": "e9qnb2q",
+            "is_submitter": true,
+            "link_id": "t3_9x1v0p",
+            "parent_id": "t1_e9pcd8t",
+            "score": 1,
+            "stickied": false,
+            "author_name": "fastbyte90"
+        },
+        "e9qn9j7": {
+            "comment": "I can be known as an intermediate learner\nBut i have no practical experience.... So i took an initiative =)",
+            "timeStamp": "2018/11/15-03:10:19",
+            "id": "e9qn9j7",
+            "is_submitter": true,
+            "link_id": "t3_9x1v0p",
+            "parent_id": "t1_e9ovi37",
+            "score": 1,
+            "stickied": false,
+            "author_name": "fastbyte90"
+        },
+        "e9pcd8t": {
+            "comment": "I imagine you'll be focusing on PE file format mostly, so you'll need a VM with Windows on it. You can checkout ready VM images from the offical Microsoft page \\[[https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)\\]. Most malware are x86 bit files so in most cases you'll be fine with an x86 machine. Of course you can downlaod the x64 bit version if needed.\n\nThe basic idea is to have the analysis machine off network and with network discovery turned off. When mounting shared folders make one of them read-only and a separate folder with read-write permission. In the read-only folder you can keep analysis tools installers and various other files which you don't want to possibly get infected by the malware. For example, there are ransomwares which will also see your shared folders and encrypt them as well, or malware that injects payloads into other executable files. That way you avoid malware spreading onto your host / losing data on the shared drive. If you have the need to pull out files from the VM (e.g. unpacked samples) use the read-write permission folder. Put \"not so important\" data on that one and **never run anything** from that folder from your host.\n\nFor dynamic analysis you can set up a 2nd VM that will sniff the entire traffic from the victim machine (with Wireshark and inetsim). That way you can catch any relevant network communication (C2's, 2nd stage malware links, etc.). Put both VM's in the same network so that they can see each other. Some other tools that can be useful for dynamic analysis is the [Sysinternals Suite](https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite) from Microsoft. That way you can track spawned processes and registry changes. [RegShot](https://sourceforge.net/projects/regshot/files/) is also another handy tool for viewing changes done to registry entries.\n\nFor static analysis all you really need is a debugger. You can use [OllyDbg](http://www.ollydbg.de/) or [x64dbg](https://x64dbg.com/#start) (I personally prefer the latter). I also like to run [IDA](https://www.hex-rays.com/products/ida/support/download_freeware.shtml) on my host machine to label functions and keep track of everything. [HxD](https://mh-nexus.de/en/hxd/) (hex editor) can also be useful so you can quickly copy shellcodes or patch the samples.\n\nThat's all I can think of from the top of my head... Happy hacking!",
+            "timeStamp": "2018/11/14-12:46:31",
+            "id": "e9pcd8t",
+            "is_submitter": false,
+            "link_id": "t3_9x1v0p",
+            "parent_id": "t3_9x1v0p",
+            "score": 3,
+            "stickied": false,
+            "author_name": "Elmaxino"
+        },
+        "e9p477l": {
+            "comment": "The best one I have used is FireEye's FLARE VM for Windows Malware. Ideally, you'll want to use a VM with snapshots for easy reverts after dynamic analysis.\n\nFLARE and Remnux should come with the tools you will need.\n\nPluralsight has a good starter course for malware analysis, and you can get a free 90 day trial with an MS Dev account.",
+            "timeStamp": "2018/11/14-11:00:45",
+            "id": "e9p477l",
+            "is_submitter": false,
+            "link_id": "t3_9x1v0p",
+            "parent_id": "t3_9x1v0p",
+            "score": 5,
+            "stickied": false,
+            "author_name": "AbsoZed"
+        },
+        "e9p35eq": {
+            "comment": "Lenny Zeltser\u2019s Remnux is one of the more frequently used reverse engineering and malware analysis Linux distributions. It runs well as a VM and there\u2019s a free cloud-based version that could save you the trouble of installation. I would also recommend getting a standard Windows VM to infect with the malware you\u2019re analyzing so you can see what files the malware might try to create or edit in the Windows environment. [Remnux](https://remnux.org/) ",
+            "timeStamp": "2018/11/14-10:47:19",
+            "id": "e9p35eq",
+            "is_submitter": false,
+            "link_id": "t3_9x1v0p",
+            "parent_id": "t3_9x1v0p",
+            "score": 1,
+            "stickied": false,
+            "author_name": "jwoodsiii"
+        },
+        "e9p0cc5": {
+            "comment": "Check this out:\n\nhttps://www.malwaretech.com/2017/11/creating-a-simple-free-malware-analysis-environment.html",
+            "timeStamp": "2018/11/14-10:12:03",
+            "id": "e9p0cc5",
+            "is_submitter": false,
+            "link_id": "t3_9x1v0p",
+            "parent_id": "t3_9x1v0p",
+            "score": 3,
+            "stickied": false,
+            "author_name": "likeadungeondragon"
+        },
+        "e9ow5xt": {
+            "comment": "[deleted]",
+            "timeStamp": "2018/11/14-09:19:10",
+            "id": "e9ow5xt",
+            "is_submitter": false,
+            "link_id": "t3_9x1v0p",
+            "parent_id": "t3_9x1v0p",
+            "score": 0,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "e9ovi37": {
+            "comment": "How familiar are you with malware analysis? VMs is where to start.",
+            "timeStamp": "2018/11/14-09:10:49",
+            "id": "e9ovi37",
+            "is_submitter": false,
+            "link_id": "t3_9x1v0p",
+            "parent_id": "t3_9x1v0p",
+            "score": 2,
+            "stickied": false,
+            "author_name": "0x646f6e67"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "So a few days ago I posted a seemingly new in the wild malware, submitted it to a few retail antivirus/malware firms (Kaspersky, Bitdefender, HitmanPro, Panda) and thus far only Bitdefender responded to me saying they've added it to their definitions.\n\nHowever, scanning the virus again shows no hits, and regardless, it seems to have dropped code all over my computer but has made no attempts to take any financial information which leads me to believe this might be spyware.\n\nHere are the files - first is the trojan/payload and second is the file that seemingly injects code all over including Windows dlls and Chrome/IE.\n\nPersistant payload living in C:\\Program Files (x86)\\Google\\Chrome\\Application\\47.0.2526.80 that injects code\n\nhttps://mega.nz/#!9NIyCIjC!BW8yWe9QKb1E3_tVvlRzD3rFTgfcSMxwcu8bZX0WNe4\n\nTrojan\n\nhttps://mega.nz/#!wUpkUJQJ!VT1qRDZtXp_USWHDR8_xGTeNVq4SbE-uhMXVC6N6MV4\n\nNote that interestingly enough the malware writers seem to keep a close eye on the status of the machines running said malware, to the point where I found a working copy of a Rick Roll in my sandbox. \n\nYour mileage may vary of course, and it's possible it only activates on targeted machines.",
+        "title": "Interesting malware if you wanna take a look",
+        "score": 10,
+        "id": "3wxjof",
+        "commsNum": 8,
+        "timeStamp": "2015/12/15-04:26:14",
+        "author_name": "hayguizeimhere",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 8,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/3wxjof/interesting_malware_if_you_wanna_take_a_look/"
+    },
+    "posts": {}
+}

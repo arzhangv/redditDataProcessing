@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "I made my very own Scorpion Virus. I had fun xD",
+        "score": 1,
+        "id": "uvak9n",
+        "commsNum": 0,
+        "timeStamp": "2022/05/22-06:04:11",
+        "author_name": "Giu-giu7077",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://v.redd.it/7dssn9y301191"
+    },
+    "posts": {
+        "i9k539e": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators **and be sure to include the link to the post** - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2022/05/22-06:06:34",
+            "id": "i9k539e",
+            "is_submitter": false,
+            "link_id": "t3_uvak9n",
+            "parent_id": "t3_uvak9n",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

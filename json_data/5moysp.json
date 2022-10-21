@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "So I've been wanting to do some Windows destruction videos Vinesauce-style, and I know there are some viruses that can slip out into the host on Virtualbox, the program I use. How can I set my VM so that my host is safe?",
+        "title": "How to protect a virtual machine when doing destruction-esque things",
+        "score": 15,
+        "id": "5moysp",
+        "commsNum": 4,
+        "timeStamp": "2017/01/07-20:08:31",
+        "author_name": "Evow_",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5moysp/how_to_protect_a_virtual_machine_when_doing/"
+    },
+    "posts": {}
+}

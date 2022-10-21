@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hi All,\n\nI have  been assigned a task to analyse PCAP file for suspicious activity reported by the user.\n\nWhile checking the PCAP files in wireshark, observed  a mix of Wireless 802.11 packets and DNS query responses.   There are no query requests, also I could  able to see base64-like data incubated in them . \n\nSuspecting  malicious DNS tunnel  encoded.\n\nhow to decode this traffic.?\n\nI came to know there is a tool called  Scapy   to extract packet data  but I am not strong in python and kali linux.\n\nPlease let me know how to decode the malicious DNS tunneling.\n\n&amp;#x200B;\n\nThank you",
+        "title": "DNS tunneling Analysis",
+        "score": 1,
+        "id": "ibhnbb",
+        "commsNum": 3,
+        "timeStamp": "2020/08/17-09:42:12",
+        "author_name": "vyasarvenkat",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ibhnbb/dns_tunneling_analysis/"
+    },
+    "posts": {
+        "g2783dr": {
+            "comment": "[removed]",
+            "timeStamp": "2020/08/20-03:43:02",
+            "id": "g2783dr",
+            "is_submitter": false,
+            "link_id": "t3_ibhnbb",
+            "parent_id": "t3_ibhnbb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "g227uzq": {
+            "comment": "I'm not saying you under attack from OilRig, although, I remembered that I red this today:\n\n[https://www.zdnet.com/article/iranian-hacker-group-becomes-first-known-apt-to-weaponize-dns-over-https-doh/](https://www.zdnet.com/article/iranian-hacker-group-becomes-first-known-apt-to-weaponize-dns-over-https-doh/)\n\nTry to know whether the business area of your company are in the interests of OilRig, If its positive, you should take a look.",
+            "timeStamp": "2020/08/18-19:41:13",
+            "id": "g227uzq",
+            "is_submitter": false,
+            "link_id": "t3_ibhnbb",
+            "parent_id": "t3_ibhnbb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "p3tr00v"
+        },
+        "g1vuf4y": {
+            "comment": "If you can already see the b64 content, just decode it and see what it is. Alternately, if you know there are no incoming DNS queries, and that the system shouldn't be making these requests, you need to worry about forensic analysis on the system, not the pcap content.\n\nedit: I see you said \"base64-like\", implying it might just be a padded hash or encrypted content. If it's encrypted, you're going to need to know how, or you're SOL. If it's just hashed, you may be able to determine the hash type, and potentially crack it.",
+            "timeStamp": "2020/08/17-10:22:15",
+            "id": "g1vuf4y",
+            "is_submitter": false,
+            "link_id": "t3_ibhnbb",
+            "parent_id": "t3_ibhnbb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "dont_ban_me_bruh"
+        }
+    }
+}

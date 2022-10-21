@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Malware Reverse Engineering Handbook by NATO CCDCOE",
+        "score": 1,
+        "id": "hzgt2u",
+        "commsNum": 2,
+        "timeStamp": "2020/07/28-08:36:02",
+        "author_name": "QuirkySpiceBush",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://ccdcoe.org/library/publications/malware-reverse-engineering-handbook/"
+    },
+    "posts": {
+        "fzk1ai4": {
+            "comment": "It's a sixty page pdf.",
+            "timeStamp": "2020/07/28-14:38:46",
+            "id": "fzk1ai4",
+            "is_submitter": false,
+            "link_id": "t3_hzgt2u",
+            "parent_id": "t1_fzj3h22",
+            "score": 3,
+            "stickied": false,
+            "author_name": "NotAFinnishLawyer"
+        },
+        "fzj3h22": {
+            "comment": "Anyone reverse this yet? I'm not by my lab",
+            "timeStamp": "2020/07/28-10:07:59",
+            "id": "fzj3h22",
+            "is_submitter": false,
+            "link_id": "t3_hzgt2u",
+            "parent_id": "t3_hzgt2u",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Wouldratherplaymtg"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "[removed]",
+        "title": "..",
+        "score": 1,
+        "id": "qy2iec",
+        "commsNum": 1,
+        "timeStamp": "2021/11/20-01:59:56",
+        "author_name": "kyusoo_",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/qy2iec/_/"
+    },
+    "posts": {
+        "hldc7sz": {
+            "comment": "[removed]",
+            "timeStamp": "2021/11/20-02:00:56",
+            "id": "hldc7sz",
+            "is_submitter": false,
+            "link_id": "t3_qy2iec",
+            "parent_id": "t3_qy2iec",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

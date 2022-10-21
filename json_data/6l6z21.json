@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Analysis of TeleBots\u2019 cunning backdoor",
+        "score": 28,
+        "id": "6l6z21",
+        "commsNum": 2,
+        "timeStamp": "2017/07/04-06:12:12",
+        "author_name": "r721",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.welivesecurity.com/2017/07/04/analysis-of-telebots-cunning-backdoor/"
+    },
+    "posts": {
+        "djsrgox": {
+            "comment": "&gt; . It seems very unlikely that attackers could do this without access to M.E.Doc\u2019s source code.\n\n&gt; The backdoored module has the filename ZvitPublishedObjects.dll. This was written using the .NET Framework.\n\nWell any monkey with a wrench can decompile .NET applications to atleast ILASM, and obviously if it wasn't obfuscated then they're probably just going to get word-for-word source code.",
+            "timeStamp": "2017/07/04-23:52:03",
+            "id": "djsrgox",
+            "is_submitter": false,
+            "link_id": "t3_6l6z21",
+            "parent_id": "t3_6l6z21",
+            "score": 2,
+            "stickied": false,
+            "author_name": "SpookyWA"
+        }
+    }
+}

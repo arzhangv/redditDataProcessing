@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Malware Gang Steals Certificates To Bypass Code-Signing Checks",
+        "score": 1,
+        "id": "4at3ak",
+        "commsNum": 0,
+        "timeStamp": "2016/03/17-06:51:43",
+        "author_name": "dangelost",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://virusguides.com/malware-gang-steals-certificates-bypass-code-signing-checks/"
+    },
+    "posts": {}
+}

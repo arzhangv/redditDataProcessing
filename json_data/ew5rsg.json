@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Beware of Black Friday Phishing Scams and Malware Attacks!",
+        "score": 1,
+        "id": "ew5rsg",
+        "commsNum": 2,
+        "timeStamp": "2020/01/30-05:54:40",
+        "author_name": "Umasdfjklxc",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.webtitan.com/blog/beware-of-black-friday-phishing-scams-and-malware-attacks/"
+    },
+    "posts": {
+        "fg03l7l": {
+            "comment": "To let you know that in 10 months you should beware of Black Friday PHishing Scams and Malware attacks. Cmon man get with the program /s",
+            "timeStamp": "2020/01/30-07:50:59",
+            "id": "fg03l7l",
+            "is_submitter": false,
+            "link_id": "t3_ew5rsg",
+            "parent_id": "t1_fg00ymz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Plastic-Network"
+        },
+        "fg00ymz": {
+            "comment": "what the fuck is the point of this post. go away bot.",
+            "timeStamp": "2020/01/30-07:22:56",
+            "id": "fg00ymz",
+            "is_submitter": false,
+            "link_id": "t3_ew5rsg",
+            "parent_id": "t3_ew5rsg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Xapisity"
+        }
+    }
+}

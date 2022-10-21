@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Here is an example of such a task [https://app.any.run/t\u2026/831d62e8-4663-4927-a31f-35fffa8d50a0/](https://app.any.run/tasks/831d62e8-4663-4927-a31f-35fffa8d50a0/?fbclid=IwAR3RGM5CBCQluqTsUGGX_7Nabu2mKF1VLW9mqwVRYf_zgx25abG7HlzsC0o)\n\nFind more Trickbot facts and fresh analysis in ANY.RUN's Malware Trends Tracker [https://any.run/malware-trends/trickbot](https://any.run/malware-trends/trickbot?fbclid=IwAR0AeB-VIAjdyIrUqh0XK5jD4TCEyX-3LO6fAqCk2JFna3BzeKB-BsotKTQ)\n\nhttps://preview.redd.it/anwv50rfgey31.png?width=883&amp;format=png&amp;auto=webp&amp;s=23195cf2e42dbd1b2323d3552dcc96015d767b6b",
+        "title": "In latest companies, crooks send out TrickBot, accusing victims of sexual harassment.",
+        "score": 1,
+        "id": "dvnrvp",
+        "commsNum": 3,
+        "timeStamp": "2019/11/12-22:42:09",
+        "author_name": "ANY-RUN",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/dvnrvp/in_latest_companies_crooks_send_out_trickbot/"
+    },
+    "posts": {
+        "f7dx5mz": {
+            "comment": "Oh I didn\u2019t realise you were the website. Great platform! Super nifty.",
+            "timeStamp": "2019/11/13-00:42:20",
+            "id": "f7dx5mz",
+            "is_submitter": false,
+            "link_id": "t3_dvnrvp",
+            "parent_id": "t1_f7dwzy4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Oscar_Geare"
+        },
+        "f7dwzy4": {
+            "comment": "Oscar, yes you are right, the news about this someone already wrote. But maybe someone will be interested to see the analysis and get additional information about the Trickbot.",
+            "timeStamp": "2019/11/13-00:38:09",
+            "id": "f7dwzy4",
+            "is_submitter": true,
+            "link_id": "t3_dvnrvp",
+            "parent_id": "t1_f7dt490",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ANY-RUN"
+        },
+        "f7dt490": {
+            "comment": "I think this was reported a while ago. \n\nhttps://www.malcrawler.com/awesome-spear-phish-techniques-from-those-tricky-tricksters-from-trickbot/\n\nIt\u2019s been in use for a while longer than that though.",
+            "timeStamp": "2019/11/12-23:05:06",
+            "id": "f7dt490",
+            "is_submitter": false,
+            "link_id": "t3_dvnrvp",
+            "parent_id": "t3_dvnrvp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Oscar_Geare"
+        }
+    }
+}

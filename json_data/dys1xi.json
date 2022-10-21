@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Monero project compromised",
+        "score": 8,
+        "id": "dys1xi",
+        "commsNum": 3,
+        "timeStamp": "2019/11/19-14:30:29",
+        "author_name": "bartblaze",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://bartblaze.blogspot.com/2019/11/monero-project-compromised.html"
+    },
+    "posts": {
+        "f8785cm": {
+            "comment": "Haven't claimed that anywhere, but fair point on how the title may be ambiguous - have edited it - thanks for your feedback!",
+            "timeStamp": "2019/11/20-23:06:12",
+            "id": "f8785cm",
+            "is_submitter": true,
+            "link_id": "t3_dys1xi",
+            "parent_id": "t1_f835j8z",
+            "score": 1,
+            "stickied": false,
+            "author_name": "bartblaze"
+        },
+        "f8452ka": {
+            "comment": "But it doesnt do a good headline if you'd directly state the facts there.",
+            "timeStamp": "2019/11/19-22:25:17",
+            "id": "f8452ka",
+            "is_submitter": false,
+            "link_id": "t3_dys1xi",
+            "parent_id": "t1_f835j8z",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ButItMightJustWork"
+        },
+        "f835j8z": {
+            "comment": "The \"cryptocurrency\" hasn't been compromised. Their website has. That's a little different.",
+            "timeStamp": "2019/11/19-15:06:42",
+            "id": "f835j8z",
+            "is_submitter": false,
+            "link_id": "t3_dys1xi",
+            "parent_id": "t3_dys1xi",
+            "score": 1,
+            "stickied": false,
+            "author_name": "jnwatson"
+        }
+    }
+}

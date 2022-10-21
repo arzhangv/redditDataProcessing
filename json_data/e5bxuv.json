@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "So I noticed a program called lockapp.exe running in task manager and I know it should be a legitimate windows program, it said it was suspended so I ended the task and then turned off my pc. When I turned it on again though, it would just constantly load my pc user and not take me to Desktop, so I booted it in safe mode (which had no problems signing in) and looked up the app in my system. It appears that lockapp.exe is a legitimate file so I tried to reset my computer and log in normally. This time it took quite a while and when it did my computer was acting slow. I know it wasn\u2019t frozen since caps lock still worked but I shut it down again. Before any of this, I haven\u2019t noticed any problems with my computer and it ran fast as ever. I also haven\u2019t noticed any suspicious files or processes. Mind you I\u2019m a little tech savvy since I use my computer to play games on it all the time. I was just able to get to desktop, but when I entered my task manager the cpu went from 77% usage down to about 5% or so instantly. That might be from just opening TM and the whole thing going nuts for a sec but I dunno. Any suggestions?",
+        "title": "Lockapp.exe???",
+        "score": 1,
+        "id": "e5bxuv",
+        "commsNum": 1,
+        "timeStamp": "2019/12/02-20:57:08",
+        "author_name": "MisterBoss5000",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/e5bxuv/lockappexe/"
+    },
+    "posts": {
+        "f9ixvmt": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2019/12/02-20:57:10",
+            "id": "f9ixvmt",
+            "is_submitter": false,
+            "link_id": "t3_e5bxuv",
+            "parent_id": "t3_e5bxuv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

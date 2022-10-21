@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "FireCrypt comes as a malware building kit and includes DDoS code",
+        "score": 1,
+        "id": "5m7kpv",
+        "commsNum": 0,
+        "timeStamp": "2017/01/05-09:08:06",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/55081/malware/firecrypt-ransomware.html"
+    },
+    "posts": {}
+}

@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "I Was uninstalling Malwarebytes and this popped up. I found malware a few days ago so I am wondering if it\u2019s still on after a full scan",
+        "score": 1,
+        "id": "kjx2va",
+        "commsNum": 6,
+        "timeStamp": "2020/12/25-02:38:05",
+        "author_name": "moliknz",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://i.redd.it/cd8xsdngab761.jpg"
+    },
+    "posts": {
+        "ggzk719": {
+            "comment": "This tool might also help with the consumer version: https://support.malwarebytes.com/hc/en-us/articles/360038524734-Malwarebytes-Support-Tool-for-business-environments",
+            "timeStamp": "2020/12/25-05:49:51",
+            "id": "ggzk719",
+            "is_submitter": false,
+            "link_id": "t3_kjx2va",
+            "parent_id": "t3_kjx2va",
+            "score": 1,
+            "stickied": false,
+            "author_name": "vornamemitd"
+        },
+        "ggzcs0w": {
+            "comment": "Thank you :) You too!",
+            "timeStamp": "2020/12/25-03:31:06",
+            "id": "ggzcs0w",
+            "is_submitter": true,
+            "link_id": "t3_kjx2va",
+            "parent_id": "t1_ggzbpda",
+            "score": 1,
+            "stickied": false,
+            "author_name": "moliknz"
+        },
+        "ggzcr3z": {
+            "comment": "Thank you :) you too!",
+            "timeStamp": "2020/12/25-03:30:34",
+            "id": "ggzcr3z",
+            "is_submitter": true,
+            "link_id": "t3_kjx2va",
+            "parent_id": "t1_ggzaylh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "moliknz"
+        },
+        "ggzbpda": {
+            "comment": "this is just malwarebytes trying to get you to subscribe. all you have to do is click uninstall and windows built in anti malware will still be working for you. by portable, i mean you can basically download a folder where you can run malwarebytes without going through a full install. usually people use portable antimalware versions to try and resolve infections which may block software installation, or for convenience when working on many computers by running the program off of a USB drive. happy to answer any basic questions you have, and happy holidays",
+            "timeStamp": "2020/12/25-03:08:12",
+            "id": "ggzbpda",
+            "is_submitter": false,
+            "link_id": "t3_kjx2va",
+            "parent_id": "t1_ggzbj32",
+            "score": 1,
+            "stickied": false,
+            "author_name": "JakeRahodeez"
+        },
+        "ggzbj32": {
+            "comment": "Sorry, I wasn\u2019t sure where to post it. It said no threats. I think this might just be a normal Windows 10 notification? It looks weird. What do you mean portable version?",
+            "timeStamp": "2020/12/25-03:04:29",
+            "id": "ggzbj32",
+            "is_submitter": true,
+            "link_id": "t3_kjx2va",
+            "parent_id": "t1_ggzaylh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "moliknz"
+        },
+        "ggzaylh": {
+            "comment": "scan again with windows built in threat protection by searching \"windows security\" from the start menu. you can always use a portable version of malwarebytes (you don't have to go through an installer) to double check if you're wary",
+            "timeStamp": "2020/12/25-02:52:19",
+            "id": "ggzaylh",
+            "is_submitter": false,
+            "link_id": "t3_kjx2va",
+            "parent_id": "t3_kjx2va",
+            "score": 1,
+            "stickied": false,
+            "author_name": "JakeRahodeez"
+        }
+    }
+}

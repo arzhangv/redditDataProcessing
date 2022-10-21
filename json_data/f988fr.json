@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "In the Wild Evidence of VBA Purging Found in Malicious Documents",
+        "score": 1,
+        "id": "f988fr",
+        "commsNum": 0,
+        "timeStamp": "2020/02/25-02:19:32",
+        "author_name": "0xThiebaut",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://blog.nviso.eu/2020/02/25/evidence-of-vba-purging-found-in-malicious-documents/amp/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "So I got through a cyber security bootcamp (Evolve security) I don't recommend it for any that are curious. But I learned a ton, malware being one of them. I did not learn how to make it though. I have a lab set up and I know how to code and now I don't know where to start in learning to make anything. Where did you guys start? Learning system calls? Thanks for any help.",
+        "title": "Cyber bootcamp and now I have more questions",
+        "score": 1,
+        "id": "guwaxb",
+        "commsNum": 5,
+        "timeStamp": "2020/06/01-17:03:13",
+        "author_name": "MycologyPsychology",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/guwaxb/cyber_bootcamp_and_now_i_have_more_questions/"
+    },
+    "posts": {
+        "fsm0pb9": {
+            "comment": "Yeah, I'm just a super curious person, and currently looking for a job in the cyber field since I got a few certs now. But the reason I got into this in the first place was calculus. I love math and then ended up moving programming and the intellectual puzzles computers bring, so now malware is a whole puzzle designed to break puzzles. That is really interesting too. So I want to build my own and sandbox detonate as you said to see what works and kinda just see them run around and play. I've done some cyber work and vulnerability assessment for a couple places. Malware seems to always be there. I have a few samples I have found in the wild and have not really looked into them since I don't know how to do it safely and don't really trust my \"I'm pretty sure it can't get out of a VM\" feeling. \n\nI did not know about those VM's you were talking about and will be checking those out because all I do right now is HTB and a little bug bounties. Something a bit more malware focused would be fun. I appreciate the tips and pathway to start on. Informational deserts are hard to get through by myself, and malware's desert hits early.",
+            "timeStamp": "2020/06/01-23:45:50",
+            "id": "fsm0pb9",
+            "is_submitter": true,
+            "link_id": "t3_guwaxb",
+            "parent_id": "t1_fslz27x",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MycologyPsychology"
+        },
+        "fslz27x": {
+            "comment": "To what end? Are you doing it for research and to better understand malware authorship or are you looking to spin something up and set it out in the wild?\n\nPlenty of malware is created under a thin veneer of \"remote network administration\" (for deniability) when it's really a backdoor trojan or a bot with custom C2 protocols. Much of those are sold in less reputable places on the web. Personally, I find it funny when a dev complains about cracked licenses for their RATs being distributed when s/he knowingly wrote the software to be used for malicious purposes. No honor amongst theives, I guess.\n\nMost other malware is written to take advantage of vulnerabilities, publicly disclosed or otherwise. Some of the best malware authors out there either team up with others or do their own security research to hunt for vulnerabilities in systems. With bug bounty hunting becoming more popular, it's certainly no easy task to find your own vulnerabilities that you can successfully exploit, repeat, port to your code, and distribute in an attempt to compromise systems, all without being discovered.\n\nFor some unsolicited advice:\n\nIf you're wanting to do this ethically, I recommend looking at malware analysis reports, github repos, submissions (I've analyzed and reported on things people have posted on Reddit), and any other place you can look at live malware. A word of caution, live malware shouldn't be obtained in unsafe ways, mishandled, or executed on a system unless it's yours and its intentional (ie, sandbox detonation). Learn the tools of the trade to perform malware analysis. Start with interpreted languages (python, powershell, bash, etc) and learn to follow exactly what is going on in the code, why it's being done, and what the intended outcome should be. I grew a lot, both as a malware analyst and as a software developer, when I did this. If you're serious about learning malware, dig deeper into learning assembly for popular platforms (x86 &amp; x64 Intel and ARM) and how to use debuggers and disassemblers like IDA Pro to look further at executables and binaries. You'll also require intimate knowledge of kernels, CPU architectures, all layers from machine code to high-level abstract programming languages, and modernized mitigations and hardening.\n\nIf you're wanting to learn about exploitation, try your hand at penetration testing or ethical hacking. You can download VMs from places like VulnHubs that are intentionally made vulnerable for people to host locally and practice CNA/CNE. I recommend using Kali but to avoid metasploit at all costs. Metasploit automates nearly the entire process, so you're missing out on valuable experience and knowledge. While Kali has a ton of tools, I recommend reviewing the code for each to see how they work and what exactly they are doing. Many of the VMs you can download will require exploits that aren't found in Kali natively--you'll have to research and find them yourself (usually on GH). The exploits will be generalized, so you'll have to be knowledgeable enough to look at the code and know how to fix issues and how to customize it for your specific use. One of the reasons I bring all of this up is that most people that want to learn \"hacking\" don't understand how much programming KSAs are required to be even remotely successful. Tuning/customizing exploits is where the rubber meets the road, even more so when it comes to full exploit development. Most people that try to go from street right into cyber have a hard stop at this point. It's possible to do but it's already a steep learning curve.\n\nIf you can root most of the VMs that you come across, regardless of difficulty, without needing a walkthrough or hint, I'd say to take a crack at trying to write malware. A good approach would be to start with having a presence on as many forums for bug bounty hunters as you can, specifically for larger companies (Mozilla Firefox, Python, Netflix, WordPress, etc) and also vulnerability disclosure sites. Many security researchers will post findings for vulnerabilities after a given period of time (depends on severity, SLA, or responsiveness) and their outlines might but be very specific (ways to replicate the issue, root cause, technical details) or generalized, and some might even have proof-of-concept code. What you would need to look for are specific vulnerability reports that have enough info for you to replicate the issue, lack a PoC example, and can be tested before a patch can be issued. Doing so will allow you to dip your toe in the waters of malware authorship without bogging you down with the hunting, discovery, and vetting phase. Success here will help you establish yourself in the field, possibly gain notoriety, and might net you some extra money. Depending on the company, the scale and scope of the issue, the quality of your reporting, and if you identify and suggest accurate fixes, you could get anywhere from a casual mention in the patch notes all the way up to payouts in the 6-figure range (the latter is exceedingly rare but not unheard of).\n\nIf you have questions or need more advice, feel free to ask.",
+            "timeStamp": "2020/06/01-23:24:04",
+            "id": "fslz27x",
+            "is_submitter": false,
+            "link_id": "t3_guwaxb",
+            "parent_id": "t3_guwaxb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "WadeEffingWilson"
+        },
+        "fslkzpj": {
+            "comment": "That's a great idea. thanks for a tip",
+            "timeStamp": "2020/06/01-20:39:54",
+            "id": "fslkzpj",
+            "is_submitter": true,
+            "link_id": "t3_guwaxb",
+            "parent_id": "t1_fslkslf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MycologyPsychology"
+        },
+        "fslkslf": {
+            "comment": "Write game hacks. Look at the process hacker source code. Half of it is prime malware",
+            "timeStamp": "2020/06/01-20:37:55",
+            "id": "fslkslf",
+            "is_submitter": false,
+            "link_id": "t3_guwaxb",
+            "parent_id": "t3_guwaxb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "FCVAR_CLIENTDLL"
+        },
+        "fsl09uf": {
+            "comment": "&amp;#x200B;\n\n&amp;#x200B;\n\n[https://www.varonis.com/blog/malware-coding-lessons-people-part-learning-write-custom-fud-fully-undetected-malware/](https://www.varonis.com/blog/malware-coding-lessons-people-part-learning-write-custom-fud-fully-undetected-malware/)\n\n&amp;#x200B;\n\n [https://niiconsulting.com/checkmate/2018/02/malware-development-welcome-dark-side-part-1/](https://niiconsulting.com/checkmate/2018/02/malware-development-welcome-dark-side-part-1/)",
+            "timeStamp": "2020/06/01-17:21:32",
+            "id": "fsl09uf",
+            "is_submitter": false,
+            "link_id": "t3_guwaxb",
+            "parent_id": "t3_guwaxb",
+            "score": 5,
+            "stickied": false,
+            "author_name": "vinumsv"
+        }
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Jenkins security team disclosed tens of flaws affecting 29 plugins for the Jenkins automation server, most of them are yet to be patched.",
+        "score": 1,
+        "id": "vse8so",
+        "commsNum": 0,
+        "timeStamp": "2022/07/05-18:48:06",
+        "author_name": "Late_Ice_9288",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://securityaffairs.co/wordpress/132836/security/jenkins-plugins-zero-day-flaws.html"
+    },
+    "posts": {
+        "if2dug8": {
+            "comment": "Jenkins is just a pretty GUI interface for batch files (windows) and shell scripts, usually only used by organizations where different roles are responsible for different parts of a very large application or product. \n\nIt has plugins that make it easier to do certain tasks like say...get your code from GitHub, that's one plugin, another plugin would be to display a pretty graph of all the errors and warnings in your code. It's versatile nature makes it prone to these types of flaws that hackers can exploit. So it's typically only used on company intranet.",
+            "timeStamp": "2022/07/06-05:22:53",
+            "id": "if2dug8",
+            "is_submitter": false,
+            "link_id": "t3_vse8so",
+            "parent_id": "t1_if2crne",
+            "score": 1,
+            "stickied": false,
+            "author_name": "twat_muncher"
+        },
+        "if2crne": {
+            "comment": "Ok... What exactly does that mean if you could please put it in simpler terms? I have no idea about this post's topic",
+            "timeStamp": "2022/07/06-05:12:50",
+            "id": "if2crne",
+            "is_submitter": false,
+            "link_id": "t3_vse8so",
+            "parent_id": "t1_if2chpo",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Tavemanic"
+        },
+        "if2chpo": {
+            "comment": "It's a build system, shouldn't be accessed from outside an organization, it has a history of many remote code execution vulns, but you don't want disgruntled employees exploiting it from inside either.",
+            "timeStamp": "2022/07/06-05:10:09",
+            "id": "if2chpo",
+            "is_submitter": false,
+            "link_id": "t3_vse8so",
+            "parent_id": "t1_if226ni",
+            "score": 1,
+            "stickied": false,
+            "author_name": "twat_muncher"
+        },
+        "if226ni": {
+            "comment": "What's Jenkins?",
+            "timeStamp": "2022/07/06-03:13:37",
+            "id": "if226ni",
+            "is_submitter": false,
+            "link_id": "t3_vse8so",
+            "parent_id": "t3_vse8so",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Tavemanic"
+        },
+        "if1jmeh": {
+            "comment": "[removed]",
+            "timeStamp": "2022/07/05-23:02:15",
+            "id": "if1jmeh",
+            "is_submitter": false,
+            "link_id": "t3_vse8so",
+            "parent_id": "t3_vse8so",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

@@ -1,0 +1,154 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Disclaimer: Always coded as proof of concept and only keep it on my machine. (Actually)",
+        "title": "I am a Malware Developer [AMA]",
+        "score": 1,
+        "id": "dvxdaa",
+        "commsNum": 12,
+        "timeStamp": "2019/11/13-12:03:32",
+        "author_name": "MysticalTeamMember",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 12,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/dvxdaa/i_am_a_malware_developer_ama/"
+    },
+    "posts": {
+        "f92ztb5": {
+            "comment": "Here is my basic batch ransomware, btw.\nI know i'm late, but better than never.",
+            "timeStamp": "2019/11/29-08:50:07",
+            "id": "f92ztb5",
+            "is_submitter": false,
+            "link_id": "t3_dvxdaa",
+            "parent_id": "t1_f7grgpj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Rubiktor012"
+        },
+        "f7grgpj": {
+            "comment": "Thanks!",
+            "timeStamp": "2019/11/13-22:48:29",
+            "id": "f7grgpj",
+            "is_submitter": false,
+            "link_id": "t3_dvxdaa",
+            "parent_id": "t1_f7fd7nn",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Rubiktor012"
+        },
+        "f7fq5x7": {
+            "comment": "I\u2019m a Cyber Security major, my works have been featured on bleepingComputer, I\u2019ve worked with Erik on Disco Dodgeball\u2019s anticheat, I have made an obfuscator, a crypter, a RAT, a password stealer, a stealth cryptocurrency miner, cryptography software, brute forcing software, reconnaissance software, Injectors, and have made encryption software for a multi million dollar trust. \n\nThere\u2019s an absolute ton you can do with VB, just put the effort in. I\u2019m replying as technically and informatively as possible.",
+            "timeStamp": "2019/11/13-14:35:59",
+            "id": "f7fq5x7",
+            "is_submitter": true,
+            "link_id": "t3_dvxdaa",
+            "parent_id": "t1_f7fiogh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MysticalTeamMember"
+        },
+        "f7fofzz": {
+            "comment": "Here you go: [RaXOR](https://github.com/sleepless-p03t/RaXOR) \n\nIt's written in Ruby, but the logic should be comprehensible",
+            "timeStamp": "2019/11/13-14:21:35",
+            "id": "f7fofzz",
+            "is_submitter": false,
+            "link_id": "t3_dvxdaa",
+            "parent_id": "t1_f7fn06t",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sleepless-p03t"
+        },
+        "f7fn06t": {
+            "comment": "I\u2019d love that!",
+            "timeStamp": "2019/11/13-14:08:41",
+            "id": "f7fn06t",
+            "is_submitter": true,
+            "link_id": "t3_dvxdaa",
+            "parent_id": "t1_f7ffo55",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MysticalTeamMember"
+        },
+        "f7fiogh": {
+            "comment": "Visual basic malware writer? Get fucked",
+            "timeStamp": "2019/11/13-13:23:51",
+            "id": "f7fiogh",
+            "is_submitter": false,
+            "link_id": "t3_dvxdaa",
+            "parent_id": "t3_dvxdaa",
+            "score": 1,
+            "stickied": false,
+            "author_name": "edward_snowedin"
+        },
+        "f7ffo55": {
+            "comment": "I've been there. Something I'm fascinated by is user evasion. Like, how can I make the user think this is legitimate? I take this beyond the surface level and try to find ways to make the code itself look legitimate or to find a way to write it so that when it does something underhanded, it appears justified. \n\nThinking of polymorphic encoding, I did write such an algorithm a while back to be used for byte encoding. Pretty robust, but can have a fair bit of overhead. I can send you a link to the project if you're interested",
+            "timeStamp": "2019/11/13-12:53:20",
+            "id": "f7ffo55",
+            "is_submitter": false,
+            "link_id": "t3_dvxdaa",
+            "parent_id": "t1_f7ff12n",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sleepless-p03t"
+        },
+        "f7ff12n": {
+            "comment": "Biggest challenge (forgot to answer) would have to be AV evasion, to counter this I have made a program which encrypts a target file\u2019s bytes into a stub which decrypts and runs at runtime, but also polymorphically encrypts the variables and method names of the output to always change it up.\n\nAswell, Accidently infecting your own system with a damaging malware has.. happened.. whoops.",
+            "timeStamp": "2019/11/13-12:47:00",
+            "id": "f7ff12n",
+            "is_submitter": true,
+            "link_id": "t3_dvxdaa",
+            "parent_id": "t1_f7fef1c",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MysticalTeamMember"
+        },
+        "f7fev2y": {
+            "comment": "So to start, I\u2019m not multi-lingual in programming. I honestly only know the basics of PowerShell, but have worked with .NET/Visual Basic for 6 years now. Some may call .Net a script kiddy language but in all actuality it\u2019s very very powerful in making malware. I\u2019ve found it the easiest, especially with easy to read code, easy implementation, and many snippets of code you can find around and mangle.\n\nI\u2019ve successfully made Ransomware, Password Stealers, RATs, Code Obfuscators, File Crypters, Injectors, CryptoMiners, Botnet Host/Slave systems, Reconnaissance tools, Many cryptography tools, Bruteforcers, And website Bots using this language.",
+            "timeStamp": "2019/11/13-12:45:21",
+            "id": "f7fev2y",
+            "is_submitter": true,
+            "link_id": "t3_dvxdaa",
+            "parent_id": "t1_f7fef1c",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MysticalTeamMember"
+        },
+        "f7fef1c": {
+            "comment": "I have a few questions:\n\nWhat is the biggest challenge when writing malware?\n\nWhat languages are best for writing Windows based malware? I'm a bit of malware developer too (legally, and as a hobby), but with the known security issues of batch, PowerShell, and VBScript, how do you go about justifying using those languages? \n\nI'm really struggling to find good, comprehensible tutorials for Windows shellcode development in assembly. I'm familiar with NASM, as well as how shellcode works, but the few tutorials I've found and followed didn't work for me. Might you know of any good tutorials or resources that go into depth about how to write Windows assembly for shellcode?",
+            "timeStamp": "2019/11/13-12:40:55",
+            "id": "f7fef1c",
+            "is_submitter": false,
+            "link_id": "t3_dvxdaa",
+            "parent_id": "t3_dvxdaa",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sleepless-p03t"
+        },
+        "f7fd7nn": {
+            "comment": "Yeah definitely! That\u2019s exactly where I started aswell 7 years ago, amazing way to pave your way!",
+            "timeStamp": "2019/11/13-12:28:58",
+            "id": "f7fd7nn",
+            "is_submitter": true,
+            "link_id": "t3_dvxdaa",
+            "parent_id": "t1_f7fcgl5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MysticalTeamMember"
+        },
+        "f7fcgl5": {
+            "comment": "I use batch\nI mean, why not? You can make really basic and interesting malware there!",
+            "timeStamp": "2019/11/13-12:21:53",
+            "id": "f7fcgl5",
+            "is_submitter": false,
+            "link_id": "t3_dvxdaa",
+            "parent_id": "t3_dvxdaa",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Rubiktor012"
+        }
+    }
+}

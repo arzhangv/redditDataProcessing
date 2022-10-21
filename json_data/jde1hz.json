@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I just found out that 1 program that i downloaded on my pc recently has this thing is it bad for my pc can someone help me please",
+        "title": "Malicious high ml score",
+        "score": 1,
+        "id": "jde1hz",
+        "commsNum": 3,
+        "timeStamp": "2020/10/18-03:27:20",
+        "author_name": "PatatesElmasi",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/jde1hz/malicious_high_ml_score/"
+    },
+    "posts": {
+        "g97kyh1": {
+            "comment": "/r/techsupport or /r/cybersecurity101 - pls =]\n\nPro tip: pls provide warning messages/analysis results more concise than \"bad\" =]",
+            "timeStamp": "2020/10/18-04:46:44",
+            "id": "g97kyh1",
+            "is_submitter": false,
+            "link_id": "t3_jde1hz",
+            "parent_id": "t3_jde1hz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "vornamemitd"
+        },
+        "g97gnfy": {
+            "comment": "How do I computer?",
+            "timeStamp": "2020/10/18-04:06:06",
+            "id": "g97gnfy",
+            "is_submitter": false,
+            "link_id": "t3_jde1hz",
+            "parent_id": "t3_jde1hz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "gonzo_au"
+        },
+        "g97dqhr": {
+            "comment": "[removed]",
+            "timeStamp": "2020/10/18-03:37:47",
+            "id": "g97dqhr",
+            "is_submitter": false,
+            "link_id": "t3_jde1hz",
+            "parent_id": "t3_jde1hz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

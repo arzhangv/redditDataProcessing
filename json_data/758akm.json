@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "KovCoreG group spreading Kovter Malware via fake browser and Flash updates",
+        "score": 1,
+        "id": "758akm",
+        "commsNum": 0,
+        "timeStamp": "2017/10/09-03:54:14",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/64053/malware/kovcoreg-group-malvertising.html"
+    },
+    "posts": {}
+}

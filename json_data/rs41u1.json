@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Ransomware gang coughs up decryptor after realizing they hit the police",
+        "score": 1,
+        "id": "rs41u1",
+        "commsNum": 0,
+        "timeStamp": "2021/12/30-07:15:23",
+        "author_name": "DrinkMoreCodeMore",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.bleepingcomputer.com/news/security/ransomware-gang-coughs-up-decryptor-after-realizing-they-hit-the-police/"
+    },
+    "posts": {
+        "hqmt2iq": {
+            "comment": "[removed]",
+            "timeStamp": "2021/12/30-18:49:00",
+            "id": "hqmt2iq",
+            "is_submitter": false,
+            "link_id": "t3_rs41u1",
+            "parent_id": "t3_rs41u1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi, i'm looking for samples/VT links for SynAck ransomware as reported here: https://www.bleepingcomputer.com/news/security/synack-ransomware-sees-huge-spike-in-activity/\nNobody seems to have any samples yet.",
+        "title": "Looking for SynAck ransomware samples",
+        "score": 5,
+        "id": "6ynh1w",
+        "commsNum": 2,
+        "timeStamp": "2017/09/07-07:17:23",
+        "author_name": "peter_mack",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6ynh1w/looking_for_synack_ransomware_samples/"
+    },
+    "posts": {}
+}

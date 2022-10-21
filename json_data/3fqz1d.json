@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Before I start, yes I was an idiot to look for a \"PS3 Emulator\" and I need help removing this virus.\n\nTo start off I was looking around to find A PS3 Emulator out of my curiosity to see if one exists. Soon I had ran into this site http://playstation3emulator.net/ps3-emulator-download.html \nI carelessly downloaded a zip, I opened it then before I took anymore precautions I scanned the file on virustotal. https://www.virustotal.com/en/file/07a707dd055164ba9958ba57881398edc33169e6e42ba47f5f53e229546edc81/analysis/1438692235/\nThe after I noticed the executable wasn't in the zip anymore yet another zip file had appeared. http://i.imgur.com/trLnmNw.png\nI opened the zip file finding the executable again. But this time it couldn't be deleted, renamed etc. http://i.imgur.com/U4FE090.png\nLater finding out that the zip file redirected me to my temp folder C:\\Users\\Eddy\\AppData\\Local\\Temp\\Temp1_PSeMu3 Setup.zip\\PSeMu3 Setup1.zip\nI tried going one folder back but before it showed me the other zip it closed out and gave me this error http://i.imgur.com/oadFkyR.png\n\nThis is a red flag that it's a rat. I tried Malwarebytes. I tried deleting the folder in the temp folder, still says that the folder is valid in the temp. I have a feeling that this is a rat. Advice anyone?",
+        "title": "Help removing PSeMu3 Setup.exe",
+        "score": 0,
+        "id": "3fqz1d",
+        "commsNum": 1,
+        "timeStamp": "2015/08/04-07:15:09",
+        "author_name": "[deleted]",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/3fqz1d/help_removing_psemu3_setupexe/"
+    },
+    "posts": {}
+}

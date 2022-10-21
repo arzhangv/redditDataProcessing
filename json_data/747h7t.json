@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Intezer researchers link CCleaner hack to Chinese APT17 hackers",
+        "score": 1,
+        "id": "747h7t",
+        "commsNum": 0,
+        "timeStamp": "2017/10/04-04:17:26",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/63801/apt/ccleaner-apt17-hackers.html"
+    },
+    "posts": {}
+}

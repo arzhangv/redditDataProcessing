@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi,\n\nThere seems to be new variants this week of the targeted Shamoon malware doing the rounds, hitting a few companies in Saudi. Does anybody know of any samples/hashes?",
+        "title": "Looking for info on Shamoon v3",
+        "score": 3,
+        "id": "5pwleg",
+        "commsNum": 9,
+        "timeStamp": "2017/01/24-07:08:10",
+        "author_name": "peter_mack",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 9,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5pwleg/looking_for_info_on_shamoon_v3/"
+    },
+    "posts": {}
+}

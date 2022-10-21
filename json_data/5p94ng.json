@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Malware Analysis tools and resources",
+        "score": 1,
+        "id": "5p94ng",
+        "commsNum": 0,
+        "timeStamp": "2017/01/20-21:45:22",
+        "author_name": "WTSxDev",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://github.com/wtsxDev/Malware-Analysis/"
+    },
+    "posts": {}
+}

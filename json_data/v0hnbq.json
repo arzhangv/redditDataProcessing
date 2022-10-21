@@ -1,0 +1,121 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "So i have an iPhone, i opened my spotify and every song that I click, some buddhist calming song starts playing.\nWhen I opened my Safari because I was working with it, literally there was Missal/Messbuch = bible googled. What\u2019s happening please? No one is active on my account and I have 2FA",
+        "title": "Can\u2019t comprehend what\u2019s happening",
+        "score": 1,
+        "id": "v0hnbq",
+        "commsNum": 0,
+        "timeStamp": "2022/05/29-11:48:41",
+        "author_name": "Whole_Construction19",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/v0hnbq/cant_comprehend_whats_happening/"
+    },
+    "posts": {
+        "iaj1hve": {
+            "comment": "Bruh.. my phone opened a random tab by itself, that\u2019s the thing",
+            "timeStamp": "2022/05/30-03:01:27",
+            "id": "iaj1hve",
+            "is_submitter": true,
+            "link_id": "t3_v0hnbq",
+            "parent_id": "t1_iagsryk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Whole_Construction19"
+        },
+        "iagsryk": {
+            "comment": "You\u2019re on a malware subreddit, not a Bible discussion sub. We\u2019re here to give you practical advice.",
+            "timeStamp": "2022/05/29-13:25:56",
+            "id": "iagsryk",
+            "is_submitter": false,
+            "link_id": "t3_v0hnbq",
+            "parent_id": "t1_iagskgj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "GoblinsStoleMyHouse"
+        },
+        "iagskgj": {
+            "comment": "Thanks, but what about the bible that\u2019s what actually scares me",
+            "timeStamp": "2022/05/29-13:24:14",
+            "id": "iagskgj",
+            "is_submitter": true,
+            "link_id": "t3_v0hnbq",
+            "parent_id": "t1_iagsg05",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Whole_Construction19"
+        },
+        "iagsg05": {
+            "comment": "Change your Spotify password, and reinstall the app.",
+            "timeStamp": "2022/05/29-13:23:13",
+            "id": "iagsg05",
+            "is_submitter": false,
+            "link_id": "t3_v0hnbq",
+            "parent_id": "t3_v0hnbq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "GoblinsStoleMyHouse"
+        },
+        "iagribh": {
+            "comment": "Thankss",
+            "timeStamp": "2022/05/29-13:15:45",
+            "id": "iagribh",
+            "is_submitter": true,
+            "link_id": "t3_v0hnbq",
+            "parent_id": "t1_iagqhaw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Whole_Construction19"
+        },
+        "iagqhaw": {
+            "comment": "That's not what this sub is for. Try r/techsupport.",
+            "timeStamp": "2022/05/29-13:07:27",
+            "id": "iagqhaw",
+            "is_submitter": false,
+            "link_id": "t3_v0hnbq",
+            "parent_id": "t3_v0hnbq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Chongulator"
+        },
+        "iagontb": {
+            "comment": "Okay the buddhist songs are back",
+            "timeStamp": "2022/05/29-12:53:10",
+            "id": "iagontb",
+            "is_submitter": true,
+            "link_id": "t3_v0hnbq",
+            "parent_id": "t1_iaggwr9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Whole_Construction19"
+        },
+        "iagm54u": {
+            "comment": "Yes, spotify works now but like\u2026 what the hell was that bible?",
+            "timeStamp": "2022/05/29-12:33:31",
+            "id": "iagm54u",
+            "is_submitter": true,
+            "link_id": "t3_v0hnbq",
+            "parent_id": "t1_iaggwr9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Whole_Construction19"
+        },
+        "iaggwr9": {
+            "comment": "Have you rebooted your iPhone?",
+            "timeStamp": "2022/05/29-11:52:42",
+            "id": "iaggwr9",
+            "is_submitter": false,
+            "link_id": "t3_v0hnbq",
+            "parent_id": "t3_v0hnbq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "m9183"
+        }
+    }
+}

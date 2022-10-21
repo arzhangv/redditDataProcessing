@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Found a VBE script running one someones PC and I didn't even realize that VB scripts could be encrypted.  \n\nI think it was responsible for hiding files and replicating over removable media. \n\n[Here is a pastebin if anyone wants to play around and see what you find](http://pastebin.com/GLsRBXbT)",
+        "title": "Anyone with experience decrypting VBE files?",
+        "score": 10,
+        "id": "2x4vci",
+        "commsNum": 11,
+        "timeStamp": "2015/02/25-10:03:14",
+        "author_name": "Did-you-reboot",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 11,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2x4vci/anyone_with_experience_decrypting_vbe_files/"
+    },
+    "posts": {}
+}

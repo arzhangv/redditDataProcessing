@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Whether the malware infects your computer or the router directly, I was wondering if it would be able to do this? Perhaps to DD-WRT or something so it could set up packet captures or something. (I know with encryption this would be less likely for them to want to do that now, but ya know, pretend that doesn't exist for a second)\n\nI don't know what has to be done physically with the router. (unplug certain things?) to change firmware, but maybe you could do it all remotely.\n\nAnybody have any idea?\n\n",
+        "title": "Is it theoretically possible for malware to change the firmware of your router? Is there any that does this?",
+        "score": 6,
+        "id": "6kje2m",
+        "commsNum": 20,
+        "timeStamp": "2017/06/30-15:42:41",
+        "author_name": "Thrones33",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 20,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6kje2m/is_it_theoretically_possible_for_malware_to/"
+    },
+    "posts": {}
+}

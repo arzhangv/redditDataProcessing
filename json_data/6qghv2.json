@@ -1,0 +1,198 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[deleted]",
+        "title": "Symptoms of BIOS Rootkits and Bootkits?",
+        "score": 0,
+        "id": "6qghv2",
+        "commsNum": 13,
+        "timeStamp": "2017/07/30-02:13:56",
+        "author_name": "[deleted]",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 13,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6qghv2/symptoms_of_bios_rootkits_and_bootkits/"
+    },
+    "posts": {
+        "dl19453": {
+            "comment": "Hello,\n\nOne mechanism would be to wipe the computer's drive, reload the operating system from known good media, and then place it onto an isolated private network segment and capture all network traffic.  When you see something coming off the box which is not identifiable as being part of the reloaded operating system, that, by definition, must be something else.  For example, an attempt by the 'kit to reach a command-and-control server.\n\nRegards,\n\nAryeh Goretsky",
+            "timeStamp": "2017/08/01-15:41:23",
+            "id": "dl19453",
+            "is_submitter": false,
+            "link_id": "t3_6qghv2",
+            "parent_id": "t3_6qghv2",
+            "score": 2,
+            "stickied": false,
+            "author_name": "goretsky"
+        },
+        "dkzrrlk": {
+            "comment": "Damn spot on about the mental health.",
+            "timeStamp": "2017/07/31-18:31:59",
+            "id": "dkzrrlk",
+            "is_submitter": false,
+            "link_id": "t3_6qghv2",
+            "parent_id": "t1_dkx44l0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Astrocytic"
+        },
+        "dkyiefl": {
+            "comment": "Technically a rootkit can also reside in the hard disk, BIOS/EUFI or other internal devices. These are not wiped/rewritten by a reinstall of the operating system. \n\nAnyways, the same advice applies as I've given before. ",
+            "timeStamp": "2017/07/31-01:49:32",
+            "id": "dkyiefl",
+            "is_submitter": false,
+            "link_id": "t3_6qghv2",
+            "parent_id": "t1_dkyg0xn",
+            "score": 2,
+            "stickied": false,
+            "author_name": "HenkPoley"
+        },
+        "dkyg0xw": {
+            "comment": "[deleted]",
+            "timeStamp": "2017/07/31-00:04:05",
+            "id": "dkyg0xw",
+            "is_submitter": false,
+            "link_id": "t3_6qghv2",
+            "parent_id": "t1_dkx44l0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "dkyg0xn": {
+            "comment": "[deleted]",
+            "timeStamp": "2017/07/31-00:04:04",
+            "id": "dkyg0xn",
+            "is_submitter": false,
+            "link_id": "t3_6qghv2",
+            "parent_id": "t1_dkx44l0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "dkxuaof": {
+            "comment": "A rootkit is a piece of software that is by definition covert. Unless there are bugs in the software, you will not notice its presence.",
+            "timeStamp": "2017/07/30-14:32:41",
+            "id": "dkxuaof",
+            "is_submitter": false,
+            "link_id": "t3_6qghv2",
+            "parent_id": "t3_6qghv2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "patrickbwells"
+        },
+        "dkxjxqt": {
+            "comment": "All good man!",
+            "timeStamp": "2017/07/30-10:48:04",
+            "id": "dkxjxqt",
+            "is_submitter": false,
+            "link_id": "t3_6qghv2",
+            "parent_id": "t1_dkxjlbr",
+            "score": 0,
+            "stickied": false,
+            "author_name": "Hasherss"
+        },
+        "dkxjlbr": {
+            "comment": "The fault is mine, I was supposed to specify that I mean Intel Core architecture, not the product lineup.",
+            "timeStamp": "2017/07/30-10:40:36",
+            "id": "dkxjlbr",
+            "is_submitter": false,
+            "link_id": "t3_6qghv2",
+            "parent_id": "t1_dkxito7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Michalko589"
+        },
+        "dkxitsa": {
+            "comment": "**Intel Core**\n\nIntel Core is a line of mid-to-high end consumer, workstation, and enthusiast central processing units (CPU) marketed by Intel Corporation. These processors displaced the existing mid-to-high end Pentium processors of the time, moving the Pentium to the entry level, and bumping the Celeron series of processors to low end. Identical or more capable versions of Core processors are also sold as Xeon processors for the server and workstation markets.\n\nAs of June 2017, the lineup of Core processors included the Intel Core i9, Intel Core i7, Intel Core i5, and Intel Core i3, along with the Y - Series Intel Core CPU's.\n\n***\n\n^[ [^PM](https://www.reddit.com/message/compose?to=kittens_from_space) ^| [^Exclude ^me](https://reddit.com/message/compose?to=WikiTextBot&amp;message=Excludeme&amp;subject=Excludeme) ^| [^Exclude ^from ^subreddit](https://np.reddit.com/r/Malware/about/banned) ^| [^FAQ ^/ ^Information](https://np.reddit.com/r/WikiTextBot/wiki/index) ^| [^Source](https://github.com/kittenswolf/WikiTextBot)   ^]\n^Downvote ^to ^remove ^| ^v0.24",
+            "timeStamp": "2017/07/30-10:23:53",
+            "id": "dkxitsa",
+            "is_submitter": false,
+            "link_id": "t3_6qghv2",
+            "parent_id": "t1_dkxito7",
+            "score": 0,
+            "stickied": false,
+            "author_name": "WikiTextBot"
+        },
+        "dkxito7": {
+            "comment": "I'm confused, did you google with the intent of only finding evidence that supported your claim? I googled \"Intel Core\" and this was the first link that came up, https://en.wikipedia.org/wiki/Intel_Core.\n\nI would also like to point out that your linked Wikipedia page talks about 6 core Xeons.",
+            "timeStamp": "2017/07/30-10:23:49",
+            "id": "dkxito7",
+            "is_submitter": false,
+            "link_id": "t3_6qghv2",
+            "parent_id": "t1_dkxfdls",
+            "score": 0,
+            "stickied": false,
+            "author_name": "Hasherss"
+        },
+        "dkxfdls": {
+            "comment": "https://en.wikipedia.org/wiki/Intel_Core_(microarchitecture)",
+            "timeStamp": "2017/07/30-09:07:16",
+            "id": "dkxfdls",
+            "is_submitter": false,
+            "link_id": "t3_6qghv2",
+            "parent_id": "t1_dkxf7i8",
+            "score": 0,
+            "stickied": false,
+            "author_name": "Michalko589"
+        },
+        "dkxf7i8": {
+            "comment": "i3, i5, i7, and i9 are all Core series as well.",
+            "timeStamp": "2017/07/30-09:03:18",
+            "id": "dkxf7i8",
+            "is_submitter": false,
+            "link_id": "t3_6qghv2",
+            "parent_id": "t1_dkx56tq",
+            "score": 0,
+            "stickied": false,
+            "author_name": "compdog"
+        },
+        "dkx56tq": {
+            "comment": "Intel core = core 2 duo / core 2 quad",
+            "timeStamp": "2017/07/30-03:59:49",
+            "id": "dkx56tq",
+            "is_submitter": false,
+            "link_id": "t3_6qghv2",
+            "parent_id": "t1_dkx5304",
+            "score": -1,
+            "stickied": false,
+            "author_name": "Michalko589"
+        },
+        "dkx5304": {
+            "comment": "[deleted]",
+            "timeStamp": "2017/07/30-03:54:33",
+            "id": "dkx5304",
+            "is_submitter": false,
+            "link_id": "t3_6qghv2",
+            "parent_id": "t1_dkx3u9c",
+            "score": -5,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "dkx44l0": {
+            "comment": "There are pieces of software that can detect some types of root kits. You can run them to scan your system. But also be sure that you are not just paranoid _and need mental help_. \n\nA root kit diverts the normal operation of the operating system. Usually at the level of disk access, or file access by programs. For a good rootkit this is very much transparent and thus hidden. There is software that tries to look up files in different ways, from low level (almost bypassing everything) to high level (as a normal program would), and report any differences. There are also programs that an check if your operating system runs in a virtual machine or hypervisor (e.g. something like VMware or VirtualBox, but more hidden). You may also be able to remove the hard drive and scan it on another computer that is already booted and running. \n\nBut in general, if a piece of rootkit is made to be hidden, it's hard to find it. You'll have to read up and build expertise, if you are reasonably sure you are targeted, and not just paranoid. ",
+            "timeStamp": "2017/07/30-03:04:38",
+            "id": "dkx44l0",
+            "is_submitter": false,
+            "link_id": "t3_6qghv2",
+            "parent_id": "t3_6qghv2",
+            "score": 2,
+            "stickied": false,
+            "author_name": "HenkPoley"
+        },
+        "dkx3u9c": {
+            "comment": "Well, none.. Unless the malware decides to. But bootkits and uefi rootkits are not a threat to modern computers with modern operating systems.\n\nMove away from those Intel Core machines with Windows 7, kids.",
+            "timeStamp": "2017/07/30-02:49:29",
+            "id": "dkx3u9c",
+            "is_submitter": false,
+            "link_id": "t3_6qghv2",
+            "parent_id": "t3_6qghv2",
+            "score": 4,
+            "stickied": false,
+            "author_name": "Michalko589"
+        }
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Just asking everyone's preference and if so why",
+        "title": "Do you prefer windows 10 or 7",
+        "score": 1,
+        "id": "qtbrjq",
+        "commsNum": 6,
+        "timeStamp": "2021/11/13-14:31:12",
+        "author_name": "YepImGodLy",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/qtbrjq/do_you_prefer_windows_10_or_7/"
+    },
+    "posts": {
+        "hle35zv": {
+            "comment": "10 is really good not gonna lie and I've gotten sue to it now. So I prob prefer 10 now\n\nTho I really enjoyed Win 7 even while 8 and 8.1 was out and while 10 was out. Win7 is and was (since theyll prob stop supporting it more and more) great",
+            "timeStamp": "2021/11/20-07:02:27",
+            "id": "hle35zv",
+            "is_submitter": false,
+            "link_id": "t3_qtbrjq",
+            "parent_id": "t3_qtbrjq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "blabbities"
+        },
+        "hldc957": {
+            "comment": "[removed]",
+            "timeStamp": "2021/11/20-02:01:27",
+            "id": "hldc957",
+            "is_submitter": false,
+            "link_id": "t3_qtbrjq",
+            "parent_id": "t3_qtbrjq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hkyry0b": {
+            "comment": "Btw, I run Arch Linux",
+            "timeStamp": "2021/11/17-00:24:48",
+            "id": "hkyry0b",
+            "is_submitter": false,
+            "link_id": "t3_qtbrjq",
+            "parent_id": "t3_qtbrjq",
+            "score": 2,
+            "stickied": false,
+            "author_name": "exalented"
+        },
+        "hkmaxw9": {
+            "comment": "[removed]",
+            "timeStamp": "2021/11/14-10:46:22",
+            "id": "hkmaxw9",
+            "is_submitter": false,
+            "link_id": "t3_qtbrjq",
+            "parent_id": "t3_qtbrjq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hkifgvx": {
+            "comment": "I still miss the old style start menu",
+            "timeStamp": "2021/11/13-14:39:02",
+            "id": "hkifgvx",
+            "is_submitter": false,
+            "link_id": "t3_qtbrjq",
+            "parent_id": "t3_qtbrjq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "hombre_lobo"
+        },
+        "hkiercl": {
+            "comment": "7 but I use 10 mostly for DirectX12 \n\nIt was so simple and really the peak of the Windows operating system IMO.",
+            "timeStamp": "2021/11/13-14:34:03",
+            "id": "hkiercl",
+            "is_submitter": false,
+            "link_id": "t3_qtbrjq",
+            "parent_id": "t3_qtbrjq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RealJordanJ"
+        }
+    }
+}

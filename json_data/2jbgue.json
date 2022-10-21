@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "New FrameworkPOS variant exfiltrates data via DNS requests",
+        "score": 1,
+        "id": "2jbgue",
+        "commsNum": 0,
+        "timeStamp": "2014/10/15-07:07:10",
+        "author_name": "Horgh",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://blog.gdatasoftware.com/blog/article/new-frameworkpos-variant-exfiltrates-data-via-dns-requests.html"
+    },
+    "posts": {}
+}

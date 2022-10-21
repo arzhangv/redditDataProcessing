@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Hackers Exploiting Spring4Shell Vulnerability to Deploy Mirai Botnet",
+        "score": 1,
+        "id": "u141lm",
+        "commsNum": 0,
+        "timeStamp": "2022/04/11-02:52:39",
+        "author_name": "Gorkha56",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.cyberkendra.com/2022/04/hackers-exploiting-spring4shell.html"
+    },
+    "posts": {
+        "i4adlqp": {
+            "comment": "Cyber Kendra really wants this to be a thing.",
+            "timeStamp": "2022/04/11-05:52:40",
+            "id": "i4adlqp",
+            "is_submitter": false,
+            "link_id": "t3_u141lm",
+            "parent_id": "t3_u141lm",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Dlev451"
+        },
+        "i4a9tmu": {
+            "comment": "*criminals. fify",
+            "timeStamp": "2022/04/11-05:20:34",
+            "id": "i4a9tmu",
+            "is_submitter": false,
+            "link_id": "t3_u141lm",
+            "parent_id": "t3_u141lm",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sfzombie13"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Shifr RaaS lets create a simple ransomware with just 3 steps",
+        "score": 1,
+        "id": "6jyqhr",
+        "commsNum": 0,
+        "timeStamp": "2017/06/27-23:08:11",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/60472/malware/shifr-raas.html"
+    },
+    "posts": {}
+}

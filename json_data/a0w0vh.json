@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[This](https://twitter.com/hnfviwuhmc8/status/1067147638708015107) may be interesting for some. I just got tier 2 even tho Packt content isn't usually the best, it's still worth it imo.",
+        "title": "Cybersecurity content pack",
+        "score": 1,
+        "id": "a0w0vh",
+        "commsNum": 6,
+        "timeStamp": "2018/11/27-07:49:17",
+        "author_name": "Laffyette",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/a0w0vh/cybersecurity_content_pack/"
+    },
+    "posts": {
+        "ealrv0n": {
+            "comment": "Thanks to those of you who reported this content as spam",
+            "timeStamp": "2018/11/27-15:16:39",
+            "id": "ealrv0n",
+            "is_submitter": false,
+            "link_id": "t3_a0w0vh",
+            "parent_id": "t3_a0w0vh",
+            "score": 1,
+            "stickied": true,
+            "author_name": "edward_snowedin"
+        },
+        "eal5skv": {
+            "comment": "Thank you! I have a physical copy of that and I\u2019m almost half way through. ",
+            "timeStamp": "2018/11/27-10:43:37",
+            "id": "eal5skv",
+            "is_submitter": false,
+            "link_id": "t3_a0w0vh",
+            "parent_id": "t3_a0w0vh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "boardslayer"
+        },
+        "eal5ovb": {
+            "comment": "Hey, I was just going off what in general other folks have said. I personally have not used these and to be honest they are for sure better than nothing. Go through these books and if you like them us them! One book I can strongly recommend though is [Practical Malware Analysis](https://nostarch.com/malware)",
+            "timeStamp": "2018/11/27-10:42:23",
+            "id": "eal5ovb",
+            "is_submitter": false,
+            "link_id": "t3_a0w0vh",
+            "parent_id": "t1_eal4urh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "tenzin_smith"
+        },
+        "eal4urh": {
+            "comment": "Could you please expand on that? I got the highest tier bundle thinking since I\u2019m just starting out, at least I\u2019ll have something to go through to expand my base. \n\nWhich one of these should I avoid? Is it just not written well or are there factual discrepancies?",
+            "timeStamp": "2018/11/27-10:32:20",
+            "id": "eal4urh",
+            "is_submitter": false,
+            "link_id": "t3_a0w0vh",
+            "parent_id": "t1_eakxl2t",
+            "score": 1,
+            "stickied": false,
+            "author_name": "boardslayer"
+        },
+        "eakxl2t": {
+            "comment": "Just to point out the obvious, this is *not* $1,533 in content. That is a price that is \"msrp\" that is *never* charged. They just say that is the msrp so that whenever someone sees it it appears on sale and looks like a good deal. To be honest from what I heard these books are hit or miss. I'd hold out for another NoStarch or O'Rilley bundle.",
+            "timeStamp": "2018/11/27-09:04:17",
+            "id": "eakxl2t",
+            "is_submitter": false,
+            "link_id": "t3_a0w0vh",
+            "parent_id": "t3_a0w0vh",
+            "score": 3,
+            "stickied": false,
+            "author_name": "tenzin_smith"
+        },
+        "eakw2to": {
+            "comment": "Keep an eye on HB they've been offering really great security and Python bundles for the past year recently. I've gone back and purchased digital forms of $15 book bundles that I spent hundreds on for physical copies a piece.\n\nThis particular one isn't the greatest but in their past you could grab Practical Malware Analysis from nostarch, Art of Memory Forensics and Reverse Engineering form Wiley to name some good heavy hitters.\n\n",
+            "timeStamp": "2018/11/27-08:43:51",
+            "id": "eakw2to",
+            "is_submitter": false,
+            "link_id": "t3_a0w0vh",
+            "parent_id": "t3_a0w0vh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "skeeball"
+        }
+    }
+}

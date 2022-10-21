@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "The\u00a0Sysdig Security Research team\u00a0dug deep into Shellbot malware architecture and malicious activity to improve the detection systems.\n\nWe covered a counter-trend malware that can compromise your system, giving the attacker the possibility to download new files, open connections, leverage your machine to launch DDoS attacks to a specific target, and so on.  \n[https://sysdig.com/blog/malware-analysis-shellbot-sysdig/](https://sysdig.com/blog/malware-analysis-shellbot-sysdig/)\n\nhttps://preview.redd.it/nvqvk51287x71.jpg?width=2401&amp;format=pjpg&amp;auto=webp&amp;s=f10d96cbb2675a7dd311b063f94bbb867124a9a8",
+        "title": "Step-by-step into Shellbot malware analysis, architecture, and malicious activity.",
+        "score": 1,
+        "id": "ql6eoq",
+        "commsNum": 5,
+        "timeStamp": "2021/11/02-08:14:13",
+        "author_name": "MiguelHzBz",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ql6eoq/stepbystep_into_shellbot_malware_analysis/"
+    },
+    "posts": {
+        "hj5c8s4": {
+            "comment": "There's literally hundreds of shellbot variants. The variant they describe has Portuguese variable names, and is this closer to the original shellbot.\n\nI developed an algorithm to semi-automatically find software family phylogeny:\n\n[https://github.com/bediger4000/malware-phylogeny](https://github.com/bediger4000/malware-phylogeny)\n\nI collected about 35 shellbot variants  a few years ago, when the \"shellshock\" vulnerability was revealed. I used those variants to find a family tree for them.",
+            "timeStamp": "2021/11/03-06:54:37",
+            "id": "hj5c8s4",
+            "is_submitter": false,
+            "link_id": "t3_ql6eoq",
+            "parent_id": "t3_ql6eoq",
+            "score": 2,
+            "stickied": false,
+            "author_name": "bediger4000"
+        },
+        "hj4gxem": {
+            "comment": "Hey, well this place is to share and learn new things! :)\n\nTrick malware is used to download other malware when access is gained, but in the past, this malware stole browser credentials.\n\nUnlike Shellbot, Frombook malware is focused on windows systems and the initial access is with phishing campaigns, the typical method to gain access and steal info from the victims.\n\nThe main difference is that this malware turns your PC into a zombie and tries to perform DDoS to target domains. this functionality is typical in IoT malware.\n\nI hope this helps you and keep researching!",
+            "timeStamp": "2021/11/03-01:13:13",
+            "id": "hj4gxem",
+            "is_submitter": true,
+            "link_id": "t3_ql6eoq",
+            "parent_id": "t1_hj2ezx3",
+            "score": 2,
+            "stickied": false,
+            "author_name": "MiguelHzBz"
+        },
+        "hj2ezx3": {
+            "comment": "Oh wow! That's very cool!\nI'm not a malware expert by any means, my apologies for being incorrect, I just love reading this stuff. I fixed computers from hardware problems like a dead CPU or RAM. The types of things I've seen are like... Nanocore, Search Protect, Conduit toolbar, fake antiviruses and whatnot... you know? Nothing crazy. This is all such a different game than what I saw at the shop. Its own class entirely - when  I was fixing computers ZBot was the scary one, now it seems pretty rare. \n\nI didn't know Tsunami uses it too... I have been looking at Trick and trying to find more info about Formbook recently, since they are most popular on any.run. What do you think of those?",
+            "timeStamp": "2021/11/02-14:50:46",
+            "id": "hj2ezx3",
+            "is_submitter": false,
+            "link_id": "t3_ql6eoq",
+            "parent_id": "t1_hj1ml8k",
+            "score": 1,
+            "stickied": false,
+            "author_name": "WiIdCherryPepsi"
+        },
+        "hj1ml8k": {
+            "comment": "I think this behavior is not very strange, to implement the communication protocol between botnet and C2C, IRC is the [traditional approach](https://www.enisa.europa.eu/topics/csirts-in-europe/glossary/botnets).\n\nIn addition, the Sysdig security research team also found other samples in the honeypot. For example, the [tsunami malware](https://sysdig.com/blog/tsunami-malware-jenkins-weblogic/) (released a week ago) also used IRC.",
+            "timeStamp": "2021/11/02-11:49:01",
+            "id": "hj1ml8k",
+            "is_submitter": true,
+            "link_id": "t3_ql6eoq",
+            "parent_id": "t1_hj11joi",
+            "score": 4,
+            "stickied": false,
+            "author_name": "MiguelHzBz"
+        },
+        "hj11joi": {
+            "comment": "Really weird malware using IRC.",
+            "timeStamp": "2021/11/02-09:30:50",
+            "id": "hj11joi",
+            "is_submitter": false,
+            "link_id": "t3_ql6eoq",
+            "parent_id": "t3_ql6eoq",
+            "score": 3,
+            "stickied": false,
+            "author_name": "WiIdCherryPepsi"
+        }
+    }
+}

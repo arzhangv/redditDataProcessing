@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hello! I'm working in a small company, I have single AD DS domain, some network shares and a little of other services.\n\nNow I think about protection of my resourses against ransomware. I think that only backups can protect and keep safe my data. So, I have some tools for backups, but I don't know, what folders and drives I need to copy.\n\nNow I do a backups for network drives and others, but what I need to do with files on client machines? Clients OS is WinXP and Win7.\n\nThanks!\n\n\nedit:\nI ask you about common paths used by users to store their files and common folders that can be encrypted by ransomware. We use network drives for storing sensitive information as documents or contracts. In our company we have a lot of not domain machines and some undisciplined users can store their sensitive files on their \"Desktop\" or \"Documents and Settings\" folders.\n\n\nPlease, remove my question if it is an offtop for this subreddit.",
+        "title": "What folders I need to backup to protect from Ransomware",
+        "score": 1,
+        "id": "3j1rud",
+        "commsNum": 1,
+        "timeStamp": "2015/08/30-22:20:46",
+        "author_name": "encryptedboy",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/3j1rud/what_folders_i_need_to_backup_to_protect_from/"
+    },
+    "posts": {}
+}

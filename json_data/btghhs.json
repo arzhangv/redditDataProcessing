@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Let adware be treated as malware, Canuck boffins declare after breaking open Wajam ad injector",
+        "score": 44,
+        "id": "btghhs",
+        "commsNum": 2,
+        "timeStamp": "2019/05/26-19:20:40",
+        "author_name": "antdude",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.theregister.co.uk/2019/05/20/wajam_malware_claims/"
+    },
+    "posts": {
+        "ep19uvj": {
+            "comment": "I was prepared to disagree with the position stated in the article, but here\u2019s the key paragraph in my opinion:\n\n&gt;\tThe OPC spokesperson said several of Wajam's privacy practices contravene PIPEDA, such as the company's failure to obtain meaningful consent to the installation of the software, which resulted in the collection and use of personal information. The OPC also found the company prevented users from withdrawing their consent by making the software difficult to uninstall and by failing to take measures to safeguard users' personal information.\n\nI believe there is a place for accurately identifying Adware as Adware (rather than malware), but if this software is misrepresenting itself to users and gathering their personal information without the knowledge/consent then it\u2019s spying on them and could accurately be classified as spyware or malware.",
+            "timeStamp": "2019/05/27-12:48:01",
+            "id": "ep19uvj",
+            "is_submitter": false,
+            "link_id": "t3_btghhs",
+            "parent_id": "t3_btghhs",
+            "score": 3,
+            "stickied": false,
+            "author_name": "grub5000"
+        },
+        "eoyw4ss": {
+            "comment": "&gt; After all, displaying ads is not considered a malicious activity. Consequently, adware has received less scrutiny from the malware research community.\n\nNot true. Adware companies sue antivirus companies if they add signatures for their binaries and is the major reason why AVs don't detect them.\n\nSource: I worked at an AV company and got sued a number of times for adding detection for some aggressive adware families.\n\nLook at AV PUP/PUA policies and notice how specific they are to avoid being sued. Malwarebytes and a few others are doing their best to fight adware by having more reasonable PUP policies and they need to be supported and fought for if we need the situation to improve.",
+            "timeStamp": "2019/05/27-02:01:41",
+            "id": "eoyw4ss",
+            "is_submitter": false,
+            "link_id": "t3_btghhs",
+            "parent_id": "t3_btghhs",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ontheprowl"
+        }
+    }
+}

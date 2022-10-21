@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Crimson RAT Malware Analysis",
+        "score": 1,
+        "id": "hx4cw5",
+        "commsNum": 0,
+        "timeStamp": "2020/07/24-09:00:27",
+        "author_name": "anuraggawande",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://malwr-analysis.com/2020/07/24/crimson-rat-malware-analysis/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,176 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "US says North Korea behind malware attacks",
+        "score": 49,
+        "id": "8n6vy6",
+        "commsNum": 14,
+        "timeStamp": "2018/05/30-01:19:23",
+        "author_name": "LiamBigDataDonoghue",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 14,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.apnews.com/9fb4327df4994d93a3b5c49ee227b2e0/US-says-North-Korea-behind-malware-attacks"
+    },
+    "posts": {
+        "dzvj7w1": {
+            "comment": "I think a big part of USG releasing this type of info is to give companies and vendors places to pivot to for additional analysis and discovery and to improve their overall defensive posture. \n\nIf you go to VT intel you can easily pivot to more recent samples via similar-to searching, retrohunt, and using the \"engines\" search modifier. From there, it's up to you where you go with that additional intel.",
+            "timeStamp": "2018/05/31-05:05:43",
+            "id": "dzvj7w1",
+            "is_submitter": false,
+            "link_id": "t3_8n6vy6",
+            "parent_id": "t1_dzthf9b",
+            "score": 1,
+            "stickied": false,
+            "author_name": "UnreasonableDoubter"
+        },
+        "dzujovy": {
+            "comment": "\u201cFBI has high confidence that Hidden Cobra actors are using IP (internet protocol) addresses to maintain a presence on victims\u2019 networks and enable network exploitation,\u201d\n\nWow! They use what? An \"IP addresses\"?!",
+            "timeStamp": "2018/05/30-15:21:38",
+            "id": "dzujovy",
+            "is_submitter": false,
+            "link_id": "t3_8n6vy6",
+            "parent_id": "t3_8n6vy6",
+            "score": 2,
+            "stickied": false,
+            "author_name": "tululum"
+        },
+        "dztws7a": {
+            "comment": "I'd prefer the more technical posts. That's not say news articles should be banned outright but OP could've linked directly to the DHS alert instead. \n\nAlso, would be good if the trolls' posts could be removed. \n\n1) https://www.reddit.com/r/Malware/comments/8n6vy6/us_says_north_korea_behind_malware_attacks/dztar0e/\n\n2) https://www.reddit.com/r/Malware/comments/8n6vy6/us_says_north_korea_behind_malware_attacks/dzthl07/",
+            "timeStamp": "2018/05/30-09:45:09",
+            "id": "dztws7a",
+            "is_submitter": false,
+            "link_id": "t3_8n6vy6",
+            "parent_id": "t1_dztetrs",
+            "score": 4,
+            "stickied": false,
+            "author_name": "UnreasonableDoubter"
+        },
+        "dztwija": {
+            "comment": "I think they're good. But if they start to take over the sub, rather than banning them they could be relegated to only Tuesdays and Thursdays or a weekly sticky or something like that. ",
+            "timeStamp": "2018/05/30-09:41:25",
+            "id": "dztwija",
+            "is_submitter": false,
+            "link_id": "t3_8n6vy6",
+            "parent_id": "t1_dztetrs",
+            "score": 8,
+            "stickied": false,
+            "author_name": "kjb123etc"
+        },
+        "dztupig": {
+            "comment": "Those windows 95 viruses are deadly.",
+            "timeStamp": "2018/05/30-09:15:51",
+            "id": "dztupig",
+            "is_submitter": false,
+            "link_id": "t3_8n6vy6",
+            "parent_id": "t3_8n6vy6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "stixx_nixon"
+        },
+        "dztseib": {
+            "comment": "I feel like they're plenty of news sites you can to learn about this, but I'd rather have a place to talk about technical parts of malware. They're aren't many places to do that. ",
+            "timeStamp": "2018/05/30-08:43:07",
+            "id": "dztseib",
+            "is_submitter": false,
+            "link_id": "t3_8n6vy6",
+            "parent_id": "t1_dztetrs",
+            "score": 4,
+            "stickied": false,
+            "author_name": "got_nations"
+        },
+        "dzthl07": {
+            "comment": "[removed]",
+            "timeStamp": "2018/05/30-05:48:47",
+            "id": "dzthl07",
+            "is_submitter": false,
+            "link_id": "t3_8n6vy6",
+            "parent_id": "t3_8n6vy6",
+            "score": -5,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "dzthf9b": {
+            "comment": "This is some proper old stuff. These samples date back to ~~2012-2013~~ 2010.",
+            "timeStamp": "2018/05/30-05:45:33",
+            "id": "dzthf9b",
+            "is_submitter": false,
+            "link_id": "t3_8n6vy6",
+            "parent_id": "t3_8n6vy6",
+            "score": 7,
+            "stickied": false,
+            "author_name": "specter800"
+        },
+        "dzth2yh": {
+            "comment": "Did you read the article?  Stop being a dipshit.  ",
+            "timeStamp": "2018/05/30-05:38:30",
+            "id": "dzth2yh",
+            "is_submitter": false,
+            "link_id": "t3_8n6vy6",
+            "parent_id": "t1_dztar0e",
+            "score": 1,
+            "stickied": false,
+            "author_name": "anononabus"
+        },
+        "dztfj4i": {
+            "comment": "Is it that one guy on Steam?",
+            "timeStamp": "2018/05/30-05:03:40",
+            "id": "dztfj4i",
+            "is_submitter": false,
+            "link_id": "t3_8n6vy6",
+            "parent_id": "t3_8n6vy6",
+            "score": 2,
+            "stickied": false,
+            "author_name": "tekgnosis"
+        },
+        "dztetrs": {
+            "comment": "Readers, let us know if you want to see these types of non technical malware posts or would rather keep this sub\u2019s content more aimed at the analysis/technical side",
+            "timeStamp": "2018/05/30-04:46:02",
+            "id": "dztetrs",
+            "is_submitter": false,
+            "link_id": "t3_8n6vy6",
+            "parent_id": "t3_8n6vy6",
+            "score": 1,
+            "stickied": true,
+            "author_name": "edward_snowedin"
+        },
+        "dztdszk": {
+            "comment": "Link to DHS site w/ more description and indicators: [https://www.us-cert.gov/ncas/alerts/TA18-149A](https://www.us-cert.gov/ncas/alerts/TA18-149A)",
+            "timeStamp": "2018/05/30-04:18:35",
+            "id": "dztdszk",
+            "is_submitter": false,
+            "link_id": "t3_8n6vy6",
+            "parent_id": "t3_8n6vy6",
+            "score": 5,
+            "stickied": false,
+            "author_name": "UnreasonableDoubter"
+        },
+        "dztdli1": {
+            "comment": "\"EHUEHEU DRUMPF XDXD\"\n\nGrow up",
+            "timeStamp": "2018/05/30-04:12:32",
+            "id": "dztdli1",
+            "is_submitter": false,
+            "link_id": "t3_8n6vy6",
+            "parent_id": "t1_dztar0e",
+            "score": 3,
+            "stickied": false,
+            "author_name": "Stenwalden"
+        },
+        "dztar0e": {
+            "comment": "[removed]",
+            "timeStamp": "2018/05/30-02:36:00",
+            "id": "dztar0e",
+            "is_submitter": false,
+            "link_id": "t3_8n6vy6",
+            "parent_id": "t3_8n6vy6",
+            "score": -10,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

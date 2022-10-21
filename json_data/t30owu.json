@@ -1,0 +1,132 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "While searching for a manual I came across a pdf file which I scanned with Norton and upon finding that it is clean I ran it. Inside I found two links for doc and pdf version to the manual. I didn't download anything from said links but I dug deeper and send it through virus total, only one engine classified it as  Solarmarker. From what I understand to get properly infected I would have to download and run any of the additional files form the link but I would feel better if somebody would confirm me this.\n\nlink to additional analysis:\n\n[https://www.hybrid-analysis.com/sample/35b04591f1a9e1686b21eccc18b1e1da2b0e12a4c307ac1249aa3e7705e16329/621bfff0c5a9a5228a417ac2#mitre-matrix-modal](https://www.hybrid-analysis.com/sample/35b04591f1a9e1686b21eccc18b1e1da2b0e12a4c307ac1249aa3e7705e16329/621bfff0c5a9a5228a417ac2#mitre-matrix-modal)",
+        "title": "I need info on Solarmarker trojan.",
+        "score": 1,
+        "id": "t30owu",
+        "commsNum": 10,
+        "timeStamp": "2022/02/27-15:19:04",
+        "author_name": "wooshaq",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 10,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/t30owu/i_need_info_on_solarmarker_trojan/"
+    },
+    "posts": {
+        "hyt69ju": {
+            "comment": "I tried hitmanpro and kaspersky and it found nothing.",
+            "timeStamp": "2022/02/28-10:40:01",
+            "id": "hyt69ju",
+            "is_submitter": true,
+            "link_id": "t3_t30owu",
+            "parent_id": "t1_hyrf9nk",
+            "score": 2,
+            "stickied": false,
+            "author_name": "wooshaq"
+        },
+        "hyrf9nk": {
+            "comment": "Here's a list of[ second-opinion apps](https://www.reddit.com/r/antivirus/wiki/index#wiki_free_tools) from the antivirus wiki.They're designed to be run alongside your existing AV to generate a 'second-opinion' on whether you're infected or not",
+            "timeStamp": "2022/02/28-02:04:59",
+            "id": "hyrf9nk",
+            "is_submitter": false,
+            "link_id": "t3_t30owu",
+            "parent_id": "t1_hyqz0rb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ByGollie"
+        },
+        "hyqz0rb": {
+            "comment": "I did read it before but as I'm not an native speaker some things were not clear to me. I did look at the appdata folder. I'll look in the temp. I did a full drive scan with Norton as well. I only downloaded a pdf, if the file had no power to download the additional executable by itself I guess I dodged the bullet.",
+            "timeStamp": "2022/02/27-22:40:36",
+            "id": "hyqz0rb",
+            "is_submitter": true,
+            "link_id": "t3_t30owu",
+            "parent_id": "t1_hyqj31p",
+            "score": 2,
+            "stickied": false,
+            "author_name": "wooshaq"
+        },
+        "hyqj31p": {
+            "comment": "As long as you didn\u2019t double click a .exe file with the same name it should be fine. Check your roaming profile or app data local temp for any weird file creations.",
+            "timeStamp": "2022/02/27-20:07:28",
+            "id": "hyqj31p",
+            "is_submitter": false,
+            "link_id": "t3_t30owu",
+            "parent_id": "t1_hyqii4q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Sweaty_Ad_1332"
+        },
+        "hyqii4q": {
+            "comment": "So, should I be concerned that I only vieved the pdf file without clicking on the links inside?",
+            "timeStamp": "2022/02/27-20:02:40",
+            "id": "hyqii4q",
+            "is_submitter": true,
+            "link_id": "t3_t30owu",
+            "parent_id": "t1_hypt7fc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "wooshaq"
+        },
+        "hypufj3": {
+            "comment": "[deleted]",
+            "timeStamp": "2022/02/27-16:55:31",
+            "id": "hypufj3",
+            "is_submitter": false,
+            "link_id": "t3_t30owu",
+            "parent_id": "t1_hypqpp1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hypt9ih": {
+            "comment": "[deleted]",
+            "timeStamp": "2022/02/27-16:46:27",
+            "id": "hypt9ih",
+            "is_submitter": false,
+            "link_id": "t3_t30owu",
+            "parent_id": "t3_t30owu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hypt7fc": {
+            "comment": "Never mind this lure is certainly solarmarker but is the site to download the file still up? This isn\u2019t the final payload",
+            "timeStamp": "2022/02/27-16:45:59",
+            "id": "hypt7fc",
+            "is_submitter": false,
+            "link_id": "t3_t30owu",
+            "parent_id": "t1_hypsylq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Sweaty_Ad_1332"
+        },
+        "hypsylq": {
+            "comment": "Solar marker being a Trojan it gets packaged with a legitimate pdf viewer installer that cycles every few months. That\u2019s likely why an engine flagged it. Sophos has a great write up on solar marker before it\u2019s newest revival if you want to learn more.",
+            "timeStamp": "2022/02/27-16:44:07",
+            "id": "hypsylq",
+            "is_submitter": false,
+            "link_id": "t3_t30owu",
+            "parent_id": "t3_t30owu",
+            "score": 5,
+            "stickied": false,
+            "author_name": "Sweaty_Ad_1332"
+        },
+        "hypqpp1": {
+            "comment": "[deleted]",
+            "timeStamp": "2022/02/27-16:27:02",
+            "id": "hypqpp1",
+            "is_submitter": false,
+            "link_id": "t3_t30owu",
+            "parent_id": "t3_t30owu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

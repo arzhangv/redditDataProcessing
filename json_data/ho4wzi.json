@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "I downloaded cheat engine from google, McAfee said it stopped a virus and I've ran a scan but it didn't find anything, what is this?",
+        "score": 1,
+        "id": "ho4wzi",
+        "commsNum": 1,
+        "timeStamp": "2020/07/09-08:19:08",
+        "author_name": "spicybeyoi",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://i.redd.it/ja1mgw3kmu951.png"
+    },
+    "posts": {
+        "fxfhhj2": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2020/07/09-08:19:09",
+            "id": "fxfhhj2",
+            "is_submitter": false,
+            "link_id": "t3_ho4wzi",
+            "parent_id": "t3_ho4wzi",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

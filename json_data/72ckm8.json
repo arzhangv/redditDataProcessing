@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Additional information regarding the recent CCleaner APT security incident",
+        "score": 25,
+        "id": "72ckm8",
+        "commsNum": 3,
+        "timeStamp": "2017/09/25-06:56:59",
+        "author_name": "SticknMyDicknAChickn",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://blog.avast.com/additional-information-regarding-the-recent-ccleaner-apt-security-incident"
+    },
+    "posts": {}
+}

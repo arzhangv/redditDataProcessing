@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Agent Tesla Loader Malware Analysis",
+        "score": 1,
+        "id": "hetagq",
+        "commsNum": 1,
+        "timeStamp": "2020/06/23-20:21:36",
+        "author_name": "kindredsec",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://github.com/itsKindred/malware-analysis-writeups/blob/master/agent-tesla-loader/agentTeslaLoader.pdf"
+    },
+    "posts": {
+        "fvv9mru": {
+            "comment": "Good write up. I enjoyed it",
+            "timeStamp": "2020/06/24-10:00:09",
+            "id": "fvv9mru",
+            "is_submitter": false,
+            "link_id": "t3_hetagq",
+            "parent_id": "t3_hetagq",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Info_Broker_"
+        }
+    }
+}

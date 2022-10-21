@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi all,\n\nLooking to be pointed in the direction of answers to some queries I have regarding the behaviour of WannaCry, as (perhaps understandably) there doesn't yet seem to be a good single source of truth regarding its function.\n\n1) To what degree does the killswitch halt execution of the malware? With the killswitch active, does the worming continue? Does the ransomware dropping? Which code paths are gated behind the killswitch. [This Twitter user](https://twitter.com/DanielGallagher/status/864837814697046016) claims that WannaCry continues to worm and is being held at bay only by the killswitch. I hadn't seen that claim made anywhere else, but @2sec4u, one of the maintainers of the killswitch responded with \"and this is why we're not sleeping\" adding more weight to the suggestion. If the worm is still in play, it seems likely the malware continues to drop doublepulsar as noted by a number of analyses.\n\nOn the other hand, the [MalwareBytes](https://blog.malwarebytes.com/threat-analysis/2017/05/the-worm-that-spreads-wanacrypt0r/) analysis notes that \"nothing will happen on any new systems that runs the executable\" and seems to suggest that \"If the connection [to the killswitch] succeeds, the binary exits\" prior to worming/dropping behaviours.\n\n2) Have other researchers corroborated [Symantec's claim](https://www.symantec.com/security_response/writeup.jsp?docid=2017-051310-3522-99&amp;tabid=2) that there is a race condition preventing the generation of a per-infection BTC address? Symantec notes on Twitter that [\"It tries to run @WanaDecryptor@.exe to obtain the new BTC address, but @WanaDecryptor@.exe isn't copied from u.wnry until later\"](https://twitter.com/threatintel/status/864504502682099716).\n\n3) What is known about the decryption key delivery process? I've read both that there is a [human being manually verifying transactions](https://twitter.com/hackerfantastic/status/863833239475171329) and [\"Once the ransom is paid, the executable is able to check the status of the payment, and allow file decryption.\"](http://baesystemsai.blogspot.co.nz/2017/05/wanacrypt0r-ransomworm.html?m=1). \n\nThere are suggestions today that [the author is reaching out to attempt to increase user trust](https://twitter.com/ThiceNL/status/865133662387527681) which would suggest they're still trying to sell people on their credibility in decrypting.\n\nDoes the malware have this capability but fails to use it due to the bug Symantec note? It's my reading so far that the idea that the process must be manual was based on there being no automated identifier for the C2 to check against, as it would if a per-infection address were used. Is it fair to assume that automated payment detection was intended but thwarted due to bugs in the payment code?\n\nFor reference, content I've read so far in attempting to answer these, in addition to following key researchers on Twitter. Maybe I've missed important points in these write-ups:\nhttps://blog.malwarebytes.com/threat-analysis/2017/05/the-worm-that-spreads-wanacrypt0r/  \nhttps://www.symantec.com/security_response/writeup.jsp?docid=2017-051310-3522-99&amp;tabid=2  \nhttp://baesystemsai.blogspot.co.nz/2017/05/wanacrypt0r-ransomworm.html?m=1  \nhttps://www.endgame.com/blog/wcrywanacry-ransomware-technical-analysis  \nhttp://blog.talosintelligence.com/2017/05/wannacry.html  \n\nEDIT: While I have a visible thread on WannaCry here, it's as good a place as any to note that WannaCry does not worm to Windows XP.\n\nSources: \nhttps://twitter.com/threatintel/status/865476673617121280\nhttps://twitter.com/GossiTheDog/status/865474911015288832  \nhttps://twitter.com/cybergibbons/status/865464575986024449",
+        "title": "Questions on WCry Behaviour",
+        "score": 20,
+        "id": "6bvigm",
+        "commsNum": 2,
+        "timeStamp": "2017/05/18-04:14:04",
+        "author_name": "JoshBrodieNZ",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6bvigm/questions_on_wcry_behaviour/"
+    },
+    "posts": {}
+}

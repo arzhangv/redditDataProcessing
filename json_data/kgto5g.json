@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hi,\n\nDoes anyone have experience with using fakedns on remnux?\n\nI\u2019ve just fired up remnux for the first time and when I run fakedns using \u201csudo fakedns (myipaddr)\u201d it crashes with a \u2018socket.gaerror\u2019 and \u2018name or service not known\u2019\n\nSame results if I just run fakedns with and without sudo, and with and without supplying my ip address.\n\nHas anyone had a similar issue and resolved?\nThanks",
+        "title": "Remnux/fakedns",
+        "score": 1,
+        "id": "kgto5g",
+        "commsNum": 4,
+        "timeStamp": "2020/12/20-05:05:29",
+        "author_name": "JoeBeOneKenobi",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/kgto5g/remnuxfakedns/"
+    },
+    "posts": {
+        "gghazp1": {
+            "comment": "Ah I\u2019ll have a look at that, thanks for the suggestion.\n\nTurns out the cause of my issue was using the remnux van based on the 20.04 version of Ubuntu, the 18.04 version doesn\u2019t return the same error. The fix suggested by abx098 works well for the 20.04 version though",
+            "timeStamp": "2020/12/20-06:39:27",
+            "id": "gghazp1",
+            "is_submitter": true,
+            "link_id": "t3_kgto5g",
+            "parent_id": "t1_gghakvy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "JoeBeOneKenobi"
+        },
+        "gghakvy": {
+            "comment": "I\u2019ve found InetSim to be much better.",
+            "timeStamp": "2020/12/20-06:36:15",
+            "id": "gghakvy",
+            "is_submitter": false,
+            "link_id": "t3_kgto5g",
+            "parent_id": "t3_kgto5g",
+            "score": 2,
+            "stickied": false,
+            "author_name": "AlfredoVignale"
+        },
+        "ggh8hzq": {
+            "comment": "Awesome, thanks for the reply!",
+            "timeStamp": "2020/12/20-06:20:18",
+            "id": "ggh8hzq",
+            "is_submitter": true,
+            "link_id": "t3_kgto5g",
+            "parent_id": "t1_ggh7tjd",
+            "score": 0,
+            "stickied": false,
+            "author_name": "JoeBeOneKenobi"
+        },
+        "ggh7tjd": {
+            "comment": "https://medium.com/@niktrix/getting-rid-of-systemd-resolved-consuming-port-53-605f0234f32f\n\n\nUse this",
+            "timeStamp": "2020/12/20-06:15:14",
+            "id": "ggh7tjd",
+            "is_submitter": false,
+            "link_id": "t3_kgto5g",
+            "parent_id": "t3_kgto5g",
+            "score": 2,
+            "stickied": false,
+            "author_name": "abx098"
+        }
+    }
+}

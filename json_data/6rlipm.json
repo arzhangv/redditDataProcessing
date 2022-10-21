@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "When I worked in IT at my colleges campus we got hit by something called TLD4++ and this thing was NASTY. It spread over A LOT of subnets and proved to be nearly indestructible with most of the infected computers needing a reimaging. We had a lot of \"fun\" trying to remove it and learning about it as it evolved. It always struck me as wild how many features TLD4++ had, and reading about the distribution networks etc was super interesting. Plus reading about how it worked to become indestructible by gaining kernel level access and rewriting the MBR, then hiding on a hidden partition was pretty cool.\n\nLately it feels like there's basically just ransomware and that's it. Is there any advance commercial malware these days that does things like TLD4++ used to? Or is ransomware just too simple and lucrative?",
+        "title": "Are full featured rootkits still around \\ interesting?",
+        "score": 16,
+        "id": "6rlipm",
+        "commsNum": 4,
+        "timeStamp": "2017/08/04-09:15:33",
+        "author_name": "NSGJoe",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6rlipm/are_full_featured_rootkits_still_around/"
+    },
+    "posts": {
+        "dl78h3m": {
+            "comment": "I think TDL++ was TDL4's predecessor. If I'm not mistaken",
+            "timeStamp": "2017/08/05-06:41:52",
+            "id": "dl78h3m",
+            "is_submitter": false,
+            "link_id": "t3_6rlipm",
+            "parent_id": "t1_dl6uz03",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Flippidy"
+        },
+        "dl6xsd0": {
+            "comment": "Hello,\n\nCriminal malware is typically financially-motivated, and ransomware seems to generate a higher return than ad fraud/adware or fake antivirus programs.  Yes, the other things still exist, but as the ability to generate revenue from them has decreased, the criminals have refocused elsewhere.\n\nRegards,\n\nAryeh Goretsky",
+            "timeStamp": "2017/08/04-22:55:56",
+            "id": "dl6xsd0",
+            "is_submitter": false,
+            "link_id": "t3_6rlipm",
+            "parent_id": "t3_6rlipm",
+            "score": 2,
+            "stickied": false,
+            "author_name": "goretsky"
+        },
+        "dl6uz03": {
+            "comment": "I think you mean TDL4. \n\nIt probably doesn't make financial sense for commercial malware to load in so many features, just the minimum to ship and get the job done.",
+            "timeStamp": "2017/08/04-21:23:38",
+            "id": "dl6uz03",
+            "is_submitter": false,
+            "link_id": "t3_6rlipm",
+            "parent_id": "t3_6rlipm",
+            "score": 2,
+            "stickied": false,
+            "author_name": "TheBowtieClub"
+        },
+        "dl6o9uv": {
+            "comment": "ransomware is just too simple and lucrative. APT/state sponsored stuff though, on the other hand, can be crazy advanced.",
+            "timeStamp": "2017/08/04-18:24:30",
+            "id": "dl6o9uv",
+            "is_submitter": false,
+            "link_id": "t3_6rlipm",
+            "parent_id": "t3_6rlipm",
+            "score": 5,
+            "stickied": false,
+            "author_name": "Djuzuh"
+        }
+    }
+}

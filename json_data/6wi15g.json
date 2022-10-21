@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[deleted]",
+        "title": "Could a Trojan work as originally advertised?",
+        "score": 4,
+        "id": "6wi15g",
+        "commsNum": 4,
+        "timeStamp": "2017/08/28-01:06:27",
+        "author_name": "[deleted]",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6wi15g/could_a_trojan_work_as_originally_advertised/"
+    },
+    "posts": {
+        "dm8sscj": {
+            "comment": "[deleted]",
+            "timeStamp": "2017/08/28-10:55:04",
+            "id": "dm8sscj",
+            "is_submitter": false,
+            "link_id": "t3_6wi15g",
+            "parent_id": "t1_dm8fjal",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "dm8ndob": {
+            "comment": "Thank you for the advice I will give that a shot!",
+            "timeStamp": "2017/08/28-09:19:52",
+            "id": "dm8ndob",
+            "is_submitter": true,
+            "link_id": "t3_6wi15g",
+            "parent_id": "t1_dm88eo1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "gh0zt_code"
+        },
+        "dm8fjal": {
+            "comment": "How did it classify the threat? Patches, keygens, cracks, etc are commonly labeled as threats even when they are legit. Upload to VirusTotal and look through the names of the threat results. Some can be dismissed for this type of file, like Gen.HackTool.X, etc",
+            "timeStamp": "2017/08/28-06:47:39",
+            "id": "dm8fjal",
+            "is_submitter": false,
+            "link_id": "t3_6wi15g",
+            "parent_id": "t3_6wi15g",
+            "score": 5,
+            "stickied": false,
+            "author_name": "LightningRurik"
+        },
+        "dm8be4f": {
+            "comment": "It might be the false positive where the useful code is detected as harmful. As the guy said, pass it through virustotal and read about the trojan on the web.",
+            "timeStamp": "2017/08/28-04:52:53",
+            "id": "dm8be4f",
+            "is_submitter": false,
+            "link_id": "t3_6wi15g",
+            "parent_id": "t3_6wi15g",
+            "score": 5,
+            "stickied": false,
+            "author_name": "nickhudsonincs"
+        },
+        "dm88eo1": {
+            "comment": "There's plenty of ways to embed malicious shellcodes into properly working software, usual trojans don't serve a \"real\" purpose because it's just easier to code them that way.\n\nOne way you could check if said patch is a malware is pass it thru something like virustotal and see how many antiviruses flag it, however it's still a statistical approach and can't guarantee anything.",
+            "timeStamp": "2017/08/28-02:45:35",
+            "id": "dm88eo1",
+            "is_submitter": false,
+            "link_id": "t3_6wi15g",
+            "parent_id": "t3_6wi15g",
+            "score": 8,
+            "stickied": false,
+            "author_name": "mgostIH"
+        }
+    }
+}

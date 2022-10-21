@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Is this something I should be worried about or just some malware from decades ago that companies mention to further scare the user?\n\n&amp;#x200B;\n\nAlso, while on it can someone also tell me why ms word asks if I trust the file when I try to edit it? I mean, the file is already open and nothing happened. How do such malware work?",
+        "title": "Most antimalware software sport an \"email protection tool\", that can protect you from emails that can infect your computer when you open it. Can someone explain how does an email itself, without an attached harmful file can pose a thread?",
+        "score": 1,
+        "id": "a0auv9",
+        "commsNum": 1,
+        "timeStamp": "2018/11/25-10:22:13",
+        "author_name": "Lojcs",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/a0auv9/most_antimalware_software_sport_an_email/"
+    },
+    "posts": {
+        "eag5qz9": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2018/11/25-10:22:14",
+            "id": "eag5qz9",
+            "is_submitter": false,
+            "link_id": "t3_a0auv9",
+            "parent_id": "t3_a0auv9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "FUD Crypter for sale soon! Follow @AcidInc_ on twitter for more!",
+        "score": 1,
+        "id": "edym11",
+        "commsNum": 1,
+        "timeStamp": "2019/12/21-17:38:51",
+        "author_name": "_n3Rd_",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://twitter.com/AcidInc_"
+    },
+    "posts": {
+        "fbu6izr": {
+            "comment": "Should that crap be allowed here? \n\nWe dont need skids crypters, begone !",
+            "timeStamp": "2019/12/23-05:44:51",
+            "id": "fbu6izr",
+            "is_submitter": false,
+            "link_id": "t3_edym11",
+            "parent_id": "t3_edym11",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RCEdude"
+        }
+    }
+}

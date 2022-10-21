@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I try to learn what I can, but I admit I know very little about network management and security. I could use some help figuring this out.\n\nWhen checking in on my router logs (mainly out of boredom) I noticed that its been reporting DoS attacks once every few hours, always from an internal IP address, and always a \"DoS Attack: Smurf\".\n\nHere's an example:\n\n[DoS attack: Smurf] attack packets in last 20 sec from ip [192.168.1.10], Sunday, Nov 06,2016 20:39:09\n\nSo, what do? The most recent one was from my PC, while using it. I've done a full system scan with MBAM and my antivirus, including option for rootkits. Could this be a malware situation? All results were negative.\n\nIs something on my network attacking something else within the network for some reason?\n\nAny help would be appreciated! I'll provide more info if needed.\n",
+        "title": "Router Logs Report DoS Attack from Internal IP",
+        "score": 13,
+        "id": "5bkllo",
+        "commsNum": 6,
+        "timeStamp": "2016/11/06-21:54:13",
+        "author_name": "RaveMittens",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5bkllo/router_logs_report_dos_attack_from_internal_ip/"
+    },
+    "posts": {}
+}

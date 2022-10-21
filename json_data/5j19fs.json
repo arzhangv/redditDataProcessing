@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Recently a malware in indian banking cards system made big news.\n\nhttp://m.hindustantimes.com/business-news/this-is-how-3-2-million-debit-cards-in-india-were-compromised/story-BHsFrKK076cHYu4SRx2VjN_amp.html\n\nAre there any samples available to study this malware? There is not even the name to be found anywhere.",
+        "title": "Where to get sample of this malware",
+        "score": 0,
+        "id": "5j19fs",
+        "commsNum": 1,
+        "timeStamp": "2016/12/18-09:32:27",
+        "author_name": "HackSpirit",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5j19fs/where_to_get_sample_of_this_malware/"
+    },
+    "posts": {}
+}

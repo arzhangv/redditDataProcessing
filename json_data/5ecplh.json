@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Why is GO used so much in malware programming?",
+        "score": 5,
+        "id": "5ecplh",
+        "commsNum": 6,
+        "timeStamp": "2016/11/22-11:41:58",
+        "author_name": "Kickass_PK",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5ecplh/why_is_go_used_so_much_in_malware_programming/"
+    },
+    "posts": {}
+}

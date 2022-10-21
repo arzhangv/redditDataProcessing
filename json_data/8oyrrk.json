@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Analysis of MSIL.Backdoor.SocketPlayer.A",
+        "score": 1,
+        "id": "8oyrrk",
+        "commsNum": 0,
+        "timeStamp": "2018/06/06-00:44:54",
+        "author_name": "ransombleed",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://file.gdatasoftware.com/web/en/documents/whitepaper/G_DATA_SocketPlayer_Analysis.pdf"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I recently had a ransomware attack on my laptop (NOBU). Which I believe I have successfully blocked and/or cleaned.\n\n  \n\n\nI searched on google and found out an application named qphotorec which helped me decrypt most of the files.\n\n  \n\n\nComing to my problem, the files which were decrypted includes different varieties and they are all named almost same. viz. F2382... Also theyre all stored in different directories(278 in my case). Is there any way in which I can easily sort them or at least see their original names.\n\n  \n\n\nAny help is appreciated and I thank you in advance.",
+        "title": "Post-Ransomware help",
+        "score": 1,
+        "id": "k8qgfv",
+        "commsNum": 0,
+        "timeStamp": "2020/12/07-13:52:53",
+        "author_name": "harbingermb",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/k8qgfv/postransomware_help/"
+    },
+    "posts": {}
+}

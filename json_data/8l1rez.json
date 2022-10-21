@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I got mail.ru malware and i got rid of it.\nMy computer is no slower. Help me please!",
+        "title": "Watch out for the mail.ru malware! NEED HELP",
+        "score": 1,
+        "id": "8l1rez",
+        "commsNum": 3,
+        "timeStamp": "2018/05/21-08:42:15",
+        "author_name": "MatunReddit",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8l1rez/watch_out_for_the_mailru_malware_need_help/"
+    },
+    "posts": {
+        "dzc6o8g": {
+            "comment": "Please read the rules before you post",
+            "timeStamp": "2018/05/21-09:11:59",
+            "id": "dzc6o8g",
+            "is_submitter": false,
+            "link_id": "t3_8l1rez",
+            "parent_id": "t3_8l1rez",
+            "score": 1,
+            "stickied": false,
+            "author_name": "phrozen_one"
+        },
+        "dzc5b19": {
+            "comment": "Oh sorry",
+            "timeStamp": "2018/05/21-08:50:06",
+            "id": "dzc5b19",
+            "is_submitter": false,
+            "link_id": "t3_8l1rez",
+            "parent_id": "t3_8l1rez",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MatunReddit"
+        },
+        "dzc59lc": {
+            "comment": "Hello,\n\n/r/malware is not a subreddit for help removing or dealing with malware, and the associated issues it causes. Please refer to /r/antivirus or /r/techsupport for help on this matter!\n\n/r/malware is a subreddit made to discuss malware itself, how it was built, what it was meant to do, read analyses of malware and similar programs, and discuss \"high level\" ways to identify and protect against malware. This does not include troubleshoot or remove infections on user systems, or end point issues.\n\nSorry for any inconveniences!  Let me know if you need clarification or similar.",
+            "timeStamp": "2018/05/21-08:49:29",
+            "id": "dzc59lc",
+            "is_submitter": false,
+            "link_id": "t3_8l1rez",
+            "parent_id": "t3_8l1rez",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Sam-Gunn"
+        }
+    }
+}

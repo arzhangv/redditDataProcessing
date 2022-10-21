@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Malware Must Die!: MMD-0028-2014 - Fuzzy reversing a new China ELF \"Linux/XOR.DDoS\"",
+        "score": 11,
+        "id": "2hsol3",
+        "commsNum": 0,
+        "timeStamp": "2014/09/29-08:47:24",
+        "author_name": "mmd0xFF",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://blog.malwaremustdie.org/2014/09/mmd-0028-2014-fuzzy-reversing-new-china.html"
+    },
+    "posts": {}
+}

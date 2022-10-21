@@ -1,0 +1,220 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Can a rootkit survive a full wipe/format hard drive?",
+        "score": 19,
+        "id": "6oppbl",
+        "commsNum": 14,
+        "timeStamp": "2017/07/21-11:10:10",
+        "author_name": "Qemics",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 14,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6oppbl/can_a_rootkit_survive_a_full_wipeformat_hard_drive/"
+    },
+    "posts": {
+        "i0l9bc0": {
+            "comment": "[removed]",
+            "timeStamp": "2022/03/14-00:03:25",
+            "id": "i0l9bc0",
+            "is_submitter": false,
+            "link_id": "t3_6oppbl",
+            "parent_id": "t3_6oppbl",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hsvuz8s": {
+            "comment": "[removed]",
+            "timeStamp": "2022/01/16-02:00:21",
+            "id": "hsvuz8s",
+            "is_submitter": false,
+            "link_id": "t3_6oppbl",
+            "parent_id": "t1_dkjixih",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hsvux2t": {
+            "comment": "[removed]",
+            "timeStamp": "2022/01/16-01:59:32",
+            "id": "hsvux2t",
+            "is_submitter": false,
+            "link_id": "t3_6oppbl",
+            "parent_id": "t1_dkjirj9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hsvuw0v": {
+            "comment": "[removed]",
+            "timeStamp": "2022/01/16-01:59:08",
+            "id": "hsvuw0v",
+            "is_submitter": false,
+            "link_id": "t3_6oppbl",
+            "parent_id": "t3_6oppbl",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "dkmvv72": {
+            "comment": "Both yes and no. It depends on the scope of the attacker and what physical setup your mobo is running.\n\nIn a worst case scenario, once your BIOS is infected you're fucked and will need to buy a new mobo (because fixing it at a workshop will be more expensive).  \nIn a best case scenario, you fix it yourself with the press of a button.  \n\nSo basically, YMMV. BIOS resetting isn't always an option due to shitty mobos, and even if it is, a sufficiently sophisticated rootkit could be hiding in other places as well, just waiting to re-infect the BIOS.",
+            "timeStamp": "2017/07/23-21:03:48",
+            "id": "dkmvv72",
+            "is_submitter": false,
+            "link_id": "t3_6oppbl",
+            "parent_id": "t1_dkmuyju",
+            "score": 1,
+            "stickied": false,
+            "author_name": "VikingFjorden"
+        },
+        "dkmuyju": {
+            "comment": "Even if one gets infected by rootkits that target the BIOS, I would hope one can still re flash the BIOS. ",
+            "timeStamp": "2017/07/23-20:41:01",
+            "id": "dkmuyju",
+            "is_submitter": false,
+            "link_id": "t3_6oppbl",
+            "parent_id": "t1_dkjp5tb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "thehermitcoder"
+        },
+        "dkkltku": {
+            "comment": "Get a hardware wallet like a trezor or similar.",
+            "timeStamp": "2017/07/22-09:46:40",
+            "id": "dkkltku",
+            "is_submitter": false,
+            "link_id": "t3_6oppbl",
+            "parent_id": "t1_dkk1zuv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "schwags"
+        },
+        "dkklsos": {
+            "comment": "This is the correct answer ",
+            "timeStamp": "2017/07/22-09:46:08",
+            "id": "dkklsos",
+            "is_submitter": false,
+            "link_id": "t3_6oppbl",
+            "parent_id": "t1_dkjp5tb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "stacksmasher"
+        },
+        "dkk4huy": {
+            "comment": "I'm very happy with the life choices that led here. Now if only I was actually getting paid for this shit... ",
+            "timeStamp": "2017/07/21-23:48:05",
+            "id": "dkk4huy",
+            "is_submitter": false,
+            "link_id": "t3_6oppbl",
+            "parent_id": "t1_dkjirj9",
+            "score": -2,
+            "stickied": false,
+            "author_name": "Angelbaka"
+        },
+        "dkk1zuv": {
+            "comment": "No, I'm doing sensitive stuff like handling with cryptocurrencies and I just want to protect myself against those nasty things.",
+            "timeStamp": "2017/07/21-22:22:23",
+            "id": "dkk1zuv",
+            "is_submitter": true,
+            "link_id": "t3_6oppbl",
+            "parent_id": "t1_dkjp5tb",
+            "score": -5,
+            "stickied": false,
+            "author_name": "Qemics"
+        },
+        "dkjv1q5": {
+            "comment": "It's commonly called bootkit. MalwareTech blog have some info:\nhttps://www.malwaretech.com/2015/02/bootkit-disk-forensics-part-1.html\nhttps://www.malwaretech.com/2015/06/hard-disk-firmware-rootkit-surviving.html",
+            "timeStamp": "2017/07/21-19:22:19",
+            "id": "dkjv1q5",
+            "is_submitter": false,
+            "link_id": "t3_6oppbl",
+            "parent_id": "t3_6oppbl",
+            "score": 3,
+            "stickied": false,
+            "author_name": "verriond"
+        },
+        "dkjp5tb": {
+            "comment": "Can? Some types of rootkits target BIOS/various roms/firmware of devices in your computer and not the HD, so it's a theoretical yes. There are \"in the wild\" examples of rootkits infecting a special type of enterprise NICs, hardware controllers, etc.\n\nIs it probable you have been infected by one such? No, they're kinda rare and the people who employ these are typically fishing for something a little bit higher up than Average Joe's porn collection anyway.",
+            "timeStamp": "2017/07/21-17:03:52",
+            "id": "dkjp5tb",
+            "is_submitter": false,
+            "link_id": "t3_6oppbl",
+            "parent_id": "t3_6oppbl",
+            "score": 6,
+            "stickied": false,
+            "author_name": "VikingFjorden"
+        },
+        "dkjixih": {
+            "comment": "Yes. Some root kits can overwrite firmware.\n\nBut in practice you don't really see this outside of research/very high profile attacks",
+            "timeStamp": "2017/07/21-14:51:15",
+            "id": "dkjixih",
+            "is_submitter": false,
+            "link_id": "t3_6oppbl",
+            "parent_id": "t3_6oppbl",
+            "score": 15,
+            "stickied": false,
+            "author_name": "Plasma_000"
+        },
+        "dkjirj9": {
+            "comment": "To be fair, that is going into the APT territory. You're not seeing much in terms of firmware malware in the criminal world (yet).\n\nIf you're being targetted by nation-state level actors with access to stable firmware rootkits. You should probably re-evaluate your life choices.",
+            "timeStamp": "2017/07/21-14:48:03",
+            "id": "dkjirj9",
+            "is_submitter": false,
+            "link_id": "t3_6oppbl",
+            "parent_id": "t1_dkjbefk",
+            "score": 26,
+            "stickied": false,
+            "author_name": "newscode"
+        },
+        "dkjbefk": {
+            "comment": "Yes. A computer has firmware all over the place and that firmware can usually be updated via the OS. ",
+            "timeStamp": "2017/07/21-12:36:26",
+            "id": "dkjbefk",
+            "is_submitter": false,
+            "link_id": "t3_6oppbl",
+            "parent_id": "t3_6oppbl",
+            "score": 3,
+            "stickied": false,
+            "author_name": "phrozen_one"
+        },
+        "dkja27h": {
+            "comment": "Yes. It's possible. There is persistent storage all over PCs, various devices have re-writable firmware and ability to run code at boot. There has also been several driver bugs where external devices could run code.",
+            "timeStamp": "2017/07/21-12:12:28",
+            "id": "dkja27h",
+            "is_submitter": false,
+            "link_id": "t3_6oppbl",
+            "parent_id": "t3_6oppbl",
+            "score": 2,
+            "stickied": false,
+            "author_name": "jessicara"
+        },
+        "dkj9uvi": {
+            "comment": "Depends on the rootkit. Also depending on the rootkit, you probably don't have to format to get rid of it.",
+            "timeStamp": "2017/07/21-12:08:54",
+            "id": "dkj9uvi",
+            "is_submitter": false,
+            "link_id": "t3_6oppbl",
+            "parent_id": "t3_6oppbl",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Majigger123"
+        },
+        "dkj8oof": {
+            "comment": "I suppose it depends on the rootkit. If it's in your chipset, or something similar, ala Lenovo, then yes. \n\nBut if it's something you got after the fact, formating the drive should remove it.",
+            "timeStamp": "2017/07/21-11:48:17",
+            "id": "dkj8oof",
+            "is_submitter": false,
+            "link_id": "t3_6oppbl",
+            "parent_id": "t3_6oppbl",
+            "score": 3,
+            "stickied": false,
+            "author_name": "onewithoutasoul"
+        }
+    }
+}

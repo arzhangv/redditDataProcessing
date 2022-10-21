@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Is this malware and if so how do I remove it because it looks sketchy as hell",
+        "score": 1,
+        "id": "eu94aq",
+        "commsNum": 4,
+        "timeStamp": "2020/01/26-08:48:47",
+        "author_name": "VicoTheBot",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://i.redd.it/xvcnk8a5k5d41.jpg"
+    },
+    "posts": {
+        "ffnalt3": {
+            "comment": "Came here to say this. Just had to install it on a bunch of PCs.",
+            "timeStamp": "2020/01/26-10:35:47",
+            "id": "ffnalt3",
+            "is_submitter": false,
+            "link_id": "t3_eu94aq",
+            "parent_id": "t1_ffn75uq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "bigdude8615"
+        },
+        "ffn75uq": {
+            "comment": "No. it's benign.  Looks to be part of Adobe Creative Cloud.\n\nhttps://forums.adobe.com/thread/2650942\n\nGoogle more and you'll find more info about it.",
+            "timeStamp": "2020/01/26-10:18:07",
+            "id": "ffn75uq",
+            "is_submitter": false,
+            "link_id": "t3_eu94aq",
+            "parent_id": "t3_eu94aq",
+            "score": 4,
+            "stickied": false,
+            "author_name": "starien"
+        },
+        "ffn4v54": {
+            "comment": "It's java on desktop, so yeah.",
+            "timeStamp": "2020/01/26-10:08:24",
+            "id": "ffn4v54",
+            "is_submitter": false,
+            "link_id": "t3_eu94aq",
+            "parent_id": "t3_eu94aq",
+            "score": 2,
+            "stickied": false,
+            "author_name": "NotAFinnishLawyer"
+        },
+        "ffmuw6s": {
+            "comment": "[r/antivirus](http://reddit.com/r/antivirus)",
+            "timeStamp": "2020/01/26-09:20:16",
+            "id": "ffmuw6s",
+            "is_submitter": false,
+            "link_id": "t3_eu94aq",
+            "parent_id": "t3_eu94aq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Yourw0rstfriend"
+        }
+    }
+}

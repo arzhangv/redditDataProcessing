@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "New Strain of Man-in-the-Browser Malware Refines Data Sent to Attacker in Real Time ",
+        "score": 3,
+        "id": "10vi9g",
+        "commsNum": 0,
+        "timeStamp": "2012/10/03-07:08:15",
+        "author_name": "TheloniusPhunk",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://threatpost.com/en_us/blogs/new-strain-man-browser-malware-refines-data-sent-attacker-real-time-100312"
+    },
+    "posts": {}
+}

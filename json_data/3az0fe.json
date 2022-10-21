@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hello,\n\nThe other day I had an idea. Knowing that Node.JS apps can be packed and compiled into native Windows (and Unix) applications,\nI wondered if it was possible to create a payload with a (currently) undetectable stealer using Node.JS.\n\nAs a proof of concept, I built a Basic Stealer (Stealing Files/Cookies/History/Passwords) and it is surprisingly undetected by AV's (at least for now).\n\nPoC :\nhttps://github.com/glinford/node.virus\n\nThe Demo.exe generated is fully undetectable.\nhttps://www.virustotal.com/fr/file/8f584563cb9ea91cc822c784b95cf7447ae641447b0796030134f59ccd862231/analysis/1435099887/\nhttps://www.metascan-online.com/en/scanresult/file/4115a8a3d8a947afb03fce336b97c208\n\nDemo.exe File can also be started through a launcher (lighter and the file is Downloaded and silently executed)\nhttps://github.com/glinford/node.virus/blob/master/Launcher.code\n\nhttps://www.virustotal.com/fr/file/5ff8cae0b301a10b0b70b6985ee693a5170d4e91b603ff4c13fe2be7975d3e4e/analysis/1435103100/\nhttps://www.metascan-online.com/en/scanresult/file/d0f9ccf518274b8bba8d0037074b57a5\n\nI'm not entirely exprienced in this domain, and it was more of a learning excercise for myself.\n\nI have a few questions :\nWhy don't AV's detect this as a virus ?\nHas this been done before?\nHow much could we extend this process ? Can we build a R.A.T in Node.JS ?\n\nINFO:\nTested on Windows 7 SP1 - x64",
+        "title": "(PoC) Evade malware detection though use of Node.JS interpreter",
+        "score": 8,
+        "id": "3az0fe",
+        "commsNum": 15,
+        "timeStamp": "2015/06/24-10:13:21",
+        "author_name": "glinford",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 15,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/3az0fe/poc_evade_malware_detection_though_use_of_nodejs/"
+    },
+    "posts": {}
+}

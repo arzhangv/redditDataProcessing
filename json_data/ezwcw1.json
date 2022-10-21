@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "New ransomware doesn\u2019t just encrypt data. It also meddles with critical infrastructure",
+        "score": 1,
+        "id": "ezwcw1",
+        "commsNum": 0,
+        "timeStamp": "2020/02/06-10:15:40",
+        "author_name": "LMJR500Army",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://arstechnica.com/information-technology/2020/02/new-ransomware-intentionally-meddles-with-critical-infrastructure/"
+    },
+    "posts": {}
+}

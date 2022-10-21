@@ -1,0 +1,99 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hi,\n\nIs there any database of hashes for whitelisted Linux/GNU ELF binaries that are found on different distributions of Linux?\n\nI am writing a tool that sends hash of unknown files to VT in Linux systems, so i wanted to avoid sending hashes that are known to be benign. \n\nWhat are the available whitelist hash databases for Linux based binaries?",
+        "title": "Available hash based whitelist for Linux/GNU ELF binaries",
+        "score": 1,
+        "id": "whtapy",
+        "commsNum": 0,
+        "timeStamp": "2022/08/06-10:15:03",
+        "author_name": "Ro0o0otkit",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/whtapy/available_hash_based_whitelist_for_linuxgnu_elf/"
+    },
+    "posts": {
+        "ijbya11": {
+            "comment": "Its not that complicated tho, someone just needs have the time to spend some days/weeks installing different distributions of Linux and different versions of them, then collect the hashes of default executables in the file system. \n\nBut it seems like the NSR dataset does include most of them.",
+            "timeStamp": "2022/08/07-10:06:03",
+            "id": "ijbya11",
+            "is_submitter": true,
+            "link_id": "t3_whtapy",
+            "parent_id": "t1_ij7o8lj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Ro0o0otkit"
+        },
+        "ijbdp8v": {
+            "comment": "Here is an example on Debian11.\n\n    $ md5sum /usr/bin/grep\nc44efb64724aad78ba9aa1c70f804e8b  /usr/bin/grep\n\n    $ grep -Fi \"c44efb64724aad78ba9aa1c70f804e8b\" NSRLFile.txt\n\"A5C1C4E67D48F83224C29F0539E6DA2830099F0B\",\"C44EFB64724AAD78BA9AA1C70F804E8B\",\"E940A15E\",\"grep\",203072,263763,\"362\",\"\"",
+            "timeStamp": "2022/08/07-07:42:57",
+            "id": "ijbdp8v",
+            "is_submitter": false,
+            "link_id": "t3_whtapy",
+            "parent_id": "t1_ij9w4tm",
+            "score": 1,
+            "stickied": false,
+            "author_name": "PingTrip"
+        },
+        "ijap8hv": {
+            "comment": "[removed]",
+            "timeStamp": "2022/08/07-03:52:05",
+            "id": "ijap8hv",
+            "is_submitter": false,
+            "link_id": "t3_whtapy",
+            "parent_id": "t3_whtapy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ij9w4tm": {
+            "comment": "I couldn't find any mention of Linux there, they don't clarify whether these hashes are only Windows based or have ELF binaries in them or not. Tried some of the hashes in VT and they all were Windows Executables.\n\nAnyone knows whether this dataset includes ELF binaries or not? And if so, how they collected the ELF binaries, and based on what?",
+            "timeStamp": "2022/08/06-21:41:28",
+            "id": "ij9w4tm",
+            "is_submitter": true,
+            "link_id": "t3_whtapy",
+            "parent_id": "t1_ij8uovf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Ro0o0otkit"
+        },
+        "ij8uovf": {
+            "comment": "Take a look at the NIST [https://www.nist.gov/itl/ssd/software-quality-group/national-software-reference-library-nsrl](National Software Reference Library).",
+            "timeStamp": "2022/08/06-16:23:07",
+            "id": "ij8uovf",
+            "is_submitter": false,
+            "link_id": "t3_whtapy",
+            "parent_id": "t3_whtapy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "PingTrip"
+        },
+        "ij85ifj": {
+            "comment": "Not to mention that there are numerous CPU architectures as well.",
+            "timeStamp": "2022/08/06-13:11:08",
+            "id": "ij85ifj",
+            "is_submitter": false,
+            "link_id": "t3_whtapy",
+            "parent_id": "t1_ij7o8lj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "koei19"
+        },
+        "ij7o8lj": {
+            "comment": "This is going to be difficult, as each kernel is going to build different binaries... And there are a lot of kernels/versions of Linux... Maybe pick a well-known distro and see if they have a list of hashes from the package manager",
+            "timeStamp": "2022/08/06-11:06:14",
+            "id": "ij7o8lj",
+            "is_submitter": false,
+            "link_id": "t3_whtapy",
+            "parent_id": "t3_whtapy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "reddit-gk49cnajfe"
+        }
+    }
+}

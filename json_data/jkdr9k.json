@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "A system I'm experimenting with relies on a hypothesis that \\*there are limited ways to encode a payload while avoiding suspicion of the best IDS.\\*\n\nEncoding is the best way to get a payload into a network without detection, but the data format is subject to scrutiny.\n\nLet's say an IDS analyzes patterns of life and flags any data formats it doesn't recognize for investigation, or at least performs closer analysis to flag any abnormal activity emitted from a machine after an unusual data format has been downloaded by the machine. If you're an attacker, this means you'll want to encode data in a format that would commonly be downloaded to avoid potential scrutiny by the target. PDF, HTML, JS, CSS, JPEG, GIF, PNG, MP4, and so on. The list can get pretty long, there are plenty of less common formats that wouldn't qualify as unusual, but I would daresay the list of data formats that would arouse no suspicion contains less than 1000 formats.\n\nWould anyone disagree? This is a fairly small topic of discussion, but I need to make sure I'm on the right track with the hypothesis.",
+        "title": "Spectrum of encoding discussion",
+        "score": 1,
+        "id": "jkdr9k",
+        "commsNum": 0,
+        "timeStamp": "2020/10/29-09:53:55",
+        "author_name": "o_ohi",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/jkdr9k/spectrum_of_encoding_discussion/"
+    },
+    "posts": {}
+}

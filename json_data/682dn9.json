@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "DOK malware, a stealthy MAC OS spyware that inspects your HTTPS Traffic",
+        "score": 1,
+        "id": "682dn9",
+        "commsNum": 0,
+        "timeStamp": "2017/04/28-05:40:57",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/58495/malware/dok-malware-macos.html"
+    },
+    "posts": {}
+}

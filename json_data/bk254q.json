@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I decided to make an updated tutorial on setting up an internal network between a Windows 7 victim and a REMnux controller using VirtualBox and INetSim. I decided to throw in the required setup for Win 7 32 bit kernel mode rootkit analysis because I'll be starting a series on rootkit analysis and memory forensics. Hopefully this will be helpful to some of you.\n\n[Link to Post](https://augustomalnalysis.home.blog/2019/05/03/32-bit-windows-kernel-mode-rootkit-lab-setup-with-inetsim/). Switched from Medium to Wordpress so that all could read, but this article is also on Medium.",
+        "title": "Malware Lab Setup Tutorial with INetSim and Kernel Debugging Prep",
+        "score": 32,
+        "id": "bk254q",
+        "commsNum": 1,
+        "timeStamp": "2019/05/02-17:17:30",
+        "author_name": "R2Bgn",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/bk254q/malware_lab_setup_tutorial_with_inetsim_and/"
+    },
+    "posts": {
+        "emflmwg": {
+            "comment": "Suggestions for improvement would be greatly appreciated.",
+            "timeStamp": "2019/05/03-12:23:43",
+            "id": "emflmwg",
+            "is_submitter": true,
+            "link_id": "t3_bk254q",
+            "parent_id": "t3_bk254q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "R2Bgn"
+        }
+    }
+}

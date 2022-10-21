@@ -1,0 +1,187 @@
+{
+    "op": {
+        "upvote_ratio": 0.94,
+        "selftext": "",
+        "title": "Know Evil",
+        "score": 29,
+        "id": "hhh0in",
+        "commsNum": 15,
+        "timeStamp": "2020/06/28-09:09:08",
+        "author_name": "infosecleader",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 15,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://i.redd.it/q8waf36gdo751.jpg"
+    },
+    "posts": {
+        "fy8cfhp": {
+            "comment": "Hey if you guys know anything about malware or what happened to me is love to find out. I've been obsessing online but I'm not very ugh...I don't unbranded this shit n I don't know where to start. I have screen shots of what I think was really malware disguised as google which i probably drunkenly accepted first time around. Also htf someone send my dad a text from my number??? N then proceed to access my Google. Any way throwing it out there. Thanks",
+            "timeStamp": "2020/07/16-00:27:43",
+            "id": "fy8cfhp",
+            "is_submitter": false,
+            "link_id": "t3_hhh0in",
+            "parent_id": "t3_hhh0in",
+            "score": 1,
+            "stickied": false,
+            "author_name": "burnitanyway"
+        },
+        "fy80zcs": {
+            "comment": "Omg! I wish I was half this smart reading this poster. I was gonna say I feel like it's in Swedish or something because I don't understand a single word! You explained it more then I could hope lol. I'm only here cuz I have some def malware in my texts n someone has previously hacked my phone. This isn't something I'll ever understand tho so I'm gonna let it go lol",
+            "timeStamp": "2020/07/15-21:44:53",
+            "id": "fy80zcs",
+            "is_submitter": false,
+            "link_id": "t3_hhh0in",
+            "parent_id": "t1_fwc6y8d",
+            "score": 2,
+            "stickied": false,
+            "author_name": "burnitanyway"
+        },
+        "fwh1nra": {
+            "comment": "Thank you \ud83d\ude18",
+            "timeStamp": "2020/06/30-06:31:40",
+            "id": "fwh1nra",
+            "is_submitter": false,
+            "link_id": "t3_hhh0in",
+            "parent_id": "t1_fwc6y8d",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Careless_Helicopter"
+        },
+        "fweop43": {
+            "comment": "I would just throw your machine out the window or follow this guide https://www.reddit.com/r/techsupport/comments/33evdi/suggested_reading_official_malware_removal_guide/",
+            "timeStamp": "2020/06/29-14:06:40",
+            "id": "fweop43",
+            "is_submitter": false,
+            "link_id": "t3_hhh0in",
+            "parent_id": "t1_fwcths5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Xrotica"
+        },
+        "fwcvs8m": {
+            "comment": "thanks this really helpful",
+            "timeStamp": "2020/06/29-04:25:20",
+            "id": "fwcvs8m",
+            "is_submitter": false,
+            "link_id": "t3_hhh0in",
+            "parent_id": "t3_hhh0in",
+            "score": 1,
+            "stickied": false,
+            "author_name": "_-ammar-_"
+        },
+        "fwcths5": {
+            "comment": "What if we find one?",
+            "timeStamp": "2020/06/29-03:49:14",
+            "id": "fwcths5",
+            "is_submitter": false,
+            "link_id": "t3_hhh0in",
+            "parent_id": "t3_hhh0in",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Rohith001"
+        },
+        "fwcdxyq": {
+            "comment": "Yea, a process name doesn't mean anything anymore and if we're trying to filter out the \"normal\" then it would be better to, e.g., show a list of processes where the signing certificate is NOT microsoft's, rather than trying to memorize the 40-50 names of active processes in a baseline Windows install.",
+            "timeStamp": "2020/06/28-23:30:32",
+            "id": "fwcdxyq",
+            "is_submitter": false,
+            "link_id": "t3_hhh0in",
+            "parent_id": "t1_fwc6l0n",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Fristle"
+        },
+        "fwc6y8d": {
+            "comment": "This is a general list of executables that the Windows system uses to function. Most people know that Windows has a task viewer that can be used to quickly analyze which programs are running, but that information is useless if you don't understand Windows' normal functions well enough to identify what should be on that list  vs what doesn't belong (ie because it's potentially malware). Familiarizing yourself with the normal function of the operating system is the first step in learning to secure your system.",
+            "timeStamp": "2020/06/28-21:53:57",
+            "id": "fwc6y8d",
+            "is_submitter": false,
+            "link_id": "t3_hhh0in",
+            "parent_id": "t1_fwc0i68",
+            "score": 1,
+            "stickied": false,
+            "author_name": "zoonose99"
+        },
+        "fwc6xh1": {
+            "comment": "This is a general list of executables that the Windows system uses to function. Most people know that Windows has a task viewer that can be used to quickly analyze which programs are running, but that information is useless if you don't understand Windows' normal functions well enough to identify what should be on that list  vs what doesn't belong (ie because it's potentially malware). Familiarizing yourself with the normal function of the operating system is the first step in learning to secure your system.",
+            "timeStamp": "2020/06/28-21:53:41",
+            "id": "fwc6xh1",
+            "is_submitter": false,
+            "link_id": "t3_hhh0in",
+            "parent_id": "t3_hhh0in",
+            "score": 1,
+            "stickied": false,
+            "author_name": "zoonose99"
+        },
+        "fwc6l0n": {
+            "comment": "Came here to say this. Isn't this infographic being a little obtuse about the common practice of hiding malware in common system files/tasks? \"Is this exe a malware?\" hasn't been a good way of identifying malware in my experience.",
+            "timeStamp": "2020/06/28-21:49:23",
+            "id": "fwc6l0n",
+            "is_submitter": false,
+            "link_id": "t3_hhh0in",
+            "parent_id": "t1_fwa5olc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "zoonose99"
+        },
+        "fwc0i68": {
+            "comment": "Can someone explain this post for me?",
+            "timeStamp": "2020/06/28-20:36:51",
+            "id": "fwc0i68",
+            "is_submitter": false,
+            "link_id": "t3_hhh0in",
+            "parent_id": "t3_hhh0in",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Careless_Helicopter"
+        },
+        "fwaw7nh": {
+            "comment": "which is why you also look at the parent and executable path",
+            "timeStamp": "2020/06/28-14:04:18",
+            "id": "fwaw7nh",
+            "is_submitter": false,
+            "link_id": "t3_hhh0in",
+            "parent_id": "t1_fwa5olc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Kamwind"
+        },
+        "fwalcee": {
+            "comment": "True",
+            "timeStamp": "2020/06/28-12:30:17",
+            "id": "fwalcee",
+            "is_submitter": false,
+            "link_id": "t3_hhh0in",
+            "parent_id": "t1_fwa5olc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Th3_N0mad"
+        },
+        "fwal9z5": {
+            "comment": "\ud83e\udd23\ud83e\udd23\ud83e\udd23",
+            "timeStamp": "2020/06/28-12:29:41",
+            "id": "fwal9z5",
+            "is_submitter": false,
+            "link_id": "t3_hhh0in",
+            "parent_id": "t1_fwa5olc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Th3_N0mad"
+        },
+        "fwa5olc": {
+            "comment": "If I was malware I would just be svchost.exe since nobody knows how many of those are normal.",
+            "timeStamp": "2020/06/28-10:13:36",
+            "id": "fwa5olc",
+            "is_submitter": false,
+            "link_id": "t3_hhh0in",
+            "parent_id": "t3_hhh0in",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Fristle"
+        }
+    }
+}

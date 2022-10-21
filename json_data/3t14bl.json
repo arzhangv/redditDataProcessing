@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "AbaddonPOS: A new point of sale threat linked to Vawtrak",
+        "score": 5,
+        "id": "3t14bl",
+        "commsNum": 0,
+        "timeStamp": "2015/11/16-07:42:12",
+        "author_name": "sly117",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.proofpoint.com/us/threat-insight/post/AbaddonPOS-A-New-Point-Of-Sale-Threat-Linked-To-Vawtrak"
+    },
+    "posts": {}
+}

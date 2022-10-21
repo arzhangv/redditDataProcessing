@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi Guys,\n\nI'm on my way to setting up maybe my 4th or 5th malware testing lab and one thing got to me.\nI wanted to run the environment like this:\n\nWin10 host with VirtualBox -&gt; Ubuntu VM with VirtualBox -&gt; Windows 7/8.\n\nWe all know that malware can escape the sandbox environment, but how is it if you are running duelboot? If you encrypt your Win10 hd with bitlocker and then make a second partition for your Ubuntu machine, I guess it wont be able to decrypt the content because it is missing the bitlocker-key right?\n\nSo if I were to execute a ransomware malware it wouldn't effect the encrypted partition or am I wrong?\n",
+        "title": "Is this a possible way",
+        "score": 2,
+        "id": "49xktu",
+        "commsNum": 11,
+        "timeStamp": "2016/03/10-22:40:46",
+        "author_name": "Comod00",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 11,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/49xktu/is_this_a_possible_way/"
+    },
+    "posts": {}
+}

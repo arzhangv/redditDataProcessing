@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Volatility Plug-in for Windows Firewall Hook Driver enumeration",
+        "score": 7,
+        "id": "2rmubq",
+        "commsNum": 0,
+        "timeStamp": "2015/01/07-07:19:45",
+        "author_name": "digicat",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://github.com/nccgroup/WindowsFirewallHookDriverEnumeration/"
+    },
+    "posts": {}
+}

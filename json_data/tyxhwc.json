@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hey everyone,\n\nCurrently dealing with a malware problem of a program called \"UnderstandingStudio\" under a file name of \"CityNeonA\" any tips would be highly appreciated.",
+        "title": "Current Malware Problem",
+        "score": 1,
+        "id": "tyxhwc",
+        "commsNum": 0,
+        "timeStamp": "2022/04/07-23:49:14",
+        "author_name": "MomentaryDickhead",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/tyxhwc/current_malware_problem/"
+    },
+    "posts": {
+        "i3wznp6": {
+            "comment": "R/techsupport",
+            "timeStamp": "2022/04/08-09:03:16",
+            "id": "i3wznp6",
+            "is_submitter": false,
+            "link_id": "t3_tyxhwc",
+            "parent_id": "t3_tyxhwc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Wouldratherplaymtg"
+        },
+        "i3vnqi2": {
+            "comment": "This isnt a support sub-reddit",
+            "timeStamp": "2022/04/08-02:30:53",
+            "id": "i3vnqi2",
+            "is_submitter": false,
+            "link_id": "t3_tyxhwc",
+            "parent_id": "t3_tyxhwc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Rakanisheu"
+        },
+        "i3vd8mk": {
+            "comment": "Do you have a hash to share from the sample(s)?",
+            "timeStamp": "2022/04/08-00:13:12",
+            "id": "i3vd8mk",
+            "is_submitter": false,
+            "link_id": "t3_tyxhwc",
+            "parent_id": "t3_tyxhwc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "w1ngy"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I have a Word document from a phishing e-mail with a couple of embedded macros that are obfuscated in a way I've not seen before (not that I see a lot of this anyways, just a sysadmin here). \n\nI've tried using olevba to reveal and C2 IPs or other IOCs, but it doesn't come up with anything, perhaps because this seems to span multiple macros. Running the macros on my sandbox machine and looking through the kill chain produced by our threat analysis system doesn't show any network connections, child process launches, or any out-of-the-ordinary file writes/modifications from Word. I'm at a loss for what this thing does, exactly.\n\nHere's the original doc along with the extracted macros:\nhttp://www.megafileupload.com/6zev/word_macro.zip\n\nAnyone have a clue how to go about deciphering this programmatically?",
+        "title": "Deobfuscate a VB Macro in Word Doc",
+        "score": 14,
+        "id": "4fzaom",
+        "commsNum": 7,
+        "timeStamp": "2016/04/22-09:44:29",
+        "author_name": "D8ulus",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/4fzaom/deobfuscate_a_vb_macro_in_word_doc/"
+    },
+    "posts": {}
+}

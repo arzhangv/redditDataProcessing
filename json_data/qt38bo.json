@@ -1,0 +1,231 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I have nearly completed practical malware analysis book and lab but how do I practice it?",
+        "title": "How to practice malware analysis",
+        "score": 1,
+        "id": "qt38bo",
+        "commsNum": 18,
+        "timeStamp": "2021/11/13-07:12:56",
+        "author_name": "sj0798",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 18,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/qt38bo/how_to_practice_malware_analysis/"
+    },
+    "posts": {
+        "idcsi21": {
+            "comment": "holy shit. Thank you for this",
+            "timeStamp": "2022/06/22-14:40:41",
+            "id": "idcsi21",
+            "is_submitter": false,
+            "link_id": "t3_qt38bo",
+            "parent_id": "t1_hkhi9fb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Kingizzardthelizard"
+        },
+        "hmeevh5": {
+            "comment": "[removed]",
+            "timeStamp": "2021/11/28-05:52:19",
+            "id": "hmeevh5",
+            "is_submitter": false,
+            "link_id": "t3_qt38bo",
+            "parent_id": "t3_qt38bo",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hkoqxb9": {
+            "comment": "Yup",
+            "timeStamp": "2021/11/14-21:30:51",
+            "id": "hkoqxb9",
+            "is_submitter": false,
+            "link_id": "t3_qt38bo",
+            "parent_id": "t1_hkopxc8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "i_whiteheart"
+        },
+        "hkopxc8": {
+            "comment": "Can I dm you?",
+            "timeStamp": "2021/11/14-21:20:40",
+            "id": "hkopxc8",
+            "is_submitter": true,
+            "link_id": "t3_qt38bo",
+            "parent_id": "t1_hkl20w4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sj0798"
+        },
+        "hkl20w4": {
+            "comment": "Well, the main idea behind malware analysis is to understand what malware is trying to achieve. Finding IOC, Keys, and other info. I mentioned BOF with respect to RE. There are many areas to focus on, get your basics done completely.",
+            "timeStamp": "2021/11/14-05:18:56",
+            "id": "hkl20w4",
+            "is_submitter": false,
+            "link_id": "t3_qt38bo",
+            "parent_id": "t1_hkkyxtr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "i_whiteheart"
+        },
+        "hkkyxtr": {
+            "comment": "Indeed, tbh I still struggle with the basics. Do I just fiddle around with buffer overflows randomly to get better?",
+            "timeStamp": "2021/11/14-04:49:58",
+            "id": "hkkyxtr",
+            "is_submitter": true,
+            "link_id": "t3_qt38bo",
+            "parent_id": "t1_hkkjkyx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sj0798"
+        },
+        "hkkjkyx": {
+            "comment": "To unberstand malware you need to understand that how code looks like in the assembly format. What all instructions means and most importantly you need to know functioncalls and stack implementation,to do this you need to start from simple programs like simple BOF and then analyse it",
+            "timeStamp": "2021/11/14-01:47:27",
+            "id": "hkkjkyx",
+            "is_submitter": false,
+            "link_id": "t3_qt38bo",
+            "parent_id": "t1_hkkj3o8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "i_whiteheart"
+        },
+        "hkkj56z": {
+            "comment": "I'm already using flare vm. Thanks for the suggestion.",
+            "timeStamp": "2021/11/14-01:41:37",
+            "id": "hkkj56z",
+            "is_submitter": true,
+            "link_id": "t3_qt38bo",
+            "parent_id": "t1_hkhv3t5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sj0798"
+        },
+        "hkkj3o8": {
+            "comment": "Sounds good, and you mean malware codes right?",
+            "timeStamp": "2021/11/14-01:41:03",
+            "id": "hkkj3o8",
+            "is_submitter": true,
+            "link_id": "t3_qt38bo",
+            "parent_id": "t1_hkkac7o",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sj0798"
+        },
+        "hkkac7o": {
+            "comment": "Learn reverses engineering, write code and analyze it , if you wanna join me , I am ready to study together",
+            "timeStamp": "2021/11/13-23:52:22",
+            "id": "hkkac7o",
+            "is_submitter": false,
+            "link_id": "t3_qt38bo",
+            "parent_id": "t3_qt38bo",
+            "score": 2,
+            "stickied": false,
+            "author_name": "i_whiteheart"
+        },
+        "hkiqcsc": {
+            "comment": "[removed]",
+            "timeStamp": "2021/11/13-15:56:20",
+            "id": "hkiqcsc",
+            "is_submitter": false,
+            "link_id": "t3_qt38bo",
+            "parent_id": "t3_qt38bo",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hkig6gi": {
+            "comment": "read the code",
+            "timeStamp": "2021/11/13-14:44:19",
+            "id": "hkig6gi",
+            "is_submitter": false,
+            "link_id": "t3_qt38bo",
+            "parent_id": "t3_qt38bo",
+            "score": 0,
+            "stickied": false,
+            "author_name": "scryblackwren"
+        },
+        "hkhwlka": {
+            "comment": "[removed]",
+            "timeStamp": "2021/11/13-12:24:35",
+            "id": "hkhwlka",
+            "is_submitter": false,
+            "link_id": "t3_qt38bo",
+            "parent_id": "t3_qt38bo",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hkhv53d": {
+            "comment": "Opening the pcaps is not dangerous, but your AV might still trip on some of the pcap files, depending on how the malicious payloads are transmitted. \n\nDon't open the zip on computers where av hits means administrative woes, like corporate or school workstations.",
+            "timeStamp": "2021/11/13-12:14:32",
+            "id": "hkhv53d",
+            "is_submitter": false,
+            "link_id": "t3_qt38bo",
+            "parent_id": "t1_hkhi9fb",
+            "score": 2,
+            "stickied": false,
+            "author_name": "ogtfo"
+        },
+        "hkhv3t5": {
+            "comment": "Kind of ironic to link to a Solarwinds(n-able) blog post when it comes to malware analysis. The depth of that blog post does speak to their capabilities lol. Good stuff otherwise. I'd recommend flare VM or Remnux related resources for starting off static analysis",
+            "timeStamp": "2021/11/13-12:14:17",
+            "id": "hkhv3t5",
+            "is_submitter": false,
+            "link_id": "t3_qt38bo",
+            "parent_id": "t1_hkhi9fb",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Doctorexx"
+        },
+        "hkhi9fb": {
+            "comment": "Dynamic analysis engines are a good way to practice malware analysis, looking at how the behave. There are tons of examples on these sites, or upload your own if you\u2019d like:\n\nhttps://app.any.run\n\nhttps://www.hybrid-analysis.com\n\nhttps://virustotal.com\n\nFor static analysis, here is an overview of techniques:\n\nhttps://www.n-able.com/blog/malware-analysis-steps\n\nFor malware *traffic* analysis and to get your hands on some real-world pcap (as well as the actual malware samples that caused the malicious traffic shown the pcaps) check out https://www.malware-traffic-analysis.net\n\n[Malware traffic analysis exercises](https://www.malware-traffic-analysis.net)\n\n[Malware traffic analysis tutorials](https://www.malware-traffic-analysis.net/tutorials/index.html)\n\nThe password for all of the .ZIP files on that site is \u201cinfected\u201d. Just be careful with the actual malware samples, they\u2019re dangerous! Opening the PCAP in WireShark isn\u2019t dangerous, but for the actual malware you always want to work in a VM / sandbox if you\u2019re doing anything other than looking at the code in a text editor. I recommend saving malware files as plain .txt documents when possible. Using console.log (in a VM/Sandbox, of course) is another way to see what behaviors a piece of malware code is capable of; malware is often intentionally obfuscated making static analysis difficult.\n\nLet me know if you have any other questions.",
+            "timeStamp": "2021/11/13-10:42:36",
+            "id": "hkhi9fb",
+            "is_submitter": false,
+            "link_id": "t3_qt38bo",
+            "parent_id": "t3_qt38bo",
+            "score": 5,
+            "stickied": false,
+            "author_name": "vendetta2115"
+        },
+        "hkhh1he": {
+            "comment": "I would also add to take known Malware and try to find all the IoCs and compare the results with other write-ups",
+            "timeStamp": "2021/11/13-10:33:52",
+            "id": "hkhh1he",
+            "is_submitter": false,
+            "link_id": "t3_qt38bo",
+            "parent_id": "t1_hkh5fle",
+            "score": 4,
+            "stickied": false,
+            "author_name": "SubjectToProof"
+        },
+        "hkh5fle": {
+            "comment": "Grab samples from places like VX underground or malware traffic analysis. Do write ups.",
+            "timeStamp": "2021/11/13-09:11:46",
+            "id": "hkh5fle",
+            "is_submitter": false,
+            "link_id": "t3_qt38bo",
+            "parent_id": "t3_qt38bo",
+            "score": 11,
+            "stickied": false,
+            "author_name": "canofspam2020"
+        },
+        "hkgutud": {
+            "comment": "[removed]",
+            "timeStamp": "2021/11/13-07:55:06",
+            "id": "hkgutud",
+            "is_submitter": false,
+            "link_id": "t3_qt38bo",
+            "parent_id": "t3_qt38bo",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

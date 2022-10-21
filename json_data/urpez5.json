@@ -1,0 +1,154 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "[removed]",
+        "title": "Cloud-based malware labs?",
+        "score": 1,
+        "id": "urpez5",
+        "commsNum": 1,
+        "timeStamp": "2022/05/17-08:48:52",
+        "author_name": "Moose_Overlord",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/urpez5/cloudbased_malware_labs/"
+    },
+    "posts": {
+        "i9hm9vs": {
+            "comment": "[removed]",
+            "timeStamp": "2022/05/21-13:34:57",
+            "id": "i9hm9vs",
+            "is_submitter": false,
+            "link_id": "t3_urpez5",
+            "parent_id": "t3_urpez5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "i96brj1": {
+            "comment": "Hatching Triage is nice for dynamic analysis. Its like cuckoo on steroids in the Cloud. You could combine that with the serverless deployment of Malzoo for sample management, labeling and ststic analysis clustering.",
+            "timeStamp": "2022/05/19-00:10:09",
+            "id": "i96brj1",
+            "is_submitter": false,
+            "link_id": "t3_urpez5",
+            "parent_id": "t3_urpez5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "stat1xs"
+        },
+        "i93m7lp": {
+            "comment": "This is awesome.  Thanks so much for sharing it.",
+            "timeStamp": "2022/05/18-10:51:01",
+            "id": "i93m7lp",
+            "is_submitter": true,
+            "link_id": "t3_urpez5",
+            "parent_id": "t1_i93hp4n",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Moose_Overlord"
+        },
+        "i93hp4n": {
+            "comment": "See https://github.com/deargle/kali-on-gcp, which is a mess, but note that you'll probably have to tweak its packages to work with the latest Kali, since Kali is based on Debian Testing, which GCP doesn't necessarily support. Specifically, you might have to downgrade the openssl libraries in order to get ssh-in-the-browser to work. \n\nI use that with labs I made for a class I teach, see https://security-assignments.com/about.html There, I sell access to a pre-built kali pentest lab image that university students use. You're welcome to build it from scratch though.\n\nYou could alternatively just much more easily add nested virtualization to a regular, non-kali, GCP-supported debian instance: https://cloud.google.com/compute/docs/instances/nested-virtualization/enabling",
+            "timeStamp": "2022/05/18-10:20:46",
+            "id": "i93hp4n",
+            "is_submitter": false,
+            "link_id": "t3_urpez5",
+            "parent_id": "t1_i924po3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "deargle"
+        },
+        "i924po3": {
+            "comment": "Thanks, this is what I\u2019m like looking for.",
+            "timeStamp": "2022/05/18-03:56:16",
+            "id": "i924po3",
+            "is_submitter": true,
+            "link_id": "t3_urpez5",
+            "parent_id": "t1_i913mip",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Moose_Overlord"
+        },
+        "i913mip": {
+            "comment": "I might be misunderstanding what you're looking for, but if I recall correctly, GCP largely lets you run whatever you want on your instances, as long as you're not attacking other user's instances, or the hosting platform itself. Emphasis there on *other* instances -- you can attack your own.\n\nFor pentest stuff, including malware analysis, I've set up kali on gcp with nested virtualization enabled (libvirt). Then I connect to kali via Chrome remote desktop. I have a windows nested guest vm on there, too. It's kind of laggy, but good for my purposes. If that's the kind of thing you're looking for, lmk and I'll share some more stuff.",
+            "timeStamp": "2022/05/17-20:06:10",
+            "id": "i913mip",
+            "is_submitter": false,
+            "link_id": "t3_urpez5",
+            "parent_id": "t3_urpez5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "deargle"
+        },
+        "i907l20": {
+            "comment": "Yea, I said that. It was originally created as its own company by Jan Miller and called Payload Security, then sold to Crowdstrike. I alpha and beta tested this platform. I know it pretty well. I bought it in the early stages of the transition to Crowdstrike - after Crowdstrike bought it.",
+            "timeStamp": "2022/05/17-15:50:49",
+            "id": "i907l20",
+            "is_submitter": false,
+            "link_id": "t3_urpez5",
+            "parent_id": "t1_i902lgn",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Nugsly"
+        },
+        "i902lgn": {
+            "comment": "CrowdStrike owns hybrid analysis",
+            "timeStamp": "2022/05/17-15:12:38",
+            "id": "i902lgn",
+            "is_submitter": false,
+            "link_id": "t3_urpez5",
+            "parent_id": "t1_i8z5fct",
+            "score": 1,
+            "stickied": false,
+            "author_name": "live2shitforced2wipe"
+        },
+        "i8z5fct": {
+            "comment": "Hybrid-Analysis has offerings that I've used in the past. I did not use their cloud service though, I opted to go with a standalone. The product, as far as I can tell, is still largely the same as when I was using it. I used it very early on in the transition to Crowdstrike and can only imagine that it has gotten better since then.",
+            "timeStamp": "2022/05/17-11:21:19",
+            "id": "i8z5fct",
+            "is_submitter": false,
+            "link_id": "t3_urpez5",
+            "parent_id": "t3_urpez5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Nugsly"
+        },
+        "i8yxb8c": {
+            "comment": "[removed]",
+            "timeStamp": "2022/05/17-10:26:48",
+            "id": "i8yxb8c",
+            "is_submitter": false,
+            "link_id": "t3_urpez5",
+            "parent_id": "t3_urpez5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "i8yo38u": {
+            "comment": "Any.run",
+            "timeStamp": "2022/05/17-09:25:08",
+            "id": "i8yo38u",
+            "is_submitter": false,
+            "link_id": "t3_urpez5",
+            "parent_id": "t3_urpez5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MTK911"
+        },
+        "i8yitll": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators **and be sure to include the link to the post** - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2022/05/17-08:48:53",
+            "id": "i8yitll",
+            "is_submitter": false,
+            "link_id": "t3_urpez5",
+            "parent_id": "t3_urpez5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

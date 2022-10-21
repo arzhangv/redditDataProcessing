@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Probably should have asked this here originally, so here goes.\n\nI am interested in learning assembly primarily for malware review in IDA, but also to better understand (and possibly write) shellcode for testing purposes. Can anyone recommend a book or guide for learning assembly that is up to date, preferably hands-on and covers both linux and windows? I've been looking at a few books now and haven't really been satisfied with anything I've see thus far.\n\nI've looked at Kip Irvine's book - it seems horribly outdated and covers windows only, using his own libs. It doesn't seem to touch the windows api - in fact, none of the books seem to include information on how to write assembly using the native windows api. None of the books I browsed through really even covered how to assemble and link a simple hello world, which I found odd.\n\nFor the people who do know assembly here for both windows and linux, how did you learn? Is switching from nasm to masm horribly difficult?\nI asked a similar question om stackoverflow in the past and felt like I was being scolded - people kept saying unless I was working on embedded devices assembly wasn't that important in modern machines, and wanted to know why I was having optimization problems in the first place. I explained my reasons for wanting to learn assembly and the result was a moderator closed the thread as being offtopic.\n\nAny advice anyone could give would be great. I am proficient in java and c so I'm not a complete beginner.",
+        "title": "Assembly for shellcode and malware analysis (x-post from /r/asknetsec",
+        "score": 7,
+        "id": "28kqp3",
+        "commsNum": 4,
+        "timeStamp": "2014/06/19-12:06:09",
+        "author_name": "tohitsugu",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/28kqp3/assembly_for_shellcode_and_malware_analysis_xpost/"
+    },
+    "posts": {}
+}

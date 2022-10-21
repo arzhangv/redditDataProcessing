@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "German tech giant Software AG down after ransomware attack",
+        "score": 1,
+        "id": "j848w4",
+        "commsNum": 4,
+        "timeStamp": "2020/10/09-11:17:50",
+        "author_name": "NoStepOnDingus",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.zdnet.com/article/german-tech-giant-software-ag-down-after-ransomware-attack/"
+    },
+    "posts": {
+        "g97c0pk": {
+            "comment": "Claimed by Clop, so the group FireEye tracks as FIN11, a subset of TA505, not Ryuk.",
+            "timeStamp": "2020/10/18-03:18:45",
+            "id": "g97c0pk",
+            "is_submitter": false,
+            "link_id": "t3_j848w4",
+            "parent_id": "t1_g8b4rkg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "f00l"
+        },
+        "g8bedsx": {
+            "comment": "Yeh I know i am guessing based on the recent new Ryuk campaigns. Looks like it started end of September and still going strong.",
+            "timeStamp": "2020/10/10-06:00:52",
+            "id": "g8bedsx",
+            "is_submitter": false,
+            "link_id": "t3_j848w4",
+            "parent_id": "t1_g8be6ex",
+            "score": 1,
+            "stickied": false,
+            "author_name": "theknightbg"
+        },
+        "g8be6ex": {
+            "comment": "What makes you draw that conclusion? Nothing in the article suggest that as far as I can tell.",
+            "timeStamp": "2020/10/10-05:58:48",
+            "id": "g8be6ex",
+            "is_submitter": false,
+            "link_id": "t3_j848w4",
+            "parent_id": "t1_g8b4rkg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ranmdo"
+        },
+        "g8b4rkg": {
+            "comment": "Ryuk strikes again...",
+            "timeStamp": "2020/10/10-04:37:11",
+            "id": "g8b4rkg",
+            "is_submitter": false,
+            "link_id": "t3_j848w4",
+            "parent_id": "t3_j848w4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "theknightbg"
+        }
+    }
+}

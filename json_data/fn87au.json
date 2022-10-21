@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Android coronavirus SMS worm was developed in India",
+        "score": 1,
+        "id": "fn87au",
+        "commsNum": 4,
+        "timeStamp": "2020/03/22-15:03:46",
+        "author_name": "barakadua131",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://twitter.com/LukasStefanko/status/1241652041027588097?s=19"
+    },
+    "posts": {
+        "flrd7i2": {
+            "comment": "Can you send it via teamviewer? Its enstalled on every device including the moBILE phones",
+            "timeStamp": "2020/03/28-10:50:35",
+            "id": "flrd7i2",
+            "is_submitter": false,
+            "link_id": "t3_fn87au",
+            "parent_id": "t1_fl9i08b",
+            "score": 1,
+            "stickied": false,
+            "author_name": "merlin71901"
+        },
+        "fl9idwv": {
+            "comment": "Henlo, direct me to your yt tutorial how to create coronavirus malwar and how to detect it. Senks.",
+            "timeStamp": "2020/03/23-02:52:10",
+            "id": "fl9idwv",
+            "is_submitter": true,
+            "link_id": "t3_fn87au",
+            "parent_id": "t1_fl974m2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "barakadua131"
+        },
+        "fl9i08b": {
+            "comment": "Oh well, guess I will have to pay you a 1,000$ now.",
+            "timeStamp": "2020/03/23-02:44:00",
+            "id": "fl9i08b",
+            "is_submitter": false,
+            "link_id": "t3_fn87au",
+            "parent_id": "t1_fl974m2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DreadStallion"
+        },
+        "fl974m2": {
+            "comment": "HENLO sir my name is Anwar from Mikrosoft we have detected the coronawirus on your compooter",
+            "timeStamp": "2020/03/22-23:02:41",
+            "id": "fl974m2",
+            "is_submitter": false,
+            "link_id": "t3_fn87au",
+            "parent_id": "t3_fn87au",
+            "score": 1,
+            "stickied": false,
+            "author_name": "merlin71901"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "New Remote Access Android Malware, 'HijackRAT', Targeting Banking Users While Appearing as Google Service",
+        "score": 1,
+        "id": "29qacu",
+        "commsNum": 1,
+        "timeStamp": "2014/07/03-03:09:34",
+        "author_name": "FreedomHacker",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://freedomhacker.net/2014-07-android-remote-access-malware-hijackrat-attacks-banking-users/"
+    },
+    "posts": {}
+}

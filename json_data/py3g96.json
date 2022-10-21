@@ -1,0 +1,121 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hello there,\n\nI just started learning malware analysis and I am looking for \"simple\" malware samples.\nBy simple I mean malware that is very obfuscated etc.\n\nThanks in advance!",
+        "title": "Malware samples for beginner.",
+        "score": 1,
+        "id": "py3g96",
+        "commsNum": 9,
+        "timeStamp": "2021/09/29-13:03:52",
+        "author_name": "Loiuy123_",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 9,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/py3g96/malware_samples_for_beginner/"
+    },
+    "posts": {
+        "hgn43vk": {
+            "comment": "u r welcome!",
+            "timeStamp": "2021/10/14-11:29:26",
+            "id": "hgn43vk",
+            "is_submitter": false,
+            "link_id": "t3_py3g96",
+            "parent_id": "t1_hgn3psg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sucremad"
+        },
+        "hgn3psg": {
+            "comment": "Thanks! \nAwesome repo",
+            "timeStamp": "2021/10/14-11:26:43",
+            "id": "hgn3psg",
+            "is_submitter": true,
+            "link_id": "t3_py3g96",
+            "parent_id": "t1_hgn170q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Loiuy123_"
+        },
+        "hgn170q": {
+            "comment": " u can check this repo \n[malware4edu](https://github.com/ashemery/malware4edu)",
+            "timeStamp": "2021/10/14-11:09:15",
+            "id": "hgn170q",
+            "is_submitter": false,
+            "link_id": "t3_py3g96",
+            "parent_id": "t3_py3g96",
+            "score": 2,
+            "stickied": false,
+            "author_name": "sucremad"
+        },
+        "hew0ud7": {
+            "comment": "Oh yeah, \"not very obfuscated\" my bad.  \n\n\nThanks!",
+            "timeStamp": "2021/09/30-12:44:55",
+            "id": "hew0ud7",
+            "is_submitter": true,
+            "link_id": "t3_py3g96",
+            "parent_id": "t1_hew02co",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Loiuy123_"
+        },
+        "hew02co": {
+            "comment": "Did you mean NOT \"very obfuscated\"?\n\nI would check out the flare-on CTF challenges. They are binary challenges based off of malware, using the same techniques, in a safe manner.  And there are numerous write-ups that describe a variety of ways to analyze each sample.\n\nhttp://www.flare-on.com/",
+            "timeStamp": "2021/09/30-12:39:25",
+            "id": "hew02co",
+            "is_submitter": false,
+            "link_id": "t3_py3g96",
+            "parent_id": "t3_py3g96",
+            "score": 2,
+            "stickied": false,
+            "author_name": "LightningRurik"
+        },
+        "heuhafj": {
+            "comment": "Thank you!",
+            "timeStamp": "2021/09/30-06:12:30",
+            "id": "heuhafj",
+            "is_submitter": true,
+            "link_id": "t3_py3g96",
+            "parent_id": "t1_heugdci",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Loiuy123_"
+        },
+        "heugdci": {
+            "comment": "Check out practical malware analysis. It starts out from a beginner\u2019s position and ramps up very quickly. The book has labs with walk throughs. You can still download the samples from their website and the first few labs are very simple \n\nhttps://practicalmalwareanalysis.com/labs/",
+            "timeStamp": "2021/09/30-06:04:49",
+            "id": "heugdci",
+            "is_submitter": false,
+            "link_id": "t3_py3g96",
+            "parent_id": "t3_py3g96",
+            "score": 3,
+            "stickied": false,
+            "author_name": "Trolling_turd"
+        },
+        "hesbzwg": {
+            "comment": "\\+1 came here to recommend [malware-traffic-analysis.net](https://malware-traffic-analysis.net)\n\nBest place to get practice",
+            "timeStamp": "2021/09/29-16:36:59",
+            "id": "hesbzwg",
+            "is_submitter": false,
+            "link_id": "t3_py3g96",
+            "parent_id": "t1_hermyf0",
+            "score": 9,
+            "stickied": false,
+            "author_name": "Ottonym"
+        },
+        "hermyf0": {
+            "comment": "Virustotal is one best location to download malware samples but if you want some analysis of the sample then try [https://www.malware-traffic-analysis.net/2021/index.html](https://malware-analysis.net)",
+            "timeStamp": "2021/09/29-13:31:14",
+            "id": "hermyf0",
+            "is_submitter": false,
+            "link_id": "t3_py3g96",
+            "parent_id": "t3_py3g96",
+            "score": 6,
+            "stickied": false,
+            "author_name": "vinumsv"
+        }
+    }
+}

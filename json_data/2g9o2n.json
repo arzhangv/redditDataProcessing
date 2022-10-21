@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Malware Must Die!: Reversing an ARM architecture ELF Elknot (China DDoS'er) malware &lt; Aiming router",
+        "score": 7,
+        "id": "2g9o2n",
+        "commsNum": 1,
+        "timeStamp": "2014/09/12-22:32:01",
+        "author_name": "mmd0xFF",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://blog.malwaremustdie.org/2014/09/reversing-arm-architecture-elf-elknot.html"
+    },
+    "posts": {}
+}

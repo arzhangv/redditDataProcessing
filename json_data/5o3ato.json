@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Finfisher rootkit analysis",
+        "score": 35,
+        "id": "5o3ato",
+        "commsNum": 0,
+        "timeStamp": "2017/01/15-02:23:43",
+        "author_name": "secaggr",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://artemonsecurity.blogspot.com/2017/01/finfisher-rootkit-analysis.html"
+    },
+    "posts": {}
+}

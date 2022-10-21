@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "(SWF) To Kill The Mocking Porn - Fsociety Crypto Miner",
+        "score": 22,
+        "id": "6x1qtu",
+        "commsNum": 1,
+        "timeStamp": "2017/08/30-12:54:06",
+        "author_name": "majorllama",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.ringzerolabs.com/2017/07/fsociety-crypto-miner.html"
+    },
+    "posts": {
+        "dmcdu2j": {
+            "comment": "xpost r/ringzero",
+            "timeStamp": "2017/08/30-12:54:18",
+            "id": "dmcdu2j",
+            "is_submitter": true,
+            "link_id": "t3_6x1qtu",
+            "parent_id": "t3_6x1qtu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "majorllama"
+        }
+    }
+}

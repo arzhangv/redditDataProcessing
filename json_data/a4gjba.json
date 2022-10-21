@@ -1,0 +1,165 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I Have A Interest In Older Malware, Like The Ones For Windows 95 And 98, I Would Like To Record These In Acton On My YouTube Channel And I Cant Hardly find Any Websites That Host These Samples, Does Anyone know Where To Get These Old Malware, It Would Be Very Much Appreciated. Thanks  ",
+        "title": "Where Would Be A Great Place To Find Old Windows 9x Malware.",
+        "score": 1,
+        "id": "a4gjba",
+        "commsNum": 13,
+        "timeStamp": "2018/12/08-16:59:42",
+        "author_name": "Zhou_leopard",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 13,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/a4gjba/where_would_be_a_great_place_to_find_old_windows/"
+    },
+    "posts": {
+        "ebpb5u0": {
+            "comment": "https://archive.org/details/malwaremuseum",
+            "timeStamp": "2018/12/13-07:41:16",
+            "id": "ebpb5u0",
+            "is_submitter": false,
+            "link_id": "t3_a4gjba",
+            "parent_id": "t3_a4gjba",
+            "score": 2,
+            "stickied": false,
+            "author_name": "WOLF3D_exe"
+        },
+        "eblxcj2": {
+            "comment": "I believe someone maintains a torrent too. You could look it up. ",
+            "timeStamp": "2018/12/11-19:23:41",
+            "id": "eblxcj2",
+            "is_submitter": false,
+            "link_id": "t3_a4gjba",
+            "parent_id": "t1_eblrduk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "gnawledger"
+        },
+        "eblrduk": {
+            "comment": "I tried that half of the files don't work, but thank you.",
+            "timeStamp": "2018/12/11-17:51:45",
+            "id": "eblrduk",
+            "is_submitter": true,
+            "link_id": "t3_a4gjba",
+            "parent_id": "t1_ebfmktw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Zhou_leopard"
+        },
+        "eblrbb4": {
+            "comment": "Thanks, I know what i looking for i just need to find a website where i could get some samples.",
+            "timeStamp": "2018/12/11-17:50:40",
+            "id": "eblrbb4",
+            "is_submitter": true,
+            "link_id": "t3_a4gjba",
+            "parent_id": "t1_ebecsbv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Zhou_leopard"
+        },
+        "ebfmlga": {
+            "comment": "[deleted]",
+            "timeStamp": "2018/12/09-08:15:03",
+            "id": "ebfmlga",
+            "is_submitter": false,
+            "link_id": "t3_a4gjba",
+            "parent_id": "t3_a4gjba",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ebfml53": {
+            "comment": "[deleted]",
+            "timeStamp": "2018/12/09-08:14:55",
+            "id": "ebfml53",
+            "is_submitter": false,
+            "link_id": "t3_a4gjba",
+            "parent_id": "t3_a4gjba",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ebfmktw": {
+            "comment": "https://github.com/opsxcq/mirror-vxheaven.org\n\n\nTry this one for full sized fun. Remember to put all this on Linux. ",
+            "timeStamp": "2018/12/09-08:14:48",
+            "id": "ebfmktw",
+            "is_submitter": false,
+            "link_id": "t3_a4gjba",
+            "parent_id": "t3_a4gjba",
+            "score": 1,
+            "stickied": false,
+            "author_name": "gnawledger"
+        },
+        "ebfm34c": {
+            "comment": "There used to be vxheaven.org which had a huge collection but they closed some time ago. \nYou can check out [https://archive.org/details/vxheaven-windows-virus-collection](https://archive.org/details/vxheaven-windows-virus-collection) for a backup",
+            "timeStamp": "2018/12/09-08:07:11",
+            "id": "ebfm34c",
+            "is_submitter": false,
+            "link_id": "t3_a4gjba",
+            "parent_id": "t3_a4gjba",
+            "score": 1,
+            "stickied": false,
+            "author_name": "hidden00"
+        },
+        "ebfkl3n": {
+            "comment": "Either extremely German or trying to avoid stylometry",
+            "timeStamp": "2018/12/09-07:45:42",
+            "id": "ebfkl3n",
+            "is_submitter": false,
+            "link_id": "t3_a4gjba",
+            "parent_id": "t1_ebfibtt",
+            "score": 1,
+            "stickied": false,
+            "author_name": "SilentTie2000"
+        },
+        "ebfibtt": {
+            "comment": "I'm more impressed you camel-cased the entire paragraph ",
+            "timeStamp": "2018/12/09-07:09:41",
+            "id": "ebfibtt",
+            "is_submitter": false,
+            "link_id": "t3_a4gjba",
+            "parent_id": "t3_a4gjba",
+            "score": 3,
+            "stickied": false,
+            "author_name": "smobdirt"
+        },
+        "ebfdxdm": {
+            "comment": "I recently came across some malware that make you type funny.",
+            "timeStamp": "2018/12/09-06:01:42",
+            "id": "ebfdxdm",
+            "is_submitter": false,
+            "link_id": "t3_a4gjba",
+            "parent_id": "t3_a4gjba",
+            "score": 5,
+            "stickied": false,
+            "author_name": "addergebroed"
+        },
+        "ebfbwmr": {
+            "comment": "[deleted]",
+            "timeStamp": "2018/12/09-05:23:36",
+            "id": "ebfbwmr",
+            "is_submitter": false,
+            "link_id": "t3_a4gjba",
+            "parent_id": "t3_a4gjba",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ebecsbv": {
+            "comment": "Have you checked virustotal? You\u2019d need to search for the name of old malware during that era. If not, PM me and I think I have some At home. Won\u2019t be able to check till tomorrow. ",
+            "timeStamp": "2018/12/08-18:05:32",
+            "id": "ebecsbv",
+            "is_submitter": false,
+            "link_id": "t3_a4gjba",
+            "parent_id": "t3_a4gjba",
+            "score": 3,
+            "stickied": false,
+            "author_name": "DryDanish-RU"
+        }
+    }
+}

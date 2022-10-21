@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Is supernova flash player safe",
+        "score": 1,
+        "id": "s137pu",
+        "commsNum": 0,
+        "timeStamp": "2022/01/10-19:39:11",
+        "author_name": "Silent_Scale5986",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/s137pu/is_supernova_flash_player_safe/"
+    },
+    "posts": {
+        "hs9rxew": {
+            "comment": "Please redirect questions related to malware removal to /r/antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware",
+            "timeStamp": "2022/01/11-14:42:43",
+            "id": "hs9rxew",
+            "is_submitter": false,
+            "link_id": "t3_s137pu",
+            "parent_id": "t3_s137pu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "punkonjunk"
+        }
+    }
+}

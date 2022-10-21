@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Last week, a Ransomware called Defray targeting a selected group of elite organizations demanding $5,000 upon infection. It is a file encoder Trojan written in C++ which uses advanced cryptographic algorithm.",
+        "score": 1,
+        "id": "6yj62s",
+        "commsNum": 0,
+        "timeStamp": "2017/09/06-15:51:56",
+        "author_name": "Gunner_65",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://blogs.systweak.com/2017/09/defray-ransomware-targeting-education-and-healthcare-organizations/"
+    },
+    "posts": {}
+}

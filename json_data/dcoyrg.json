@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Malware in Android installed as apk",
+        "score": 1,
+        "id": "dcoyrg",
+        "commsNum": 1,
+        "timeStamp": "2019/10/03-03:26:22",
+        "author_name": "fullmetallictitan",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://i.redd.it/47umuk43zaq31.jpg"
+    },
+    "posts": {
+        "f29id3p": {
+            "comment": "This app was installed by some other third party app. I used to get random web pages pop up only when in unlock the phone during charging and then i searched the internet and found this app. This app didnt have any  thumbnail  and it was found at the bottom of the app list.\nDoes anyone have more info about these types of app??",
+            "timeStamp": "2019/10/03-03:29:04",
+            "id": "f29id3p",
+            "is_submitter": true,
+            "link_id": "t3_dcoyrg",
+            "parent_id": "t3_dcoyrg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "fullmetallictitan"
+        }
+    }
+}

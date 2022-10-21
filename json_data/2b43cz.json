@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Critroni, a sophisticated ransomware which uses Tor Network as C",
+        "score": 1,
+        "id": "2b43cz",
+        "commsNum": 0,
+        "timeStamp": "2014/07/18-22:49:18",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/26763/cyber-crime/critroni-ransomware-use-tor.html"
+    },
+    "posts": {}
+}

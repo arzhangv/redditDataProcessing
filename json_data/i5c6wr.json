@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Assembly Language / Reversing / Malware Analysis -resources",
+        "score": 1,
+        "id": "i5c6wr",
+        "commsNum": 1,
+        "timeStamp": "2020/08/07-04:35:02",
+        "author_name": "navneetmuffin",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://gist.github.com/navneetmuffin/ff678b1fda17e6188aa0462a99626121"
+    },
+    "posts": {
+        "g0pwsed": {
+            "comment": "epic",
+            "timeStamp": "2020/08/07-13:33:31",
+            "id": "g0pwsed",
+            "is_submitter": false,
+            "link_id": "t3_i5c6wr",
+            "parent_id": "t3_i5c6wr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "IThobby"
+        }
+    }
+}

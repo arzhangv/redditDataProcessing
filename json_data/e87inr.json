@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "macOS Red Team: Calling Apple APIs Without Building Binaries",
+        "score": 1,
+        "id": "e87inr",
+        "commsNum": 0,
+        "timeStamp": "2019/12/09-00:57:10",
+        "author_name": "Cyberthere",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.sentinelone.com/blog/macos-red-team-calling-apple-apis-without-building-binaries/"
+    },
+    "posts": {}
+}

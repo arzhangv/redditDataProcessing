@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Noob question... I came across an odd piece of malware that dropped a shortcut file, a batch file and a file with a \"e8f1cb3c\" extension. The batch file contains a bunch of echo commands and then executes the xxxxx.e8f1cb3c file. I loaded this malware into a sandbox so I would attempt to execute and monitor with some behavior analysis tools. However, when it tries to execute I get the  \"how do you want to open this file\" prompt? What would have executed this file? ",
+        "title": "Someone help explain this malware",
+        "score": 8,
+        "id": "5m272w",
+        "commsNum": 14,
+        "timeStamp": "2017/01/04-14:09:54",
+        "author_name": "netsecdood",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 14,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5m272w/someone_help_explain_this_malware/"
+    },
+    "posts": {}
+}

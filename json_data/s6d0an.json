@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "The WannaCry ransomware attack was a worldwide cyberattack in May 2017 by the WannaCry ransomware cryptoworm, which targeted computers running the Microsoft Windows operating system by encrypting data and demanding ransom payments in the Bitcoin cryptocurrency. It propagated through EternalBlue, an exploit developed by the United States National Security Agency (NSA) for older Windows systems. EternalBlue was stolen and leaked by a group called The Shadow Brokers at least a year prior to the attack. While Microsoft had released patches previously to close the exploit, much of WannaCry's spread was from organizations that had not applied these, or were using older Windows systems that were past their end-of-life. These patches were imperative to organizations' cyber security but many were not implemented due to ignorance of their importance. Some have claimed a need for 24/7 operation, aversion to risking having formerly working applications breaking because of patch changes, lack of personnel or time to install them, or other reasons. \n\nDuration\n4 days\n\nAlso known as\nTransformations:\nWanna \u2192 Wana\nCryptor \u2192 Crypt0r\nCryptor \u2192 Decryptor\nCryptor \u2192 Crypt \u2192 Cry\nAddition of \"2.0\"\nShort names:\nWanna \u2192 WN \u2192 W\nCry \u2192 CRY\n\nCause\nWannaCry worm\n\nOutcome\n200,000 victims\n300,000+ computers infected\n\nThe attack began at 07:44 UTC on 12 May 2017 and was halted a few hours later at 15:03 UTC by the registration of a kill switch discovered by Marcus Hutchins. The kill switch prevented already infected computers from being encrypted or further spreading WannaCry. The attack was estimated to have affected more than 200,000 computers across 150 countries, with total damages ranging from hundreds of millions to billions of dollars. \n\nA new variant of WannaCry forced Taiwan Semiconductor Manufacturing Company (TSMC) to temporarily shut down several of its chip-fabrication factories in August 2018. The virus spread to 10,000 machines in TSMC's most advanced facilities.",
+        "title": "Ransomware attack from 2017",
+        "score": 1,
+        "id": "s6d0an",
+        "commsNum": 0,
+        "timeStamp": "2022/01/17-11:49:49",
+        "author_name": "monidoki",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/s6d0an/ransomware_attack_from_2017/"
+    },
+    "posts": {
+        "ht2wmx7": {
+            "comment": "That's a long time but as least no one lost their jobs at the company which is good. Having malware of any sort is the worst and terrible. Hope everything goes well for you.",
+            "timeStamp": "2022/01/17-12:05:56",
+            "id": "ht2wmx7",
+            "is_submitter": true,
+            "link_id": "t3_s6d0an",
+            "parent_id": "t1_ht2wew3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "monidoki"
+        },
+        "ht2wew3": {
+            "comment": "it was an international company and basically every windows PC and server needed to be restored/rebuild (if I remember correctly over 15k PCs and probably over 800 server). luckily no one lost their job (at least not at my location). it was like the worst 4 weeks in my IT career. the company was fine after i think 1-2 years.",
+            "timeStamp": "2022/01/17-12:04:30",
+            "id": "ht2wew3",
+            "is_submitter": false,
+            "link_id": "t3_s6d0an",
+            "parent_id": "t1_ht2vb26",
+            "score": 1,
+            "stickied": false,
+            "author_name": "vzSo"
+        },
+        "ht2vb26": {
+            "comment": "Oh goodness is your company okay now?. I'm sorry that happened to your company.",
+            "timeStamp": "2022/01/17-11:57:21",
+            "id": "ht2vb26",
+            "is_submitter": true,
+            "link_id": "t3_s6d0an",
+            "parent_id": "t1_ht2v5ca",
+            "score": 1,
+            "stickied": false,
+            "author_name": "monidoki"
+        },
+        "ht2v5ca": {
+            "comment": "the company which i was working for in 2017 got hit by it",
+            "timeStamp": "2022/01/17-11:56:20",
+            "id": "ht2v5ca",
+            "is_submitter": false,
+            "link_id": "t3_s6d0an",
+            "parent_id": "t3_s6d0an",
+            "score": 1,
+            "stickied": false,
+            "author_name": "vzSo"
+        }
+    }
+}

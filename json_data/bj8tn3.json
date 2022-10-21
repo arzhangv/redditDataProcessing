@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hello All\nCurrently doing a research project for college looking at different strands of Dharma and have come across an 888 Ransomware infected system. I have the infected files and was wondering if anyone has come across this before, trying to do some reversing on it but turning up no joy. Anywhere know where I could get the actual code nothing on GitHub etc. \nCheers",
+        "title": "888 ransomware insight",
+        "score": 6,
+        "id": "bj8tn3",
+        "commsNum": 3,
+        "timeStamp": "2019/04/30-14:20:28",
+        "author_name": "wrinklyad",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/bj8tn3/888_ransomware_insight/"
+    },
+    "posts": {
+        "em6gx5f": {
+            "comment": "sorry, but I don't. I do the link to Crysis/Dharma family Report from late 2017 by panda security maybe it could help \n\nhttps://www.pandasecurity.com/mediacenter/src/uploads/2017/11/Ransomware\\_Crysis-Dharma-en.pdf",
+            "timeStamp": "2019/04/30-16:03:50",
+            "id": "em6gx5f",
+            "is_submitter": false,
+            "link_id": "t3_bj8tn3",
+            "parent_id": "t1_em6dcle",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Cypher848"
+        },
+        "em6dcle": {
+            "comment": "Yeah tried hashing them and searching the .888 file extension looking now for the actual Dharma source code as it apparently has bits of that and crysis. Any ideas where that could be except DW",
+            "timeStamp": "2019/04/30-15:26:36",
+            "id": "em6dcle",
+            "is_submitter": true,
+            "link_id": "t3_bj8tn3",
+            "parent_id": "t1_em6c6nk",
+            "score": 2,
+            "stickied": false,
+            "author_name": "wrinklyad"
+        },
+        "em6c6nk": {
+            "comment": "Have you tried hashing the files and looking up those hashes on virus total or virusbay?",
+            "timeStamp": "2019/04/30-15:14:52",
+            "id": "em6c6nk",
+            "is_submitter": false,
+            "link_id": "t3_bj8tn3",
+            "parent_id": "t3_bj8tn3",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Cypher848"
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Is opening process using ProcessCreate WinAPI in c#, via pinvoke, is different from creating process.start C# function?\n\nDoes process.start perform a WinAPI call behind the curtain?\n\nOr, is even creating process possible via ProcessCreate WinAPI via pinvoke ?",
+        "title": "process.start vs ProcessCreate",
+        "score": 1,
+        "id": "v6olrr",
+        "commsNum": 0,
+        "timeStamp": "2022/06/06-23:40:36",
+        "author_name": "BabanSoumyanil",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/v6olrr/processstart_vs_processcreate/"
+    },
+    "posts": {
+        "ibiljkp": {
+            "comment": "[removed]",
+            "timeStamp": "2022/06/07-11:25:16",
+            "id": "ibiljkp",
+            "is_submitter": false,
+            "link_id": "t3_v6olrr",
+            "parent_id": "t3_v6olrr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ibgnwsb": {
+            "comment": "From .NET source \n\n `[ResourceExposure(ResourceScope.None)]`  \n`[ResourceConsumption(ResourceScope.Machine, ResourceScope.Machine)]`  \n`public bool Start() {`  \n`Close();`  \n`ProcessStartInfo startInfo = StartInfo;`  \n`if (startInfo.FileName.Length == 0)`   \n`throw new InvalidOperationException(SR.GetString(SR.FileNameMissing));`  \n   \n`if (startInfo.UseShellExecute) {`  \n`#if !FEATURE_PAL`                  \n`return StartWithShellExecuteEx(startInfo);`  \n`#else`  \n`throw new InvalidOperationException(SR.GetString(SR.net_perm_invalid_val, \"StartInfo.UseShellExecute\", true));`  \n`#endif // !FEATURE_PAL`  \n`} else {`  \n`return StartWithCreateProcess(startInfo);`  \n`}`  \n`}`\n\n `[DllImport(ExternDll.Kernel32, CharSet=System.Runtime.InteropServices.CharSet.Auto, SetLastError=true, BestFitMapping=false)]`  \n`[ResourceExposure(ResourceScope.Process)]`  \n`public static extern bool CreateProcess(`  \n`[MarshalAs(UnmanagedType.LPTStr)]`  \n`string lpApplicationName,                   // LPCTSTR`  \n`StringBuilder lpCommandLine,                // LPTSTR - note: CreateProcess might insert a null somewhere in this string`  \n`SECURITY_ATTRIBUTES lpProcessAttributes,    // LPSECURITY_ATTRIBUTES`  \n`SECURITY_ATTRIBUTES lpThreadAttributes,     // LPSECURITY_ATTRIBUTES`  \n`bool bInheritHandles,                        // BOOL`  \n`int dwCreationFlags,                        // DWORD`  \n`IntPtr lpEnvironment,                       // LPVOID`  \n`[MarshalAs(UnmanagedType.LPTStr)]`             \n`string lpCurrentDirectory,                  // LPCTSTR`  \n`STARTUPINFO lpStartupInfo,                  // LPSTARTUPINFO`  \n`SafeNativeMethods.PROCESS_INFORMATION lpProcessInformation    // LPPROCESS_INFORMATION`  \n`);`",
+            "timeStamp": "2022/06/07-00:15:07",
+            "id": "ibgnwsb",
+            "is_submitter": false,
+            "link_id": "t3_v6olrr",
+            "parent_id": "t3_v6olrr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "wolfcod"
+        }
+    }
+}

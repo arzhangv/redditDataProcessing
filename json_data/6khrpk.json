@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Diskcoder/Petya: Analysis of supply-chain attacks against Ukraine by Telebots group",
+        "score": 29,
+        "id": "6khrpk",
+        "commsNum": 0,
+        "timeStamp": "2017/06/30-11:22:14",
+        "author_name": "goretsky",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.welivesecurity.com/2017/06/30/telebots-back-supply-chain-attacks-against-ukraine/"
+    },
+    "posts": {}
+}

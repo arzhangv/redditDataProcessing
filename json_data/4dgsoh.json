@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Cylance Discovers Multiple Critical Vulnerabilities in TeleGrafix RIPterm v2.3",
+        "score": 5,
+        "id": "4dgsoh",
+        "commsNum": 1,
+        "timeStamp": "2016/04/05-08:02:18",
+        "author_name": "Veronicapo4_",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://blog.cylance.com/cylance-discovers-multiple-critical-vulnerabilities-in-telegrafix-ripterm-v2.3"
+    },
+    "posts": {}
+}

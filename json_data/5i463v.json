@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "We recently moved from a storage snap-based SMB checkpoint system, for every 15 min snaps, to a windows file server with shadow copies. Already, no users have admin access to the server, and IT admins log into their workstations with their non-admin accounts. I don't care about workstation (VM) snaps - they can crypto all they want.\n\nBut am I more vulnerable to a ransomware attack being able to delete the network windows shadow copies? What can be done from a server side to minimize this possibility? (I already have backups but those are daily)",
+        "title": "Tips on protecting network shadow copies",
+        "score": 4,
+        "id": "5i463v",
+        "commsNum": 1,
+        "timeStamp": "2016/12/13-07:29:59",
+        "author_name": "meistaiwan",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5i463v/tips_on_protecting_network_shadow_copies/"
+    },
+    "posts": {}
+}

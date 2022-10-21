@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Unpacking Emotet and Reversing Obfuscated Word Document",
+        "score": 1,
+        "id": "rfhuev",
+        "commsNum": 0,
+        "timeStamp": "2021/12/13-07:10:45",
+        "author_name": "nicolasbrulez",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.youtube.com/watch?v=AkZ5TYBqcU4"
+    },
+    "posts": {
+        "hoh58yr": {
+            "comment": "Your intro is cringe",
+            "timeStamp": "2021/12/13-21:10:05",
+            "id": "hoh58yr",
+            "is_submitter": false,
+            "link_id": "t3_rfhuev",
+            "parent_id": "t3_rfhuev",
+            "score": 1,
+            "stickied": false,
+            "author_name": "CallMeBober"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "The worm that spreads WanaCrypt0r",
+        "score": 73,
+        "id": "6ay70d",
+        "commsNum": 2,
+        "timeStamp": "2017/05/13-07:49:10",
+        "author_name": "r721",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://blog.malwarebytes.com/threat-analysis/2017/05/the-worm-that-spreads-wanacrypt0r/"
+    },
+    "posts": {}
+}

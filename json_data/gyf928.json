@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "this is a virus and it's obvious, don't download this!",
+        "score": 1,
+        "id": "gyf928",
+        "commsNum": 2,
+        "timeStamp": "2020/06/07-09:19:00",
+        "author_name": "TurtleDotEXE-",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.nchsoftware.com/voicechanger/index.html"
+    },
+    "posts": {
+        "ftdk53r": {
+            "comment": "Okay thankyou sir",
+            "timeStamp": "2020/06/08-08:18:11",
+            "id": "ftdk53r",
+            "is_submitter": false,
+            "link_id": "t3_gyf928",
+            "parent_id": "t3_gyf928",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ShinyToastYT"
+        },
+        "fta52l1": {
+            "comment": "really? lame!",
+            "timeStamp": "2020/06/07-09:40:14",
+            "id": "fta52l1",
+            "is_submitter": false,
+            "link_id": "t3_gyf928",
+            "parent_id": "t3_gyf928",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Farstone"
+        }
+    }
+}

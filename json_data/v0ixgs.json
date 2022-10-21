@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "\\[TheFatRat\\] is an exploiting tool which compiles a malware with famous payload, and then the compiled malware can be executed on Linux , Windows , Mac and Android. Provides an easy way to create backdoors and payload which can bypass most AV\n\n[https://github.com/Screetsec/TheFatRat](https://github.com/Screetsec/TheFatRat)\n\n***Good Bye***",
+        "title": "TheFatRat Exploitations",
+        "score": 1,
+        "id": "v0ixgs",
+        "commsNum": 0,
+        "timeStamp": "2022/05/29-12:52:23",
+        "author_name": "saqfi",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/v0ixgs/thefatrat_exploitations/"
+    },
+    "posts": {}
+}

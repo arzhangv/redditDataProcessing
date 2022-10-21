@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Shellshock-exploiting Bash malware targets embedded devices running BusyBox",
+        "score": 14,
+        "id": "2mmhv9",
+        "commsNum": 4,
+        "timeStamp": "2014/11/17-18:30:23",
+        "author_name": "techgenius_guru",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.pcworld.com/article/2848692/bash-malware-targets-embedded-devices-running-busybox.html"
+    },
+    "posts": {}
+}

@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Analyzing a malware with Tetrane's Timeless Analysis technology- A case study with Uroburos\n\n[https://blog.tetrane.com/2019/Analysis-Uroburos-Malware-REVEN.html](https://blog.tetrane.com/2019/Analysis-Uroburos-Malware-REVEN.html)",
+        "title": "Analysis of the Uroburos malware with a dynamic solution",
+        "score": 2,
+        "id": "c23zk1",
+        "commsNum": 1,
+        "timeStamp": "2019/06/18-08:58:35",
+        "author_name": "m2r3t1",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/c23zk1/analysis_of_the_uroburos_malware_with_a_dynamic/"
+    },
+    "posts": {
+        "f7ezyu3": {
+            "comment": "We just made this analysis accessible from our tool: [https://www.tetrane.com/demos.html](https://www.tetrane.com/demos.html)",
+            "timeStamp": "2019/11/13-10:24:04",
+            "id": "f7ezyu3",
+            "is_submitter": true,
+            "link_id": "t3_c23zk1",
+            "parent_id": "t3_c23zk1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "m2r3t1"
+        }
+    }
+}

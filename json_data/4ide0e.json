@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "What exactly is the process by which new viruses are found in the wild (assuming they don't just get detected by antivirus heuristics and forwarded to the AV companies for analysis), and is there any way for an individual to take advantage of these methods to find new malware samples themselves?\n\nI'm setting up a home lab and would be interested in getting my hands on the latest samples to reverse engineer/study.  What methods do security companies use to find new potentially malicious software, and is there any way for me to emulate those methods?\n\nFrom what I understand some email providers execute email attachments in a sandbox to analyze them and other organizations run honeypots to detect worms.  I'm setting up a Dionaea honeypot now, but I'm interested in using whatever other methods there are available to \"catch\" new viruses.  Are there any other methods of finding out that there is a new virus out there and getting your hands on a definite sample?\n\nI know that there are certain sites I could go to to download already known malware, but I'm particularly interested in finding new stuff.  I just think it would be far more interesting to unpack the latest botnet than it would be to analyze year-old adware.",
+        "title": "How is new malware found?",
+        "score": 37,
+        "id": "4ide0e",
+        "commsNum": 38,
+        "timeStamp": "2016/05/07-22:12:07",
+        "author_name": "exosphere5",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 38,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/4ide0e/how_is_new_malware_found/"
+    },
+    "posts": {}
+}

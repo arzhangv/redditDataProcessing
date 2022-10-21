@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hello there /r/Malware,\n\nComputer Security has always been a great interest for me and I've now started to move away from web application attacks &amp; server exploits to look more closely at malware.  I recently picked up a book with tons of old samples and software that no longer seems to be supported but either way, it's proving to be a good read just to get an idea of how complex and sophisticated malware can be.\n\nThe issue I'm having is that since I'm new, I'm struggling to really ID &amp; investigate malware that I find.  The samples I have (1 sent via Steam, 5 obtained via an open chinese server I stumbled upon) are all W32 executables.  After searching around, I located several pieces of reliable software that would help investigate the malware found but I'm not really getting far.  I've identified what it MIGHT be written in, whether it's encrypted, packed, heavy packed etc, whether it has a signature or not, .dlls it's calling but aside from that, I'm not really getting anywhere.\n\nIf anybody is interested, I can upload the samples I have for people here to dissect and look at but the main aim here is to break one of them open and reveal any amount of source code.  I've tried disassembling and decompiling but every bit of software I use looks at it and nopes the whole thing.\n\nThanks.\n\n**Also**, any hints/tips, software recommendations, reverse engineering methodologies etc. are much appreciated. ",
+        "title": "New to malware analysis (I have samples from the wild)",
+        "score": 18,
+        "id": "3btn2c",
+        "commsNum": 13,
+        "timeStamp": "2015/07/01-18:29:15",
+        "author_name": "sevaaraii",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 13,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/3btn2c/new_to_malware_analysis_i_have_samples_from_the/"
+    },
+    "posts": {}
+}

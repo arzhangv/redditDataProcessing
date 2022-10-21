@@ -1,0 +1,209 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "([https://www.virustotal.com/gui/file/6db0299f073d8c83f70e52f382d1fd952e6d7d544cdb7eebd73867ddb9b9d176/detection](https://www.virustotal.com/gui/file/6db0299f073d8c83f70e52f382d1fd952e6d7d544cdb7eebd73867ddb9b9d176/detection)) How screwed am I? (Mac os Mojave)",
+        "title": "Previewed this document on outlook.com (via word online I think that's the standard previewer on outlook.com)",
+        "score": 1,
+        "id": "c0kuoa",
+        "commsNum": 17,
+        "timeStamp": "2019/06/14-07:38:32",
+        "author_name": "Thehockeyguy213",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 17,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/c0kuoa/previewed_this_document_on_outlookcom_via_word/"
+    },
+    "posts": {
+        "eri3vwm": {
+            "comment": "You should really read \"Learn Malware Analysis\" it's on amazon. It will walk you through everything. \nIt's a great book.\nI can ID malware a handful of ways. static or dynamic, or for what's reported on the file if anything.",
+            "timeStamp": "2019/06/18-13:16:04",
+            "id": "eri3vwm",
+            "is_submitter": false,
+            "link_id": "t3_c0kuoa",
+            "parent_id": "t1_ereo38a",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Itsmalware"
+        },
+        "ereo38a": {
+            "comment": "Thanks a lot! But do you distinct different kind of malware (keyloggers trojans worms) by checking the code, or do you use a special kind of application, so yes which application would you recommend for a novice?",
+            "timeStamp": "2019/06/17-09:27:47",
+            "id": "ereo38a",
+            "is_submitter": true,
+            "link_id": "t3_c0kuoa",
+            "parent_id": "t1_erena9f",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Thehockeyguy213"
+        },
+        "erena9f": {
+            "comment": "Read up and watch some youtube about malware analysis test environments. \n\nYou can get malware in many places to analyze. VT, Virus bay, and so on.\n\nI have a handful of VMs because not all malware likes the same environment.",
+            "timeStamp": "2019/06/17-09:18:38",
+            "id": "erena9f",
+            "is_submitter": false,
+            "link_id": "t3_c0kuoa",
+            "parent_id": "t1_erbgmd9",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Itsmalware"
+        },
+        "erbgmd9": {
+            "comment": "I'm interested in VM's for a long time and have one more question: How do you check if a VM is infected with malware like a stealth trojan or a keylogger, do u use a AV to check for malware or do u use something different? And what VM do u use?",
+            "timeStamp": "2019/06/16-02:56:26",
+            "id": "erbgmd9",
+            "is_submitter": true,
+            "link_id": "t3_c0kuoa",
+            "parent_id": "t1_er6dmp4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Thehockeyguy213"
+        },
+        "er6dxoc": {
+            "comment": "Thank you very much! have a nice day/evening/night (IDK where you live so thats why)",
+            "timeStamp": "2019/06/14-13:52:41",
+            "id": "er6dxoc",
+            "is_submitter": true,
+            "link_id": "t3_c0kuoa",
+            "parent_id": "t1_er6dmp4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Thehockeyguy213"
+        },
+        "er6dmp4": {
+            "comment": "I downloaded the hash to my VM and nothing happened. There was no malware associated with this file. It was a phishing link.",
+            "timeStamp": "2019/06/14-13:49:31",
+            "id": "er6dmp4",
+            "is_submitter": false,
+            "link_id": "t3_c0kuoa",
+            "parent_id": "t1_er66ou8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Itsmalware"
+        },
+        "er66ou8": {
+            "comment": "Just to be sure,\n\nNothing weird has happened to your VM (if you did you've downloaded the docx, that document didn't infect your Virtual Machine with any kind of malware.",
+            "timeStamp": "2019/06/14-12:38:09",
+            "id": "er66ou8",
+            "is_submitter": true,
+            "link_id": "t3_c0kuoa",
+            "parent_id": "t1_er5lnkh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Thehockeyguy213"
+        },
+        "er5m1sm": {
+            "comment": "Oh yes, thats right, you can download samples if you've got a virustotal subscription. Thank you very much for the help, I really appreciate it!",
+            "timeStamp": "2019/06/14-09:13:27",
+            "id": "er5m1sm",
+            "is_submitter": true,
+            "link_id": "t3_c0kuoa",
+            "parent_id": "t1_er5lnkh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Thehockeyguy213"
+        },
+        "er5lnkh": {
+            "comment": "you put the VT link on here. I downloaded what was on VT.\n\n6db0299f073d8c83f70e52f382d1fd952e6d7d544cdb7eebd73867ddb9b9d176\n\nthis is the hash of the file you had.",
+            "timeStamp": "2019/06/14-09:09:32",
+            "id": "er5lnkh",
+            "is_submitter": false,
+            "link_id": "t3_c0kuoa",
+            "parent_id": "t1_er5l3jr",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Itsmalware"
+        },
+        "er5l3jr": {
+            "comment": "Really, thanks a lot Now I'm 100% sure I'm not infected. Thank you very much",
+            "timeStamp": "2019/06/14-09:03:59",
+            "id": "er5l3jr",
+            "is_submitter": true,
+            "link_id": "t3_c0kuoa",
+            "parent_id": "t1_er5jtif",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Thehockeyguy213"
+        },
+        "er5jtif": {
+            "comment": "I put it in a VM and only saw the phishing link.",
+            "timeStamp": "2019/06/14-08:51:33",
+            "id": "er5jtif",
+            "is_submitter": false,
+            "link_id": "t3_c0kuoa",
+            "parent_id": "t1_er5grrh",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Itsmalware"
+        },
+        "er5jg09": {
+            "comment": "No one can tell you that you're safe. It's possible that malware that no anti-virus vendor knows about has been installed. On the other hand, by scanning with those tools, you've done about the most you can do. You could scan with even more tools. Or you could erase your hard drive down to the bit level, reinstall your OS, and rebuild your system. It's really up to you.",
+            "timeStamp": "2019/06/14-08:48:00",
+            "id": "er5jg09",
+            "is_submitter": false,
+            "link_id": "t3_c0kuoa",
+            "parent_id": "t1_er5grrh",
+            "score": 2,
+            "stickied": false,
+            "author_name": "linuxlib"
+        },
+        "er5grrh": {
+            "comment": "No only previewed the attachment (accidentally) and clicked the preview right away I didn't click on any links or downloaded the document on my Mac\n\n I've also ran Malwarebytes scan after that  nothing was found so am I safe then?",
+            "timeStamp": "2019/06/14-08:21:59",
+            "id": "er5grrh",
+            "is_submitter": true,
+            "link_id": "t3_c0kuoa",
+            "parent_id": "t1_er5g9xh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Thehockeyguy213"
+        },
+        "er5g9xh": {
+            "comment": "Did you click on the hyperlinks in the doc?\n\nThis appears to be a phishing doc.\n\nIf you clicked on the link it will take you to a fake landing page.\n\nhXXps\\[://\\]arc-newpaymentldstoreDOTbertubuhbesarDOTnet\\[/\\]?bjngnjorfcokkkkk\\_\n\n\\^this is the landing page link, if you fix it and click it that's on you.\n\nI didn't see any evidence of malware being dl",
+            "timeStamp": "2019/06/14-08:17:04",
+            "id": "er5g9xh",
+            "is_submitter": false,
+            "link_id": "t3_c0kuoa",
+            "parent_id": "t3_c0kuoa",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Itsmalware"
+        },
+        "er5fwot": {
+            "comment": "I've ran Malwarebytes and Bitdefender already (nothing found mac isn't acting weird) But is nuking the mac than not too excessive because I didn't download\n\n(? I am not 100% sure previewing an attachment via outlook web app([outlook.com](https://outlook.com)) via word online is safe, I think that word online is the default previewer.)\n\n (Im not really sure if word online can run macros when previewing an docx attachment (this article say's word online won't run macros if your edit or view the document [https://support.office.com/en-gb/article/differences-between-using-a-document-in-the-browser-and-in-word-3e863ce3-e82c-4211-8f97-5b33c36c55f8](https://support.office.com/en-gb/article/differences-between-using-a-document-in-the-browser-and-in-word-3e863ce3-e82c-4211-8f97-5b33c36c55f8))",
+            "timeStamp": "2019/06/14-08:13:21",
+            "id": "er5fwot",
+            "is_submitter": true,
+            "link_id": "t3_c0kuoa",
+            "parent_id": "t1_er5esah",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Thehockeyguy213"
+        },
+        "er5fi80": {
+            "comment": "This is not a tech support subreddit",
+            "timeStamp": "2019/06/14-08:09:21",
+            "id": "er5fi80",
+            "is_submitter": false,
+            "link_id": "t3_c0kuoa",
+            "parent_id": "t3_c0kuoa",
+            "score": 1,
+            "stickied": false,
+            "author_name": "edward_snowedin"
+        },
+        "er5esah": {
+            "comment": "I would run the malware removal guide on r/techsupport and if that doesn\u2019t work then nuke it and rebuild",
+            "timeStamp": "2019/06/14-08:02:07",
+            "id": "er5esah",
+            "is_submitter": false,
+            "link_id": "t3_c0kuoa",
+            "parent_id": "t3_c0kuoa",
+            "score": 2,
+            "stickied": false,
+            "author_name": "jason-murawski"
+        }
+    }
+}

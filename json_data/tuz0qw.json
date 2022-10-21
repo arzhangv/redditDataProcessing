@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I had random bookmarks in Opera GX, i was wondering why, This isnt the first time this happened\n\nFirst time this happened is (i think) because of a random windows key i used, or i think it was because i used HackRGB when i was trying to change the boot logo. Any ideas?",
+        "title": "Random websites",
+        "score": 1,
+        "id": "tuz0qw",
+        "commsNum": 0,
+        "timeStamp": "2022/04/02-19:44:00",
+        "author_name": "SansDreamYT",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/tuz0qw/random_websites/"
+    },
+    "posts": {
+        "i37tiwa": {
+            "comment": "/r/techsupport or /r/cybersecurity_101 to get you started on malware removal. This sub is about malware research, sry.",
+            "timeStamp": "2022/04/03-05:39:05",
+            "id": "i37tiwa",
+            "is_submitter": false,
+            "link_id": "t3_tuz0qw",
+            "parent_id": "t3_tuz0qw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "vornamemitd"
+        }
+    }
+}

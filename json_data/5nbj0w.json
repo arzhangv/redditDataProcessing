@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Art of Anti Detection 2 \u2013 PE Backdoor Manufacturing",
+        "score": 22,
+        "id": "5nbj0w",
+        "commsNum": 5,
+        "timeStamp": "2017/01/11-02:43:58",
+        "author_name": "wtfse",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://pentest.blog/art-of-anti-detection-2-pe-backdoor-manufacturing/"
+    },
+    "posts": {}
+}

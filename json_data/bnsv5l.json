@@ -1,0 +1,132 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "But we started getting paranoid as his antivirus started saying the pc is infected a while after instalation, the site I helped him download it from was  [https://www.vpn.net/](https://www.vpn.net/)  the problem is, his antivirus is a free version of Avast that i have no idea where he got as his dad was the one that downloaded it, do I owe my friend 500eu or is his antivirus just shitty???",
+        "title": "Hey i helped my friend download Hamachi to play Sven Coop together and something went wrong",
+        "score": 2,
+        "id": "bnsv5l",
+        "commsNum": 10,
+        "timeStamp": "2019/05/12-12:16:34",
+        "author_name": "TrhlaSlecna",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 10,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/bnsv5l/hey_i_helped_my_friend_download_hamachi_to_play/"
+    },
+    "posts": {
+        "en8uj8a": {
+            "comment": "Well i just assumed id owe him, I was the one who downloaded it",
+            "timeStamp": "2019/05/12-12:37:14",
+            "id": "en8uj8a",
+            "is_submitter": true,
+            "link_id": "t3_bnsv5l",
+            "parent_id": "t1_en8ugm7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TrhlaSlecna"
+        },
+        "en8ugm7": {
+            "comment": "&gt; do I owe my friend 500eu\n\n?\n\n&amp;#x200B;\n\nbut yeah, scan it to check. The site is clean (0/66 detected on VT) too.",
+            "timeStamp": "2019/05/12-12:36:34",
+            "id": "en8ugm7",
+            "is_submitter": false,
+            "link_id": "t3_bnsv5l",
+            "parent_id": "t1_en8u27r",
+            "score": 1,
+            "stickied": false,
+            "author_name": "NovateI"
+        },
+        "en8u27r": {
+            "comment": "Oh nah he didnt say anything about money, he just said, \"eh let's just forget about it\" and then we had a blast playing TF2 and could be false, since his PC didnt act up or do anything wrong....yet, but yeah asking him to scan it would be the best option",
+            "timeStamp": "2019/05/12-12:33:11",
+            "id": "en8u27r",
+            "is_submitter": true,
+            "link_id": "t3_bnsv5l",
+            "parent_id": "t1_en8trlz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TrhlaSlecna"
+        },
+        "en8ttl5": {
+            "comment": "And is it really a virus? The site looks so legit and windows even said Verified author: LogMeIn",
+            "timeStamp": "2019/05/12-12:31:04",
+            "id": "en8ttl5",
+            "is_submitter": true,
+            "link_id": "t3_bnsv5l",
+            "parent_id": "t1_en8tcob",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TrhlaSlecna"
+        },
+        "en8trlz": {
+            "comment": "Could be a false positive, that happens a fair bit. Tell him to scan the file and provide the results, or shut up about the money",
+            "timeStamp": "2019/05/12-12:30:36",
+            "id": "en8trlz",
+            "is_submitter": false,
+            "link_id": "t3_bnsv5l",
+            "parent_id": "t1_en8tmsm",
+            "score": 3,
+            "stickied": false,
+            "author_name": "NovateI"
+        },
+        "en8tmsm": {
+            "comment": "No idea, all he said was \"A little notification popped up and said Your PC has a virus\" I asked for more info but he just kept repeating that sentance",
+            "timeStamp": "2019/05/12-12:29:30",
+            "id": "en8tmsm",
+            "is_submitter": true,
+            "link_id": "t3_bnsv5l",
+            "parent_id": "t1_en8tcob",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TrhlaSlecna"
+        },
+        "en8td5l": {
+            "comment": "It's probably safe to assume that you will be solely held responsible for all the damages, I'd lawyer up",
+            "timeStamp": "2019/05/12-12:27:14",
+            "id": "en8td5l",
+            "is_submitter": false,
+            "link_id": "t3_bnsv5l",
+            "parent_id": "t1_en8steg",
+            "score": -3,
+            "stickied": false,
+            "author_name": "BigSmootchie"
+        },
+        "en8tcob": {
+            "comment": "One: you don\u2019t owe him anything, that\u2019s stupid.\n\nTwo: more info? What type of malware, which malware specifically. Unless it\u2019s something like ransomware, I seriously don\u2019t see how he can justify asking for any money at all. Scan the download file and check the results. If the results are clean, it didn\u2019t come from that site and you didn\u2019t even have anything to do with it.",
+            "timeStamp": "2019/05/12-12:27:06",
+            "id": "en8tcob",
+            "is_submitter": false,
+            "link_id": "t3_bnsv5l",
+            "parent_id": "t3_bnsv5l",
+            "score": 2,
+            "stickied": false,
+            "author_name": "NovateI"
+        },
+        "en8steg": {
+            "comment": "Oh shit... More info please?",
+            "timeStamp": "2019/05/12-12:22:24",
+            "id": "en8steg",
+            "is_submitter": true,
+            "link_id": "t3_bnsv5l",
+            "parent_id": "t1_en8sqqs",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TrhlaSlecna"
+        },
+        "en8sqqs": {
+            "comment": "Sounds like you probably owe him money for damages.",
+            "timeStamp": "2019/05/12-12:21:45",
+            "id": "en8sqqs",
+            "is_submitter": false,
+            "link_id": "t3_bnsv5l",
+            "parent_id": "t3_bnsv5l",
+            "score": -7,
+            "stickied": false,
+            "author_name": "scyth16"
+        }
+    }
+}

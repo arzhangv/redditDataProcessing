@@ -1,0 +1,132 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hi All,\n\nI have been assigned the task to create a rule in SIEM to hunt the Traffic which is DNS over Https. \n\nI have went through some of the document and came to know that hunting DNS over https traffic very difficult. Please let me know how to hunt such a kind of traffic.\n\nThank you",
+        "title": "Threat Hunting _ DNS over Https",
+        "score": 1,
+        "id": "i8iw87",
+        "commsNum": 10,
+        "timeStamp": "2020/08/12-11:13:27",
+        "author_name": "vyasarvenkat",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 10,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/i8iw87/threat_hunting_dns_over_https/"
+    },
+    "posts": {
+        "g1azua7": {
+            "comment": "[removed]",
+            "timeStamp": "2020/08/13-00:17:23",
+            "id": "g1azua7",
+            "is_submitter": false,
+            "link_id": "t3_i8iw87",
+            "parent_id": "t1_g19q9hz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "g1ay69w": {
+            "comment": "Dunno why you're being downvoted: what you describe is what I did.",
+            "timeStamp": "2020/08/12-23:52:20",
+            "id": "g1ay69w",
+            "is_submitter": false,
+            "link_id": "t3_i8iw87",
+            "parent_id": "t1_g18p69t",
+            "score": 1,
+            "stickied": false,
+            "author_name": "cowbutt6"
+        },
+        "g1a59x1": {
+            "comment": "I definitely prefer DoT over DoH. If all you need is encryption, use an encryption protocol. HTTPS provides far too much overhead than what is needed for UDP DNS traffic.",
+            "timeStamp": "2020/08/12-18:33:47",
+            "id": "g1a59x1",
+            "is_submitter": false,
+            "link_id": "t3_i8iw87",
+            "parent_id": "t1_g19q9hz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "WadeEffingWilson"
+        },
+        "g19q9hz": {
+            "comment": "DoT is better because it's not browser based imho.",
+            "timeStamp": "2020/08/12-16:23:09",
+            "id": "g19q9hz",
+            "is_submitter": false,
+            "link_id": "t3_i8iw87",
+            "parent_id": "t1_g19fhtz",
+            "score": 0,
+            "stickied": false,
+            "author_name": "eagle33322"
+        },
+        "g19i9je": {
+            "comment": " [https://www.sans.org/reading-room/whitepapers/dns/needle-haystack-detecting-dns-https-usage-39160](https://www.sans.org/reading-room/whitepapers/dns/needle-haystack-detecting-dns-https-usage-39160) \n\njust verify that that more IP address have been added.",
+            "timeStamp": "2020/08/12-15:16:11",
+            "id": "g19i9je",
+            "is_submitter": false,
+            "link_id": "t3_i8iw87",
+            "parent_id": "t3_i8iw87",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Kamwind"
+        },
+        "g19fhtz": {
+            "comment": "Something else to consider is DNS over TLS. You'll have the same hurdles but DoH isn't the only game in town securing DNS traffic.",
+            "timeStamp": "2020/08/12-14:53:46",
+            "id": "g19fhtz",
+            "is_submitter": false,
+            "link_id": "t3_i8iw87",
+            "parent_id": "t3_i8iw87",
+            "score": 1,
+            "stickied": false,
+            "author_name": "WadeEffingWilson"
+        },
+        "g19dnmt": {
+            "comment": "[removed]",
+            "timeStamp": "2020/08/12-14:38:53",
+            "id": "g19dnmt",
+            "is_submitter": false,
+            "link_id": "t3_i8iw87",
+            "parent_id": "t3_i8iw87",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "g194db4": {
+            "comment": "[removed]",
+            "timeStamp": "2020/08/12-13:26:46",
+            "id": "g194db4",
+            "is_submitter": false,
+            "link_id": "t3_i8iw87",
+            "parent_id": "t3_i8iw87",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "g18tpqq": {
+            "comment": "If you're decrypting HTTPS it's super easy as the requests all contain \"application-dns\". Yahoo websites for example makes DoH calls through cloudflare DNS as an ad tracker. If you're not intercepting it would be difficult to detect as you'd have to look for posts to DNS services.",
+            "timeStamp": "2020/08/12-12:04:34",
+            "id": "g18tpqq",
+            "is_submitter": false,
+            "link_id": "t3_i8iw87",
+            "parent_id": "t1_g18p69t",
+            "score": 1,
+            "stickied": false,
+            "author_name": "R-EDDIT"
+        },
+        "g18p69t": {
+            "comment": "Take a look at the [RFC for DoH](https://tools.ietf.org/html/rfc8484) to get an idea what the GET/POSTs should look like (not that a sophisticated actor would even follow the RFC).   \n\n\nAlso, here are a list of public recursive name servers you can look for HTTP/S traffic towards:  [https://en.wikipedia.org/wiki/Public\\_recursive\\_name\\_server](https://en.wikipedia.org/wiki/Public_recursive_name_server)   \n\n\nIf you're not decrypting ssl/tls traffic, it may be hard, but still some things you can look for.",
+            "timeStamp": "2020/08/12-11:31:34",
+            "id": "g18p69t",
+            "is_submitter": false,
+            "link_id": "t3_i8iw87",
+            "parent_id": "t3_i8iw87",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Lawlmuffin"
+        }
+    }
+}

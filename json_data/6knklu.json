@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hey I'm just wondering what some good tools are to use for malware research. All I really have are things like Sandboxie (not too useful) and API Monitor, but I doubt they provide exactly what all I need for proper analysis. I need things that'll show me where the stub connects to/etc. And any tutorials would be extremely helpful too. Thank you, and have a good day.",
+        "title": "Best tools for malware analysis/reverse engineering?",
+        "score": 50,
+        "id": "6knklu",
+        "commsNum": 21,
+        "timeStamp": "2017/07/01-08:27:31",
+        "author_name": "CewlJebus",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 21,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6knklu/best_tools_for_malware_analysisreverse_engineering/"
+    },
+    "posts": {
+        "djxkcml": {
+            "comment": "https://github.com/rshipp/awesome-malware-analysis has a lot of awesome resources.",
+            "timeStamp": "2017/07/07-19:38:35",
+            "id": "djxkcml",
+            "is_submitter": false,
+            "link_id": "t3_6knklu",
+            "parent_id": "t3_6knklu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DrinkMoreCodeMore"
+        }
+    }
+}

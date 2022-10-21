@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I have heard and read that when looking at the code for WannaCry the program was looking for a domain that didn't exist and that registering this domain killed the malware. I have read that the program was looking for the domain and if it didn't respond then it will carry on with the infection. \n\nIf the virus was looking for a false statement couldn't it just evaluate (1===0)?",
+        "title": "ELI5: Why did registering a domain shut down WannaCry?",
+        "score": 30,
+        "id": "6pgbmu",
+        "commsNum": 6,
+        "timeStamp": "2017/07/25-07:04:27",
+        "author_name": "grocha",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6pgbmu/eli5_why_did_registering_a_domain_shut_down/"
+    },
+    "posts": {
+        "dkpqwy1": {
+            "comment": "I've been out of the loop on wannacry and I'm blown away after reading this. This is so fascinating.",
+            "timeStamp": "2017/07/25-14:26:01",
+            "id": "dkpqwy1",
+            "is_submitter": false,
+            "link_id": "t3_6pgbmu",
+            "parent_id": "t1_dkp5qsi",
+            "score": 2,
+            "stickied": false,
+            "author_name": "ccviper"
+        },
+        "dkpft3o": {
+            "comment": "Thanks for the very thorough explanation.",
+            "timeStamp": "2017/07/25-11:15:29",
+            "id": "dkpft3o",
+            "is_submitter": true,
+            "link_id": "t3_6pgbmu",
+            "parent_id": "t3_6pgbmu",
+            "score": 2,
+            "stickied": false,
+            "author_name": "grocha"
+        },
+        "dkpfogt": {
+            "comment": "Wow thanks! I was thinking the same about a shut down switch from the developer. ",
+            "timeStamp": "2017/07/25-11:13:21",
+            "id": "dkpfogt",
+            "is_submitter": true,
+            "link_id": "t3_6pgbmu",
+            "parent_id": "t3_6pgbmu",
+            "score": 2,
+            "stickied": false,
+            "author_name": "grocha"
+        },
+        "dkp9lwf": {
+            "comment": "The malware code had a statement in it that said something like 'reach out to xyz domain and if you get a connection, kill the malware script. if the domain doesnt exist, keep spreading' \n\n",
+            "timeStamp": "2017/07/25-09:29:45",
+            "id": "dkp9lwf",
+            "is_submitter": false,
+            "link_id": "t3_6pgbmu",
+            "parent_id": "t3_6pgbmu",
+            "score": 2,
+            "stickied": false,
+            "author_name": "fr0ng"
+        },
+        "dkp5qsi": {
+            "comment": "Basically, once malware is found 'in the wild', security researchers will intentionally infect a virtual machine in a forensic sandbox. The sandbox will log everything possible regarding the internal changes to the machine and all network communcations. The sandbox can create false responses for ALL outgoing traffic, to make it seem as though it is on the internet, and to watch its behavior.\n\nSo if you're a malware creator, you would want to try to make your software detect that it is in a forensic sandbox, and not do anything so it's harder for researchers to find any way to stop infections. The creator(s) of wannacry made the malware query a non-existent domain (probably something like 349fjh390s6d94j7dh4.com) as a method of testing to see if the software is running in sandbox. If it gets a response, it assumes it has been sandboxed, and shuts itself down.\n\nNow the intelligent thing to do, would have been to generate a long random string and send a query to that domain, instead the author(s) just created a static string that never changed. \n\nOnce someone realized this, they registered the domain. Now EVERY wannacry infection in the world connected to the internet saw a response from what was supposed to be filler, and assumed they were in a forensic sandbox, and stopped working.\n\nHere's a [blog post](https://www.ncsc.gov.uk/blog-post/finding-kill-switch-stop-spread-ransomware-0) by the guy who figured it out and registered the domain.",
+            "timeStamp": "2017/07/25-08:22:46",
+            "id": "dkp5qsi",
+            "is_submitter": false,
+            "link_id": "t3_6pgbmu",
+            "parent_id": "t3_6pgbmu",
+            "score": 14,
+            "stickied": false,
+            "author_name": "Sovos"
+        },
+        "dkp2803": {
+            "comment": "It wasn't just looking for a false statement, it was looking for one that -could- be true. The best guess is that it was doing this as a form of sandbox detection. Some sandboxs are set up to respond to any outbound query, not always correctly, but in an attempt to make malware believe it's connected to the internet. In this instance, a query to a fake domain that received a response would indicate a sandbox environment. The malware doesn't want to run in this as it would allow anayisis. So basically, registering the domain tricked the malware into believing the entire internet was a sandbox.\n\nThere's also a theory that it was a kill switch that the attaker could activate, and a researcher found it first. Either way I feel like it was a sloppy method.",
+            "timeStamp": "2017/07/25-07:16:44",
+            "id": "dkp2803",
+            "is_submitter": false,
+            "link_id": "t3_6pgbmu",
+            "parent_id": "t3_6pgbmu",
+            "score": 36,
+            "stickied": false,
+            "author_name": "BeanBagKing"
+        }
+    }
+}

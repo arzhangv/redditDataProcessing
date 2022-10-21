@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "StringSifter is a machine learning tool that automatically ranks strings based on their relevance for malware analysis.",
+        "score": 40,
+        "id": "d1f0i2",
+        "commsNum": 2,
+        "timeStamp": "2019/09/08-11:45:48",
+        "author_name": "digicat",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://github.com/fireeye/stringsifter/"
+    },
+    "posts": {
+        "ezpja6b": {
+            "comment": "I think this does a good job at identifying garbage strings. Meh job at identifying valuable strings. In the examples I looked at, it ranked the words \"Company Name\" above the actual company name value hardcoded by the malware authors.",
+            "timeStamp": "2019/09/09-08:08:44",
+            "id": "ezpja6b",
+            "is_submitter": false,
+            "link_id": "t3_d1f0i2",
+            "parent_id": "t3_d1f0i2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "thehoodedidiot"
+        },
+        "ezowskl": {
+            "comment": "I wonder how this compares to the more traditional levenstein index.",
+            "timeStamp": "2019/09/09-04:43:11",
+            "id": "ezowskl",
+            "is_submitter": false,
+            "link_id": "t3_d1f0i2",
+            "parent_id": "t3_d1f0i2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "nindustries"
+        }
+    }
+}

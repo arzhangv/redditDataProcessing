@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Title really says it all; apologies if this is somewhat OT. I've heard of people using AWS instances for malware analysis via Cuckoo Sandbox or similar. Does anyone here use Azure for this? Experiences? Does Microsoft even let one do this?",
+        "title": "Anyone use Azure as a malware analysis sandbox (Cuckoo specifically)?",
+        "score": 13,
+        "id": "5wqj2i",
+        "commsNum": 17,
+        "timeStamp": "2017/02/28-13:34:30",
+        "author_name": "best_ghost",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 17,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5wqj2i/anyone_use_azure_as_a_malware_analysis_sandbox/"
+    },
+    "posts": {
+        "dklxz15": {
+            "comment": "[removed]",
+            "timeStamp": "2017/07/23-08:48:45",
+            "id": "dklxz15",
+            "is_submitter": false,
+            "link_id": "t3_5wqj2i",
+            "parent_id": "t3_5wqj2i",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

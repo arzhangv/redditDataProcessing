@@ -1,0 +1,121 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I noticed that majority of the articles I've found online regarding malware attacks or malware analysis were in Windows. Does it mean that Windows is always the primary target of malwares?",
+        "title": "Most of the articles's venue is Windows",
+        "score": 1,
+        "id": "rrgl5f",
+        "commsNum": 0,
+        "timeStamp": "2021/12/29-11:36:45",
+        "author_name": "Oxffff0000",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/rrgl5f/most_of_the_articless_venue_is_windows/"
+    },
+    "posts": {
+        "hqyycqr": {
+            "comment": "[some malicious virus (totally not a rickroll)](https://www.google.com.au/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;ved=2ahUKEwjmpPCG5ZP1AhXbSWwGHbQJA6gQwqsBegQIAhAB&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DyiGEo1vpvpM&amp;usg=AOvVaw1JRYpo87YHriN9t9UcEAE-)",
+            "timeStamp": "2022/01/02-11:25:03",
+            "id": "hqyycqr",
+            "is_submitter": false,
+            "link_id": "t3_rrgl5f",
+            "parent_id": "t3_rrgl5f",
+            "score": 1,
+            "stickied": false,
+            "author_name": "swirlsthemudkip"
+        },
+        "hqjf318": {
+            "comment": "Cool! Thanks a lot!",
+            "timeStamp": "2021/12/30-04:29:55",
+            "id": "hqjf318",
+            "is_submitter": true,
+            "link_id": "t3_rrgl5f",
+            "parent_id": "t1_hqhqcvm",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Oxffff0000"
+        },
+        "hqhqcvm": {
+            "comment": "Absolutely! But don\u2019t neglect learning Linux skills as well, much of the internet runs on Linux, and you\u2019ll want to have a baseline familiarity with it as well. Expect to see more attacks targeting Linux in the years to come as nation state and sophisticated actors target servers and cloud infrastructure more than consumers.",
+            "timeStamp": "2021/12/29-18:06:36",
+            "id": "hqhqcvm",
+            "is_submitter": false,
+            "link_id": "t3_rrgl5f",
+            "parent_id": "t1_hqgxp86",
+            "score": 1,
+            "stickied": false,
+            "author_name": "afschuld"
+        },
+        "hqhji70": {
+            "comment": "[removed]",
+            "timeStamp": "2021/12/29-17:15:55",
+            "id": "hqhji70",
+            "is_submitter": false,
+            "link_id": "t3_rrgl5f",
+            "parent_id": "t3_rrgl5f",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hqgxp86": {
+            "comment": "I see. That's true. I should then consider learning and doing RE in Windows. Thanks a lot!",
+            "timeStamp": "2021/12/29-14:42:11",
+            "id": "hqgxp86",
+            "is_submitter": true,
+            "link_id": "t3_rrgl5f",
+            "parent_id": "t1_hqgwb1u",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Oxffff0000"
+        },
+        "hqgxkay": {
+            "comment": "Got it. Thanks a lot!",
+            "timeStamp": "2021/12/29-14:41:16",
+            "id": "hqgxkay",
+            "is_submitter": true,
+            "link_id": "t3_rrgl5f",
+            "parent_id": "t1_hqgk21h",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Oxffff0000"
+        },
+        "hqgwb1u": {
+            "comment": "[https://en.wikipedia.org/wiki/Usage\\_share\\_of\\_operating\\_systems#Desktop\\_and\\_laptop\\_computers](https://en.wikipedia.org/wiki/Usage_share_of_operating_systems#Desktop_and_laptop_computers)\n\n&amp;#x200B;\n\nWhen 75% of desktop operating systems are Windows, it doesn't make a ton of sense to develop malware for other operating systems.",
+            "timeStamp": "2021/12/29-14:32:47",
+            "id": "hqgwb1u",
+            "is_submitter": false,
+            "link_id": "t3_rrgl5f",
+            "parent_id": "t3_rrgl5f",
+            "score": 1,
+            "stickied": false,
+            "author_name": "dv89"
+        },
+        "hqgk21h": {
+            "comment": "Yes, and and for Linux it's often default config IoT devices.",
+            "timeStamp": "2021/12/29-13:12:48",
+            "id": "hqgk21h",
+            "is_submitter": false,
+            "link_id": "t3_rrgl5f",
+            "parent_id": "t3_rrgl5f",
+            "score": 1,
+            "stickied": false,
+            "author_name": "safiire"
+        },
+        "hqgarxf": {
+            "comment": "[removed]",
+            "timeStamp": "2021/12/29-12:13:13",
+            "id": "hqgarxf",
+            "is_submitter": false,
+            "link_id": "t3_rrgl5f",
+            "parent_id": "t3_rrgl5f",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hey guys,\nMy computer seems to keep trying to connect to a proxy server, and even when I disable the proxy option, it turns itself on a couple minutes later, and causes my connection to lag incredibly.\nIt keeps trying to connect to this (http=127.0.0.1:55356;https=127.0.0.1:55356 &lt;-loopback&gt;)\nThis is very annoying, and if any of you know a fix to this problem, could you please let me know?\nThank you all.\n",
+        "title": "Something keeps turning on a Proxy setting... could it be a Malware?",
+        "score": 0,
+        "id": "2zexn7",
+        "commsNum": 5,
+        "timeStamp": "2015/03/17-17:28:59",
+        "author_name": "DrBlue33",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2zexn7/something_keeps_turning_on_a_proxy_setting_could/"
+    },
+    "posts": {}
+}

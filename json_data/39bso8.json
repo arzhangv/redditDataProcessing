@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I did a post a couple of minutes ago looking for malware samples. However, I noticed that I actually don't know what I am doing so could someone who has a bit of experience in AV give me some advice for doing an experiment for my Extended Essay? I want to compare how Signature detection performs and how Heuristic detection performs. (Simple research question)\nFYI I am very new to this sector of Computer Science\n\nTHX in advance",
+        "title": "Looking for someone who is experienced in AV to advise me for an experiment",
+        "score": 0,
+        "id": "39bso8",
+        "commsNum": 6,
+        "timeStamp": "2015/06/10-11:23:26",
+        "author_name": "Peter_Zwegat",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/39bso8/looking_for_someone_who_is_experienced_in_av_to/"
+    },
+    "posts": {}
+}

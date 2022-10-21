@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "So after a long time I finally decided to try out Witcher 3, since I already had a repack installer laying around from a friend (most likely originated from some torrent site). I started the installation in the morning around 10 AM and I was surprised that it was taking so long, even considering its big size. It took about 4 hours, and it showed the message DO NOT PANIC IF THIS LOOKS STUCK, later in the evening around 10 PM I decided to launch the executable from the desktop shortcut that was created. COMODO Firewall told me that witcher3.exe is trying to install a global hook into the system call table, a common malware/rootkit technique, I of course declined. Next I tried to launch it from the installation folder directory, and COMODO informed me that the exe is trying to access the memory of the \"explorer.exe\", I declined and tried to run it again a couple of times  to see if its going to ask for something else and it did. It wanted to modify the registry key for \"HKLM\\SYSTEM\\ControlSet001\\Services\\Tcpip\\Parameters\" I found all of this a little strange, what does it need tcp/ip for ? reverse shell or connection to CDred update server? Anyway I decided to google the repack author fitgirl and I came up with an interesting hit. \n- https://www.reddit.com/r/PiratedGTA/comments/348oyt/does_fitgirl_ultra_repack_work_and_does_it_have_a/ \nIts from a year ago and the repack is for GTA V but its from the same author, \"fitgirl\". It could explain the long installation time. I'm attaching a link to the log files of COMODO Firewall\n- https://www.dropbox.com/s/ejbgg121srojxgq/COMODOlog.zip?dl=0\nIf someone could confirm that its not regular pirated game installer and exe behavior or that I'm just being paranoid I would be really grateful. But as far as I know, CDred's policy is rather anti-DMR so the tcp/ip can't be explained with a DMR check either. Those temporary files that appeared during installation time also look suspicious to me. And one last thing, since I am a bit interested in reverse engineering and all, how would I go about figuring out what it was trying to do with my registry keys and perhaps where it was trying to connect to ?  I heard that tools such as IDA is good for static analysis an Olly for dynamic analysis, but would they be useful in this case ? Thanks a lot, and btw its my first time posting on reddit ;) ",
+        "title": "[Witcher 3, FitGirl Ultra Repack] Strange game installer and exe behavior",
+        "score": 6,
+        "id": "4h5uoh",
+        "commsNum": 4,
+        "timeStamp": "2016/04/30-12:36:16",
+        "author_name": "Ni6iru",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/4h5uoh/witcher_3_fitgirl_ultra_repack_strange_game/"
+    },
+    "posts": {}
+}

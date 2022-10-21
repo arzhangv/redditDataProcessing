@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Would it be possible to determine that a rootkit is present by hashing a process' memory image and comparing that to a hash of the executable file?  Are there any tools that use this form of detection?\n\nI know that VICE uses integrity checking to find rootkits, but as far as I'm aware it only checks the integrity of specific kernel tables (SSDT, IAT, etc) and not the entire kernel image.  Is there anything preventing rootkit scanners from employing this method, if they don't already?",
+        "title": "Rootkit Integrity Checking",
+        "score": 7,
+        "id": "4j3cc5",
+        "commsNum": 4,
+        "timeStamp": "2016/05/12-15:48:32",
+        "author_name": "pa1nkill3r",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/4j3cc5/rootkit_integrity_checking/"
+    },
+    "posts": {}
+}

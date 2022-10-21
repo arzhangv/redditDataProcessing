@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hello all,\nI've got a Cuckoo sandbox set up on Ubuntu Gnome 17, running a Windows 7 x64 vm in Virtualbox. As far as I can tell, the Cuckoo install is fine - the webserver runs as expected, the service fires up the vm from snapshot, and the file to be analyzed loads with no errors.\n\n\nHere's what I'm seeing though - the malware (which I know is malware) is running, it drops like 15 files on the desktop, and then the vm closes telling me analysis is complete. However, these files do not appear in Cuckoo under 'dropped files.' Moreover, the cuckoo service seems to be returning very little information. I'm not quite sure what to expect, as this is my first real experience with Cuckoo specifically, but I have done some static malware analysis in the past and am missing information from Cuckoo I thought would be available (it's pulling down strings but no resource data etc...?).\n\n\nAnyone seen this before? I think it's just a configuration issue but not sure",
+        "title": "Cuckoo help? Dropped files don't show up in analysis",
+        "score": 13,
+        "id": "6sfwmc",
+        "commsNum": 3,
+        "timeStamp": "2017/08/08-12:31:46",
+        "author_name": "Monster-Zero",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6sfwmc/cuckoo_help_dropped_files_dont_show_up_in_analysis/"
+    },
+    "posts": {
+        "dlgy5u6": {
+            "comment": "In addition, if the analysis results are too large.. cuckoo will not upload them. You may have to bump out your max upload size in the configuration. I've had to do it for some of the crapware droppers, that just drop 6 unwanted programs and an emoji toolbar... ",
+            "timeStamp": "2017/08/11-05:03:34",
+            "id": "dlgy5u6",
+            "is_submitter": false,
+            "link_id": "t3_6sfwmc",
+            "parent_id": "t1_dld1fd3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "acalarch"
+        },
+        "dldkvot": {
+            "comment": "There are some files dropped on desktop by cuckoo itself (mostly office files) to have a baseline for ransomware behavior checks and are harmless. In case any application modifies those files during analysis, cuckoo will know and flag that application as ransomware.\n\n\nRegarding the lack of other info, please note that there are samples who check if they're run inside a vm, if there is a cuckoo environment, debuggers, injections, etc, etc, so you might want to look for such indicators, too. Samples that have those checks will terminate execution if analysis environment is found, so cuckoo will report very few behavior steps.\n\n\nBasically, you might want to run various setup/installs for legitimate applications(eg firefox, filezilla, chrome) and see if report is correct regarding dropped files, static and dynamic analysis, etc.\n\n",
+            "timeStamp": "2017/08/09-06:16:45",
+            "id": "dldkvot",
+            "is_submitter": false,
+            "link_id": "t3_6sfwmc",
+            "parent_id": "t3_6sfwmc",
+            "score": 2,
+            "stickied": false,
+            "author_name": "pardaillans"
+        },
+        "dlddf2f": {
+            "comment": "Sounds like your VM can't post results to the Cuckoo host. Fire up the VM and confirm you can ping the Cuckoo IP and telnet to the result server port. Also check the result server IP in your configs is correct - should be the IP of where Cuckoo is running. Check firewalls. Check VM definitions...",
+            "timeStamp": "2017/08/09-01:59:11",
+            "id": "dlddf2f",
+            "is_submitter": false,
+            "link_id": "t3_6sfwmc",
+            "parent_id": "t3_6sfwmc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "thunk1st"
+        },
+        "dld1fd3": {
+            "comment": "I suspect cuckoo decided the analysis was taking too long, and killed the VM. In this case, you lost most of the result data.\n\nIncrease your timeouts under [timeouts], namely the \"critical\" one.",
+            "timeStamp": "2017/08/08-19:50:12",
+            "id": "dld1fd3",
+            "is_submitter": false,
+            "link_id": "t3_6sfwmc",
+            "parent_id": "t3_6sfwmc",
+            "score": 2,
+            "stickied": false,
+            "author_name": "xabean"
+        }
+    }
+}

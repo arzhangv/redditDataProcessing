@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "The Joker Trojan plays the Google PlayStore",
+        "score": 3,
+        "id": "gwofac",
+        "commsNum": 0,
+        "timeStamp": "2020/06/04-12:34:26",
+        "author_name": "Wthomas97",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://blog.bushidotoken.net/2020/06/the-joker-trojan-plays-google-playstore.html"
+    },
+    "posts": {}
+}

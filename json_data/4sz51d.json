@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Meet Delilah - the first Insider Threat Trojan",
+        "score": 10,
+        "id": "4sz51d",
+        "commsNum": 2,
+        "timeStamp": "2016/07/15-06:44:20",
+        "author_name": "NetSecLurk",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://blogs.gartner.com/avivah-litan/2016/07/14/meet-delilah-the-first-insider-threat-trojan/"
+    },
+    "posts": {}
+}

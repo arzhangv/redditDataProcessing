@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "So I encountered this virus where a USB flash drive shows that it's empty but the storage properties clearly show it has some files in it. If I open the flash drive using some other file explorer like WinRAR or open the USB flash drive directory using Chrome I can see the folder with name \" \" (one space character). How is this possible? When I tried to name a folder \" \" I couldn't do it.",
+        "title": "How does the Hidden Folder Virus on USB Flash Drives work?",
+        "score": 20,
+        "id": "5jl2wu",
+        "commsNum": 6,
+        "timeStamp": "2016/12/21-09:15:30",
+        "author_name": "drunk-vader",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5jl2wu/how_does_the_hidden_folder_virus_on_usb_flash/"
+    },
+    "posts": {}
+}

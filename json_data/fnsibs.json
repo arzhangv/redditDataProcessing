@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I would like to find some viruses that are made in C that i can directly see there source code so i can analyze it and under stand how they work, Thanks in advanced!",
+        "title": "Finding viruses soruce codes in c",
+        "score": 1,
+        "id": "fnsibs",
+        "commsNum": 1,
+        "timeStamp": "2020/03/23-14:35:46",
+        "author_name": "dylzezXD",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/fnsibs/finding_viruses_soruce_codes_in_c/"
+    },
+    "posts": {
+        "flb9gps": {
+            "comment": "If you cant find any of the source (let's be real you probably wont find alot of malware/virus source code lying around) put the samples you want to analyze into ghidra, it comes with a C decompiler. Ida pro also has a decompiler called hex ray but it's super expensive, ghidra is free.",
+            "timeStamp": "2020/03/23-14:48:08",
+            "id": "flb9gps",
+            "is_submitter": false,
+            "link_id": "t3_fnsibs",
+            "parent_id": "t3_fnsibs",
+            "score": 1,
+            "stickied": false,
+            "author_name": "concmap"
+        }
+    }
+}

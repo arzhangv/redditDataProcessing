@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "(Please let me know if I am not suppose to post this kind of requests here. Thanks!)  \n\n\nMay I ask if anyone here has access to this sample via VirusTotal private API or some other private archives?  \nSHA256: `6112e0aa2a53b6091b3d7834b60da6cd2b3c7bf19904e05765518460ac513bfa`  \n[VirusTotal Link](https://www.virustotal.com/gui/file/6112e0aa2a53b6091b3d7834b60da6cd2b3c7bf19904e05765518460ac513bfa/)  \n\n\nThank you!!",
+        "title": "[Sample Request] Trojanized dnSpy package",
+        "score": 1,
+        "id": "wsq22d",
+        "commsNum": 0,
+        "timeStamp": "2022/08/19-14:52:52",
+        "author_name": "Atheropids",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/wsq22d/sample_request_trojanized_dnspy_package/"
+    },
+    "posts": {
+        "il01ytg": {
+            "comment": "I just dm'ed you. Thank you very much for the help!",
+            "timeStamp": "2022/08/19-16:29:58",
+            "id": "il01ytg",
+            "is_submitter": true,
+            "link_id": "t3_wsq22d",
+            "parent_id": "t1_il00gin",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Atheropids"
+        },
+        "il00vg9": {
+            "comment": "Oh I meant when I'm in your shoes and people ask me for samples. I use my mega account just for sharing that type of stuff, so when asked and given a sha256 that is available as a report on Hybrid-Analysis (in this case it is not), I will download the sample using my access, then upload the archive to mega and share the link with the person who requested it. Any file sharing service would work the same way e.g. Dropbox",
+            "timeStamp": "2022/08/19-16:21:49",
+            "id": "il00vg9",
+            "is_submitter": false,
+            "link_id": "t3_wsq22d",
+            "parent_id": "t1_il00gin",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Nugsly"
+        },
+        "il00gin": {
+            "comment": "Dm me a link. I have the file. Password is \u201cinfected\u201d",
+            "timeStamp": "2022/08/19-16:18:49",
+            "id": "il00gin",
+            "is_submitter": false,
+            "link_id": "t3_wsq22d",
+            "parent_id": "t1_il00b9z",
+            "score": 1,
+            "stickied": false,
+            "author_name": "__heytchap"
+        },
+        "il00b9z": {
+            "comment": "I usually use Mega and create a link when I share on here and send it via DM. I don't have VT anymore but I can still download from Hybrid-Analysis and get pinged for samples from time to time.",
+            "timeStamp": "2022/08/19-16:17:44",
+            "id": "il00b9z",
+            "is_submitter": false,
+            "link_id": "t3_wsq22d",
+            "parent_id": "t1_ikzut81",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Nugsly"
+        },
+        "ikzut81": {
+            "comment": "I have a VT account  and can pull it, but how would you like me to share it with you?",
+            "timeStamp": "2022/08/19-15:37:28",
+            "id": "ikzut81",
+            "is_submitter": false,
+            "link_id": "t3_wsq22d",
+            "parent_id": "t3_wsq22d",
+            "score": 1,
+            "stickied": false,
+            "author_name": "__heytchap"
+        }
+    }
+}

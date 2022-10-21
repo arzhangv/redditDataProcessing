@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "BONOMEN - Hunt for Malware Critical Process Impersonation",
+        "score": 3,
+        "id": "5qsvxy",
+        "commsNum": 0,
+        "timeStamp": "2017/01/29-00:26:27",
+        "author_name": "ner0x652",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://github.com/ner0x652/bonomen"
+    },
+    "posts": {}
+}

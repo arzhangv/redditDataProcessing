@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Microsoft Office vulnerability lets hackers use Word files to install malware",
+        "score": 1,
+        "id": "64vc21",
+        "commsNum": 0,
+        "timeStamp": "2017/04/11-18:56:49",
+        "author_name": "ucccft",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://thenextweb.com/security/2017/04/10/microsoft-office-word-malware/#.tnw_WL74Y719"
+    },
+    "posts": {}
+}

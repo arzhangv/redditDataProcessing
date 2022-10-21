@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "**Purpose:**\n\nTo stop CryptoLocker as quick as we can to minimize the damage.\n\n&amp;nbsp;\n\n**NOTE:**\n\nThis is NOT an Anti-Virus or CryptoLocker removal/decrypter tool. This is solely my way/method that I thought would best suit in catching the nasty virus from doing maximum damage to the files on the system. Feel free to contribute and good luck.\n\n&amp;nbsp;\n\n**Tools required:**\n\n* Everything from VoidTools\n\n* Everything Command-line Interface (es.exe) from VoidTools\n\n* PowerShell\n\n&amp;nbsp;\n\n**Process:**\n\n* Index all your Disk Drives with Everything (one-time setup)\n\n* Run this script:\n\n&amp;nbsp;\n\n*A 5 seconds repeat timer that runs es.exe (Everything Command-line Interface) to find any files ending with .encrypted, .locky, .xxx etc. and write the results to a text file (result.txt) - this will search the up to date Everything database of your file system every 5 seconds for the given file extensions and write the output to result.txt*\n\n&amp;nbsp;\n\n*If es.exe returns no results, the file size of result.txt is 0 bytes or just zero. BUT, if es.exe did find a file with the given file extensions, then the file size will obviously be great than 0 bytes.*\n\n&amp;nbsp;\n\n*The next step of your script is to check the file size of result.txt. If filesize is 0, do nothing - repeat the 5 seconds loop. BUT if file size is greater than 0, WE JUST FOUND CRYPTOLOCKER on our file system. KILL YOUR MACHINE STRAIGHT AWAY!!!*\n\n&amp;nbsp;\n\n**Summary:**\n\n* Index your file system using Everything from VoidTools\n\n* Start a X seconds of loop and run the command-line es.exe tool to search for any file with extension .encrypted, .locky etc. and save the result to result.txt file\n\n* Check if result.txt file size is greater than zero (you are infected) - shutdown the machine straight away - else, repeat the loop\n\n&amp;nbsp;\n\n**End Notes:**\n\nI have created the whole PoC on a PowerShell script with 100% results. I can share the script if anybody's interested.\n\n&amp;nbsp;\n\nHere is the PoC video https://www.youtube.com/watch?v=OcAUKkTGa3s I made few months ago. I am running a PowerShell script in the background for virus detection with the method mentioned above. (Let me know if you are interested in the script)\n\n&amp;nbsp;\n\nEDIT: Added Purpose, Note and PoC Youtube video link.",
+        "title": "I have a solution for CryptoLocker",
+        "score": 8,
+        "id": "4joeku",
+        "commsNum": 27,
+        "timeStamp": "2016/05/16-18:09:23",
+        "author_name": "techknowledge",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 27,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/4joeku/i_have_a_solution_for_cryptolocker/"
+    },
+    "posts": {}
+}

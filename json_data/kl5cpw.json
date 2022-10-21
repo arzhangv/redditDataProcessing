@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Beware! Hackers Using New Amazon Gift Card Scam to Infect Devices with Banking Malware",
+        "score": 1,
+        "id": "kl5cpw",
+        "commsNum": 2,
+        "timeStamp": "2020/12/27-07:23:14",
+        "author_name": "BhaswatiGuha19",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.ibtimes.sg/beware-hackers-using-new-amazon-gift-card-scam-infect-devices-banking-malware-54473"
+    },
+    "posts": {
+        "gh79ce3": {
+            "comment": "Breaking news, attackers use timely themes for malspam campaigns, welcome to 2004...  I get wanting to inform the population about the themes so they can be more vigilant but I don\u2019t think this belongs here",
+            "timeStamp": "2020/12/27-09:35:15",
+            "id": "gh79ce3",
+            "is_submitter": false,
+            "link_id": "t3_kl5cpw",
+            "parent_id": "t3_kl5cpw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sysopfb"
+        },
+        "gh72syk": {
+            "comment": "[removed]",
+            "timeStamp": "2020/12/27-08:35:24",
+            "id": "gh72syk",
+            "is_submitter": false,
+            "link_id": "t3_kl5cpw",
+            "parent_id": "t3_kl5cpw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

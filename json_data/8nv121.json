@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Crooks expand the original Mirai code base with new capabilities and improvements",
+        "score": 1,
+        "id": "8nv121",
+        "commsNum": 0,
+        "timeStamp": "2018/06/01-13:07:32",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://securityaffairs.co/wordpress/73114/malware/mirai-evolution.html"
+    },
+    "posts": {}
+}

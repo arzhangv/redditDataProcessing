@@ -1,0 +1,165 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Who\u2019s Behind the GandCrab Ransomware",
+        "score": 27,
+        "id": "carqzv",
+        "commsNum": 13,
+        "timeStamp": "2019/07/08-15:09:32",
+        "author_name": "DrinkMoreCodeMore",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 13,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://krebsonsecurity.com/2019/07/whos-behind-the-gandcrab-ransomware?"
+    },
+    "posts": {
+        "etcxj82": {
+            "comment": "he doxxed @notdan and @gexcolo due to a disagreement over Spamhaus.\n\nalso that forehead is laughably large",
+            "timeStamp": "2019/07/09-10:51:52",
+            "id": "etcxj82",
+            "is_submitter": false,
+            "link_id": "t3_carqzv",
+            "parent_id": "t1_etcpl5l",
+            "score": 1,
+            "stickied": false,
+            "author_name": "steamport"
+        },
+        "etcv23y": {
+            "comment": "2019 and he still doesn't have a mobile formatted site",
+            "timeStamp": "2019/07/09-10:27:19",
+            "id": "etcv23y",
+            "is_submitter": false,
+            "link_id": "t3_carqzv",
+            "parent_id": "t1_etcpl5l",
+            "score": 1,
+            "stickied": false,
+            "author_name": "OpenLibram"
+        },
+        "etctvws": {
+            "comment": "Well get on it then. Less talk more work XD",
+            "timeStamp": "2019/07/09-10:15:42",
+            "id": "etctvws",
+            "is_submitter": false,
+            "link_id": "t3_carqzv",
+            "parent_id": "t1_etcl9x0",
+            "score": 2,
+            "stickied": false,
+            "author_name": "NfxfFghcvqDhrfgvbaf"
+        },
+        "etcpl5l": {
+            "comment": "&gt;What's so bad about Krebs?",
+            "timeStamp": "2019/07/09-09:32:56",
+            "id": "etcpl5l",
+            "is_submitter": false,
+            "link_id": "t3_carqzv",
+            "parent_id": "t1_etat84u",
+            "score": 2,
+            "stickied": false,
+            "author_name": "ruairib"
+        },
+        "etcl9x0": {
+            "comment": "There is too much ransomware from russia that primarily targets NATO countries, and excludes CIS countries. \n\nThere needs to be more ransomware from the US that exclusively targets non-nato countries like Russia to level the playing field.",
+            "timeStamp": "2019/07/09-08:48:31",
+            "id": "etcl9x0",
+            "is_submitter": false,
+            "link_id": "t3_carqzv",
+            "parent_id": "t3_carqzv",
+            "score": 4,
+            "stickied": false,
+            "author_name": "PhisherPrice"
+        },
+        "etbhnru": {
+            "comment": "He's pretty well respected but did some naughty things recently",
+            "timeStamp": "2019/07/08-21:39:57",
+            "id": "etbhnru",
+            "is_submitter": true,
+            "link_id": "t3_carqzv",
+            "parent_id": "t1_etbhjrk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DrinkMoreCodeMore"
+        },
+        "etbhjrk": {
+            "comment": "Thanks! Saw him speak about a month ago and was curious about his reputation in the cyber community.",
+            "timeStamp": "2019/07/08-21:38:15",
+            "id": "etbhjrk",
+            "is_submitter": false,
+            "link_id": "t3_carqzv",
+            "parent_id": "t1_etb7d9f",
+            "score": 2,
+            "stickied": false,
+            "author_name": "trans1st"
+        },
+        "etb7d9f": {
+            "comment": "These two articles should bring you up to speed\n\n- https://www.itwire.com/security/86867-infosec-researchers-slam-ex-wapo-man-krebs-over-doxxing.html\n- https://hacked.wtf/2019/04/26/dear-brian-krebs-no-more-doxxing-as-a-result-of-a-disagreement-please/",
+            "timeStamp": "2019/07/08-19:21:50",
+            "id": "etb7d9f",
+            "is_submitter": true,
+            "link_id": "t3_carqzv",
+            "parent_id": "t1_etb66i4",
+            "score": 3,
+            "stickied": false,
+            "author_name": "DrinkMoreCodeMore"
+        },
+        "etb66i4": {
+            "comment": "Not familiar with this scandal - Can you share more details?",
+            "timeStamp": "2019/07/08-19:07:07",
+            "id": "etb66i4",
+            "is_submitter": false,
+            "link_id": "t3_carqzv",
+            "parent_id": "t1_etatbgs",
+            "score": 3,
+            "stickied": false,
+            "author_name": "trans1st"
+        },
+        "etb1llk": {
+            "comment": "also the eiffel toward sized forehead",
+            "timeStamp": "2019/07/08-18:11:33",
+            "id": "etb1llk",
+            "is_submitter": false,
+            "link_id": "t3_carqzv",
+            "parent_id": "t1_etawk6g",
+            "score": 3,
+            "stickied": false,
+            "author_name": "steamport"
+        },
+        "etawk6g": {
+            "comment": "yep.",
+            "timeStamp": "2019/07/08-17:10:41",
+            "id": "etawk6g",
+            "is_submitter": false,
+            "link_id": "t3_carqzv",
+            "parent_id": "t1_etatbgs",
+            "score": 1,
+            "stickied": false,
+            "author_name": "steamport"
+        },
+        "etatbgs": {
+            "comment": "Bc the doxxing scandal or ?",
+            "timeStamp": "2019/07/08-16:30:31",
+            "id": "etatbgs",
+            "is_submitter": true,
+            "link_id": "t3_carqzv",
+            "parent_id": "t1_etat84u",
+            "score": 2,
+            "stickied": false,
+            "author_name": "DrinkMoreCodeMore"
+        },
+        "etat84u": {
+            "comment": "Downvoted because Krebs.",
+            "timeStamp": "2019/07/08-16:29:24",
+            "id": "etat84u",
+            "is_submitter": false,
+            "link_id": "t3_carqzv",
+            "parent_id": "t3_carqzv",
+            "score": -8,
+            "stickied": false,
+            "author_name": "steamport"
+        }
+    }
+}

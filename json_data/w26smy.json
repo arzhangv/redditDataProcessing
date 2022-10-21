@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "A Deep Dive Into ALPHV/BlackCat Ransomware",
+        "score": 1,
+        "id": "w26smy",
+        "commsNum": 0,
+        "timeStamp": "2022/07/18-11:42:05",
+        "author_name": "CyberMasterV",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://securityscorecard.com/research/deep-dive-into-alphv-blackcat-ransomware"
+    },
+    "posts": {}
+}

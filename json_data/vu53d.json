@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I have a few questions for malware harvesters.\nWhat are the sources that you use to get malware samples?\n(I am already using the websites.)\nDoes anyone use honeypot to collect malware? If you do, which honeypot do you recommend?\n\nI haven't had much luck with honeypot yet..",
+        "title": "Malware Harvesters",
+        "score": 16,
+        "id": "vu53d",
+        "commsNum": 12,
+        "timeStamp": "2012/06/30-03:08:41",
+        "author_name": "suniljoseph",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 12,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": null,
+        "url": "http://www.reddit.com/r/Malware/comments/vu53d/malware_harvesters/"
+    },
+    "posts": {}
+}

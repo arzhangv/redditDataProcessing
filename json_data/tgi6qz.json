@@ -1,0 +1,154 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hello everyone .\n\nIm trying to find all the features that could be extracted from malware using pefile python module for example \n\nself.ImageVersion = self.pe.OPTIONAL\\_HEADER.MajorImageVersion\n\nI only know very few . I tried to search for specification or manual that could tell me all the features but with no luck. I read some papers that extracted around 200 ! bu they didnt name them , it would be easier for me if they have named them. \n\nthanks in advance",
+        "title": "Pefile python module features",
+        "score": 1,
+        "id": "tgi6qz",
+        "commsNum": 0,
+        "timeStamp": "2022/03/17-12:31:14",
+        "author_name": "rayudy",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/tgi6qz/pefile_python_module_features/"
+    },
+    "posts": {
+        "i15hwrl": {
+            "comment": "Unfortunately, the pefile documentation is atrocious, as you already figured out yourself. I recommend using LIEF instead, which has pretty thorough documentation of what attributes it can extract from a PE file:\n\nhttps://github.com/lief-project/LIEF\nhttps://lief-project.github.io/doc/latest/api/python/index.html",
+            "timeStamp": "2022/03/18-06:48:06",
+            "id": "i15hwrl",
+            "is_submitter": false,
+            "link_id": "t3_tgi6qz",
+            "parent_id": "t3_tgi6qz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "fwosar"
+        },
+        "i14vu3u": {
+            "comment": "This are the pages, https://imgur.com/a/NKkn9Qu.",
+            "timeStamp": "2022/03/18-03:11:33",
+            "id": "i14vu3u",
+            "is_submitter": false,
+            "link_id": "t3_tgi6qz",
+            "parent_id": "t1_i12bubx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Fleischwulf"
+        },
+        "i12gtaa": {
+            "comment": "Thank you very much , I appreciate your help!! \nYes please do whenever you find something \nThank you again !",
+            "timeStamp": "2022/03/17-13:52:46",
+            "id": "i12gtaa",
+            "is_submitter": true,
+            "link_id": "t3_tgi6qz",
+            "parent_id": "t1_i12cn62",
+            "score": 1,
+            "stickied": false,
+            "author_name": "rayudy"
+        },
+        "i12cn62": {
+            "comment": "Will dm you if I get few more link or any other information that might be useful for you.",
+            "timeStamp": "2022/03/17-13:26:11",
+            "id": "i12cn62",
+            "is_submitter": false,
+            "link_id": "t3_tgi6qz",
+            "parent_id": "t1_i12c59d",
+            "score": 1,
+            "stickied": false,
+            "author_name": "fiestameansparty"
+        },
+        "i12c59d": {
+            "comment": "Few links which I had along with the page number, just see if it would be use full to you. \n\n1. https://www.hexacorn.com/blog/2016/12/15/pe-section-names-re-visited/\n\n2. https://github.com/amauricio/sklearn-antimalware/blob/master/test.py\n\n3. https://www.sciencedirect.com/science/article/pii/S1319157817300149#fn3",
+            "timeStamp": "2022/03/17-13:23:01",
+            "id": "i12c59d",
+            "is_submitter": false,
+            "link_id": "t3_tgi6qz",
+            "parent_id": "t1_i12atd1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "fiestameansparty"
+        },
+        "i12bubx": {
+            "comment": "I have looked at my old notes . I think is no longer active but I have written it has: \n\nPractical Malware analysis \nPage No. 486",
+            "timeStamp": "2022/03/17-13:21:07",
+            "id": "i12bubx",
+            "is_submitter": false,
+            "link_id": "t3_tgi6qz",
+            "parent_id": "t1_i12atd1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "fiestameansparty"
+        },
+        "i12atd1": {
+            "comment": "Yes please ! thank very much that would be so much of help and would save me cause as you mentioned I really spent weeks to find and end up with my little feature set only . thank you again",
+            "timeStamp": "2022/03/17-13:14:40",
+            "id": "i12atd1",
+            "is_submitter": true,
+            "link_id": "t3_tgi6qz",
+            "parent_id": "t1_i129ffk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "rayudy"
+        },
+        "i12acik": {
+            "comment": "In that give me some time. I will try to find that book from my side or just any other information that might help you out. I will let you know.",
+            "timeStamp": "2022/03/17-13:11:44",
+            "id": "i12acik",
+            "is_submitter": false,
+            "link_id": "t3_tgi6qz",
+            "parent_id": "t1_i12a0w7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "fiestameansparty"
+        },
+        "i12a0w7": {
+            "comment": "that is literally what im looking for , Ive searched for books also but ive only found a book with only around 10 features which I already have on my list and those features are mentioned in some papers . However, 10 features aren't enough for what im working for im looking forward extracting around 200 features",
+            "timeStamp": "2022/03/17-13:09:39",
+            "id": "i12a0w7",
+            "is_submitter": true,
+            "link_id": "t3_tgi6qz",
+            "parent_id": "t1_i128zuj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "rayudy"
+        },
+        "i129ffk": {
+            "comment": "Just a head-up, it\u2019s actually really hard to find those any direct information about this topic for some reason. I actually had to do a lot of research in order to end up at that book. It was pretty use full but I do not remember the name. If I do I will definitely post it here.",
+            "timeStamp": "2022/03/17-13:05:55",
+            "id": "i129ffk",
+            "is_submitter": false,
+            "link_id": "t3_tgi6qz",
+            "parent_id": "t1_i128zuj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "fiestameansparty"
+        },
+        "i128zuj": {
+            "comment": "I had worked on something similar too and I have a found a book which has specifically which modules that are present in PE Files can be used to find whether they are malware or not. I am sorry but I do not remember the name of the book. But yeah look if you can find a book related to malware detection using pe files or machine learning using pe file.",
+            "timeStamp": "2022/03/17-13:03:09",
+            "id": "i128zuj",
+            "is_submitter": false,
+            "link_id": "t3_tgi6qz",
+            "parent_id": "t3_tgi6qz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "fiestameansparty"
+        },
+        "i1244wx": {
+            "comment": "More to add , I tried Microsoft naming of pefile structure but only few worked not even close to 20 features",
+            "timeStamp": "2022/03/17-12:32:40",
+            "id": "i1244wx",
+            "is_submitter": true,
+            "link_id": "t3_tgi6qz",
+            "parent_id": "t3_tgi6qz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "rayudy"
+        }
+    }
+}

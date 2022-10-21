@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Reverse engineering Dofoil/SmokeLoader",
+        "score": 23,
+        "id": "89ve7y",
+        "commsNum": 1,
+        "timeStamp": "2018/04/04-18:01:05",
+        "author_name": "ohjeongwook",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://cloudblogs.microsoft.com/microsoftsecure/2018/04/04/hunting-down-dofoil-with-windows-defender-atp/"
+    },
+    "posts": {
+        "dwtzqdz": {
+            "comment": "It's always good when Microsoft releases these kind of things. I've always wondered if there's a specific build they have for themselves to do this kind of stuff",
+            "timeStamp": "2018/04/04-19:56:21",
+            "id": "dwtzqdz",
+            "is_submitter": false,
+            "link_id": "t3_89ve7y",
+            "parent_id": "t3_89ve7y",
+            "score": 3,
+            "stickied": false,
+            "author_name": "hamsterpotpies"
+        }
+    }
+}

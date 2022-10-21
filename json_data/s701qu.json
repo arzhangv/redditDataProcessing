@@ -1,0 +1,132 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": " \n\nOkay, i am not sure if this is the right place to ask this but i feel like this is the right place.\n\nI downloaded a game from 1337.to ( The Binding of Isaac Repentance v1.7.7a)(IGGGAMESCOM)\n\nIt  comes in a .rar file and the game is just needed to be unpacked, when i  do so Windows Defender immediately pops up and quarantines the file  (steam\\_api.dll) for a Trojan detection (Casur.A!cl)\n\nI  checked with Malwarebytes and it came out with nothing, i even checked  on VirusTotal but the the test came out with half half results.\n\nThe  last thing i need to mention is that on the page of the torrent a dude  also had the same thing but later said it's a false positive and the  publisher came in and said that it can happen sometimes that the code  seems like a malware code.\n\nI wanted to ask the people here their thoughts on this. Is it a threat?\n\nhttps://preview.redd.it/wlrdaa1ksgc81.png?width=1557&amp;format=png&amp;auto=webp&amp;s=ed615dcfc28e0f99d39d84bbad89044d0a457057",
+        "title": "Trojan Detected",
+        "score": 1,
+        "id": "s701qu",
+        "commsNum": 0,
+        "timeStamp": "2022/01/18-07:26:45",
+        "author_name": "KinPaladin",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/s701qu/trojan_detected/"
+    },
+    "posts": {
+        "ht7o6y8": {
+            "comment": "Pirated software comes with infections! Who knew!  \n\n\nSarcasm aside, this happens regularly when you download pirated software from torrents.",
+            "timeStamp": "2022/01/18-11:01:45",
+            "id": "ht7o6y8",
+            "is_submitter": false,
+            "link_id": "t3_s701qu",
+            "parent_id": "t3_s701qu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "SecAdept"
+        },
+        "ht71pyc": {
+            "comment": "That's why I said 50/50. You have no way of knowing. Pretty sure legit cracks and keygens are submitted to AVs for flagging as counter-piracy measure. That doesn't mean that all of them have malware. And yet it would be the best place to do so.",
+            "timeStamp": "2022/01/18-08:44:09",
+            "id": "ht71pyc",
+            "is_submitter": false,
+            "link_id": "t3_s701qu",
+            "parent_id": "t1_ht70zmq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "talian8"
+        },
+        "ht71dr7": {
+            "comment": "I came here looking for gold but found diamonds, thank you for the knowledge, made my day &lt;3",
+            "timeStamp": "2022/01/18-08:42:04",
+            "id": "ht71dr7",
+            "is_submitter": true,
+            "link_id": "t3_s701qu",
+            "parent_id": "t1_ht70zmq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "KinPaladin"
+        },
+        "ht70zmq": {
+            "comment": "edit: without steam* yeah basically that DLL handles the steam interaction so all crackers do is modify that DLL to allow for steamless running. But it's also that file that they often put harmful content in.",
+            "timeStamp": "2022/01/18-08:39:34",
+            "id": "ht70zmq",
+            "is_submitter": false,
+            "link_id": "t3_s701qu",
+            "parent_id": "t1_ht6zrgg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "micropeenandproud"
+        },
+        "ht6zrgg": {
+            "comment": "wow, thank you, i didn't think about that.",
+            "timeStamp": "2022/01/18-08:31:50",
+            "id": "ht6zrgg",
+            "is_submitter": true,
+            "link_id": "t3_s701qu",
+            "parent_id": "t1_ht6wi5u",
+            "score": 1,
+            "stickied": false,
+            "author_name": "KinPaladin"
+        },
+        "ht6wi5u": {
+            "comment": "Could be that the steam_api.dll is cracked to allow the game to run with steam. But could also be trojanised to contain malware..in most cases it's both.",
+            "timeStamp": "2022/01/18-08:11:19",
+            "id": "ht6wi5u",
+            "is_submitter": false,
+            "link_id": "t3_s701qu",
+            "parent_id": "t1_ht6syaf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "micropeenandproud"
+        },
+        "ht6uwze": {
+            "comment": "Thanks for the advice, but i don't want to go through all of the processes, it's just a game, i can find it somewhere else too, but thank you anyways.",
+            "timeStamp": "2022/01/18-08:01:01",
+            "id": "ht6uwze",
+            "is_submitter": true,
+            "link_id": "t3_s701qu",
+            "parent_id": "t1_ht6t8m2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "KinPaladin"
+        },
+        "ht6t8m2": {
+            "comment": "I would say if VT said 2 sensors flagged it. Maybe not a threat. But that's a pretty high score across various vendors. Also, look into maybe unpacking in a VM isolated on a different network. This will help you see what's going on and monitor for malicious activity without harming your computer. They any.run to sandbox if you want",
+            "timeStamp": "2022/01/18-07:50:25",
+            "id": "ht6t8m2",
+            "is_submitter": false,
+            "link_id": "t3_s701qu",
+            "parent_id": "t3_s701qu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "vrav97"
+        },
+        "ht6syaf": {
+            "comment": "Thanks for the opinion &lt;3",
+            "timeStamp": "2022/01/18-07:48:36",
+            "id": "ht6syaf",
+            "is_submitter": true,
+            "link_id": "t3_s701qu",
+            "parent_id": "t1_ht6s4og",
+            "score": 1,
+            "stickied": false,
+            "author_name": "KinPaladin"
+        },
+        "ht6s4og": {
+            "comment": "50/50 might get aids, might have some free fun.",
+            "timeStamp": "2022/01/18-07:43:17",
+            "id": "ht6s4og",
+            "is_submitter": false,
+            "link_id": "t3_s701qu",
+            "parent_id": "t3_s701qu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "talian8"
+        }
+    }
+}

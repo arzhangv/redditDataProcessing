@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Please refrain from posting things like, \u201cI contract virus please help\u201d in this sub. Go to r/TechSupport for that.",
+        "title": "This is not a tech support sub.",
+        "score": 1,
+        "id": "fijt1a",
+        "commsNum": 1,
+        "timeStamp": "2020/03/14-08:11:29",
+        "author_name": "evictedtomato",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/fijt1a/this_is_not_a_tech_support_sub/"
+    },
+    "posts": {
+        "fkhrbnp": {
+            "comment": "Ok then!",
+            "timeStamp": "2020/03/14-09:48:41",
+            "id": "fkhrbnp",
+            "is_submitter": false,
+            "link_id": "t3_fijt1a",
+            "parent_id": "t3_fijt1a",
+            "score": 1,
+            "stickied": false,
+            "author_name": "zolti42"
+        }
+    }
+}

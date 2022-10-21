@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Dissecting the last version of Conti Ransomware using a step-by-step approach",
+        "score": 1,
+        "id": "usnmye",
+        "commsNum": 0,
+        "timeStamp": "2022/05/18-14:44:46",
+        "author_name": "CyberMasterV",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://cybergeeks.tech/dissecting-the-last-version-of-conti-ransomware-using-a-step-by-step-approach/"
+    },
+    "posts": {
+        "i98ntb0": {
+            "comment": "You're right, I didn't have enough karma to share it at that time. Because now the code is publicly available, you can compare it with the actual analysis to see if they match :P. I still think it's relevant and it was featured in different articles/research.",
+            "timeStamp": "2022/05/19-12:31:05",
+            "id": "i98ntb0",
+            "is_submitter": true,
+            "link_id": "t3_usnmye",
+            "parent_id": "t1_i988uc0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "CyberMasterV"
+        },
+        "i988uc0": {
+            "comment": "\"Last version\"?\n\nThis post is 10 months old.\n\nWhile it has a good technical breakdown, it was written before the source code leak. So it's pretty moot.",
+            "timeStamp": "2022/05/19-10:49:16",
+            "id": "i988uc0",
+            "is_submitter": false,
+            "link_id": "t3_usnmye",
+            "parent_id": "t3_usnmye",
+            "score": 1,
+            "stickied": false,
+            "author_name": "LightningRurik"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Team TNT \u2013 The First Crypto-Mining Worm to Steal AWS Credentials",
+        "score": 1,
+        "id": "ibfd83",
+        "commsNum": 0,
+        "timeStamp": "2020/08/17-07:40:47",
+        "author_name": "zenomeno",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.cadosecurity.com/2020/08/17/teamtnt-the-first-crypto-mining-worm-to-steal-aws-credentials/"
+    },
+    "posts": {}
+}

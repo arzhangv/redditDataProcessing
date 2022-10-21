@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi everyone,\n\nMy site is infected with malware, https://stats[.]startreceive[.]tk/script[.]js?pr=1\n\nI have some idea of making website changes but this seems a little out of my skillset to remove. Should I try to remove this on my own with a guide or tool, or should I pay someone to remove it? How hard is removing something like this and what potential issues can I cause?\n\nHere is the site: https://www.enhancequality.com/",
+        "title": "Malware on site. Best course of action to remove this?",
+        "score": 1,
+        "id": "8fvzwq",
+        "commsNum": 2,
+        "timeStamp": "2018/04/29-18:36:02",
+        "author_name": "miaodao",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8fvzwq/malware_on_site_best_course_of_action_to_remove/"
+    },
+    "posts": {
+        "dy6yyqb": {
+            "comment": "Since it looks like you're running a wordpress site there's a good chance it was infected via an out of date version or plugin.  You should update all of your plugins and stuff.  Beyond that it's possible that they dropped a shell or something to maintain a backdoor.  So the best thing to do would be to wipe out the site, or ideally the entire server, and reinstall everything.",
+            "timeStamp": "2018/04/29-19:27:17",
+            "id": "dy6yyqb",
+            "is_submitter": false,
+            "link_id": "t3_8fvzwq",
+            "parent_id": "t3_8fvzwq",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Urd"
+        },
+        "dy6y16k": {
+            "comment": "This is not the place for this kind of question, see the sidebar.  Please check /r/Antivirus or /r/techsupport.  Thread removed.",
+            "timeStamp": "2018/04/29-19:08:49",
+            "id": "dy6y16k",
+            "is_submitter": false,
+            "link_id": "t3_8fvzwq",
+            "parent_id": "t3_8fvzwq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mjuad"
+        }
+    }
+}

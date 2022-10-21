@@ -1,0 +1,99 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I've been reading about [https://attack.mitre.org/techniques/T1546/012/](https://attack.mitre.org/techniques/T1546/012/)\n\n&gt;Adversaries may establish persistence and/or elevate privileges by executing malicious content triggered by Image File Execution Options (IFEO) debuggers. IFEOs enable a developer to attach a debugger to an application. When a process is created, a debugger present in an application\u2019s IFEO will be prepended to the application\u2019s name, effectively launching the new process under the debugger  \ne.g.,  \nC:\\\\dbg\\\\ntsd.exe -g notepad.exe\n\nFew questions:\n\nCan adversaries execute malware undetected using this technique?\n\ne.g.\n\n    C:\\dbg\\ntsd.exe -g malware.exe \n\nIf yes, does that mean that ntsd.exe pose a risk and should be blocked?",
+        "title": "Image File Execution Options Injection",
+        "score": 1,
+        "id": "pwf1d0",
+        "commsNum": 7,
+        "timeStamp": "2021/09/27-04:27:00",
+        "author_name": "w0lfcat",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/pwf1d0/image_file_execution_options_injection/"
+    },
+    "posts": {
+        "hek3azt": {
+            "comment": "Well, it's a debugger, but not any more dangerous than any other debugger.",
+            "timeStamp": "2021/09/27-21:19:43",
+            "id": "hek3azt",
+            "is_submitter": false,
+            "link_id": "t3_pwf1d0",
+            "parent_id": "t1_heidswe",
+            "score": 1,
+            "stickied": false,
+            "author_name": "4745454B"
+        },
+        "heidswe": {
+            "comment": "Thanks. I've just found that Microsoft also recommends to block ntsd.exe\n\nBut they did not give a reason why.\n\nIs there any use case of ntsd.exe abuse?\n\nhttps://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/microsoft-recommended-block-rules",
+            "timeStamp": "2021/09/27-13:07:38",
+            "id": "heidswe",
+            "is_submitter": true,
+            "link_id": "t3_pwf1d0",
+            "parent_id": "t1_heguydw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "w0lfcat"
+        },
+        "hei9zo8": {
+            "comment": "[removed]",
+            "timeStamp": "2021/09/27-12:39:01",
+            "id": "hei9zo8",
+            "is_submitter": false,
+            "link_id": "t3_pwf1d0",
+            "parent_id": "t3_pwf1d0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "heguydw": {
+            "comment": "ntsd.exe is just an example debugger that MITRE is using, no attacker would use that, they would make a custom EXE which has correct exports and entrypoints so that it can be launched as \"debugger\".\n\nSee [https://github.com/rapid7/metasploit-framework/blob/master/modules/exploits/windows/local/persistence\\_image\\_exec\\_options.rb](https://github.com/rapid7/metasploit-framework/blob/master/modules/exploits/windows/local/persistence_image_exec_options.rb)\n\nFor implementation example, note that Metasploit still uses old MITRE numbering, curse on them for remapping the numbers :)  \n\n\nNote that Metasploit seems to be using standard generate\\_payload\\_exe, so custom entrypoints may not be needed, but right now I don't have time to verify.",
+            "timeStamp": "2021/09/27-06:16:06",
+            "id": "heguydw",
+            "is_submitter": false,
+            "link_id": "t3_pwf1d0",
+            "parent_id": "t1_hegrkx9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "4745454B"
+        },
+        "hegrkx9": {
+            "comment": "What about privilege escalation which was mentioned in the article?\n\nIs it possible to elevate privilege with ntsd.exe? Is there any example for this?",
+            "timeStamp": "2021/09/27-05:46:18",
+            "id": "hegrkx9",
+            "is_submitter": true,
+            "link_id": "t3_pwf1d0",
+            "parent_id": "t1_hegm64g",
+            "score": 2,
+            "stickied": false,
+            "author_name": "w0lfcat"
+        },
+        "hegmzp7": {
+            "comment": "[removed]",
+            "timeStamp": "2021/09/27-05:01:25",
+            "id": "hegmzp7",
+            "is_submitter": false,
+            "link_id": "t3_pwf1d0",
+            "parent_id": "t3_pwf1d0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hegm64g": {
+            "comment": "This is a persistence method, which means that attacker is already in, and which method attacker uses for persistence is least of your worries.",
+            "timeStamp": "2021/09/27-04:52:57",
+            "id": "hegm64g",
+            "is_submitter": false,
+            "link_id": "t3_pwf1d0",
+            "parent_id": "t3_pwf1d0",
+            "score": 2,
+            "stickied": false,
+            "author_name": "4745454B"
+        }
+    }
+}

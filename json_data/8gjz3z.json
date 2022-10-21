@@ -1,0 +1,165 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Any one can help me find a website to download malwares to test it",
+        "title": "i am a beginner reverse engineer and i work with malware analysis",
+        "score": 9,
+        "id": "8gjz3z",
+        "commsNum": 13,
+        "timeStamp": "2018/05/02-12:06:28",
+        "author_name": "BL4CKvGHOST",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 13,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8gjz3z/i_am_a_beginner_reverse_engineer_and_i_work_with/"
+    },
+    "posts": {
+        "e12l3ru": {
+            "comment": "A tad late, but Offensive Computing is now Open Malware Project. Just FYI. Sample information and downloads.",
+            "timeStamp": "2018/06/21-14:00:13",
+            "id": "e12l3ru",
+            "is_submitter": false,
+            "link_id": "t3_8gjz3z",
+            "parent_id": "t1_dyddgja",
+            "score": 1,
+            "stickied": false,
+            "author_name": "arieadil"
+        },
+        "dynlhxv": {
+            "comment": "Never though VirusTotal was keeping your code.\nI've tested some badly-coded C++ trojan I've wrote on it, guess now it's on te black market then...",
+            "timeStamp": "2018/05/08-11:33:52",
+            "id": "dynlhxv",
+            "is_submitter": false,
+            "link_id": "t3_8gjz3z",
+            "parent_id": "t1_dyddgja",
+            "score": 1,
+            "stickied": false,
+            "author_name": "BaGamman"
+        },
+        "dyha6u6": {
+            "comment": "A small list of malware repositories and analysis sites with download option. Some need invites, but you can get them usually by asking politely and telling them why you need access.\n\n* https://beta.virusbay.io/\n\n* any.run\n* Malwr.com\n* virusshare.com\n* malshare.com \n* dasmalwerk.eu \n* kernelmode.info \n* reverse.it",
+            "timeStamp": "2018/05/04-23:17:47",
+            "id": "dyha6u6",
+            "is_submitter": false,
+            "link_id": "t3_8gjz3z",
+            "parent_id": "t3_8gjz3z",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Struppigel"
+        },
+        "dyf2j20": {
+            "comment": "Not a single thing, my darling. DO not worry.",
+            "timeStamp": "2018/05/03-19:23:34",
+            "id": "dyf2j20",
+            "is_submitter": false,
+            "link_id": "t3_8gjz3z",
+            "parent_id": "t1_dyeir19",
+            "score": 2,
+            "stickied": false,
+            "author_name": "viinamari"
+        },
+        "dyeir19": {
+            "comment": "What is going on here?",
+            "timeStamp": "2018/05/03-13:52:21",
+            "id": "dyeir19",
+            "is_submitter": false,
+            "link_id": "t3_8gjz3z",
+            "parent_id": "t1_dyddhml",
+            "score": 1,
+            "stickied": false,
+            "author_name": "inthemixmike"
+        },
+        "dyddhml": {
+            "comment": "Happy Birthday, John.",
+            "timeStamp": "2018/05/03-00:41:33",
+            "id": "dyddhml",
+            "is_submitter": false,
+            "link_id": "t3_8gjz3z",
+            "parent_id": "t1_dyddh8y",
+            "score": 1,
+            "stickied": false,
+            "author_name": "viinamari"
+        },
+        "dyddh8y": {
+            "comment": "Oh no, was there a casualty there? No?\n\nWell, good, I'm glad. I'm glad there were no casualties. Good job, children.",
+            "timeStamp": "2018/05/03-00:41:08",
+            "id": "dyddh8y",
+            "is_submitter": false,
+            "link_id": "t3_8gjz3z",
+            "parent_id": "t1_dyddgja",
+            "score": 1,
+            "stickied": false,
+            "author_name": "viinamari"
+        },
+        "dyddgja": {
+            "comment": "There used to be a site called Offensive Computing. i am unsure if it's still around, however. I believe there are other sites like mal.wr and, unfortunately, a lot of \\*other,\\* \\*much\\* more useful malware repositories, are, technically, underground. Out of the light. In the dark, as it were. Light and shadow. Like with art: light and shadow, as you know how to actually render pictures with pencils and whatnot. You understand what I'm saying.\n\nEither way, don't use VirusTotal. It sends your samples to vendors that would rather store it in the dark instead of protecting it from the users. The antivirus system is complete garbage. Clean out the garbage, children.",
+            "timeStamp": "2018/05/03-00:40:26",
+            "id": "dyddgja",
+            "is_submitter": false,
+            "link_id": "t3_8gjz3z",
+            "parent_id": "t3_8gjz3z",
+            "score": 0,
+            "stickied": false,
+            "author_name": "viinamari"
+        },
+        "dydbmde": {
+            "comment": "Malshare.com",
+            "timeStamp": "2018/05/02-23:38:02",
+            "id": "dydbmde",
+            "is_submitter": false,
+            "link_id": "t3_8gjz3z",
+            "parent_id": "t3_8gjz3z",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RudeCanadianDude"
+        },
+        "dyd2xgp": {
+            "comment": "Here's another link to some live malware samples:\n\n[https://github.com/ytisf/theZoo](https://github.com/ytisf/theZoo)",
+            "timeStamp": "2018/05/02-20:14:38",
+            "id": "dyd2xgp",
+            "is_submitter": false,
+            "link_id": "t3_8gjz3z",
+            "parent_id": "t3_8gjz3z",
+            "score": 4,
+            "stickied": false,
+            "author_name": "thedukh"
+        },
+        "dycpmom": {
+            "comment": "Are you a super proficient coder? Asking because Im average at python and C++ and would love to perform malware analysis and reverse engineering.",
+            "timeStamp": "2018/05/02-16:19:37",
+            "id": "dycpmom",
+            "is_submitter": false,
+            "link_id": "t3_8gjz3z",
+            "parent_id": "t3_8gjz3z",
+            "score": 1,
+            "stickied": false,
+            "author_name": "vikarux"
+        },
+        "dychb5v": {
+            "comment": "Seconding this: Practical Malware Analysis is a great book.",
+            "timeStamp": "2018/05/02-14:00:55",
+            "id": "dychb5v",
+            "is_submitter": false,
+            "link_id": "t3_8gjz3z",
+            "parent_id": "t1_dycgixk",
+            "score": 3,
+            "stickied": false,
+            "author_name": "klausvonespy"
+        },
+        "dycgixk": {
+            "comment": "This site contains a list of sites providing collections of malware samples : https://zeltser.com/malware-sample-sources/. If you haven't read any book about malware analysis yet I would recommend you to start with https://www.amazon.com/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901 since you could get yourself easily infected as a beginner",
+            "timeStamp": "2018/05/02-13:49:44",
+            "id": "dycgixk",
+            "is_submitter": false,
+            "link_id": "t3_8gjz3z",
+            "parent_id": "t3_8gjz3z",
+            "score": 7,
+            "stickied": false,
+            "author_name": "d1sr3"
+        }
+    }
+}

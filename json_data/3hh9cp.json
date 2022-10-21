@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hey, I'm currently working on the early stages of a project to develop tools to assist with JS analysis. We're right now primarily assessing what is feasible given time and budget constraints, and pretty much anything from simple code metrics to dynamic analysis to identify exploit kits is on the table as a possible goal. We have a variety of pre-existing tools to start working from, but integration of relevant OSS is also desirable, and our clearest early goal is automated identification of obfuscated code, similar to what is detailed in [this Microsoft paper](http://research.microsoft.com/apps/pubs/default.aspx?id=148514).\n\nAnyway, what I'd like to ask /r/malware is if y'all know of good sources of JS malware samples for analysis. Some places, like MalwareBytes' forums, are good for submitting samples, but they don't generally like to provide their samples to other properties. A bit of competitive advantage and non-proliferation, I suppose. Does anyone here have a recommendation as to where to look for JS malware?",
+        "title": "Sources for Javascript malware samples",
+        "score": 2,
+        "id": "3hh9cp",
+        "commsNum": 2,
+        "timeStamp": "2015/08/18-11:37:56",
+        "author_name": "the_breaux",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/3hh9cp/sources_for_javascript_malware_samples/"
+    },
+    "posts": {}
+}

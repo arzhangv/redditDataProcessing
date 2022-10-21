@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "now i learn malware analysis.And my laptop have 8gb ram and 512 ssd . and i use vmware and REMNUX,win10 for malware analysis . But it doesn't work well  . sometimes to laggy and with  low speed . So how can i build a  simple malware analysis lab ?",
+        "title": "Malware Analysis Lab",
+        "score": 1,
+        "id": "pwbf0o",
+        "commsNum": 2,
+        "timeStamp": "2021/09/26-23:31:16",
+        "author_name": "NANDUZZZZZ",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/pwbf0o/malware_analysis_lab/"
+    },
+    "posts": {
+        "heg6rf7": {
+            "comment": "8GB is pretty low if you planning to run multiple VM's at the same, upgrade your RAM to 16GB and For Win10 VM debloat as much as possible and set it to run in performance mode.",
+            "timeStamp": "2021/09/27-01:05:55",
+            "id": "heg6rf7",
+            "is_submitter": false,
+            "link_id": "t3_pwbf0o",
+            "parent_id": "t3_pwbf0o",
+            "score": 5,
+            "stickied": false,
+            "author_name": "vinumsv"
+        },
+        "heg4xi4": {
+            "comment": "i think you will have better mileage with that laptop if you install linux as your base system. it will still be tight to run a VM. is there a chance you can expand the RAM at leat to 16GB? if not, find another machine with more ram, probably.",
+            "timeStamp": "2021/09/27-00:34:55",
+            "id": "heg4xi4",
+            "is_submitter": false,
+            "link_id": "t3_pwbf0o",
+            "parent_id": "t3_pwbf0o",
+            "score": 1,
+            "stickied": false,
+            "author_name": "apatrid"
+        }
+    }
+}

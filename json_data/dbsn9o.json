@@ -1,0 +1,121 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Bit of a brain dump, just had an interview for a malware analysis and vulerability research internship. I thought others may be interested in the kind of questions that were asked, as I can't really find many other posts like this.\n\nNote: My second interview is today, may edit this later with fresh questions if I'm not under NDA and the topics are not proprietory. Doing a few more of these for both classified and unclassified roles, may make some more posts in future.\n\nRole details:\n- Defense role\n- Uncleared\n- Atribution focused malware analysis\n- Software reverse engineering\n- Vulnerability research\n- Requires knowledge of assembly, low level programming concepts, debugging, and reverse engineering\n- Research focused\n- Partially self defined\n\nDetails about me:\n- Freshman Computer Engineering major and part of a Cybersecurity honors program\n- GREM - this is likely what got me past their preference for students with relevant coursework in RE and Assembly\n- Past IA experience at a large defense contractor, though I'm not sure how much that mattered for this role in particular\n\nWhat was asked:\n- Basic reverse engineering questions like, \"what's the difference between cdecl, fastcall, and standardcall?\"\n- Questions about my fuzzing and vulnerability research experience\n- Questions about how many malware samples I had analyzed in the past - the answer to this one was \"not many\", but I was able to pull out some cool stories about packers I had tried reversing\n- Questions about my (at the time) upcoming attempt at the OSCE that went into fuzzing and my exploit development knowledge\n\nThat was supposed to be the soft skills interview but the guy took it in a more technical direction that I appreciated. Technical interview is today, wish me luck!",
+        "title": "Interview Questions for Malware/Vuln Research Internship",
+        "score": 46,
+        "id": "dbsn9o",
+        "commsNum": 9,
+        "timeStamp": "2019/10/01-05:27:32",
+        "author_name": "R2Bgn",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 9,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/dbsn9o/interview_questions_for_malwarevuln_research/"
+    },
+    "posts": {
+        "f3hz7uy": {
+            "comment": "I was just looking at that the other day. I think some reddit posts said GREM wasnt essential, having experience and skills was good enough. So I stopped researching.",
+            "timeStamp": "2019/10/12-18:33:04",
+            "id": "f3hz7uy",
+            "is_submitter": false,
+            "link_id": "t3_dbsn9o",
+            "parent_id": "t1_f24ejfj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TailSpinBowler"
+        },
+        "f3ajau9": {
+            "comment": "Have another interview next week at a research group that's more oriented towards vulnerability research than rapid capabilities development. As with this one, no organization names or proprietory details, just interview questions. No clearance required to start but more of a bent towards cleared work than this one. I'll discuss a bit of my preliminary phone interview questions in coming posts.",
+            "timeStamp": "2019/10/10-23:35:43",
+            "id": "f3ajau9",
+            "is_submitter": true,
+            "link_id": "t3_dbsn9o",
+            "parent_id": "t3_dbsn9o",
+            "score": 1,
+            "stickied": false,
+            "author_name": "R2Bgn"
+        },
+        "f359e7e": {
+            "comment": "Boy do I wish I knew what I wanted to do when I was a freshman in college. You're way ahead of the game.",
+            "timeStamp": "2019/10/09-18:41:45",
+            "id": "f359e7e",
+            "is_submitter": false,
+            "link_id": "t3_dbsn9o",
+            "parent_id": "t3_dbsn9o",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Elusive_Bear"
+        },
+        "f24oozk": {
+            "comment": "good stuff, i\u2019ll check that out, thanks!",
+            "timeStamp": "2019/10/01-12:09:30",
+            "id": "f24oozk",
+            "is_submitter": false,
+            "link_id": "t3_dbsn9o",
+            "parent_id": "t1_f24ejfj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "naptown21403"
+        },
+        "f24ejfj": {
+            "comment": "Self taught, including the GREM (took about 3 months to learn that material). My college has courses I have not taken yet. If you want to see my methodology, check this out:\nhttps://medium.com/@eaugusto/grey-box-testing-how-i-passed-the-giac-grem-exam-without-taking-the-course-fda132d177c3",
+            "timeStamp": "2019/10/01-10:17:45",
+            "id": "f24ejfj",
+            "is_submitter": true,
+            "link_id": "t3_dbsn9o",
+            "parent_id": "t1_f23yadi",
+            "score": 1,
+            "stickied": false,
+            "author_name": "R2Bgn"
+        },
+        "f241jsd": {
+            "comment": "[removed]",
+            "timeStamp": "2019/10/01-08:13:21",
+            "id": "f241jsd",
+            "is_submitter": false,
+            "link_id": "t3_dbsn9o",
+            "parent_id": "t3_dbsn9o",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "f23yadi": {
+            "comment": "question for you.....did you teach yourself or did your high school/college have programs or courses for malware analysis/reverse engineering? looking at strings is obviously easy but trying to figure out assembly is a daunting task.",
+            "timeStamp": "2019/10/01-07:36:59",
+            "id": "f23yadi",
+            "is_submitter": false,
+            "link_id": "t3_dbsn9o",
+            "parent_id": "t3_dbsn9o",
+            "score": 1,
+            "stickied": false,
+            "author_name": "naptown21403"
+        },
+        "f23tlcd": {
+            "comment": "Thank you for posting this! Malware analysis is my dream job, and these questions are a great point of reference for what I should focus on practicing",
+            "timeStamp": "2019/10/01-06:41:18",
+            "id": "f23tlcd",
+            "is_submitter": false,
+            "link_id": "t3_dbsn9o",
+            "parent_id": "t3_dbsn9o",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Legendofmudkip"
+        },
+        "f23omfj": {
+            "comment": "[removed]",
+            "timeStamp": "2019/10/01-05:33:44",
+            "id": "f23omfj",
+            "is_submitter": false,
+            "link_id": "t3_dbsn9o",
+            "parent_id": "t3_dbsn9o",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

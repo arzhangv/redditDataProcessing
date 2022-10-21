@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I was wondering if I will see it in my web filtering system (proxy pac) or if I will only see a TCP connection made directly to the gateway.",
+        "title": "Will Zeus use Windows configured internet proxy to perform web request ?",
+        "score": 3,
+        "id": "39ao81",
+        "commsNum": 0,
+        "timeStamp": "2015/06/10-06:39:11",
+        "author_name": "such_sysadmin",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/39ao81/will_zeus_use_windows_configured_internet_proxy/"
+    },
+    "posts": {}
+}

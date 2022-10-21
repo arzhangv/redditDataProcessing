@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Win32/Gapz: New Bootkit Technique | ESET ThreatBlog",
+        "score": 14,
+        "id": "15in13",
+        "commsNum": 0,
+        "timeStamp": "2012/12/27-05:07:26",
+        "author_name": "Horgh",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://blog.eset.com/2012/12/27/win32gapz-new-bootkit-technique"
+    },
+    "posts": {}
+}

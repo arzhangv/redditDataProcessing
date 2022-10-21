@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I've been reading a lot about Stuxnet lately, all the technical breakdowns and analyses but I can't find anywhere any information regarding how the initially .DLL was executed after the USB was inserted and the command line that was used to execute it.\n\nCan anyone shed some light on how the DLL was executed?\n\nEDIT: Just as I post the question I find some information on it! It appears that it uses a zero day in windows explorer to autorun the files installing two drivers. \n\nIf anyone knows the autorun commands that Stuxnet uses that would be great! Thanks! \n\nEDIT 2: After more investigation 'shell execute' or 'open' within autorun are used by Stuxnet these call the 'shellExecuteEx' or 'createProcess' functions.",
+        "title": "Stuxnet execution method?",
+        "score": 11,
+        "id": "5nq4ih",
+        "commsNum": 8,
+        "timeStamp": "2017/01/13-03:33:18",
+        "author_name": "Waffles2g",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 8,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5nq4ih/stuxnet_execution_method/"
+    },
+    "posts": {}
+}

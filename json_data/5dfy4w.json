@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Modifying AtomBombing to Inject Code into CFG Protected Processes (PoC Video Inside)",
+        "score": 1,
+        "id": "5dfy4w",
+        "commsNum": 0,
+        "timeStamp": "2016/11/17-06:04:48",
+        "author_name": "tal_liberman",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://breakingmalware.com/injection-techniques/atombombing-cfg-protected-processes/"
+    },
+    "posts": {}
+}

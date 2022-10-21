@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Snapshots add up the GBs quick. I have a thunderbolt port and was considering getting an external SSD to run my analysis lab VMs out of. Anyone tried this before? I'm told that thunderbolt should be quick enough but have no reference experience.",
+        "title": "Anyone use an SSD for their MA VMs?",
+        "score": 5,
+        "id": "68kcmt",
+        "commsNum": 3,
+        "timeStamp": "2017/04/30-22:59:29",
+        "author_name": "TheOnlyRealTodd",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/68kcmt/anyone_use_an_ssd_for_their_ma_vms/"
+    },
+    "posts": {}
+}

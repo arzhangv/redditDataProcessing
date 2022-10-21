@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I remember there was a website, where you can search viruses back from the 70-90's to 2000's. For example, if you want to find Alerta virus, you search like that - \"Trojan.Win32.Alerta\".\nAnyone knows what was the website?",
+        "title": "(Bad English) Need help founding the website",
+        "score": 2,
+        "id": "81otbn",
+        "commsNum": 8,
+        "timeStamp": "2018/03/03-00:54:40",
+        "author_name": "MrQuyu72",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 8,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/81otbn/bad_english_need_help_founding_the_website/"
+    },
+    "posts": {
+        "dwo2lea": {
+            "comment": "This one? https://archive.org/details/malwaremuseum",
+            "timeStamp": "2018/04/02-03:49:45",
+            "id": "dwo2lea",
+            "is_submitter": false,
+            "link_id": "t3_81otbn",
+            "parent_id": "t3_81otbn",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ntddk"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Keeping up with the Petyas: Demystifying the malware family",
+        "score": 25,
+        "id": "6nge9x",
+        "commsNum": 1,
+        "timeStamp": "2017/07/15-08:09:11",
+        "author_name": "r721",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://blog.malwarebytes.com/cybercrime/2017/07/keeping-up-with-the-petyas-demystifying-the-malware-family/"
+    },
+    "posts": {
+        "dkbwo42": {
+            "comment": "Unfortunately, ransomware just keeps evolving. And with recent massive outbreaks and some profit coming out of it, people want a piece of it. Luckily, not a lot of programmers are capable of providing sophisticated ransomware, saves us a little bit of trouble.",
+            "timeStamp": "2017/07/17-05:56:31",
+            "id": "dkbwo42",
+            "is_submitter": false,
+            "link_id": "t3_6nge9x",
+            "parent_id": "t3_6nge9x",
+            "score": 3,
+            "stickied": false,
+            "author_name": "JoshRosserino"
+        }
+    }
+}

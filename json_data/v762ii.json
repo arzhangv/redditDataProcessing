@@ -1,0 +1,99 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "As part of project, I have to build threat intelligence communication, STIX and TAXII are used any suggestions in building it",
+        "score": 1,
+        "id": "v762ii",
+        "commsNum": 0,
+        "timeStamp": "2022/06/07-13:01:21",
+        "author_name": "alphaa9059",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": true,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/v762ii/as_part_of_project_i_have_to_build_threat/"
+    },
+    "posts": {
+        "ibm79uf": {
+            "comment": "Need way more details",
+            "timeStamp": "2022/06/08-08:06:14",
+            "id": "ibm79uf",
+            "is_submitter": false,
+            "link_id": "t3_v762ii",
+            "parent_id": "t3_v762ii",
+            "score": 1,
+            "stickied": false,
+            "author_name": "HomeGrownCoder"
+        },
+        "iblmoga": {
+            "comment": "Intel Owl",
+            "timeStamp": "2022/06/08-05:19:42",
+            "id": "iblmoga",
+            "is_submitter": false,
+            "link_id": "t3_v762ii",
+            "parent_id": "t3_v762ii",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ZanePWD"
+        },
+        "ibk01yh": {
+            "comment": "[removed]",
+            "timeStamp": "2022/06/07-18:05:03",
+            "id": "ibk01yh",
+            "is_submitter": false,
+            "link_id": "t3_v762ii",
+            "parent_id": "t3_v762ii",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ibjzkwz": {
+            "comment": "MISP uses STIX",
+            "timeStamp": "2022/06/07-18:01:01",
+            "id": "ibjzkwz",
+            "is_submitter": true,
+            "link_id": "t3_v762ii",
+            "parent_id": "t1_ibjwocl",
+            "score": 1,
+            "stickied": false,
+            "author_name": "alphaa9059"
+        },
+        "ibjwocl": {
+            "comment": "STIX/TAXII is cool, but have you heard of MISP?\n\nhttps://www.misp-project.org/",
+            "timeStamp": "2022/06/07-17:36:16",
+            "id": "ibjwocl",
+            "is_submitter": false,
+            "link_id": "t3_v762ii",
+            "parent_id": "t3_v762ii",
+            "score": 1,
+            "stickied": false,
+            "author_name": "gonzo_au"
+        },
+        "ibjcjh5": {
+            "comment": "Yep, as you said I am using medallion as server and I want some clients instead of client scripts and I am trying to transfer iodef along with stix",
+            "timeStamp": "2022/06/07-14:47:10",
+            "id": "ibjcjh5",
+            "is_submitter": true,
+            "link_id": "t3_v762ii",
+            "parent_id": "t3_v762ii",
+            "score": 1,
+            "stickied": false,
+            "author_name": "alphaa9059"
+        },
+        "ibj570u": {
+            "comment": "Dont know what you know or don't know, so trying not to assume anything.\n\nSTIX is a json schema built to describe cyber threats.\nTAXII is a predefined set of RESTful API commands that a taxii server should support.\n\nAre you expected to code this from scratch? Specification is here.\nhttps://oasis-open.github.io/cti-documentation/resources.html#taxii-21-specification\n\nhttps://github.com/oasis-open/cti-taxii-server\n\nIt isn't typical for organizations to build TAXII servers, unless they are a security vendor, but they often connect to TAXII servers to download threat intelligence documented in the STIX taxonomy.  MISP can be configured to do this.",
+            "timeStamp": "2022/06/07-13:48:07",
+            "id": "ibj570u",
+            "is_submitter": false,
+            "link_id": "t3_v762ii",
+            "parent_id": "t3_v762ii",
+            "score": 1,
+            "stickied": false,
+            "author_name": "dragonakai"
+        }
+    }
+}

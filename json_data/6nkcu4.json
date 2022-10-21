@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "im crazy???????????",
+        "title": "I love \"test\" malware in Virtual machines",
+        "score": 0,
+        "id": "6nkcu4",
+        "commsNum": 1,
+        "timeStamp": "2017/07/15-21:13:20",
+        "author_name": "iTzDrK_",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6nkcu4/i_love_test_malware_in_virtual_machines/"
+    },
+    "posts": {
+        "dkav5b1": {
+            "comment": "Sounds like it",
+            "timeStamp": "2017/07/16-12:10:20",
+            "id": "dkav5b1",
+            "is_submitter": false,
+            "link_id": "t3_6nkcu4",
+            "parent_id": "t3_6nkcu4",
+            "score": 4,
+            "stickied": false,
+            "author_name": "pies765"
+        }
+    }
+}

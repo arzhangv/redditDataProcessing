@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I might have a problem\n\nSo i recently tried to download Forge for minecraft. I may have clicked a fake site, but i didn\u2019t know so i continued. The installer was weird but i was tired so i didn\u2019t think of it. It asked me question like age, gender, country, etc.. Of course i didn\u2019t answer the name, email and postal code but i did for the other questions. So after that, forge got installed normally (except it wasn\u2019t the 1.14 but the 1.12 so i started to ask myself some questions) As it appears now, i clicked to fast on the multiple \u00ab\u00a0next\u00a0\u00bb buttons and installed 2-3 weird programms. ByteFence. Drivers Tonic and something along the lines of WinShield. I still didn\u2019t notice it. Later that day, i noticed the ByteFence icon in the bottom right task bar with a red cross and thought : \u00ab\u00a0oh hey my dad\u2019s antivirus just detected something\u00a0\u00bb so I started the scan to see what was happening. Fortunately, my dad walked by and asked me what this was. A moment of confusion followed and only THEN did i understand that I f*cked up pretty bad. I don\u2019t even know what to do. Should I uninstall it or keep it? Should I kill myself or just live happily with it? Should I question my authenticity as a \u00ab\u00a0geek\u00a0\u00bb or is it normal to f* up sometimes? Please help",
+        "title": "Help",
+        "score": 1,
+        "id": "dc2e7k",
+        "commsNum": 1,
+        "timeStamp": "2019/10/01-17:11:41",
+        "author_name": "WarWolf-04",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/dc2e7k/help/"
+    },
+    "posts": {
+        "f25i3gm": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2019/10/01-17:11:42",
+            "id": "f25i3gm",
+            "is_submitter": false,
+            "link_id": "t3_dc2e7k",
+            "parent_id": "t3_dc2e7k",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

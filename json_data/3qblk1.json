@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "So this basic 'trojan' I made. It was an experiment, and plan to do nothing illegal with it, just a bit of fun. A very basic 'trojan' in vb.net.\n\nWindows 7..\n\nCopies itself to startup folder.\nChecks for an internet connection, and takes a screenshot every 10 seconds when mouse or keyboard movements are detected. It uploads an encrypted screenshot (.png) to my ftp server..\n\nDot dot dot, nothing too big.\n\nNow deploying this thing PURPOSELESSLY would indeed be illegal (in this country) and like I said, I don't plan to do anything malware-ish.\n\nThen earlier this afternoon I uploaded it to several websites which scan windows executables for malware virustotal etc. one or two av recognized it as a trojan backdoor etc, just a generic name.\n\nThen I login to my ftp server every so often and find about 12-15 screenshots from an unknown computer running my program. he was flushing hid dns and then boom, offline.\n\nI'd imagine it was the administrators server computer on one of those websites. The screen resolution was tiny like 1024 x 768 or thereabouts. So a few times now his machine is still uploading images of what he's doing, it's crazy as hell and very thrilling like a drug.\n\nHas anyone experienced this? Surely these servers would prevent the .exe's from actually infecting the machine..\n",
+        "title": "Something interesting is happenning..",
+        "score": 16,
+        "id": "3qblk1",
+        "commsNum": 12,
+        "timeStamp": "2015/10/26-12:48:23",
+        "author_name": "[deleted]",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 12,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/3qblk1/something_interesting_is_happenning/"
+    },
+    "posts": {}
+}

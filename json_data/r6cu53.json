@@ -1,0 +1,220 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "For a while now, I've been receiving persistent alerts from Google claiming something/someone is trying to change the way I login. It says it's from my Windows laptop but says the location is from Russia. Everytime it send this message, I'm forced to change my Google password. I've done it over 2 times now. What could be the issue? Is there any way I can resolve this? Is there a malware on my laptop? (I have an active malwarebytes subscription and it's not detecting anything.)",
+        "title": "Persistent Google security alerts",
+        "score": 1,
+        "id": "r6cu53",
+        "commsNum": 18,
+        "timeStamp": "2021/12/01-03:38:32",
+        "author_name": "Searching_wanderer",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 18,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/r6cu53/persistent_google_security_alerts/"
+    },
+    "posts": {
+        "hn61td6": {
+            "comment": "[removed]",
+            "timeStamp": "2021/12/03-22:28:58",
+            "id": "hn61td6",
+            "is_submitter": false,
+            "link_id": "t3_r6cu53",
+            "parent_id": "t1_hmtucxx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hmxj5gk": {
+            "comment": "Then, are you \\*sure\\* these alerts are legitimate and not phishing? Can you verify the alerts in your google account instead of just trusting the e-mail?",
+            "timeStamp": "2021/12/02-05:53:37",
+            "id": "hmxj5gk",
+            "is_submitter": false,
+            "link_id": "t3_r6cu53",
+            "parent_id": "t1_hmuxafl",
+            "score": 1,
+            "stickied": false,
+            "author_name": "94711c"
+        },
+        "hmwpupf": {
+            "comment": "Will do. Thank you.",
+            "timeStamp": "2021/12/02-00:02:12",
+            "id": "hmwpupf",
+            "is_submitter": true,
+            "link_id": "t3_r6cu53",
+            "parent_id": "t1_hmw56zz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Searching_wanderer"
+        },
+        "hmw56zz": {
+            "comment": "Also run the av/script with Wi-Fi off / in safe mode of course",
+            "timeStamp": "2021/12/01-20:24:29",
+            "id": "hmw56zz",
+            "is_submitter": false,
+            "link_id": "t3_r6cu53",
+            "parent_id": "t1_hmuxjav",
+            "score": 1,
+            "stickied": false,
+            "author_name": "poIicies"
+        },
+        "hmw54tt": {
+            "comment": "You could try an antivirus like malware bytes or sophos if you are on windows. Antiviruses are always behind virus writers though, so you should definilty reset or run something like [tron](https://github.com/bmrf/tron) if you want",
+            "timeStamp": "2021/12/01-20:23:57",
+            "id": "hmw54tt",
+            "is_submitter": false,
+            "link_id": "t3_r6cu53",
+            "parent_id": "t1_hmuxjav",
+            "score": 1,
+            "stickied": false,
+            "author_name": "poIicies"
+        },
+        "hmuxjav": {
+            "comment": "When you say \"breached,\" what exactly do you mean? Like is there a virus on my system that's giving backdoor access or something? Is it something an antivirus can fix? Or are there tools you know online to detect whatever it is and remove it?",
+            "timeStamp": "2021/12/01-15:00:04",
+            "id": "hmuxjav",
+            "is_submitter": true,
+            "link_id": "t3_r6cu53",
+            "parent_id": "t1_hmupbon",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Searching_wanderer"
+        },
+        "hmuxafl": {
+            "comment": "Predictable passwords? Not really. They include a ton of special characters and are over 15 characters long. \nI also don't use my Google password anywhere else.",
+            "timeStamp": "2021/12/01-14:58:21",
+            "id": "hmuxafl",
+            "is_submitter": true,
+            "link_id": "t3_r6cu53",
+            "parent_id": "t1_hmu1n7e",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Searching_wanderer"
+        },
+        "hmutqk4": {
+            "comment": "Oops, over looked the word *\u201dmy laptop\u201d*. Thanks for correcting me. Burn it to the ground",
+            "timeStamp": "2021/12/01-14:34:05",
+            "id": "hmutqk4",
+            "is_submitter": false,
+            "link_id": "t3_r6cu53",
+            "parent_id": "t1_hmupbon",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Trolling_turd"
+        },
+        "hmupbon": {
+            "comment": "His post states that the messages say logins are coming from his personal computer. Unless OP is using a vpn or proxy (or recently visited Russia) his computer is breached.",
+            "timeStamp": "2021/12/01-14:04:53",
+            "id": "hmupbon",
+            "is_submitter": false,
+            "link_id": "t3_r6cu53",
+            "parent_id": "t1_hmu1lih",
+            "score": 1,
+            "stickied": false,
+            "author_name": "poIicies"
+        },
+        "hmup8jj": {
+            "comment": "[deleted]",
+            "timeStamp": "2021/12/01-14:04:20",
+            "id": "hmup8jj",
+            "is_submitter": false,
+            "link_id": "t3_r6cu53",
+            "parent_id": "t1_hmtvuxs",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hmu1n7e": {
+            "comment": "Do you have any app-specific passwords?\n\nAre you using predictable passwords when you change them? Like sequence of numbers etc.",
+            "timeStamp": "2021/12/01-11:35:29",
+            "id": "hmu1n7e",
+            "is_submitter": false,
+            "link_id": "t3_r6cu53",
+            "parent_id": "t1_hmsk3r8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "94711c"
+        },
+        "hmu1lih": {
+            "comment": "Laptop likely isn\u2019t compromised, like others have said this is most likely due to someone trying to authenticate who is using a Russian IP. One thing you might want to do is log out of google on all of the connected devices in case something weird happened. I can\u2019t remember where but there is an option in your google settings to force log out any signed in devices",
+            "timeStamp": "2021/12/01-11:35:11",
+            "id": "hmu1lih",
+            "is_submitter": false,
+            "link_id": "t3_r6cu53",
+            "parent_id": "t1_hmtvuxs",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Trolling_turd"
+        },
+        "hmtvuxs": {
+            "comment": "Are you being serious?",
+            "timeStamp": "2021/12/01-10:58:18",
+            "id": "hmtvuxs",
+            "is_submitter": true,
+            "link_id": "t3_r6cu53",
+            "parent_id": "t1_hmtucxx",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Searching_wanderer"
+        },
+        "hmtucxx": {
+            "comment": "Your laptop is compromised. Factory reset",
+            "timeStamp": "2021/12/01-10:48:39",
+            "id": "hmtucxx",
+            "is_submitter": false,
+            "link_id": "t3_r6cu53",
+            "parent_id": "t3_r6cu53",
+            "score": -1,
+            "stickied": false,
+            "author_name": "poIicies"
+        },
+        "hmsl2b0": {
+            "comment": "I don't use Google's official 2Factor because Google is the worst in my experience when it comes to recovering access or being smart with people who use a lot of devices or travel even for their auto semi-2F. Tho presumably if you have it enabled they shouldn't even be able to fully login to your acct I presume. So interesting why youre getting password change alerts",
+            "timeStamp": "2021/12/01-05:33:44",
+            "id": "hmsl2b0",
+            "is_submitter": false,
+            "link_id": "t3_r6cu53",
+            "parent_id": "t1_hmsk3r8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "blabbities"
+        },
+        "hmsk3r8": {
+            "comment": "The funny thing is, I have 2FA enabled. I've had it enabled for a year now so it's strange that I've been receiving this. I'll see if I receive the alert again over the next week.",
+            "timeStamp": "2021/12/01-05:24:59",
+            "id": "hmsk3r8",
+            "is_submitter": true,
+            "link_id": "t3_r6cu53",
+            "parent_id": "t1_hmsjq1d",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Searching_wanderer"
+        },
+        "hmsjq1d": {
+            "comment": "Somebody trying to login from Russian io.\n\nI would say to *think about*\\* to setting up 2Factor authentication.....\n\nAltho it would be prob prudent to figure out how/what is the source of them getting your new password? Couldn't be a keylogger somewhere? I used to have a phone that was made in China that I'm pretty sure was the source of my yahoo email acct being used to spam. (I enabled Yahoo's pseudo 2F and never had the problem again from what I see in the login security logs  )\n\n*\\* I say think about 2Factor authentication because it's super I convenient at times and if you lose your second factors it may be gone forever. A buddy dealing with this right now and Google \"support\" is nonezistanr*",
+            "timeStamp": "2021/12/01-05:21:36",
+            "id": "hmsjq1d",
+            "is_submitter": false,
+            "link_id": "t3_r6cu53",
+            "parent_id": "t3_r6cu53",
+            "score": 1,
+            "stickied": false,
+            "author_name": "blabbities"
+        },
+        "hmsapf6": {
+            "comment": "[removed]",
+            "timeStamp": "2021/12/01-03:47:39",
+            "id": "hmsapf6",
+            "is_submitter": false,
+            "link_id": "t3_r6cu53",
+            "parent_id": "t3_r6cu53",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

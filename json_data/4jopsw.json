@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I got hit by RANSOM_LOCKY.JK on a few computers at work today.  I believe we got them all stopped, but we scanned them with Symantec and Malwarebytes after the fact and didn't find anything.  Reading this site [https://www.trendmicro.com/vinfo/us/threat-encyclopedia/malware/ransom_locky.jk](https://www.trendmicro.com/vinfo/us/threat-encyclopedia/malware/ransom_locky.jk) it says that the virus self-deletes afterwards.  I checked the registry and the random key was there and I removed it.  I didn't find any \"Locky\" keys at all.  As far as I can tell the infection is gone.  How safe are the PCs?",
+        "title": "Got hit by RANSOM_LOCKY.JK today; is the computer safe?",
+        "score": 1,
+        "id": "4jopsw",
+        "commsNum": 7,
+        "timeStamp": "2016/05/16-19:22:24",
+        "author_name": "jmayniac",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/4jopsw/got_hit_by_ransom_lockyjk_today_is_the_computer/"
+    },
+    "posts": {}
+}

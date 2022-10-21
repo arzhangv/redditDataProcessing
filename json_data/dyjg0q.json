@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "it seems like [http://www.ieee-security.org/TC/SP2013/papers/4977a559.pdf#page=5](http://www.ieee-security.org/TC/SP2013/papers/4977a559.pdf#page=5) will not be able to defend against attack such as [https://failingsilently.wordpress.com/2017/12/14/rop-chain-shell/](https://failingsilently.wordpress.com/2017/12/14/rop-chain-shell/) ?  \n\n\nCould anyone advise ?",
+        "title": "ROP (Return-Oriented Programming) attack and defense",
+        "score": 1,
+        "id": "dyjg0q",
+        "commsNum": 2,
+        "timeStamp": "2019/11/19-03:54:20",
+        "author_name": "promach",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/dyjg0q/rop_returnoriented_programming_attack_and_defense/"
+    },
+    "posts": {
+        "f81y7ej": {
+            "comment": "Seems like the writeup simply refer to SigROP which is discussed long time ago here: [https://www.cs.vu.nl/\\~herbertb/papers/srop\\_sp14.pdf](https://www.cs.vu.nl/~herbertb/papers/srop_sp14.pdf)",
+            "timeStamp": "2019/11/19-08:12:33",
+            "id": "f81y7ej",
+            "is_submitter": false,
+            "link_id": "t3_dyjg0q",
+            "parent_id": "t3_dyjg0q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "bl4ckic3"
+        },
+        "f81vm0o": {
+            "comment": "Advise about what? defending about control flow hijacking is not a simple task and I personally think won't be any solution, like ever with the actual hw+sw systems.",
+            "timeStamp": "2019/11/19-07:45:30",
+            "id": "f81vm0o",
+            "is_submitter": false,
+            "link_id": "t3_dyjg0q",
+            "parent_id": "t3_dyjg0q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "_gipi_"
+        }
+    }
+}

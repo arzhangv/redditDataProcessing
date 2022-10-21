@@ -1,0 +1,99 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Now you guys don't have to click links, isn't it great :) \n\nhttps://preview.redd.it/euyvyv11u7461.png?width=1338&amp;format=png&amp;auto=webp&amp;s=c493311be8c993bbffc79b8925840fbc1878d96a",
+        "title": "Gamarue.exe Malware Analysis Report",
+        "score": 1,
+        "id": "k9z4qx",
+        "commsNum": 9,
+        "timeStamp": "2020/12/09-11:49:51",
+        "author_name": "dkaye_mal_anst18",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 9,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/k9z4qx/gamarueexe_malware_analysis_report/"
+    },
+    "posts": {
+        "gf8txaz": {
+            "comment": "i do nit kbow too much about computer sciences, but it is truly a great post. nice information. thanks for sharing",
+            "timeStamp": "2020/12/09-20:09:42",
+            "id": "gf8txaz",
+            "is_submitter": false,
+            "link_id": "t3_k9z4qx",
+            "parent_id": "t3_k9z4qx",
+            "score": 2,
+            "stickied": false,
+            "author_name": "nabetsEz"
+        },
+        "gf8acga": {
+            "comment": "Its all good :)",
+            "timeStamp": "2020/12/09-17:03:49",
+            "id": "gf8acga",
+            "is_submitter": true,
+            "link_id": "t3_k9z4qx",
+            "parent_id": "t1_gf7xute",
+            "score": 1,
+            "stickied": false,
+            "author_name": "dkaye_mal_anst18"
+        },
+        "gf7xute": {
+            "comment": "Thanks! I missed the examination details section.",
+            "timeStamp": "2020/12/09-15:11:22",
+            "id": "gf7xute",
+            "is_submitter": false,
+            "link_id": "t3_k9z4qx",
+            "parent_id": "t1_gf7s4v7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Javali90"
+        },
+        "gf7s4v7": {
+            "comment": "I appreciate your response :) I run the malware on a physical machine (but honestly there are safer ways) but alot of times have an idea what I am running and plan accordingly. I also unplug myself from the network when I am done collecting data from the programs I use to capture data. The software I use is in the beginning of the report under Examination Details but to reiterate I use Process Monitor (the sysinternals tool), Process Explorer, Disk and Registry Alert, Wireshark, Md5summer, Bandicam (video capturing) and API monitor (capturing API calls). \n\nI learned alot of these tools in college, we had a week on malware analysis where the instructor would give us a sample and we would have to determine if it was malware or not. Ever since I was fascinated and wanted to learn more so I write these reports and I love doing them.",
+            "timeStamp": "2020/12/09-14:22:29",
+            "id": "gf7s4v7",
+            "is_submitter": true,
+            "link_id": "t3_k9z4qx",
+            "parent_id": "t1_gf7meid",
+            "score": 1,
+            "stickied": false,
+            "author_name": "dkaye_mal_anst18"
+        },
+        "gf7meid": {
+            "comment": "This is so cool. Thanks for sharing! Can you tell me about your lab setup? Where did you tested the malware?  Which software did you used to check the activity? Process monitor from sysinternals? How about the API calls?\nThanks for sharing your knowledge with the community.",
+            "timeStamp": "2020/12/09-13:35:04",
+            "id": "gf7meid",
+            "is_submitter": false,
+            "link_id": "t3_k9z4qx",
+            "parent_id": "t3_k9z4qx",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Javali90"
+        },
+        "gf7eb0r": {
+            "comment": "Thanks :) appreciate that",
+            "timeStamp": "2020/12/09-12:31:56",
+            "id": "gf7eb0r",
+            "is_submitter": true,
+            "link_id": "t3_k9z4qx",
+            "parent_id": "t1_gf79nwe",
+            "score": 1,
+            "stickied": false,
+            "author_name": "dkaye_mal_anst18"
+        },
+        "gf79nwe": {
+            "comment": "Nice write up !",
+            "timeStamp": "2020/12/09-11:55:48",
+            "id": "gf79nwe",
+            "is_submitter": false,
+            "link_id": "t3_k9z4qx",
+            "parent_id": "t3_k9z4qx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Lrnz93"
+        }
+    }
+}

@@ -1,0 +1,121 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hello, I am a final year student in the UK about the start their dissertation in my degree of Forensic Computing and Security. My Project idea needs to be related to my degree in some format. \n\nMy project is all about the journy I take and what I learn along the way, there are a few key factors that can improve the grade such as the novelty and having a client. \n\nI was wondering if anyone has any ideas of something I could do. I would like to work with an open-source sandbox tool or malware software. For now, my focused ideas is creating a python script that formats the HTML report of Cuckoo into a word document, along with this use human factor approaches to evaluate the usability of the document and hopefully expand on this to create a GUI that allows the user to export that format to different document types. \n\nIf anyone can help guide me with the above or has any other dissertation ideas along the forensic computing route that they think would be worth looking at please comment or message me. Any help would be greatly appreciated. Thank you!",
+        "title": "Dissertation - Cuckoo Sandboxing Report",
+        "score": 1,
+        "id": "evtr6g",
+        "commsNum": 9,
+        "timeStamp": "2020/01/29-13:36:46",
+        "author_name": "Arrong18",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 9,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/evtr6g/dissertation_cuckoo_sandboxing_report/"
+    },
+    "posts": {
+        "fg4bhom": {
+            "comment": "Hello, thank you for your response. Honestly it has been amazing to read everything you had to say.\n\nI have alway had a interest into antiforensic methods and how to circumvent them. With everything you have given me its really starting to look like I have a solid foundation to start a dissertation on.\n\nI'm thinking that if I can focus on making python scripts to strip out a VM and make it unrecognisable with cuckoo installed then that would be a fantastic project that can be expanded on even mid way to include other extra features.\n\nIt would be really nice to know if your company is looking for anything long these lines too, so if I'm confident enough to do this project I could contact the company to be a client for my project, this doesn't mean funding, just support and the occasional emailing for requirements. You have been a massive help, thank you!!",
+            "timeStamp": "2020/01/31-11:50:22",
+            "id": "fg4bhom",
+            "is_submitter": true,
+            "link_id": "t3_evtr6g",
+            "parent_id": "t1_ffzsadb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Arrong18"
+        },
+        "fg4aelw": {
+            "comment": "Thank you, I was gonna do some research into any API that cuckoo has. Nice to know that it's a thing before I commit to it. :)",
+            "timeStamp": "2020/01/31-11:39:19",
+            "id": "fg4aelw",
+            "is_submitter": true,
+            "link_id": "t3_evtr6g",
+            "parent_id": "t1_ffzrred",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Arrong18"
+        },
+        "fg0b84v": {
+            "comment": "What degree is this for?\n\nI'm sure there's an undergraduate engineering thesis here somewhere, but it is not nearly academic enough for BSc or master's.\n\nFor an engineering thesis you'd have to start with some high level problem, like \"a forensic analyst needs to run dynamic analysis for many malicious samples, but if you have hundreds of reports, how can you highlight the important points, in the best case via some automation?\"\n\nThen you go and formulate a set of requirements for such a system. You can interview people, or check the literature. You probably also have to set some limitations, because APT malware is different beast than cryptolockers. \n\nThen you go and check if there's open source solutions, like the cuckoo sandbox. You evaluate them, and see what requirements they fulfill and what they don't.\n\nThen you conclude that \"yeah, this combination of open source stuff does what we want in most cases\", or \"yeah we can't really do what we want with existing open source stuff\".\n\nMalware analysis by itself isn't really academic. You have to try and answer more general questions than \"what does this particular trojan do?\"",
+            "timeStamp": "2020/01/30-09:09:01",
+            "id": "fg0b84v",
+            "is_submitter": false,
+            "link_id": "t3_evtr6g",
+            "parent_id": "t3_evtr6g",
+            "score": 1,
+            "stickied": false,
+            "author_name": "NotAFinnishLawyer"
+        },
+        "ffzsadb": {
+            "comment": "Interestingly I was talking with a former co-worker yesterday and brought up Cuckoo. I know of at least three contract companies now that have been tasked with rebuilding Cuckoo to fit a clients needs, and I was on one of those teams.\n\nThe first thing everyone asks for is to prevent malware from recognizing it's in a sandbox. This means building out your VM (VMware workstation is has been the preferred tool for everyone of these clients), and stripping out everything that makes it recognizable as a VM. A lot of research in anti-forensics to make this happen. If you could create a python script that can make all of the changes needed both on the host (think modify the VM settings) and in guest environment to keep it from being recognized, that would be a great project and useful to the community at large. \n\nNext, essentially the same, but with everything related to Cuckoo. It's a great tool, but it's so popular any malware incorporating anti-forensics is looking for it. Changing default install paths, registry keys, etc. This one takes a lot more work, but is great for a forensics guy. Look at a nice VM environment before and after setting up Cuckoo, and make changes so that Cuckoo isn't clearly running. Great product, would be an alternate installation product with the changes made. \n\nThe next big changes we made, adding in a simple method for making add-on modules. Client wants it to do something specific? Create a way for them to drop a python script and be done with it. \n\nReporting, yeah change it too. Everyone always wants something different, this will usually be client dependent. \n\nUltimately as others have said, see what peer-reviewed research considers a problem. I'd start looking up the VM recognition by Malware anti-forensics, and find ways to mitigate that.",
+            "timeStamp": "2020/01/30-05:37:27",
+            "id": "ffzsadb",
+            "is_submitter": false,
+            "link_id": "t3_evtr6g",
+            "parent_id": "t3_evtr6g",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Secure4Fun"
+        },
+        "ffzrred": {
+            "comment": "For now I can't give dissertation ideas, but I just was to point out that if you're going the cuckoo sandbox way, you should know it has a very nice API which you can call or export task(s) in JSON format which is very easy to process in your app/module.",
+            "timeStamp": "2020/01/30-05:30:06",
+            "id": "ffzrred",
+            "is_submitter": false,
+            "link_id": "t3_evtr6g",
+            "parent_id": "t3_evtr6g",
+            "score": 1,
+            "stickied": false,
+            "author_name": "pardaillans"
+        },
+        "ffzro28": {
+            "comment": "Been there, done that.  It takes perseverance and a lot of patience to come up with a new topic. Network forensics is a thing (especially with IoT devices), perhaps there is more common ground than you might realize?\n\n- Pick a specific area within forensics and spend the next week reading everything you can about it while taking notes.  You need to have a firm understanding of the current state of the research to build upon it.  Set yourself a firm 1 month to build your background/literature review.\n- Explore GitHub for existing forensics projects that could be re-purposed or extended in a new way.\n- Reach out to authors in the field if you think you might have a project idea involving their research.  They may be interested in the collaboration/interest.",
+            "timeStamp": "2020/01/30-05:28:46",
+            "id": "ffzro28",
+            "is_submitter": false,
+            "link_id": "t3_evtr6g",
+            "parent_id": "t1_ffzpqpa",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mozark24"
+        },
+        "ffzpqpa": {
+            "comment": "Hello, thank you for your responce. Reading through your message has given me clarity that doing a script to convert documents probably isn't a very good idea. There is very little evidence that people are complaining or having issues with this.\n\nMy main problem is that I really want to do something forensic based but don't know what to do, everything has been done before. I need to create an artifact for my project which makes it even harder.\n\nMy project supervisor isn't very active nor is he interested in forensics, he is network based which isn't something I'm interested in at all. We got auto assigned supervisors.\n\nI'm really looking for someone to shout at me the answer that I need but understandably that isn't gonna happen. Just at a dead end.",
+            "timeStamp": "2020/01/30-05:00:20",
+            "id": "ffzpqpa",
+            "is_submitter": true,
+            "link_id": "t3_evtr6g",
+            "parent_id": "t1_ffyacrr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Arrong18"
+        },
+        "ffyxz9n": {
+            "comment": "[removed]",
+            "timeStamp": "2020/01/29-20:20:23",
+            "id": "ffyxz9n",
+            "is_submitter": false,
+            "link_id": "t3_evtr6g",
+            "parent_id": "t3_evtr6g",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ffyacrr": {
+            "comment": "I'm sure you know that a dissertation is a very personal journey but let me give you some suggestions (researcher in the final year of my dissertation):\n\n- On your proposal, your hypothesis appears to be that the current HTML report is insufficient (i.e., a cognitive burden) on the users.  What studies support your claim?  If you are confident in your hypothesis, you could perform this exploration study with a small user group.  I will say that the concept of evaluating the usability of a document sounds.... bad.  Is there some relevant and important data in your problem space that is difficult for users to see but when visualized could be useful?  Consider examining visualization research in forensic computing and security and explore related research if you want to stay near the human factors side.\n\n- Look at the future works section of dissertations and theses you found appealing.  Trace a methodology to address a topic.\n\n- See what kinds of research your advisor is most interested/involved in.  Is there a niche problem or concept that could be addressed?",
+            "timeStamp": "2020/01/29-15:48:37",
+            "id": "ffyacrr",
+            "is_submitter": false,
+            "link_id": "t3_evtr6g",
+            "parent_id": "t3_evtr6g",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mozark24"
+        }
+    }
+}

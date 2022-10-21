@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Can anyone point me towards some malware analysis specific community/forum/chats? I'm trying to get into malware analysis and I have a few questions but I cannot seem to find a community, board, or chat *specifically for* malware *analysis*. Everything I've found is either malware *removal* for end-users or in some cases, general reverse engineering. I'm trying to find out which version of Windows I should set my analysis lab VM up with to be able to analyze the widest variety of malware... and even how to get an old copy of windows if that's the answer. But in general, I'm sure I'll have more questions like this and would also love to contribute to the right place! Thanks.",
+        "title": "Malware Analysis Community",
+        "score": 10,
+        "id": "5v7v94",
+        "commsNum": 6,
+        "timeStamp": "2017/02/20-15:03:12",
+        "author_name": "null_endian",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5v7v94/malware_analysis_community/"
+    },
+    "posts": {}
+}

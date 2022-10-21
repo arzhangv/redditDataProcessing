@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Ticket resellers infected with a credit card skimmer",
+        "score": 1,
+        "id": "et024w",
+        "commsNum": 2,
+        "timeStamp": "2020/01/23-13:48:01",
+        "author_name": "ThisIsLibra",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://maxkersten.nl/2020/01/20/ticket-resellers-infected-with-a-credit-card-skimmer/"
+    },
+    "posts": {
+        "ffp2qnj": {
+            "comment": "Thank you :)",
+            "timeStamp": "2020/01/26-16:30:32",
+            "id": "ffp2qnj",
+            "is_submitter": true,
+            "link_id": "t3_et024w",
+            "parent_id": "t1_ffe362l",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ThisIsLibra"
+        },
+        "ffe362l": {
+            "comment": "Great write up! Really informative",
+            "timeStamp": "2020/01/23-19:11:30",
+            "id": "ffe362l",
+            "is_submitter": false,
+            "link_id": "t3_et024w",
+            "parent_id": "t3_et024w",
+            "score": 1,
+            "stickied": false,
+            "author_name": "naraaz"
+        }
+    }
+}

@@ -1,0 +1,143 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hello everyone , I'm currently stuck while reversing a java malware and I kind of need help or some quick advice as I've never dealt with java malware previously , the sample is known and detected by many engines under the name \"jacksbot\" , but I'm looking to reverse it on my own.\n\n[https://file.io/AumvtS](https://file.io/AumvtS) \\- This contains the decrypted jar file and the original malware jar file\n\n    xX7AWHYSSEWQyigAlA9m\n\nThe decrypted code opened in bytecode viewer (CFR) looks very bad and can't easily follow it ...\n\n[Some strings](https://i.redd.it/b5dnspa2ij131.png)\n\n[Main function from the decrypted class](https://i.redd.it/xwtpf5d6ij131.png)\n\nI'm expecting it's decrypting something either the strings inside it or another file from the resources , by debugging the code some of the variable shows up with values like \"MAC , WINDOWS , LINUX\" and such",
+        "title": "Java malware",
+        "score": 8,
+        "id": "bv6wc9",
+        "commsNum": 11,
+        "timeStamp": "2019/05/31-05:27:00",
+        "author_name": "desr3v3r",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 11,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/bv6wc9/java_malware/"
+    },
+    "posts": {
+        "eqbf756": {
+            "comment": "Holy shit thank you for sharing, this will be a godsend at some point. Wish I had known about it sooner. Cheers man :)",
+            "timeStamp": "2019/06/07-16:04:32",
+            "id": "eqbf756",
+            "is_submitter": false,
+            "link_id": "t3_bv6wc9",
+            "parent_id": "t1_epw5o8b",
+            "score": 1,
+            "stickied": false,
+            "author_name": "saysomegayshit"
+        },
+        "epw5o8b": {
+            "comment": "https://www.removeddit.com/r/Malware/comments/bv6wc9/java_malware/",
+            "timeStamp": "2019/06/03-05:56:16",
+            "id": "epw5o8b",
+            "is_submitter": false,
+            "link_id": "t3_bv6wc9",
+            "parent_id": "t1_epv00yn",
+            "score": 1,
+            "stickied": false,
+            "author_name": "PartOfTheBotnet"
+        },
+        "epv00yn": {
+            "comment": "Fair enough. Again, I wasnt able to look at the original post. I agree that using 3 different native libraries to access native OS features for 1 OS alone is indeed bloat. This type of thing should be reduced to 1 library per OS maximum. Thid suggests to me that many of the features in this malware are likely libraries that already exist, leading me to believe the authors do not have many resources/time at their disposal.",
+            "timeStamp": "2019/06/02-17:10:46",
+            "id": "epv00yn",
+            "is_submitter": false,
+            "link_id": "t3_bv6wc9",
+            "parent_id": "t1_epsfbnw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "saysomegayshit"
+        },
+        "epsfbnw": {
+            "comment": "It wasn't the native libs _(dll/so)_ I was calling bloat. It had JNativeHook, JavaNativeAccess, and a 3rd I forget the name of. Theee libraries for supporting Java/C++ interop when it could be simplified down to just one _(ie: just use jna)_.",
+            "timeStamp": "2019/06/01-20:42:14",
+            "id": "epsfbnw",
+            "is_submitter": false,
+            "link_id": "t3_bv6wc9",
+            "parent_id": "t1_epq8af5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "PartOfTheBotnet"
+        },
+        "epq8af5": {
+            "comment": "So the original post was deleted, so I apologize for the fact I cant actually look at the original sample (which could very well make my argument not applicable).\n\nHowever, its not uncommon for Java malware to have a native library for linux, macos, and windows. Generally this is to support functionality that cant be done purely in Java (i.e. keylogging). Im not sure if thats whats being done here, but if so I wouldnt really consider it 'bloat'.",
+            "timeStamp": "2019/06/01-08:03:05",
+            "id": "epq8af5",
+            "is_submitter": false,
+            "link_id": "t3_bv6wc9",
+            "parent_id": "t1_epoario",
+            "score": 1,
+            "stickied": false,
+            "author_name": "saysomegayshit"
+        },
+        "epoh840": {
+            "comment": "Nope I love that , I was recently going with a botnet actually written in C which was using hollowing and fiddling around , the CnC was down but yet I could still reverse it and get to know the commands, I love C &amp; Assembly , but as I said I've never messed with any Java malware (I used to write java and I didn't hate it) but just maybe because it's first time I go around this)",
+            "timeStamp": "2019/05/31-16:12:45",
+            "id": "epoh840",
+            "is_submitter": true,
+            "link_id": "t3_bv6wc9",
+            "parent_id": "t1_epoclhg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "desr3v3r"
+        },
+        "epoclhg": {
+            "comment": "Most malware is written in c++ so do you hate that too?",
+            "timeStamp": "2019/05/31-15:34:21",
+            "id": "epoclhg",
+            "is_submitter": false,
+            "link_id": "t3_bv6wc9",
+            "parent_id": "t1_epnju4l",
+            "score": 0,
+            "stickied": false,
+            "author_name": "PartOfTheBotnet"
+        },
+        "epoario": {
+            "comment": "Can you reupload the sample? It's 404'ing\n\nFrom the pictures that looks like some form of ZKM string encryption. There's a few older cracks around that get used a lot by warez developers. \n\nTry looking into https://github.com/java-deobfuscator/deobfuscator",
+            "timeStamp": "2019/05/31-15:19:49",
+            "id": "epoario",
+            "is_submitter": false,
+            "link_id": "t3_bv6wc9",
+            "parent_id": "t3_bv6wc9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "PartOfTheBotnet"
+        },
+        "epo3lwi": {
+            "comment": "I never had a reason to hate java, but well now I do lmao",
+            "timeStamp": "2019/05/31-14:24:17",
+            "id": "epo3lwi",
+            "is_submitter": true,
+            "link_id": "t3_bv6wc9",
+            "parent_id": "t1_epnju4l",
+            "score": 0,
+            "stickied": false,
+            "author_name": "desr3v3r"
+        },
+        "epnju4l": {
+            "comment": "andddd this is why I hate Java.",
+            "timeStamp": "2019/05/31-11:49:53",
+            "id": "epnju4l",
+            "is_submitter": false,
+            "link_id": "t3_bv6wc9",
+            "parent_id": "t3_bv6wc9",
+            "score": -1,
+            "stickied": false,
+            "author_name": "mraymond2028"
+        },
+        "epml8af": {
+            "comment": "&amp;#x200B;\n\nThrough some analysis I found out it is extracting another jar file File7836479904949796951.jar in %TEMP% , which has the same code but with extra libraries and some juicy stuff in it\n\nFilehash : AF3E71B0F178BE09E8EE4BC1E3F89ADE",
+            "timeStamp": "2019/05/31-07:54:31",
+            "id": "epml8af",
+            "is_submitter": true,
+            "link_id": "t3_bv6wc9",
+            "parent_id": "t3_bv6wc9",
+            "score": 2,
+            "stickied": false,
+            "author_name": "desr3v3r"
+        }
+    }
+}

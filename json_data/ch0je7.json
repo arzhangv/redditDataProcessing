@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Ok so my computer started having this search bar stuck on the top of the screen today and I don\u2019t know how to get rid of it. I installed most of what I downloaded today, what should I do?",
+        "score": 1,
+        "id": "ch0je7",
+        "commsNum": 1,
+        "timeStamp": "2019/07/23-16:56:04",
+        "author_name": "HoneyNutMyCheerios",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://i.redd.it/eqq782yw55c31.jpg"
+    },
+    "posts": {
+        "euna71d": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2019/07/23-16:56:04",
+            "id": "euna71d",
+            "is_submitter": false,
+            "link_id": "t3_ch0je7",
+            "parent_id": "t3_ch0je7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "BazarLoader to Conti Ransomware in 32 Hours - In July we witnessed a BazarLoader campaign that deployed Cobalt Strike and ended with domain wide encryption using Conti ransomware.",
+        "score": 1,
+        "id": "pn4ncf",
+        "commsNum": 0,
+        "timeStamp": "2021/09/12-17:31:03",
+        "author_name": "TheDFIRReport",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://thedfirreport.com/2021/09/13/bazarloader-to-conti-ransomware-in-32-hours/"
+    },
+    "posts": {}
+}

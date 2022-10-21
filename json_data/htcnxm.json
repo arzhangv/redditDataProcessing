@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "goggle.com is another fallen soldier, redirects you here now.",
+        "score": 1,
+        "id": "htcnxm",
+        "commsNum": 1,
+        "timeStamp": "2020/07/18-00:27:12",
+        "author_name": "Hurbed",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://i.redd.it/hswuygxiikb51.png"
+    },
+    "posts": {
+        "fyg5iz5": {
+            "comment": "I'll google this goggle, thanks",
+            "timeStamp": "2020/07/18-02:22:15",
+            "id": "fyg5iz5",
+            "is_submitter": false,
+            "link_id": "t3_htcnxm",
+            "parent_id": "t3_htcnxm",
+            "score": 1,
+            "stickied": false,
+            "author_name": "infinitylord"
+        }
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Any decent virtual labs for ransomware response and to identify the malware, maybe like a case study that walks you through it?",
+        "title": "Ransomware response",
+        "score": 1,
+        "id": "qt80u1",
+        "commsNum": 8,
+        "timeStamp": "2021/11/13-11:15:11",
+        "author_name": "WhoAteTheLastCookie",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 8,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/qt80u1/ransomware_response/"
+    },
+    "posts": {
+        "hmeeu0g": {
+            "comment": "[removed]",
+            "timeStamp": "2021/11/28-05:51:59",
+            "id": "hmeeu0g",
+            "is_submitter": false,
+            "link_id": "t3_qt80u1",
+            "parent_id": "t3_qt80u1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hklzryb": {
+            "comment": "More information for learning. Figured a case study or senario of receiving limited information (hospital called and all their files are locked with *.locki, help with determination of initial breach and IOCs along the way?) Anything interactive where it gives your credentials for router/firewall and terminals where you can deploy response and collection tools",
+            "timeStamp": "2021/11/14-09:35:13",
+            "id": "hklzryb",
+            "is_submitter": true,
+            "link_id": "t3_qt80u1",
+            "parent_id": "t1_hkk7c4w",
+            "score": 1,
+            "stickied": false,
+            "author_name": "WhoAteTheLastCookie"
+        },
+        "hkkhtu4": {
+            "comment": "Check this article: [https://www.gdatasoftware.com/blog/2019/06/31666-ransomware-identification-for-the-judicious-analyst](https://www.gdatasoftware.com/blog/2019/06/31666-ransomware-identification-for-the-judicious-analyst)\n\nI also recommend Intezer, but it only helps if you have the ransomware executable. In many cases all you have is the ransomnote and encrypted files. Hence, the article.",
+            "timeStamp": "2021/11/14-01:24:22",
+            "id": "hkkhtu4",
+            "is_submitter": false,
+            "link_id": "t3_qt80u1",
+            "parent_id": "t3_qt80u1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Struppigel"
+        },
+        "hkk7c4w": {
+            "comment": "Analyze.intezer.com if you are a business you can also look to get an account on virustotal. There are many others. You kinda need to give more information..",
+            "timeStamp": "2021/11/13-23:16:58",
+            "id": "hkk7c4w",
+            "is_submitter": false,
+            "link_id": "t3_qt80u1",
+            "parent_id": "t3_qt80u1",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Tear-Sensitive"
+        },
+        "hkj54cb": {
+            "comment": "Funny\u2026hosted in Russia by a Russian company.",
+            "timeStamp": "2021/11/13-17:47:07",
+            "id": "hkj54cb",
+            "is_submitter": false,
+            "link_id": "t3_qt80u1",
+            "parent_id": "t1_hkiattc",
+            "score": 4,
+            "stickied": false,
+            "author_name": "smunro622"
+        },
+        "hkiattc": {
+            "comment": "The one I find interesting is app.any.run. it has numerous examples of different malware and ransomware strains. It provides screenshots, timeline and process tree for investigation purposes.",
+            "timeStamp": "2021/11/13-14:06:28",
+            "id": "hkiattc",
+            "is_submitter": false,
+            "link_id": "t3_qt80u1",
+            "parent_id": "t3_qt80u1",
+            "score": 3,
+            "stickied": false,
+            "author_name": "ThoiZz"
+        },
+        "hkhu7fn": {
+            "comment": "I will be messaging you in 1 day on [**2021-11-14 20:07:34 UTC**](http://www.wolframalpha.com/input/?i=2021-11-14%2020:07:34%20UTC%20To%20Local%20Time) to remind you of [**this link**](https://www.reddit.com/r/Malware/comments/qt80u1/ransomware_response/hkhu45p/?context=3)\n\n[**CLICK THIS LINK**](https://www.reddit.com/message/compose/?to=RemindMeBot&amp;subject=Reminder&amp;message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2FMalware%2Fcomments%2Fqt80u1%2Fransomware_response%2Fhkhu45p%2F%5D%0A%0ARemindMe%21%202021-11-14%2020%3A07%3A34%20UTC) to send a PM to also be reminded and to reduce spam.\n\n^(Parent commenter can ) [^(delete this message to hide from others.)](https://www.reddit.com/message/compose/?to=RemindMeBot&amp;subject=Delete%20Comment&amp;message=Delete%21%20qt80u1)\n\n*****\n\n|[^(Info)](https://www.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/)|[^(Custom)](https://www.reddit.com/message/compose/?to=RemindMeBot&amp;subject=Reminder&amp;message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here)|[^(Your Reminders)](https://www.reddit.com/message/compose/?to=RemindMeBot&amp;subject=List%20Of%20Reminders&amp;message=MyReminders%21)|[^(Feedback)](https://www.reddit.com/message/compose/?to=Watchful1&amp;subject=RemindMeBot%20Feedback)|\n|-|-|-|-|",
+            "timeStamp": "2021/11/13-12:08:11",
+            "id": "hkhu7fn",
+            "is_submitter": false,
+            "link_id": "t3_qt80u1",
+            "parent_id": "t1_hkhu45p",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RemindMeBot"
+        },
+        "hkhu45p": {
+            "comment": "!Remindme 1 day",
+            "timeStamp": "2021/11/13-12:07:34",
+            "id": "hkhu45p",
+            "is_submitter": false,
+            "link_id": "t3_qt80u1",
+            "parent_id": "t3_qt80u1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "cheezpnts"
+        }
+    }
+}

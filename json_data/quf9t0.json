@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Exchange Exploit Leads to Domain Wide Ransomware",
+        "score": 1,
+        "id": "quf9t0",
+        "commsNum": 0,
+        "timeStamp": "2021/11/15-04:25:23",
+        "author_name": "TheDFIRReport",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://thedfirreport.com/2021/11/15/exchange-exploit-leads-to-domain-wide-ransomware/"
+    },
+    "posts": {}
+}

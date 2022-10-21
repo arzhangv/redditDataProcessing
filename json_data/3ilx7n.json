@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I was using my phone (Android 4.4.4) to look for information on an album earlier when I mistakenly tapped on a download link. (\"accidentally\", I know, but the album's available for free from the artist and already had it, so I really didn't mean to tap!) Before I could hit the back button, it downloaded a 5kb file with no extension. Like an idiot, I emailed it to myself to check out in notepad++ without thinking - and did so, only to be faced with gibberish that I had no idea how to decode. \n\nI'm now terrifically worried that I've compromised my phone or laptop, despite multiple AV scans since then. Would any of you be willing to check the out the link and look at the file/upload to virustotal? It's here (BEWARE, live link, etc.): https://www[.]volumeet[.]com/m/54a861aeac89f60d088b4f97&amp;ved=0CDUQFjAEahUKEwjK_MvtycnHAhXLGh4KHfa1CQM&amp;usg=AFQjCNF9OmnaFfMkAxAxOCgcZnwxTou40w\n\nedit: got the file onto malwr.com, link is https://malwr.com/analysis/MjcxNDI1ZTkyNzIzNGIxYWE0NjM0ZDM4NGJmNzlkOTQ/",
+        "title": "What is this?",
+        "score": 4,
+        "id": "3ilx7n",
+        "commsNum": 10,
+        "timeStamp": "2015/08/27-08:29:08",
+        "author_name": "whatisthisohgodohgod",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 10,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/3ilx7n/what_is_this/"
+    },
+    "posts": {}
+}

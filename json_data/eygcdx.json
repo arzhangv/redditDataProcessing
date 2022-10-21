@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Winnti Group targeting universities in Hong Kong",
+        "score": 1,
+        "id": "eygcdx",
+        "commsNum": 1,
+        "timeStamp": "2020/02/03-15:36:08",
+        "author_name": "goretsky",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.welivesecurity.com/2020/01/31/winnti-group-targeting-universities-hong-kong/"
+    },
+    "posts": {
+        "fggzgki": {
+            "comment": "Hello,\n\nThis is the latest update into ongoing research about the [Winnti Group](https://www.welivesecurity.com/2019/10/21/winnti-group-skip2-0-microsoft-sql-server-backdoor/)'s use of malware.\n\nLatest IoCs:  https://github.com/eset/malware-ioc/tree/master/winnti_group\n\nRegards,\n\nAryeh Goretsky",
+            "timeStamp": "2020/02/03-15:37:57",
+            "id": "fggzgki",
+            "is_submitter": true,
+            "link_id": "t3_eygcdx",
+            "parent_id": "t3_eygcdx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "goretsky"
+        }
+    }
+}

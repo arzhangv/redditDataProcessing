@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Fixing The Log4j Vulnerability With Automated Log4j Remediation Rules",
+        "score": 1,
+        "id": "s22q1g",
+        "commsNum": 0,
+        "timeStamp": "2022/01/12-01:59:22",
+        "author_name": "whyhatcry",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.whitesourcesoftware.com/resources/blog/fixing-log4j-with-whitesource-renovate/"
+    },
+    "posts": {
+        "hse7pvi": {
+            "comment": "It's logging. It's quintessential, but only (or should be) bloody simple. A public static function that addresses some file, database or network socket. If it isn't simple, it defies the function of logging. The problem is that a logging API generally vibes badly with object oriented design patterns. (it's a global service, not an instantiatable one).\n\nThe problem is that bad programmers are afraid of it.",
+            "timeStamp": "2022/01/12-12:27:12",
+            "id": "hse7pvi",
+            "is_submitter": false,
+            "link_id": "t3_s22q1g",
+            "parent_id": "t1_hsdlb0p",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RedWineAndWomen"
+        },
+        "hsdlb0p": {
+            "comment": "Log4j is so baked into enterprise Java applications that it would be a nightmare in dependency management to pull it out while keeping the same functionality. \n\nIf you give stakeholders the proposal of either patching and keep it pushing or take out log4j entirely from the infrastructure, where one takes much longer, much more resources, but both achieve the same immediate result, it\u2019s pretty obvious to see which one will be picked.",
+            "timeStamp": "2022/01/12-10:06:38",
+            "id": "hsdlb0p",
+            "is_submitter": false,
+            "link_id": "t3_s22q1g",
+            "parent_id": "t1_hsbzu5l",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ShewkShewk"
+        },
+        "hsbzu5l": {
+            "comment": "I don't understand why all this effort is being put into keeping log4j as-is, alive, albeit patched. The function it provided that was so pernicious, was considered a 'feature'. That is to say: this thing broke on its happy flow. Its (bad) behaviour was intentional.\n\nIn such cases, you don't go on using it. You either excise it from your infrastructure and remove it altogether, or you make sure to layer it with firewalling, de-privileging, and/or sandboxing.\n\nThere is no cure inside log4j because log4j intended to do what it did. What guarantee does one have that any subsequent software version of it, isn't laden with the same mentality?",
+            "timeStamp": "2022/01/12-02:33:13",
+            "id": "hsbzu5l",
+            "is_submitter": false,
+            "link_id": "t3_s22q1g",
+            "parent_id": "t3_s22q1g",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RedWineAndWomen"
+        },
+        "hsbycfj": {
+            "comment": "I wonder if something like this can happen on different platforms, like python or open-source? It seems like this could be easily been prevented",
+            "timeStamp": "2022/01/12-02:12:39",
+            "id": "hsbycfj",
+            "is_submitter": false,
+            "link_id": "t3_s22q1g",
+            "parent_id": "t3_s22q1g",
+            "score": 1,
+            "stickied": false,
+            "author_name": "agewitbog"
+        }
+    }
+}

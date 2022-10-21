@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Anyone knows what this is? [https://app.any.run/tasks/cf731cf2-5cca-4f44-8ef2-8a16088e6bd8](https://app.any.run/tasks/cf731cf2-5cca-4f44-8ef2-8a16088e6bd8)\n\nThe macro drops C:\\\\Users\\\\admin\\\\AppData\\\\Roaming\\\\Microsoft\\\\Windows\\\\Templates\\\\sample\\_.dll\n\n[https://virustotal.com/en/file/71b2a1c23a1686383d449c47b41eeda8e2952ffc71642b5448bdf646a35be36c/analysis/](https://virustotal.com/en/file/71b2a1c23a1686383d449c47b41eeda8e2952ffc71642b5448bdf646a35be36c/analysis/)\n\nBut nothing seems to happen afterwards.\n\nAny idea what exactly that is? How do I check my network/clients for being infected?",
+        "title": "Unknown Malware",
+        "score": 1,
+        "id": "f1roc6",
+        "commsNum": 0,
+        "timeStamp": "2020/02/10-07:15:21",
+        "author_name": "any_any_drop",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/f1roc6/unknown_malware/"
+    },
+    "posts": {}
+}

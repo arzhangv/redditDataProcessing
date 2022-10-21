@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hey,\n\n\n\n\n**Disclaimer: I do not support piracy so I can't provide the link to the mentioned download. If you need it PM me**\n\n\n\nIn a cracked game I found a strange file within It's files, a actually it raise some  [alarms](https://www.virustotal.com/en/file/e1b9206cefc88ce85f3159b22786ae0b53b187254fbbe4bb869519cf55e5d0d5/analysis/), but I wasn't worried... a lot of antivirus detect cracks, patchs or keygens as malware, right?.\n\n\nThen after some few days i found [this process](https://www.virustotal.com/en/file/28da0084034e0cea2c65970d2213007e6cc29bd882b5884562d199b978648c36/analysis/) executing, and couldn't terminate the process, also It was located in C:\\Windows\\SysWOW64 (weird path for a patch/loader huh?). The report establishes a relationship with the first file (MinecraftInstallationValidation.exe), so yes, it came from there.\n\n\nAnd now I'm analyzing the file to see what's inside, It's a .NET obfuscated with ConfuserEx 0.4.0. I'm still finding information to deobfuscate it (found a very good to start and try).\n\n\nMy question is, what are the appropriate tools to analyze this file? are there examples of .NET trojans? is there a small possibility that this is a legit file with all the unfortunate features of a trojan? (well, a lot of people downloaded the same file... the benefit of the doubt!)\n\n\nHere is the 2nd file (the found .NET) if you want to check:\nhttps://filetea.me/t1sqhXQDEEuQBGGMurO0B9EYQ\n\n\nThanks\n\nEdit: Woops, some mistakes fixed.",
+        "title": "Found a potential .NET trojan, tools to analyze it?",
+        "score": 11,
+        "id": "31ftmd",
+        "commsNum": 10,
+        "timeStamp": "2015/04/04-11:01:39",
+        "author_name": "cliffreich",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 10,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/31ftmd/found_a_potential_net_trojan_tools_to_analyze_it/"
+    },
+    "posts": {}
+}

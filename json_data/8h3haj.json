@@ -1,0 +1,198 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "If this isn't the correct subreddit for this please PM me with a better suggestion.  \n  \nI work at an AT&amp;T Authorized Dealer (cell phone store) in the middle of nowhere, where phone-illiterates are grown. Today I've had the enjoyment of dealing with a ransomware app for a customer's Kyocera Hydro, a very inexpensive phone. Customer claims his teenage son was messing with the phone for a while and returned it with the \"FBI warning\" on the screen, demanding a payment via prepaid debit card.  \nThe app covered the entire screen preventing any interaction and making access to the settings impossible.  \nI booted the phone into SAFE mode by holding down the volume down and power buttons until it restarted, letting go of power once it turned back on (other phones will work differently).  \nOnce it rebooted it asked for a pincode, of which the customer has never set. Luckily after a couple of failed attempts, the phone offered a \"forgot pin?\" option, to my understanding isn't a very common feature. More luck ensued as the customer remembered their Gmail and password, from their I was given the option to remove the pin all together.  \nI looked through the installed apps to find the culprit, determined it to be the outlier of typical bloatware, \"PornHub.\".   \nAttempts to uninstall it we're hindered by it being greyed out, I then went to Security-&gt; Device Administrators to find that \"PornHub\" was there and active.  \nUnfortunately, when I went to disable it, the screen would go to sleep immediately, and attempts to turn the screen on was a tug-of-war with the app.  \nI then went and turned on Developer Mode (about phone -&gt; tap 'build' a bunch of times) and found an option to control the amount of simultaneous background apps.  \nSetting that to 'none' then retrying to disable the Device Administrator worked once I was able to tap the OK of the pop-up window that asked for verification to disable the Device Administrator while still fighting the screen sleeping.  \nFrom there I was free to uninstall the \"PornHub\" app and hand the phone back to the customer once developer mode and it's options were set to default.  \n  \nI find this to be a per-case solution to this particular Ransomware, as I don't believe most phones have the option to bypass the pin number lock screen.  \n  \nI wrote this on my phone, so sorry if it's ugly.",
+        "title": "Ransomware on Android",
+        "score": 57,
+        "id": "8h3haj",
+        "commsNum": 16,
+        "timeStamp": "2018/05/04-16:17:18",
+        "author_name": "joestaff",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 16,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8h3haj/ransomware_on_android/"
+    },
+    "posts": {
+        "dypaob6": {
+            "comment": "awsome post man\n",
+            "timeStamp": "2018/05/09-08:21:39",
+            "id": "dypaob6",
+            "is_submitter": false,
+            "link_id": "t3_8h3haj",
+            "parent_id": "t3_8h3haj",
+            "score": 2,
+            "stickied": false,
+            "author_name": "pakman82"
+        },
+        "dyk58kh": {
+            "comment": "Apps can actually run on top of the lockscreen,however you cannot access the phone, just the app. ",
+            "timeStamp": "2018/05/06-16:25:26",
+            "id": "dyk58kh",
+            "is_submitter": false,
+            "link_id": "t3_8h3haj",
+            "parent_id": "t3_8h3haj",
+            "score": 2,
+            "stickied": false,
+            "author_name": "MhikeiMPC12"
+        },
+        "dyip0vt": {
+            "comment": "I'm only aware of it's file name and app title, \"Pornhub.apk\".  \n",
+            "timeStamp": "2018/05/05-19:34:10",
+            "id": "dyip0vt",
+            "is_submitter": true,
+            "link_id": "t3_8h3haj",
+            "parent_id": "t1_dyil5ts",
+            "score": 1,
+            "stickied": false,
+            "author_name": "joestaff"
+        },
+        "dyil5ts": {
+            "comment": "Any possibility you could share the malicious apk? Or do you have the name/hash perhaps?",
+            "timeStamp": "2018/05/05-18:15:15",
+            "id": "dyil5ts",
+            "is_submitter": false,
+            "link_id": "t3_8h3haj",
+            "parent_id": "t3_8h3haj",
+            "score": 2,
+            "stickied": false,
+            "author_name": "nathangl"
+        },
+        "dyi2pcg": {
+            "comment": "I could definitely imagine a situation where that may be the only option without a computer readily available.",
+            "timeStamp": "2018/05/05-12:05:59",
+            "id": "dyi2pcg",
+            "is_submitter": true,
+            "link_id": "t3_8h3haj",
+            "parent_id": "t1_dyi24sc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "joestaff"
+        },
+        "dyi24sc": {
+            "comment": "I had an employee who worked for me get ransomware on his phone. He wound up factory reseting it.\n\nBut you! I like you! Rather than just factory reset you try to fix it. Keep being awesome. ",
+            "timeStamp": "2018/05/05-11:54:47",
+            "id": "dyi24sc",
+            "is_submitter": false,
+            "link_id": "t3_8h3haj",
+            "parent_id": "t3_8h3haj",
+            "score": 2,
+            "stickied": false,
+            "author_name": "TheCrowGrandfather"
+        },
+        "dyhndec": {
+            "comment": "Aaaaah",
+            "timeStamp": "2018/05/05-07:06:41",
+            "id": "dyhndec",
+            "is_submitter": false,
+            "link_id": "t3_8h3haj",
+            "parent_id": "t1_dyhmkn2",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Rafael20002000"
+        },
+        "dyhmkn2": {
+            "comment": "(to be honest)",
+            "timeStamp": "2018/05/05-06:48:15",
+            "id": "dyhmkn2",
+            "is_submitter": true,
+            "link_id": "t3_8h3haj",
+            "parent_id": "t1_dyhjwam",
+            "score": 3,
+            "stickied": false,
+            "author_name": "joestaff"
+        },
+        "dyhjwam": {
+            "comment": "TBH?",
+            "timeStamp": "2018/05/05-05:38:41",
+            "id": "dyhjwam",
+            "is_submitter": false,
+            "link_id": "t3_8h3haj",
+            "parent_id": "t1_dyhjny6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Rafael20002000"
+        },
+        "dyhjpls": {
+            "comment": "It was an app (.apk) file downloaded from some shady website that the customer gave permission to install when they turned off Unknown Sources.",
+            "timeStamp": "2018/05/05-05:33:16",
+            "id": "dyhjpls",
+            "is_submitter": true,
+            "link_id": "t3_8h3haj",
+            "parent_id": "t1_dyhf6qk",
+            "score": 5,
+            "stickied": false,
+            "author_name": "joestaff"
+        },
+        "dyhjny6": {
+            "comment": "Not an option without a computer handy. This was a sales floor, not a repair store.  Though TBH, I probably wouldn't have thought of that.",
+            "timeStamp": "2018/05/05-05:31:57",
+            "id": "dyhjny6",
+            "is_submitter": true,
+            "link_id": "t3_8h3haj",
+            "parent_id": "t1_dyhdmko",
+            "score": 5,
+            "stickied": false,
+            "author_name": "joestaff"
+        },
+        "dyhf6qk": {
+            "comment": "This is pretty interesting, I never thought about my phone getting ransomware. Cool post! ",
+            "timeStamp": "2018/05/05-02:42:18",
+            "id": "dyhf6qk",
+            "is_submitter": false,
+            "link_id": "t3_8h3haj",
+            "parent_id": "t3_8h3haj",
+            "score": 4,
+            "stickied": false,
+            "author_name": "I-Made-You-Read-This"
+        },
+        "dyhdmko": {
+            "comment": "Why not unistalling over adb? Denie the dangerous Permissions and then savely remove it?",
+            "timeStamp": "2018/05/05-01:31:15",
+            "id": "dyhdmko",
+            "is_submitter": false,
+            "link_id": "t3_8h3haj",
+            "parent_id": "t3_8h3haj",
+            "score": 4,
+            "stickied": false,
+            "author_name": "Rafael20002000"
+        },
+        "dyh4gb3": {
+            "comment": "I've had similar fun removing worms and the like manually, based on hitmanpro logs, when av failed to get the job done. Good times.",
+            "timeStamp": "2018/05/04-20:47:04",
+            "id": "dyh4gb3",
+            "is_submitter": false,
+            "link_id": "t3_8h3haj",
+            "parent_id": "t1_dyh3nhi",
+            "score": 7,
+            "stickied": false,
+            "author_name": "Shiznoz222"
+        },
+        "dyh3nhi": {
+            "comment": "Low key, I had fun doing it. :P",
+            "timeStamp": "2018/05/04-20:30:06",
+            "id": "dyh3nhi",
+            "is_submitter": true,
+            "link_id": "t3_8h3haj",
+            "parent_id": "t1_dyh06zu",
+            "score": 13,
+            "stickied": false,
+            "author_name": "joestaff"
+        },
+        "dyh06zu": {
+            "comment": "I like people like you. You just dive right in and \"reverse pen-test\" the malware itself until you find a fix.",
+            "timeStamp": "2018/05/04-19:18:43",
+            "id": "dyh06zu",
+            "is_submitter": false,
+            "link_id": "t3_8h3haj",
+            "parent_id": "t3_8h3haj",
+            "score": 22,
+            "stickied": false,
+            "author_name": "Shiznoz222"
+        }
+    }
+}

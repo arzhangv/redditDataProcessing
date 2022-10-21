@@ -1,0 +1,154 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "If i scan an exe file on virustotal and it doesnt detect anything bad in it, what are the odds of the file still having a virus in it despite it saying it doesnt?",
+        "title": "Virustotal",
+        "score": 1,
+        "id": "kim2u3",
+        "commsNum": 12,
+        "timeStamp": "2020/12/22-20:28:20",
+        "author_name": "PoopDaLoo",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 12,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/kim2u3/virustotal/"
+    },
+    "posts": {
+        "gj89wmi": {
+            "comment": "[removed]",
+            "timeStamp": "2021/01/14-06:24:10",
+            "id": "gj89wmi",
+            "is_submitter": false,
+            "link_id": "t3_kim2u3",
+            "parent_id": "t3_kim2u3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ghoqsj8": {
+            "comment": "Its very rare, by in case of signed rootkits that are new it is actually common, i have witnessed many new rootkits that are signed having 0 detection for weeks. but these are advanced rootkits I'm talking about not a simple minifilter type of rootkit.",
+            "timeStamp": "2020/12/31-23:59:29",
+            "id": "ghoqsj8",
+            "is_submitter": false,
+            "link_id": "t3_kim2u3",
+            "parent_id": "t3_kim2u3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "BitDrill"
+        },
+        "ggw7s83": {
+            "comment": "[removed]",
+            "timeStamp": "2020/12/24-04:51:28",
+            "id": "ggw7s83",
+            "is_submitter": false,
+            "link_id": "t3_kim2u3",
+            "parent_id": "t3_kim2u3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ggw77s2": {
+            "comment": "[removed]",
+            "timeStamp": "2020/12/24-04:42:34",
+            "id": "ggw77s2",
+            "is_submitter": false,
+            "link_id": "t3_kim2u3",
+            "parent_id": "t1_ggrnuuj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ggt25wg": {
+            "comment": "[removed]",
+            "timeStamp": "2020/12/23-08:06:08",
+            "id": "ggt25wg",
+            "is_submitter": false,
+            "link_id": "t3_kim2u3",
+            "parent_id": "t3_kim2u3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ggsgk3x": {
+            "comment": "If it is a file from a reputable source, low.\n\nIf it is super new, not reputable, or shared with you directly it could easily contain an exploit (like a RAT) and not be detected.",
+            "timeStamp": "2020/12/23-04:01:16",
+            "id": "ggsgk3x",
+            "is_submitter": false,
+            "link_id": "t3_kim2u3",
+            "parent_id": "t3_kim2u3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "beardog108"
+        },
+        "ggs8cfk": {
+            "comment": "Depends on file type, source, how old the file is, etc. VirusTotal can take days to weeks to detect new malware, depends on the AV vendors that provide the detection data.\n\nIf the score is &gt;=2 it's probably bad, if it's zero it doesn't mean it's good. Community votes and comments can provide more info though on whether it's clean.\n\nYour next stop should probably be a free community sandbox if there is not enough info on VirusTotal, there are a few out there with free tiers like hatching.io, any.run, and joesandbox.com.",
+            "timeStamp": "2020/12/23-01:35:36",
+            "id": "ggs8cfk",
+            "is_submitter": false,
+            "link_id": "t3_kim2u3",
+            "parent_id": "t3_kim2u3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "netbroom"
+        },
+        "ggs5qf4": {
+            "comment": "VirusTotal has been so far a pretty reliable source to me.",
+            "timeStamp": "2020/12/23-00:48:36",
+            "id": "ggs5qf4",
+            "is_submitter": false,
+            "link_id": "t3_kim2u3",
+            "parent_id": "t3_kim2u3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "BaGamman"
+        },
+        "ggrxhs9": {
+            "comment": "Ive had times where I've took software otherwise marked as malware by virustotal, windows defender, crowdstrike etc and moved some code around, renamed stuff, i.e. obfuscated it and sent to VT and got a clean result. And then i uploaded it at another date and time and its not marked as malware. For reasons, i must clarify they were pentesting tools not actual malware. \n\nSo yes even if VT says it's clean if you downloaded from a shady source, still be wary",
+            "timeStamp": "2020/12/22-22:38:49",
+            "id": "ggrxhs9",
+            "is_submitter": false,
+            "link_id": "t3_kim2u3",
+            "parent_id": "t3_kim2u3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Schnitzel725"
+        },
+        "ggru9bc": {
+            "comment": "Virustotal doesn't really detect batch files from personal experience (I make batch ransomware) but the best way is to check the date when it was made because if it's new it could be a new vulnerability.",
+            "timeStamp": "2020/12/22-21:54:38",
+            "id": "ggru9bc",
+            "is_submitter": false,
+            "link_id": "t3_kim2u3",
+            "parent_id": "t3_kim2u3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "urmomiskermit69"
+        },
+        "ggrnuuj": {
+            "comment": "Not that high that it has a known virus, and with the possibility that you would have a new virus being very low the over all chance is very low.\n\nvirustotal is going to be better than testing against the anti-virus installed on your computer.  The anti-virus companies use services like virustotal to find the viruses that are currently being found around the world and those data files you download contain the signatures for those.  There are lots of other signatures that the companies have and don't send to home computers but are available under virustotal. \n\nIt is not uncommon to have files that do not get detected on your home computer but get detected on virustotal but the otherway will not happen.",
+            "timeStamp": "2020/12/22-20:41:04",
+            "id": "ggrnuuj",
+            "is_submitter": false,
+            "link_id": "t3_kim2u3",
+            "parent_id": "t3_kim2u3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Kamwind"
+        },
+        "ggrnaao": {
+            "comment": "it depends on where you downloaded it, try running it through a specific AV like malwarebytes if you can but I highly doubt it's malicious if you downloaded it from a reputable source",
+            "timeStamp": "2020/12/22-20:34:57",
+            "id": "ggrnaao",
+            "is_submitter": false,
+            "link_id": "t3_kim2u3",
+            "parent_id": "t3_kim2u3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "bruh-man0"
+        }
+    }
+}

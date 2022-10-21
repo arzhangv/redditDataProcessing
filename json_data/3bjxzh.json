@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I stupidly installed this program and now I'm switching HDDs, installing Windows 7 to a new one. I'm wondering if the videos I downloaded (and songs I converted from those videos) are also malware. Or can I use them on my new installation with no problem? Kaspersky doesn't flag them up as problematic, but it's possible they could have evaded detection... isn't it?",
+        "title": "YouTube Downloader is malware. What about the videos it downloads?",
+        "score": 7,
+        "id": "3bjxzh",
+        "commsNum": 13,
+        "timeStamp": "2015/06/29-13:54:26",
+        "author_name": "Terry69Lawson",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 13,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/3bjxzh/youtube_downloader_is_malware_what_about_the/"
+    },
+    "posts": {
+        "hzmmcpf": {
+            "comment": "How do you know that it is malware?",
+            "timeStamp": "2022/03/06-14:03:29",
+            "id": "hzmmcpf",
+            "is_submitter": false,
+            "link_id": "t3_3bjxzh",
+            "parent_id": "t3_3bjxzh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Silent-Piccolo"
+        },
+        "hvc9o52": {
+            "comment": "[removed]",
+            "timeStamp": "2022/02/02-14:43:44",
+            "id": "hvc9o52",
+            "is_submitter": false,
+            "link_id": "t3_3bjxzh",
+            "parent_id": "t1_csmv10l",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

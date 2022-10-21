@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Introducing Venator: A macOS tool for proactive detection",
+        "score": 22,
+        "id": "dbfgxl",
+        "commsNum": 0,
+        "timeStamp": "2019/09/30-10:59:58",
+        "author_name": "g0relics",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://posts.specterops.io/introducing-venator-a-macos-tool-for-proactive-detection-34055a017e56"
+    },
+    "posts": {}
+}

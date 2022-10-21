@@ -1,0 +1,121 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Recently, an attacker targeted (Mac) users via a Firefox 0day.   \nIn this post, we triage the malware utilized in this attack, identifying its methods of persistence, and more! \n\n\ud83d\udcdd [https://objective-see.com/blog/blog\\_0x43.html](https://objective-see.com/blog/blog_0x43.html)",
+        "title": "Part I: Burned by Fire(fox): A Firefox 0day Drops a macOS Backdoor (OSX.Netwire.A)",
+        "score": 17,
+        "id": "c53uew",
+        "commsNum": 9,
+        "timeStamp": "2019/06/24-23:28:31",
+        "author_name": "maui_waui",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 9,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/c53uew/part_i_burned_by_firefox_a_firefox_0day_drops_a/"
+    },
+    "posts": {
+        "es1yxkw": {
+            "comment": "\"The people that would have an interest and ability to patch know about it \"  \n\n\nThat's the issue, without full disclosure it remains a zero day exploit to those who actually have an interest (and possible ability) to patch or mitigate it.   Take for example a product using OpenSSL... Does just notifying the product manufacturer make it non-zero day?  Do you have to notify the developers of OpenSSL?    \n\n\nIs it non-zero day if I notify others special hacking groups that have agreements to exchange exploits and vulnerabilities?  What if it's not an official report to the manufacturer, but I'm working with someone who works there?  \n\n\nI'd say if there isn't a public CVE, it's ZERO day.",
+            "timeStamp": "2019/06/25-17:38:10",
+            "id": "es1yxkw",
+            "is_submitter": false,
+            "link_id": "t3_c53uew",
+            "parent_id": "t1_es1xcgb",
+            "score": 0,
+            "stickied": false,
+            "author_name": "gyrfalcon16"
+        },
+        "es1xcgb": {
+            "comment": "Agreed value does not add anything to the definition beyond further differentiation. However, in your example, that would be an unpatched vulnerability. The people that would have an interest and ability to patch know about it but have accepted the risk at the request of the gov. It looses all impact if we call every bug a 0day. It's like giving every single release a major number. Or calling everyone you disagree with Hitler. It becomes meaningless. It's hard enough to get executives to pay attention without having to filter marketing and glory hounds trying to make something bigger than it is.",
+            "timeStamp": "2019/06/25-17:17:51",
+            "id": "es1xcgb",
+            "is_submitter": false,
+            "link_id": "t3_c53uew",
+            "parent_id": "t1_es1ane3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "homelesshermit"
+        },
+        "es1ane3": {
+            "comment": "Value doesn't mater and neither does reporting of it.  The NSA \"zero\" days were reported to Microsoft with the request they leave them active to exploit.",
+            "timeStamp": "2019/06/25-12:57:51",
+            "id": "es1ane3",
+            "is_submitter": false,
+            "link_id": "t3_c53uew",
+            "parent_id": "t1_es1807z",
+            "score": -1,
+            "stickied": false,
+            "author_name": "gyrfalcon16"
+        },
+        "es1807z": {
+            "comment": "The fact that 0 day means it's a bug that not even the vendor knows about. Thus why they go for millions. Once reported is an unpatched bug. Still good but does not command as much money.",
+            "timeStamp": "2019/06/25-12:31:33",
+            "id": "es1807z",
+            "is_submitter": false,
+            "link_id": "t3_c53uew",
+            "parent_id": "t1_es10fr2",
+            "score": 0,
+            "stickied": false,
+            "author_name": "homelesshermit"
+        },
+        "es10fr2": {
+            "comment": "Personally I consider anything that's not public information or fixable as an update as ZERO day...  Who gives a !#@$\\^ when it was reported to the vendor!  \n\n\nFull disclosure is what's needed.",
+            "timeStamp": "2019/06/25-11:17:39",
+            "id": "es10fr2",
+            "is_submitter": false,
+            "link_id": "t3_c53uew",
+            "parent_id": "t1_es0b7x7",
+            "score": 0,
+            "stickied": false,
+            "author_name": "gyrfalcon16"
+        },
+        "es0b7x7": {
+            "comment": "Damn it man, let's stop misusing the term. This has not been a 0day since it was reported to Mozilla. And since they have patched it this became an issue of user failure to update at worse.",
+            "timeStamp": "2019/06/25-06:57:12",
+            "id": "es0b7x7",
+            "is_submitter": false,
+            "link_id": "t3_c53uew",
+            "parent_id": "t3_c53uew",
+            "score": 5,
+            "stickied": false,
+            "author_name": "homelesshermit"
+        },
+        "erzxllf": {
+            "comment": "Terrible formatting on mobile :-(",
+            "timeStamp": "2019/06/25-03:05:33",
+            "id": "erzxllf",
+            "is_submitter": false,
+            "link_id": "t3_c53uew",
+            "parent_id": "t3_c53uew",
+            "score": 1,
+            "stickied": false,
+            "author_name": "paul_h"
+        },
+        "erzwaz9": {
+            "comment": "Which FF versions are impacted?",
+            "timeStamp": "2019/06/25-02:32:14",
+            "id": "erzwaz9",
+            "is_submitter": false,
+            "link_id": "t3_c53uew",
+            "parent_id": "t3_c53uew",
+            "score": 1,
+            "stickied": false,
+            "author_name": "3rssi"
+        },
+        "erzuggg": {
+            "comment": "mactoddlers btfo",
+            "timeStamp": "2019/06/25-01:43:01",
+            "id": "erzuggg",
+            "is_submitter": false,
+            "link_id": "t3_c53uew",
+            "parent_id": "t3_c53uew",
+            "score": -1,
+            "stickied": false,
+            "author_name": "NativityInBlack666"
+        }
+    }
+}

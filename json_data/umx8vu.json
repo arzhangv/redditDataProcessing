@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Costa Rica declares national emergency after Conti ransomware attacks",
+        "score": 1,
+        "id": "umx8vu",
+        "commsNum": 0,
+        "timeStamp": "2022/05/10-17:39:29",
+        "author_name": "DrinkMoreCodeMore",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.bleepingcomputer.com/news/security/costa-rica-declares-national-emergency-after-conti-ransomware-attacks/"
+    },
+    "posts": {
+        "i84gjwy": {
+            "comment": "Leaked info is on the CONTI .onion atm",
+            "timeStamp": "2022/05/10-17:42:43",
+            "id": "i84gjwy",
+            "is_submitter": true,
+            "link_id": "t3_umx8vu",
+            "parent_id": "t3_umx8vu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DrinkMoreCodeMore"
+        }
+    }
+}

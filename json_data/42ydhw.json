@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I don't know if this is the right posting this but couldn't find a better place so here I go.\n\nSo well, I started installing a software from a shady website, as usual it tried installing bloatware(we are all used to untick does little smal boxes, aren't we?) but I went through it carefully and unticked all the bloatware it tried installing, after it was done windows defender went crazy so I cleaned my system with it, find around 50 register files and one \"rat\". Afterwards I restarted my computer and scanned my computer with malwarebytes, it found the same so I cleaned again and restarted my computer, now after I have run malwarebytes which didn't find anything and currently scanning with windows defender, which hasen't found anything so far. \n\nAny tips how to make sure all of it is gone? I'm very paranoid when this kind of stuff happens. ",
+        "title": "Help make sure malware/virus is completely gone!",
+        "score": 0,
+        "id": "42ydhw",
+        "commsNum": 5,
+        "timeStamp": "2016/01/27-08:56:16",
+        "author_name": "JumpToDie",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/42ydhw/help_make_sure_malwarevirus_is_completely_gone/"
+    },
+    "posts": {}
+}

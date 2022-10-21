@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "very interesting piece of malware likely designed to hit Cuba that searches Word files containing sensitive words (Obama Cameron Europa Fidel Nuclear Secreto CONFIDENCIAL Rusia Disidentes Exilio). C&amp;C was behind TOR, proxified by tor2web.\nVT Links:\nhttps://www.virustotal.com/en/file/a02026c045243d1394177984476a745153ca46154297fa6c09c02570cc9e928e/analysis/ https://www.virustotal.com/en/file/25997b8761c2b2da692fbf1fba5a675c527772247b36e470a43c59239a04850a/analysis/",
+        "title": "OBATOR, a trojan that scans entire HD searching for hot words related to Cuba",
+        "score": 9,
+        "id": "32vmc4",
+        "commsNum": 2,
+        "timeStamp": "2015/04/16-19:09:08",
+        "author_name": "TomHagen1492",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/32vmc4/obator_a_trojan_that_scans_entire_hd_searching/"
+    },
+    "posts": {}
+}

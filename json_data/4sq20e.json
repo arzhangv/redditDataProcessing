@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[deleted]",
+        "title": "WildFire Ransomware Analysis",
+        "score": 17,
+        "id": "4sq20e",
+        "commsNum": 1,
+        "timeStamp": "2016/07/13-16:07:37",
+        "author_name": "[deleted]",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://labs.opendns.com/2016/07/13/wildfire-ransomware-gaining-momentum/"
+    },
+    "posts": {}
+}

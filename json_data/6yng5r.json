@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Experts spotted a 2007 variant of Babar, the spyware allegedly used by French Intelligence",
+        "score": 1,
+        "id": "6yng5r",
+        "commsNum": 0,
+        "timeStamp": "2017/09/07-07:12:56",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/62811/malware/babar-2007-sample.html"
+    },
+    "posts": {}
+}

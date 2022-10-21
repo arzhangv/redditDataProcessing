@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi everyone,\nI'm new to malware analysis and I'm currently analysing a malware called Dyre (available at thezoo github) and got some questions about it. I just need some help to know if Im on the right track.\nI found that the loader extracts the payload from the resource section of the PE and then execute it in an thread of explorer.exe.\n\n1- The resource that the malware extracts doesn't start with the string \"MZ\" but the string is found 647 bytes after the beginning of the resource. Is it normal that the payload in the resource section doesn't start with \"MZ\"?\n2-What I've done to analyse/reverse the payload is to remove those bytes. Is that ok or should I take other things in consideration?\n3-In those first bytes there are strings like LoadLibrary and VirtualAlloc, is it fair to assume that the new created thread loads the payload as a DLL ?\n4-If everything above is somewhat correct. Should I fully reverse the payload instruction by instruction or just start looking at strings/functions and analyse them ?\nThank you so much for the help.",
+        "title": "Questions about Dyre sample analysis",
+        "score": 1,
+        "id": "6cq26t",
+        "commsNum": 3,
+        "timeStamp": "2017/05/22-14:03:10",
+        "author_name": "linkreac",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6cq26t/questions_about_dyre_sample_analysis/"
+    },
+    "posts": {}
+}

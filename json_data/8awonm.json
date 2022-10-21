@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Crooks distribute malware masquerade as fake software updates and use NetSupport RAT",
+        "score": 1,
+        "id": "8awonm",
+        "commsNum": 0,
+        "timeStamp": "2018/04/09-00:30:29",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://securityaffairs.co/wordpress/71193/malware/netsupport-rat.html"
+    },
+    "posts": {}
+}

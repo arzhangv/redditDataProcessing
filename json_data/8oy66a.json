@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "As title says, anyone know how to get a virusbay invite code? I sent an email to an admin asking for one along with my qualifications and I didn\u2019t get a response.",
+        "title": "Where to get a virusbay invite code?",
+        "score": 11,
+        "id": "8oy66a",
+        "commsNum": 5,
+        "timeStamp": "2018/06/05-22:45:37",
+        "author_name": "pimmytrousers",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8oy66a/where_to_get_a_virusbay_invite_code/"
+    },
+    "posts": {
+        "e09dzyo": {
+            "comment": "Follow @virusbay_io on Twitter, they post invite codes every once a while. You can also try DMing them, like /u/Sentenced suggested.",
+            "timeStamp": "2018/06/07-03:33:07",
+            "id": "e09dzyo",
+            "is_submitter": false,
+            "link_id": "t3_8oy66a",
+            "parent_id": "t3_8oy66a",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ThePixelCoder"
+        },
+        "e08m8nn": {
+            "comment": "Doesnt seem to be valid",
+            "timeStamp": "2018/06/06-16:57:51",
+            "id": "e08m8nn",
+            "is_submitter": true,
+            "link_id": "t3_8oy66a",
+            "parent_id": "t1_e08lx2q",
+            "score": 2,
+            "stickied": false,
+            "author_name": "pimmytrousers"
+        },
+        "e08lx2q": {
+            "comment": "A516B-G6JL8-556AQP-64",
+            "timeStamp": "2018/06/06-16:52:07",
+            "id": "e08lx2q",
+            "is_submitter": false,
+            "link_id": "t3_8oy66a",
+            "parent_id": "t3_8oy66a",
+            "score": 2,
+            "stickied": false,
+            "author_name": "0xF0xD1E"
+        },
+        "e07r7nn": {
+            "comment": "Will do, thanks!",
+            "timeStamp": "2018/06/06-09:13:02",
+            "id": "e07r7nn",
+            "is_submitter": true,
+            "link_id": "t3_8oy66a",
+            "parent_id": "t1_e075dl3",
+            "score": 2,
+            "stickied": false,
+            "author_name": "pimmytrousers"
+        },
+        "e075dl3": {
+            "comment": "Try dm'ing @virusbay_io on twitter",
+            "timeStamp": "2018/06/06-01:26:14",
+            "id": "e075dl3",
+            "is_submitter": false,
+            "link_id": "t3_8oy66a",
+            "parent_id": "t3_8oy66a",
+            "score": 4,
+            "stickied": false,
+            "author_name": "Sentenced"
+        }
+    }
+}

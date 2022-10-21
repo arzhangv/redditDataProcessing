@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": 0.5,
+        "selftext": "In my Bitdefender av i saw that 2 days ago on 20th it blocked 2 infected tmp files in my downloads.These got deleted immediately.They got 32 charachers name with hyphen between them,I thought they were md5 hashes but I found nothing about them.I am trying to get answers for hours  what were these but nothing.At that time when it got deleted at the same time I was downloading a ton of tools to a pendrive like kaspersky;malwarebytes;bitdefender;hitman pro; kaspersky virus removal tool;bitdefender's 8 decryption tool for ransomwares a recogntion tool for it; kaspersky chameleon tool and all of these (if they had one) for MAC,Windows and Both.All these downloaded files were downloaded in the download folder and i moved them to the pendrive.Is it possible that one of them downloaded temp files too in the download folder or something?",
+        "title": "Gen:Variant.Ursu.781962 malware",
+        "score": 0,
+        "id": "hvqocj",
+        "commsNum": 11,
+        "timeStamp": "2020/07/22-02:24:53",
+        "author_name": "nomoneyforname",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 11,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/hvqocj/genvariantursu781962_malware/"
+    },
+    "posts": {
+        "fyz1u6l": {
+            "comment": "Hm?",
+            "timeStamp": "2020/07/23-05:22:41",
+            "id": "fyz1u6l",
+            "is_submitter": true,
+            "link_id": "t3_hvqocj",
+            "parent_id": "t1_fyv0mio",
+            "score": 1,
+            "stickied": false,
+            "author_name": "nomoneyforname"
+        },
+        "fyv0www": {
+            "comment": "I watched back my downloads from my brave browser when I downloaded these encrypt, tool, av stuffs and some of them didn't proceed we can say it got interrupted to download because of \"internet error\" which I didn't even notice when I did download these stuffs. Are these the downloads you talking about?",
+            "timeStamp": "2020/07/22-04:12:24",
+            "id": "fyv0www",
+            "is_submitter": true,
+            "link_id": "t3_hvqocj",
+            "parent_id": "t1_fyv0mio",
+            "score": 1,
+            "stickied": false,
+            "author_name": "nomoneyforname"
+        },
+        "fyv0mio": {
+            "comment": "They were probably incomplete files from partial downloads.  If your AV has an \"on-access\" capability, then it probably matched during the download and then interrupted the stream.  Partial files from downloads are generally created with the pull gets interrupted.  Incomplete files are not a threat as they cannot execute on the system.",
+            "timeStamp": "2020/07/22-04:08:02",
+            "id": "fyv0mio",
+            "is_submitter": false,
+            "link_id": "t3_hvqocj",
+            "parent_id": "t1_fyv0e3z",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Farstone"
+        },
+        "fyv0mbu": {
+            "comment": "I also watched back the win log files and I found nothing suspicious and I don't want o think that that these files were false positives coz there's a change that it wasn't",
+            "timeStamp": "2020/07/22-04:07:57",
+            "id": "fyv0mbu",
+            "is_submitter": true,
+            "link_id": "t3_hvqocj",
+            "parent_id": "t1_fyuzv8m",
+            "score": 1,
+            "stickied": false,
+            "author_name": "nomoneyforname"
+        },
+        "fyv0e3z": {
+            "comment": "Okay but there is nothing wrong with these programs on the pendrive. The Malwares got deleted from my download folder and they were 32characher unidentified md5 hash named temp files. I did everything what could be it caused by but nothing. Some of the virustotal scans say some of the tools Malware but it's signed and the comments say it's safe so they false positive. I don't have any idea now how 2 temp files wete in my downloads folder and what did it do",
+            "timeStamp": "2020/07/22-04:04:28",
+            "id": "fyv0e3z",
+            "is_submitter": true,
+            "link_id": "t3_hvqocj",
+            "parent_id": "t1_fyuzv8m",
+            "score": 1,
+            "stickied": false,
+            "author_name": "nomoneyforname"
+        },
+        "fyuzv8m": {
+            "comment": "This looks like a heuristic signature.  These signatures work on a \"smells like\" process.  The file might not be malicious, but have signatures that have been previously identified in other malware.\n\nThe code you are pulling could easily be mistaken as malware.  This mistake is based on the abilities of the code and not necessarily on proven actions of the code.  Another example is code that has been used or *can* be used maliciously.  \"netcat\" is frequently identified as malicious \"hacktool\" code by some av vendors.",
+            "timeStamp": "2020/07/22-03:56:19",
+            "id": "fyuzv8m",
+            "is_submitter": false,
+            "link_id": "t3_hvqocj",
+            "parent_id": "t3_hvqocj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Farstone"
+        }
+    }
+}

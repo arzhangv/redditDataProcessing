@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Can lockbit encrypted files be decrypted? if not then what are some common tools for ransomware decryption?",
+        "title": "Lockbit ransomware",
+        "score": 1,
+        "id": "udgjaa",
+        "commsNum": 0,
+        "timeStamp": "2022/04/27-16:07:04",
+        "author_name": "g0ldexperience1",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/udgjaa/lockbit_ransomware/"
+    },
+    "posts": {
+        "i6i4dxk": {
+            "comment": "Unfortunately, no. Here is my detailed analysis about LockBit 2.0: [https://lifars.com/wp-content/uploads/2022/02/LockBitRansomware\\_Whitepaper.pdf](https://lifars.com/wp-content/uploads/2022/02/LockBitRansomware_Whitepaper.pdf). It's probably one of the most complex ransomware code.",
+            "timeStamp": "2022/04/27-23:12:29",
+            "id": "i6i4dxk",
+            "is_submitter": false,
+            "link_id": "t3_udgjaa",
+            "parent_id": "t3_udgjaa",
+            "score": 1,
+            "stickied": false,
+            "author_name": "CyberMasterV"
+        },
+        "i6hpdw2": {
+            "comment": "TLDR; I\u2019m unsure of the exact encryption model lockbit ransomware implements (although I\u2019m sure it\u2019s a variant of hybrid encryption), but with modern encryption the only way you\u2019re going to be able to decrypt the files is with the symmetric key used to encrypt the files (assuming something like AES is used for bulk file encryption). There are no tools that can break these encryption standards, if tools like that existed nobody would pay the ransom. \n\n\nA little bit more on encryption because it\u2019s clear you might not understand. I don\u2019t know the specifics of lockbit, however, typically modern ransomware employ a hybrid encryption model. This is a combination of two different encryption standards: symmetric encryption (typically AES) and asymmetric encryption (typically RSA).\n\nIn order for an attacker to encrypt your files they must send a key for encryption across the network. If they send a symmetric key (a single key used for both encryption and decryption) then security researchers could simple obtain the symmetric key and decrypt any files encrypted by the ransomware. If an attacker wanted to use asymmetric encryption (two keys; a public key for encryption and a private key for decryption) they could simply send their public key across the network without the risk of IT professionals being able to decrypt the files. Asymmetrical encryption is a lot more computationally expensive than symmetric encryption and depending on file sizes it becomes impractical to encrypt many files using something like AES. To get the benefits of both speed and security attacks employ symmetric encryption for file encryption and encrypt the symmetric key with their public key generated from asymmetric encryption. \n\nI\u2019m sure there are people on here that know a lot more than me on the topic, but I\u2019m fairly certain most of what I said above is accurate.",
+            "timeStamp": "2022/04/27-20:37:31",
+            "id": "i6hpdw2",
+            "is_submitter": false,
+            "link_id": "t3_udgjaa",
+            "parent_id": "t3_udgjaa",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Doctor1424"
+        }
+    }
+}

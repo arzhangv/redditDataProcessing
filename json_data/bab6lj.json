@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I know the test will be nothing like the challenge so does anyone have any tips for the test? I plan on bulking up on all the command flags, etc, anything else I should keep in mind from previous earners?\n\nI'm pretty confident in x64 and Ida and I will also be focusing on all the tools involved in the lab as well as rereading all the books and redoing all the labs. Anything I'm missing?",
+        "title": "Just got my GREM coin",
+        "score": 14,
+        "id": "bab6lj",
+        "commsNum": 3,
+        "timeStamp": "2019/04/06-18:09:09",
+        "author_name": "Invinciblex",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/bab6lj/just_got_my_grem_coin/"
+    },
+    "posts": {
+        "ekb3rdv": {
+            "comment": "Like all SANS tests, make your own index for the books. You don\u2019t need to know every answer, but you at least need to know where to find them.",
+            "timeStamp": "2019/04/07-04:54:55",
+            "id": "ekb3rdv",
+            "is_submitter": false,
+            "link_id": "t3_bab6lj",
+            "parent_id": "t3_bab6lj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "jammy31415"
+        },
+        "ekb134y": {
+            "comment": "Afaik, part of the questions measure your ability to assess a situation you were given. Like, what can you deduce from a screenshot, code snippet, etc., or what your next steps should be with the analysis.\n\nAlso, tools too, yes.",
+            "timeStamp": "2019/04/07-03:42:30",
+            "id": "ekb134y",
+            "is_submitter": false,
+            "link_id": "t3_bab6lj",
+            "parent_id": "t3_bab6lj",
+            "score": 3,
+            "stickied": false,
+            "author_name": "dxter76"
+        },
+        "ekab99i": {
+            "comment": "Know the tools.  That test focuses more on them more then other tests taken.",
+            "timeStamp": "2019/04/06-18:29:52",
+            "id": "ekab99i",
+            "is_submitter": false,
+            "link_id": "t3_bab6lj",
+            "parent_id": "t3_bab6lj",
+            "score": 3,
+            "stickied": false,
+            "author_name": "Kamwind"
+        }
+    }
+}

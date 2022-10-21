@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hey guys,\n\nHere is a good explanation of Security Concepts for those that want to learn. Note this is strictly legal and no illegal activity is demonstrated, simply methods to mitigate them and the security in general.\n\nHope this helps those that want to learn.\n\n[**Security Concepts Explained**](https://www.youtube.com/watch?v=NlNCEfM70Sk&amp;list=PLc6LqxQFwub8Qac87gEF0MhSAxe5PqoNS&amp;index=13)",
+        "title": "Security Concepts Explained",
+        "score": 1,
+        "id": "qcxzcc",
+        "commsNum": 1,
+        "timeStamp": "2021/10/21-11:19:28",
+        "author_name": "BurningIce2020",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/qcxzcc/security_concepts_explained/"
+    },
+    "posts": {
+        "hhjdemt": {
+            "comment": "I think this is the wrong sub for this.",
+            "timeStamp": "2021/10/21-13:49:33",
+            "id": "hhjdemt",
+            "is_submitter": false,
+            "link_id": "t3_qcxzcc",
+            "parent_id": "t3_qcxzcc",
+            "score": 6,
+            "stickied": false,
+            "author_name": "ABadManComes"
+        }
+    }
+}

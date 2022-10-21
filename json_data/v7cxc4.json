@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "[https://www.virustotal.com/gui/file/dedfa81740f66842ab0856f8c366518332125ec1c752c5e4b7565d350cf85e21/detection](https://www.virustotal.com/gui/file/dedfa81740f66842ab0856f8c366518332125ec1c752c5e4b7565d350cf85e21/detection)",
+        "title": "Virustotal detection on geometry dash mod",
+        "score": 1,
+        "id": "v7cxc4",
+        "commsNum": 0,
+        "timeStamp": "2022/06/07-18:02:57",
+        "author_name": "The_Reimagined_Gamer",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/v7cxc4/virustotal_detection_on_geometry_dash_mod/"
+    },
+    "posts": {
+        "iblyiz1": {
+            "comment": "Oh sorry but I contacted the creator and they said it was open source and they sent the link so it's good.",
+            "timeStamp": "2022/06/08-07:01:03",
+            "id": "iblyiz1",
+            "is_submitter": true,
+            "link_id": "t3_v7cxc4",
+            "parent_id": "t1_iblwbep",
+            "score": 1,
+            "stickied": false,
+            "author_name": "The_Reimagined_Gamer"
+        },
+        "iblwbep": {
+            "comment": "aaaaand?",
+            "timeStamp": "2022/06/08-06:43:51",
+            "id": "iblwbep",
+            "is_submitter": false,
+            "link_id": "t3_v7cxc4",
+            "parent_id": "t3_v7cxc4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RCEdude"
+        }
+    }
+}

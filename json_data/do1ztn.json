@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Where can i find a sample of firefox-patch.js?",
+        "score": 1,
+        "id": "do1ztn",
+        "commsNum": 3,
+        "timeStamp": "2019/10/27-18:10:35",
+        "author_name": "Vaunt_Fremont_Tocsin",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/do1ztn/where_can_i_find_a_sample_of_firefoxpatchjs/"
+    },
+    "posts": {
+        "f5rlfsd": {
+            "comment": "It's going to be hard to find a sample just by the name of the file. If you have a link to an article that talks about it, the malware family name, or a hash, that would help steer us in the right direction.",
+            "timeStamp": "2019/10/29-17:58:34",
+            "id": "f5rlfsd",
+            "is_submitter": false,
+            "link_id": "t3_do1ztn",
+            "parent_id": "t3_do1ztn",
+            "score": 1,
+            "stickied": false,
+            "author_name": "FusionCarcass"
+        },
+        "f5q4bxj": {
+            "comment": "[removed]",
+            "timeStamp": "2019/10/29-11:05:52",
+            "id": "f5q4bxj",
+            "is_submitter": false,
+            "link_id": "t3_do1ztn",
+            "parent_id": "t3_do1ztn",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "f5jcxts": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2019/10/27-18:10:35",
+            "id": "f5jcxts",
+            "is_submitter": false,
+            "link_id": "t3_do1ztn",
+            "parent_id": "t3_do1ztn",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

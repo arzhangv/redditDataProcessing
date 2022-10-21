@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "good golly whats the default password for unzipping stuff from hybrid analysis?",
+        "title": "hybrid analysis",
+        "score": 1,
+        "id": "9tkoz9",
+        "commsNum": 3,
+        "timeStamp": "2018/11/02-07:42:15",
+        "author_name": "twerkinreversin",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/9tkoz9/hybrid_analysis/"
+    },
+    "posts": {
+        "e8wzx1h": {
+            "comment": "you'd think it'd be front and center somewhere...\n",
+            "timeStamp": "2018/11/02-08:14:38",
+            "id": "e8wzx1h",
+            "is_submitter": true,
+            "link_id": "t3_9tkoz9",
+            "parent_id": "t1_e8wzwad",
+            "score": 1,
+            "stickied": false,
+            "author_name": "twerkinreversin"
+        },
+        "e8wzwad": {
+            "comment": "no dice",
+            "timeStamp": "2018/11/02-08:14:20",
+            "id": "e8wzwad",
+            "is_submitter": true,
+            "link_id": "t3_9tkoz9",
+            "parent_id": "t1_e8wytne",
+            "score": 1,
+            "stickied": false,
+            "author_name": "twerkinreversin"
+        },
+        "e8wytne": {
+            "comment": "try \"infected\"",
+            "timeStamp": "2018/11/02-07:59:28",
+            "id": "e8wytne",
+            "is_submitter": false,
+            "link_id": "t3_9tkoz9",
+            "parent_id": "t3_9tkoz9",
+            "score": 2,
+            "stickied": false,
+            "author_name": "ledge_and_dairy"
+        }
+    }
+}

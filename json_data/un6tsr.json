@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "BPFDoor - An Evasive Linux Backdoor Technical Analysis",
+        "score": 1,
+        "id": "un6tsr",
+        "commsNum": 0,
+        "timeStamp": "2022/05/11-03:33:33",
+        "author_name": "wolfcod",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.sandflysecurity.com/blog/bpfdoor-an-evasive-linux-backdoor-technical-analysis/"
+    },
+    "posts": {
+        "i8619kq": {
+            "comment": "Source code mentioned available at https://pastebin.com/kmmJuuQP",
+            "timeStamp": "2022/05/11-03:35:21",
+            "id": "i8619kq",
+            "is_submitter": true,
+            "link_id": "t3_un6tsr",
+            "parent_id": "t3_un6tsr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "wolfcod"
+        }
+    }
+}

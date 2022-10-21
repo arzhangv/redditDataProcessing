@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Added some additional details regarding the sinkhole technique when combating ransomware http://www.freeforensics.org/2016/04/a-deeper-explanation-of-how-ransomware_5.html",
+        "title": "Ransomware Sinkhole details",
+        "score": 23,
+        "id": "4dn5ng",
+        "commsNum": 4,
+        "timeStamp": "2016/04/06-11:45:48",
+        "author_name": "Kvetch",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/4dn5ng/ransomware_sinkhole_details/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "MALWARE LINK FOLLOWS:\n\nhxxp://stealer.ambesty.com/theme/remote.jar\n\nDo NOT run this outside of a sandbox. Just in case anyone uninformed runs across this. It will try to steal MSN data, browser history data and take screencaps with your webcam.\n\nI am trying to work out the keys it uses for its upload and download URLs. The interesting part of this one is it tries to invoke csc.exe to compile the MSN payload.\n\n",
+        "title": "Need help decrypting (the rest of) and stepping through some Java malware",
+        "score": 8,
+        "id": "15mhgn",
+        "commsNum": 3,
+        "timeStamp": "2012/12/29-06:04:12",
+        "author_name": "voltagex",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/15mhgn/need_help_decrypting_the_rest_of_and_stepping/"
+    },
+    "posts": {}
+}

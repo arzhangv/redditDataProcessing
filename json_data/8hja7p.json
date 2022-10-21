@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I have seen an increase in youtube videos on malware analysis, but it's mostly very basic stuff. Does someone know of channels that have more advanced content?",
+        "title": "Advanced malware analysis youtube videos?",
+        "score": 8,
+        "id": "8hja7p",
+        "commsNum": 3,
+        "timeStamp": "2018/05/06-16:43:24",
+        "author_name": "passauhallo",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8hja7p/advanced_malware_analysis_youtube_videos/"
+    },
+    "posts": {
+        "dz0it9z": {
+            "comment": "Open Analysis [https://www.youtube.com/channel/UC\\-\\-DwaiMV\\-jtO\\-6EvmKOnqg/videos](https://www.youtube.com/channel/UC--DwaiMV-jtO-6EvmKOnqg/videos)\n\nhasherezade [https://www.youtube.com/channel/UCNWVswPNgn5kutPNa5sprkg/videos](https://www.youtube.com/channel/UCNWVswPNgn5kutPNa5sprkg/videos)\n\n13Cubed has great videos which help, like [https://www.youtube.com/watch?v=s98\\_p3bheL0&amp;t=0s&amp;list=PLosxZ4mkOPnUicp2U06XPYWLAglnDt9Iz&amp;index=9](https://www.youtube.com/watch?v=s98_p3bheL0&amp;t=0s&amp;list=PLosxZ4mkOPnUicp2U06XPYWLAglnDt9Iz&amp;index=9)\n\nSANS Digital Forensics and Incident Response [https://www.youtube.com/user/robtlee73/videos](https://www.youtube.com/user/robtlee73/videos)",
+            "timeStamp": "2018/05/15-06:37:17",
+            "id": "dz0it9z",
+            "is_submitter": false,
+            "link_id": "t3_8hja7p",
+            "parent_id": "t3_8hja7p",
+            "score": 1,
+            "stickied": false,
+            "author_name": "REMalware"
+        },
+        "dykb3ch": {
+            "comment": "OALabs - A bunch of stuff, from IDA pro techniques. Hooking Techniques, Anti-VM &amp; Anti-Debug. \n\nMonnappa K A -( https://www.youtube.com/user/hackycracky22) - Lot of stuff on Malware using Hollow Process injection. \n\nColin Hardy (https://www.youtube.com/channel/UCND1KVdVt8A580SjdaS4cZg/) - Good stuff on Dynamic Malware analysis, Doc based malware etc. \n\nMalwareAnalysisForHedgehogs - A lot of nice explanation of basic to advanced techniques of malware. Recent, videos have been about Theory about PE files which is quiet good. \n\nGiveAcademy - (https://www.youtube.com/user/fjlj) - Dive into Reversing. Most videos are 1+ hour long and they do Live Streaming as well. \n",
+            "timeStamp": "2018/05/06-18:19:54",
+            "id": "dykb3ch",
+            "is_submitter": false,
+            "link_id": "t3_8hja7p",
+            "parent_id": "t3_8hja7p",
+            "score": 5,
+            "stickied": false,
+            "author_name": "r30ng1n3rd"
+        },
+        "dyk7xww": {
+            "comment": "MalwareAnalysisForHedgehogs has some good stuff. ",
+            "timeStamp": "2018/05/06-17:20:03",
+            "id": "dyk7xww",
+            "is_submitter": false,
+            "link_id": "t3_8hja7p",
+            "parent_id": "t3_8hja7p",
+            "score": 6,
+            "stickied": false,
+            "author_name": "Legendofmudkip"
+        }
+    }
+}

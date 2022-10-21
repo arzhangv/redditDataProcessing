@@ -1,0 +1,154 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hello everybody, I'm interested in malware analysis, I know about the basic precautions like no shared folders, local-only network, no drag-drop/clipboard sharing. What I never understand is, how do you actually load the sample on the VM? Do you use a shared folder before and then remove it? Do you download it directly in the VM and then reset it to local-only? What's the process exactly? Thanks!",
+        "title": "Safely load malware samples on the VMs",
+        "score": 1,
+        "id": "jb7ud0",
+        "commsNum": 12,
+        "timeStamp": "2020/10/14-12:39:03",
+        "author_name": "snakethesniper0",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 12,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/jb7ud0/safely_load_malware_samples_on_the_vms/"
+    },
+    "posts": {
+        "gaz03im": {
+            "comment": "[removed]",
+            "timeStamp": "2020/11/02-20:00:35",
+            "id": "gaz03im",
+            "is_submitter": false,
+            "link_id": "t3_jb7ud0",
+            "parent_id": "t3_jb7ud0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "g90bmof": {
+            "comment": "I have my analysis VM on a different subnet behind a firewall. It is allowed out to the internet, and my host is allowed to RDP to it, but nothing else can go in or out.",
+            "timeStamp": "2020/10/16-08:10:43",
+            "id": "g90bmof",
+            "is_submitter": false,
+            "link_id": "t3_jb7ud0",
+            "parent_id": "t3_jb7ud0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "BouncingWalrus"
+        },
+        "g8xvozu": {
+            "comment": "[removed]",
+            "timeStamp": "2020/10/15-14:39:22",
+            "id": "g8xvozu",
+            "is_submitter": false,
+            "link_id": "t3_jb7ud0",
+            "parent_id": "t3_jb7ud0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "g8wfshn": {
+            "comment": "rename the sample to .bin if it isnt already, put it in a password protected zip file, put it on your vm, change the network settings, rename to .exe (or the extension the malware was originally)",
+            "timeStamp": "2020/10/15-07:21:11",
+            "id": "g8wfshn",
+            "is_submitter": false,
+            "link_id": "t3_jb7ud0",
+            "parent_id": "t3_jb7ud0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sneezec4t"
+        },
+        "g8vnsbm": {
+            "comment": "[removed]",
+            "timeStamp": "2020/10/15-00:34:59",
+            "id": "g8vnsbm",
+            "is_submitter": false,
+            "link_id": "t3_jb7ud0",
+            "parent_id": "t3_jb7ud0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "g8v5615": {
+            "comment": "You all have sandboxes? \n\nSemi joking aside, a \"bare metal\" box, like a laptop that I can use a product to restore to a pre-malware backup, has served me well without any issues. Maybe I'm a noob but trying to harden a VM to handle anti-VM analysis  was not going well.",
+            "timeStamp": "2020/10/14-20:13:43",
+            "id": "g8v5615",
+            "is_submitter": false,
+            "link_id": "t3_jb7ud0",
+            "parent_id": "t3_jb7ud0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Tacocuted"
+        },
+        "g8uo7p1": {
+            "comment": "I like to keep samples in password protected zip files on an external, dedicated malware HDD. Compress the file on your host machine, transfer to HDD, mount the HDD to your disconnected MA machine, transfer file, remove HDD.\n\nNote: Always revert your MA machine to a known good state before mounting the HDD.",
+            "timeStamp": "2020/10/14-17:24:45",
+            "id": "g8uo7p1",
+            "is_submitter": false,
+            "link_id": "t3_jb7ud0",
+            "parent_id": "t3_jb7ud0",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Trentifus"
+        },
+        "g8ucgrh": {
+            "comment": "Windows Sandbox is a great tool for this, IMO.\n\nYou can create a custom config (*.wsb) that specifies a particular shared folder between the VM and your machine, as well as additional settings. \n\nTo echo what others have said, encrypted and compressed folders for your samples is best, and aditional protections on that parent folder are also ideal. Downloading directly to the VM is also an option, but for some use-cases it's better to keep a copy.\n\nIf you want to be *extra* safe, you abstract this back onto linux, i.e. Linux hypervisor -&gt; Windows 10 Pro VM -&gt; Windows Sandbox.",
+            "timeStamp": "2020/10/14-15:33:17",
+            "id": "g8ucgrh",
+            "is_submitter": false,
+            "link_id": "t3_jb7ud0",
+            "parent_id": "t3_jb7ud0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "misceo"
+        },
+        "g8u82ya": {
+            "comment": "Whatever you do, just don't accidentally click and execute it. You can put into a .zip + password immediately to prevent this from ever happening. For actual file xfer, I enable sshd on remnux and use SFTP to xfer into the VM.",
+            "timeStamp": "2020/10/14-14:53:44",
+            "id": "g8u82ya",
+            "is_submitter": false,
+            "link_id": "t3_jb7ud0",
+            "parent_id": "t3_jb7ud0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ilovenyc"
+        },
+        "g8u45u2": {
+            "comment": "password protected zip,  the mount from VM to host. after file is on VM unmount and reboot just to be sure.",
+            "timeStamp": "2020/10/14-14:18:52",
+            "id": "g8u45u2",
+            "is_submitter": false,
+            "link_id": "t3_jb7ud0",
+            "parent_id": "t3_jb7ud0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ghostinshell000"
+        },
+        "g8u2pf3": {
+            "comment": "I throw them on a NAS in a password protected zip file.  After pulling then to the VM I turn off the network setting for the VM.",
+            "timeStamp": "2020/10/14-14:06:14",
+            "id": "g8u2pf3",
+            "is_submitter": false,
+            "link_id": "t3_jb7ud0",
+            "parent_id": "t3_jb7ud0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "anononabus"
+        },
+        "g8tzm07": {
+            "comment": "Depends on your threat model. The simplest way would be to download it using your analysis vm and then change the network settings on the vm. But of course, you might accidentally forget to change the network settings when you run it.",
+            "timeStamp": "2020/10/14-13:40:12",
+            "id": "g8tzm07",
+            "is_submitter": false,
+            "link_id": "t3_jb7ud0",
+            "parent_id": "t3_jb7ud0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MajorUrsa2"
+        }
+    }
+}

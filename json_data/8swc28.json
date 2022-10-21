@@ -1,0 +1,99 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Beginner Malware Reversing Challenges - MalwareTech",
+        "score": 86,
+        "id": "8swc28",
+        "commsNum": 7,
+        "timeStamp": "2018/06/21-15:50:07",
+        "author_name": "crashish",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.malwaretech.com/beginner-malware-reversing-challenges"
+    },
+    "posts": {
+        "e1g4jkx": {
+            "comment": "Plenty of researchers use \"NAT\". Of course this comes with some significant risk depending on the type of malware (i.e. ransomware encrypting any share it finds, etc). If you are super paranoid.. i would get a cheap burner box to only do analysis on and put it on its own network. ",
+            "timeStamp": "2018/06/28-09:45:39",
+            "id": "e1g4jkx",
+            "is_submitter": false,
+            "link_id": "t3_8swc28",
+            "parent_id": "t1_e14tnno",
+            "score": 3,
+            "stickied": false,
+            "author_name": "acalarch"
+        },
+        "e14tnno": {
+            "comment": "is a VM configured to NAT really secure enough?\n\nI always thought you needed host-only and then had to simulate all network traffic",
+            "timeStamp": "2018/06/22-15:06:59",
+            "id": "e14tnno",
+            "is_submitter": false,
+            "link_id": "t3_8swc28",
+            "parent_id": "t3_8swc28",
+            "score": 3,
+            "stickied": false,
+            "author_name": "thehoodedidiot"
+        },
+        "e14f02g": {
+            "comment": "Yep, or Bninja",
+            "timeStamp": "2018/06/22-11:21:25",
+            "id": "e14f02g",
+            "is_submitter": false,
+            "link_id": "t3_8swc28",
+            "parent_id": "t1_e14drvj",
+            "score": 3,
+            "stickied": false,
+            "author_name": "frostybear789"
+        },
+        "e14drvj": {
+            "comment": "What's the best tool for these? IDA?",
+            "timeStamp": "2018/06/22-11:03:52",
+            "id": "e14drvj",
+            "is_submitter": false,
+            "link_id": "t3_8swc28",
+            "parent_id": "t3_8swc28",
+            "score": 3,
+            "stickied": false,
+            "author_name": "PrimeMover17"
+        },
+        "e13kzfm": {
+            "comment": "Re: Shellcode1\nGrr. Firefox flagged this as malicious (domain?). Windows defender deleted the shellcode1.ex_ =(",
+            "timeStamp": "2018/06/22-02:21:35",
+            "id": "e13kzfm",
+            "is_submitter": false,
+            "link_id": "t3_8swc28",
+            "parent_id": "t3_8swc28",
+            "score": 0,
+            "stickied": false,
+            "author_name": "TailSpinBowler"
+        },
+        "e13ijv8": {
+            "comment": "Here's another great one. \n\nhttps://securedorg.github.io/RE101/",
+            "timeStamp": "2018/06/22-00:54:01",
+            "id": "e13ijv8",
+            "is_submitter": false,
+            "link_id": "t3_8swc28",
+            "parent_id": "t3_8swc28",
+            "score": 10,
+            "stickied": false,
+            "author_name": "ootuoyetahi"
+        },
+        "e139ty5": {
+            "comment": "This is really cool - looking forward to playing around with this. ",
+            "timeStamp": "2018/06/21-21:01:14",
+            "id": "e139ty5",
+            "is_submitter": false,
+            "link_id": "t3_8swc28",
+            "parent_id": "t3_8swc28",
+            "score": 1,
+            "stickied": false,
+            "author_name": "rieux77"
+        }
+    }
+}

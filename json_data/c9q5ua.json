@@ -1,0 +1,110 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I am a college student that is doing a research assignment which comapres between 2 free antivirus, AVG and AVAST, I will be conducting an experiment to check how these 2 antivirus affect the system performance. I am thinking of planting multiple malwares into the system. The question is where can I find malware files for testing, I saw EICAR testing files but are there any more alternatives or extra sources that I can use.",
+        "title": "Malware testing download source",
+        "score": 13,
+        "id": "c9q5ua",
+        "commsNum": 8,
+        "timeStamp": "2019/07/05-22:54:00",
+        "author_name": "ZhWei99",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 8,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/c9q5ua/malware_testing_download_source/"
+    },
+    "posts": {
+        "et5qyg4": {
+            "comment": "System performance... Hmm... How about you compare file copy, windows boot time, read write performance (using different program load times) and software installation times before and after installing the anti-virus since all AVs using DLL hooking methods to check malware activity. These time should be lower aka system performance should be higher without any AV on the OS. \n\nOther than that you could always use malware to test out how the performance takes a hit. So the experiment would be:\n\n- System performance without any AV\n- System performance with AVG\n- System performance with AVAST",
+            "timeStamp": "2019/07/07-00:41:01",
+            "id": "et5qyg4",
+            "is_submitter": false,
+            "link_id": "t3_c9q5ua",
+            "parent_id": "t3_c9q5ua",
+            "score": 1,
+            "stickied": false,
+            "author_name": "malwaresurgeon"
+        },
+        "et229m0": {
+            "comment": "You probably want to use VirusBay because ill be surprised if in TheZoo for cast majority of AV you wont get 100% detection. Use more recent/unknown samples.",
+            "timeStamp": "2019/07/06-03:35:43",
+            "id": "et229m0",
+            "is_submitter": false,
+            "link_id": "t3_c9q5ua",
+            "parent_id": "t3_c9q5ua",
+            "score": 1,
+            "stickied": false,
+            "author_name": "GelosSnake"
+        },
+        "et1yqhv": {
+            "comment": "The zoo is a tool used to safely download malware samples, you can use it to search and pull encrypted samples from the internet to analyze .",
+            "timeStamp": "2019/07/06-02:57:46",
+            "id": "et1yqhv",
+            "is_submitter": false,
+            "link_id": "t3_c9q5ua",
+            "parent_id": "t1_et1b0pt",
+            "score": 1,
+            "stickied": false,
+            "author_name": "_-rootkid-_"
+        },
+        "et1ms2f": {
+            "comment": "Exactly, Avast acquired AVG 3years ago, they use same engine now.",
+            "timeStamp": "2019/07/06-00:59:10",
+            "id": "et1ms2f",
+            "is_submitter": false,
+            "link_id": "t3_c9q5ua",
+            "parent_id": "t1_et1jri2",
+            "score": 2,
+            "stickied": false,
+            "author_name": "lukasstefanko"
+        },
+        "et1jri2": {
+            "comment": "Just FYI, you most likely won't find any differences between them as they use the same AV engine.\n\n[source](https://support.avg.com/answers?id=9060N000000TsFrQAK)",
+            "timeStamp": "2019/07/06-00:35:01",
+            "id": "et1jri2",
+            "is_submitter": false,
+            "link_id": "t3_c9q5ua",
+            "parent_id": "t3_c9q5ua",
+            "score": 12,
+            "stickied": false,
+            "author_name": "TrustworthyShark"
+        },
+        "et1e1vv": {
+            "comment": "Yes.",
+            "timeStamp": "2019/07/05-23:51:23",
+            "id": "et1e1vv",
+            "is_submitter": false,
+            "link_id": "t3_c9q5ua",
+            "parent_id": "t1_et1b0pt",
+            "score": 2,
+            "stickied": false,
+            "author_name": "__GG"
+        },
+        "et1b0pt": {
+            "comment": "This is real malware right?",
+            "timeStamp": "2019/07/05-23:28:51",
+            "id": "et1b0pt",
+            "is_submitter": true,
+            "link_id": "t3_c9q5ua",
+            "parent_id": "t1_et18ums",
+            "score": 3,
+            "stickied": false,
+            "author_name": "ZhWei99"
+        },
+        "et18ums": {
+            "comment": "https://github.com/ytisf/theZoo\n\nAll of those should be detected since they are publicly known.",
+            "timeStamp": "2019/07/05-23:13:39",
+            "id": "et18ums",
+            "is_submitter": false,
+            "link_id": "t3_c9q5ua",
+            "parent_id": "t3_c9q5ua",
+            "score": 6,
+            "stickied": false,
+            "author_name": "__GG"
+        }
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Ransomware never dies. Analysis of Sodinokibi ransomware variant",
+        "score": 1,
+        "id": "exm62o",
+        "commsNum": 3,
+        "timeStamp": "2020/02/02-01:42:01",
+        "author_name": "mlorenzana12",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.cynet.com/blog/ransomware-never-dies-analysis-of-new-sodinokibi-ransomware-variant/"
+    },
+    "posts": {
+        "fgf2afy": {
+            "comment": "but you are notpetya",
+            "timeStamp": "2020/02/03-01:02:02",
+            "id": "fgf2afy",
+            "is_submitter": false,
+            "link_id": "t3_exm62o",
+            "parent_id": "t1_fgezv66",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Owl_No"
+        },
+        "fgezv66": {
+            "comment": "I shed a single hiddentear for you",
+            "timeStamp": "2020/02/03-00:03:48",
+            "id": "fgezv66",
+            "is_submitter": false,
+            "link_id": "t3_exm62o",
+            "parent_id": "t1_fgauzf4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RyanStankye"
+        },
+        "fgauzf4": {
+            "comment": "i wannacry now",
+            "timeStamp": "2020/02/02-07:01:05",
+            "id": "fgauzf4",
+            "is_submitter": false,
+            "link_id": "t3_exm62o",
+            "parent_id": "t3_exm62o",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Owl_No"
+        }
+    }
+}

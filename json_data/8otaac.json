@@ -1,0 +1,220 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I apologize if that might be a stupid question but I\u2019ve been curious to see if stuff like TDL4, Alureon, ZeroAccess, Dogkild! Etc is still around. Years back I was interested in learning about malware removal and analysis but haven\u2019t kept up with what\u2019s out there besides ransomware. ",
+        "title": "Are rootkits still a thing?",
+        "score": 33,
+        "id": "8otaac",
+        "commsNum": 17,
+        "timeStamp": "2018/06/05-11:34:25",
+        "author_name": "LaneKiffinsVisor_",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 17,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8otaac/are_rootkits_still_a_thing/"
+    },
+    "posts": {
+        "e0evuqc": {
+            "comment": "I can give you a whole wikipedia page of them:\nhttps://en.wikipedia.org/wiki/Fileless_malware\n",
+            "timeStamp": "2018/06/09-19:24:02",
+            "id": "e0evuqc",
+            "is_submitter": false,
+            "link_id": "t3_8otaac",
+            "parent_id": "t1_e0ev4ft",
+            "score": 4,
+            "stickied": false,
+            "author_name": "databeast"
+        },
+        "e0evgr6": {
+            "comment": "&gt; Most malware we see now are staying in userland simply because it works and research efforts to actually live in the kernel are vastly more significant than earlier windows version\n\nIn respect to Exploit mitigation aren't Kernel-mode mitigation less  complex then usermode mitigations , and also don't a lot of game cheats implement rootkit style techniques ?",
+            "timeStamp": "2018/06/09-19:16:33",
+            "id": "e0evgr6",
+            "is_submitter": false,
+            "link_id": "t3_8otaac",
+            "parent_id": "t1_e065rl3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Zophike1"
+        },
+        "e0ev4ft": {
+            "comment": "&gt; so there's been a gradual move towards non-persistent tools that reside 100% in memory (but have no persistence usually) to make analysis of attack code by defenders more difficult.\n&gt; Tl;Dr, yes, but smarter attackers are starting to prefer memory-only payloads, to make it harder for defenders to analyze their techniques.\n\nCan you give a recent example of a piece of malware that does this ?",
+            "timeStamp": "2018/06/09-19:10:08",
+            "id": "e0ev4ft",
+            "is_submitter": false,
+            "link_id": "t3_8otaac",
+            "parent_id": "t1_e063tr0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Zophike1"
+        },
+        "e0ebss4": {
+            "comment": "Isn't a rootkit the same thing of a backdoor? Both still happen all the time",
+            "timeStamp": "2018/06/09-13:04:21",
+            "id": "e0ebss4",
+            "is_submitter": false,
+            "link_id": "t3_8otaac",
+            "parent_id": "t3_8otaac",
+            "score": 1,
+            "stickied": false,
+            "author_name": "rmddos"
+        },
+        "e08f2ok": {
+            "comment": "For linux yes ... but for windows thats a little hard because its a closed source ...btw it exists (fake bios updates) or stronger malware made by someone who can really access to the ring0 \ud83d\ude1b",
+            "timeStamp": "2018/06/06-14:56:30",
+            "id": "e08f2ok",
+            "is_submitter": false,
+            "link_id": "t3_8otaac",
+            "parent_id": "t1_e063tr0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "9aylas"
+        },
+        "e07cx7w": {
+            "comment": "What has been already said + EoP outside an user mode has gotten a lot harder lately.",
+            "timeStamp": "2018/06/06-05:21:10",
+            "id": "e07cx7w",
+            "is_submitter": false,
+            "link_id": "t3_8otaac",
+            "parent_id": "t3_8otaac",
+            "score": 1,
+            "stickied": false,
+            "author_name": "UncharacteristicLeaf"
+        },
+        "e0762i0": {
+            "comment": "I guess another reason why rootkits aren't much more developed is that the main targets are online 24/7 (poorly configured servers, IoT). So being persistent doesn't matter much more if you can reside in memory for a long time.",
+            "timeStamp": "2018/06/06-01:52:37",
+            "id": "e0762i0",
+            "is_submitter": false,
+            "link_id": "t3_8otaac",
+            "parent_id": "t3_8otaac",
+            "score": 1,
+            "stickied": false,
+            "author_name": "daimrod"
+        },
+        "e06wk17": {
+            "comment": "word, I hear yah - all goes up to my point about not letting your code fall into defender's hands at the end of the day. We're getting better at doing in-memory forensics now too.",
+            "timeStamp": "2018/06/05-21:22:24",
+            "id": "e06wk17",
+            "is_submitter": false,
+            "link_id": "t3_8otaac",
+            "parent_id": "t1_e06vq67",
+            "score": 1,
+            "stickied": false,
+            "author_name": "databeast"
+        },
+        "e06vq67": {
+            "comment": "I wasn't disagreeing with you. Just clarifying that there could conceivably exist rootkits which do not survive a system reboot and therefore whose purpose is not for persistence, but for deep hooking in order to hide data/connections/etc.",
+            "timeStamp": "2018/06/05-21:05:39",
+            "id": "e06vq67",
+            "is_submitter": false,
+            "link_id": "t3_8otaac",
+            "parent_id": "t1_e06vil4",
+            "score": 3,
+            "stickied": false,
+            "author_name": "Fonethree"
+        },
+        "e06vil4": {
+            "comment": "I already mentioned that what's defined by 'rootkit' has evolved over the years. When we first started using the term in the early 90's, rootkits were little more than a bunch of automation scripts to establish persistence post-exploitation. Over time that term started to include what you're referencing here - the use of extensive kernel-hooking to change usermode behavior. Why change the usermode experience to hide things?  \n\nSo your victim doesn't discover you've compromised them.\n\nSo you can maintain persistence...\n\n",
+            "timeStamp": "2018/06/05-21:01:29",
+            "id": "e06vil4",
+            "is_submitter": false,
+            "link_id": "t3_8otaac",
+            "parent_id": "t1_e06uytq",
+            "score": 5,
+            "stickied": false,
+            "author_name": "databeast"
+        },
+        "e06uytq": {
+            "comment": "Rootkits aren't just about maintaining persistence - they're also largely used when an attacker wants to hide something.",
+            "timeStamp": "2018/06/05-20:50:38",
+            "id": "e06uytq",
+            "is_submitter": false,
+            "link_id": "t3_8otaac",
+            "parent_id": "t1_e063tr0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Fonethree"
+        },
+        "e06ge3j": {
+            "comment": "[deleted]",
+            "timeStamp": "2018/06/05-16:32:34",
+            "id": "e06ge3j",
+            "is_submitter": false,
+            "link_id": "t3_8otaac",
+            "parent_id": "t3_8otaac",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "e069zbr": {
+            "comment": "Yes. There are just a lot of newer things.\n\nAlso, if it's reported on the news it means it's a story, Bill and Bob's PC with a RK on it isn't.",
+            "timeStamp": "2018/06/05-14:48:03",
+            "id": "e069zbr",
+            "is_submitter": false,
+            "link_id": "t3_8otaac",
+            "parent_id": "t3_8otaac",
+            "score": 3,
+            "stickied": false,
+            "author_name": "Grimreq"
+        },
+        "e069b7j": {
+            "comment": "Yes",
+            "timeStamp": "2018/06/05-14:37:49",
+            "id": "e069b7j",
+            "is_submitter": false,
+            "link_id": "t3_8otaac",
+            "parent_id": "t3_8otaac",
+            "score": 2,
+            "stickied": false,
+            "author_name": "jjirsa"
+        },
+        "e068xlq": {
+            "comment": "&gt; so there's been a gradual move towards non-persistent tools that reside 100% in memory (but have no persistence usually)\n\nThis has been the case for quite a while, in terms of APTs at least.",
+            "timeStamp": "2018/06/05-14:32:00",
+            "id": "e068xlq",
+            "is_submitter": false,
+            "link_id": "t3_8otaac",
+            "parent_id": "t1_e063tr0",
+            "score": 5,
+            "stickied": false,
+            "author_name": "ptchinster"
+        },
+        "e065rl3": {
+            "comment": "Another reason we see less rootkits in general is because windows 10, and even some of windows 8 have made significant improvements on exploit and rootkit mitigations. At least with respect to commodity malware and crimeware families, I'm sure state sponsored campaigns still are in ring 0 when they absolutely need to be.  Most malware we see now are staying in userland simply because it works and research efforts to actually live in the kernel are vastly more significant than earlier windows versions. ",
+            "timeStamp": "2018/06/05-13:45:16",
+            "id": "e065rl3",
+            "is_submitter": false,
+            "link_id": "t3_8otaac",
+            "parent_id": "t3_8otaac",
+            "score": 13,
+            "stickied": false,
+            "author_name": "g0dmoney"
+        },
+        "e063tr0": {
+            "comment": "terminology aside, the point of rootkits (or any evolution of them), is about maintaining persistence on a compromised host. This *has* changed a little over recent years.  \n\nIn short, because of the explosion of people doing analysis of hostile code, attackers prefer not to leave evidence behind on compromised systems (since it's going to be discovered and analyzed in detail, giving away some of their methods and advantage) so there's been a gradual move towards non-persistent tools that reside 100% in memory (but have no persistence usually) to make analysis of attack code by defenders more difficult.\n\nTl;Dr, yes, but smarter attackers are starting to prefer memory-only payloads, to make it harder for defenders to analyze their techniques.\n\n\n",
+            "timeStamp": "2018/06/05-13:17:24",
+            "id": "e063tr0",
+            "is_submitter": false,
+            "link_id": "t3_8otaac",
+            "parent_id": "t3_8otaac",
+            "score": 38,
+            "stickied": false,
+            "author_name": "databeast"
+        },
+        "e063say": {
+            "comment": "I've heard of fake bios updates that reinstall malware on any new OS.",
+            "timeStamp": "2018/06/05-13:16:50",
+            "id": "e063say",
+            "is_submitter": false,
+            "link_id": "t3_8otaac",
+            "parent_id": "t3_8otaac",
+            "score": 4,
+            "stickied": false,
+            "author_name": "lolbifrons"
+        }
+    }
+}

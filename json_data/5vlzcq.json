@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "After reading a number of papers relating to malware &amp; rootkits on an SDN but to date I can't find any evidence of people reporting such an incident in the wild? Is it all only in research that such threats are being developed or has anyone actually come across a live incident?",
+        "title": "Malware on an SDN?",
+        "score": 3,
+        "id": "5vlzcq",
+        "commsNum": 2,
+        "timeStamp": "2017/02/22-14:40:19",
+        "author_name": "signpos",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5vlzcq/malware_on_an_sdn/"
+    },
+    "posts": {}
+}

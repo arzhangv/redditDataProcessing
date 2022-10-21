@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Dridex banking trojan sending malspam.\nSubject: Your Virgin Media bill\nFrom: &lt;webteam@virginmediaconnections[.]com&gt;\n\nOne of the  emails looks like:\n\nFrom: Virgin Media &lt;webteam@virginmediaconnections.com&gt;\n\nDate: Wed 06/09/2017 11:53\n\nSubject: Your Virgin Media bill is ready\n\nBody content:\n\n  Your latest Virgin Media bill is ready\n\n________________________________________\nYour Bill Summary\n________________________________________\nBill date: Sep 9, 2017\nPayment due date: Sep 27, 2017\nPayment reference: 824248611429\n________________________________________\nAmount:  \u00a373.94\nGreat extras from Virgin Media\n\nDid you know that all our customers get free servicing and repairs? This excludes mistreatment, but for anything else just let us know and we\u2019ll come and fix it at a time that suits you, without costing you a penny! For info and t&amp;c\u2019s see virginmedia.com/extras\n\n________________________________________\n\nView Bill\n\nMaking payments by phone is easy\n\nIf you want to make a credit or debit card payment by phone simply call our automated payment service 0800 064 3777.\n\nHelp with your bill\n\nIf you have any questions about the details of your bill, check out our bill explainer online for all the answers.\n\nAnything else you\u2019d like to know?\n\nIf you have any questions or need help understanding your bill, you\u2019ll find all the answers at virginmedia.com/help.\n\nKind regards,\n\nThe Virgin Media team",
+        "title": "Dridex malware on run again",
+        "score": 6,
+        "id": "6yljkv",
+        "commsNum": 2,
+        "timeStamp": "2017/09/06-23:39:54",
+        "author_name": "tarang_24",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6yljkv/dridex_malware_on_run_again/"
+    },
+    "posts": {}
+}

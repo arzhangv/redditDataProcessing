@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "G'day all. I have a learning disability, so I may come across as kind of slow. If you guys could help me understand something, that would be awesome.\n\nI really don't know too much about malware, but I find the topic very interesting. I was reading up on a very common piece of malware that used to be quite prevalent called TDSS, I'm sure many of you have heard of it.\n\nAs I was reading about the different versions of TDSS, one thing most descriptions had in common was that the difference between TDS-2 and TDS-3 was that the latter had the ability to update and stay one step ahead of av software. \"The main trouble with TDL-3 is the fact the hackers behind it update TDSS Rootkit constantly.\"  \n\nMy question is why couldn't  TDS-2 or 1 do this? The hacker still has remote access, right? Why is it only TDS-3 that had this ability? Isn't all malware technically able to upgrade itself if the author wants to? Why do they stress this with TDS-3 when the previous ones might have been able to as well?\n\nI know this seems like a dumb question, but it contradicts my crappy knowledge of malware. I linked one article about them below\nhttp://www.enigmasoftware.com/rootkittdss-removal/\n\n\n",
+        "title": "Malware noob with some questions regarding TDSS.",
+        "score": 2,
+        "id": "5mpzi0",
+        "commsNum": 15,
+        "timeStamp": "2017/01/08-00:46:08",
+        "author_name": "Thrones33",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 15,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5mpzi0/malware_noob_with_some_questions_regarding_tdss/"
+    },
+    "posts": {}
+}

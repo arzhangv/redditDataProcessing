@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I'm setting up a Win7 VM on my desktop at home to study some generic malware (for now). However, I want to avoid infecting my desktop and other computers in the household. I'm not sure how VMWare's networking capabilities are setup by default on a Windows machine, and I want to have some network access on the VM. I'm a huge newbie when it comes to networking, and I probably shouldn't be fucking around with this until I know how it works. But is there a safe way to connect my VM to my network, but keep my other computers safe when infecting it? ",
+        "title": "Networking on VM: Which is the correct method for malware analysis?",
+        "score": 9,
+        "id": "2yy8yt",
+        "commsNum": 11,
+        "timeStamp": "2015/03/13-13:58:40",
+        "author_name": "UglyStru",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 11,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2yy8yt/networking_on_vm_which_is_the_correct_method_for/"
+    },
+    "posts": {}
+}

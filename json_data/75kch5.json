@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Good Analysis of CCleaner Backdoor with DGA and other great tidbits",
+        "score": 22,
+        "id": "75kch5",
+        "commsNum": 0,
+        "timeStamp": "2017/10/10-14:33:38",
+        "author_name": "mikiozen",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.crowdstrike.com/blog/protecting-software-supply-chain-deep-insights-ccleaner-backdoor/"
+    },
+    "posts": {}
+}

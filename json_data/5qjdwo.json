@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Thought it was interesting that they left all their code annotation in.\n\nThe first line indicates they were using a website copier, so chances are there are thousands of these. Reported the info to Microsoft and Google Safe Browsing, for whatever good that'll do:\n\nOriginal attack URL: hxxp://support.microsoft-com2709.online/j6/index.html\n\nDropped Trojan Rogue:JS/TechBrolo.A (detected/quarantined by Windows Defender)\n\nLaunched popup with URL data:text/html;base64,(a whole lot of base64)\n\nDecoded the base64: http://pastebin.com/M22gY0PP",
+        "title": "Decoded base64 tech support scam popup",
+        "score": 16,
+        "id": "5qjdwo",
+        "commsNum": 3,
+        "timeStamp": "2017/01/27-12:12:30",
+        "author_name": "kenfoldsfive",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5qjdwo/decoded_base64_tech_support_scam_popup/"
+    },
+    "posts": {}
+}

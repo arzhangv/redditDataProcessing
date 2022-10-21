@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Petya and Mischa ransomware bundled in one malicious payload",
+        "score": 5,
+        "id": "4ktx56",
+        "commsNum": 2,
+        "timeStamp": "2016/05/24-07:04:04",
+        "author_name": "chartwig1980",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/netsec/comments/4ktwdz/petya_and_mischa_ransomware_bundled_in_one/"
+    },
+    "posts": {}
+}

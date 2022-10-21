@@ -1,0 +1,99 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hi All,\n\nI am using the Volatility 2.6 standalone executable for windows. I have took a memory dump from a infected host machine for doing a memory forensics.\n\nIn memory image I could see lots of SVChost .exe , to check the relation between the process id and the parent id. I used the below command but showing me an error. \n\nvol.exe -f abc.raw --profile=Win7SP1x64 pslist | grep -i svchost\n\n'grep' is not recognized as an internal or external command,\n\noperable program or batch file.\n\nplease help",
+        "title": "Volatility - Memory Forensics",
+        "score": 1,
+        "id": "i0156j",
+        "commsNum": 7,
+        "timeStamp": "2020/07/29-06:57:43",
+        "author_name": "vyasarvenkat",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/i0156j/volatility_memory_forensics/"
+    },
+    "posts": {
+        "g091p1n": {
+            "comment": "You can use also pstree or psscan --output=dot --output-file=[file.dot](https://file.dot) and the you can analyze the .dot with XDot or other software. I suggest you to use psxview with the -R (--apply-rules), an Okay value mean is an expected behaviour.\n\n&amp;#x200B;\n\nvol.exe -f abc.raw --profile=Win7SP1x64 psscan --output=dot --output-file=file.dot\n\nvol.exe -f abc.raw --profile=Win7SP1x64 psxview -R",
+            "timeStamp": "2020/08/03-13:04:05",
+            "id": "g091p1n",
+            "is_submitter": false,
+            "link_id": "t3_i0156j",
+            "parent_id": "t3_i0156j",
+            "score": 1,
+            "stickied": false,
+            "author_name": "BlackDog17_"
+        },
+        "fzuz3v5": {
+            "comment": "Are there grep binaries for windows? Install one.",
+            "timeStamp": "2020/07/31-06:37:10",
+            "id": "fzuz3v5",
+            "is_submitter": false,
+            "link_id": "t3_i0156j",
+            "parent_id": "t3_i0156j",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RCEdude"
+        },
+        "fzpdvno": {
+            "comment": "[removed]",
+            "timeStamp": "2020/07/29-23:29:51",
+            "id": "fzpdvno",
+            "is_submitter": false,
+            "link_id": "t3_i0156j",
+            "parent_id": "t3_i0156j",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fzoo00r": {
+            "comment": "To combine what others have said, you have 3 choices\n1) Install grep for windows\n2) use findstr if in cmd/command line\n3) use select-string if in powershell\n\nAll of them have pros and cons",
+            "timeStamp": "2020/07/29-18:38:48",
+            "id": "fzoo00r",
+            "is_submitter": false,
+            "link_id": "t3_i0156j",
+            "parent_id": "t3_i0156j",
+            "score": 1,
+            "stickied": false,
+            "author_name": "PolarBill"
+        },
+        "fzn58cs": {
+            "comment": "If you are running on windows try using \"findstr\", instead.  I'm assuming you are on windows hence the \".exe\" \n\nNote: findstr is windows version of grep",
+            "timeStamp": "2020/07/29-10:56:30",
+            "id": "fzn58cs",
+            "is_submitter": false,
+            "link_id": "t3_i0156j",
+            "parent_id": "t3_i0156j",
+            "score": 1,
+            "stickied": false,
+            "author_name": "fletchyjack1995"
+        },
+        "fzmm2fw": {
+            "comment": "You are running this on Windows (.exe) which does not have grep. The instructions you are using are likely for Linux or MacOS, which has grep",
+            "timeStamp": "2020/07/29-08:12:57",
+            "id": "fzmm2fw",
+            "is_submitter": false,
+            "link_id": "t3_i0156j",
+            "parent_id": "t3_i0156j",
+            "score": 1,
+            "stickied": false,
+            "author_name": "bunby_heli"
+        },
+        "fzmfxx2": {
+            "comment": "You need to install grep",
+            "timeStamp": "2020/07/29-07:18:04",
+            "id": "fzmfxx2",
+            "is_submitter": false,
+            "link_id": "t3_i0156j",
+            "parent_id": "t3_i0156j",
+            "score": 3,
+            "stickied": false,
+            "author_name": "ResearchOp"
+        }
+    }
+}

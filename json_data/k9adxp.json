@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "is there a way for me to run a file with trojan(s) in it without harming my device?",
+        "title": "trojan",
+        "score": 1,
+        "id": "k9adxp",
+        "commsNum": 3,
+        "timeStamp": "2020/12/08-10:57:28",
+        "author_name": "JosephMothers",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/k9adxp/trojan/"
+    },
+    "posts": {
+        "gf36oe9": {
+            "comment": "Based on how little info you are providing, I'm going to assume that you don't know how to provide any more.\n\nSo, based on that, the answer is no.  There is no way for you to do this safely.",
+            "timeStamp": "2020/12/08-12:06:35",
+            "id": "gf36oe9",
+            "is_submitter": false,
+            "link_id": "t3_k9adxp",
+            "parent_id": "t1_gf32mz2",
+            "score": 2,
+            "stickied": false,
+            "author_name": "NoMordacAllowed"
+        },
+        "gf32mz2": {
+            "comment": "i know nothing about trojan but im running windows 10 64x",
+            "timeStamp": "2020/12/08-11:34:44",
+            "id": "gf32mz2",
+            "is_submitter": true,
+            "link_id": "t3_k9adxp",
+            "parent_id": "t1_gf31l94",
+            "score": 1,
+            "stickied": false,
+            "author_name": "JosephMothers"
+        },
+        "gf31l94": {
+            "comment": "Be more specific.\n\nWhat device or what system are you using?  \n\nDo you know anything about the trojan?  What is the operating context, (I.E., can you use measures like airgapping the entire device and then wiping it before reconnecting to any network)",
+            "timeStamp": "2020/12/08-11:26:50",
+            "id": "gf31l94",
+            "is_submitter": false,
+            "link_id": "t3_k9adxp",
+            "parent_id": "t3_k9adxp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "NoMordacAllowed"
+        }
+    }
+}

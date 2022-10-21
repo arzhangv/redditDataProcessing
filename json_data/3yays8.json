@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I went to Zenni Optical this morning to check an order status.  I couldn't get into my account info, but I was given a surprise of being offered a chance at a new iPad or gift card.   Now I get two or three tabs of adware in my Chrome browser when using it.  Also, Amazon doesn't show https:// (DigiCert Security Padlock) when visiting the site.  \n\nThis is the first time I've ever gotten malware on a Linux-based computer.   Using Ubuntu MATE 15 Wily Werewolf, right now.  I guess I'll have to reinstall everything  after a wipe.  This is the same exact reason why I left Windows OS a few years ago.  I guess Linux is no longer safe and easy.  \n\n\nI'm not an expert, so I'm just making an assumption that some type of script has been put onto that website I mentioned.  I figured, I was safe from that attack while using Ubuntu.  The only other thing I can think of causing all of this is program I installed via the terminal called I-Nex last night.  However, that's just out-there paranoia from me.   I have no clue what caused this exactly.  ",
+        "title": "Using Ubuntu MATE right now, and I'm shocked to get infested with adware in Chrome. Seems to have started with a website called zennioptical.com",
+        "score": 6,
+        "id": "3yays8",
+        "commsNum": 25,
+        "timeStamp": "2015/12/26-09:41:15",
+        "author_name": "TDKBanditos",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 25,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/3yays8/using_ubuntu_mate_right_now_and_im_shocked_to_get/"
+    },
+    "posts": {}
+}

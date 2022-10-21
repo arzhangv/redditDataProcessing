@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "A new Linux Malware targets Raspberry Pi devices to mine Cryptocurrency",
+        "score": 1,
+        "id": "6g0dji",
+        "commsNum": 0,
+        "timeStamp": "2017/06/08-04:32:44",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/59842/malware/linux-malware-raspberry-pi.html"
+    },
+    "posts": {}
+}

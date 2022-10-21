@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "How do attackers recruit new bots/Zombies? Which tools are they leveraging? One of the methods used in the bot infection process is exploiting bad passwords. During the course action of using a medium interaction honeypot, it has been observed daily brute force attempts against SSH.",
+        "score": 1,
+        "id": "2d7wdo",
+        "commsNum": 0,
+        "timeStamp": "2014/08/11-01:44:54",
+        "author_name": "countuponsecurity",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://countuponsecurity.com/2013/01/02/step-by-step-bot-infection-process-exploiting-bad-password/"
+    },
+    "posts": {}
+}

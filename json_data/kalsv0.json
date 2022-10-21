@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "[https://www.intezer.com/blog/research/russian-apt-uses-covid-19-lures-to-deliver-zebrocy//](https://www.intezer.com/blog/research/russian-apt-uses-covid-19-lures-to-deliver-zebrocy//)",
+        "title": "Russian APT28 hackers spotted leveraging COVID19 as phishing lures to deliver the Go version of Zebrocy",
+        "score": 1,
+        "id": "kalsv0",
+        "commsNum": 2,
+        "timeStamp": "2020/12/10-11:11:39",
+        "author_name": "Milafasents",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/kalsv0/russian_apt28_hackers_spotted_leveraging_covid19/"
+    },
+    "posts": {
+        "gfe8aky": {
+            "comment": "BS",
+            "timeStamp": "2020/12/11-06:40:59",
+            "id": "gfe8aky",
+            "is_submitter": false,
+            "link_id": "t3_kalsv0",
+            "parent_id": "t1_gfd1dh0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "-_-qarmah-_-"
+        },
+        "gfd1dh0": {
+            "comment": "i hacked this account lol",
+            "timeStamp": "2020/12/10-20:51:39",
+            "id": "gfd1dh0",
+            "is_submitter": false,
+            "link_id": "t3_kalsv0",
+            "parent_id": "t3_kalsv0",
+            "score": 0,
+            "stickied": false,
+            "author_name": "Scoobydoobydoozz"
+        }
+    }
+}

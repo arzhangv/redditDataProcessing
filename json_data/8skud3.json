@@ -1,0 +1,143 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I was watching a video about free low spec pc games, and he said gunscape, it looked cool, so i searched it and found this website at the TOP. i clicked on it and I got a bunch of \"Windows Error\" \"Windows is in danger\" shit, and it started downloading random stuff.... Automaticly, and i couldnt close it... And i reset my computer and i cant find the stuff it downloaded........ Nothing is happening but i fear the worst... PLEASE DONT GO TO THIS WEBSITE!!!\n\n*Processing img zisqyrwkb7511...*",
+        "title": "DONT GO TO THIS WEBSITE",
+        "score": 0,
+        "id": "8skud3",
+        "commsNum": 11,
+        "timeStamp": "2018/06/20-11:44:48",
+        "author_name": "Username_Taken0",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 11,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8skud3/dont_go_to_this_website/"
+    },
+    "posts": {
+        "e10iatu": {
+            "comment": "Found it",
+            "timeStamp": "2018/06/20-14:30:31",
+            "id": "e10iatu",
+            "is_submitter": false,
+            "link_id": "t3_8skud3",
+            "parent_id": "t1_e10i5ld",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Rafael20002000"
+        },
+        "e10i5ld": {
+            "comment": "Where is the Servers Ip?",
+            "timeStamp": "2018/06/20-14:28:22",
+            "id": "e10i5ld",
+            "is_submitter": false,
+            "link_id": "t3_8skud3",
+            "parent_id": "t1_e10b2qs",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Rafael20002000"
+        },
+        "e10b2qs": {
+            "comment": "https://pastebin.com/raw/KU0ii5MF",
+            "timeStamp": "2018/06/20-12:50:27",
+            "id": "e10b2qs",
+            "is_submitter": false,
+            "link_id": "t3_8skud3",
+            "parent_id": "t1_e109p0n",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ThievingSix"
+        },
+        "e109p0n": {
+            "comment": "Please do it",
+            "timeStamp": "2018/06/20-12:31:57",
+            "id": "e109p0n",
+            "is_submitter": false,
+            "link_id": "t3_8skud3",
+            "parent_id": "t1_e109mnk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Rafael20002000"
+        },
+        "e109mnk": {
+            "comment": "I meant for location that the infected server redirected to.\n\u00af\\\\\\_(\u30c4)_/\u00af",
+            "timeStamp": "2018/06/20-12:31:04",
+            "id": "e109mnk",
+            "is_submitter": false,
+            "link_id": "t3_8skud3",
+            "parent_id": "t1_e1099bg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ThievingSix"
+        },
+        "e1099bg": {
+            "comment": "I dont think you need to provide it, everyone has google",
+            "timeStamp": "2018/06/20-12:26:12",
+            "id": "e1099bg",
+            "is_submitter": false,
+            "link_id": "t3_8skud3",
+            "parent_id": "t1_e108o50",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Rafael20002000"
+        },
+        "e108o50": {
+            "comment": "It doesn't seem to be redirecting to the bad server anymore. I can provide the link if anyone is interested.",
+            "timeStamp": "2018/06/20-12:18:23",
+            "id": "e108o50",
+            "is_submitter": false,
+            "link_id": "t3_8skud3",
+            "parent_id": "t1_e108c46",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ThievingSix"
+        },
+        "e108c46": {
+            "comment": "On mobile its working, no Downloads, no cpu usage",
+            "timeStamp": "2018/06/20-12:13:55",
+            "id": "e108c46",
+            "is_submitter": false,
+            "link_id": "t3_8skud3",
+            "parent_id": "t1_e1070ec",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Rafael20002000"
+        },
+        "e1070ec": {
+            "comment": "Definitely a compromised server.",
+            "timeStamp": "2018/06/20-11:56:01",
+            "id": "e1070ec",
+            "is_submitter": false,
+            "link_id": "t3_8skud3",
+            "parent_id": "t1_e106sz3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ThievingSix"
+        },
+        "e106sz3": {
+            "comment": "Your computer might be compromised. The website looks totally fine. ",
+            "timeStamp": "2018/06/20-11:53:17",
+            "id": "e106sz3",
+            "is_submitter": false,
+            "link_id": "t3_8skud3",
+            "parent_id": "t3_8skud3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Benutzeraccount"
+        },
+        "e106qbm": {
+            "comment": "Looks dead now. 502 Bad Gateway\n\nEdit: Interesting, it seems to overload the system by doing many download attempts. It works even after you block multiple downloads via Chrome. The downloads look harmless.\n\nEdit2: For those curious https://pastebin.com/raw/KU0ii5MF",
+            "timeStamp": "2018/06/20-11:52:19",
+            "id": "e106qbm",
+            "is_submitter": false,
+            "link_id": "t3_8skud3",
+            "parent_id": "t3_8skud3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ThievingSix"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Excel 4.0 Macros Analysis - Cobalt Strike Shellcode Injection",
+        "score": 1,
+        "id": "e2j22i",
+        "commsNum": 1,
+        "timeStamp": "2019/11/27-09:09:08",
+        "author_name": "ThinkPrimary",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://youtu.be/XnN_UWfHlNM?t=905"
+    },
+    "posts": {
+        "f93kusc": {
+            "comment": "How did he know the payload was CobaltStrike?",
+            "timeStamp": "2019/11/29-13:06:38",
+            "id": "f93kusc",
+            "is_submitter": false,
+            "link_id": "t3_e2j22i",
+            "parent_id": "t3_e2j22i",
+            "score": 1,
+            "stickied": false,
+            "author_name": "w3tmo"
+        }
+    }
+}

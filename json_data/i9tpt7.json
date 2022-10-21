@@ -1,0 +1,99 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I'm trying to understand how Obfuscation works, created small and simple VBA Code Obfuscator, would anyone be interested for me to publish or not worth it? i'm also looking for feedback on what to add!\n\n&amp;#x200B;\n\nFeatures so far: \n\n\\#Function Exclusion List\n\n\\#Variable Exclusion List\n\n\\#Obfuscation Key\n\n\\#Reverse-Able or not\n\n\\#Non-Reverse-Abe: those Variables changed to random number/letter strings\n\n\\#Reverse-Able: You will get a de-obfuscation key\n\n\\#Removes All Comments (Optional)\n\n\\#Remove All Spaces (Optional)\n\n\\#Replaces Function/Names with random dictionary words (unrelated words) (Optional)",
+        "title": "Feedback for VBA Obfuscator",
+        "score": 1,
+        "id": "i9tpt7",
+        "commsNum": 7,
+        "timeStamp": "2020/08/14-13:33:01",
+        "author_name": "Ali_Alnuaimi",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/i9tpt7/feedback_for_vba_obfuscator/"
+    },
+    "posts": {
+        "g1kztgo": {
+            "comment": "Oh okay, never heard that one before, but good to know.",
+            "timeStamp": "2020/08/15-05:56:16",
+            "id": "g1kztgo",
+            "is_submitter": false,
+            "link_id": "t3_i9tpt7",
+            "parent_id": "t1_g1ih49a",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DieBlackfisk"
+        },
+        "g1kzqxs": {
+            "comment": "&gt;Abstract Syntax Trees \n\nThat is super interesting, thanks!",
+            "timeStamp": "2020/08/15-05:55:47",
+            "id": "g1kzqxs",
+            "is_submitter": false,
+            "link_id": "t3_i9tpt7",
+            "parent_id": "t1_g1hx0e6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DieBlackfisk"
+        },
+        "g1ih49a": {
+            "comment": "More common in commodity phishing?",
+            "timeStamp": "2020/08/14-19:24:38",
+            "id": "g1ih49a",
+            "is_submitter": false,
+            "link_id": "t3_i9tpt7",
+            "parent_id": "t1_g1hqouw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "fd4e56bc1f2d5c01653c"
+        },
+        "g1hx0e6": {
+            "comment": "It parses the code into a logical representation that be managed programmatically, which you need to do advanced obfuscation. Regex can be used for similar effect, but there's no need to reinvent the wheel. It's less prone to error, easier, and cleaner.",
+            "timeStamp": "2020/08/14-16:16:09",
+            "id": "g1hx0e6",
+            "is_submitter": false,
+            "link_id": "t3_i9tpt7",
+            "parent_id": "t1_g1hqlyw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "PhisherPrice"
+        },
+        "g1hqouw": {
+            "comment": "Yeah post it! Why did decide to go for VBA and not C#?",
+            "timeStamp": "2020/08/14-15:21:34",
+            "id": "g1hqouw",
+            "is_submitter": false,
+            "link_id": "t3_i9tpt7",
+            "parent_id": "t3_i9tpt7",
+            "score": 2,
+            "stickied": false,
+            "author_name": "DieBlackfisk"
+        },
+        "g1hqlyw": {
+            "comment": "Why AST rather than regex? Good advice also!",
+            "timeStamp": "2020/08/14-15:20:51",
+            "id": "g1hqlyw",
+            "is_submitter": false,
+            "link_id": "t3_i9tpt7",
+            "parent_id": "t1_g1hgymk",
+            "score": 2,
+            "stickied": false,
+            "author_name": "DieBlackfisk"
+        },
+        "g1hgymk": {
+            "comment": "I would suggest using Abstract Syntax Trees rather than regexes. \n\nThe features you've listed are fairly basic however. Some more advanced ideas:\n\nOpaque predicates\n\nControl flow flattening\n\nMixed Boolean arithmetic\n \nFunction inlining\n\nLoop unrolling\n\nDefinitely interested in seeing the final product!",
+            "timeStamp": "2020/08/14-14:01:19",
+            "id": "g1hgymk",
+            "is_submitter": false,
+            "link_id": "t3_i9tpt7",
+            "parent_id": "t3_i9tpt7",
+            "score": 3,
+            "stickied": false,
+            "author_name": "PhisherPrice"
+        }
+    }
+}

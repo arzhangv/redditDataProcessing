@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Here is a [link](https://www.sendspace.com/file/f8q7w9) to download an active sample. The password is INFECTED. It looks like its in the same family as njrat, the network traffic and code is very similar. It looks like it has usb worm functionality as well as password grabber/keylogger. Does anyone know of any analysis of it or a link to its builder?\n\n[Here](https://www.sendspace.com/file/k1dvzp) is a packet capture\n\nHashes of the sample\n  \n    MD5: f2f14021cf161c638af37e8545219d88\n    SHA1: 9d52c57805ce9a00a272a4dd1406d6c406ef325b\n    SHA256: e23605d07236e205652459436cc69fcf676fbe27e5584e0022bd5b72602778c5 \n",
+        "title": "Found a rat, looks very similar to NJRAT, anyone have more info/builder?",
+        "score": 15,
+        "id": "70hu3q",
+        "commsNum": 10,
+        "timeStamp": "2017/09/16-09:32:38",
+        "author_name": "4e4f5045",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 10,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/70hu3q/found_a_rat_looks_very_similar_to_njrat_anyone/"
+    },
+    "posts": {
+        "dntw3m5": {
+            "comment": "That's pretty impressive that you are tracking all these versions of njrat. How do you manage storing all this and tracking it? I think Talos has FIRST which may be cool but I haven't bought IDA PRO to use this plugin. I am usually just happy to attribute it to a particular malware family variant lol. \n\nOne thing I do, without letting it beacon out, is configure my VM to use another VM (REMnux) to be my DNS, and on REMnux I'll use a plethora of tools to mimick it being a C2. Sometimes you can issue the appropriate responses to see how it interacts with the C2. Or there is a .conf file where you can see the commands it expects. ",
+            "timeStamp": "2017/10/02-19:17:53",
+            "id": "dntw3m5",
+            "is_submitter": false,
+            "link_id": "t3_70hu3q",
+            "parent_id": "t1_dncw14m",
+            "score": 2,
+            "stickied": false,
+            "author_name": "x86ripper"
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Bashar Bachir Infection Chain Analysis",
+        "score": 1,
+        "id": "egskxk",
+        "commsNum": 4,
+        "timeStamp": "2019/12/28-08:19:58",
+        "author_name": "kindredsec",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://github.com/itsKindred/malware-analysis-writeups/blob/master/bashar-bachir-chain/bashar-bachir-analysis.pdf"
+    },
+    "posts": {
+        "fcjzi1l": {
+            "comment": "How did you get to know about this malware ?",
+            "timeStamp": "2019/12/30-05:14:40",
+            "id": "fcjzi1l",
+            "is_submitter": false,
+            "link_id": "t3_egskxk",
+            "parent_id": "t3_egskxk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "thms0"
+        },
+        "fcgichb": {
+            "comment": "looks like Roboto Mono.",
+            "timeStamp": "2019/12/29-09:25:05",
+            "id": "fcgichb",
+            "is_submitter": false,
+            "link_id": "t3_egskxk",
+            "parent_id": "t1_fc9yosj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "xichocolate"
+        },
+        "fcdp66e": {
+            "comment": "Neverknewe this malware was real... I saw it in an Indian movie... And it was really awesome in that movie",
+            "timeStamp": "2019/12/29-01:37:00",
+            "id": "fcdp66e",
+            "is_submitter": false,
+            "link_id": "t3_egskxk",
+            "parent_id": "t3_egskxk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "pwinxce_1"
+        },
+        "fc9yosj": {
+            "comment": "Nice. Random question, what font are you using? It\u2019s very readable",
+            "timeStamp": "2019/12/28-11:09:50",
+            "id": "fc9yosj",
+            "is_submitter": false,
+            "link_id": "t3_egskxk",
+            "parent_id": "t3_egskxk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "FCVAR_CLIENTDLL"
+        }
+    }
+}

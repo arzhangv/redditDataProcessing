@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "SSL_expired, basic attack vector causing data breaches, network incident. the way how to detect those expired SSL Cert using open source threat intel",
+        "score": 1,
+        "id": "vxtjgw",
+        "commsNum": 0,
+        "timeStamp": "2022/07/12-20:36:54",
+        "author_name": "alicia30765",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://blog.criminalip.io/2022/07/06/expired-ssl-certificates/"
+    },
+    "posts": {}
+}

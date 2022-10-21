@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hello!\n\nI'll get straight to the point. I've seen a banner ad for RainApp, and a $25 iTunes giftcard in a whole bunch of forums. The forums aren't always even related, hosted by the same company, or use the same software. Most of the time the ad is out of place, and reading the context around it will tell you something else is supposed to be there. For example, I have seen this particular ad on both the Cyberlink forums and the Steam forums most recently. I thought I maybe had some adware installed, but scans turned up nothing. I was wondering if it maybe wasn't local, but injected by my ISP or some sort of network thing. I asked some friends that live on the opposite side of the country from me to check a forum thread where I found the image, and tell me what they saw. They see the same thing, the free $25 iTunes gift card ad. I asked friends who don't have the same ISP as me (comcast) and they even see it.\n\nThe best explanation I've found is that the image host was bought out by some sort of malicious company, and changed all hosted images to that ad.\n\nThe ad in question: http://i.imgur.com/7ZeUxWJ.png\n\nForum post for reference: http://forums.steampowered.com/forums/showthread.php?t=671249\n\nThe host is Imageshack.us, idk if they have recently been aquired or anything, and I cannot confirm if its the same host with the previous times I've seen that image.\n\nAny thoughts?",
+        "title": "Anyone seen these fishy ads around the web?",
+        "score": 7,
+        "id": "3ix3y3",
+        "commsNum": 2,
+        "timeStamp": "2015/08/29-20:25:54",
+        "author_name": "4LTRU15T1CD3M1G0D",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/3ix3y3/anyone_seen_these_fishy_ads_around_the_web/"
+    },
+    "posts": {}
+}

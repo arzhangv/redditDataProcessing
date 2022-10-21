@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Does anyone know of any resources which provide instruction on C++? I'd love to learn it and apply the knowledge to a side project in which I'm able to run malware on a USB drive.",
+        "title": "USB Malware C++",
+        "score": 1,
+        "id": "euo24t",
+        "commsNum": 1,
+        "timeStamp": "2020/01/27-05:43:11",
+        "author_name": "ConstructivePlayer",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/euo24t/usb_malware_c/"
+    },
+    "posts": {
+        "ffqpbsj": {
+            "comment": "Learn any form of C or vb.net! You can make plenty of malware forms for windows! Also try experimenting outside of USB bounds I\u2019ve been writing malware for 6-7 years now if you have any questions or want tips message me!",
+            "timeStamp": "2020/01/27-07:54:52",
+            "id": "ffqpbsj",
+            "is_submitter": false,
+            "link_id": "t3_euo24t",
+            "parent_id": "t3_euo24t",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MysticalTeamMember"
+        }
+    }
+}

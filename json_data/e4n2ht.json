@@ -1,0 +1,143 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi guys, \n\nI think I have some malware on my laptop and would like some help. Here's what it does:\n\n\\-Spontaneously changes all my typing texts into ALL CAPS, or changes my numbers to the shift equivalents (i.e. instead of 12345 it would be !@#$%)\n\n\\-Opens a new window every time i click a link or click the browser button in the bottom bar\n\n&amp;#x200B;\n\ni've already scanned using norton and eset using the free trial.\n\n&amp;#x200B;\n\nany help is appreciated, thanks",
+        "title": "Malware that changes typing to all CAPS",
+        "score": 1,
+        "id": "e4n2ht",
+        "commsNum": 11,
+        "timeStamp": "2019/12/01-12:22:48",
+        "author_name": "OriginalPen",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 11,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/e4n2ht/malware_that_changes_typing_to_all_caps/"
+    },
+    "posts": {
+        "f9grqre": {
+            "comment": "&gt;generally counter-productive for malware to make itself known on peoples' machines \n\nI agree. What I'm saying is a well crafted piece of malware that manages to hide it's traffic won't get picked up by AV firms, unless either heuristics or the user detects something wrong.",
+            "timeStamp": "2019/12/02-08:23:08",
+            "id": "f9grqre",
+            "is_submitter": false,
+            "link_id": "t3_e4n2ht",
+            "parent_id": "t1_f9ekjyf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "frothface"
+        },
+        "f9ewe4t": {
+            "comment": "While signature based detection does work, isn't there a limit to how much it can detect? Databases can only hold so much information, and with the abundance of custom encoding schemes or obfuscation techniques, how are we combatting signature based detection? I know there's sandboxing, but well crafted malware can detect when it's being sandboxed, so it doesn't run anything that would compromise it. And if things are blocked in real time, couldn't some damage be done still before AV or antimalware software quarantine/block/remove the malware?",
+            "timeStamp": "2019/12/01-18:21:45",
+            "id": "f9ewe4t",
+            "is_submitter": false,
+            "link_id": "t3_e4n2ht",
+            "parent_id": "t1_f9ekjyf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sleepless-p03t"
+        },
+        "f9ekjyf": {
+            "comment": "This isn't quite right. Malware is tracked pretty closely by AV firms and things like VirusTotal and honeypots are where computer security firms search for malware and create signatures based on samples. It's generally counter-productive for malware to make itself known on peoples' machines (with the exception of things like ransomware).  \n\n\nSource: Am computer security engineer",
+            "timeStamp": "2019/12/01-16:13:03",
+            "id": "f9ekjyf",
+            "is_submitter": false,
+            "link_id": "t3_e4n2ht",
+            "parent_id": "t1_f9eizto",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Centurion89"
+        },
+        "f9eizto": {
+            "comment": "To be fair, historically 99.999% of the time, the reason malware made it into a virus definition was because someone noticed something broken and looked for the cause.",
+            "timeStamp": "2019/12/01-16:01:15",
+            "id": "f9eizto",
+            "is_submitter": false,
+            "link_id": "t3_e4n2ht",
+            "parent_id": "t1_f9dpv9k",
+            "score": -1,
+            "stickied": false,
+            "author_name": "frothface"
+        },
+        "f9e5492": {
+            "comment": "https://xkcd.com/1180/",
+            "timeStamp": "2019/12/01-14:37:46",
+            "id": "f9e5492",
+            "is_submitter": false,
+            "link_id": "t3_e4n2ht",
+            "parent_id": "t1_f9dihzq",
+            "score": 2,
+            "stickied": false,
+            "author_name": "starien"
+        },
+        "f9dpv9k": {
+            "comment": "(your capslock key might be stuck, try to remove it and dust it off, but malwares don't have any interests in making themself so obvious)",
+            "timeStamp": "2019/12/01-13:29:54",
+            "id": "f9dpv9k",
+            "is_submitter": false,
+            "link_id": "t3_e4n2ht",
+            "parent_id": "t1_f9dihzq",
+            "score": 0,
+            "stickied": false,
+            "author_name": "Erelde"
+        },
+        "f9do5oa": {
+            "comment": "Is your caps lock indicator light showing it\u2019s on or is the shift key fucking up and getting stuck?",
+            "timeStamp": "2019/12/01-13:22:11",
+            "id": "f9do5oa",
+            "is_submitter": false,
+            "link_id": "t3_e4n2ht",
+            "parent_id": "t3_e4n2ht",
+            "score": -1,
+            "stickied": false,
+            "author_name": "KuroNaut"
+        },
+        "f9dihzq": {
+            "comment": "Oops. I thought it was due to malware or virus...",
+            "timeStamp": "2019/12/01-12:57:32",
+            "id": "f9dihzq",
+            "is_submitter": true,
+            "link_id": "t3_e4n2ht",
+            "parent_id": "t1_f9ddyfh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "OriginalPen"
+        },
+        "f9ddyfh": {
+            "comment": "More seriously, this is for r/techsupport and definitely not malware.",
+            "timeStamp": "2019/12/01-12:36:13",
+            "id": "f9ddyfh",
+            "is_submitter": false,
+            "link_id": "t3_e4n2ht",
+            "parent_id": "t1_f9dckmn",
+            "score": 5,
+            "stickied": false,
+            "author_name": "Erelde"
+        },
+        "f9ddchy": {
+            "comment": "Grab pliers, pry off your shift keys, and clean the mechanisms.",
+            "timeStamp": "2019/12/01-12:34:31",
+            "id": "f9ddchy",
+            "is_submitter": false,
+            "link_id": "t3_e4n2ht",
+            "parent_id": "t3_e4n2ht",
+            "score": 9,
+            "stickied": false,
+            "author_name": "TParis00ap"
+        },
+        "f9dckmn": {
+            "comment": "`stuck_key.exe`?",
+            "timeStamp": "2019/12/01-12:30:21",
+            "id": "f9dckmn",
+            "is_submitter": false,
+            "link_id": "t3_e4n2ht",
+            "parent_id": "t3_e4n2ht",
+            "score": 4,
+            "stickied": false,
+            "author_name": "unfixpoint"
+        }
+    }
+}

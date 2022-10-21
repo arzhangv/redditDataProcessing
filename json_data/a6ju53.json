@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Looking for more people into reverse engineering and automation to link up and create something collectively. The final outcome is a product. My goal is to reverse engineer the network API end-points of popular services using low level requests without the use of emulation. I can provide more details in private. Job is remote and can be part time or full-time.\n\n&amp;#x200B;\n\n**Good skills to have:** Reverse Engineering obfuscated Javascript, Java and C/C++ code. Knoweldge of TCP/HTTP, Networking is a must.\n\n**Compensation:** Hourly + Revenue Sharing\n\n&amp;#x200B;\n\nFeel free to comment or DM me for questions or clarifications. I can share detailed requirements.",
+        "title": "[Hiring] Reverse Engineer",
+        "score": 1,
+        "id": "a6ju53",
+        "commsNum": 1,
+        "timeStamp": "2018/12/15-15:03:56",
+        "author_name": "BotInitiative",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/a6ju53/hiring_reverse_engineer/"
+    },
+    "posts": {
+        "ebwpt3g": {
+            "comment": "Wrong subreddit i hope you are looking for /r/forhire",
+            "timeStamp": "2018/12/16-05:38:44",
+            "id": "ebwpt3g",
+            "is_submitter": false,
+            "link_id": "t3_a6ju53",
+            "parent_id": "t3_a6ju53",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ragupal"
+        }
+    }
+}

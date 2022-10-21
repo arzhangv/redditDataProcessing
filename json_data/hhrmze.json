@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hi All,\n\nRecently I have received an alert from the SIEM for the NTP connection.\n\nConnection initiated from the internal IP towards the External IP over the port 123.\n\nConnection were built and tear down within 2 minutes with 96 bytes of data but observing the event frequently.\n\nThis is UDP protocol\n\nPlease let me am I safe or any action needs to be taken.\n\nAlso how many bytes require for a successful NTP connection\n\nThanks in advance",
+        "title": "NTP connection",
+        "score": 1,
+        "id": "hhrmze",
+        "commsNum": 3,
+        "timeStamp": "2020/06/28-19:31:03",
+        "author_name": "vyasarvenkat",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/hhrmze/ntp_connection/"
+    },
+    "posts": {
+        "fwfih50": {
+            "comment": "VGhhbmsgeW91IGZvciB5b3VyIGNvbW1lbnRz",
+            "timeStamp": "2020/06/29-18:31:45",
+            "id": "fwfih50",
+            "is_submitter": true,
+            "link_id": "t3_hhrmze",
+            "parent_id": "t1_fweea34",
+            "score": 1,
+            "stickied": false,
+            "author_name": "vyasarvenkat"
+        },
+        "fweea34": {
+            "comment": " https://lmgtfy.com/?q=what+is+ntp",
+            "timeStamp": "2020/06/29-12:43:04",
+            "id": "fweea34",
+            "is_submitter": false,
+            "link_id": "t3_hhrmze",
+            "parent_id": "t3_hhrmze",
+            "score": 1,
+            "stickied": false,
+            "author_name": "JulienneDelphiki"
+        },
+        "fwct5lc": {
+            "comment": "In your scenario, this might not be a severity 1 incident. Many instances/machine tend to reach out to external IP address on 123 and this is due to the reason of syncing NTP while they can't sync it locally.\n\nSo first, you need to check if you have any negative hits on that external IP address and if that IP has served any time as an NTP server. In most cases, this should be yes. If you found so, you can check out your machine which processes trigger that NTP connection(if the connection is still live), unless you can configure a tcpdump and let it run on 123 for a day or so. Thus, if it reoccurs, it will give you the process details, but if it is a only 1 time communication, nothing much to worry about.\n\nBut if your machine is something which needs to be checked from forensic level, you can collect a memory dump of it and run a yara to check what triggered that connection..\n\nHope this will help.\n\nIf you have any query, please DM us.",
+            "timeStamp": "2020/06/29-03:43:46",
+            "id": "fwct5lc",
+            "is_submitter": false,
+            "link_id": "t3_hhrmze",
+            "parent_id": "t3_hhrmze",
+            "score": 1,
+            "stickied": false,
+            "author_name": "blackperl_dfir"
+        }
+    }
+}

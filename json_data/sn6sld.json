@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Encyclopedia of Malware Sandbox Evasion Techniques",
+        "score": 1,
+        "id": "sn6sld",
+        "commsNum": 0,
+        "timeStamp": "2022/02/07-17:12:01",
+        "author_name": "greyyit",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://evasions.checkpoint.com/"
+    },
+    "posts": {}
+}

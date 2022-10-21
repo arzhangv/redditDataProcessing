@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Does anyone know of any good Discord servers based on Malware and Cyber Sec reports/information?\n\nThanks in advance for any help.",
+        "title": "Malware Themed Discord Servers",
+        "score": 1,
+        "id": "k5qv3v",
+        "commsNum": 3,
+        "timeStamp": "2020/12/02-21:04:23",
+        "author_name": "0xgod",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/k5qv3v/malware_themed_discord_servers/"
+    },
+    "posts": {
+        "gegqwei": {
+            "comment": "ax1al and vx-underground",
+            "timeStamp": "2020/12/02-23:00:39",
+            "id": "gegqwei",
+            "is_submitter": false,
+            "link_id": "t3_k5qv3v",
+            "parent_id": "t3_k5qv3v",
+            "score": 3,
+            "stickied": false,
+            "author_name": "hasfu"
+        },
+        "gegkjke": {
+            "comment": "Many Hats Club [https://discord.gg/infosec](https://discord.gg/infosec)\n\n&amp;#x200B;\n\n[https://themanyhats.club/invite/](https://themanyhats.club/invite/)",
+            "timeStamp": "2020/12/02-21:36:17",
+            "id": "gegkjke",
+            "is_submitter": false,
+            "link_id": "t3_k5qv3v",
+            "parent_id": "t3_k5qv3v",
+            "score": 2,
+            "stickied": false,
+            "author_name": "mansomer"
+        },
+        "gegkgac": {
+            "comment": "Malwaretech has a decent discord. \n\nhttps://discord.gg/HQmhsFja",
+            "timeStamp": "2020/12/02-21:35:09",
+            "id": "gegkgac",
+            "is_submitter": false,
+            "link_id": "t3_k5qv3v",
+            "parent_id": "t3_k5qv3v",
+            "score": 3,
+            "stickied": false,
+            "author_name": "TheRizzix"
+        }
+    }
+}

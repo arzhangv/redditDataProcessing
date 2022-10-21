@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi,\nI've had 2 wallets emptied. Also steam accounts have been compromised, so i certain sensitive information was collected. I'm also certain the theft and the malware are related. They(wallets) were used on 2 separate windows (one of them w7 and other w10) machines, and I have found running on both of them strlen32.exe process which seemed suspicious. Looked into msconfig-&gt;startup and found a \"HWID suspect instalation.vbs\" was launching it. These are it's contents :\nSet akKbamMzFnyDtynb = CrEAtEObJeCt(\"wSCRIPT.shell\")\nAKkbammzFNYDTYNb.RUn \"\"\"C:\\Users\\whateveruser\\AppData\\Roaming\\HWID suspect install\\strlen32.exe\"\"\"\nI uploaded the file to virustotal :\nhttps://www.virustotal.com/en/file/220e0770e1f827f4aac5fbbd20837a6fd29134e00f3c8d1147f50d7648c4e75c/analysis/1458308439/\nAs you can see 22/56 (all the very good ones included) found it harmful.\nI've tried starting the application in question (on the already infected w10 machine) and analyzing through wireshark if it sent any packets over the network but my lack of knowledge using wireshark got me to a dead end.\nI've also tried disassembling it with various tools such as ht editor, ollydbg and others but also reached a dead end as the ASCII code seems encoded.\nMy idea was to find where it sent the data(if it did). Or could it be that it installed some kind of meterpreter?\nThere is a chance maybe the events are unrelated, but i doubt it.\nAny suggestions on how to proceed are welcome.\nThank you and have a great day.\nLink to file : http://www.megafileupload.com/awcT/PleagueSpreader.exe -i added the custom name...",
+        "title": "2 digital wallets (Steam) emptied, found malware and I want to reverse engineer it to find the attacker if possible.",
+        "score": 24,
+        "id": "4azfdq",
+        "commsNum": 9,
+        "timeStamp": "2016/03/18-10:54:06",
+        "author_name": "justilicious",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 9,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/4azfdq/2_digital_wallets_steam_emptied_found_malware_and/"
+    },
+    "posts": {}
+}

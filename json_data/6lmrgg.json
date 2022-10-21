@@ -1,0 +1,220 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "For a presentation on the subject of ransomware, I want to show how quickly you can lose everything. The plan is to connect the laptop to my phone's LTE Hotspot and then let it infect. After infection I will show the ransom page. Mobile data is not a problem. Phone is running Android 7.1.1 with 1 May security patch (OnePlus 5). After the demonstration the laptop will be completely wiped. I want to make sure it does not infect other devices (as far as I know CRBR does not self-spread) and that I'm able to show the TOR ransom page. Of course, the ransom will not be paid. The only thing that is on the laptop are some random files downloaded from the internet for it to encrypt and the ransomware (already got a sample).",
+        "title": "I want to deliberately infect an old laptop of mine with CRBR ransomware on a clean install of Windows 10. Are these the correct steps to take?",
+        "score": 19,
+        "id": "6lmrgg",
+        "commsNum": 16,
+        "timeStamp": "2017/07/06-09:08:59",
+        "author_name": "Gamer1120",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 16,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6lmrgg/i_want_to_deliberately_infect_an_old_laptop_of/"
+    },
+    "posts": {
+        "djyjob0": {
+            "comment": "A virtual machine would be your best option. Have two boxes running on the same laptop and create a sandbox (where they are connected to each other, but not the host machine) for the malware to run wild. \n\nHave one box email an attachment with the malware to the second one. You demonstrate from the second one that the email looks normal and legit (phishing), and then open the attachment. That box should display the ransom screen and the ransomware will scan the network, finding the original box on the same network and infect it also. \n\nSome ransomware require an internet connection, but not all (i.e. Locky Bart). I would refrain from using any form of ransomware that is not in an isolated network.",
+            "timeStamp": "2017/07/08-13:32:33",
+            "id": "djyjob0",
+            "is_submitter": false,
+            "link_id": "t3_6lmrgg",
+            "parent_id": "t3_6lmrgg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "SirPuzzleAlots"
+        },
+        "djwl965": {
+            "comment": "So long as nothing else is on the network, in this case the hotspot, it'd be fine.  ",
+            "timeStamp": "2017/07/07-08:16:48",
+            "id": "djwl965",
+            "is_submitter": false,
+            "link_id": "t3_6lmrgg",
+            "parent_id": "t1_djw4bq6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "virtualroofie"
+        },
+        "djwkxmz": {
+            "comment": "It doesn't, just my suggestion to double-check as it sounds like OP is a bit jr.",
+            "timeStamp": "2017/07/07-08:11:16",
+            "id": "djwkxmz",
+            "is_submitter": false,
+            "link_id": "t3_6lmrgg",
+            "parent_id": "t1_djvdbek",
+            "score": 2,
+            "stickied": false,
+            "author_name": "bbrown515"
+        },
+        "djw9rwo": {
+            "comment": "I would make sure you have a copy of the malware that contains the executable embedded in the original doc file rather than just a first stage downloader. The last thing you want in a demo is to find that your second stage has been taken down. This also covers your lateral movement fears since you won't need any network connectivity at all. Also, since you don't want to use a virtual machine, make sure you have tested this on Windows 10 and have a ghost/dd image of your machine to restore to when testing.",
+            "timeStamp": "2017/07/07-03:12:52",
+            "id": "djw9rwo",
+            "is_submitter": false,
+            "link_id": "t3_6lmrgg",
+            "parent_id": "t3_6lmrgg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "specter800"
+        },
+        "djw4dwp": {
+            "comment": "It doesn't, but that is still a valid point if some other reader was to run with a similar idea.",
+            "timeStamp": "2017/07/06-23:28:05",
+            "id": "djw4dwp",
+            "is_submitter": false,
+            "link_id": "t3_6lmrgg",
+            "parent_id": "t1_djvdbek",
+            "score": 2,
+            "stickied": false,
+            "author_name": "linenoize"
+        },
+        "djw4bq6": {
+            "comment": "Would a VPN be better? Or can the ware bypass?",
+            "timeStamp": "2017/07/06-23:26:02",
+            "id": "djw4bq6",
+            "is_submitter": false,
+            "link_id": "t3_6lmrgg",
+            "parent_id": "t1_djvdd48",
+            "score": 1,
+            "stickied": false,
+            "author_name": "linenoize"
+        },
+        "djvtl1f": {
+            "comment": "I can't vouch for these, but there are fake versions of WannaCry on GitHub that would be perfect for a demonstration.\n\nhttps://github.com/bitdust/WamaCry\n\nThere are probably others, this is just the only one I've heard about. The downside might be that it doesn't actually encrypt the files, but you could encrypt a specific folder of your choice before the presentation and pretend that the fake malware did it.",
+            "timeStamp": "2017/07/06-18:58:59",
+            "id": "djvtl1f",
+            "is_submitter": false,
+            "link_id": "t3_6lmrgg",
+            "parent_id": "t3_6lmrgg",
+            "score": 2,
+            "stickied": false,
+            "author_name": "notfalse"
+        },
+        "djvk41y": {
+            "comment": "Why run it natively on the laptop? I'd run it in a virtual machine just in case.\n\nAlso, since it is a presentation, it may happen that the ransomware simply fails to work for one reason or another (the dropper doesn't work on your specific Windows 10 setup, the distribution site is down, etc.); make a demo at home in a virtual machine and record it, so that if for whatever reason you can't seem to get infected \"live\" you can keep going with your presentation.",
+            "timeStamp": "2017/07/06-15:36:14",
+            "id": "djvk41y",
+            "is_submitter": false,
+            "link_id": "t3_6lmrgg",
+            "parent_id": "t3_6lmrgg",
+            "score": 12,
+            "stickied": false,
+            "author_name": "ZugNachPankow"
+        },
+        "djvjlfm": {
+            "comment": "You should be fine doing it like that, but I would recommend installing VMWare/VirtualBox and executing it in the VM. ",
+            "timeStamp": "2017/07/06-15:25:55",
+            "id": "djvjlfm",
+            "is_submitter": false,
+            "link_id": "t3_6lmrgg",
+            "parent_id": "t3_6lmrgg",
+            "score": 9,
+            "stickied": false,
+            "author_name": "CewlJebus"
+        },
+        "djvfwoe": {
+            "comment": "[deleted]",
+            "timeStamp": "2017/07/06-14:15:37",
+            "id": "djvfwoe",
+            "is_submitter": false,
+            "link_id": "t3_6lmrgg",
+            "parent_id": "t1_djvfp08",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "djvfp08": {
+            "comment": "I connect vanilla windows 10 installs at least 20 times a day....I have no idea what you are on about",
+            "timeStamp": "2017/07/06-14:11:51",
+            "id": "djvfp08",
+            "is_submitter": false,
+            "link_id": "t3_6lmrgg",
+            "parent_id": "t1_djv3q54",
+            "score": 0,
+            "stickied": false,
+            "author_name": "kados14"
+        },
+        "djvdd48": {
+            "comment": "This should work just fine.  I'd just ensure no other devices are connected to your hotspot at the time of infection.",
+            "timeStamp": "2017/07/06-13:30:36",
+            "id": "djvdd48",
+            "is_submitter": false,
+            "link_id": "t3_6lmrgg",
+            "parent_id": "t3_6lmrgg",
+            "score": 2,
+            "stickied": false,
+            "author_name": "virtualroofie"
+        },
+        "djvdbek": {
+            "comment": "Where does it say anywhere that this is or was a domain joined computer?",
+            "timeStamp": "2017/07/06-13:29:45",
+            "id": "djvdbek",
+            "is_submitter": false,
+            "link_id": "t3_6lmrgg",
+            "parent_id": "t1_djv4a5u",
+            "score": 3,
+            "stickied": false,
+            "author_name": "virtualroofie"
+        },
+        "djvd9um": {
+            "comment": "Name one.",
+            "timeStamp": "2017/07/06-13:28:59",
+            "id": "djvd9um",
+            "is_submitter": false,
+            "link_id": "t3_6lmrgg",
+            "parent_id": "t1_djv3q54",
+            "score": 0,
+            "stickied": false,
+            "author_name": "virtualroofie"
+        },
+        "djv4a5u": {
+            "comment": "I would wipe the laptop and pull it off of the domain and all that before infection (because it could keep AD information). Keep it on hotspot and then download your crypto.",
+            "timeStamp": "2017/07/06-10:56:12",
+            "id": "djv4a5u",
+            "is_submitter": false,
+            "link_id": "t3_6lmrgg",
+            "parent_id": "t3_6lmrgg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "bbrown515"
+        },
+        "djv3q54": {
+            "comment": "[deleted]",
+            "timeStamp": "2017/07/06-10:47:21",
+            "id": "djv3q54",
+            "is_submitter": false,
+            "link_id": "t3_6lmrgg",
+            "parent_id": "t3_6lmrgg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "djuyneq": {
+            "comment": "Damn, you must have a really good backup strategy then.",
+            "timeStamp": "2017/07/06-09:23:16",
+            "id": "djuyneq",
+            "is_submitter": true,
+            "link_id": "t3_6lmrgg",
+            "parent_id": "t1_djuxzkj",
+            "score": 8,
+            "stickied": false,
+            "author_name": "Gamer1120"
+        },
+        "djuxzkj": {
+            "comment": "Come to my work and let my co-workers use your laptop for 5 minutes. They open every \"invoice\" attached in incoming mails, executing every ransomware on the world wide. Trust me.",
+            "timeStamp": "2017/07/06-09:12:17",
+            "id": "djuxzkj",
+            "is_submitter": false,
+            "link_id": "t3_6lmrgg",
+            "parent_id": "t3_6lmrgg",
+            "score": 19,
+            "stickied": false,
+            "author_name": "aikoncwd"
+        }
+    }
+}

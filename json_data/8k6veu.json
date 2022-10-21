@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Let me preface by saying this. I'm very bad with computers and this may or may not even be the correct subreddit to post this on. This also may or may not even be a problem, but I thought I should ask someone with experience before I write it off as nothing.\n\nI was clearing space on my computer and randomly stumbled onto a 1 kilobyte file named \"END\" in my C drive. Opening this though the notepad lead me to a message: \"{}\". That's litterally it. \n\nMe being a cautious guy looked it up a bit on the web and it may or may not be connected to malware, and as my malware detection software hasn't detected it and it's been in there since 2017 (meaining it's endured many searches).\n\nSome people have said it's harmless and some people say they've removed it through programs and have cleared around 10 gigs of space attached to this file. I interperated this as them saying there was more too it than the 1 kilobyte file.\n\nThe sites I looked at to try and figure this out were somewhat outdated and didn't make much sense to me so I' looking for other suggestions as to what I should do.",
+        "title": "\"END\". 1 kilobyte file found on my C-drive.",
+        "score": 1,
+        "id": "8k6veu",
+        "commsNum": 0,
+        "timeStamp": "2018/05/17-12:11:31",
+        "author_name": "Mister-Blue-Sky",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8k6veu/end_1_kilobyte_file_found_on_my_cdrive/"
+    },
+    "posts": {}
+}

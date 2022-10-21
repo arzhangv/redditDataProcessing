@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Detecting anomalous Vectored Exception Handlers on Windows",
+        "score": 1,
+        "id": "rwkugg",
+        "commsNum": 0,
+        "timeStamp": "2022/01/05-03:31:45",
+        "author_name": "digicat",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://research.nccgroup.com/2022/01/03/detecting-anomalous-vectored-exception-handlers-on-windows/"
+    },
+    "posts": {}
+}

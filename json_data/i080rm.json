@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "I don't know if this is the right place for investigating this, but I've been investigating this weird ARG/internet mystery which has shown no signs of being malicious, but when I typed the subrreddit name in quotation marks (taealaemaeakr) this is what came up. Should I be concerned?",
+        "score": 1,
+        "id": "i080rm",
+        "commsNum": 2,
+        "timeStamp": "2020/07/29-13:26:43",
+        "author_name": "Bobbitibob",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://i.redd.it/jz1kd9zjvud51.png"
+    },
+    "posts": {
+        "fzno6ww": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2020/07/29-13:26:44",
+            "id": "fzno6ww",
+            "is_submitter": false,
+            "link_id": "t3_i080rm",
+            "parent_id": "t3_i080rm",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

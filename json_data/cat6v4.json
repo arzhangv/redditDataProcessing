@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hey how can i make a Bitcoin Mining Virus ?",
+        "title": "Bitcoin Mining Virus",
+        "score": 0,
+        "id": "cat6v4",
+        "commsNum": 1,
+        "timeStamp": "2019/07/08-17:11:51",
+        "author_name": "baumi500",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/cat6v4/bitcoin_mining_virus/"
+    },
+    "posts": {
+        "etaykhk": {
+            "comment": "download the bitcoin mining virus generator",
+            "timeStamp": "2019/07/08-17:34:47",
+            "id": "etaykhk",
+            "is_submitter": false,
+            "link_id": "t3_cat6v4",
+            "parent_id": "t3_cat6v4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "edward_snowedin"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Writeup on TeslaCrypt Propagation, Evasion, Encryption, and Persistence Techniques",
+        "score": 15,
+        "id": "4fphlw",
+        "commsNum": 0,
+        "timeStamp": "2016/04/20-13:51:09",
+        "author_name": "sh3dow",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.endgame.com/blog/your-package-has-been-successfully-encrypted-teslacrypt-41a-and-malware-attack-chain"
+    },
+    "posts": {}
+}

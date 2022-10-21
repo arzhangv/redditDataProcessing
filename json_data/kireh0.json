@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Heads-up: VirusTotal Functionality in Sysinternals Tools Not Working Anymore",
+        "score": 1,
+        "id": "kireh0",
+        "commsNum": 1,
+        "timeStamp": "2020/12/23-03:26:56",
+        "author_name": "BitDrill",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://malware.news/t/heads-up-virustotal-functionality-in-sysinternals-tools-not-working-sun-dec-20th/45638"
+    },
+    "posts": {
+        "ggsekxn": {
+            "comment": "I was wondering why my autoruns doesnt get VT detections anymore, seems like there is a problem with VirusTotal",
+            "timeStamp": "2020/12/23-03:28:24",
+            "id": "ggsekxn",
+            "is_submitter": true,
+            "link_id": "t3_kireh0",
+            "parent_id": "t3_kireh0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "BitDrill"
+        }
+    }
+}

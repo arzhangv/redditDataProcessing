@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "A while back on my iPad mini, I download a rhythm heaven game off the AppStore. Turns that game is malware so I deleted it. But now, my icons on the main screen of the iPad won\u2019t stop shaking. I tried a lot of things to stop this from happening, but it persists. Any advice?",
+        "title": "Some advice please",
+        "score": 1,
+        "id": "hzkx0e",
+        "commsNum": 1,
+        "timeStamp": "2020/07/28-12:14:18",
+        "author_name": "Diceking22",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/hzkx0e/some_advice_please/"
+    },
+    "posts": {
+        "fznl5jj": {
+            "comment": "Did you try wiping the ipad or just returning it because apple will just give a full refund for it.",
+            "timeStamp": "2020/07/29-13:02:32",
+            "id": "fznl5jj",
+            "is_submitter": false,
+            "link_id": "t3_hzkx0e",
+            "parent_id": "t3_hzkx0e",
+            "score": 1,
+            "stickied": false,
+            "author_name": "The-electric-texan"
+        }
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Has anyone taken this class? It's new and I haven't seen any reviews on it as yet. Just curious if you found the content useful with static code analysis for encrypted malware.",
+        "title": "FOR710 Course",
+        "score": 1,
+        "id": "rxmtc0",
+        "commsNum": 0,
+        "timeStamp": "2022/01/06-11:31:47",
+        "author_name": "Avinbihari",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/rxmtc0/for710_course/"
+    },
+    "posts": {
+        "hrlzkvy": {
+            "comment": "General info sec. But mostly app sec/devsecops/pentesting",
+            "timeStamp": "2022/01/06-23:47:08",
+            "id": "hrlzkvy",
+            "is_submitter": false,
+            "link_id": "t3_rxmtc0",
+            "parent_id": "t1_hrkf0wy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "silverslides"
+        },
+        "hrku6f1": {
+            "comment": "[removed]",
+            "timeStamp": "2022/01/06-17:58:58",
+            "id": "hrku6f1",
+            "is_submitter": false,
+            "link_id": "t3_rxmtc0",
+            "parent_id": "t1_hrja1ek",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hrkf0wy": {
+            "comment": "As far as freelance work, what type, RE / Malware analysis or just general infosec?",
+            "timeStamp": "2022/01/06-16:15:23",
+            "id": "hrkf0wy",
+            "is_submitter": false,
+            "link_id": "t3_rxmtc0",
+            "parent_id": "t1_hrjv6hi",
+            "score": 1,
+            "stickied": false,
+            "author_name": "malwareguy"
+        },
+        "hrjz5u5": {
+            "comment": "[removed]",
+            "timeStamp": "2022/01/06-14:32:56",
+            "id": "hrjz5u5",
+            "is_submitter": false,
+            "link_id": "t3_rxmtc0",
+            "parent_id": "t3_rxmtc0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hrjvgls": {
+            "comment": "Also been wondering this! Going through FOR610 now and was wondering of 710 was worth it, content-wise",
+            "timeStamp": "2022/01/06-14:10:06",
+            "id": "hrjvgls",
+            "is_submitter": false,
+            "link_id": "t3_rxmtc0",
+            "parent_id": "t3_rxmtc0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "wakko45"
+        },
+        "hrjv6hi": {
+            "comment": "I did a couple of work studies and i am a freelance so it is an expense. \n\n610 was great, you need some foundation but not too much. There was a guy who was reverse engineering malware for years in his spare time. For him this course was too easy. I wouldn't take 710 unless you have looked at a few dozen malware samples and reverse malware for windows, Linux, powershell, macros, etc.\n\nI did enjoy it but you could probably learn this stuff if you take a couple of weeks of your own time. For me, a month of my time costs more than the course, so...\n\nWork study is \"only 2300\" and used to be 1300 so it really makes sense for those prices. Considering wages in the USA for security people I think 8k training makes sense from an employer perspective.",
+            "timeStamp": "2022/01/06-14:08:24",
+            "id": "hrjv6hi",
+            "is_submitter": false,
+            "link_id": "t3_rxmtc0",
+            "parent_id": "t1_hrjecnu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "silverslides"
+        },
+        "hrjecnu": {
+            "comment": "Yes I know several who have in the past, most do workstudy though if they're selected.",
+            "timeStamp": "2022/01/06-12:25:23",
+            "id": "hrjecnu",
+            "is_submitter": false,
+            "link_id": "t3_rxmtc0",
+            "parent_id": "t1_hrja1ek",
+            "score": 1,
+            "stickied": false,
+            "author_name": "malwareguy"
+        },
+        "hrja1ek": {
+            "comment": "Just curious if anyone would pay for SANS courses out of their own pocket.",
+            "timeStamp": "2022/01/06-11:58:49",
+            "id": "hrja1ek",
+            "is_submitter": false,
+            "link_id": "t3_rxmtc0",
+            "parent_id": "t3_rxmtc0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Significant_Cry_6571"
+        }
+    }
+}

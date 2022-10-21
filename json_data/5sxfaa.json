@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi all! I'm currently trying to find active Exploit Kits for research on some different applications. Is there some way to find active EK's? I've heard about Maxwell from Endgame but I don't have the resources to configure this kind of setup. Do you have any suggestions?\n\nThanks in advance!",
+        "title": "How to find active Exploit Kits",
+        "score": 22,
+        "id": "5sxfaa",
+        "commsNum": 14,
+        "timeStamp": "2017/02/08-18:45:54",
+        "author_name": "VLMP90",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 14,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5sxfaa/how_to_find_active_exploit_kits/"
+    },
+    "posts": {}
+}

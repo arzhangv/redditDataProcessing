@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Jaws is an invisible programming language! Inject invisible code into other languages and files! Created for security researc",
+        "score": 1,
+        "id": "q11qg9",
+        "commsNum": 2,
+        "timeStamp": "2021/10/04-02:03:16",
+        "author_name": "cutboxhe",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://github.com/lawndoc/jaws"
+    },
+    "posts": {
+        "hfcng2b": {
+            "comment": "Jaws made you afraid of going in the water. Jaws II made you afraid of going **back** in the water. CyberJaws made you afraid to log on.",
+            "timeStamp": "2021/10/04-06:59:31",
+            "id": "hfcng2b",
+            "is_submitter": false,
+            "link_id": "t3_q11qg9",
+            "parent_id": "t3_q11qg9",
+            "score": 5,
+            "stickied": false,
+            "author_name": "TheSystemGuy64"
+        },
+        "hfbzymg": {
+            "comment": "Can\u2019t wait for this to ~~ruin~~ *be in* some CTF. Better yet, slightly modified like every Brainfuck challenge.",
+            "timeStamp": "2021/10/04-02:44:30",
+            "id": "hfbzymg",
+            "is_submitter": false,
+            "link_id": "t3_q11qg9",
+            "parent_id": "t3_q11qg9",
+            "score": 5,
+            "stickied": false,
+            "author_name": "5y5tem5"
+        }
+    }
+}

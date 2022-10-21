@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I am the developer of Advanced BAT to EXE Converter and I have been reporting my software as a false positive to various AV since 2002. Antivirus companies have always fixed the false positive within a week. Fortinet has not responded or fixed their mistake for over 3 months. I made a post about this around a month ago when it was 2 months.\n\nI have used LinkedIn to contact the main developer many weeks ago as suggested here. No response! \n\nFortinet software is used in router software which blocks traffic to my site and also has caused my software to be blocked and removed from many download sites. I have lost software promotions and sales and receive many threatening emails due to their negligence. I find this whole thing ridiculous at this point. What can I do?\n\nhttps://virustotal.com/en/file/61b5451350a110512d734f426a37e49721a7dea8170fd10f0a48974dedd971a5/analysis/1483120537/\n\n(Notice how a competitor is also constantly hitting \"malicious file\" vote on virus total. I have had a competitor use a VPN to spam 1/5 ratings since at least 2011. I know who the competitor is as they have admitted in emails. This person has already been reported to the Internet Crimes Complaint Center IC3.gov for harassment and defamation.)\n\nI used this link to report the false positive to them and others found from their site: http://fortiguard.com/avdispute\n\nMy installer file:\nhttp://www.battoexeconverter.com/downloads/advancedbattoexeconverter.exe",
+        "title": "It has now been over 3 months since Fortinet antivirus has listed my software as a FALSE POSITIVE after making my submission for them to fix it. No response",
+        "score": 34,
+        "id": "5l4rg8",
+        "commsNum": 26,
+        "timeStamp": "2016/12/30-09:57:30",
+        "author_name": "GeekAF",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 26,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5l4rg8/it_has_now_been_over_3_months_since_fortinet/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi, I scanned an url on VirusTotal and none of the anti viruses flagged it as Malicious except for CRDF, after looking for it I discovered that is not an actual anti virus software but a site where users report Malicious sites, the site that I scanned got reported on CRDF a month ago (you can check when a site got reported on their site), but after a month all of the other 71 anti viruses still flag it as clean, this makes me think that the site is actualy clean.\n\nHow can I be sure that the site is actually safe ?",
+        "title": "Question about VirusTotal",
+        "score": 1,
+        "id": "es35ld",
+        "commsNum": 0,
+        "timeStamp": "2020/01/21-15:32:12",
+        "author_name": "epdl341",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/es35ld/question_about_virustotal/"
+    },
+    "posts": {}
+}

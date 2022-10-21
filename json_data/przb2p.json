@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hello, I have been doing some reading about Lockbit 2.0 after someone I know got hit by Lockbit 2  ransomware some time ago and I have a couple of questions, which I hope some of you can answer:\n\n1. Since when is [bigblog.at](https://bigblog.at) offline? In the ransom message, they mention that URL, but it appears that the website is down.\n2. What happens to the data of individuals that get hit? Will that be published elsewhere than the onion website they mention in the ransom note?\n3. With that many attacks that happen through Lockbit 2.0, why are there so few companies listed on the onion website?\n\nI hope some of you can give me some answers to my questions. Thanks.",
+        "title": "Lockbit 2.0 questions",
+        "score": 1,
+        "id": "przb2p",
+        "commsNum": 3,
+        "timeStamp": "2021/09/20-10:16:43",
+        "author_name": "thatannoyingguy42",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/przb2p/lockbit_20_questions/"
+    },
+    "posts": {
+        "hhngyth": {
+            "comment": "Is their onion link down? I can't seem to connect to the one I have. Did they switch the link when they did the whole 2.0 thing? Do you guys have another link or an updated one?",
+            "timeStamp": "2021/10/22-11:29:54",
+            "id": "hhngyth",
+            "is_submitter": false,
+            "link_id": "t3_przb2p",
+            "parent_id": "t3_przb2p",
+            "score": 1,
+            "stickied": false,
+            "author_name": "COG_RJ"
+        },
+        "hfy7mcu": {
+            "comment": "[removed]",
+            "timeStamp": "2021/10/08-22:49:25",
+            "id": "hfy7mcu",
+            "is_submitter": false,
+            "link_id": "t3_przb2p",
+            "parent_id": "t1_hdndgxw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hdndgxw": {
+            "comment": "Hello, I am just a malware analyst who have been following LockBit news lately, so here are my thoughts:\n\n1. I don't know exactly, but there are results indexed by Google from July 30, 2021.\n2. I don't see how only an individual could be affected by a Ransomware operation like LockBit 2.0. They have an affiliate program in which they target big companies. I guess this someone's data will never be published because the only reason they do that is to attract bad attention to affected companies in order to make them pay the ransom.\n3. I just checked their blog and there are 112 affected companies, and 17 of them had not their data published yet. And their first post is from 20 August, 2021.",
+            "timeStamp": "2021/09/20-15:41:17",
+            "id": "hdndgxw",
+            "is_submitter": false,
+            "link_id": "t3_przb2p",
+            "parent_id": "t3_przb2p",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ftabr"
+        }
+    }
+}

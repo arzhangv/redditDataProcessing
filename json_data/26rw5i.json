@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I'm doing a project on memory forensics and want to show off some volatility plugins, including dllist + ldrmodules, but I have a hard time finding a suitable malware to show unlinked DLLs. Does anyone know of one? One that is easy to get a sample of would be preferable, since I'm new to the subject :-) (I don't want stuxnet, because I need that for another example)\nAnd sorry if this sub is not for these kind of request!",
+        "title": "Anyone know of a malware that unlink its DLLs? (besides Stuxnet)",
+        "score": 13,
+        "id": "26rw5i",
+        "commsNum": 9,
+        "timeStamp": "2014/05/29-02:53:22",
+        "author_name": "PCTamer",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 9,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/26rw5i/anyone_know_of_a_malware_that_unlink_its_dlls/"
+    },
+    "posts": {}
+}

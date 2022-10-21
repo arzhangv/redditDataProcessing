@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I scanned my pc with malwarebytes and avast and didnt find anything. What else can i do to make sure the rootkit is gone, and do i need to be worried or anything?",
+        "title": "Avast detected a Rootkit-gen when i installed something . It put it in the virus chest and then i deleted it. What can i do to make sure the virus is really gone.",
+        "score": 1,
+        "id": "e6njlo",
+        "commsNum": 2,
+        "timeStamp": "2019/12/05-13:00:41",
+        "author_name": "ilovemangets",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/e6njlo/avast_detected_a_rootkitgen_when_i_installed/"
+    },
+    "posts": {
+        "f9rulnh": {
+            "comment": "My bad, wrong sub. And thanks",
+            "timeStamp": "2019/12/05-13:31:52",
+            "id": "f9rulnh",
+            "is_submitter": true,
+            "link_id": "t3_e6njlo",
+            "parent_id": "t1_f9rtrrn",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ilovemangets"
+        },
+        "f9rtrrn": {
+            "comment": "r/techsupport",
+            "timeStamp": "2019/12/05-13:26:18",
+            "id": "f9rtrrn",
+            "is_submitter": false,
+            "link_id": "t3_e6njlo",
+            "parent_id": "t3_e6njlo",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Banangurkamacka"
+        }
+    }
+}

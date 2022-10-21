@@ -1,0 +1,165 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I am in the process of testing some AV solutions on a dummy computer and need to tax the system with malware. Does anyone know of a site that houses malware of all kinds for testing purposes of this kind?",
+        "title": "Malware Repository",
+        "score": 1,
+        "id": "dfis29",
+        "commsNum": 13,
+        "timeStamp": "2019/10/09-08:38:21",
+        "author_name": "Pappy325",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 13,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/dfis29/malware_repository/"
+    },
+    "posts": {
+        "f3wy53e": {
+            "comment": "[removed]",
+            "timeStamp": "2019/10/16-04:44:54",
+            "id": "f3wy53e",
+            "is_submitter": false,
+            "link_id": "t3_dfis29",
+            "parent_id": "t3_dfis29",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "f3ftcv9": {
+            "comment": "This is actually a nice depository of the newer malware",
+            "timeStamp": "2019/10/12-10:45:16",
+            "id": "f3ftcv9",
+            "is_submitter": false,
+            "link_id": "t3_dfis29",
+            "parent_id": "t1_f3dpnht",
+            "score": 1,
+            "stickied": false,
+            "author_name": "iMissingno"
+        },
+        "f3dpnht": {
+            "comment": "I have a few hundred thousand samples that are comprised of thezoo, VirusShare, and a few other sources. I'm working on a client you can download, but it is I'm beta form. I'm waiting until my code signing certificate comes through before I do a full release, but if you visit the link below and follow the instructions, I'll create and account for you.\n\nhttps://fusioncarcass.github.io/MalwareAnalysisCenter/",
+            "timeStamp": "2019/10/11-18:24:00",
+            "id": "f3dpnht",
+            "is_submitter": false,
+            "link_id": "t3_dfis29",
+            "parent_id": "t3_dfis29",
+            "score": 1,
+            "stickied": false,
+            "author_name": "FusionCarcass"
+        },
+        "f3dlhlf": {
+            "comment": "Question - Why? When there are multiple reports being produced regularly by legitimate labs, such as AV-Test, AV-Comparatives, and Virus Bulletin.\n\nRegarding a source of malware, do you need current malware threats or will any malware suffice? \n\nVXHaven Torrent (44GB+ older malware)\nhttps://academictorrents.com/details/34ebe49a48aa532deb9c0dd08a08a017aa04d810/tech",
+            "timeStamp": "2019/10/11-17:28:10",
+            "id": "f3dlhlf",
+            "is_submitter": false,
+            "link_id": "t3_dfis29",
+            "parent_id": "t3_dfis29",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Drivingmecrazeh"
+        },
+        "f34sicf": {
+            "comment": "[https://zeltser.com/malware-sample-sources/](https://zeltser.com/malware-sample-sources/)",
+            "timeStamp": "2019/10/09-15:20:51",
+            "id": "f34sicf",
+            "is_submitter": false,
+            "link_id": "t3_dfis29",
+            "parent_id": "t3_dfis29",
+            "score": 1,
+            "stickied": false,
+            "author_name": "testudobinarii"
+        },
+        "f34sgdi": {
+            "comment": "[removed]",
+            "timeStamp": "2019/10/09-15:20:14",
+            "id": "f34sgdi",
+            "is_submitter": false,
+            "link_id": "t3_dfis29",
+            "parent_id": "t3_dfis29",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "f33p4xh": {
+            "comment": "[removed]",
+            "timeStamp": "2019/10/09-10:35:43",
+            "id": "f33p4xh",
+            "is_submitter": false,
+            "link_id": "t3_dfis29",
+            "parent_id": "t3_dfis29",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "f33lkh0": {
+            "comment": "[removed]",
+            "timeStamp": "2019/10/09-10:05:33",
+            "id": "f33lkh0",
+            "is_submitter": false,
+            "link_id": "t3_dfis29",
+            "parent_id": "t3_dfis29",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "f33epvy": {
+            "comment": "[removed]",
+            "timeStamp": "2019/10/09-09:07:05",
+            "id": "f33epvy",
+            "is_submitter": false,
+            "link_id": "t3_dfis29",
+            "parent_id": "t3_dfis29",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "f33cw22": {
+            "comment": "Searched only 2 results neither of which have any data",
+            "timeStamp": "2019/10/09-08:50:41",
+            "id": "f33cw22",
+            "is_submitter": true,
+            "link_id": "t3_dfis29",
+            "parent_id": "t1_f33bp45",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Pappy325"
+        },
+        "f33byq4": {
+            "comment": "Yes I am aware it will not be on the central network. It will be connected to a jet pack that no other devices will be connected to.",
+            "timeStamp": "2019/10/09-08:41:52",
+            "id": "f33byq4",
+            "is_submitter": true,
+            "link_id": "t3_dfis29",
+            "parent_id": "t1_f33buvo",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Pappy325"
+        },
+        "f33buvo": {
+            "comment": "You are aware malware can spread via your network?",
+            "timeStamp": "2019/10/09-08:40:49",
+            "id": "f33buvo",
+            "is_submitter": false,
+            "link_id": "t3_dfis29",
+            "parent_id": "t3_dfis29",
+            "score": 1,
+            "stickied": false,
+            "author_name": "EndangeredPootis"
+        },
+        "f33bp45": {
+            "comment": "Search for MalwareZoo on github",
+            "timeStamp": "2019/10/09-08:39:22",
+            "id": "f33bp45",
+            "is_submitter": false,
+            "link_id": "t3_dfis29",
+            "parent_id": "t3_dfis29",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MSTRMN_"
+        }
+    }
+}

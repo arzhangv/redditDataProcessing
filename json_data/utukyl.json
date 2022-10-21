@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Rust Supply-Chain Attack Infects Cloud CI Pipelines with Go Malware",
+        "score": 1,
+        "id": "utukyl",
+        "commsNum": 0,
+        "timeStamp": "2022/05/20-05:40:58",
+        "author_name": "paran0ide",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.sentinelone.com/labs/cratedepression-rust-supply-chain-attack-infects-cloud-ci-pipelines-with-go-malware/"
+    },
+    "posts": {
+        "i9trb2a": {
+            "comment": "[removed]",
+            "timeStamp": "2022/05/24-09:49:36",
+            "id": "i9trb2a",
+            "is_submitter": false,
+            "link_id": "t3_utukyl",
+            "parent_id": "t3_utukyl",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

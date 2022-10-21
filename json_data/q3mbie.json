@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "What is COLORMANIA By BLACKSUN? Its been running in the background forever. Ive searched alot and it seems its a trojan virus. I ran Tron on my laptop, watched endless videos and read tens of articles yet nothing helped. I cant even open the file\u2019s location for god\u2019s sake.",
+        "score": 1,
+        "id": "q3mbie",
+        "commsNum": 1,
+        "timeStamp": "2021/10/07-17:22:01",
+        "author_name": "AbdeenzRock",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/q3mbie/what_is_colormania_by_blacksun_its_been_running/"
+    },
+    "posts": {
+        "hfsnth7": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators **and be sure to include the link to the post** - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2021/10/07-17:22:22",
+            "id": "hfsnth7",
+            "is_submitter": false,
+            "link_id": "t3_q3mbie",
+            "parent_id": "t3_q3mbie",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

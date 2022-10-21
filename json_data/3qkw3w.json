@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hey guys,\n\n\n\nCode in question:\nhttp://pastebin.com/Zwir8Z4g\n\nSo I get stuff like this all the time in malicious word documents when I extract out the VBA code. But I'm not much of a programmer and I have no idea how to deobfuscate this to gather actual indicators from it. I know there's going to be a URL/link in there somewhere to pull down a malicious payload, as is always the case with these since the Macro is the dropping mechanism.\n\n\n\n\nI don't just want someone to do it for me, but I'd like some points on how to go about deobfuscating all of this? Any help would be much appreciated.",
+        "title": "Help deobfuscating Malicious WORD DOC Macro",
+        "score": 12,
+        "id": "3qkw3w",
+        "commsNum": 9,
+        "timeStamp": "2015/10/28-09:39:12",
+        "author_name": "Index_Dot_Zach",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 9,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/3qkw3w/help_deobfuscating_malicious_word_doc_macro/"
+    },
+    "posts": {}
+}

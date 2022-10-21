@@ -1,0 +1,154 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi. Initially I wrote this on r/techsupport. The original post gained some attention, yet someone mentioned that I should try posting it here, so here I am.  \nWhen I was little (about 10 or so. I'm 22 now) I was sitting in front of my computer and browsing some shit. I was living with my mom and grandpa but my mom wasn't home at the time. It was quite late. Suddenly, I remember that my screen started turning bloody red, the windows that were opened started to close themselves. The wallpaper went black or red (I don't remember exactly) and what was the weirdest shit - my icons started slowly falling down the screen and dissapearing. After that I think some loud noise started coming out of my headphones and my monitor started showing some glitchy, creepy stuff. I was freaked out and started crying. Franticly run to my grandpa's room and told him about it. when we came to my room my screen was just red (nothing else was happening and I think my grandpa didn't really believed me what just happened). Then he did something (I guess he just forcefully turned the computer off), told me not to worry about it and that I can now turn it on again. I've NEVER seen anything like this before or after that. I couldn't turn on my computer for about a week. I was too terrified. After that, everything was fine and it didn't happen ever again.\n\nSo my question is. Does anyone know what the fuck this was or ever experienced something similar?  \n(Someone said that it could be the so called 'Red Room' virus. Yet nobody can find any details about it)",
+        "title": "Weird *virus* I had when I was a child. I think about it to this day.",
+        "score": 13,
+        "id": "dhztui",
+        "commsNum": 12,
+        "timeStamp": "2019/10/14-17:26:54",
+        "author_name": "Krzaqcinek",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 12,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/dhztui/weird_virus_i_had_when_i_was_a_child_i_think/"
+    },
+    "posts": {
+        "f3uqe63": {
+            "comment": "\\**turns on fan*\\*\n\n\\**dons cape*\\*\n\n\\**strikes pose*\\*",
+            "timeStamp": "2019/10/15-11:54:21",
+            "id": "f3uqe63",
+            "is_submitter": false,
+            "link_id": "t3_dhztui",
+            "parent_id": "t1_f3um9is",
+            "score": 1,
+            "stickied": false,
+            "author_name": "nspectre"
+        },
+        "f3um9is": {
+            "comment": "No they're not. Hacker man is real.",
+            "timeStamp": "2019/10/15-11:14:00",
+            "id": "f3um9is",
+            "is_submitter": false,
+            "link_id": "t3_dhztui",
+            "parent_id": "t1_f3sec78",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Robots_Never_Die"
+        },
+        "f3tb43s": {
+            "comment": "In the  90s / 2000s we've known an era of chats and email. Security was pretty bad back then. Of course some people used their knowledge to hack, destroy or just fooling around. We can take the example of Samy Kamkar who has coded a worm to hack MySpace with a cross scripting exploit. The worm expended so fast and so quickly that MySpace had no idea what to do.\n\nNow, your experience is maybe due to a security flaw you had on your system back then (Windows 95? Xp? Or maybe... Millenium). The attacker just used that security flaw to gain access to your computer and just ran a script or executable to do what you've saw. If no data were stolen we can say that someone was just trolling you. \n\nIt's hard to give a name to what happened to you because not every malware have a name. \n\nHope I've answered well to your question.\n\nPs : Sorry if I've done English mistakes.",
+            "timeStamp": "2019/10/15-00:51:18",
+            "id": "f3tb43s",
+            "is_submitter": false,
+            "link_id": "t3_dhztui",
+            "parent_id": "t3_dhztui",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RonsGeek"
+        },
+        "f3t4nyq": {
+            "comment": "sub7 most likely.  There were a lot of simplified tools back then.  NetBus was another popular one.",
+            "timeStamp": "2019/10/14-22:44:47",
+            "id": "f3t4nyq",
+            "is_submitter": false,
+            "link_id": "t3_dhztui",
+            "parent_id": "t1_f3t2v2z",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Yukanojo"
+        },
+        "f3t2v2z": {
+            "comment": "Not really a virus, more a trojan. I loaded something like this when I was a kid on a friends computer during a sleep over, and it gave me control over the computer as well as the ability to display things on the screen, open and close the cd drive etc. \n\n  \nWe used it on him during a sleepover  and made him think the computer was possessed.\n\nNever did it to him again, and never told him it was us.",
+            "timeStamp": "2019/10/14-22:14:47",
+            "id": "f3t2v2z",
+            "is_submitter": false,
+            "link_id": "t3_dhztui",
+            "parent_id": "t3_dhztui",
+            "score": 1,
+            "stickied": false,
+            "author_name": "existentialgolem"
+        },
+        "f3st9jn": {
+            "comment": "[deleted]",
+            "timeStamp": "2019/10/14-20:07:44",
+            "id": "f3st9jn",
+            "is_submitter": false,
+            "link_id": "t3_dhztui",
+            "parent_id": "t3_dhztui",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "f3sq6g4": {
+            "comment": "monte die?   What kind of computer?",
+            "timeStamp": "2019/10/14-19:35:46",
+            "id": "f3sq6g4",
+            "is_submitter": false,
+            "link_id": "t3_dhztui",
+            "parent_id": "t3_dhztui",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Reylas"
+        },
+        "f3sjrc9": {
+            "comment": "I guess this subreddit is not as helpful as the other one lolol",
+            "timeStamp": "2019/10/14-18:46:18",
+            "id": "f3sjrc9",
+            "is_submitter": true,
+            "link_id": "t3_dhztui",
+            "parent_id": "t1_f3sec78",
+            "score": 4,
+            "stickied": false,
+            "author_name": "Krzaqcinek"
+        },
+        "f3sec78": {
+            "comment": "They're kidding. It's a meme.",
+            "timeStamp": "2019/10/14-18:04:12",
+            "id": "f3sec78",
+            "is_submitter": false,
+            "link_id": "t3_dhztui",
+            "parent_id": "t1_f3sat75",
+            "score": 1,
+            "stickied": false,
+            "author_name": "nspectre"
+        },
+        "f3sbnv2": {
+            "comment": "Do we even know? Who is this \"4chan\" person?",
+            "timeStamp": "2019/10/14-17:43:17",
+            "id": "f3sbnv2",
+            "is_submitter": false,
+            "link_id": "t3_dhztui",
+            "parent_id": "t1_f3safcb",
+            "score": 2,
+            "stickied": false,
+            "author_name": "treebeard42"
+        },
+        "f3sat75": {
+            "comment": "Can you tell something more about it?",
+            "timeStamp": "2019/10/14-17:36:50",
+            "id": "f3sat75",
+            "is_submitter": true,
+            "link_id": "t3_dhztui",
+            "parent_id": "t1_f3safcb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Krzaqcinek"
+        },
+        "f3safcb": {
+            "comment": "Without a doubt, this was the work of the nefarious hacker 4Chan.",
+            "timeStamp": "2019/10/14-17:33:53",
+            "id": "f3safcb",
+            "is_submitter": false,
+            "link_id": "t3_dhztui",
+            "parent_id": "t3_dhztui",
+            "score": 7,
+            "stickied": false,
+            "author_name": "Grimreq"
+        }
+    }
+}

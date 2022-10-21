@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "why does an AV only flag out that something is a virus when performing some copying or moving actions, but is not flagged when nothing is being done ? i thought that AV agents do real time scanning at the backend?",
+        "title": "Anti virus background detection",
+        "score": 6,
+        "id": "5rjmym",
+        "commsNum": 5,
+        "timeStamp": "2017/02/01-16:58:03",
+        "author_name": "s802645",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5rjmym/anti_virus_background_detection/"
+    },
+    "posts": {}
+}

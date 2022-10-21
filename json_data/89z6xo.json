@@ -1,0 +1,220 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hey guys. I\u2019ve been having an ongoing issue with my mother running into problems with her computer usage. She is very unaware of the dangers on the internet, and often goes to sites that are not good. How can I educate her on how to use the internet safely and what sites to avoid? ",
+        "title": "Educating a non tech savvy person.",
+        "score": 3,
+        "id": "89z6xo",
+        "commsNum": 17,
+        "timeStamp": "2018/04/05-05:17:19",
+        "author_name": "galvianna",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 17,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/89z6xo/educating_a_non_tech_savvy_person/"
+    },
+    "posts": {
+        "dyk6jcn": {
+            "comment": "Passwords on chrome are encrypted and can only be decrypted using your windows login password, so if you're going to save passwords make sure the windows login password is totally different than passwords used online. And make sure to actually have a password on your machine. ",
+            "timeStamp": "2018/05/06-16:51:50",
+            "id": "dyk6jcn",
+            "is_submitter": false,
+            "link_id": "t3_89z6xo",
+            "parent_id": "t1_dwvput1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MhikeiMPC12"
+        },
+        "dyk6dw8": {
+            "comment": "This logic may apply in real life, but this does not apply to computers. ",
+            "timeStamp": "2018/05/06-16:48:44",
+            "id": "dyk6dw8",
+            "is_submitter": false,
+            "link_id": "t3_89z6xo",
+            "parent_id": "t1_dwuveyn",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MhikeiMPC12"
+        },
+        "dwwlgom": {
+            "comment": "[removed]",
+            "timeStamp": "2018/04/06-03:10:51",
+            "id": "dwwlgom",
+            "is_submitter": false,
+            "link_id": "t3_89z6xo",
+            "parent_id": "t3_89z6xo",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "dwwk8f1": {
+            "comment": "*uBlock origin\n\nuBlock is outdated.",
+            "timeStamp": "2018/04/06-02:25:37",
+            "id": "dwwk8f1",
+            "is_submitter": false,
+            "link_id": "t3_89z6xo",
+            "parent_id": "t1_dwv9my9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ThePixelCoder"
+        },
+        "dwvtfc2": {
+            "comment": "You should also install unchecky.  Works like a charm. But withdrawing admin rights is a better solution in this case as mentioned before me.",
+            "timeStamp": "2018/04/05-16:40:27",
+            "id": "dwvtfc2",
+            "is_submitter": false,
+            "link_id": "t3_89z6xo",
+            "parent_id": "t3_89z6xo",
+            "score": 1,
+            "stickied": false,
+            "author_name": "darkfroggy"
+        },
+        "dwvssv1": {
+            "comment": "Change any extension Windows Based Script Host opens by default to notepad.exe.. or disable wscript all together.",
+            "timeStamp": "2018/04/05-16:30:14",
+            "id": "dwvssv1",
+            "is_submitter": false,
+            "link_id": "t3_89z6xo",
+            "parent_id": "t1_dwvdnxi",
+            "score": 1,
+            "stickied": false,
+            "author_name": "acalarch"
+        },
+        "dwvput1": {
+            "comment": "Also:\n\n* Add Privacy Badger to her browsers\n* Disable saving passwords\n* Set up automatic updates if not already done\n* Make sure Office settings are hardened (macros &amp; such)",
+            "timeStamp": "2018/04/05-15:43:07",
+            "id": "dwvput1",
+            "is_submitter": false,
+            "link_id": "t3_89z6xo",
+            "parent_id": "t1_dwvdnxi",
+            "score": 4,
+            "stickied": false,
+            "author_name": "truelai"
+        },
+        "dwvow7y": {
+            "comment": "Are you familiar with any of the ones targeting kids? I've got an 8 year old and a well protected network so he probably won't be able to encounter much onbhis own :p",
+            "timeStamp": "2018/04/05-15:27:40",
+            "id": "dwvow7y",
+            "is_submitter": false,
+            "link_id": "t3_89z6xo",
+            "parent_id": "t1_dwurya3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "techitaway"
+        },
+        "dwvmfhh": {
+            "comment": "Eh, I got downvoted, but I'll respond anyway. There is a real educational outcome to my comment (I'm a qual'd teacher). This is going to be a bit longer.\n\nIf the situation is a dire as OP says, technical interventions only go so far and a lot of the internet actively encourages users to work around or turn off those interventions, and some legitimately. It creates a bigger support headache in the long run with the user: constantly complaining that things don't work right or working out how to get around it.\n\nNo matter how old you are, you do learn from mistakes and disasters, I didn't really go into my original post about how to protect private information in the face of impending disaster, and that is a tricky one to solve, but many security suites do a lot of work actively detecting exfiltration or important personal details.\n\nI've seen it time a time again, before I was a teacher I did in home tech support for a large number of people who had already done dumb things, they were all very humble and actively learning how to use the internet properly while I was there, with many happy to pay me an extra hour or two to teach them how to do things properly.\n\nExcept one woman, extremely technically incapable, except when it came to disabling whatever technical interventions were placed in her way, and had no comprehension that the \"anti-virus\" she bought, twice, was actually a rip off and putting more viruses on her computer.\n\nAnd that's where I come to my second paragraph, get a tablet. This has been very effective for many people I have recommended it to. My aunty has an Android tablet and I have my email as a backup account, and about once every two months I get an email from Google about how a website or app was blocked from her Google account. I also haven't heard from her for years with technical support enquiries. She still has a Lenovo laptop gathering dust, but doesn't use it anymore.",
+            "timeStamp": "2018/04/05-14:49:28",
+            "id": "dwvmfhh",
+            "is_submitter": false,
+            "link_id": "t3_89z6xo",
+            "parent_id": "t1_dwv721g",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mabti"
+        },
+        "dwvinuj": {
+            "comment": "[deleted]",
+            "timeStamp": "2018/04/05-13:54:54",
+            "id": "dwvinuj",
+            "is_submitter": false,
+            "link_id": "t3_89z6xo",
+            "parent_id": "t3_89z6xo",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "dwvdnxi": {
+            "comment": "Take her admin rights and create a new passwprd protected admin account ",
+            "timeStamp": "2018/04/05-12:46:13",
+            "id": "dwvdnxi",
+            "is_submitter": false,
+            "link_id": "t3_89z6xo",
+            "parent_id": "t3_89z6xo",
+            "score": 8,
+            "stickied": false,
+            "author_name": "fezbrah"
+        },
+        "dwv9my9": {
+            "comment": "Adblock is a good start. uBlock.",
+            "timeStamp": "2018/04/05-11:51:00",
+            "id": "dwv9my9",
+            "is_submitter": false,
+            "link_id": "t3_89z6xo",
+            "parent_id": "t3_89z6xo",
+            "score": 2,
+            "stickied": false,
+            "author_name": "redditpentester"
+        },
+        "dwv7e5x": {
+            "comment": "Insure that every browser has uBlock Origin on it.\n\nGet them a router with some level of URL filtering. I wouldn't recommend this for a techy person but Asus Routers use a filter maintained by Trend Micro for blocking access to pages with known malware signatures. Some people might have issue with this, if you're one of them then just ignore it.\n\nLet her know that Microsoft or indeed any legit company will never call her and tell her that her computer has been compromised or needs work of any sort.",
+            "timeStamp": "2018/04/05-11:19:30",
+            "id": "dwv7e5x",
+            "is_submitter": false,
+            "link_id": "t3_89z6xo",
+            "parent_id": "t3_89z6xo",
+            "score": 0,
+            "stickied": false,
+            "author_name": "zushiba"
+        },
+        "dwv721g": {
+            "comment": "It depends though, because if OP's mom is exceptionally computer illiterate, she might not understand why these things are happening to her computer, or how to prevent it in the future. Sure she might open an email and get hit with locky, but she might not realize that opening the email attachment was what caused the malware infection. ",
+            "timeStamp": "2018/04/05-11:14:52",
+            "id": "dwv721g",
+            "is_submitter": false,
+            "link_id": "t3_89z6xo",
+            "parent_id": "t1_dwuveyn",
+            "score": 3,
+            "stickied": false,
+            "author_name": "DeathByHugz"
+        },
+        "dwv2bb5": {
+            "comment": "Get her an iPad",
+            "timeStamp": "2018/04/05-10:09:07",
+            "id": "dwv2bb5",
+            "is_submitter": false,
+            "link_id": "t3_89z6xo",
+            "parent_id": "t3_89z6xo",
+            "score": 0,
+            "stickied": false,
+            "author_name": "AggressiveBeard"
+        },
+        "dwuveyn": {
+            "comment": "Sometimes letting people get bogged down in the world they have created for themselves is the best solution. Let them feel the pain, lose files, lose account access, etc... Some people simply have to learn the hard way.\n\nOr get a tablet (iOS or Android), or a Chromebook, they are generally locked down pretty well.\n\nEdit: yay, I got downvoted, I'm not being cruel or deliberately evil, see my reply to a reply hanging off comment for a longer justification that I didn't think it was worth going into...",
+            "timeStamp": "2018/04/05-08:32:17",
+            "id": "dwuveyn",
+            "is_submitter": false,
+            "link_id": "t3_89z6xo",
+            "parent_id": "t3_89z6xo",
+            "score": -1,
+            "stickied": false,
+            "author_name": "mabti"
+        },
+        "dwurya3": {
+            "comment": "There's a bunch of sites that teach the basics of internet security to children, and there are likely some targeting seniors as well. Find a few that cover the info you want her to be aware of, and have her read or work through them",
+            "timeStamp": "2018/04/05-07:41:54",
+            "id": "dwurya3",
+            "is_submitter": false,
+            "link_id": "t3_89z6xo",
+            "parent_id": "t3_89z6xo",
+            "score": 2,
+            "stickied": false,
+            "author_name": "okmokmz"
+        },
+        "dwunaaj": {
+            "comment": "Going on the internet is like a cross walk in the middle of an eight lane busy highway.  There are tools to keep you safe, but if you don't use them you're likely to get hit.  That's why we don't let small children cross the street alone until they can show they can do so safely.  Similarly, she needs to show understanding before she can surf safely.",
+            "timeStamp": "2018/04/05-06:26:41",
+            "id": "dwunaaj",
+            "is_submitter": false,
+            "link_id": "t3_89z6xo",
+            "parent_id": "t3_89z6xo",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TParis00ap"
+        }
+    }
+}

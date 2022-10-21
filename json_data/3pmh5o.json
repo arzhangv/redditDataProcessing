@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Maybe a stupid question. Why is Ida pro (disassembler) always used and not a decompiler (hex rays decompiler) when analysing malware?",
+        "title": "Why are decompilers not used for reverse malware engineering?",
+        "score": 13,
+        "id": "3pmh5o",
+        "commsNum": 13,
+        "timeStamp": "2015/10/21-05:15:51",
+        "author_name": "themustangdude",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 13,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/3pmh5o/why_are_decompilers_not_used_for_reverse_malware/"
+    },
+    "posts": {}
+}

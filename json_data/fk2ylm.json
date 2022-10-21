@@ -1,0 +1,110 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi.\n\nI am interested in the new malware called \"CovidLock\", which is an Android ransomware appeared recently (sixteen hours ago, to be precise). I found the hash of it and a sample off VirusTotal, but i can't download it due to the lack of a VirusTotal account.\n\n D1D417235616E4A05096319BB4875F57 is the hash.\n\nAt this point, may i ask for a sample of this APK for private testing in an Android86 VM? \n\nThanks in advance.",
+        "title": "CovidLock sample request",
+        "score": 1,
+        "id": "fk2ylm",
+        "commsNum": 8,
+        "timeStamp": "2020/03/17-03:26:23",
+        "author_name": "Sasser39a",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 8,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/fk2ylm/covidlock_sample_request/"
+    },
+    "posts": {
+        "fnkbbab": {
+            "comment": "I was wondering if I could get a sample of this too if you still have it.",
+            "timeStamp": "2020/04/16-00:07:27",
+            "id": "fnkbbab",
+            "is_submitter": false,
+            "link_id": "t3_fk2ylm",
+            "parent_id": "t3_fk2ylm",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Thelilcrow"
+        },
+        "flv57x3": {
+            "comment": "Please, do it. Thanks in advance!",
+            "timeStamp": "2020/03/29-14:17:03",
+            "id": "flv57x3",
+            "is_submitter": true,
+            "link_id": "t3_fk2ylm",
+            "parent_id": "t1_flmlwo5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Sasser39a"
+        },
+        "flmlwo5": {
+            "comment": "Hey, I\u2019m the one that first discovered (and got to name it :) )and did the threat write up on it.  I can definitely send you the sample along with some other stuff the threat actor created!",
+            "timeStamp": "2020/03/26-22:42:06",
+            "id": "flmlwo5",
+            "is_submitter": false,
+            "link_id": "t3_fk2ylm",
+            "parent_id": "t3_fk2ylm",
+            "score": 1,
+            "stickied": false,
+            "author_name": "tsalehsec"
+        },
+        "fl969l5": {
+            "comment": "Me too, I want to test :'(",
+            "timeStamp": "2020/03/22-22:47:47",
+            "id": "fl969l5",
+            "is_submitter": false,
+            "link_id": "t3_fk2ylm",
+            "parent_id": "t3_fk2ylm",
+            "score": 1,
+            "stickied": false,
+            "author_name": "htetznaing"
+        },
+        "fktnbqd": {
+            "comment": "[removed]",
+            "timeStamp": "2020/03/18-03:33:37",
+            "id": "fktnbqd",
+            "is_submitter": false,
+            "link_id": "t3_fk2ylm",
+            "parent_id": "t3_fk2ylm",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fktcel5": {
+            "comment": "[removed]",
+            "timeStamp": "2020/03/17-23:42:56",
+            "id": "fktcel5",
+            "is_submitter": false,
+            "link_id": "t3_fk2ylm",
+            "parent_id": "t1_fkqf2wv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fkqgmgg": {
+            "comment": "Ok, thanks.",
+            "timeStamp": "2020/03/17-04:38:49",
+            "id": "fkqgmgg",
+            "is_submitter": true,
+            "link_id": "t3_fk2ylm",
+            "parent_id": "t1_fkqf2wv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Sasser39a"
+        },
+        "fkqf2wv": {
+            "comment": "The original source is coronavirusapp[dot]site, however the website isn't online anymore, I was able to download the apk before the site went offline, message me if you want the apk.",
+            "timeStamp": "2020/03/17-04:10:42",
+            "id": "fkqf2wv",
+            "is_submitter": false,
+            "link_id": "t3_fk2ylm",
+            "parent_id": "t3_fk2ylm",
+            "score": 1,
+            "stickied": false,
+            "author_name": "dyls_1"
+        }
+    }
+}

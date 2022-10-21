@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "PoS Malware \u2018Multigrain\u2019 Steals Credit Card Details via DNS",
+        "score": 1,
+        "id": "4fs0c6",
+        "commsNum": 0,
+        "timeStamp": "2016/04/21-01:05:21",
+        "author_name": "dangelost",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://virusguides.com/pos-malware-multigrain-steals-credit-card-details-via-dns/"
+    },
+    "posts": {}
+}

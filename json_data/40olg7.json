@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Anyone have seen this in the wild ?\n\n[Scheduled task](https://paste.ee/p/zVeJt)\n\n[Powershell encoded string](https://paste.ee/p/St0vY)",
+        "title": "Scheduled task w/powershell that communicates with C&amp;C with xored/compressed data...",
+        "score": 6,
+        "id": "40olg7",
+        "commsNum": 2,
+        "timeStamp": "2016/01/12-13:40:40",
+        "author_name": "such_sysadmin",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/40olg7/scheduled_task_wpowershell_that_communicates_with/"
+    },
+    "posts": {}
+}

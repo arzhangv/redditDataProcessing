@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "So on my relative's laptop I ran hitman pro and it found a bunch of askbar and conduit flagged things ,about 100.All of them in a folder called askpartnernetwork and there are also some registries too about it.Should I delete all?",
+        "title": "Askpartnernetwork",
+        "score": 1,
+        "id": "i6svw2",
+        "commsNum": 1,
+        "timeStamp": "2020/08/09-15:43:56",
+        "author_name": "nomoneyforname",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/i6svw2/askpartnernetwork/"
+    },
+    "posts": {
+        "g0ylaul": {
+            "comment": "#YOLO",
+            "timeStamp": "2020/08/09-20:44:54",
+            "id": "g0ylaul",
+            "is_submitter": false,
+            "link_id": "t3_i6svw2",
+            "parent_id": "t3_i6svw2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "gonzo_au"
+        }
+    }
+}

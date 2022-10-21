@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "[removed]",
+        "title": "I allowed a threat but now i cant delete it. (Trojan:Win32/CryptInject)",
+        "score": 1,
+        "id": "ki6egu",
+        "commsNum": 0,
+        "timeStamp": "2020/12/22-06:31:40",
+        "author_name": "ShongPongie",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ki6egu/i_allowed_a_threat_but_now_i_cant_delete_it/"
+    },
+    "posts": {}
+}

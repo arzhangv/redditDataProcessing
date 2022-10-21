@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "An old scan on my XP showed Adware.Hotbar  and a few Adware.MyWebSearch detections in the registry. I have no idea whether the adware was \"legit\" at one point, or if they came with malware. Is that a common thing to see in the world of malware?\n\nI feel like maybe they came with Torjan.FakeAlert, but I have no proof of that.\n\nThanks",
+        "title": "Is it common for malware to be packaged with adware components?",
+        "score": 15,
+        "id": "5kv98u",
+        "commsNum": 11,
+        "timeStamp": "2016/12/28-21:56:57",
+        "author_name": "Kurt2121",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 11,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5kv98u/is_it_common_for_malware_to_be_packaged_with/"
+    },
+    "posts": {}
+}

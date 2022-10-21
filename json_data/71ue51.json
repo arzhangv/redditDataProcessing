@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Last night, I was working on a program for my computer science class, and every time I compiled it, Windows Defender was quarantining it as \"Trojan:Win32/Fuery.A!cl.\" Does anybody have any idea why this would be happening? The program is not malicious at all. This has since stopped happening, but I'm curious as to why it could have been happening in the first place.\n\nAlso, what is \"Trojan:Win32/Fuery.A!cl\" anyway? I have tried looking it up on Google, but I have not found any information about what it is.",
+        "title": "Why would Windows Defender throw a false-positive on my project?",
+        "score": 10,
+        "id": "71ue51",
+        "commsNum": 17,
+        "timeStamp": "2017/09/22-15:12:47",
+        "author_name": "DavidB-TPW",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 17,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/71ue51/why_would_windows_defender_throw_a_falsepositive/"
+    },
+    "posts": {}
+}

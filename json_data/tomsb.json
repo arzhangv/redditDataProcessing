@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "From the guys behind many of the largest botnet takedowns; A new non-profit, public benefit, Malicious Domain Slaughter House. Know malware? We could really use your help!",
+        "score": 10,
+        "id": "tomsb",
+        "commsNum": 4,
+        "timeStamp": "2012/05/15-12:08:54",
+        "author_name": "secure_domain",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": null,
+        "url": "http://www.thesecuredomain.org"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "A sum-up of the NotPetya ransomware infection",
+        "score": 1,
+        "id": "6m9eyf",
+        "commsNum": 0,
+        "timeStamp": "2017/07/09-12:31:25",
+        "author_name": "moutonplacide",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://moutonplacide.eu/2017/07/notpetya-fakecry-and-after/"
+    },
+    "posts": {}
+}

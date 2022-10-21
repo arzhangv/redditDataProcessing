@@ -1,0 +1,132 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Not entirely sure what happened. Initially it was OBS configuration problems but then it appeared to be bandwidth issues. Thank you to everyone who showed up and listed and gave me awesome input on tools and tid bits of knowledge (MZ :) ).\n\n\nSuper embarrassing. What can we do to make this a non issue anymore? Should I record it privately then upload it? Or do you guys know a better place to stream?\n\n\nLet's pretend like this never happened :)",
+        "title": "Malware talk was unsuccessful. Input please?",
+        "score": 9,
+        "id": "74klpc",
+        "commsNum": 10,
+        "timeStamp": "2017/10/05-18:49:59",
+        "author_name": "dwThread",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 10,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/74klpc/malware_talk_was_unsuccessful_input_please/"
+    },
+    "posts": {
+        "do03wdw": {
+            "comment": "Nah man, don't feel dumb! I only ask because I wouldn't know otherwise! This is how we learn new stuff :) That's probably what you want to try. If showing yourself isn't a huge importance (I wasn't watching your stream, so I wouldn't know what you were doing exactly), then you should use Window Capture.\n\nIn the little box where your sources are, hit the plus and pick window capture, and you *should* be able to select your IDE (while it's open). That will make you're IDE the picture, and you can still talk!\n\nEdit: You can right click on your source (not the words in the box, but the actual stream on your screen) and there's options to view how you're stream would look in a few different scenarios (projector, window, etc).\n\nI hope that's all been helpful!",
+            "timeStamp": "2017/10/06-11:27:54",
+            "id": "do03wdw",
+            "is_submitter": false,
+            "link_id": "t3_74klpc",
+            "parent_id": "t1_do03qoi",
+            "score": 1,
+            "stickied": false,
+            "author_name": "m0hemian"
+        },
+        "do03qoi": {
+            "comment": "I feel so dumb because... I don't know? ... in OBS I had Desktop Capture ...?",
+            "timeStamp": "2017/10/06-11:25:05",
+            "id": "do03qoi",
+            "is_submitter": true,
+            "link_id": "t3_74klpc",
+            "parent_id": "t1_do03oda",
+            "score": 2,
+            "stickied": false,
+            "author_name": "dwThread"
+        },
+        "do03oda": {
+            "comment": "Were you attempting to use the Window Capture source?",
+            "timeStamp": "2017/10/06-11:23:56",
+            "id": "do03oda",
+            "is_submitter": false,
+            "link_id": "t3_74klpc",
+            "parent_id": "t1_do03cpe",
+            "score": 1,
+            "stickied": false,
+            "author_name": "m0hemian"
+        },
+        "do03cpe": {
+            "comment": "Yeah this was my first stream. I had done small tests and it worked. The problem came up when I had tried to open my IDE. It was too small / blurry to see. When I tried to make it 720p I had bandwidth issues which shouldn't exist (my internet is wicked fast lol)",
+            "timeStamp": "2017/10/06-11:18:13",
+            "id": "do03cpe",
+            "is_submitter": true,
+            "link_id": "t3_74klpc",
+            "parent_id": "t1_dnzkf44",
+            "score": 2,
+            "stickied": false,
+            "author_name": "dwThread"
+        },
+        "do039x8": {
+            "comment": "Thanks man! That's mean a lot. I was super embarrassed and frustrated. I had never livestreamed before so it was annoying as hell... maybe I'll try again tonight...",
+            "timeStamp": "2017/10/06-11:16:52",
+            "id": "do039x8",
+            "is_submitter": true,
+            "link_id": "t3_74klpc",
+            "parent_id": "t1_do01snh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "dwThread"
+        },
+        "do01snh": {
+            "comment": "Not a suggestion, but I tuned in from beginning to end. When things were working, it was very interesting and informative, so I thank you for that. I'm excited to learn more from you once everything is ironed out.",
+            "timeStamp": "2017/10/06-10:50:36",
+            "id": "do01snh",
+            "is_submitter": false,
+            "link_id": "t3_74klpc",
+            "parent_id": "t3_74klpc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RyeMan"
+        },
+        "dnznqjs": {
+            "comment": "I can try to help out where I can. Unfortunately all my setups are currently torn down for home remodeling at the moment so I will have to recall mostly from memory. I would suggest trying the free version of Xsplit and seeing if you like that better. Practicing with local recordings etc. ",
+            "timeStamp": "2017/10/06-06:30:56",
+            "id": "dnznqjs",
+            "is_submitter": false,
+            "link_id": "t3_74klpc",
+            "parent_id": "t1_dnz99y1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "skeeball"
+        },
+        "dnzkf44": {
+            "comment": "OBS works great, when you get it configured right. I'm re-downloading it now (New job, don't need it anymore) so I can refresh myself on what I did to get it working great. I used OBS in tandem with restream.io, a multicaster setup with 5-6 professional cameras for graduation ceremonies at the last university I worked at, so it should work great for you!\n\nWhat was your whole setup? That can help me figure out what to do for yah!",
+            "timeStamp": "2017/10/06-05:06:36",
+            "id": "dnzkf44",
+            "is_submitter": false,
+            "link_id": "t3_74klpc",
+            "parent_id": "t3_74klpc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "m0hemian"
+        },
+        "dnz99y1": {
+            "comment": "Do you think you could help me out? :)",
+            "timeStamp": "2017/10/05-21:42:14",
+            "id": "dnz99y1",
+            "is_submitter": true,
+            "link_id": "t3_74klpc",
+            "parent_id": "t1_dnz6tsq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "dwThread"
+        },
+        "dnz6tsq": {
+            "comment": "OBS can be a bit non intuitive to configure sometimes. I think I might have heard of you bump up the bit rate to 6000 when trying to fix the resolution, (I was in and out, with work) most places only allow around 2000 and cut you off. That might have led to the bandwidth issue.\n\nI switched to OBS this year for my charity game stream but when I first started I used Xsplit and to Twitch. I never streamed to YT before.\n\nXsplit is a little more clunky and it has a pay wall but I found it easier to configure. Both OBS and Xsplit have options to record locally. That's how I usually test my streams before hand.\n\nOtherwise don't sweat tonight. Streaming ain't no joke and so many fickle things can go wrong. I spend more stress over the streaming setups than my content. I tend to overload my USB hub, mics break, cams need constant refreshing, etc.\n\nTake your time working with OBS or checking out Xsplit. YouTube is the best place to for how tos. Maybe record locally first. \n\nMicrosoft has thier own stream platform called Mixer. I haven't tried it yet.\n\nStream gods exist just like demo gods. ",
+            "timeStamp": "2017/10/05-20:39:31",
+            "id": "dnz6tsq",
+            "is_submitter": false,
+            "link_id": "t3_74klpc",
+            "parent_id": "t3_74klpc",
+            "score": 5,
+            "stickied": false,
+            "author_name": "skeeball"
+        }
+    }
+}

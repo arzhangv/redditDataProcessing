@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I recenetly removed the Free Download Manager off my pc with control panel but time to time the program pops up and closes my chrome and an options extension is added which makes my bing my search engine and my chrome becomes restricted. Help on how to remove it off completely?",
+        "title": "Free Download Manager Problems",
+        "score": 1,
+        "id": "s2rl3g",
+        "commsNum": 0,
+        "timeStamp": "2022/01/12-21:28:31",
+        "author_name": "euntaek48",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/s2rl3g/free_download_manager_problems/"
+    },
+    "posts": {
+        "hsh0wvp": {
+            "comment": "Reset chrome back to default for all settings\u2026\n\nDo a few scans with Malwarebytes and also hit the pc with CCleaner.\n\nCheck add/remove for any obvious bloatware it may have loaded. \n\nOf course back up and take all necessary precautions. Some like crap ware more than malware.\n\nWorst case scenario reimage.",
+            "timeStamp": "2022/01/13-02:53:48",
+            "id": "hsh0wvp",
+            "is_submitter": false,
+            "link_id": "t3_s2rl3g",
+            "parent_id": "t3_s2rl3g",
+            "score": 1,
+            "stickied": false,
+            "author_name": "HomeGrownCoder"
+        }
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I am trying to research a grad program website and I know it is legitimate because another state school co-runs the program. Every time I try to visit the other school's website, my computer tells me it's not safe and that there is malware detected. What do I do?",
+        "title": "Can't visit legitmate website due to malware",
+        "score": 1,
+        "id": "v1t6k3",
+        "commsNum": 0,
+        "timeStamp": "2022/05/31-08:42:54",
+        "author_name": "Rough-Bet807",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/v1t6k3/cant_visit_legitmate_website_due_to_malware/"
+    },
+    "posts": {
+        "iaooe5y": {
+            "comment": "Watch out for spam mails pointing to their website. If they compromised the website they use mails to lure you into clicking. People are used to not click if the link looks unfamiliar but click of the link looks familiar. By compromising legitimate website they can use a familiar link to infect you with malware.",
+            "timeStamp": "2022/05/31-10:23:22",
+            "id": "iaooe5y",
+            "is_submitter": false,
+            "link_id": "t3_v1t6k3",
+            "parent_id": "t1_iaoeab3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Aadsterken"
+        },
+        "iaoeab3": {
+            "comment": "Thank you so much!!!!!!!!!!!!!!!!!!!!! I will reach out to them and let them know!!",
+            "timeStamp": "2022/05/31-09:12:38",
+            "id": "iaoeab3",
+            "is_submitter": true,
+            "link_id": "t3_v1t6k3",
+            "parent_id": "t1_iaodal9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Rough-Bet807"
+        },
+        "iaodal9": {
+            "comment": "Well what's probably telling you that is your browser rather than simply your computer. Those type of alerts are based on both scanning and reputation services. Sometimes (this happens often) legitimate websites get compromised and someone uploads malware into a directory on the server. It sounds like it was probably Google chrome or their reputation service that has the site flagged. The site owner should reach out to them, before or after looking to see whether their site is infected.",
+            "timeStamp": "2022/05/31-09:05:30",
+            "id": "iaodal9",
+            "is_submitter": false,
+            "link_id": "t3_v1t6k3",
+            "parent_id": "t3_v1t6k3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "lakitustanfield"
+        }
+    }
+}

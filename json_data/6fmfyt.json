@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I've always wanted to set up a system that can accurately capture packets being sent to/from IoT devices. Are there any suggestions as to how I should set this up? Most of the devices cannot have software installed on them, so I think it would need to be from a router/computer. However, I do want the device to actually have Internet connectivity, but I dont want to see anything else happening on the network (other computers, ARPs, etc)\n\nI'm thinking it would have to be a router, connected to the Internet via WAN, the IoT connected via wireless, and a computer with a network card that can go into promiscuous mode and capture everything. Wireshark would have to have filters to restrict traffic from other devices on the network? Thoughts?\n\nEDIT: Posting here because I want to see what might be malicious with these devices.",
+        "title": "[Discussion] Ways to packet capture IoT devices",
+        "score": 9,
+        "id": "6fmfyt",
+        "commsNum": 21,
+        "timeStamp": "2017/06/06-08:21:55",
+        "author_name": "Drivingmecrazeh",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 21,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6fmfyt/discussion_ways_to_packet_capture_iot_devices/"
+    },
+    "posts": {}
+}

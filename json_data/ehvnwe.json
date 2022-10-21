@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Leveraging Disk Imaging Tools to Deliver RATs",
+        "score": 1,
+        "id": "ehvnwe",
+        "commsNum": 1,
+        "timeStamp": "2019/12/30-17:29:24",
+        "author_name": "ga-vu",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/leveraging-disk-imaging-tools-to-deliver-rats/"
+    },
+    "posts": {
+        "fcms8fy": {
+            "comment": "[removed]",
+            "timeStamp": "2019/12/31-02:55:07",
+            "id": "fcms8fy",
+            "is_submitter": false,
+            "link_id": "t3_ehvnwe",
+            "parent_id": "t3_ehvnwe",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

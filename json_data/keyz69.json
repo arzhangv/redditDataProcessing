@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Australia Watchdog Sues Facebook over \u2018Misleading\u2019 VPN App",
+        "score": 2,
+        "id": "keyz69",
+        "commsNum": 7,
+        "timeStamp": "2020/12/17-07:01:23",
+        "author_name": "dylancampbell97",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.breakingasia.com/news/australia-watchdog-sues-facebook-over-misleading-vpn-app/"
+    },
+    "posts": {
+        "ghh7key": {
+            "comment": "[removed]",
+            "timeStamp": "2020/12/29-22:49:45",
+            "id": "ghh7key",
+            "is_submitter": false,
+            "link_id": "t3_keyz69",
+            "parent_id": "t3_keyz69",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ggmybli": {
+            "comment": "This is a super dumb idea to make a misleading VPN app. .",
+            "timeStamp": "2020/12/21-15:37:05",
+            "id": "ggmybli",
+            "is_submitter": false,
+            "link_id": "t3_keyz69",
+            "parent_id": "t3_keyz69",
+            "score": 1,
+            "stickied": false,
+            "author_name": "yuki93920noirnoggat"
+        },
+        "gg8p99v": {
+            "comment": "[removed]",
+            "timeStamp": "2020/12/18-03:16:06",
+            "id": "gg8p99v",
+            "is_submitter": false,
+            "link_id": "t3_keyz69",
+            "parent_id": "t1_gg5p21d",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "gg6kad7": {
+            "comment": "zucc is fkn crazy",
+            "timeStamp": "2020/12/17-13:20:30",
+            "id": "gg6kad7",
+            "is_submitter": false,
+            "link_id": "t3_keyz69",
+            "parent_id": "t3_keyz69",
+            "score": 1,
+            "stickied": false,
+            "author_name": "SkinniTimmi"
+        },
+        "gg5p21d": {
+            "comment": "This is outrageous! Who would've thought that a company as trustworthy as Facebook would ever do such a thing!?! \n\n^(Everybody maybe?)",
+            "timeStamp": "2020/12/17-09:09:26",
+            "id": "gg5p21d",
+            "is_submitter": false,
+            "link_id": "t3_keyz69",
+            "parent_id": "t1_gg59rus",
+            "score": 2,
+            "stickied": false,
+            "author_name": "linuxlib"
+        },
+        "gg59rus": {
+            "comment": "&gt; The Australian Competition and Consumer Commission (ACCC) has accused Facebook and two of its subsidiaries \u2014 Facebook Israel and Onavo Inc \u2014 of misleading people who downloaded its virtual private network (VPN) app Onavo Protect, by collecting and using their \u201cvery detailed and valuable personal activity data\u201d.",
+            "timeStamp": "2020/12/17-07:01:41",
+            "id": "gg59rus",
+            "is_submitter": true,
+            "link_id": "t3_keyz69",
+            "parent_id": "t3_keyz69",
+            "score": 1,
+            "stickied": false,
+            "author_name": "dylancampbell97"
+        }
+    }
+}

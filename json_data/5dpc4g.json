@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Mirai botnet leverages STOMP Protocol to power DDoS attacks",
+        "score": 1,
+        "id": "5dpc4g",
+        "commsNum": 0,
+        "timeStamp": "2016/11/18-14:37:28",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/53544/malware/mirai-botnet-stomp.html"
+    },
+    "posts": {}
+}

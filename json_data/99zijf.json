@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "A new Cross-Platform Mirai Variant appeared in the wild",
+        "score": 1,
+        "id": "99zijf",
+        "commsNum": 0,
+        "timeStamp": "2018/08/24-10:42:58",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://securityaffairs.co/wordpress/75619/malware/mirai-variant-open-source-tool.html"
+    },
+    "posts": {}
+}

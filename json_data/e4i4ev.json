@@ -1,0 +1,99 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "i am interested in writing malware (not to distribute, obviously, only for my own pleasure) and would like to know if python would be a feasible language to write malware in. If so, what other tools would have to accompany my code as it is being installed (Again, only for my own pleasure) and some other tidbits that a person new to the malware world would like to know. \n\n&amp;#x200B;\n\nI (obviously) am only interested in ethical hacking",
+        "title": "New to this",
+        "score": 1,
+        "id": "e4i4ev",
+        "commsNum": 7,
+        "timeStamp": "2019/12/01-06:32:02",
+        "author_name": "evictedtomato",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/e4i4ev/new_to_this/"
+    },
+    "posts": {
+        "f9evbdx": {
+            "comment": "I think he could probably learn to code and build malware at the same time. It will likely not be production quality malware, but it is a good basic project to learn. Even something simple like a reverse TCP python implant and a python controller would be a good start. Focus on building both parts in one language, then add additional languages after you know what your program needs to do.",
+            "timeStamp": "2019/12/01-18:08:33",
+            "id": "f9evbdx",
+            "is_submitter": false,
+            "link_id": "t3_e4i4ev",
+            "parent_id": "t1_f9bjvp0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "FusionCarcass"
+        },
+        "f9euvum": {
+            "comment": "Python is not a bad language to start out with. Many Linux distributions have python pre-installed, so your attack surface with this malware is pretty good. You may have some issues with python 2.x vs 3.x though. Your code will also be heavily signaturizable, but it is a good way to start out learning.\n\nThere are two main components you need when developing malware: (1) an implant and (2) a controller. The implant is what runs on an infected system and establishes se form of communication back to the controller to give access to the infected system. The controller is responsible for handling callbacks from implants and allowing an attacker to issue commands to imfected systems. The programming languages used to implent each component may be different, and the programming language used for the implant does not have to be the same as the controller.\n\nI see a lot of controllers written in python, but I see a lot of variety in implants. The languages range from C and C++ being the big ones to Visual Basic, C#, PowerShell, JavaScript, PHP, and many others.\n\nBottom line: malware is all about providing a way to remotely manage systems. I would start out with this progression:\n\n1. Write a program in python that establishes a TCP connection to a hard coded IP address and port that replies with the hostname, IP address, and username of the infected system.\n2. Write another program in python to listen on the IP address and port you hard coded into the implant. When a system connects, have it read from the TCP stream and print everything to the screen.\n3. Add the ability to execute arbitrary shell commands in the implant, and add the ability to give commands to the implant through the controller.\n4. Add the ability to add some form of persistence to the malware. Use the task scheduler in windows for example.\n5. Add the ability to upload and download files from the implant through the controller.\n6. Add the ability to C2 multiple simultaneous implants through the controller. Let the user list all connected implants and select the one they want to interact with.\n7. Write another implant in a different language such as C++, but give it the same functionality as the python version.\n\nHope this helps!",
+            "timeStamp": "2019/12/01-18:03:14",
+            "id": "f9euvum",
+            "is_submitter": false,
+            "link_id": "t3_e4i4ev",
+            "parent_id": "t3_e4i4ev",
+            "score": 1,
+            "stickied": false,
+            "author_name": "FusionCarcass"
+        },
+        "f9bracm": {
+            "comment": "Sorry to be so vague, but malware is a very general term. If you are into low level malware, then yes, besides the fact that it is good for writing malware, if you are doing anything at that level, it is necessary to know it.",
+            "timeStamp": "2019/12/01-07:51:21",
+            "id": "f9bracm",
+            "is_submitter": false,
+            "link_id": "t3_e4i4ev",
+            "parent_id": "t1_f9beui4",
+            "score": 2,
+            "stickied": false,
+            "author_name": "randomperson83"
+        },
+        "f9bjvp0": {
+            "comment": "If you don't know what tools to write code in, what language to write it in, and haven't learned C, you're probably way ahead of yourself man.\n\nStart at the beginning, go learn programming. Depending on how fast you go you've got a few months to a few years of experience to obtain. You can worry about building malware later.\n\nI myself love python, and if you like the security field, I really enjoyed reading the Violent Python book series, that \"teaches\" (more like gives examples, doesn't really teach how to code) you how to build some cool tools you might use at some point in your life.",
+            "timeStamp": "2019/12/01-07:16:21",
+            "id": "f9bjvp0",
+            "is_submitter": false,
+            "link_id": "t3_e4i4ev",
+            "parent_id": "t3_e4i4ev",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Draoken"
+        },
+        "f9bj1ms": {
+            "comment": "[removed]",
+            "timeStamp": "2019/12/01-07:13:19",
+            "id": "f9bj1ms",
+            "is_submitter": false,
+            "link_id": "t3_e4i4ev",
+            "parent_id": "t3_e4i4ev",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "f9beui4": {
+            "comment": "So i assume I should learn C, and go from there?",
+            "timeStamp": "2019/12/01-06:55:07",
+            "id": "f9beui4",
+            "is_submitter": true,
+            "link_id": "t3_e4i4ev",
+            "parent_id": "t1_f9bdh9t",
+            "score": 1,
+            "stickied": false,
+            "author_name": "evictedtomato"
+        },
+        "f9bdh9t": {
+            "comment": "It depends on what you mean by malware and what you want it to do. An example might be that you want to write virus's that infect ELF executables, although there are python libs to help with that(I've never done this in python), this is predominately done in C. This would be because it lets me do things like make statically linked executables, actually Go lang is super popular in malware these days, partly for that reason(I have limited Go experience). Doing it in C, as said before gives you a lot of control of how it compiled and linked, it's easy to parse ELF files in C, you can also easily inline assembly as at times you might feel that you need to set specific values on registers or zero them out. Although I am aware of ELF parsing libraries in python, I don't think you can set registers(I could be wrong as you can inline C in python and you may  be able to inline assembly within that?).",
+            "timeStamp": "2019/12/01-06:46:32",
+            "id": "f9bdh9t",
+            "is_submitter": false,
+            "link_id": "t3_e4i4ev",
+            "parent_id": "t3_e4i4ev",
+            "score": 1,
+            "stickied": false,
+            "author_name": "randomperson83"
+        }
+    }
+}

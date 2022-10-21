@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "All of a sudden Kaspersky Internet Security is having issues with the Logitech Hub updater. False positive? Anyone else having this issue? Thank you!",
+        "title": "Kaspersky + Logitech Hub",
+        "score": 1,
+        "id": "qlb2fw",
+        "commsNum": 2,
+        "timeStamp": "2021/11/02-11:42:55",
+        "author_name": "krakendg",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/qlb2fw/kaspersky_logitech_hub/"
+    },
+    "posts": {
+        "hj2jd81": {
+            "comment": "[removed]",
+            "timeStamp": "2021/11/02-15:19:23",
+            "id": "hj2jd81",
+            "is_submitter": false,
+            "link_id": "t3_qlb2fw",
+            "parent_id": "t3_qlb2fw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hj1z24s": {
+            "comment": "No problem here",
+            "timeStamp": "2021/11/02-13:09:18",
+            "id": "hj1z24s",
+            "is_submitter": false,
+            "link_id": "t3_qlb2fw",
+            "parent_id": "t3_qlb2fw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DjAndrew3000"
+        }
+    }
+}

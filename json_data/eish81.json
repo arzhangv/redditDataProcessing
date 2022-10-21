@@ -1,0 +1,187 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I have been a data scientist for 5 years and am interviewing for a DS position identifying malware. I have read the malware data science textbook and papers written by my interviewers but am looking for anything else that could help me stand out. I have a strong DS/ML background but know very little about malware. Does anyone have any advice on what else I should learn a little bit more about before my interview in two weeks?\n\nThanks!",
+        "title": "Looking for advice - Interviewing for a Malware Data Scientist Position",
+        "score": 1,
+        "id": "eish81",
+        "commsNum": 15,
+        "timeStamp": "2020/01/01-19:18:48",
+        "author_name": "bullwinkle2059",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 15,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/eish81/looking_for_advice_interviewing_for_a_malware/"
+    },
+    "posts": {
+        "fcxgz01": {
+            "comment": "I absolutely agree. The last guy that interviewed me said they don't expect people to know the security and the DS aspects. I am just trying to get my feet wet to show initiative and hopefully have a slightly more detailed discussion than they otherwise would have been able to. Hopefully this makes the difference between a no and a yes!",
+            "timeStamp": "2020/01/03-06:44:35",
+            "id": "fcxgz01",
+            "is_submitter": true,
+            "link_id": "t3_eish81",
+            "parent_id": "t1_fcw0nl0",
+            "score": 2,
+            "stickied": false,
+            "author_name": "bullwinkle2059"
+        },
+        "fcw0nl0": {
+            "comment": "No problem, and best of luck! Also, I feel like I should reemphasize my point that you absolutely CANNOT become an expert in all those things. All of those suggestions I provided are really important, but that's why you should always approach these sorts of problems with a team of people with a variety of areas of expertise. There's unfortunately a lot of gatekeeping in infosec, and I hope I'm not contributing to the problem by making it seem insurmountable. This is an important and growing area that will likely help protect a lot of people, and I'm very glad that you're joining the fight!",
+            "timeStamp": "2020/01/02-17:20:19",
+            "id": "fcw0nl0",
+            "is_submitter": false,
+            "link_id": "t3_eish81",
+            "parent_id": "t1_fcvvyhh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "bugoid"
+        },
+        "fcvvyhh": {
+            "comment": "This is great info - thank you for taking the time to comment!",
+            "timeStamp": "2020/01/02-16:28:46",
+            "id": "fcvvyhh",
+            "is_submitter": true,
+            "link_id": "t3_eish81",
+            "parent_id": "t1_fcvso31",
+            "score": 1,
+            "stickied": false,
+            "author_name": "bullwinkle2059"
+        },
+        "fcvso31": {
+            "comment": "I will echo the suggestions of others that you continue beefing up your domain knowledge of malware. Specifically, I would recommend looking at common malicious file formats beyond just PE (e.g., mach-o, ELF, APK, MS Office, PDF, SWF, etc.). Get to know the file format specifications, and (carefully) play around with both benign and malicious samples using common open source analysis tools (e.g., the kind you might find included with REMNUX).\n\nI would also recommend taking a look at data sources you can get from dynamic analysis, like maybe Procmon and WMI.\n\nGet familiar with the tools and rule languages that form the lingua franca for our field. For network sensors, that'd include Snort and Zeek. Yara for file AV. Sigma or EQL for endpoint analytics.\n\nYou also might want to think about how to answer questions around how to get PoC code out of Jupyter Notebooks and refactored into something that can be packaged and delivered according to good software engineering practices. Learn about test-driven software development, CI/CD, and DevSecOps. Learn how to do version tracking between your code, your models, and your training/evaluation data sets. Learn how to do code profiling to figure out what parts of your program are inefficient.\n\nLearn how to evaluate your model performance, and track performance degradation over time. Consider picking up something like YellowBrick to help.\n\nObviously you can't become an expert in all of these things, but pick a handful that interest you and at least get yourself some exposure to them.",
+            "timeStamp": "2020/01/02-15:53:34",
+            "id": "fcvso31",
+            "is_submitter": false,
+            "link_id": "t3_eish81",
+            "parent_id": "t3_eish81",
+            "score": 1,
+            "stickied": false,
+            "author_name": "bugoid"
+        },
+        "fcvef7c": {
+            "comment": "Josh and his team often admit they know nothing about malware, their focus is data science and leave the malware analysis to the Labs. So I wouldn\u2019t worry about not knowing about malware, just know what to do with the data and you\u2019ll be fine. \n\nIf it wasn\u2019t obvious, I\u2019m also at Sophos. Good luck with the interview.",
+            "timeStamp": "2020/01/02-13:26:12",
+            "id": "fcvef7c",
+            "is_submitter": false,
+            "link_id": "t3_eish81",
+            "parent_id": "t3_eish81",
+            "score": 1,
+            "stickied": false,
+            "author_name": "InternetSuperTrooper"
+        },
+        "fcve8d4": {
+            "comment": "Josh is a super smart dude. Good luck.",
+            "timeStamp": "2020/01/02-13:24:18",
+            "id": "fcve8d4",
+            "is_submitter": false,
+            "link_id": "t3_eish81",
+            "parent_id": "t1_fcukw9q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "InternetSuperTrooper"
+        },
+        "fcuky8b": {
+            "comment": "I will check it out!",
+            "timeStamp": "2020/01/02-08:41:43",
+            "id": "fcuky8b",
+            "is_submitter": true,
+            "link_id": "t3_eish81",
+            "parent_id": "t1_fcu9mvw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "bullwinkle2059"
+        },
+        "fcukxfk": {
+            "comment": "Thanks!",
+            "timeStamp": "2020/01/02-08:41:31",
+            "id": "fcukxfk",
+            "is_submitter": true,
+            "link_id": "t3_eish81",
+            "parent_id": "t1_fctizbx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "bullwinkle2059"
+        },
+        "fcukw9q": {
+            "comment": "Malware Data Science",
+            "timeStamp": "2020/01/02-08:41:11",
+            "id": "fcukw9q",
+            "is_submitter": true,
+            "link_id": "t3_eish81",
+            "parent_id": "t1_fctxl8x",
+            "score": 1,
+            "stickied": false,
+            "author_name": "bullwinkle2059"
+        },
+        "fcukte0": {
+            "comment": "Fantastic - thank you so much!!!!",
+            "timeStamp": "2020/01/02-08:40:26",
+            "id": "fcukte0",
+            "is_submitter": true,
+            "link_id": "t3_eish81",
+            "parent_id": "t1_fcuagid",
+            "score": 1,
+            "stickied": false,
+            "author_name": "bullwinkle2059"
+        },
+        "fcuagid": {
+            "comment": "Disclaimer: I have no formal DS training/background, but I do work in infosec and have malware analysis experience. \n\nI would say there are two approaches you could take:\n* Try to learn more about malware generally\n* Try to learn more about the type of analysis you will be performing on malware.\n\nWhat do I mean by this second one? With my limited DS/ML knowledge, I imagine that if hired, you will be focusing on using DS to detect malware in one of several possible ways:\n* Static (or near-static) file analysis / binary analysis\n* Behavioural analysis of active malware (analysing logs of what happens when you actually run a file)\n* Anomaly/outlier analysis of \u2018third party\u2019 datasets, such as network traffic, web-server logs etc. (E.g. if you were applying for a bank, you might be tasked with detecting which of the customers on your website were infected with malware, using your web server logs rather than analysing malware code or infected machines directly).\n\nIt should be relatively easy to work out which of these the role you\u2019re applying for will focus on, and come up with some good questions to ask during your interview that will demonstrate suitability. \n\nIf the company does work on non-Windows based malware, it might also be a good idea to read up on the methods of data collection and execution, e.g. if the company does analysis on Android applications, demonstrating that you\u2019ve thought about the problem by asking how they\u2019re doing the execution and orchestration might be a good idea (are they using emulators and server farms, or do they have racks of android phones somewhere, what software/infrastructure do they use to do this etc.). If you can mention during the interview that you\u2019ve built a script/infrastructure/setup/homelab to automatically execute - e.g. Mac OS Malware - or even just tried to build one and talk a little about a problem you ran into then that would probably go down well and you can chat to the interviewer about it.",
+            "timeStamp": "2020/01/02-06:46:44",
+            "id": "fcuagid",
+            "is_submitter": false,
+            "link_id": "t3_eish81",
+            "parent_id": "t3_eish81",
+            "score": 1,
+            "stickied": false,
+            "author_name": "grub5000"
+        },
+        "fcu9mvw": {
+            "comment": "I recommend reading the Practical Malware Analysis book",
+            "timeStamp": "2020/01/02-06:37:01",
+            "id": "fcu9mvw",
+            "is_submitter": false,
+            "link_id": "t3_eish81",
+            "parent_id": "t3_eish81",
+            "score": 1,
+            "stickied": false,
+            "author_name": "kankertje"
+        },
+        "fctxl8x": {
+            "comment": "What's the name of the textbook your using?",
+            "timeStamp": "2020/01/02-03:30:32",
+            "id": "fctxl8x",
+            "is_submitter": false,
+            "link_id": "t3_eish81",
+            "parent_id": "t3_eish81",
+            "score": 1,
+            "stickied": false,
+            "author_name": "dmnte"
+        },
+        "fctqwdc": {
+            "comment": "Out of curiosity can you post the names of those ML/DS textbooks?",
+            "timeStamp": "2020/01/02-00:47:36",
+            "id": "fctqwdc",
+            "is_submitter": false,
+            "link_id": "t3_eish81",
+            "parent_id": "t3_eish81",
+            "score": 1,
+            "stickied": false,
+            "author_name": "i_Mario"
+        },
+        "fctizbx": {
+            "comment": "Well i am finishing my informatic carreer, and i want to Focus on cybersecurity, i know a bit of Network and hacking, but for like 1 year i've been analyzing malware  \nIn the beggining i did not how to analyze samples and things like that, but i started reading about APT'S and how researchers discover and explain this ones, keeping in mind what tools, patterns, techniques,etc they used.  \n\n I know that my opinnion might sound naive and stupid, but i reccommend you download ( malware databases) malware  and understand bit a bit how does it work and stuff like that\n\n\nPd1: Sorry for my bad english but i am sleepy",
+            "timeStamp": "2020/01/01-22:01:57",
+            "id": "fctizbx",
+            "is_submitter": false,
+            "link_id": "t3_eish81",
+            "parent_id": "t3_eish81",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Alexis201249"
+        }
+    }
+}

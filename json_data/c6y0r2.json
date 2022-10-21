@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Free GandCrab Ransomware Decryptor Released for Versions 5.0 and 5.2",
+        "score": 21,
+        "id": "c6y0r2",
+        "commsNum": 1,
+        "timeStamp": "2019/06/29-04:46:31",
+        "author_name": "weowrue45",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.netsec.news/free-gandcrab-ransomware-decryptor-released-for-versions-5-0-and-5-2/"
+    },
+    "posts": {
+        "esdy0kn": {
+            "comment": "is it really so hard to wipe the private keys from memory by deleting and overwriting/allocating the entire RAM space",
+            "timeStamp": "2019/06/29-22:33:20",
+            "id": "esdy0kn",
+            "is_submitter": false,
+            "link_id": "t3_c6y0r2",
+            "parent_id": "t3_c6y0r2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "FormalBullfrog4"
+        }
+    }
+}

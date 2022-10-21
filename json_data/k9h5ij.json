@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I recently got done reading \"Malware Data Science\" by Joshua Saxe. It was an interesting read and made me curious as to what the day to day tasks of a malware data scientist are exactly. Are there plenty of opportunities in this domain? If so, how can you prepare to apply for such a job?",
+        "title": "Interested in Malware Data Science",
+        "score": 1,
+        "id": "k9h5ij",
+        "commsNum": 5,
+        "timeStamp": "2020/12/08-16:44:52",
+        "author_name": "bass581",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/k9h5ij/interested_in_malware_data_science/"
+    },
+    "posts": {
+        "gf6l612": {
+            "comment": "I would never detract you from trying! PMA is a great resource and will teach you a lot of what you need to know. \n\nThe only thing I\u2019ll caution you on is typically those hiring for reverse engineers or malware analysts are looking for someone with knowledge of operating system and programming principles. PMA will help you with a lot of the most relevant topics, but be prepared to demonstrate your knowledge in programming, assembly and compilation, disassembly, and operating systems. One thing that can really help during interviews is if you are able to provide write-ups or blogs of you analyzing samples (this will also demonstrate that you can write well). You can also look into getting certifications and online courses (several of which I believe are posted in the FAQ here) but keep in mind those usually come with a monetary and time/effort cost. \n\nNone of that is said to dissuade you because I have worked with REs and malware analysts from all different backgrounds - just trying to set the expectation on what will be required for getting your foot in the door, in my experience.",
+            "timeStamp": "2020/12/09-08:49:03",
+            "id": "gf6l612",
+            "is_submitter": false,
+            "link_id": "t3_k9h5ij",
+            "parent_id": "t1_gf6kfcx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "0xFF0F"
+        },
+        "gf6kfcx": {
+            "comment": "Thanks for the response, I really appreciate it. I am actually a computational biology graduate student looking to get into technology after graduation. Data science has been one option I am looking at, since its a more natural fit, and have been learning about it for the past year. Just out of curiosity, it is possible someone like me can get into a malware analysis role? I have started reading practical malware analysis and it seems really interesting, possibly something I might be interested in pursuing.",
+            "timeStamp": "2020/12/09-08:43:23",
+            "id": "gf6kfcx",
+            "is_submitter": true,
+            "link_id": "t3_k9h5ij",
+            "parent_id": "t1_gf5yg96",
+            "score": 1,
+            "stickied": false,
+            "author_name": "bass581"
+        },
+        "gf676eb": {
+            "comment": "I used to work for an EDR/IPS company and they had an ML engine for analyzing bulk binaries quickly. That said, all of the people who worked in it were skilled reverse engineers to determine what was actually malicious so they could tweak the model. \n\nI work for a different edr company now which doesn\u2019t have a similar engine so I\u2019m not sure this is a common technique in the industry yet",
+            "timeStamp": "2020/12/09-06:56:31",
+            "id": "gf676eb",
+            "is_submitter": false,
+            "link_id": "t3_k9h5ij",
+            "parent_id": "t3_k9h5ij",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Trolling_turd"
+        },
+        "gf64q0w": {
+            "comment": "[removed]",
+            "timeStamp": "2020/12/09-06:34:12",
+            "id": "gf64q0w",
+            "is_submitter": false,
+            "link_id": "t3_k9h5ij",
+            "parent_id": "t3_k9h5ij",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "gf5yg96": {
+            "comment": "I also enjoyed Saxe\u2019s book and thought it was a fun pivot to looking at malware analysis from a different view. \n\nTo your question, I don\u2019t think I\u2019ve ever seen a role carved out just for a \u201cMalware Data Scientist\u201d (though such a role may exist at a handful of companies - like A/V vendors - who require that level of capability - this is the case for Saxe himself, though he is more generally their \u201cChief Data Scientist\u201d). The vast majority of orgs would likely only have a few (if any) human malware analysts + sandbox or vendor tools to assist. \n\nBut for larger orgs, I think what happens more often is that general data scientists lend their skills out to several teams, including the security/Intel/malware analysis team, and helps apply data science principles to that area. Several times, my team has done a rotation with a data scientist from outside our team to help optimize our processes and look for new opportunities for analysis. \n\nSo, if one is interested in getting into \u201cmalware data science\u201d, I believe your best bet is to either specialize in data science, and seek out a company that has a mature cyber intelligence and/or malware analysis function and be prepared to spend time applying your skills there as well other parts of the business OR train in malware analysis and security work, and use the data science knowledge that you have to make your team\u2019s life easier and improve your org. The path depends on your passion for data science or security in general, IMO.",
+            "timeStamp": "2020/12/09-05:30:30",
+            "id": "gf5yg96",
+            "is_submitter": false,
+            "link_id": "t3_k9h5ij",
+            "parent_id": "t3_k9h5ij",
+            "score": 1,
+            "stickied": false,
+            "author_name": "0xFF0F"
+        }
+    }
+}

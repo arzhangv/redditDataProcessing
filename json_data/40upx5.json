@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "TeslaCrypt 3.0 Released",
+        "score": 15,
+        "id": "40upx5",
+        "commsNum": 2,
+        "timeStamp": "2016/01/13-15:12:08",
+        "author_name": "tomisnik",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.bleepingcomputer.com/news/security/teslacrypt-3-0-released-with-new-encryption-algorithm-and-xxx-file-extensions/"
+    },
+    "posts": {}
+}

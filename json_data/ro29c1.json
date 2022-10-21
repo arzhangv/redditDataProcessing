@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hey, I clicked on the website [youareanidiot.cc](https://youareanidiot.cc)\n\n  \nI read that it was a flashloop and just restarted after I checked it out. When I restarted chrome I got the animation again.\n\n&amp;#x200B;\n\nRemoved chrome and reinstalled chrome, am I safe?\n\n&amp;#x200B;\n\nSorry for the stupid question",
+        "title": "Clicked on the website",
+        "score": 1,
+        "id": "ro29c1",
+        "commsNum": 0,
+        "timeStamp": "2021/12/24-20:22:25",
+        "author_name": "mechatorque",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ro29c1/clicked_on_the_website/"
+    },
+    "posts": {
+        "hpwocba": {
+            "comment": "Thank you!",
+            "timeStamp": "2021/12/25-03:13:32",
+            "id": "hpwocba",
+            "is_submitter": true,
+            "link_id": "t3_ro29c1",
+            "parent_id": "t1_hpw8w6w",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mechatorque"
+        },
+        "hpw8w6w": {
+            "comment": "Yeah, it should be gone",
+            "timeStamp": "2021/12/24-23:11:18",
+            "id": "hpw8w6w",
+            "is_submitter": false,
+            "link_id": "t3_ro29c1",
+            "parent_id": "t1_hpvx5cy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TeslaTower864"
+        },
+        "hpw39i2": {
+            "comment": "Please alter the hyperlink in case someone else presses it.",
+            "timeStamp": "2021/12/24-21:57:15",
+            "id": "hpw39i2",
+            "is_submitter": false,
+            "link_id": "t3_ro29c1",
+            "parent_id": "t3_ro29c1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "giorgosioak"
+        },
+        "hpvx5cy": {
+            "comment": "It isn\u2019t playing anymore, so It\u2019s fine I guess?",
+            "timeStamp": "2021/12/24-20:47:11",
+            "id": "hpvx5cy",
+            "is_submitter": true,
+            "link_id": "t3_ro29c1",
+            "parent_id": "t1_hpvx3g4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mechatorque"
+        },
+        "hpvx3g4": {
+            "comment": "try using task manager to close chrome - chrome might not have been fully closed",
+            "timeStamp": "2021/12/24-20:46:36",
+            "id": "hpvx3g4",
+            "is_submitter": false,
+            "link_id": "t3_ro29c1",
+            "parent_id": "t3_ro29c1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TeslaTower864"
+        }
+    }
+}

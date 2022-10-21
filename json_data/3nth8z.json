@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Assume a trojan acquired admin privilege on a Windows 7 machine. How easy is it for the trojan to replace/hijack/modify a browser extension without user knowing it? Is it possible?\n\nI am thinking of implementing a chrome extension to provide additional security layer. So I would like to know whether the trojan can modify the behaviour of my \"security extension\" that easily. I can understand that the trojan might be able to easily uninstall the chrome extension without user knowing it (uninstalling is not a problem, but hijacking/modifying is).\n\nAlso, are there any special security mechanism to prevent the tampering of a chrome extension?",
+        "title": "Protecting users with browser extension. Is it possible, if the machine is already infected?",
+        "score": 1,
+        "id": "3nth8z",
+        "commsNum": 3,
+        "timeStamp": "2015/10/07-01:48:06",
+        "author_name": "namahshivya",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/3nth8z/protecting_users_with_browser_extension_is_it/"
+    },
+    "posts": {}
+}

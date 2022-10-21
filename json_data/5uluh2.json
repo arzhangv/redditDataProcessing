@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "A new SQL malware Targets online shops running on Magento",
+        "score": 1,
+        "id": "5uluh2",
+        "commsNum": 0,
+        "timeStamp": "2017/02/17-04:25:38",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/56373/malware/sql-malware.html"
+    },
+    "posts": {}
+}

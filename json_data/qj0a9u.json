@@ -1,0 +1,110 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": " \n\nIts Skype.exe that opened itself 20 times and the program was blank and there was text: FREE S## or Look at my hot p###y (link) .\n\nWhat malware is it, and was it dangerous...\n\n(it used 98% from my ancient cpu)",
+        "title": "Whats this malware (i deleted it)",
+        "score": 1,
+        "id": "qj0a9u",
+        "commsNum": 8,
+        "timeStamp": "2021/10/30-05:15:36",
+        "author_name": "ROGguy08",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 8,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/qj0a9u/whats_this_malware_i_deleted_it/"
+    },
+    "posts": {
+        "hkbfyex": {
+            "comment": "hit it with a hammer several times too.",
+            "timeStamp": "2021/11/12-02:30:13",
+            "id": "hkbfyex",
+            "is_submitter": false,
+            "link_id": "t3_qj0a9u",
+            "parent_id": "t1_hk22b5m",
+            "score": 2,
+            "stickied": false,
+            "author_name": "BeyondBlitz"
+        },
+        "hk22b5m": {
+            "comment": "Wipe your computer to make sure its really gone",
+            "timeStamp": "2021/11/10-03:44:21",
+            "id": "hk22b5m",
+            "is_submitter": false,
+            "link_id": "t3_qj0a9u",
+            "parent_id": "t3_qj0a9u",
+            "score": 1,
+            "stickied": false,
+            "author_name": "blabbities"
+        },
+        "hiqdv20": {
+            "comment": "thanks :pepoblush:",
+            "timeStamp": "2021/10/30-22:19:50",
+            "id": "hiqdv20",
+            "is_submitter": false,
+            "link_id": "t3_qj0a9u",
+            "parent_id": "t1_hipjlog",
+            "score": 1,
+            "stickied": false,
+            "author_name": "unixquuw"
+        },
+        "hipjlog": {
+            "comment": "Classic comeback. To the point, harmful, and hilarious.\n\n10/10",
+            "timeStamp": "2021/10/30-17:35:35",
+            "id": "hipjlog",
+            "is_submitter": false,
+            "link_id": "t3_qj0a9u",
+            "parent_id": "t1_hiozmrd",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Mysterious_Ad7232"
+        },
+        "hiozmrd": {
+            "comment": "your retarded",
+            "timeStamp": "2021/10/30-14:52:09",
+            "id": "hiozmrd",
+            "is_submitter": false,
+            "link_id": "t3_qj0a9u",
+            "parent_id": "t1_hinjiav",
+            "score": 0,
+            "stickied": false,
+            "author_name": "unixquuw"
+        },
+        "hinjiav": {
+            "comment": "[deleted]",
+            "timeStamp": "2021/10/30-08:39:34",
+            "id": "hinjiav",
+            "is_submitter": false,
+            "link_id": "t3_qj0a9u",
+            "parent_id": "t1_himzxwz",
+            "score": -6,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hin03yy": {
+            "comment": "[removed]",
+            "timeStamp": "2021/10/30-06:05:21",
+            "id": "hin03yy",
+            "is_submitter": false,
+            "link_id": "t3_qj0a9u",
+            "parent_id": "t3_qj0a9u",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "himzxwz": {
+            "comment": "```A place for malware reports and information. This is NOT a place for help with malware removal or various other end-user questions.```",
+            "timeStamp": "2021/10/30-06:03:54",
+            "id": "himzxwz",
+            "is_submitter": false,
+            "link_id": "t3_qj0a9u",
+            "parent_id": "t3_qj0a9u",
+            "score": 3,
+            "stickied": false,
+            "author_name": "SpookyWA"
+        }
+    }
+}

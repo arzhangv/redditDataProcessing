@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Using typelib id and MVID to identify .NET malware families",
+        "score": 2,
+        "id": "30exel",
+        "commsNum": 0,
+        "timeStamp": "2015/03/26-13:36:37",
+        "author_name": "bwall9809",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://blog.cylance.com//you-me-and-.net-guids"
+    },
+    "posts": {}
+}

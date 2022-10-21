@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "When I opened the drive all the files were moved to a hidden folder called \"Drive\" and a new folder was made inside it called \"481\" with this .js file inside.\n\nOutside, in the drive root, there are shortcuts to the files that were previously here and there is a file called \"Drive.bat\" which has a couple of lines calling wscript.exe to execute the .js file inside.\nAll shortcuts are made to run this Drive.bat file.\n\nTypical malware behavior.\n\nScanned with 2 different antivirus programs but not detected.\nI uploaded it on VirusTotal and the first submission was about 1 week ago and it's only 6/54.\n\nCan someone pull a sample from VirusTotal and check it? Also if there's a way to know whether it has infected my system or not it'll help.\n\nI did not open it directly but I dragged it into notepad to see the content, is this dangerous in any way? Need to check my system anyway if possible - I'm paranoid about these things.\n\nVirusTotal link:\nhttps://www.virustotal.com/en/file/c46be1b3dd776bcb728469386fc03654efb4fd6226578f7dd86d1bc805842ef5/analysis/1481756599/\n\nI can also upload the file to a file-hosting website if needed.\n\n\nEdit:\nPastebin link: (the content of the file when viewed in notepad)\nhttp://pastebin.com/9XgJWHGG",
+        "title": "Got what looks like a new undetected malware on a flash stick today",
+        "score": 5,
+        "id": "5ieght",
+        "commsNum": 12,
+        "timeStamp": "2016/12/14-16:52:51",
+        "author_name": "d5633",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 12,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5ieght/got_what_looks_like_a_new_undetected_malware_on_a/"
+    },
+    "posts": {}
+}

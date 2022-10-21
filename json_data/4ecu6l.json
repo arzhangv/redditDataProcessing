@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Petya Ransomware Decryptor Released",
+        "score": 26,
+        "id": "4ecu6l",
+        "commsNum": 4,
+        "timeStamp": "2016/04/11-14:17:11",
+        "author_name": "Extremite",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://github.com/leo-stone/hack-petya"
+    },
+    "posts": {}
+}

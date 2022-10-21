@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "[removed]",
+        "title": "Browser Malware",
+        "score": 1,
+        "id": "hdc1sj",
+        "commsNum": 1,
+        "timeStamp": "2020/06/21-11:41:02",
+        "author_name": "Chrizzlybaerchen",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/hdc1sj/browser_malware/"
+    },
+    "posts": {
+        "fvk7v06": {
+            "comment": "&gt; This is NOT a place for help with malware removal or various other end-user questions.",
+            "timeStamp": "2020/06/21-11:42:39",
+            "id": "fvk7v06",
+            "is_submitter": false,
+            "link_id": "t3_hdc1sj",
+            "parent_id": "t3_hdc1sj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "edward_snowedin"
+        }
+    }
+}

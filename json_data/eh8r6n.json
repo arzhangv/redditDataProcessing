@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Scraping Malware Off of Pastebin [video]",
+        "score": 1,
+        "id": "eh8r6n",
+        "commsNum": 3,
+        "timeStamp": "2019/12/29-09:39:02",
+        "author_name": "kindredsec",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://youtu.be/y5OObEOWuDY"
+    },
+    "posts": {
+        "fhfa1fp": {
+            "comment": "ignore",
+            "timeStamp": "2020/02/12-12:27:21",
+            "id": "fhfa1fp",
+            "is_submitter": false,
+            "link_id": "t3_eh8r6n",
+            "parent_id": "t1_fci5y9c",
+            "score": 1,
+            "stickied": false,
+            "author_name": "panic-at-the-party1"
+        },
+        "fci5y9c": {
+            "comment": "You should try this https://github.com/edoz90/pastego maybe you can use it with known keywords",
+            "timeStamp": "2019/12/29-14:22:32",
+            "id": "fci5y9c",
+            "is_submitter": false,
+            "link_id": "t3_eh8r6n",
+            "parent_id": "t3_eh8r6n",
+            "score": 0,
+            "stickied": false,
+            "author_name": "d_o_d_o_"
+        },
+        "fcha6az": {
+            "comment": "Thanks for sharing! Didn't think to scrape pastebin for malware samples. Video kept me interested",
+            "timeStamp": "2019/12/29-11:44:26",
+            "id": "fcha6az",
+            "is_submitter": false,
+            "link_id": "t3_eh8r6n",
+            "parent_id": "t3_eh8r6n",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sorrow123444"
+        }
+    }
+}

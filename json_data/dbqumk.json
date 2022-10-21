@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[removed]",
+        "title": "Why Linux malware is written in C?",
+        "score": 1,
+        "id": "dbqumk",
+        "commsNum": 0,
+        "timeStamp": "2019/10/01-02:30:53",
+        "author_name": "tomruk",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/dbqumk/why_linux_malware_is_written_in_c/"
+    },
+    "posts": {}
+}

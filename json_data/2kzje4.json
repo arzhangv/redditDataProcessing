@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "o I have this folder in C:/ProgramData/Downloader Inside that is the downloader.exe which I cannot delete no matter what. Also, with that file is another text file named \"file,\" then the three alpha-numerical file which is a torrent file and last is another folder named \"Download\" with programs inside that are \"Fraps\" and \"winrar\"\nI tried deleting it in safe mode and I was able to, but after restarting back to normal mode, the files went back there. I tried force deleting it too and while I am at that window, I can see it one by one going downloading back to my hard drive.\nWhat is this program? I'm worried I could download harmful files/viruses in my PC. Please help.",
+        "title": "downloader.exe problem. NEED HELP!",
+        "score": 0,
+        "id": "2kzje4",
+        "commsNum": 1,
+        "timeStamp": "2014/11/01-09:38:19",
+        "author_name": "[deleted]",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2kzje4/downloaderexe_problem_need_help/"
+    },
+    "posts": {}
+}

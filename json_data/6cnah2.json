@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Two parts question really.  \n\n**Part 1: Learning Assembly:**  \n  \n1. When it comes to learning ASM (Assembly Language), I should focus on x86_64, the intel 32bit and 64bit architecture right? Reason being, they're the most widely used processors?  \n   \n2. Because the Assembly laguage often makes Syscalls to the OS, the Operating System we use also matters. And because majority of the Viruses/Malwares out there are targetting the Windows system, naturally there will be a lot of interaction and calling of functions to the Windows System. So it wouldn't make sense to use Assembly in Linux since we'll be dealing and primarily studying/analyzing Viruses and Malwares with codes that exploit the Windows system right?  **Will I be doing myself a disservice if i try to learn Assembly in linux instead of Windows?**\n  \n  \n**Part 2: Setting up Lab/Testing Enviornment:**\nWhen it comes to testing, it doesn't matter what main OS my computer is running. It can be linux or Windows... we just have to set up VM (virtual machine) and then installing the OS we want to test on.  \n  \n1. wouldn't we want to always set up a windows enviornment as our test enviornment then? (especially considering that most tools are available and made for Windows) unless we're specifically testing for linux malware?  \n  \n2. But what about this Remnux? this is basically a light weight linux distro with malware analysis tools built in right? How are these tools compared to the popular tools often used on windows?  \nAnd most importantly, wouldn't we want to be in a VM set up as Windows when testing for malwares/viruses made for windows? But isn't Remnux a linux system? o.0\n\n",
+        "title": "Malware Analysis using Linux or Windows?",
+        "score": 7,
+        "id": "6cnah2",
+        "commsNum": 7,
+        "timeStamp": "2017/05/22-06:39:53",
+        "author_name": "curiousdoggo",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6cnah2/malware_analysis_using_linux_or_windows/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Please ignore",
+        "title": "This is an automod test. I have malware and I am too stupid to read the sidebar. Can you help?",
+        "score": 9,
+        "id": "8qvhk1",
+        "commsNum": 5,
+        "timeStamp": "2018/06/13-12:55:16",
+        "author_name": "edward_snowedin",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8qvhk1/this_is_an_automod_test_i_have_malware_and_i_am/"
+    },
+    "posts": {
+        "e0mgowb": {
+            "comment": "You da real og. I had convinced myself I forgot how regex works. Thanks",
+            "timeStamp": "2018/06/13-13:59:14",
+            "id": "e0mgowb",
+            "is_submitter": false,
+            "link_id": "t3_8qvhk1",
+            "parent_id": "t1_e0mfkfd",
+            "score": 2,
+            "stickied": false,
+            "author_name": "edward_snowedin"
+        },
+        "e0mfkfd": {
+            "comment": "if you are expecting automod to do something, make sure that you set to particular rule to run when a mod posts otherwise automod will just ignore you\n\n`moderators_exempt false`",
+            "timeStamp": "2018/06/13-13:43:25",
+            "id": "e0mfkfd",
+            "is_submitter": false,
+            "link_id": "t3_8qvhk1",
+            "parent_id": "t3_8qvhk1",
+            "score": 2,
+            "stickied": false,
+            "author_name": "lugh"
+        },
+        "e0mf0hc": {
+            "comment": "all tests pass?",
+            "timeStamp": "2018/06/13-13:35:38",
+            "id": "e0mf0hc",
+            "is_submitter": false,
+            "link_id": "t3_8qvhk1",
+            "parent_id": "t3_8qvhk1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "xabean"
+        },
+        "e0md8o7": {
+            "comment": "Only conclusion is that the mods infected themselves. ",
+            "timeStamp": "2018/06/13-13:10:35",
+            "id": "e0md8o7",
+            "is_submitter": false,
+            "link_id": "t3_8qvhk1",
+            "parent_id": "t3_8qvhk1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Mindless_Consumer"
+        },
+        "e0mciyu": {
+            "comment": "That's a pretty common one. The removal is pretty straight forward, but what version of Windows are you on?",
+            "timeStamp": "2018/06/13-13:00:29",
+            "id": "e0mciyu",
+            "is_submitter": false,
+            "link_id": "t3_8qvhk1",
+            "parent_id": "t3_8qvhk1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Intrexa"
+        },
+        "e0mc8np": {
+            "comment": "Yes.",
+            "timeStamp": "2018/06/13-12:56:30",
+            "id": "e0mc8np",
+            "is_submitter": false,
+            "link_id": "t3_8qvhk1",
+            "parent_id": "t3_8qvhk1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Taltalonix"
+        }
+    }
+}

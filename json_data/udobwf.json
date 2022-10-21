@@ -1,0 +1,110 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "first of all, im new to this, this is the first time someone i know got ransomware, so i apologize if i make mistakes. i also dont know if this is the right place to ask for help, i also apologize if im wrong\n\nso a friend got a ransomware that encrypt their files with .jhgn extension on all volumes, i tried emsisoft stop/djvu decryptor and it didnt work, any advice how to fix this problem?\n\nthey also didnt turn on system protection so shadowexplorer didnt work.\n\nif it comes to worse, my friend said its ok to re-insall and delete everything. the windows is OEM from the laptop, so how do i handle this? is only doing reset pc from setting is good enough? or i need to format the HDD and install from usb? is the OEM license stay? its already log on on their ms account\n\nthank you in advance",
+        "title": ".jhgn ransomware",
+        "score": 1,
+        "id": "udobwf",
+        "commsNum": 0,
+        "timeStamp": "2022/04/27-23:08:39",
+        "author_name": "FrostedBeakBack",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/udobwf/jhgn_ransomware/"
+    },
+    "posts": {
+        "i6ihkbm": {
+            "comment": "Unfortunately with online ID ransomware your only options would be\n\n1. Wait until the key for this becomes known in the future by someone who coincidentally got compromised with the same encryption key\n\n2. Cut your losses and wipe the files.\n\n\nUnless you've got some really important irreplaceable files in there (e.g. Family photos or Work documents)\n\nDo NOT pay the ransomware for recovery, as payment encourages these criminals to make more ransomware and strike again.\n\n\nAlso in the future, please tell your friend to place their files within the documents folder and turn on Windows Defender Ransomware protection, as it will stop literally any program from accessing those files unless given explicit permission in the warning notification.\n\nThat or if this occurred on a device where Windows Defender was your main AV, might be time to try the market for some free Antivirus plans.\n\nBitdefender is currently the most popular and proven to be the strongest free plan in the market (Minus Kaspersky amid fears of Russian government ties cause...yeah...)",
+            "timeStamp": "2022/04/28-02:23:45",
+            "id": "i6ihkbm",
+            "is_submitter": false,
+            "link_id": "t3_udobwf",
+            "parent_id": "t1_i6ifx75",
+            "score": 1,
+            "stickied": false,
+            "author_name": "coconut_dot_jpg"
+        },
+        "i6ig14j": {
+            "comment": "alright, i guess i just delete this post, sorry for the problem",
+            "timeStamp": "2022/04/28-01:59:54",
+            "id": "i6ig14j",
+            "is_submitter": true,
+            "link_id": "t3_udobwf",
+            "parent_id": "t1_i6ifmsq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "FrostedBeakBack"
+        },
+        "i6ifx75": {
+            "comment": "ok i do all the step and try the advice the website give, using the same decryptor. the decryptor said its online ID impossible to decrypt, does that mean its the end, no way to save the files?",
+            "timeStamp": "2022/04/28-01:58:09",
+            "id": "i6ifx75",
+            "is_submitter": true,
+            "link_id": "t3_udobwf",
+            "parent_id": "t1_i6iewb1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "FrostedBeakBack"
+        },
+        "i6ifmsq": {
+            "comment": "Check the announcement post called \n\n\"Please view before posting on /r/malware!\"",
+            "timeStamp": "2022/04/28-01:53:32",
+            "id": "i6ifmsq",
+            "is_submitter": false,
+            "link_id": "t3_udobwf",
+            "parent_id": "t1_i6ifh17",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Rakanisheu"
+        },
+        "i6ifhja": {
+            "comment": "ill try do that",
+            "timeStamp": "2022/04/28-01:51:14",
+            "id": "i6ifhja",
+            "is_submitter": true,
+            "link_id": "t3_udobwf",
+            "parent_id": "t1_i6iewb1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "FrostedBeakBack"
+        },
+        "i6ifh17": {
+            "comment": "im afraid so, i dont know where else to ask",
+            "timeStamp": "2022/04/28-01:51:00",
+            "id": "i6ifh17",
+            "is_submitter": true,
+            "link_id": "t3_udobwf",
+            "parent_id": "t1_i6if2ey",
+            "score": 1,
+            "stickied": false,
+            "author_name": "FrostedBeakBack"
+        },
+        "i6if2ey": {
+            "comment": "This isnt a support sub-reddit.",
+            "timeStamp": "2022/04/28-01:44:49",
+            "id": "i6if2ey",
+            "is_submitter": false,
+            "link_id": "t3_udobwf",
+            "parent_id": "t3_udobwf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Rakanisheu"
+        },
+        "i6iewb1": {
+            "comment": "Have your friend upload a sample to https://id-ransomware.malwarehunterteam.com/\n\nSee if a decryption key is known for this sample.",
+            "timeStamp": "2022/04/28-01:42:12",
+            "id": "i6iewb1",
+            "is_submitter": false,
+            "link_id": "t3_udobwf",
+            "parent_id": "t3_udobwf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "coconut_dot_jpg"
+        }
+    }
+}

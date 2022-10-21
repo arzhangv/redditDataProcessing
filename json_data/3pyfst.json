@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "This Malware Deletes Your Chrome Browser and Replaces It With a Fake One",
+        "score": 38,
+        "id": "3pyfst",
+        "commsNum": 5,
+        "timeStamp": "2015/10/23-14:20:39",
+        "author_name": "Diazepam",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://fossbytes.com/efast-browser-malware-deletes-your-chrome-browser-and-replaces-it-with-a-fake-clone/"
+    },
+    "posts": {}
+}

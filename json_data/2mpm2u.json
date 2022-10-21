@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Steganography &amp; Reversing Multilayer .NET Malware",
+        "score": 8,
+        "id": "2mpm2u",
+        "commsNum": 0,
+        "timeStamp": "2014/11/18-14:41:30",
+        "author_name": "craiwill",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://blogs.cisco.com/talos/reversing-multilayer-net-malware"
+    },
+    "posts": {}
+}

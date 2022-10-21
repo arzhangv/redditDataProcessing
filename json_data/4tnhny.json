@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Researchers detect malware in TLS connections without decrypting traffic",
+        "score": 12,
+        "id": "4tnhny",
+        "commsNum": 2,
+        "timeStamp": "2016/07/19-14:03:34",
+        "author_name": "Analog_Cannoli",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://arxiv.org/abs/1607.01639"
+    },
+    "posts": {}
+}

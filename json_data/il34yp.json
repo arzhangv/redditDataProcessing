@@ -1,0 +1,110 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "What\u2019s the safest way to open a potentially infected PDF or .doc in Linux? Similar to a disposableVM but easier to open, ensuring it has NO access to anything else in your computer.\n\n&lt;3",
+        "title": "Disposable VM or similar for Linux when opening a potentially infected file",
+        "score": 1,
+        "id": "il34yp",
+        "commsNum": 8,
+        "timeStamp": "2020/09/02-01:42:35",
+        "author_name": "jabasdaddywhore",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 8,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/il34yp/disposable_vm_or_similar_for_linux_when_opening_a/"
+    },
+    "posts": {
+        "g3u0qio": {
+            "comment": "Check out Remnux. It can be used as a VM or individual tools can be spun up in Docker images. Tons of built in tools for all kinds of file analysis.",
+            "timeStamp": "2020/09/03-04:59:20",
+            "id": "g3u0qio",
+            "is_submitter": false,
+            "link_id": "t3_il34yp",
+            "parent_id": "t3_il34yp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mkr-"
+        },
+        "g3q7bbs": {
+            "comment": "[removed]",
+            "timeStamp": "2020/09/02-08:16:39",
+            "id": "g3q7bbs",
+            "is_submitter": false,
+            "link_id": "t3_il34yp",
+            "parent_id": "t3_il34yp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "g3pqpk9": {
+            "comment": "https://www.hybrid-analysis.com/",
+            "timeStamp": "2020/09/02-06:16:38",
+            "id": "g3pqpk9",
+            "is_submitter": false,
+            "link_id": "t3_il34yp",
+            "parent_id": "t3_il34yp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "bluesoul"
+        },
+        "g3pq2kv": {
+            "comment": "Snadboxie. Takes a little bit to set up but it's a temporary application level VM",
+            "timeStamp": "2020/09/02-06:11:34",
+            "id": "g3pq2kv",
+            "is_submitter": false,
+            "link_id": "t3_il34yp",
+            "parent_id": "t3_il34yp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TheCrowGrandfather"
+        },
+        "g3ppiwv": {
+            "comment": "Virtualbox",
+            "timeStamp": "2020/09/02-06:07:10",
+            "id": "g3ppiwv",
+            "is_submitter": false,
+            "link_id": "t3_il34yp",
+            "parent_id": "t3_il34yp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Trolling_turd"
+        },
+        "g3phjf7": {
+            "comment": "Or perhaps this? https://www.qubes-os.org Every file/application lives in its own temporary VM.",
+            "timeStamp": "2020/09/02-04:57:30",
+            "id": "g3phjf7",
+            "is_submitter": false,
+            "link_id": "t3_il34yp",
+            "parent_id": "t3_il34yp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MaestroWu"
+        },
+        "g3pcjrn": {
+            "comment": "[removed]",
+            "timeStamp": "2020/09/02-03:58:07",
+            "id": "g3pcjrn",
+            "is_submitter": false,
+            "link_id": "t3_il34yp",
+            "parent_id": "t3_il34yp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "g3p67bk": {
+            "comment": "Maybe a Sandbox is what you are looking for.",
+            "timeStamp": "2020/09/02-02:15:29",
+            "id": "g3p67bk",
+            "is_submitter": false,
+            "link_id": "t3_il34yp",
+            "parent_id": "t3_il34yp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "xlogiic2"
+        }
+    }
+}

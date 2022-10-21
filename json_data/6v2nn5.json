@@ -1,0 +1,99 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Locky Ransomware Variant Slips Past Some Defenses",
+        "score": 22,
+        "id": "6v2nn5",
+        "commsNum": 7,
+        "timeStamp": "2017/08/21-05:44:33",
+        "author_name": "majorllama",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://threatpost.com/locky-ransomware-variant-slips-past-some-defenses/127496/"
+    },
+    "posts": {
+        "dlznole": {
+            "comment": "We\u2019ve seen a variety of them. All same payload but just different enough. They like to put it in Zip, 7z, and rar instead of macro docs now it seems. ",
+            "timeStamp": "2017/08/22-15:49:15",
+            "id": "dlznole",
+            "is_submitter": false,
+            "link_id": "t3_6v2nn5",
+            "parent_id": "t1_dlxz0sf",
+            "score": 2,
+            "stickied": false,
+            "author_name": "asc6"
+        },
+        "dlxz71n": {
+            "comment": "Oh really? That's good to hear (well bad that you received them, but good confirmation of the current Locky campaign that's going on.) There's a new-ish variant that is bypassing a lot of security products. Be careful out there.",
+            "timeStamp": "2017/08/21-15:31:12",
+            "id": "dlxz71n",
+            "is_submitter": true,
+            "link_id": "t3_6v2nn5",
+            "parent_id": "t1_dlxz0sf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "majorllama"
+        },
+        "dlxz0sf": {
+            "comment": "Had a campaign today of phishing emails come in with a failed UPS/Courier shipment  template of .js within a .zip that hybrid analysis identified as locky also",
+            "timeStamp": "2017/08/21-15:27:34",
+            "id": "dlxz0sf",
+            "is_submitter": false,
+            "link_id": "t3_6v2nn5",
+            "parent_id": "t3_6v2nn5",
+            "score": 2,
+            "stickied": false,
+            "author_name": "j_bombay"
+        },
+        "dlx8lf3": {
+            "comment": "It is certainly a never-ending battle, but every day brings a new challenge. That's why I love this field :)",
+            "timeStamp": "2017/08/21-06:37:28",
+            "id": "dlx8lf3",
+            "is_submitter": true,
+            "link_id": "t3_6v2nn5",
+            "parent_id": "t1_dlx8ind",
+            "score": 2,
+            "stickied": false,
+            "author_name": "majorllama"
+        },
+        "dlx8ind": {
+            "comment": "That and whats worse is that companies and IT \"Experts\" are not paying attention to the market and what is going on. You can protect yourself so easily with practices, solid education and look over the social media with one eye. I know at least a couple of dozen trustworthy malware researchers that report so frequently, it might as well be spam of malware (Super good for people working in anti-malware/research/security fields)",
+            "timeStamp": "2017/08/21-06:35:39",
+            "id": "dlx8ind",
+            "is_submitter": false,
+            "link_id": "t3_6v2nn5",
+            "parent_id": "t1_dlx8be5",
+            "score": 2,
+            "stickied": false,
+            "author_name": "JoshRosserino"
+        },
+        "dlx8be5": {
+            "comment": "Yes I was just reading an article this morning about how the code for Kronos was dated back to 2009, yet it's still prevalent today. That's the overall theme in the malware community; repackage and reuse.",
+            "timeStamp": "2017/08/21-06:30:41",
+            "id": "dlx8be5",
+            "is_submitter": true,
+            "link_id": "t3_6v2nn5",
+            "parent_id": "t1_dlx88w3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "majorllama"
+        },
+        "dlx88w3": {
+            "comment": "It's interesting how new samples of Locky keep being found past month. Quite unfortunate for those who did not update their OS and do not have proper security.",
+            "timeStamp": "2017/08/21-06:29:00",
+            "id": "dlx88w3",
+            "is_submitter": false,
+            "link_id": "t3_6v2nn5",
+            "parent_id": "t3_6v2nn5",
+            "score": 2,
+            "stickied": false,
+            "author_name": "JoshRosserino"
+        }
+    }
+}

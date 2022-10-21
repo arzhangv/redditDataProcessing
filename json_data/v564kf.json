@@ -1,0 +1,99 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "New course OFFENSIVE C# has been released. From fundamentals to winapi. We will also see how to automate Active Directory attacks using c#. Very helpful for the new #OSCP exam.\n\n&amp;#x200B;\n\n[https://www.udemy.com/course/offensive-csharp/?referralCode=58C5C26B37F442CA71D9](https://www.udemy.com/course/offensive-csharp/?referralCode=58C5C26B37F442CA71D9)\n\n&amp;#x200B;\n\n*Processing img klvefzqzgq391...*",
+        "title": "OFFENSIVE C#",
+        "score": 1,
+        "id": "v564kf",
+        "commsNum": 0,
+        "timeStamp": "2022/06/04-21:51:24",
+        "author_name": "nikkithegr8",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/v564kf/offensive_c/"
+    },
+    "posts": {
+        "ib84vl1": {
+            "comment": "Okay. Thanks for the clarification",
+            "timeStamp": "2022/06/04-23:06:54",
+            "id": "ib84vl1",
+            "is_submitter": false,
+            "link_id": "t3_v564kf",
+            "parent_id": "t1_ib84pqj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "blabbities"
+        },
+        "ib84pqj": {
+            "comment": "We create website using python flask as backend. this is our server. Client or reverse shell connects to us and sends the output of commands . this output should be seen in the website . This is linking socket's received data to web interface",
+            "timeStamp": "2022/06/04-23:04:46",
+            "id": "ib84pqj",
+            "is_submitter": true,
+            "link_id": "t3_v564kf",
+            "parent_id": "t1_ib82l2v",
+            "score": 1,
+            "stickied": false,
+            "author_name": "nikkithegr8"
+        },
+        "ib82l2v": {
+            "comment": "Random question but it'll save time what's the 'Linking Sockets and web interface' about really?",
+            "timeStamp": "2022/06/04-22:37:06",
+            "id": "ib82l2v",
+            "is_submitter": false,
+            "link_id": "t3_v564kf",
+            "parent_id": "t3_v564kf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "blabbities"
+        },
+        "ib82atf": {
+            "comment": "Thank you :)",
+            "timeStamp": "2022/06/04-22:33:35",
+            "id": "ib82atf",
+            "is_submitter": true,
+            "link_id": "t3_v564kf",
+            "parent_id": "t1_ib81xbq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "nikkithegr8"
+        },
+        "ib81xbq": {
+            "comment": "Actually pretty interesting! Just stared your repo and will dig through it more later (:",
+            "timeStamp": "2022/06/04-22:28:56",
+            "id": "ib81xbq",
+            "is_submitter": false,
+            "link_id": "t3_v564kf",
+            "parent_id": "t1_ib81gkz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DynamicDoughnut"
+        },
+        "ib81gkz": {
+            "comment": "Why don't you check it out? \n\nMy repo: https://github.com/winsecurity/Offensive-C-Sharp",
+            "timeStamp": "2022/06/04-22:23:15",
+            "id": "ib81gkz",
+            "is_submitter": true,
+            "link_id": "t3_v564kf",
+            "parent_id": "t1_ib80zzd",
+            "score": 1,
+            "stickied": false,
+            "author_name": "nikkithegr8"
+        },
+        "ib80zzd": {
+            "comment": "Was anybody else expecting to see vulgar yet hilarious code? Or just me?",
+            "timeStamp": "2022/06/04-22:17:40",
+            "id": "ib80zzd",
+            "is_submitter": false,
+            "link_id": "t3_v564kf",
+            "parent_id": "t3_v564kf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DynamicDoughnut"
+        }
+    }
+}

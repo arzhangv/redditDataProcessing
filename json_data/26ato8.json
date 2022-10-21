@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Research on obfuscation in Android malware [PDF]",
+        "score": 7,
+        "id": "26ato8",
+        "commsNum": 0,
+        "timeStamp": "2014/05/23-07:33:38",
+        "author_name": "paran0ide",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.fortiguard.com/uploads/general/obfusk_caro.pdf"
+    },
+    "posts": {}
+}

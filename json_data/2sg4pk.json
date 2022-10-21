@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Dynamic Malware Analysis with REMnux \u2013 Part 1",
+        "score": 3,
+        "id": "2sg4pk",
+        "commsNum": 0,
+        "timeStamp": "2015/01/14-14:04:53",
+        "author_name": "countuponsecurity",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://countuponsecurity.com/2015/01/13/dynamic-malware-analysis-with-remnux-v5-part-1/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "So i got presented with a quite unpleasant popup from a site i should know better than to visit; and it seemed like the pretty usual \"your computer has been blocked so send us money\" scam; blocking you from closing the page or browser with a popup notification, i had to crash chrome for it to go away.\n\nthe screen http://i.imgur.com/PI03GpM.png\n\nWhat piqued my curiosity however is how it was deployed; using the data:text/html; URL and appending the page code after. Apparently the referrer is iduejs.freesouthsudanmediacenter.com/abuse-of-right/HLW5DmsFU6YxmC2woRz7xERXeRL4eqp3bG4zR3DlUnMc1/n-2ZlqslaBYF8bDMisyFmbtcBRydRmeXNcu7V5ubg/2wP7U2Zv73hzGpCui9tb64SAm5z46kmVl9/violation.cgi; probably a compromised website that is now hosting nasties. I can't tell if this is where i got redirected from, or where it's sending me to. I'm no professional and no javascript coder.\n\nraw URL (had to dropbox it because of the size) https://www.dropbox.com/s/70o5uwsmespal9m/browser%20scareware.txt?dl=0\n\ndecoded URL https://www.dropbox.com/s/lzhul7nhqa8pu1q/browser%20scareware%20decoded.txt?dl=0\n\nI'm pretty curious as to what is that huge block of code in that \"show_page\" function. Since the page in the URL shows nothing in the way of notifications or page content as seen; i suspect it's the actual page we're seeing. What worries me is that if it's encoded that way, there might be something nastier than javascript in there; like an exploit and dropper or something like that. I do use Avira and Peerblock; but you never know. I'd like your help in making sense of this and knowing if i should worry. And if there's ransonware in there; i WILL BE VERY CONCERNED.",
+        "title": "Browser-based Ukash scareware; need help dissecting it",
+        "score": 1,
+        "id": "39vny4",
+        "commsNum": 7,
+        "timeStamp": "2015/06/14-21:23:58",
+        "author_name": "Vonlolzor",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/39vny4/browserbased_ukash_scareware_need_help_dissecting/"
+    },
+    "posts": {}
+}

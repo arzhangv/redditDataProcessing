@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi, i found a new JS malware inside a zip in my email, here are the JS source: http://pastebin.com/raw/Hw0p3vSh\n\nCould you explain me what it does and/or deobfuscate the code?\n\nEdit: i decrypted it and found this: http://pastebin.com/raw/B7fffp0j\n\nEdit: found the downloaded dll: https://www.hybrid-analysis.com/sample/1dae089e1e9e4dd5fca81cbd5370cadab0a2270bb18e9aa2a279834825c48172?environmentId=2",
+        "title": "Found new JS malware in my email",
+        "score": 12,
+        "id": "3yn9vj",
+        "commsNum": 16,
+        "timeStamp": "2015/12/29-03:32:26",
+        "author_name": "raining_blood",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 16,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/3yn9vj/found_new_js_malware_in_my_email/"
+    },
+    "posts": {}
+}

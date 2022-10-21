@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "CryptoLuck Ransomware spread through the RIG-E Exploit Kit",
+        "score": 1,
+        "id": "5deiiv",
+        "commsNum": 0,
+        "timeStamp": "2016/11/16-23:05:30",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/53516/malware/cryptoluck-ransomware.html"
+    },
+    "posts": {}
+}

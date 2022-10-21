@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Analysis of AdKoob: an information stealer which targets Facebook ad purchase info",
+        "score": 1,
+        "id": "95pfkr",
+        "commsNum": 0,
+        "timeStamp": "2018/08/08-12:55:14",
+        "author_name": "_toti",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://news.sophos.com/en-us/2018/07/29/adkoob-information-thief-targets-facebook-ad-purchase-info/"
+    },
+    "posts": {}
+}

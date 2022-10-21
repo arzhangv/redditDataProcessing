@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I'm interested in putting together a VM with excel just to see what I can learn about what's inside this thing, whether some dumb malware with pop ups or some terrifying ransomware, but I would like to get some advice before doing so... anyone know of any forums or subreddits?\n\nedit: ~~i plan to delete this as soon as redirected...~~\n\nedit2:  downloaded it and MSessentials immediately snagged it out from under me haha - labeled it a TrojanDownloader:W97M/Adnel    I'm gonna upload it to file locker of some sort when I get home.  I would love to learn more about this.\n\nhere's the file:  http://www.filedropper.com/20151029110925329\n\nfile ext rename to .xls if you're in sandbox with excel...",
+        "title": "I have what I believe is a malicious excel file, is there a subreddit for people who study/work with this stuff?",
+        "score": 9,
+        "id": "3senyt",
+        "commsNum": 12,
+        "timeStamp": "2015/11/11-06:16:15",
+        "author_name": "mmm_dat_data",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 12,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/3senyt/i_have_what_i_believe_is_a_malicious_excel_file/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "So I installed 7 zip from 7-zip.org the 64bit version. Then I was curious of what virustotal would say and to my suprise it found 1.\nYandex: Trojan.Agent!/8FtbJuRgIU\nShould I uninstall it? Not use it?\nWhen I send the direct link to the url virus total it shows all green very confusing. But the actual file downloaded shows 1 bad. Ty 4 replies. What should I do? Someone else want to try as well?",
+        "title": "Help pls",
+        "score": 1,
+        "id": "cai4zj",
+        "commsNum": 1,
+        "timeStamp": "2019/07/08-00:51:04",
+        "author_name": "rodie9",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/cai4zj/help_pls/"
+    },
+    "posts": {
+        "et8vjd7": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2019/07/08-00:51:09",
+            "id": "et8vjd7",
+            "is_submitter": false,
+            "link_id": "t3_cai4zj",
+            "parent_id": "t3_cai4zj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

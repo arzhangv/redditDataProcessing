@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Marcus \u201cMalwareTech\u201d Hutchins Pleads Guilty to Writing, Selling Banking Malware",
+        "score": 46,
+        "id": "bftnj3",
+        "commsNum": 3,
+        "timeStamp": "2019/04/21-14:07:56",
+        "author_name": "DrinkMoreCodeMore",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://krebsonsecurity.com/2019/04/marcus-malwaretech-hutchins-pleads-guilty-to-writing-selling-banking-malware/"
+    },
+    "posts": {
+        "elhlq5s": {
+            "comment": "Yeah I remember when Shannon Moorse went out saying he didn't do it (Or something to that effect). I thought that was a foolish step to take. We can support people we believe in without going to that level. I echo Brian's sentiments, it seems the guy is trying to go legit, which I can appreciate.\n\nThat said, I recognize that bar at Caesars lol. Hopefully I'll get a chance to meet both of these guys one day.",
+            "timeStamp": "2019/04/22-04:52:01",
+            "id": "elhlq5s",
+            "is_submitter": false,
+            "link_id": "t3_bftnj3",
+            "parent_id": "t3_bftnj3",
+            "score": 8,
+            "stickied": false,
+            "author_name": "sephstorm"
+        },
+        "elhi2hj": {
+            "comment": "The court documents list July 2012 as start of the crimes, he was already 18 at that date.",
+            "timeStamp": "2019/04/22-03:26:56",
+            "id": "elhi2hj",
+            "is_submitter": false,
+            "link_id": "t3_bftnj3",
+            "parent_id": "t1_elhfxz3",
+            "score": 3,
+            "stickied": false,
+            "author_name": "kankertje"
+        },
+        "elhfxz3": {
+            "comment": "Was he legally an adult when he committed those crimes or is he being charged as a juvenile?",
+            "timeStamp": "2019/04/22-02:26:29",
+            "id": "elhfxz3",
+            "is_submitter": false,
+            "link_id": "t3_bftnj3",
+            "parent_id": "t3_bftnj3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "BreadSpread"
+        }
+    }
+}

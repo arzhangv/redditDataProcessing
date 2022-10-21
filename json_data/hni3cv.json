@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "File unlocker released for new Mac ransomware ThiefQuest",
+        "score": 1,
+        "id": "hni3cv",
+        "commsNum": 0,
+        "timeStamp": "2020/07/08-07:32:36",
+        "author_name": "sysopfb",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://labs.sentinelone.com/breaking-evilquest-reversing-a-custom-macos-ransomware-file-encryption-routine/"
+    },
+    "posts": {}
+}

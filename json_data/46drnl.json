@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Another version of malware used by the SAME \"loonie\" squad that aimed routers in USA is PoC'ed in ALIVE state here: https://pastebin.com/PKktaMfK\n\nSome PoC captured picture: https://imgur.com/a/WlRpJ\n\nSee how THEY prepared ELF malware payloads in multiple routers architecture, and see the RANGE of IP they attacked by default credential login brute. \n\nThey call this malware as TORLUS or LIZKEBAB. We researchers named it as GayFgt, industry named it as \"Bashdoor/BashLite\" - it's a malware used, produced &amp; directed by \"punks\" squad. \n\nPLEASE SECURE OUR ROUTERS! ",
+        "title": "Skiddies ELF malware aimed USA's default setting routers",
+        "score": 18,
+        "id": "46drnl",
+        "commsNum": 4,
+        "timeStamp": "2016/02/18-00:14:52",
+        "author_name": "mmd0xFF",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/46drnl/skiddies_elf_malware_aimed_usas_default_setting/"
+    },
+    "posts": {}
+}

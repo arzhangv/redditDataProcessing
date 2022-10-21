@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "So I've been getting a lot of malware samples that use http file servers as their C2 servers. Is there a particular reason why theyre not just using ftp?",
+        "title": "HFS, why?",
+        "score": 0,
+        "id": "8dfnsc",
+        "commsNum": 4,
+        "timeStamp": "2018/04/19-08:49:58",
+        "author_name": "DeathByHugz",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8dfnsc/hfs_why/"
+    },
+    "posts": {
+        "dxmvwom": {
+            "comment": "That's a good point. Thank you",
+            "timeStamp": "2018/04/19-10:22:24",
+            "id": "dxmvwom",
+            "is_submitter": true,
+            "link_id": "t3_8dfnsc",
+            "parent_id": "t1_dxmq09h",
+            "score": 2,
+            "stickied": false,
+            "author_name": "DeathByHugz"
+        },
+        "dxmuugv": {
+            "comment": "HTTP/S is so ubiquitous that using anything else would likely not make sense.  That sort of traffic is very \"meh\" as opposed to seeing an FTP connection going out of your network.",
+            "timeStamp": "2018/04/19-10:06:54",
+            "id": "dxmuugv",
+            "is_submitter": false,
+            "link_id": "t3_8dfnsc",
+            "parent_id": "t3_8dfnsc",
+            "score": 2,
+            "stickied": false,
+            "author_name": "b1r6"
+        },
+        "dxmup3x": {
+            "comment": "Multiple reasons... \n\nBecause they don't have to.  \nBecause FTP is a cunt of a protocol.  \nBecause everything uses HTTP/S and it raises no red flags.  \n",
+            "timeStamp": "2018/04/19-10:04:40",
+            "id": "dxmup3x",
+            "is_submitter": false,
+            "link_id": "t3_8dfnsc",
+            "parent_id": "t3_8dfnsc",
+            "score": 4,
+            "stickied": false,
+            "author_name": "sciphre"
+        },
+        "dxmq09h": {
+            "comment": "What would be the benefit?\n\nAlso, you can almost guarantee that http is allowed through firewalls, not so much with FTP.",
+            "timeStamp": "2018/04/19-08:56:39",
+            "id": "dxmq09h",
+            "is_submitter": false,
+            "link_id": "t3_8dfnsc",
+            "parent_id": "t3_8dfnsc",
+            "score": 9,
+            "stickied": false,
+            "author_name": "mhurron"
+        }
+    }
+}

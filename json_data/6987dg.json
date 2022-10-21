@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "So I spent the last few weeks getting used to configuring cuckoo on a linux host. Now i'm setting up new host VM's and the same installation procedure is creating vastly different directory structures with critical files missing and more. Anyone have any experience with Cuckoo?\n\nMy issue is as follows: After ensuring requirements are met, and upon new installation (whether that be from file - like a new or deprecated .tar.gz, from git, or using pip install), I would expect to have a ~/home/&lt;host&gt;/cuckoo/ directory (as I did the first 10 times through...) that seems to be working as the \"CWD\" (cuckoo working directory) that cuckoo just added to their documentation. In there is a /conf directory with all the different possible configuration files/templates for you to work with (i.e, choosing machinery, network info, etc.).\n\nThe new installation (from file or using pip) doesn't create a directory at all. Ok, so i cloned their git repo, creating the directory - except now the directory structure is completely different. After digging for a while, I finally found the /conf directory in ../cuckoo/cuckoo/data/, except there isn't a single *.conf file to work with. \n\nAm I suddenly expected to write all these .conf files by hand? Or find their template from a 3rd party? Obviously not, right? I'm so fucking frustrated right now, any help would be appreciated.",
+        "title": "new(?) Cuckoo Sandbox Installation issue?",
+        "score": 2,
+        "id": "6987dg",
+        "commsNum": 3,
+        "timeStamp": "2017/05/04-08:30:52",
+        "author_name": "v_crusader",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6987dg/new_cuckoo_sandbox_installation_issue/"
+    },
+    "posts": {}
+}

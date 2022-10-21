@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi,\n\nI'm looking for some resources to research malware on the web. I'm not too aware of the existing websites that report on new security threats or vulnerabilities. \n\nI'm currently looking at websites that silently drop downloads or extensions/add-ons that change the behavior of your browser but I'd also like to learn about other security threats malware can have on your system like altering server responses etc. Is there any place/forum that constantly discusses new security threats on malware etc on the web?\n\nAny information will help, thanks.",
+        "title": "Web Malware Resources",
+        "score": 10,
+        "id": "22wsy2",
+        "commsNum": 4,
+        "timeStamp": "2014/04/13-00:33:03",
+        "author_name": "learnmal",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/22wsy2/web_malware_resources/"
+    },
+    "posts": {}
+}

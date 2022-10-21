@@ -1,0 +1,132 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Nuclear missile contractor hacked in Maze ransomware attack",
+        "score": 2,
+        "id": "gx5cp4",
+        "commsNum": 10,
+        "timeStamp": "2020/06/05-07:14:21",
+        "author_name": "ImpedingGarment",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 10,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://nakedsecurity.sophos.com/2020/06/04/nuclear-missile-contractor-hacked-in-maze-ransomware-attack/"
+    },
+    "posts": {
+        "ft60ege": {
+            "comment": "&gt; If you don\u2019t have backups, you never cared about the data anyway.\n\n1. The people who have to clean up messes often aren't the ones who get to decide whether or not backups are in place and properly maintained.\n2. Just because you have backups, doesn't necessarily mean you have offline backups.\n3. Even if you have offline backups, the missing (newer) data could be worth multiples of the ransom.\n4. Backups can fails due to human or system error.\n\nSounds like a bit of grey area to me.",
+            "timeStamp": "2020/06/06-12:07:59",
+            "id": "ft60ege",
+            "is_submitter": false,
+            "link_id": "t3_gx5cp4",
+            "parent_id": "t1_ft5kmyv",
+            "score": 0,
+            "stickied": false,
+            "author_name": "truelai"
+        },
+        "ft5kmyv": {
+            "comment": "If you don\u2019t have backups, you never cared about the data anyway.\n\n(1) Always backup important data. (2) Never pay ransom. \n\nThere is no gray area if the first is true.",
+            "timeStamp": "2020/06/06-10:47:31",
+            "id": "ft5kmyv",
+            "is_submitter": false,
+            "link_id": "t3_gx5cp4",
+            "parent_id": "t1_ft0krs9",
+            "score": 0,
+            "stickied": false,
+            "author_name": "ng362khXG1"
+        },
+        "ft2fyl4": {
+            "comment": "Dealt with malware analysis for Maze, I wonder if this is still the March strain or an older one. We some components of a Maze ransomware from 2019 as well as 2020 on a contractors system",
+            "timeStamp": "2020/06/05-23:14:24",
+            "id": "ft2fyl4",
+            "is_submitter": false,
+            "link_id": "t3_gx5cp4",
+            "parent_id": "t3_gx5cp4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "A_Deadly_Mind"
+        },
+        "ft1gidh": {
+            "comment": "I'm sure U.S. adversaries would pay more than the company would for the data.",
+            "timeStamp": "2020/06/05-18:29:21",
+            "id": "ft1gidh",
+            "is_submitter": false,
+            "link_id": "t3_gx5cp4",
+            "parent_id": "t3_gx5cp4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "LeftHandedGraffiti"
+        },
+        "ft1eqkt": {
+            "comment": "[removed]",
+            "timeStamp": "2020/06/05-18:16:26",
+            "id": "ft1eqkt",
+            "is_submitter": false,
+            "link_id": "t3_gx5cp4",
+            "parent_id": "t1_fszjtk3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ft0krs9": {
+            "comment": "&gt;Needless to say you should never pay the ransom if it hits you.\n\nSure. Unless you want your data back. If cryptolockers use good encryption and don't have their keys leaked... Not much else you can do than pay if you want your data back. When you hire the pros to get your data back, if it's a decent variant, they just negotiate the payment on your behalf (for a huge fee).\n\nOf course good backup strategies can help you not pay the ransom. But many orgs have a lot of holes here. If you're one of the many many orgs who have fucked up in their backup strategies and the locker malware is from competent actors, you *only* choice, if you want your data back, is to pay.",
+            "timeStamp": "2020/06/05-14:28:25",
+            "id": "ft0krs9",
+            "is_submitter": false,
+            "link_id": "t3_gx5cp4",
+            "parent_id": "t1_ft038yi",
+            "score": 1,
+            "stickied": false,
+            "author_name": "truelai"
+        },
+        "ft038yi": {
+            "comment": "Maze malware encrypts the files and uploads the file contents to the server held by the Maze operator whoever it might be at the time due to Maze operators leasing their service. Typically victims have to pay a ransom for their data and second one for the operators not to release the exfilled data so kinda like extortion scheme. Needless to say you should never pay the ransom if it hits you.\n\nYou can independently \"verify\" these exfils by searching for Maze ransom portal. If you end up doing that realize that you are literally connecting to a website held by bad guys so take appropriate actions before you do so.\n\nAs for your original comment \"as long as there was no data exfil\" there has been a data exfil but for now it is uncertain how serious it has been as in were there classified information too. The original news article mentioned PII, payrolls and emails atleast so there is that.",
+            "timeStamp": "2020/06/05-12:05:34",
+            "id": "ft038yi",
+            "is_submitter": false,
+            "link_id": "t3_gx5cp4",
+            "parent_id": "t1_fszjtk3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Ras_Older"
+        },
+        "fszxzlj": {
+            "comment": "[removed]",
+            "timeStamp": "2020/06/05-11:23:52",
+            "id": "fszxzlj",
+            "is_submitter": false,
+            "link_id": "t3_gx5cp4",
+            "parent_id": "t3_gx5cp4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fszjtk3": {
+            "comment": "I mean, as long as there was no data exfil... Good.\n\nNorthrup can eat a bag of dicks.",
+            "timeStamp": "2020/06/05-09:31:00",
+            "id": "fszjtk3",
+            "is_submitter": false,
+            "link_id": "t3_gx5cp4",
+            "parent_id": "t3_gx5cp4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "truelai"
+        },
+        "fsz8oy6": {
+            "comment": "ICBM launch code: 80085",
+            "timeStamp": "2020/06/05-08:01:12",
+            "id": "fsz8oy6",
+            "is_submitter": false,
+            "link_id": "t3_gx5cp4",
+            "parent_id": "t3_gx5cp4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "trollinDC"
+        }
+    }
+}

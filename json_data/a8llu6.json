@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi, while downloading UserBenchmark from the official site Windows Defender has detected 2 viruses called \"Trojan: Win32/Cloxer.D! Cl\", are they real malware or simple false positives? ",
+        "title": "False positive Trojan",
+        "score": 1,
+        "id": "a8llu6",
+        "commsNum": 6,
+        "timeStamp": "2018/12/22-07:24:31",
+        "author_name": "EdwardTheGamer",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/a8llu6/false_positive_trojan/"
+    },
+    "posts": {
+        "ecc80te": {
+            "comment": "So I ran it and can safely say it's probably not malicious.\n\nHere's the report. \nhttps://drive.google.com/file/d/1eHVQmFwmXrzfOs67ZK67gWXWiqflKs4P/view?usp=drivesdk\n\nThe report calls it bad but that's because it's an installer. When you look at the network call put and registry edits they're basically non existent so either its benine or it has delayed activation. My guess is benine because it really basically does nothing but install the program. If it was a delayed activation I'd expect to see more registry and file edits. ",
+            "timeStamp": "2018/12/22-12:07:34",
+            "id": "ecc80te",
+            "is_submitter": false,
+            "link_id": "t3_a8llu6",
+            "parent_id": "t1_ecbuqgy",
+            "score": 4,
+            "stickied": false,
+            "author_name": "TheCrowGrandfather"
+        },
+        "ecc3cqi": {
+            "comment": "Thanks. I'll take a look at it soon",
+            "timeStamp": "2018/12/22-10:59:28",
+            "id": "ecc3cqi",
+            "is_submitter": false,
+            "link_id": "t3_a8llu6",
+            "parent_id": "t1_ecbuqgy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TheCrowGrandfather"
+        },
+        "ecbuqgy": {
+            "comment": "[https://www.userbenchmark.com/resources/download/UserBenchMark.exe](https://www.userbenchmark.com/resources/download/UserBenchMark.exe)",
+            "timeStamp": "2018/12/22-09:00:03",
+            "id": "ecbuqgy",
+            "is_submitter": true,
+            "link_id": "t3_a8llu6",
+            "parent_id": "t1_ecbum9f",
+            "score": 1,
+            "stickied": false,
+            "author_name": "EdwardTheGamer"
+        },
+        "ecbum9f": {
+            "comment": "Pm me the link and I'll take a quick look in a sandbox tonight. ",
+            "timeStamp": "2018/12/22-08:58:27",
+            "id": "ecbum9f",
+            "is_submitter": false,
+            "link_id": "t3_a8llu6",
+            "parent_id": "t1_ecbooa0",
+            "score": 4,
+            "stickied": false,
+            "author_name": "TheCrowGrandfather"
+        },
+        "ecbooa0": {
+            "comment": "I downloaded the file from the site again and nothing happened, VirusTotal says it's safe.\n\nThe two \"Trojans\" instead were quarantined by Windows Defender.",
+            "timeStamp": "2018/12/22-07:31:38",
+            "id": "ecbooa0",
+            "is_submitter": true,
+            "link_id": "t3_a8llu6",
+            "parent_id": "t1_ecbodvb",
+            "score": 2,
+            "stickied": false,
+            "author_name": "EdwardTheGamer"
+        },
+        "ecbodvb": {
+            "comment": "Upload to virustotal.com and see what it says. Could be false positive, it\u2019s also possible the site has been compromised. ",
+            "timeStamp": "2018/12/22-07:26:55",
+            "id": "ecbodvb",
+            "is_submitter": false,
+            "link_id": "t3_a8llu6",
+            "parent_id": "t3_a8llu6",
+            "score": 8,
+            "stickied": false,
+            "author_name": "kingvigo"
+        }
+    }
+}

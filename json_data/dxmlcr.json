@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi, I tend to avoid posting such questions online when I've done good research but I can't find any good info about malwaredev implementation with the Win API. \n\nI think it's a good idea to look into something more general like Charles Petzold's book Programming Windows book but are there any ones similar to say Violent Python? \n\nMost results online have to do with malwaredev in .NET unfortunately. \n\nDoes any one of you know any good resources/books I may have missed or is mastering the Win API and \"getting creative\" the only choice here?\n\nThank you!",
+        "title": "Resources for \"offensive\" Win32 API development?",
+        "score": 1,
+        "id": "dxmlcr",
+        "commsNum": 0,
+        "timeStamp": "2019/11/17-05:34:26",
+        "author_name": "l33t_h4cc50r",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/dxmlcr/resources_for_offensive_win32_api_development/"
+    },
+    "posts": {}
+}

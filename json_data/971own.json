@@ -1,0 +1,143 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I want to learn about how malware and rats escalate privileges, i have found mutiple programs that do this (Uacme, metasploit etc;) except they just do it for you. I was thinking more learning how to do it. When i search up things like how does metasploit escalate priveledges, i usaully get a page saying \"type getpriv to escalate\" or something like that.\n\nHow can i get the actual info like this([https://blog.cobaltstrike.com/2014/04/02/what-happens-when-i-type-getsystem/](https://blog.cobaltstrike.com/2014/04/02/what-happens-when-i-type-getsystem/)) \n\nDo you have any sources of priv escalation, or a place to learn about this without finding misguided news articles, and useless script kiddy-ish sites. (I have been looking at the msdn documentation for things i know about, like pipe impersonation)",
+        "title": "Malware Privilege Escalation",
+        "score": 16,
+        "id": "971own",
+        "commsNum": 11,
+        "timeStamp": "2018/08/13-13:08:59",
+        "author_name": "arcaniussainey",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 11,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/971own/malware_privilege_escalation/"
+    },
+    "posts": {
+        "e4s8qsr": {
+            "comment": "This is amazing! thanks for the answer, and your time. sorry for the late response. school.",
+            "timeStamp": "2018/08/24-17:04:38",
+            "id": "e4s8qsr",
+            "is_submitter": true,
+            "link_id": "t3_971own",
+            "parent_id": "t1_e4mjbph",
+            "score": 1,
+            "stickied": false,
+            "author_name": "arcaniussainey"
+        },
+        "e4mjbph": {
+            "comment": "You can find a list of links to papers about privilege escalation on [this github page](https://github.com/vitalysim/Awesome-Hacking-Resources#privilege-escalation), I suggest you to check it out.",
+            "timeStamp": "2018/08/22-04:31:52",
+            "id": "e4mjbph",
+            "is_submitter": false,
+            "link_id": "t3_971own",
+            "parent_id": "t3_971own",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Tatticadanit0"
+        },
+        "e4blcil": {
+            "comment": "yes i saw, thanks for your time. I know its this little bit [https://github.com/rapid7/meterpreter/blob/master/source/extensions/priv/server/elevate/namedpipe.c](https://github.com/rapid7/meterpreter/blob/master/source/extensions/priv/server/elevate/namedpipe.c)\n\nbut i still love the contribution",
+            "timeStamp": "2018/08/16-16:04:18",
+            "id": "e4blcil",
+            "is_submitter": true,
+            "link_id": "t3_971own",
+            "parent_id": "t1_e49sm6z",
+            "score": 1,
+            "stickied": false,
+            "author_name": "arcaniussainey"
+        },
+        "e4bl96h": {
+            "comment": "thanks for your time. Thats pretty nice, thankyou sounds cool",
+            "timeStamp": "2018/08/16-16:02:48",
+            "id": "e4bl96h",
+            "is_submitter": true,
+            "link_id": "t3_971own",
+            "parent_id": "t1_e45rosu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "arcaniussainey"
+        },
+        "e4bl7q1": {
+            "comment": "thanks for your time, and the links",
+            "timeStamp": "2018/08/16-16:02:10",
+            "id": "e4bl7q1",
+            "is_submitter": true,
+            "link_id": "t3_971own",
+            "parent_id": "t1_e451x41",
+            "score": 1,
+            "stickied": false,
+            "author_name": "arcaniussainey"
+        },
+        "e49zuky": {
+            "comment": "https://www.toshellandback.com/2015/11/24/ms-priv-esc/ ",
+            "timeStamp": "2018/08/15-22:15:35",
+            "id": "e49zuky",
+            "is_submitter": false,
+            "link_id": "t3_971own",
+            "parent_id": "t3_971own",
+            "score": 2,
+            "stickied": false,
+            "author_name": "r30ng1n3rd"
+        },
+        "e49sm6z": {
+            "comment": "Lucky for you metasploits source code is available on github https://github.com/rapid7/metasploit-framework \n",
+            "timeStamp": "2018/08/15-19:49:38",
+            "id": "e49sm6z",
+            "is_submitter": false,
+            "link_id": "t3_971own",
+            "parent_id": "t3_971own",
+            "score": 1,
+            "stickied": false,
+            "author_name": "acalarch"
+        },
+        "e45rosu": {
+            "comment": "When it comes to actual exploits, rather than general misconfigurations, there is a lot of variety. You are probably best looking for the CVE and then researching that specific bug.\n\nThere was an interesting privilege escalation recently released at blackhat and the author is answering questions over on r/reverseengineering:  https://www.reddit.com/r/ReverseEngineering/comments/96tax4/slides_from_my_black_hat_talk_why_so_spurious_a/?st=JKTBK9PH&amp;sh=a374f730",
+            "timeStamp": "2018/08/13-23:24:27",
+            "id": "e45rosu",
+            "is_submitter": false,
+            "link_id": "t3_971own",
+            "parent_id": "t3_971own",
+            "score": 2,
+            "stickied": false,
+            "author_name": "hash_define"
+        },
+        "e451x41": {
+            "comment": "I\u2019d suggest you check out [Fuzzy\u2019s Windows Privesc Guide](http://www.fuzzysecurity.com/tutorials/16.html) and [g0tm1lk\u2019s Linux Privesc guide ](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/). It helps so much to start from the basics and then work forward with practice. ",
+            "timeStamp": "2018/08/13-15:28:21",
+            "id": "e451x41",
+            "is_submitter": false,
+            "link_id": "t3_971own",
+            "parent_id": "t3_971own",
+            "score": 13,
+            "stickied": false,
+            "author_name": "IlliterateTechpriest"
+        },
+        "e451gee": {
+            "comment": "By exploiting badly handled inputs, programs that partly run as root can be tricked into running your input data, as root.\n\nAnd at that point its game over for security.",
+            "timeStamp": "2018/08/13-15:20:57",
+            "id": "e451gee",
+            "is_submitter": false,
+            "link_id": "t3_971own",
+            "parent_id": "t3_971own",
+            "score": 5,
+            "stickied": false,
+            "author_name": "boli99"
+        },
+        "e44spav": {
+            "comment": "or even some source code (preferably in C#, but i will take anything) thanks in advance.",
+            "timeStamp": "2018/08/13-13:12:23",
+            "id": "e44spav",
+            "is_submitter": true,
+            "link_id": "t3_971own",
+            "parent_id": "t3_971own",
+            "score": 1,
+            "stickied": false,
+            "author_name": "arcaniussainey"
+        }
+    }
+}

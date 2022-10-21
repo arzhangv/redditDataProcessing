@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Software to 2x the speed of your computer: veryfast.io",
+        "score": 1,
+        "id": "v3446j",
+        "commsNum": 0,
+        "timeStamp": "2022/06/02-01:27:40",
+        "author_name": "jerre12354",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "/r/Scams/comments/v342t3/software_to_2x_the_speed_of_your_computer/"
+    },
+    "posts": {
+        "ild1k6b": {
+            "comment": "[removed]",
+            "timeStamp": "2022/08/22-12:37:10",
+            "id": "ild1k6b",
+            "is_submitter": false,
+            "link_id": "t3_v3446j",
+            "parent_id": "t3_v3446j",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

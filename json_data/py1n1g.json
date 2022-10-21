@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": " \n\nRecently  detected a single workstation on our windows domain trying to  bruteforce logins against our domain controller.  Traced it to the win7  station in question and once isolated it was making c&amp;c callouts to  foreign ip addresses.\n\nThe  distressing part is that nothing can seem to identify the source,  webroot, malwarebytes, various other tools fail to find anything  questionable.  We tried digging deeper with process monitor  and tcpview  but there does not appear to be a valid process or service responsible  for the outgoing connections.  We can capture the packets in wireshark  but they are all 443 traffic.  I worry that other hosts could have  whatever this same infection is but cannot seem to identify it in the  first place. This station has been replaced with a windows10 build  instead but I wonder if there are better toolsets to use to try and  discover the root cause?",
+        "title": "Mysterious undetectable rootkit",
+        "score": 1,
+        "id": "py1n1g",
+        "commsNum": 5,
+        "timeStamp": "2021/09/29-11:34:41",
+        "author_name": "a215198",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/py1n1g/mysterious_undetectable_rootkit/"
+    },
+    "posts": {
+        "hero110": {
+            "comment": "True but we're curious to find out what it is",
+            "timeStamp": "2021/09/29-13:38:30",
+            "id": "hero110",
+            "is_submitter": false,
+            "link_id": "t3_py1n1g",
+            "parent_id": "t1_herabtq",
+            "score": 5,
+            "stickied": false,
+            "author_name": "ISpikInglisVeriBest"
+        },
+        "herggot": {
+            "comment": "[removed]",
+            "timeStamp": "2021/09/29-12:47:40",
+            "id": "herggot",
+            "is_submitter": false,
+            "link_id": "t3_py1n1g",
+            "parent_id": "t3_py1n1g",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "herb5e9": {
+            "comment": "Yea good point, let me try scanning it as a mounted volume",
+            "timeStamp": "2021/09/29-12:11:41",
+            "id": "herb5e9",
+            "is_submitter": true,
+            "link_id": "t3_py1n1g",
+            "parent_id": "t1_her86mc",
+            "score": 2,
+            "stickied": false,
+            "author_name": "a215198"
+        },
+        "herabtq": {
+            "comment": "[deleted]",
+            "timeStamp": "2021/09/29-12:06:02",
+            "id": "herabtq",
+            "is_submitter": false,
+            "link_id": "t3_py1n1g",
+            "parent_id": "t3_py1n1g",
+            "score": -13,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "her86mc": {
+            "comment": "Let me get this straight: you are trying to use the same rootkit infected machine to analyze the rootkit?\n\nKind of operating at a disadvantage when your analysis tools are running in userland and the malware possibly at ring 0!\n\nTry taking an image first.  ; )",
+            "timeStamp": "2021/09/29-11:51:15",
+            "id": "her86mc",
+            "is_submitter": false,
+            "link_id": "t3_py1n1g",
+            "parent_id": "t3_py1n1g",
+            "score": 15,
+            "stickied": false,
+            "author_name": "2leet4u"
+        }
+    }
+}

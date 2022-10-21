@@ -1,0 +1,165 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "i got an email from this guy saying he knows my password and has recorded my phone of me watching p@rn and will send it to all my contacts of i don\u2019t pay a ransom, i\u2019m pretty fuckinh scared what do i do he has my actual password, it looks like a sextorian scam and he could\u2019ve got my password from a data breach but i still use that password today so someone please help me",
+        "title": "guy knows my password",
+        "score": 1,
+        "id": "ip0nuy",
+        "commsNum": 13,
+        "timeStamp": "2020/09/08-12:47:08",
+        "author_name": "DaRealJoeMama",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 13,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ip0nuy/guy_knows_my_password/"
+    },
+    "posts": {
+        "g4huvcw": {
+            "comment": "This is obviously a scam also none of my contacts would give a damn about getting a video of me wancking lol",
+            "timeStamp": "2020/09/08-16:54:03",
+            "id": "g4huvcw",
+            "is_submitter": false,
+            "link_id": "t3_ip0nuy",
+            "parent_id": "t3_ip0nuy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "FESTSTELLTASTE"
+        },
+        "g4humj3": {
+            "comment": "&gt; Scam aside, who cares if someone saw you watching porn anyway? Everyone does it.\n\nWell yes, but not everyone has a non-flattering video of themselves masturbating up on the internet.",
+            "timeStamp": "2020/09/08-16:51:58",
+            "id": "g4humj3",
+            "is_submitter": false,
+            "link_id": "t3_ip0nuy",
+            "parent_id": "t1_g4h5y2c",
+            "score": 1,
+            "stickied": false,
+            "author_name": "herzkolt"
+        },
+        "g4hue9r": {
+            "comment": "This is a scam. I\u2019ve been seeing multiple variations of this email in multiple scenarios, including mails that weren\u2019t actually being used. Please be calm and think rationally, this scams tries to make you think emotionally, panic out, etc.\n\nIf you want to make sure you are safe, check your email account at haveibeenpwned.com, use a password manager, create different passwords for different services and activate two factor authentication in services that allow it (like google).",
+            "timeStamp": "2020/09/08-16:50:00",
+            "id": "g4hue9r",
+            "is_submitter": false,
+            "link_id": "t3_ip0nuy",
+            "parent_id": "t3_ip0nuy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "solrakkavon"
+        },
+        "g4hr6a1": {
+            "comment": "How do you know they have your password? If it's because they sent an e-mail apparently from your own account, don't be alarmed: it's not actually coming from your account, it just appears that way.",
+            "timeStamp": "2020/09/08-16:19:30",
+            "id": "g4hr6a1",
+            "is_submitter": false,
+            "link_id": "t3_ip0nuy",
+            "parent_id": "t3_ip0nuy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "charonn0"
+        },
+        "g4hjjf0": {
+            "comment": "To add onto this top comment\n\nUse Keepass. It will generate passwords for you, all you need to do is remember one complicated password to protect the database. And it's offline too",
+            "timeStamp": "2020/09/08-15:13:51",
+            "id": "g4hjjf0",
+            "is_submitter": false,
+            "link_id": "t3_ip0nuy",
+            "parent_id": "t1_g4h1h5p",
+            "score": 2,
+            "stickied": false,
+            "author_name": "NLonSec"
+        },
+        "g4hdyld": {
+            "comment": "Just a common phishing email. My work place deals with them way too often. Change the passwords and put all your email addresses into haveibeenpwned. Look where the breach was for your curiosity.",
+            "timeStamp": "2020/09/08-14:31:44",
+            "id": "g4hdyld",
+            "is_submitter": false,
+            "link_id": "t3_ip0nuy",
+            "parent_id": "t3_ip0nuy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "YepImGodLy"
+        },
+        "g4h7t0n": {
+            "comment": "People who are able to hack into your phone wouldn't mail you, they would speak to you through your phone in almost any format.\nOfcourse its a scam.",
+            "timeStamp": "2020/09/08-13:43:15",
+            "id": "g4h7t0n",
+            "is_submitter": false,
+            "link_id": "t3_ip0nuy",
+            "parent_id": "t3_ip0nuy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "xhykari"
+        },
+        "g4h6jax": {
+            "comment": "This is 100% the correct answer. I have dealt with many of these cases before and none of them resulted in any information or data being released. Check the site above and see where your passwords have been breached and change them as well as anything that uses the same PW.",
+            "timeStamp": "2020/09/08-13:32:33",
+            "id": "g4h6jax",
+            "is_submitter": false,
+            "link_id": "t3_ip0nuy",
+            "parent_id": "t1_g4h1h5p",
+            "score": 8,
+            "stickied": false,
+            "author_name": "Coolflip"
+        },
+        "g4h5y2c": {
+            "comment": "Scam aside, who cares if someone saw you watching porn anyway? Everyone does it.",
+            "timeStamp": "2020/09/08-13:27:42",
+            "id": "g4h5y2c",
+            "is_submitter": false,
+            "link_id": "t3_ip0nuy",
+            "parent_id": "t3_ip0nuy",
+            "score": 4,
+            "stickied": false,
+            "author_name": "safebrowseatwork"
+        },
+        "g4h546e": {
+            "comment": "They are always lying, although i would change the password if i was you. I once got that mail on my schoolmail actually.",
+            "timeStamp": "2020/09/08-13:20:57",
+            "id": "g4h546e",
+            "is_submitter": false,
+            "link_id": "t3_ip0nuy",
+            "parent_id": "t3_ip0nuy",
+            "score": 4,
+            "stickied": false,
+            "author_name": "sovietarmyfan"
+        },
+        "g4h4g3c": {
+            "comment": "It's a scam. I've had 85 year old relatives get them on emails.",
+            "timeStamp": "2020/09/08-13:15:32",
+            "id": "g4h4g3c",
+            "is_submitter": false,
+            "link_id": "t3_ip0nuy",
+            "parent_id": "t3_ip0nuy",
+            "score": 4,
+            "stickied": false,
+            "author_name": "posco12"
+        },
+        "g4h1jfs": {
+            "comment": "[removed]",
+            "timeStamp": "2020/09/08-12:51:28",
+            "id": "g4h1jfs",
+            "is_submitter": false,
+            "link_id": "t3_ip0nuy",
+            "parent_id": "t3_ip0nuy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "g4h1h5p": {
+            "comment": "He got it from a data breach. He doesn't have any footage of you watching porn. He has sent that email to hundreds or thousands of people in a list.\n\nPut your email address into [haveibeenpwned.com](https://haveibeenpwned.com) to see which sites may have been compromised with your account on them.\n\nChange your password now. On every site, not just the one breached, and ESPECIALLY on your master email account.\n\nUse long passwords, with a mixture of numbers letters and symbols.\n\nDon't use the same password fro multiple sites.\n\nLook into a password manager rather than choosing your own password.",
+            "timeStamp": "2020/09/08-12:50:57",
+            "id": "g4h1h5p",
+            "is_submitter": false,
+            "link_id": "t3_ip0nuy",
+            "parent_id": "t3_ip0nuy",
+            "score": 18,
+            "stickied": false,
+            "author_name": "_Pohaku_"
+        }
+    }
+}

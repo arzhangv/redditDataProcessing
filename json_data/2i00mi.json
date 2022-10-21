@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Anyone familiar with modern Malware is aware of the direction that \"stealthing\" are evolving towards. \n\nRootkits and Bootkits.\n\nBootkits have been a common topic amongst malware writers and we all know they allow malware to run undetected longer. \n\nThe point of this post is directed towards another \"ghosting\" technique where the malware is run in a personal encapsulating VM.  This VM ran malware doesn't interact completely with the infected system like a traditional Rootkit/Bootkit would.\n\nThe implications of this method are obvious and has sparked my curiosity in the past couple days. I haven't found much information concerning the subject via normal forum scrapes. I was hoping someone reading this thread could point me in the direction concerning this malware \"stealthing\" technique.",
+        "title": "New Stealth/Armoring Techniques",
+        "score": 7,
+        "id": "2i00mi",
+        "commsNum": 0,
+        "timeStamp": "2014/10/01-08:56:02",
+        "author_name": "sh1nu11bi",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2i00mi/new_stealtharmoring_techniques/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "New self-protecting USB trojan",
+        "score": 1,
+        "id": "4bnznb",
+        "commsNum": 0,
+        "timeStamp": "2016/03/23-12:18:23",
+        "author_name": "degrigis",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://blog.eset.ie/2016/03/23/new-self-protecting-usb-trojan-able-to-avoid-detection/"
+    },
+    "posts": {}
+}

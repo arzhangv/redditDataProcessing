@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "The millions of users per month browsing to the yatra[.]com homepage are currently exposed to being redirected to code that silently drops and executes malware in the background by exploiting one of the latest Flash Player vulnerabilities.",
+        "score": 1,
+        "id": "43u7el",
+        "commsNum": 0,
+        "timeStamp": "2016/02/02-05:32:39",
+        "author_name": "Jaylynadeon2_",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://blogs.forcepoint.com/security-labs/top-20-airline-travel-site-yatracom-victim-malvertizing-attack-redirects-users-angler"
+    },
+    "posts": {}
+}

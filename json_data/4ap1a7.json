@@ -1,0 +1,121 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "This is a place for malware reports and information. This is NOT a place for help with malware removal or various other end-user questions. Any posts related to this content will be removed without warning.\n\nQuestions regarding reverse engineering of particular samples or indicators to assist in research efforts will be tolerated to permit collaboration within this sub.\n\nIf you have any questions regarding the viability of your post please message the moderators directly. \n\nIf you're suffering from a malware infection please enquire about it on /r/techsupport and hopefully someone will be willing to assist you there.",
+        "title": "Please view before posting on /r/malware!",
+        "score": 56,
+        "id": "4ap1a7",
+        "commsNum": 13,
+        "timeStamp": "2016/03/16-11:09:42",
+        "author_name": "jershmagersh",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 13,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": true,
+        "url": "https://www.reddit.com/r/Malware/comments/4ap1a7/please_view_before_posting_on_rmalware/"
+    },
+    "posts": {
+        "injcrz4": {
+            "comment": "[removed]",
+            "timeStamp": "2022/09/07-19:19:07",
+            "id": "injcrz4",
+            "is_submitter": false,
+            "link_id": "t3_4ap1a7",
+            "parent_id": "t3_4ap1a7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ikyi8qq": {
+            "comment": "[removed]",
+            "timeStamp": "2022/08/19-10:14:37",
+            "id": "ikyi8qq",
+            "is_submitter": false,
+            "link_id": "t3_4ap1a7",
+            "parent_id": "t3_4ap1a7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ikr14st": {
+            "comment": "Some folks don't realize the difference between \"educational\" and \"going full retard\" before the say anything..",
+            "timeStamp": "2022/08/17-20:30:54",
+            "id": "ikr14st",
+            "is_submitter": false,
+            "link_id": "t3_4ap1a7",
+            "parent_id": "t3_4ap1a7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Xybercrime"
+        },
+        "ic86lbs": {
+            "comment": "Search OSArmor",
+            "timeStamp": "2022/06/13-10:34:02",
+            "id": "ic86lbs",
+            "is_submitter": false,
+            "link_id": "t3_4ap1a7",
+            "parent_id": "t3_4ap1a7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AntiHacker3"
+        },
+        "ibe3cvi": {
+            "comment": "[removed]",
+            "timeStamp": "2022/06/06-10:49:16",
+            "id": "ibe3cvi",
+            "is_submitter": false,
+            "link_id": "t3_4ap1a7",
+            "parent_id": "t1_d2m06po",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ibd1mt2": {
+            "comment": "I posted a legitimate question as someone learning malware analysis and looking for resources. And your bot thinks i was asking for tech support.",
+            "timeStamp": "2022/06/06-06:01:48",
+            "id": "ibd1mt2",
+            "is_submitter": false,
+            "link_id": "t3_4ap1a7",
+            "parent_id": "t3_4ap1a7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "WinnerzCircle"
+        },
+        "i1zglv0": {
+            "comment": "I need help with reverse engineering and analyze the malware's code + Determine what files/directories are targeted by the the malware. please",
+            "timeStamp": "2022/03/24-14:34:32",
+            "id": "i1zglv0",
+            "is_submitter": false,
+            "link_id": "t3_4ap1a7",
+            "parent_id": "t3_4ap1a7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Deequiinn"
+        },
+        "hymc64b": {
+            "comment": "[removed]",
+            "timeStamp": "2022/02/26-23:48:35",
+            "id": "hymc64b",
+            "is_submitter": false,
+            "link_id": "t3_4ap1a7",
+            "parent_id": "t3_4ap1a7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hk1ac4e": {
+            "comment": "[removed]",
+            "timeStamp": "2021/11/09-21:34:44",
+            "id": "hk1ac4e",
+            "is_submitter": false,
+            "link_id": "t3_4ap1a7",
+            "parent_id": "t1_d3re5o5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "How to Detect Metamorphic Malware",
+        "score": 1,
+        "id": "w7rqs4",
+        "commsNum": 0,
+        "timeStamp": "2022/07/25-08:24:40",
+        "author_name": "alertnoalert",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://medium.com/@soc_prime/how-to-detect-metamorphic-malware-ba8c761e4703"
+    },
+    "posts": {}
+}

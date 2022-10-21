@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "What is vtableholderwndproc and is it malware",
+        "score": 1,
+        "id": "q5lga5",
+        "commsNum": 2,
+        "timeStamp": "2021/10/10-18:39:01",
+        "author_name": "adamepic1",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/q5lga5/what_is_vtableholderwndproc_and_is_it_malware/"
+    },
+    "posts": {
+        "hg6fanm": {
+            "comment": "Ah appreciate it and yes I do have oversold",
+            "timeStamp": "2021/10/10-18:45:37",
+            "id": "hg6fanm",
+            "is_submitter": true,
+            "link_id": "t3_q5lga5",
+            "parent_id": "t1_hg6f7pz",
+            "score": 0,
+            "stickied": false,
+            "author_name": "adamepic1"
+        },
+        "hg6f7pz": {
+            "comment": "This may help.\n\n[Google search gave me a result that pointed to Overwolf, which is a program I have installed. That was the source for me.](https://www.reddit.com/r/cpp_questions/comments/n04qgx/comment/hdrpvud/?utm_source=share&amp;utm_medium=web2x&amp;context=3)  \n\n\nAs a side note, I don't think this is the correct subreddit for this sort of question.",
+            "timeStamp": "2021/10/10-18:45:00",
+            "id": "hg6f7pz",
+            "is_submitter": false,
+            "link_id": "t3_q5lga5",
+            "parent_id": "t3_q5lga5",
+            "score": 4,
+            "stickied": false,
+            "author_name": "epchilasi"
+        }
+    }
+}

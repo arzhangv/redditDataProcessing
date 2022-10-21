@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Gitlab RCE Stealth Shellbot",
+        "score": 1,
+        "id": "s4rsra",
+        "commsNum": 0,
+        "timeStamp": "2022/01/15-11:16:20",
+        "author_name": "divbyda0",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://brianstadnicki.github.io/posts/malware-gitlab-perlbot/"
+    },
+    "posts": {}
+}

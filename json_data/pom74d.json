@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "TITLE",
+        "score": 1,
+        "id": "pom74d",
+        "commsNum": 0,
+        "timeStamp": "2021/09/15-01:40:05",
+        "author_name": "iamtherealmod",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://URL.COM"
+    },
+    "posts": {}
+}

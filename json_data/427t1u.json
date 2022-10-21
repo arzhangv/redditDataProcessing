@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I've got a Windows VM setup and am trying to run the Zeus source code from here https://github.com/Visgean/Zeus, roughly following the instructions from here http://resources.infosecinstitute.com/botnets-unearthed-the-zeus-bot/. I have a XAMPP locally hosted and am trying to run the Zeus install.php files but am getting syntax errors returned (unexpected 'if' (T_IF) in multiple locations). I tried scouring the internet for answers but couldn't find anything, and there are no issues listed on the github source code as well. Could anyone give me some pointers to get it running, it would be greatly appreciated. ",
+        "title": "Having trouble setting up Zeus. Syntax errors?",
+        "score": 0,
+        "id": "427t1u",
+        "commsNum": 6,
+        "timeStamp": "2016/01/22-13:53:20",
+        "author_name": "AtlasAnimated",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/427t1u/having_trouble_setting_up_zeus_syntax_errors/"
+    },
+    "posts": {}
+}

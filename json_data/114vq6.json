@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Flashback OS X Malware (PDF slides from Virus Bulletin 2012)",
+        "score": 11,
+        "id": "114vq6",
+        "commsNum": 1,
+        "timeStamp": "2012/10/08-05:54:57",
+        "author_name": "pwnwaffe",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.virusbtn.com/pdf/conference_slides/2012/Aquilino-VB2012.pdf"
+    },
+    "posts": {}
+}

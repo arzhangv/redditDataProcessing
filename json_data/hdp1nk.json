@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "ELF malware analysis 101: part 1 out of a multi-part series that will provide you practical knowledge for ELF malware analysis",
+        "score": 1,
+        "id": "hdp1nk",
+        "commsNum": 0,
+        "timeStamp": "2020/06/22-02:24:06",
+        "author_name": "Fun_Biscotti_3471",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://intezer.com/blog/linux/elf-malware-analysis-101-linux-threats-no-longer-an-afterthought/"
+    },
+    "posts": {}
+}

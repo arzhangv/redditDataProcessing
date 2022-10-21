@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I am interested in installing something called SL4A (Scripting Layer For Android) and I uploaded the APK to VirusTotal:\n\nhttps://www.virustotal.com/en/file/17296e22282ae9a4629e3cec8c6d71c0baf5ccfacdc885e9824d5b147227e0b4/analysis/\n\n2/59 scanners said it's malicious, so I am somewhat hesitant to install it.\n\nI know malware analysis isn't perfect, so I was wondering how common false positives are, or how I can do static analysis (strings?) or something in order to see if it's really malicious or not. ",
+        "title": "How common are false positives on VirusTotal?",
+        "score": 25,
+        "id": "6b2tqk",
+        "commsNum": 10,
+        "timeStamp": "2017/05/14-00:49:14",
+        "author_name": "0x6f6d67686178",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 10,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6b2tqk/how_common_are_false_positives_on_virustotal/"
+    },
+    "posts": {}
+}

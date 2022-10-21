@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "The machine in question is a Windows 8.1N machine that has been working fine for over a year without issue. Updated to Win 10 last night, without issue.  \n\nMy next step was to attempt to run the Tron script from /r/TronScript/\nto remove all of the windows tracking and stuff.\n\nWell that script works better when run in Safe mode and will attempt to reboot into safe mode to run.  This is when I noticed the problem.\n\nOn reboot into save mode machine locks about 3 seconds after the login screen appears.  When I hit the power button it blue screens and gives the error of \"machine_check_exception\"\n\nReboot into linux, do hardware checks and everything is fine.\nAttempt to reboot into windows and its stuck trying to boot to safe mode and locking up.  Eventually after about 8 restarts it gives me the option of trying to reset the machine.\nI do this and it boots into what appears to be a fresh windows 10 install.\nTry to reboot into safe mode myself without Tron so no startup switches are set and the system locks up as before.\nReboot into Windows normal mode and everything runs fine.\n\nI'm a Linux dev, I dont use windows except for certain steam games... so I have no clue about where to even start.  Since the system boots fine in normal mode and all hardware reports fine under linux, I'm led to believe that there is no hardware error... and instead this is something else.  \n\nWhile my tinfoil hat would make me think this is some malware that's intentionally not letting me boot into safe mode as a way to protect itself, that seems a bit of an exaggerated possibility.  So I wanted to check here to see if anyone was aware of malware that could exhibit this behavior.  \n\nI find it remarkably odd that a legitimate hardware failure would **only** occur when trying to boot into Windows safe mode.",
+        "title": "Is anyone aware of malware that prevents a windows system from booting in safe mode?",
+        "score": 11,
+        "id": "3whsg3",
+        "commsNum": 8,
+        "timeStamp": "2015/12/12-00:26:03",
+        "author_name": "q5sys",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 8,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/3whsg3/is_anyone_aware_of_malware_that_prevents_a/"
+    },
+    "posts": {}
+}

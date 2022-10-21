@@ -1,0 +1,154 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Had my sister's phone for something and, out of curiosity, did a scan with Kaspersky. It detected riskware in some apk called mobile zone but it couldn't do anything about it. Couldn't quarantine, disinfect, or delete. So then I installed pretty much every other antivirus I knew that was good and they all came up with nothing. Would this be a false positive or just something she'll just have to live with.",
+        "title": "Kaspersky detected riskware it can't do anything about",
+        "score": 4,
+        "id": "ccr98v",
+        "commsNum": 12,
+        "timeStamp": "2019/07/13-09:30:21",
+        "author_name": "SergeantReaper_",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 12,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ccr98v/kaspersky_detected_riskware_it_cant_do_anything/"
+    },
+    "posts": {
+        "etphcut": {
+            "comment": "This is not a place for malware tech support.  Thread removed, please see sidebar.",
+            "timeStamp": "2019/07/13-15:04:39",
+            "id": "etphcut",
+            "is_submitter": false,
+            "link_id": "t3_ccr98v",
+            "parent_id": "t3_ccr98v",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mjuad"
+        },
+        "etovukg": {
+            "comment": "Np sometimes that\u2019s all you need.",
+            "timeStamp": "2019/07/13-10:28:50",
+            "id": "etovukg",
+            "is_submitter": false,
+            "link_id": "t3_ccr98v",
+            "parent_id": "t1_etovfe0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ieatolio"
+        },
+        "etovfe0": {
+            "comment": "Yeah you're right, thanks for the reassurance.",
+            "timeStamp": "2019/07/13-10:23:34",
+            "id": "etovfe0",
+            "is_submitter": true,
+            "link_id": "t3_ccr98v",
+            "parent_id": "t1_etou6ht",
+            "score": 1,
+            "stickied": false,
+            "author_name": "SergeantReaper_"
+        },
+        "etou6ht": {
+            "comment": "Then you should be just fine. Kaspersky has excellent signatures. However it does detect a lot of small insignificant items. If it hasn\u2019t caused you problems in the past. It\u2019s not gonna start now. Don\u2019t over think what an anti-virus says.",
+            "timeStamp": "2019/07/13-10:08:14",
+            "id": "etou6ht",
+            "is_submitter": false,
+            "link_id": "t3_ccr98v",
+            "parent_id": "t1_etotxqe",
+            "score": 0,
+            "stickied": false,
+            "author_name": "ieatolio"
+        },
+        "etotxqe": {
+            "comment": "I did, didnt detect it, only kaspersky",
+            "timeStamp": "2019/07/13-10:05:13",
+            "id": "etotxqe",
+            "is_submitter": true,
+            "link_id": "t3_ccr98v",
+            "parent_id": "t1_etotn7n",
+            "score": 1,
+            "stickied": false,
+            "author_name": "SergeantReaper_"
+        },
+        "etotn7n": {
+            "comment": "Then try malware-bytes.",
+            "timeStamp": "2019/07/13-10:01:32",
+            "id": "etotn7n",
+            "is_submitter": false,
+            "link_id": "t3_ccr98v",
+            "parent_id": "t3_ccr98v",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ieatolio"
+        },
+        "etotluu": {
+            "comment": "Thing is I cant find it in apps.",
+            "timeStamp": "2019/07/13-10:01:04",
+            "id": "etotluu",
+            "is_submitter": true,
+            "link_id": "t3_ccr98v",
+            "parent_id": "t1_etotj3k",
+            "score": 1,
+            "stickied": false,
+            "author_name": "SergeantReaper_"
+        },
+        "etotj3k": {
+            "comment": "It has administrative privileges you have to go into setting them apps find it and take its privilege away. Then you can delete it using that. I would recommend malware-bytes mobile as there can be some nasty stuff out on android. Hope that helps.",
+            "timeStamp": "2019/07/13-10:00:05",
+            "id": "etotj3k",
+            "is_submitter": false,
+            "link_id": "t3_ccr98v",
+            "parent_id": "t3_ccr98v",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ieatolio"
+        },
+        "etosloc": {
+            "comment": "Don't think so. After all it is an apk. Honestly could have though.",
+            "timeStamp": "2019/07/13-09:48:31",
+            "id": "etosloc",
+            "is_submitter": true,
+            "link_id": "t3_ccr98v",
+            "parent_id": "t1_etosk35",
+            "score": 1,
+            "stickied": false,
+            "author_name": "SergeantReaper_"
+        },
+        "etosk35": {
+            "comment": "Just leave it. Did it come installed on the phone?",
+            "timeStamp": "2019/07/13-09:47:57",
+            "id": "etosk35",
+            "is_submitter": false,
+            "link_id": "t3_ccr98v",
+            "parent_id": "t3_ccr98v",
+            "score": 1,
+            "stickied": false,
+            "author_name": "CheesyCouchPotato"
+        },
+        "etosa2g": {
+            "comment": "It did but I cannot find it. Searched all of the system for it (to my knowledge) and I didnt find a trace. Not sure what's up honestly.",
+            "timeStamp": "2019/07/13-09:44:29",
+            "id": "etosa2g",
+            "is_submitter": true,
+            "link_id": "t3_ccr98v",
+            "parent_id": "t1_etos6qc",
+            "score": 2,
+            "stickied": false,
+            "author_name": "SergeantReaper_"
+        },
+        "etos6qc": {
+            "comment": "Can't you just delete it yourself? Does kaspersky not give you a filepath?",
+            "timeStamp": "2019/07/13-09:43:18",
+            "id": "etos6qc",
+            "is_submitter": false,
+            "link_id": "t3_ccr98v",
+            "parent_id": "t3_ccr98v",
+            "score": 2,
+            "stickied": false,
+            "author_name": "CheesyCouchPotato"
+        }
+    }
+}

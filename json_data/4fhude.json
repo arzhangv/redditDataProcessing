@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "PWOBot: Python malware family can eat Windows, Linux and OS X",
+        "score": 1,
+        "id": "4fhude",
+        "commsNum": 0,
+        "timeStamp": "2016/04/19-07:31:53",
+        "author_name": "MalwareWorld13",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.theinquirer.net/inquirer/news/2455133/pwobot-python-malware-family-can-eat-windows-linux-and-os-x"
+    },
+    "posts": {}
+}

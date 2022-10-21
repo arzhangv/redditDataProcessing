@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Linux DDoS Trojan hiding itself with an embedded rootkit",
+        "score": 5,
+        "id": "2rlcss",
+        "commsNum": 0,
+        "timeStamp": "2015/01/06-19:59:32",
+        "author_name": "Horgh",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://blog.avast.com/2015/01/06/linux-ddos-trojan-hiding-itself-with-an-embedded-rootkit/"
+    },
+    "posts": {}
+}

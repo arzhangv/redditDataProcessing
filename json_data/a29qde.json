@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi! \n\nJust to ask if any of these programs (Superantyspyware/Malwarebytes) are safe and legit :)",
+        "title": "Superantyspyware/Malwarebytes",
+        "score": 1,
+        "id": "a29qde",
+        "commsNum": 1,
+        "timeStamp": "2018/12/01-19:03:58",
+        "author_name": "AlbertPineapple",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/a29qde/superantyspywaremalwarebytes/"
+    },
+    "posts": {
+        "eawcmpc": {
+            "comment": "[removed]",
+            "timeStamp": "2018/12/01-19:24:43",
+            "id": "eawcmpc",
+            "is_submitter": false,
+            "link_id": "t3_a29qde",
+            "parent_id": "t3_a29qde",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

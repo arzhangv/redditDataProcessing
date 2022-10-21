@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I found an application called Adobe_Keygen.exe in my downloads folder last night. As far as I'm aware I hadn't downloaded any Adobe software or keygens. \nThe file being there in the first place made me a bit suspicious of it, but then I saw the first size. It was 8MB in size, and that's quite large for a keygen, right?\n\nI stuck it in my VM and ran it, and kept an eye on taskmgr. Not much happened, a keygen looking ui came up, then disappeared.  Shortly after, everything on my desktop turned into whatever.extension.tc. I tried opening them in Notepad++ and it all came up weird... I'm certain this is encryption ransomware, but no screen asking me to pay or anything has appeared... And I can't find traces of the malware on my machine anywhere...\n\nThought I'd share the main executable, so if you want to download, feel free, have a play around, would like to know if it does the same on anyone elses machine!\n\nIf you want to download it, you may [find it here](http://www35.zippyshare.com/v/3234223/file.html)",
+        "title": "Adobe Keygen.exe - Encryption Ransomware",
+        "score": 25,
+        "id": "23krg6",
+        "commsNum": 5,
+        "timeStamp": "2014/04/21-01:14:43",
+        "author_name": "tw0az12",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/23krg6/adobe_keygenexe_encryption_ransomware/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Since offensivecomputing.net is offline is there any other resource for aqcuiring malware samples? I've checked the resources at [kernelmode.info](http://www.kernelmode.info/forum/viewtopic.php?f=16&amp;t=308) but none of the resources seem to have quite the volume or as friendly of a way to access their collections. Where does /r/malware get their samples?",
+        "title": "sources for malware samples",
+        "score": 31,
+        "id": "tcs2r",
+        "commsNum": 10,
+        "timeStamp": "2012/05/08-04:25:12",
+        "author_name": "thesquid08",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 10,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": null,
+        "url": "http://www.reddit.com/r/Malware/comments/tcs2r/sources_for_malware_samples/"
+    },
+    "posts": {}
+}

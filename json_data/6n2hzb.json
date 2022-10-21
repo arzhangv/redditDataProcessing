@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Injecting Dependencies to Malwares that uses BITS via SimpleBITSServer",
+        "score": 6,
+        "id": "6n2hzb",
+        "commsNum": 1,
+        "timeStamp": "2017/07/13-08:56:20",
+        "author_name": "ikotler",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://safebreach.com/Post/Building-a-Python-BITS-Server"
+    },
+    "posts": {
+        "dk76gv4": {
+            "comment": "Only yesterday wondering if Kali had a BITS method for data transfer. This might fit the bill.",
+            "timeStamp": "2017/07/13-20:43:22",
+            "id": "dk76gv4",
+            "is_submitter": false,
+            "link_id": "t3_6n2hzb",
+            "parent_id": "t3_6n2hzb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TailSpinBowler"
+        }
+    }
+}

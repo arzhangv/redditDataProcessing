@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "[removed]",
+        "title": "why arent more malware written in python/ruby/etc?",
+        "score": 1,
+        "id": "hve3sp",
+        "commsNum": 0,
+        "timeStamp": "2020/07/21-12:33:31",
+        "author_name": "1_electron",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/hve3sp/why_arent_more_malware_written_in_pythonrubyetc/"
+    },
+    "posts": {}
+}

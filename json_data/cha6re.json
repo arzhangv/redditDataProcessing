@@ -1,0 +1,242 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hello all,\n\nI have made a course on Malware analysis for Udemy. I would like people who are interested in the topic to enroll, give some feedback for the future (you can do this over direct message) and potentially rate the course. I have made a free coupon, however, they are limited to 150. Please if you are interested, enroll using this link: [https://www.udemy.com/malware-analysis-and-reverse-engineering/?couponCode=REDDIT](https://www.udemy.com/malware-analysis-and-reverse-engineering/?couponCode=REDDIT)",
+        "title": "New Udemy course on Malware analysis",
+        "score": 61,
+        "id": "cha6re",
+        "commsNum": 20,
+        "timeStamp": "2019/07/24-09:10:53",
+        "author_name": "dreadknight011",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 20,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/cha6re/new_udemy_course_on_malware_analysis/"
+    },
+    "posts": {
+        "euyc57w": {
+            "comment": "Oh great yeah ill give it a watch and let you know what I think, if it needs more detail or whatever but looking quickly at the syllabus it looks quite thorough, I'll let you know!",
+            "timeStamp": "2019/07/25-17:02:36",
+            "id": "euyc57w",
+            "is_submitter": false,
+            "link_id": "t3_cha6re",
+            "parent_id": "t1_euxx0st",
+            "score": 1,
+            "stickied": false,
+            "author_name": "_-rootkid-_"
+        },
+        "euxx0st": {
+            "comment": "Oh, I see, then you probably know more than it is there in the course, as the course is kind of beginner level. But would definitely like to hear from you what you think and where it may need some more materials, as I can, later on, add some more materials and some mini-lectures. And would be happy to extend the content.",
+            "timeStamp": "2019/07/25-15:12:38",
+            "id": "euxx0st",
+            "is_submitter": true,
+            "link_id": "t3_cha6re",
+            "parent_id": "t1_eux1nw7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "dreadknight011"
+        },
+        "eux1nw7": {
+            "comment": "It's more of a specialist exam actually, in the UK we do CREST Accredited exams and this one is CCMRE which is Crest Certified Malware Reverse Engineer so I think your course is the most helpful, thank you for your hard work on it!",
+            "timeStamp": "2019/07/25-12:16:40",
+            "id": "eux1nw7",
+            "is_submitter": false,
+            "link_id": "t3_cha6re",
+            "parent_id": "t1_euw0xvo",
+            "score": 1,
+            "stickied": false,
+            "author_name": "_-rootkid-_"
+        },
+        "euw1bip": {
+            "comment": "Thanks, much appreciated :)",
+            "timeStamp": "2019/07/25-08:26:01",
+            "id": "euw1bip",
+            "is_submitter": true,
+            "link_id": "t3_cha6re",
+            "parent_id": "t1_eushvwc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "dreadknight011"
+        },
+        "euw182o": {
+            "comment": "Thanks, and sorry that you didn't manage to get this round of coupons. I may be releasing more in the future. Also, probably worth subscribing to mailing list at  [http://inspiratron.org/newsletter/](http://inspiratron.org/newsletter/), there will be some coupons coming through there.",
+            "timeStamp": "2019/07/25-08:25:25",
+            "id": "euw182o",
+            "is_submitter": true,
+            "link_id": "t3_cha6re",
+            "parent_id": "t1_eusg3ox",
+            "score": 1,
+            "stickied": false,
+            "author_name": "dreadknight011"
+        },
+        "euw0xvo": {
+            "comment": "Thanks. Appreciated a lot. Good luck with the exam. Not sure what exam you do, but if it is more general information security, maybe worth looking at this course as well: [https://www.udemy.com/practical-information-security/?couponCode=DISCOUNTGLOBAL](https://www.udemy.com/practical-information-security/?couponCode=DISCOUNTGLOBAL)",
+            "timeStamp": "2019/07/25-08:23:37",
+            "id": "euw0xvo",
+            "is_submitter": true,
+            "link_id": "t3_cha6re",
+            "parent_id": "t1_euqyzxg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "dreadknight011"
+        },
+        "euvqyii": {
+            "comment": "hey, the coupon is expired . I really wanted to enroll in some malware analysis course. :/ Bad day",
+            "timeStamp": "2019/07/25-07:21:24",
+            "id": "euvqyii",
+            "is_submitter": false,
+            "link_id": "t3_cha6re",
+            "parent_id": "t3_cha6re",
+            "score": 1,
+            "stickied": false,
+            "author_name": "espebp"
+        },
+        "euvmt8d": {
+            "comment": "looks great &lt;3",
+            "timeStamp": "2019/07/25-06:54:29",
+            "id": "euvmt8d",
+            "is_submitter": false,
+            "link_id": "t3_cha6re",
+            "parent_id": "t3_cha6re",
+            "score": 1,
+            "stickied": false,
+            "author_name": "pointyball"
+        },
+        "euu8pkm": {
+            "comment": "Like 5 people posted and 150 coupons taken. What a ratio.",
+            "timeStamp": "2019/07/25-00:28:59",
+            "id": "euu8pkm",
+            "is_submitter": false,
+            "link_id": "t3_cha6re",
+            "parent_id": "t3_cha6re",
+            "score": 1,
+            "stickied": false,
+            "author_name": "marinuss"
+        },
+        "eutfkfv": {
+            "comment": "boo! that sold out quick :(\n\nafter the class gets some feedback I'll consider buying it.\n\nBeen working towards GREM",
+            "timeStamp": "2019/07/24-20:22:53",
+            "id": "eutfkfv",
+            "is_submitter": false,
+            "link_id": "t3_cha6re",
+            "parent_id": "t3_cha6re",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Rayotap"
+        },
+        "eushvwc": {
+            "comment": "Too late for the free coupon. Purchased anyway.",
+            "timeStamp": "2019/07/24-15:50:16",
+            "id": "eushvwc",
+            "is_submitter": false,
+            "link_id": "t3_cha6re",
+            "parent_id": "t3_cha6re",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mijalis"
+        },
+        "eusg3ox": {
+            "comment": "Damn already filled, only 26 upvotes. Couldn't even give him a upvote on reddit. Nice class!",
+            "timeStamp": "2019/07/24-15:38:15",
+            "id": "eusg3ox",
+            "is_submitter": false,
+            "link_id": "t3_cha6re",
+            "parent_id": "t3_cha6re",
+            "score": 1,
+            "stickied": false,
+            "author_name": "cloudy_ft"
+        },
+        "eus7ao1": {
+            "comment": "Looks great, looking forward to it when I get home!",
+            "timeStamp": "2019/07/24-14:36:44",
+            "id": "eus7ao1",
+            "is_submitter": false,
+            "link_id": "t3_cha6re",
+            "parent_id": "t3_cha6re",
+            "score": 1,
+            "stickied": false,
+            "author_name": "supersecretsquirel"
+        },
+        "eus28lq": {
+            "comment": "Just enrolled. Looks like an Interesting Course",
+            "timeStamp": "2019/07/24-14:04:07",
+            "id": "eus28lq",
+            "is_submitter": false,
+            "link_id": "t3_cha6re",
+            "parent_id": "t3_cha6re",
+            "score": 1,
+            "stickied": false,
+            "author_name": "stuffedroll"
+        },
+        "eurxpqn": {
+            "comment": "I'll go over it on weekend and provide my feedback.",
+            "timeStamp": "2019/07/24-13:32:57",
+            "id": "eurxpqn",
+            "is_submitter": false,
+            "link_id": "t3_cha6re",
+            "parent_id": "t3_cha6re",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Daddu_tum"
+        },
+        "eursg8d": {
+            "comment": "Thanks much. I'll give it a try and let you know!",
+            "timeStamp": "2019/07/24-12:58:55",
+            "id": "eursg8d",
+            "is_submitter": false,
+            "link_id": "t3_cha6re",
+            "parent_id": "t3_cha6re",
+            "score": 1,
+            "stickied": false,
+            "author_name": "FouLouGaroux"
+        },
+        "eurdqde": {
+            "comment": "Enrolled! I hope I will find some time this weekend :-)",
+            "timeStamp": "2019/07/24-11:26:47",
+            "id": "eurdqde",
+            "is_submitter": false,
+            "link_id": "t3_cha6re",
+            "parent_id": "t3_cha6re",
+            "score": 1,
+            "stickied": false,
+            "author_name": "filipili"
+        },
+        "eurabgp": {
+            "comment": "Amazing! Enrolling now :)",
+            "timeStamp": "2019/07/24-11:05:57",
+            "id": "eurabgp",
+            "is_submitter": false,
+            "link_id": "t3_cha6re",
+            "parent_id": "t3_cha6re",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Shana-na-na"
+        },
+        "eur6622": {
+            "comment": "Thanks. I'm no pro but ill give it a shot.",
+            "timeStamp": "2019/07/24-10:40:44",
+            "id": "eur6622",
+            "is_submitter": false,
+            "link_id": "t3_cha6re",
+            "parent_id": "t3_cha6re",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Cypher848"
+        },
+        "euqyzxg": {
+            "comment": "Great, thanks! I'm revising for a MRE exam in a couple months and this could be really helpful in getting me that cert, I will leave some feedback when I've gone through the syllabus!",
+            "timeStamp": "2019/07/24-09:55:23",
+            "id": "euqyzxg",
+            "is_submitter": false,
+            "link_id": "t3_cha6re",
+            "parent_id": "t3_cha6re",
+            "score": 1,
+            "stickied": false,
+            "author_name": "_-rootkid-_"
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Vaccinate your computer from malware!",
+        "score": 1,
+        "id": "97995h",
+        "commsNum": 2,
+        "timeStamp": "2018/08/14-08:21:32",
+        "author_name": "maorlevi25",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://github.com/DuckInCyber/Vaccinator"
+    },
+    "posts": {
+        "e46xelv": {
+            "comment": "It's not shitty copy &amp; paste.\n\nI wrote it my self....  \njust read the readme",
+            "timeStamp": "2018/08/14-12:52:55",
+            "id": "e46xelv",
+            "is_submitter": true,
+            "link_id": "t3_97995h",
+            "parent_id": "t1_e46ec6k",
+            "score": 1,
+            "stickied": false,
+            "author_name": "maorlevi25"
+        },
+        "e46ec6k": {
+            "comment": "&gt; I have been working in cyber security from 2012.\n\nI don't know what you've posted because all that is open source is shitty copy+pasted powershell.\n\nDo not post this here",
+            "timeStamp": "2018/08/14-08:28:16",
+            "id": "e46ec6k",
+            "is_submitter": false,
+            "link_id": "t3_97995h",
+            "parent_id": "t3_97995h",
+            "score": 1,
+            "stickied": true,
+            "author_name": "edward_snowedin"
+        }
+    }
+}

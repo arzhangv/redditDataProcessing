@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I started to play around with samples on [Malware-Traffic-Analysis.net](https://Malware-Traffic-Analysis.net). I started with the first exercise 'BurninCandle'. I looked at the answers and pretty much got all the information except the part where it says IP for CobaltStrike. I marked the IP as suspicious but idk how they concluded it to be CobaltStrike. Any help is appreciated!\n\n[\\[link to exercise\\]](https://www.malware-traffic-analysis.net/2022/03/21/index3.html)",
+        "title": "Analyzing CobaltStrike from PCAP",
+        "score": 1,
+        "id": "we3pyd",
+        "commsNum": 0,
+        "timeStamp": "2022/08/01-22:55:18",
+        "author_name": "otherwise-well",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/we3pyd/analyzing_cobaltstrike_from_pcap/"
+    },
+    "posts": {
+        "iio19xd": {
+            "comment": "From a quick search, it looks like SSL over port 757 was seen in multiple Cobalt Strike incidents dating back to last year. I'm not sure if you're expected to use external context this way for the exercises, or only the pcap they provided.",
+            "timeStamp": "2022/08/02-10:14:29",
+            "id": "iio19xd",
+            "is_submitter": false,
+            "link_id": "t3_we3pyd",
+            "parent_id": "t3_we3pyd",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RamblinWreckGT"
+        },
+        "iimtjcu": {
+            "comment": "if i had to guess after about 5 minutes looking at it, i'd say 10.0.19.14 is beaconing with duplicate acks, but i haven't looked very closely and that was just a quick look with my eyes and no tools.  rita is pretty good at finding beacons.  look up threat hunting with black hills infosec and they have some good stuff.",
+            "timeStamp": "2022/08/02-05:15:10",
+            "id": "iimtjcu",
+            "is_submitter": false,
+            "link_id": "t3_we3pyd",
+            "parent_id": "t3_we3pyd",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sfzombie13"
+        },
+        "iimncc0": {
+            "comment": "I will make some presumptions without doing a full grind of the exercise.\n\n1) An intrusion was detected and investigated, fully, and this exercise material was a portion of the investigation.\n\n2) The investigation identified this traffic to be *known* as part of the intrusion [it may contain elements of the initial vector or may have been correlated to the user/time frame of the intrusion.\n\n3) Further analysis of suspect code has been performed that shows the attribution of the code and its subsequent network activity.\n\nThe PCAP should show the traffic to the associated suspect IP's.  The first elements of the capture should show the \"Command and Control\" (C2) activity of the bot.  The capture should show the subsequent connection for download of additional code (analysis of the download code should be the source of the Cobalt Strike (CS) attribution).  The final piece should be the network activity of the CS code to the third party C2 IP.\n\nKnown Code (CS) performing network an IP is primary attribution method.  \"This is known CS code connecting to an IP for C2; this IP is now known as a C2 node for CS.\"",
+            "timeStamp": "2022/08/02-04:12:51",
+            "id": "iimncc0",
+            "is_submitter": false,
+            "link_id": "t3_we3pyd",
+            "parent_id": "t3_we3pyd",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Farstone"
+        },
+        "iimmg2p": {
+            "comment": "Rip it into zeek, analyze the flows, break down the JA3, look for static SSL certificate reuse",
+            "timeStamp": "2022/08/02-04:02:40",
+            "id": "iimmg2p",
+            "is_submitter": false,
+            "link_id": "t3_we3pyd",
+            "parent_id": "t3_we3pyd",
+            "score": 1,
+            "stickied": false,
+            "author_name": "biggiesmalls29"
+        },
+        "iim6nzw": {
+            "comment": "Stick the IP into virus total and it will sometimes say",
+            "timeStamp": "2022/08/02-00:32:18",
+            "id": "iim6nzw",
+            "is_submitter": false,
+            "link_id": "t3_we3pyd",
+            "parent_id": "t3_we3pyd",
+            "score": 1,
+            "stickied": false,
+            "author_name": "slnt1996"
+        }
+    }
+}

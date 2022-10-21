@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "[removed]",
+        "title": "Does Anyone Know Of Any Alternatives To PEiD",
+        "score": 1,
+        "id": "h9yodi",
+        "commsNum": 2,
+        "timeStamp": "2020/06/15-23:59:44",
+        "author_name": "ThrowAWayyyy53232",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/h9yodi/does_anyone_know_of_any_alternatives_to_peid/"
+    },
+    "posts": {
+        "fuzlgtr": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2020/06/15-23:59:45",
+            "id": "fuzlgtr",
+            "is_submitter": false,
+            "link_id": "t3_h9yodi",
+            "parent_id": "t3_h9yodi",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

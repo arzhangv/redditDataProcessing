@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "The time I was hacked by Mr. Sh",
+        "score": 0,
+        "id": "buzez5",
+        "commsNum": 1,
+        "timeStamp": "2019/05/30-15:22:26",
+        "author_name": "SlightlyCyborg",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://medium.com/@collinalexbell/the-time-i-has-hacked-by-mr-sh-583db12b7d8f"
+    },
+    "posts": {
+        "epkqqa3": {
+            "comment": "This guy got confused by a script in a cronjob",
+            "timeStamp": "2019/05/30-22:07:48",
+            "id": "epkqqa3",
+            "is_submitter": false,
+            "link_id": "t3_buzez5",
+            "parent_id": "t3_buzez5",
+            "score": 5,
+            "stickied": false,
+            "author_name": "edward_snowedin"
+        }
+    }
+}

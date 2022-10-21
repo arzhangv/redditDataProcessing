@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 0.81,
+        "selftext": "",
+        "title": "Another RDP brute force ransomware strikes again, this time, Snatch Team! Snatch Team was able to go from brute forcing a Domain Administrator (DA) account via RDP, to encrypting all Domain joined systems in less than 5 hours.",
+        "score": 6,
+        "id": "hdx2n1",
+        "commsNum": 2,
+        "timeStamp": "2020/06/22-10:50:08",
+        "author_name": "TheDFIRReport",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://thedfirreport.com/2020/06/21/snatch-ransomware/"
+    },
+    "posts": {
+        "fvptoru": {
+            "comment": "Doesnt snatch mean vagina in some slang \ud83d\ude05? What were they thinking with this naming... are they going to talk about snatch lateral movement to execs? \ud83e\udd28",
+            "timeStamp": "2020/06/22-22:52:05",
+            "id": "fvptoru",
+            "is_submitter": false,
+            "link_id": "t3_hdx2n1",
+            "parent_id": "t3_hdx2n1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Slateclean"
+        },
+        "fvofat2": {
+            "comment": "[removed]",
+            "timeStamp": "2020/06/22-14:25:20",
+            "id": "fvofat2",
+            "is_submitter": false,
+            "link_id": "t3_hdx2n1",
+            "parent_id": "t3_hdx2n1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

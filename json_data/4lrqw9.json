@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Fixing IDA Pro's console: IPython console integration for IDA Pro",
+        "score": 23,
+        "id": "4lrqw9",
+        "commsNum": 0,
+        "timeStamp": "2016/05/30-14:33:15",
+        "author_name": "marc-etienne",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://github.com/eset/ipyida"
+    },
+    "posts": {}
+}

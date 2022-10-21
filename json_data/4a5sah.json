@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Digging into orgins of the latest 2 Ramsomwares: On March 4, 2016, Palo Alto Networks discovered that the Transmission 2.90 BitTorrent installer for OS X was infected with the KeRanger ransomware",
+        "score": 3,
+        "id": "4a5sah",
+        "commsNum": 0,
+        "timeStamp": "2016/03/12-14:22:08",
+        "author_name": "Veronicapo4_",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://icitech.org/cerberkeranger/"
+    },
+    "posts": {}
+}

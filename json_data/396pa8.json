@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "A little about me: I'm going to be a sophomore in the fall at university, my major is Computer Science (Information Assurance). I've been interested in malware/antivirus since the sixth grade. I remember removing the McAfee security software from my family computer and replacing it with other vendors (kaspersky, bitdefender, eset, etc). I also used to watch youtube reviews of said vendors and other antimalware software, and have just recently acquired my own Virtual Machine and I install malware on there and use different products to see which can best remove the malware.\n\nAnyway, how would you suggest I go about becoming a malware analyst? I've made a list of books to study (pratical malware analysis, art of memory forensics, malware rootkits, botnets: a beginners guide, etc). I also like to read kaspersky's theatpost and malwarebytes' blog, any other tips to get me started in my dream career?",
+        "title": "How to get started as a Malware Analyst?",
+        "score": 7,
+        "id": "396pa8",
+        "commsNum": 11,
+        "timeStamp": "2015/06/09-10:25:27",
+        "author_name": "DrShade",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 11,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/396pa8/how_to_get_started_as_a_malware_analyst/"
+    },
+    "posts": {}
+}

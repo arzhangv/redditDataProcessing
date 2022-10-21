@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "malware repository framework used to manage your personal malware zoo",
+        "score": 14,
+        "id": "2mv8vc",
+        "commsNum": 10,
+        "timeStamp": "2014/11/20-03:19:05",
+        "author_name": "huyvq",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 10,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://github.com/c633/malwaRE"
+    },
+    "posts": {}
+}

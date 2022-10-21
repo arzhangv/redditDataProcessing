@@ -1,0 +1,198 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[removed]",
+        "title": "Help with analysis",
+        "score": 1,
+        "id": "c68bwg",
+        "commsNum": 17,
+        "timeStamp": "2019/06/27-10:25:53",
+        "author_name": "Thehockeyguy213",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 17,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/c68bwg/help_with_analysis/"
+    },
+    "posts": {
+        "esmmz0i": {
+            "comment": "they have a section where you can search for the hash. So you could get in luck and find if someone already has run it through.",
+            "timeStamp": "2019/07/02-16:16:50",
+            "id": "esmmz0i",
+            "is_submitter": false,
+            "link_id": "t3_c68bwg",
+            "parent_id": "t1_eslipge",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Cypher848"
+        },
+        "eslipge": {
+            "comment": "I only have a file hash (virustotal link)...\nAnd no traces from the doc on or near my computer (perma deleted that mail)",
+            "timeStamp": "2019/07/02-09:52:52",
+            "id": "eslipge",
+            "is_submitter": true,
+            "link_id": "t3_c68bwg",
+            "parent_id": "t1_eslgl29",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Thehockeyguy213"
+        },
+        "eslgl29": {
+            "comment": "if you still have a copy of the doc or link you can create a free account with  [https://any.run/](https://any.run/)  and it will create a VirtualBox for you to run the malware and it will record everything. so if it is a dropper/downloader than it will give you the IOC. \n\n&amp;#x200B;\n\nNote: if you create a free account then, the Virtualbox will be public and everyone who has an account will be able to see the results. So I would recommend using the doc file, just in case, the website has personally identifiable information.",
+            "timeStamp": "2019/07/02-09:35:09",
+            "id": "eslgl29",
+            "is_submitter": false,
+            "link_id": "t3_c68bwg",
+            "parent_id": "t1_esijsqz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Cypher848"
+        },
+        "esijsqz": {
+            "comment": "How does this work exactly, do I only need to fill in the hash, or put in a file from my mac, because I haven't got it downloaded on my mac and the mail with the attachment got permanently deleted (hash found by mailing to scan@virustotal.net)",
+            "timeStamp": "2019/07/01-14:02:36",
+            "id": "esijsqz",
+            "is_submitter": true,
+            "link_id": "t3_c68bwg",
+            "parent_id": "t1_esien4f",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Thehockeyguy213"
+        },
+        "esien4f": {
+            "comment": "You can use any.run and see what happens.",
+            "timeStamp": "2019/07/01-13:17:30",
+            "id": "esien4f",
+            "is_submitter": false,
+            "link_id": "t3_c68bwg",
+            "parent_id": "t1_esbnfai",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Cypher848"
+        },
+        "esbnfai": {
+            "comment": "One more question: Is it a malware dropper, like does it drops keyloggers or trojans by reading the registry entries? Or can't you see that by just looking at the report on virustotal/Habo analysis?",
+            "timeStamp": "2019/06/29-02:50:54",
+            "id": "esbnfai",
+            "is_submitter": true,
+            "link_id": "t3_c68bwg",
+            "parent_id": "t1_es78u2n",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Thehockeyguy213"
+        },
+        "esag1xx": {
+            "comment": "So it's just an scam attempt and not a malware dropper? Did u use a VM to test it? And nothing came out for malware?",
+            "timeStamp": "2019/06/28-14:52:55",
+            "id": "esag1xx",
+            "is_submitter": true,
+            "link_id": "t3_c68bwg",
+            "parent_id": "t1_esaeofz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Thehockeyguy213"
+        },
+        "esaeofz": {
+            "comment": "Links in the file:  \n\n\nhxxps://arc-newpaymentldstore\\[.\\]bertubuhbesar\\[.\\]net/?bjngnjorfcokkkkk\\_\n\nhxxps://paymentkangngok\\[.\\]servebeer\\[.\\]com/?sgn\\_\n\nhxxps://s\\[.\\]mzstatic\\[.\\]com/email/images\\_shared/logo\\_apple\\_d-2x.png\n\nhxxps://s\\[.\\]mzstatic\\[.\\]com/email/images\\_shared/logo\\_apple\\_small\\_d-2x.png\n\n&amp;#x200B;\n\nJudging from the links and apple png's, most likely Apple cred phishing.",
+            "timeStamp": "2019/06/28-14:38:27",
+            "id": "esaeofz",
+            "is_submitter": false,
+            "link_id": "t3_c68bwg",
+            "parent_id": "t3_c68bwg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DigiAngelX"
+        },
+        "es8fpgt": {
+            "comment": "Nothing found on hybrid analysis about this, but can I say he's safe and don't need to worry because of the reasons I gave in the post above.",
+            "timeStamp": "2019/06/27-21:32:18",
+            "id": "es8fpgt",
+            "is_submitter": true,
+            "link_id": "t3_c68bwg",
+            "parent_id": "t1_es7dr4b",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Thehockeyguy213"
+        },
+        "es7dr4b": {
+            "comment": "Yes I'm gonna run this but he's safe because he didn't download it and previewed it via word online that won't allow macros or other scripts to run",
+            "timeStamp": "2019/06/27-13:53:27",
+            "id": "es7dr4b",
+            "is_submitter": true,
+            "link_id": "t3_c68bwg",
+            "parent_id": "t1_es78u2n",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Thehockeyguy213"
+        },
+        "es78u2n": {
+            "comment": "maybe. All the report only shows windows being affected. Doesn't hurt to look at what [https://www.hybrid-analysis.com/](https://www.hybrid-analysis.com/) says. that way you can have at some assurance.",
+            "timeStamp": "2019/06/27-13:08:01",
+            "id": "es78u2n",
+            "is_submitter": false,
+            "link_id": "t3_c68bwg",
+            "parent_id": "t1_es75ew9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Cypher848"
+        },
+        "es75ew9": {
+            "comment": "Yeah, a client of me accidentally previewed it via word online (on [outlook.com](https://outlook.com)) I gave him the advice to run Bitdefender free because that would be detected (if virustotal is right) to just be sure. (He's a Mac user so this wouldn't infect him if I'm right)",
+            "timeStamp": "2019/06/27-12:36:16",
+            "id": "es75ew9",
+            "is_submitter": true,
+            "link_id": "t3_c68bwg",
+            "parent_id": "t1_es74yg4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Thehockeyguy213"
+        },
+        "es74yg4": {
+            "comment": "ok, thanks. I just look at the report now. What it tells are all the files it creates/modifies/deletes, but also if you keep reading it also shows windows registry entries that get created/modified/deleted. This is use full for I.T security, as it is a list of I.O.C ( Indicators of Compromise ). You can put these pattern in your security appliance and set alerts to warn or take certain actions if these patterns pop up in your network/infrastructure",
+            "timeStamp": "2019/06/27-12:32:15",
+            "id": "es74yg4",
+            "is_submitter": false,
+            "link_id": "t3_c68bwg",
+            "parent_id": "t1_es727fy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Cypher848"
+        },
+        "es727fy": {
+            "comment": "[https://www.virustotal.com/gui/file/6db0299f073d8c83f70e52f382d1fd952e6d7d544cdb7eebd73867ddb9b9d176/detection](https://www.virustotal.com/gui/file/6db0299f073d8c83f70e52f382d1fd952e6d7d544cdb7eebd73867ddb9b9d176/detection)",
+            "timeStamp": "2019/06/27-12:06:11",
+            "id": "es727fy",
+            "is_submitter": true,
+            "link_id": "t3_c68bwg",
+            "parent_id": "t1_es71y8h",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Thehockeyguy213"
+        },
+        "es71y8h": {
+            "comment": "can you give me the full link to the website and the malware hash? Also, you can also try doing the analysis on  [https://hybrid-analysis.com](https://www.hybrid-analysis.com/) and compare the results",
+            "timeStamp": "2019/06/27-12:03:29",
+            "id": "es71y8h",
+            "is_submitter": false,
+            "link_id": "t3_c68bwg",
+            "parent_id": "t3_c68bwg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Cypher848"
+        },
+        "es6shzd": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2019/06/27-10:25:53",
+            "id": "es6shzd",
+            "is_submitter": false,
+            "link_id": "t3_c68bwg",
+            "parent_id": "t3_c68bwg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

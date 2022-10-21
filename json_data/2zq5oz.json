@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Vulgarisation of what SMM exploitation in BIOS rootkits is about",
+        "score": 3,
+        "id": "2zq5oz",
+        "commsNum": 0,
+        "timeStamp": "2015/03/20-11:31:04",
+        "author_name": "liotier",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.forbes.com/sites/thomasbrewster/2015/03/18/hacking-tails-with-rootkits"
+    },
+    "posts": {}
+}

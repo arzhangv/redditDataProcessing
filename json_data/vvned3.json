@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Check domains for free across our database of over 5,700,000 computers compromised with info-stealers world wide - [https://www.hudsonrock.com/are-you-compromised](https://www.hudsonrock.com/are-you-compromised)\n\nWhat is it? - this free tool enables you to search for domains and see how many compromised employees &amp; users they have from our continuously augmented cybercrime database, this can be useful for several reasons:\n\n1. Risk assessment - looking up a company and seeing they have a lot of compromised employees can indicate the company is not up to date with proper security measures, each compromised employee indicates that someone in the company downloaded and executed an info-stealing malware and had all their corporate credentials, cookies, documents, etc stolen by hackers who are using the credentials as an initial attack vector.\n2. Pre-breach intel - if you work at a company and see we have data relating to it, you can ask for an ethical disclosure from us for free, we provided hundreds of ethical disclosures regarding compromised credentials which are in the hands of hackers as a result of employees/clients having their computers infected. It is important to note that even with 2FA set in place, when a computer gets infected with an info-stealer they also have their cookies stolen which are then used to steal sessions and bypass 2FA, and that documents containing 2FA backup codes stored anywhere on the computer get captured by the info-stealer and allows the hacker to revoke phone-based 2FA.\n3. Assets discovery - we show the top 5 URLs that compromised employees &amp; clients had credentials to, often times these URLs are not attainable anywhere else because internal URLs accessed by clients/employees are not indexed anywhere and cannot be scraped.\n\nWhat is it not? - this is not a tool that provides a full overview around who the employees and users that got compromised are, or how they got compromised. We cannot provide this data publicly as it is very sensitive and is only given as an ethical disclosure to the cybersecurity team of the company.\n\n**If you work for a company that has compromised employees or clients, be sure to get a free ethical disclosure from us.**\n\nOur high-fidelity cybercrime intelligence data is sourced directly from threat actors \u2014 not from database leaks or scrapes.\n\nIf you liked this tool please share it, it is also accessible through API along with other free tools we provide such as checking if your own computer was compromised at some point (Preview API - [https://cavalier.hudsonrock.com/docs](https://cavalier.hudsonrock.com/docs))\n\nIf you are a pentester/MSP you may also be interested in some of the capabilities we have in Bayonet such as:\n\nExternal Attack Surface - [https://youtu.be/p-tJ6wIG3DI](https://youtu.be/p-tJ6wIG3DI)\n\nTechnology Discovery - [https://www.youtube.com/watch?v=2JWTtAFKKxw](https://www.youtube.com/watch?v=2JWTtAFKKxw)",
+        "title": "Free cybercrime intelligence tool - check any company domain and see how many of their employees and clients were compromised by info-stealers",
+        "score": 1,
+        "id": "vvned3",
+        "commsNum": 0,
+        "timeStamp": "2022/07/10-01:54:35",
+        "author_name": "Malwarebeasts",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/vvned3/free_cybercrime_intelligence_tool_check_any/"
+    },
+    "posts": {
+        "ifp8fpa": {
+            "comment": "Mildly concerned that data entered here will be sold off to marketers.",
+            "timeStamp": "2022/07/11-01:49:55",
+            "id": "ifp8fpa",
+            "is_submitter": false,
+            "link_id": "t3_vvned3",
+            "parent_id": "t3_vvned3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mdgsec"
+        },
+        "ifnm6l0": {
+            "comment": "The data I've seen from this company is all from password stealing malware. So depending on how the users were compromised they may not have coverage.",
+            "timeStamp": "2022/07/10-16:18:39",
+            "id": "ifnm6l0",
+            "is_submitter": false,
+            "link_id": "t3_vvned3",
+            "parent_id": "t1_ifnas5g",
+            "score": 1,
+            "stickied": false,
+            "author_name": "LeftHandedGraffiti"
+        },
+        "ifndumt": {
+            "comment": "Hey, thanks for the comment.\nDid you enter the company domains that are also where the login page is located? (i.e enter Tesla.com if you know that users are logging via Tesla.com/sign-in)",
+            "timeStamp": "2022/07/10-15:15:12",
+            "id": "ifndumt",
+            "is_submitter": true,
+            "link_id": "t3_vvned3",
+            "parent_id": "t1_ifnas5g",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Malwarebeasts"
+        },
+        "ifnas5g": {
+            "comment": "I put in 6 companies that I know have had compromised users and accounts over the last 18 months.. no hits on any of them.",
+            "timeStamp": "2022/07/10-14:52:45",
+            "id": "ifnas5g",
+            "is_submitter": false,
+            "link_id": "t3_vvned3",
+            "parent_id": "t3_vvned3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "norfolkench4nts"
+        },
+        "ifm03cg": {
+            "comment": "[removed]",
+            "timeStamp": "2022/07/10-09:17:10",
+            "id": "ifm03cg",
+            "is_submitter": false,
+            "link_id": "t3_vvned3",
+            "parent_id": "t3_vvned3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

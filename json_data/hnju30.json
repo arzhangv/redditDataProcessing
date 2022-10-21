@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Unique Conti ransomware can be driven to target specific network hosts, skip local encryption",
+        "score": 1,
+        "id": "hnju30",
+        "commsNum": 0,
+        "timeStamp": "2020/07/08-09:09:35",
+        "author_name": "LightningRurik",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.carbonblack.com/blog/tau-threat-discovery-conti-ransomware/"
+    },
+    "posts": {}
+}

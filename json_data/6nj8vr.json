@@ -1,0 +1,99 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Many years ago, there was a program called CDEX that would rip your CDs into MP3s. It is old now, but years ago it was the bee's knees. I haven't used CDs in years, but someone gave me a nice box set. Time to rip. Let's get to ripping. Why not CDEX?  \nI go to the major download sites, get the program. Scan it for nasties. Nothing. Start to install. My AV goes nuts.  \nApparently this long beloved app is now completely infected with malware. All the major file download sites still point to it. An ESET Online scan will catch it after install. Bitdefender stopped it before infection.  \nI know most posts on this sub are more high level, but thought I'd get a warning out there if anyone searched for it. ",
+        "title": "CDEX Infected With Malware",
+        "score": 2,
+        "id": "6nj8vr",
+        "commsNum": 8,
+        "timeStamp": "2017/07/15-17:06:23",
+        "author_name": "JohnGillnitz",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 8,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6nj8vr/cdex_infected_with_malware/"
+    },
+    "posts": {
+        "dkelrh0": {
+            "comment": "Hello,\n\nI'm running ESET Endpoint Security 6.6.2025.0 with threat signature database 15769 and didn't get any reports of **malware** when downloading CDex 1.87 or 1.88.  \n\nESET **does** show the software as being bundled with a potentially unwanted application, [Win32/FusionCore](https://virustotal.com/en/file/476b2806082efc0f1ee46186a8d5005f57d702e56a3a8435dc4f9282ff5438b1/analysis/).  \n\nSo, if you do choose to install CDex, make sure you uncheck any option to install the potentially unwanted application that comes bundled with it.\n\nPUAs are annoying, icky and bothersome, but they are also not malware, per se, otherwise they'd be detected as such.  For more information about what PUAs are, here's a paper on the topic: [Problematic, Unloved and Argumentative: What is a potentially unwanted application (PUA)?](https://www.welivesecurity.com/2012/01/09/potentially-unwanted-applications-white-paper-updated/) [Two disclaimers: (1) it's kind of old, and doesn't cover many PUA scenarios, like Android-based PUAs; and (2) I'm the author.  Still, the information in it is valid, if just a little out-of-date.]\n\nRegards,\n\nAryeh Goretsky\n",
+            "timeStamp": "2017/07/18-17:11:50",
+            "id": "dkelrh0",
+            "is_submitter": false,
+            "link_id": "t3_6nj8vr",
+            "parent_id": "t1_dkdmora",
+            "score": 1,
+            "stickied": false,
+            "author_name": "goretsky"
+        },
+        "dkdmora": {
+            "comment": "If so it was a FP for both ESET and Bitdefender. I don't have the ESET log anymore. Likely just a PUP installer, but once they have privileged access... The installer also made 57 calls to the domain rp.stocksigngift.com. I'm not going there on a working PC, but here is the URL report: https://www.malwares.com/report/url/ue?url=http%3A%2F%2Frp.stocksigngift.com%2F  \nThe fact that two different AV products blocked it two different ways makes me not want to install it.",
+            "timeStamp": "2017/07/18-06:23:09",
+            "id": "dkdmora",
+            "is_submitter": true,
+            "link_id": "t3_6nj8vr",
+            "parent_id": "t1_dkda631",
+            "score": 1,
+            "stickied": false,
+            "author_name": "JohnGillnitz"
+        },
+        "dkda631": {
+            "comment": "Hello,\n\nAre you certain?  I let VirusTotal do it's thing:\n\nhttps://www.virustotal.com/#/url/d3ea43f9ba5e08638115875cb082604c7291a4ba944955cf2b4b6b6eed9c801b/detection\n\nOnly one of the engines on VT reported a problem, so it's probably a false positive. \n\nRegards,\n\nAryeh Goretsky",
+            "timeStamp": "2017/07/17-22:28:19",
+            "id": "dkda631",
+            "is_submitter": false,
+            "link_id": "t3_6nj8vr",
+            "parent_id": "t1_dkda3st",
+            "score": 1,
+            "stickied": false,
+            "author_name": "goretsky"
+        },
+        "dkda3st": {
+            "comment": "&gt; http://cdex.mu/\n\nThat site is infected. I didn't know about r/BadApps. That does sound more appropriate. Thank you.",
+            "timeStamp": "2017/07/17-22:26:14",
+            "id": "dkda3st",
+            "is_submitter": true,
+            "link_id": "t3_6nj8vr",
+            "parent_id": "t1_dkd9k3b",
+            "score": 1,
+            "stickied": false,
+            "author_name": "JohnGillnitz"
+        },
+        "dkd9k3b": {
+            "comment": "Hello,\n\nIt used to be that download sites existed to provide a centralized \"all in one\" repository for people to get open source, public domain (freeware) and evaluation (shareware) versions of software, and they were largely supported by running banner advertisements.  With the crash of ad revenue from those, most of them have gone to \"software wrapping\" business models, e.g., taking the software you want, and placing a loader or shell in front of it that installs potentially unwanted applications, adware and other garbage they can get paid to install.\n\nA partial solution to this is go to directly to the author's site, instead of download sites like CBS Interactive's CNet Download.Com, etc.  I say *partial*, because a few software authors monetize directly by bundling PUAs, adware or other \"third-party offers\" that no wants directly into their installers.  Examples of these include Adobe Flash and Sun Java, both of which reportedly make between $20-30M a year (each) from bundling crapware with their frameworks.\n\nAnyways, if you CDex, here's the author's web site:\n\nAuthor's site:  http://cdex.mu/  \nAuthor's download page:  http://cdex.mu/download  \n\nI don't think they bundle anything with their direct downloads, but please check yourself to make sure.\n\nRegards,\n\nAryeh Goretsky\n\nP.S.  The r/Malware subreddit is for technical discussions of malware, not really for end-user reports like yours.  Consider using a subdreddit like r/24HourSupport or r/BadApps to report things like this in the future.",
+            "timeStamp": "2017/07/17-22:09:00",
+            "id": "dkd9k3b",
+            "is_submitter": false,
+            "link_id": "t3_6nj8vr",
+            "parent_id": "t3_6nj8vr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "goretsky"
+        },
+        "dkbx2xz": {
+            "comment": "Unfortunately, that is the harsh reality of today. A majority if not all of the downloaders are bloatware/crapware/bundleware downloaders. Especially, with how unprotected they are and how untrustworthy can they bad. It surprises me that websites like that can still strive and provide products. Granted, not every single product is infested, but still..... Some managing is badly required.",
+            "timeStamp": "2017/07/17-06:07:40",
+            "id": "dkbx2xz",
+            "is_submitter": false,
+            "link_id": "t3_6nj8vr",
+            "parent_id": "t3_6nj8vr",
+            "score": 2,
+            "stickied": false,
+            "author_name": "JoshRosserino"
+        },
+        "dka8z2q": {
+            "comment": "&gt; I go to the major download sites\n\n\nhttps://www.howtogeek.com/207692/yes-every-freeware-download-site-is-serving-crapware-heres-the-proof/",
+            "timeStamp": "2017/07/16-00:12:36",
+            "id": "dka8z2q",
+            "is_submitter": false,
+            "link_id": "t3_6nj8vr",
+            "parent_id": "t3_6nj8vr",
+            "score": 5,
+            "stickied": false,
+            "author_name": "R-EDDIT"
+        }
+    }
+}

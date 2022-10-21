@@ -1,0 +1,121 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I read a lot of articles and write ups about vulnerabilities e.g. https://www.welivesecurity.com/2019/05/22/patch-now-bluekeep-vulnerability/?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=wls-newsletter-240519\n\nBut I have bever fully understood if these vulnerabilities are required for the malware to function. Why can't a virus just be downloaded eg from an email attachment and execute without vulnerabilities? Or is that possible?",
+        "title": "Are software vulnerabilities required for malware to work",
+        "score": 3,
+        "id": "bsgyfo",
+        "commsNum": 9,
+        "timeStamp": "2019/05/24-06:30:26",
+        "author_name": "peoplearesleeping",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 9,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/bsgyfo/are_software_vulnerabilities_required_for_malware/"
+    },
+    "posts": {
+        "epvez7h": {
+            "comment": "I would put it this way. Vulnerabilities can give the malware access to something that is not available for the victim who executed the malware, such as, privileges like admin rights, access to other machines etc. So if the purpuse of the malware does not need such elevated access then no vulnerability is needed. For instance if the domain admin runs the malware then it can do anything anyway. But if a standard user runs it, then it might need to elevate privileges to be able to fulfill its purpuse.",
+            "timeStamp": "2019/06/02-20:20:44",
+            "id": "epvez7h",
+            "is_submitter": false,
+            "link_id": "t3_bsgyfo",
+            "parent_id": "t3_bsgyfo",
+            "score": 1,
+            "stickied": false,
+            "author_name": "cr4zym0nki"
+        },
+        "eoort41": {
+            "comment": "If you're leveraging a vulnerability instead of a bad config, you can penetrate networks and machines even if they're properly configured.",
+            "timeStamp": "2019/05/24-18:04:16",
+            "id": "eoort41",
+            "is_submitter": false,
+            "link_id": "t3_bsgyfo",
+            "parent_id": "t1_eon7xsj",
+            "score": 2,
+            "stickied": false,
+            "author_name": "k_x90"
+        },
+        "eons7qn": {
+            "comment": "They are new variables to the network's security posture and often require specific action to maintain a defensible network.",
+            "timeStamp": "2019/05/24-10:50:56",
+            "id": "eons7qn",
+            "is_submitter": false,
+            "link_id": "t3_bsgyfo",
+            "parent_id": "t1_eon7xsj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TD706"
+        },
+        "eonc7c5": {
+            "comment": "Ideally, yes.",
+            "timeStamp": "2019/05/24-07:42:27",
+            "id": "eonc7c5",
+            "is_submitter": false,
+            "link_id": "t3_bsgyfo",
+            "parent_id": "t1_eon9ox5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Hateblade"
+        },
+        "eonbufz": {
+            "comment": "A virus is just a program that does something a user doesn't want, like extract files or keystrokes.  Vulnerabilities are one method to gain access but there are others like social engineering.",
+            "timeStamp": "2019/05/24-07:38:38",
+            "id": "eonbufz",
+            "is_submitter": false,
+            "link_id": "t3_bsgyfo",
+            "parent_id": "t1_eon9ox5",
+            "score": 2,
+            "stickied": false,
+            "author_name": "TParis00ap"
+        },
+        "eon9ox5": {
+            "comment": "Ok so say the binary is downloaded on the victims computer. It won't just start itself normally so it uses a vulnerability that allows it to run?",
+            "timeStamp": "2019/05/24-07:17:19",
+            "id": "eon9ox5",
+            "is_submitter": true,
+            "link_id": "t3_bsgyfo",
+            "parent_id": "t1_eon8kaq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "peoplearesleeping"
+        },
+        "eon8kaq": {
+            "comment": "Of course you can just execute malware without any vulnerabilities. It's your  device, you can run what you want. What You are not grasping is the concept of what a payload is and how to get your code to execute on the victim's system. That's what vulnerabilities are for.",
+            "timeStamp": "2019/05/24-07:05:55",
+            "id": "eon8kaq",
+            "is_submitter": false,
+            "link_id": "t3_bsgyfo",
+            "parent_id": "t3_bsgyfo",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Hateblade"
+        },
+        "eon7xsj": {
+            "comment": "So why are vulnerabilities such a big topic? Just another way to easily spread across a network?",
+            "timeStamp": "2019/05/24-06:59:27",
+            "id": "eon7xsj",
+            "is_submitter": true,
+            "link_id": "t3_bsgyfo",
+            "parent_id": "t1_eon7ql5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "peoplearesleeping"
+        },
+        "eon7ql5": {
+            "comment": "No. \n\nMalware can take advantage of  insecure configurations to gain/expand access to a network. Using predictable credentials is a good example of this.",
+            "timeStamp": "2019/05/24-06:57:27",
+            "id": "eon7ql5",
+            "is_submitter": false,
+            "link_id": "t3_bsgyfo",
+            "parent_id": "t3_bsgyfo",
+            "score": 3,
+            "stickied": false,
+            "author_name": "TD706"
+        }
+    }
+}

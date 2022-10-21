@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Incident Response: Methodology and Case Study",
+        "score": 26,
+        "id": "9bmgm9",
+        "commsNum": 2,
+        "timeStamp": "2018/08/30-11:57:50",
+        "author_name": "fireh7nter",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.peerlyst.com/posts/incident-response-methodology-and-case-study-ankit-mishra"
+    },
+    "posts": {
+        "e5nfoc5": {
+            "comment": "Good work and a fun read.\n\nDefinitely dump any carved / extracted files into virtual total / cookoo. It allows you to get the hash and find potentially malicious files that were renamed! \n\nVolatility is so much fun to play with, looking forward to see how you use it to do some digging on network connections. \n\nHappy hunting! ",
+            "timeStamp": "2018/09/08-22:00:07",
+            "id": "e5nfoc5",
+            "is_submitter": false,
+            "link_id": "t3_9bmgm9",
+            "parent_id": "t3_9bmgm9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Aquiiious"
+        },
+        "e542k6q": {
+            "comment": "An Intro to Malware Analysis",
+            "timeStamp": "2018/08/30-11:58:26",
+            "id": "e542k6q",
+            "is_submitter": true,
+            "link_id": "t3_9bmgm9",
+            "parent_id": "t3_9bmgm9",
+            "score": 0,
+            "stickied": false,
+            "author_name": "fireh7nter"
+        }
+    }
+}

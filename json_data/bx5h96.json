@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[removed]",
+        "title": "Help removing HNS-DNS-HIJACKING malware.",
+        "score": 1,
+        "id": "bx5h96",
+        "commsNum": 1,
+        "timeStamp": "2019/06/05-10:44:46",
+        "author_name": "ActuallyLostHere",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/bx5h96/help_removing_hnsdnshijacking_malware/"
+    },
+    "posts": {
+        "eq3io0l": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2019/06/05-10:44:47",
+            "id": "eq3io0l",
+            "is_submitter": false,
+            "link_id": "t3_bx5h96",
+            "parent_id": "t3_bx5h96",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

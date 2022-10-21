@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I have a JavaScript file that is linked to one of my browsers and when ever I visit a specific website it will redirect me to another. I've scanned with 3 different antimalwares and nothing plus when I set the option to block JavaScript the redirects don't happen. I have uninstalled and reinstalled the browser and the browser is called Firefox focus for Android and it only happens for this one browser the rest are fine. I just wanted to know if there's anyway I could find this file wherever  it may be lurking. Maybe when uninstalling the browser it leaves a folder behind and that's where it is but either than. That I have no clue. Or if anyone has a good file explorer for Android that can get me all the js files.",
+        "title": "Redirect JavaScript",
+        "score": 1,
+        "id": "hcx1k5",
+        "commsNum": 5,
+        "timeStamp": "2020/06/20-17:21:20",
+        "author_name": "mmm-spicy",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/hcx1k5/redirect_javascript/"
+    },
+    "posts": {
+        "fx0l7db": {
+            "comment": "Here is a video explaining OWASP ZAP and how to intercept browser traffic with it. [How to use ZAP to proxy traffic](https://www.youtube.com/watch?v=fa5LAfXmwoo)\n\nYour browser is going to be on your android phone, so you will want to send your phone HTTP traffic through ZAP, instead of the traditional desktop browser you see in the video. Take a look at the section in this following link, near the bottom, called \"Using An Android Device\"\n\n&gt;Using An Android Device\n\n    Settings -&gt; Wifi -&gt; Press and hold your active network\n    Select \u201cModify Network\u201d\n    Select \u201cShow Advanced Options\u201d\n    Select \u201cProxy Settings -&gt; Manual\u201d\n    Set your Proxy to the OWASP ZAP IP (something like) 192.168.1.2\n    Set your Port to: 8080\n    Press Save\n\n\nOff the top of my head that is the easiest way for you to inspect every request that is going through your browser.",
+            "timeStamp": "2020/07/05-10:32:59",
+            "id": "fx0l7db",
+            "is_submitter": false,
+            "link_id": "t3_hcx1k5",
+            "parent_id": "t1_fx0k448",
+            "score": 1,
+            "stickied": false,
+            "author_name": "goestowar"
+        },
+        "fx0k448": {
+            "comment": "Could you link me to some videos that show how I could do this, I have a brief idea about ADB but with the ZAP thing and how the two link up I'm not sure. Thank you.",
+            "timeStamp": "2020/07/05-10:23:31",
+            "id": "fx0k448",
+            "is_submitter": true,
+            "link_id": "t3_hcx1k5",
+            "parent_id": "t1_fvhxfep",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mmm-spicy"
+        },
+        "fvj78xk": {
+            "comment": "Oofff also new discovery just realized everyone I uninstalled I didn't uninstall it for all users, so it may just be a case of me being dumb.",
+            "timeStamp": "2020/06/21-05:32:55",
+            "id": "fvj78xk",
+            "is_submitter": true,
+            "link_id": "t3_hcx1k5",
+            "parent_id": "t1_fviu25x",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mmm-spicy"
+        },
+        "fviu25x": {
+            "comment": "Well the website was ph so I don't think so, but it could also be that when the web page is loading there is a split second where the connection is not secure.",
+            "timeStamp": "2020/06/21-01:53:36",
+            "id": "fviu25x",
+            "is_submitter": true,
+            "link_id": "t3_hcx1k5",
+            "parent_id": "t1_fvhxfep",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mmm-spicy"
+        },
+        "fvhxfep": {
+            "comment": "Connect your phone to a computer via adb(Android Debug Bridge)\n\nProxy your phone traffic through ZAP or Burp or mitmproxy or anything.\n\nTurn intercept on or set a breakpoint on javascript files - you'll see every js file being called by the browser\n\n\n\nDo you *know* this is malicious? Does that website simply have some javascript embedded that triggers a redirect - based on say, an approved list of user-agent headers, or something like that.",
+            "timeStamp": "2020/06/20-18:46:53",
+            "id": "fvhxfep",
+            "is_submitter": false,
+            "link_id": "t3_hcx1k5",
+            "parent_id": "t3_hcx1k5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "goestowar"
+        }
+    }
+}

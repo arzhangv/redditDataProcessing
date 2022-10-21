@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Vawtrak malware uses steganography to hide update files in favicons",
+        "score": 1,
+        "id": "30cmql",
+        "commsNum": 0,
+        "timeStamp": "2015/03/26-00:31:19",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/35308/malware/vawtrak-steganography-favicon.html"
+    },
+    "posts": {}
+}

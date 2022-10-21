@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "REvil Ransomware Gang Starts Auctioning Victim Data",
+        "score": 1,
+        "id": "gvq3hj",
+        "commsNum": 5,
+        "timeStamp": "2020/06/03-01:34:16",
+        "author_name": "ImpedingGarment",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://krebsonsecurity.com/2020/06/revil-ransomware-gang-starts-auctioning-victim-data/"
+    },
+    "posts": {
+        "fw8nbl2": {
+            "comment": "[removed]",
+            "timeStamp": "2020/06/27-22:24:30",
+            "id": "fw8nbl2",
+            "is_submitter": false,
+            "link_id": "t3_gvq3hj",
+            "parent_id": "t3_gvq3hj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fw8n8z2": {
+            "comment": "This ransomware gang also asked $42m from NY law firm and threatened to leak dirt on Trump, more details read[ REvil Ransomware](https://www.enigmasoftware.com/revilransomware-removal/).",
+            "timeStamp": "2020/06/27-22:23:31",
+            "id": "fw8n8z2",
+            "is_submitter": false,
+            "link_id": "t3_gvq3hj",
+            "parent_id": "t3_gvq3hj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "FunChange"
+        },
+        "fsqocee": {
+            "comment": "Anyone up for a spot of drone striking",
+            "timeStamp": "2020/06/03-05:34:53",
+            "id": "fsqocee",
+            "is_submitter": false,
+            "link_id": "t3_gvq3hj",
+            "parent_id": "t3_gvq3hj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "nre_graphico"
+        },
+        "fsqi2od": {
+            "comment": "I hope these scumbags get a slow flesh eating disease.",
+            "timeStamp": "2020/06/03-04:14:12",
+            "id": "fsqi2od",
+            "is_submitter": false,
+            "link_id": "t3_gvq3hj",
+            "parent_id": "t3_gvq3hj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "BaGamman"
+        },
+        "fsqc9fl": {
+            "comment": "Scum. I hope they get a withering, incurable, terminal disease.",
+            "timeStamp": "2020/06/03-02:45:38",
+            "id": "fsqc9fl",
+            "is_submitter": false,
+            "link_id": "t3_gvq3hj",
+            "parent_id": "t3_gvq3hj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "harrybarracuda"
+        }
+    }
+}

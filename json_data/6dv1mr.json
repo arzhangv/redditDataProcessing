@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Isn't it some form of downloader or a RAT? ",
+        "title": "What is a loader in malware.",
+        "score": 13,
+        "id": "6dv1mr",
+        "commsNum": 9,
+        "timeStamp": "2017/05/28-10:38:35",
+        "author_name": "LifeInKernelSpace",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 9,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6dv1mr/what_is_a_loader_in_malware/"
+    },
+    "posts": {
+        "iim7bbe": {
+            "comment": "not necessarily, the term can be used interchangeably. The loader either loads the payload into memory or onto the disk same thing with a dropper.",
+            "timeStamp": "2022/08/02-00:41:08",
+            "id": "iim7bbe",
+            "is_submitter": false,
+            "link_id": "t3_6dv1mr",
+            "parent_id": "t1_di6qnaj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MyNameIsKevinnn"
+        },
+        "hhnemgy": {
+            "comment": "[removed]",
+            "timeStamp": "2021/10/22-11:14:09",
+            "id": "hhnemgy",
+            "is_submitter": false,
+            "link_id": "t3_6dv1mr",
+            "parent_id": "t3_6dv1mr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

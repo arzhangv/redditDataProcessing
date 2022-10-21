@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "New Backdoor Allows Full Access to Mac Systems",
+        "score": 26,
+        "id": "4rdaus",
+        "commsNum": 9,
+        "timeStamp": "2016/07/05-08:43:49",
+        "author_name": "iliketechnews",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 9,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://labs.bitdefender.com/2016/07/new-mac-backdoor-nukes-os-x-systems/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": " I found the lab exercises for the practical malware analysis book but I couldn't find the walkthrough samples that the author explained in every chapter such as the codes that he used to explain the subject or some exes such as PotentialKeylogger.exe and etc.\n\n&amp;#x200B;\n\nI looked at [practicalmalwareanalysis.com](https://practicalmalwareanalysis.com/) and nostarch but I only found the lab exes from there.\n\n&amp;#x200B;\n\nAnybody know how to reach the walkthroughs?",
+        "title": "Practical malware analysis book samples missing",
+        "score": 1,
+        "id": "eh8dxl",
+        "commsNum": 0,
+        "timeStamp": "2019/12/29-09:10:36",
+        "author_name": "tuzer01",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/eh8dxl/practical_malware_analysis_book_samples_missing/"
+    },
+    "posts": {}
+}

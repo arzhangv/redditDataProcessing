@@ -1,0 +1,143 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hi, Reddit,\n\nDuring the project implementation for my bachelor's thesis **\\[1\\]**, a software (named dike, as the Greek goddess of justice) capable of analyzing malicious programs using artificial intelligence techniques, I was unable to locate an open source dataset with labeled malware samples in the public domain. As a result, I created DikeDataset, a dataset with labeled PE and OLE samples **\\[2\\]**. Because it was not the main focus of my thesis, the samples attributes are not evenly distributed (the benign-malicious and OLE-PE ratios are quite low), but the dataset aided greatly in the research process.\n\nThis week, I was surprised to see that the public GitHub repository (which was used only for storage, without any promotion on communities like this) gained some organic reach (views, clones and stars). Furthermore, I was thrilled to learn that it was used in a research article published in 2021 **\\[3\\]**!\n\nAs a result, I'd like to share this project with the community in the hopes that it will be useful to some members of the community.\n\n**\\[1\\]** [dike](https://github.com/iosifache/dike)\n\n**\\[2\\]** [DikeDataset](https://github.com/iosifache/DikeDataset)\n\n**\\[3\\]** [Toward Identifying APT Malware through API System Calls](https://www.hindawi.com/journals/scn/2021/8077220/)",
+        "title": "Dataset with labeled benign and malicious files",
+        "score": 1,
+        "id": "tsv4il",
+        "commsNum": 0,
+        "timeStamp": "2022/03/31-01:23:48",
+        "author_name": "iosifache",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/tsv4il/dataset_with_labeled_benign_and_malicious_files/"
+    },
+    "posts": {
+        "i77a92s": {
+            "comment": "I put together around 200K samples with both legitimate and benign samples labeled as best I could.\n\nhttps://practicalsecurityanalytics.com/pe-malware-machine-learning-dataset/",
+            "timeStamp": "2022/05/03-13:01:49",
+            "id": "i77a92s",
+            "is_submitter": false,
+            "link_id": "t3_tsv4il",
+            "parent_id": "t3_tsv4il",
+            "score": 1,
+            "stickied": false,
+            "author_name": "FusionCarcass"
+        },
+        "i2xz7vs": {
+            "comment": "Will sure do!",
+            "timeStamp": "2022/03/31-21:20:04",
+            "id": "i2xz7vs",
+            "is_submitter": false,
+            "link_id": "t3_tsv4il",
+            "parent_id": "t1_i2vwhmo",
+            "score": 1,
+            "stickied": false,
+            "author_name": "stalwart_guy"
+        },
+        "i2whub0": {
+            "comment": "[removed]",
+            "timeStamp": "2022/03/31-14:33:05",
+            "id": "i2whub0",
+            "is_submitter": false,
+            "link_id": "t3_tsv4il",
+            "parent_id": "t3_tsv4il",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "i2vwrhk": {
+            "comment": "Thanks for sharing!",
+            "timeStamp": "2022/03/31-12:17:48",
+            "id": "i2vwrhk",
+            "is_submitter": true,
+            "link_id": "t3_tsv4il",
+            "parent_id": "t1_i2vl1c4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "iosifache"
+        },
+        "i2vwhmo": {
+            "comment": "I'm sooo happy to hear that it will be useful! You can use both the dataset and the analysis platform (whose code I documented as much as I could). And if I can help you with further details or advices, drop me a line!",
+            "timeStamp": "2022/03/31-12:16:00",
+            "id": "i2vwhmo",
+            "is_submitter": true,
+            "link_id": "t3_tsv4il",
+            "parent_id": "t1_i2vj3xa",
+            "score": 1,
+            "stickied": false,
+            "author_name": "iosifache"
+        },
+        "i2vvk0h": {
+            "comment": "Sure! As I mentioned above, the paper written in Romanian is [on GitHub too](https://github.com/iosifache/BachelorThesis) (beside the [analysis platform repository](https://github.com/iosifache/dike), which has a README.md with details in English).",
+            "timeStamp": "2022/03/31-12:09:51",
+            "id": "i2vvk0h",
+            "is_submitter": true,
+            "link_id": "t3_tsv4il",
+            "parent_id": "t1_i2v76hf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "iosifache"
+        },
+        "i2vuyge": {
+            "comment": "That's great to hear!\n\nYes, the [thesis](https://github.com/iosifache/BachelorThesis) as well as the [project](https://github.com/iosifache/dike) (which used the dataset to train machine learning models) are both available on GitHub. It's also worth noting that the paper is written in Romanian, as I found it difficult at the time to learn to write both academically and in a foreign language (in contrast to the master's thesis, which I am now writing in English \ud83d\ude0c).\n\nI used MalwareBazaar for the malicious OLE samples. The remaining three were not released at the time because I began my thesis study in the autumn of 2020. However, there is positive news in the form of new labeled datasets that researchers may use.",
+            "timeStamp": "2022/03/31-12:05:55",
+            "id": "i2vuyge",
+            "is_submitter": true,
+            "link_id": "t3_tsv4il",
+            "parent_id": "t1_i2uj773",
+            "score": 1,
+            "stickied": false,
+            "author_name": "iosifache"
+        },
+        "i2vl1c4": {
+            "comment": "Labeled macro data: https://github.com/InQuest/microsoft-office-macro-clustering",
+            "timeStamp": "2022/03/31-11:02:16",
+            "id": "i2vl1c4",
+            "is_submitter": false,
+            "link_id": "t3_tsv4il",
+            "parent_id": "t3_tsv4il",
+            "score": 1,
+            "stickied": false,
+            "author_name": "pedramamini"
+        },
+        "i2vj3xa": {
+            "comment": "For my final year project, i am making a tool for malware detection and analysis using machine learning techniques. I was facing the same problem as you regarding datasets and hence had the same idea of making one of my own. But man, you saved me all that work and i can't tell how grateful I am to you. Thanks a lot for this, I'll try contributing if i can!",
+            "timeStamp": "2022/03/31-10:50:15",
+            "id": "i2vj3xa",
+            "is_submitter": false,
+            "link_id": "t3_tsv4il",
+            "parent_id": "t3_tsv4il",
+            "score": 1,
+            "stickied": false,
+            "author_name": "stalwart_guy"
+        },
+        "i2v76hf": {
+            "comment": "this is very interesting research, please provide link to your paper!",
+            "timeStamp": "2022/03/31-09:34:43",
+            "id": "i2v76hf",
+            "is_submitter": false,
+            "link_id": "t3_tsv4il",
+            "parent_id": "t3_tsv4il",
+            "score": 1,
+            "stickied": false,
+            "author_name": "kizzie1337"
+        },
+        "i2uj773": {
+            "comment": "This is an interesting project. I enjoy reading about these things. \n\nDid you also publish your bachelor thesis? or is it just a project on GitHub? \n\nI don't know when you did your bachelor thesis, but some first google searches let me see that there are actually some malware datasets. Could be these were published after you needed them: \n\n* VirusShare and VirusSample datasets: [https://arxiv.org/abs/2111.15205](https://arxiv.org/abs/2111.15205)\n* malwarebazaar: [https://bazaar.abuse.ch/browse/](https://bazaar.abuse.ch/browse/)\n* SOREL-20M (built by Sophos): [https://arxiv.org/abs/2012.07634](https://arxiv.org/abs/2012.07634) \n* BODMAS [https://ieeexplore.ieee.org/abstract/document/9474321](https://ieeexplore.ieee.org/abstract/document/9474321)",
+            "timeStamp": "2022/03/31-06:56:40",
+            "id": "i2uj773",
+            "is_submitter": false,
+            "link_id": "t3_tsv4il",
+            "parent_id": "t3_tsv4il",
+            "score": 1,
+            "stickied": false,
+            "author_name": "I-Made-You-Read-This"
+        }
+    }
+}

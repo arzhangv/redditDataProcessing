@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "How to become a Hardware Security Specialist",
+        "score": 1,
+        "id": "efyl6l",
+        "commsNum": 1,
+        "timeStamp": "2019/12/26-10:00:31",
+        "author_name": "Z3r0s3c4",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.peerlyst.com/posts/how-to-become-a-hardware-security-specialist-sudhendu?trk=search_page_search_result"
+    },
+    "posts": {
+        "fc37lxe": {
+            "comment": "Fix your bot and spam your blog elsewhere",
+            "timeStamp": "2019/12/26-10:03:20",
+            "id": "fc37lxe",
+            "is_submitter": false,
+            "link_id": "t3_efyl6l",
+            "parent_id": "t3_efyl6l",
+            "score": 1,
+            "stickied": false,
+            "author_name": "No2Bencil"
+        }
+    }
+}

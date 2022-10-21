@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hello, I work as a IT sec Manager...\nIn the past, somehow or someone manage to infest an smtp alias of my company private mail server, and we (at least me) used that some kind of \u201cpassive\u201d honey to grab the lasted fresh malware. This was one my primary proactive ways to get new IOC of fresh malware for reporting and prevent on epo\\bluecoat proxy. Now we moving to gmail enterprise and no more fresh samples...\nSo the basic question: How can I get phishing mails?  Is there any tips? Browsing, requesting or registing warez, adult sites or maillists didn\u2019t work so far\u2026  \nThanks\n",
+        "title": "Some tips on getting fresh phishing malware mails?",
+        "score": 6,
+        "id": "5rey1p",
+        "commsNum": 8,
+        "timeStamp": "2017/02/01-03:25:03",
+        "author_name": "MrSteeLmmT",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 8,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5rey1p/some_tips_on_getting_fresh_phishing_malware_mails/"
+    },
+    "posts": {}
+}

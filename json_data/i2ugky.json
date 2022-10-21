@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "An angry windows 7 user suspects Microsoft Edge as a malware",
+        "score": 1,
+        "id": "i2ugky",
+        "commsNum": 1,
+        "timeStamp": "2020/08/03-03:11:49",
+        "author_name": "vajidsikand",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.newserector.com/an-angry-windows-7-user-suspects-microsoft-edge-as-a-malware"
+    },
+    "posts": {
+        "g07nac9": {
+            "comment": "Fuck off with your click bait titles.",
+            "timeStamp": "2020/08/03-07:45:12",
+            "id": "g07nac9",
+            "is_submitter": false,
+            "link_id": "t3_i2ugky",
+            "parent_id": "t3_i2ugky",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Robots_Never_Die"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "SO THIS SUB'S BOT IS PISSING ME OFF. I CANT SAY A QUESTION IN THIS SUB APPARENTALLY. So now for the actual s t a t e m e n t. The trackers are real question mark.",
+        "score": 1,
+        "id": "s7s8io",
+        "commsNum": 1,
+        "timeStamp": "2022/01/19-07:11:12",
+        "author_name": "PeckishParrot",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://i.redd.it/afqu6qifunc81.png"
+    },
+    "posts": {
+        "htbqhaf": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators **and be sure to include the link to the post** - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2022/01/19-07:11:13",
+            "id": "htbqhaf",
+            "is_submitter": false,
+            "link_id": "t3_s7s8io",
+            "parent_id": "t3_s7s8io",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

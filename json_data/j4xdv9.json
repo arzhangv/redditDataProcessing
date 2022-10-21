@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "[removed]",
+        "title": "Has anyone got an idiots guide to malware please?",
+        "score": 1,
+        "id": "j4xdv9",
+        "commsNum": 2,
+        "timeStamp": "2020/10/04-04:20:12",
+        "author_name": "norfolkench4nts",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/j4xdv9/has_anyone_got_an_idiots_guide_to_malware_please/"
+    },
+    "posts": {
+        "g7nx24a": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2020/10/04-04:20:13",
+            "id": "g7nx24a",
+            "is_submitter": false,
+            "link_id": "t3_j4xdv9",
+            "parent_id": "t3_j4xdv9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

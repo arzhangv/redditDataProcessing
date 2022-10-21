@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Two Years of Malware Research Slack Group - online presentations",
+        "score": 1,
+        "id": "dzl79h",
+        "commsNum": 6,
+        "timeStamp": "2019/11/21-07:51:32",
+        "author_name": "GelosSnake",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://malware-research.org/two-years-malware-research-slack-group-event-anniversery/"
+    },
+    "posts": {
+        "fjsermt": {
+            "comment": "Feel free to dm with your invite did not get approved",
+            "timeStamp": "2020/03/07-07:51:59",
+            "id": "fjsermt",
+            "is_submitter": true,
+            "link_id": "t3_dzl79h",
+            "parent_id": "t1_f9il6ts",
+            "score": 1,
+            "stickied": false,
+            "author_name": "GelosSnake"
+        },
+        "fjseqbz": {
+            "comment": "Feel free to dm with your invite did not get approved",
+            "timeStamp": "2020/03/07-07:51:48",
+            "id": "fjseqbz",
+            "is_submitter": true,
+            "link_id": "t3_dzl79h",
+            "parent_id": "t1_f8ax9p8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "GelosSnake"
+        },
+        "f9il6ts": {
+            "comment": "Same",
+            "timeStamp": "2019/12/02-18:23:41",
+            "id": "f9il6ts",
+            "is_submitter": false,
+            "link_id": "t3_dzl79h",
+            "parent_id": "t1_f8aub2a",
+            "score": 1,
+            "stickied": false,
+            "author_name": "SpiritalBullfrog"
+        },
+        "f8ax9p8": {
+            "comment": "I submitted my request",
+            "timeStamp": "2019/11/22-02:01:59",
+            "id": "f8ax9p8",
+            "is_submitter": false,
+            "link_id": "t3_dzl79h",
+            "parent_id": "t1_f8aub2a",
+            "score": 1,
+            "stickied": false,
+            "author_name": "_W0z"
+        },
+        "f8aub2a": {
+            "comment": "You can feel free to apply at: malware-research.org/slack",
+            "timeStamp": "2019/11/22-00:44:40",
+            "id": "f8aub2a",
+            "is_submitter": true,
+            "link_id": "t3_dzl79h",
+            "parent_id": "t1_f89ddwv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "GelosSnake"
+        },
+        "f89ddwv": {
+            "comment": "Will be checking this group out. Thanks.",
+            "timeStamp": "2019/11/21-13:19:49",
+            "id": "f89ddwv",
+            "is_submitter": false,
+            "link_id": "t3_dzl79h",
+            "parent_id": "t3_dzl79h",
+            "score": 1,
+            "stickied": false,
+            "author_name": "_W0z"
+        }
+    }
+}

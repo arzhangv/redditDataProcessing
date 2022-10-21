@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Am I essentially protected in my main OS from malicious javascript by using a VM ? I'm looking at using virtualbox on Win 10 and running a linux distro inside the VM. If I enable JS for a website while using the above can I bork my windows 10 to any degree?",
+        "title": "Does using a vitual machine protect against malicious javascript?",
+        "score": 1,
+        "id": "e8m4bo",
+        "commsNum": 1,
+        "timeStamp": "2019/12/09-21:06:08",
+        "author_name": "carebeartears",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/e8m4bo/does_using_a_vitual_machine_protect_against/"
+    },
+    "posts": {
+        "fad3ojy": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2019/12/09-21:06:09",
+            "id": "fad3ojy",
+            "is_submitter": false,
+            "link_id": "t3_e8m4bo",
+            "parent_id": "t3_e8m4bo",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

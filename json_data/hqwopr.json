@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Python Malware On The Rise",
+        "score": 1,
+        "id": "hqwopr",
+        "commsNum": 2,
+        "timeStamp": "2020/07/13-23:52:18",
+        "author_name": "TheCreecer",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.cyborgsecurity.com/python-malware-on-the-rise/"
+    },
+    "posts": {
+        "fy6kln6": {
+            "comment": "Hey there. This article was x-posted here, but I'm the author.\n\n&gt; It's a poor choice for cross-platform and the compiled size is massive as devs wouldn't want to worry about deps issues.\n\nThis is a central focus of the article, as I discuss the major drawbacks of python-based malware. However, Python actually has fantastic cross-platform support and with the ingenuity of tools like Nuitka seeing more popularity, cross-platform binary deployment is also becoming much easier. In addition, these Nuitka-based exectuables are a serious pain to RE.\n\n&gt; I love how the only stats referenced are actual developers using python. I haven't seen any uptick in python samples while seeing 2-3 million samples a day. So please use real research and data in the future.\n\nIt's not the only stats referenced, just the only image. The very first link referenced is to a whitepaper published in 2016 that has statistical research into 30 years of malware development: https://software.imdea.org/~juanca/papers/malsource_raid16.pdf\n\nIt's pretty long, but take a look at the table on page 4 and chart on page 12... You'll see the up-tick in Python malware over the past few years that makes it non-ignorable in the malware world. This study was conducted in 2016 and even since then Python has been ever-increasingly utilized for endpoint-based malware (see the \"into the wild\" section in my article). I agree this is an unusual trend, hence my writing the article. I do also agree that using standard compiled languages is quite obviously still dominant for malware seen in the wild. However, Python malware is certainly being used more &amp; more and this trend will absolutely continue.",
+            "timeStamp": "2020/07/15-13:33:32",
+            "id": "fy6kln6",
+            "is_submitter": false,
+            "link_id": "t3_hqwopr",
+            "parent_id": "t1_fy241le",
+            "score": 1,
+            "stickied": false,
+            "author_name": "vesche"
+        },
+        "fy241le": {
+            "comment": "While python is much more popular it's very unlikely to be used for malware more than it is already. It's a poor choice for cross-platform and the compiled size is massive as devs wouldn't want to worry about deps issues.   \n\n\nI love how the only stats referenced are actual developers using python. I haven't seen any uptick in python samples while seeing 2-3 million samples a day. So please use real research and data in the future.",
+            "timeStamp": "2020/07/14-10:53:01",
+            "id": "fy241le",
+            "is_submitter": false,
+            "link_id": "t3_hqwopr",
+            "parent_id": "t3_hqwopr",
+            "score": 10,
+            "stickied": false,
+            "author_name": "uTriple"
+        }
+    }
+}

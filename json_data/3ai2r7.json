@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hey guys,\n\n\nI'm currently going to (re-)build a malware analysis machine on my main PC. I've used VirtualBox for a while now, but i would like to get a bit better performance and i've read VMware seems to be a bit better?\n\n\nHaven't tested it yet, maybe you guys can help me up a bit?\n\n\nVbox runs fine, but VMware seems to be perform a bit better under Windows?\n\n\nOr would you alternatively install Linux on a partition, install vbox on linux and do it there?\n\n\nThanks.",
+        "title": "Creating malware analysis machine [HELP]",
+        "score": 3,
+        "id": "3ai2r7",
+        "commsNum": 2,
+        "timeStamp": "2015/06/20-04:28:48",
+        "author_name": "[deleted]",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/3ai2r7/creating_malware_analysis_machine_help/"
+    },
+    "posts": {}
+}

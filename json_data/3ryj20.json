@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Today I found out that my browser was redirecting me to http://netmahal.portalsepeti.com/?uid={74838cfd552a4752a1d432d712948851}&amp;amp;amp;amp;r=eg (changed uuid). And there were a couple of modified settings on both Chrome and Firefox. (For some reason I don't have internet explorer).\n\nI recreated my profiles but, they would always set the new tab to that hijacked URL. Using the everything app I searched for portalsepeti and saw that there were plugins for chrome being written. None of these plugins would show up on the addons page on either browser.\n\nUsing proc monitor, I saw that Explorer.exe was writing and reading constantly from that location. I checked the list of dll modules loaded by explorer.exe because earlier I saw it crashing with an error and restarting. \n\nI narrowed it down to: C:\\Users\\prozaker\\AppData\\Local\\Temp\\VSTmp\\explorerEx64.dll \n\nSeemed weird that this file was first created a few days ago, had very little information on the dll properties. And no copyright. \n\nI deleted it with the help of unlocker and taskmgr. I first tried to unlock it, which doesn't work because explorer is running. I left that unlocker window opened and then with task manager I ended the explorer process. I then I selected action 'delete' and unlock from the unlocker window.\n\nRestarted both firefox and chrome and both are redirect free. \n\nI did not save the dll for further analysis. But this was a tough one to hunt down, hope that if someone gets the same issue they at least know where the problem is and how to solve it for them. \n\n\nOS: windows 7\n",
+        "title": "Netmahal / netmahal.portalsepeti.com browser redirect via explorer.exe module extension",
+        "score": 10,
+        "id": "3ryj20",
+        "commsNum": 8,
+        "timeStamp": "2015/11/07-17:49:51",
+        "author_name": "prozaker",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 8,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/3ryj20/netmahal_netmahalportalsepeticom_browser_redirect/"
+    },
+    "posts": {}
+}

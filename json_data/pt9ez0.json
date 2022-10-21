@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hi\n\nI'm trying to figure out the encryption type for this data.  I'm sorry I have very limited information about it.\n\n 4055409383 = MweTnfYCUC  \n4055416545 = Xrca1i8EG8  \n4055467598 = AoE10xofzL  \n4174516169 = 0ynSSZ0cEb  \n4142815918 = DF9LzMPSdp  \n4142867545 = mXsJRzsWY4  \n3517516125 = 87s7M9nI5a",
+        "title": "Encryption method",
+        "score": 1,
+        "id": "pt9ez0",
+        "commsNum": 3,
+        "timeStamp": "2021/09/22-08:03:42",
+        "author_name": "antmar9041",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/pt9ez0/encryption_method/"
+    },
+    "posts": {
+        "hdzghh8": {
+            "comment": "Thank you for your help.  Unfortunilty this is all that was provided to me.",
+            "timeStamp": "2021/09/23-10:00:18",
+            "id": "hdzghh8",
+            "is_submitter": true,
+            "link_id": "t3_pt9ez0",
+            "parent_id": "t1_hdux4ed",
+            "score": 1,
+            "stickied": false,
+            "author_name": "antmar9041"
+        },
+        "hdv8bha": {
+            "comment": "You could try ciphey (look it up on github)",
+            "timeStamp": "2021/09/22-10:19:29",
+            "id": "hdv8bha",
+            "is_submitter": false,
+            "link_id": "t3_pt9ez0",
+            "parent_id": "t3_pt9ez0",
+            "score": 2,
+            "stickied": false,
+            "author_name": "sorhinco"
+        },
+        "hdux4ed": {
+            "comment": "you don't seem to have enough data here for this to be atomic.  the entropy of the output is much higher that that of the input.  as an example, the first three entries contain the same string for the first five characters of each entry, but the output does not match.  this suggests that perhaps there is some use for that first term (\"40554\") that you might be missing.  if you've pulled this out of a map or similar in asm, you might check the function to ensure it's not referencing other data structures elsewhere to fill this gap.",
+            "timeStamp": "2021/09/22-09:03:43",
+            "id": "hdux4ed",
+            "is_submitter": false,
+            "link_id": "t3_pt9ez0",
+            "parent_id": "t3_pt9ez0",
+            "score": 7,
+            "stickied": false,
+            "author_name": "authynym"
+        }
+    }
+}

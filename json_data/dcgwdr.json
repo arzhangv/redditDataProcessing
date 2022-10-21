@@ -1,0 +1,198 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "A few weeks ago, I got a warning from Avast about an file infected by Win32:Malware-gen in C:\\\\Windows\\\\Temp\\\\\\[a8ce5182-f65f-4fc1-8730-4f90640f19e8\\]. The supposedly infected file name was {d4c1935-bfba-45a9-8be0-93873d77e298}.dll. I deleted it. The next day, Avast warned me about the same file again, so I deleted it. Every single day since, it's been warning me about the same file in the same folder, and no matter how many times I delete it, it comes back. What are some of the potential causes of this issue? Could it be the fault of sites like Vimm's Lair? Was it something I downloaded? OR is Avast being stupid or giving me a false positive?",
+        "title": "Win32:Malware-gen",
+        "score": 1,
+        "id": "dcgwdr",
+        "commsNum": 14,
+        "timeStamp": "2019/10/02-14:30:03",
+        "author_name": "Liquid-Patriot",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 14,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/dcgwdr/win32malwaregen/"
+    },
+    "posts": {
+        "imlj0hk": {
+            "comment": "It will be already a good cleaning... and it is totally free.",
+            "timeStamp": "2022/08/31-17:40:35",
+            "id": "imlj0hk",
+            "is_submitter": false,
+            "link_id": "t3_dcgwdr",
+            "parent_id": "t1_imliw0x",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ChrisEpicKarma"
+        },
+        "imliw0x": {
+            "comment": "Hello,\n\nI suggest to do few specific scan with : [https://telecharger.malekal.com/download/adwcleaner/](https://telecharger.malekal.com/download/adwcleaner/)\n\n[Malwarebytes](https://telecharger.malekal.com/download/malwarebytes-anti-malware-version-gratuite/) :",
+            "timeStamp": "2022/08/31-17:39:42",
+            "id": "imliw0x",
+            "is_submitter": false,
+            "link_id": "t3_dcgwdr",
+            "parent_id": "t3_dcgwdr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ChrisEpicKarma"
+        },
+        "f35hxox": {
+            "comment": "[removed]",
+            "timeStamp": "2019/10/09-20:30:43",
+            "id": "f35hxox",
+            "is_submitter": false,
+            "link_id": "t3_dcgwdr",
+            "parent_id": "t3_dcgwdr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "f2fjrvc": {
+            "comment": "[removed]",
+            "timeStamp": "2019/10/04-12:53:08",
+            "id": "f2fjrvc",
+            "is_submitter": false,
+            "link_id": "t3_dcgwdr",
+            "parent_id": "t3_dcgwdr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "f29qhl2": {
+            "comment": "Uninstall chrome/firefox, then reinstall it again and see if the same pop up comes back, if it doesnt, uninstall avast and get an actual good antivirus like Kaspersky.",
+            "timeStamp": "2019/10/03-04:36:51",
+            "id": "f29qhl2",
+            "is_submitter": false,
+            "link_id": "t3_dcgwdr",
+            "parent_id": "t3_dcgwdr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "EndangeredPootis"
+        },
+        "f29bpja": {
+            "comment": "Do a full scan, another process is being executed to generate the file after reboot, meaning there are more malicious files. You can also use Process Explorer to track which process wrote the file.",
+            "timeStamp": "2019/10/03-01:14:09",
+            "id": "f29bpja",
+            "is_submitter": false,
+            "link_id": "t3_dcgwdr",
+            "parent_id": "t3_dcgwdr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "payne747"
+        },
+        "f2890ar": {
+            "comment": "eset nod32, it's an antivirus. You can scan your system without having to install an anti-virus permanently. I've worked in malware research and honestly eset has the best engine out there.",
+            "timeStamp": "2019/10/02-15:32:41",
+            "id": "f2890ar",
+            "is_submitter": false,
+            "link_id": "t3_dcgwdr",
+            "parent_id": "t1_f288v6p",
+            "score": 1,
+            "stickied": false,
+            "author_name": "0x3fff0000"
+        },
+        "f288v6p": {
+            "comment": "eset?",
+            "timeStamp": "2019/10/02-15:31:03",
+            "id": "f288v6p",
+            "is_submitter": true,
+            "link_id": "t3_dcgwdr",
+            "parent_id": "t1_f288iu6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Liquid-Patriot"
+        },
+        "f288iu6": {
+            "comment": "The fact that the malware is reappearing means it wasn't properly cleaned. Run eset's online scanner against your system, that might work.",
+            "timeStamp": "2019/10/02-15:27:05",
+            "id": "f288iu6",
+            "is_submitter": false,
+            "link_id": "t3_dcgwdr",
+            "parent_id": "t1_f288ay9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "0x3fff0000"
+        },
+        "f288ay9": {
+            "comment": "They aren't .exe's. I try to avoid those.",
+            "timeStamp": "2019/10/02-15:24:33",
+            "id": "f288ay9",
+            "is_submitter": true,
+            "link_id": "t3_dcgwdr",
+            "parent_id": "t1_f2880v5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Liquid-Patriot"
+        },
+        "f2880v5": {
+            "comment": "Never run executables (exes) until you have first checked virustotal.com",
+            "timeStamp": "2019/10/02-15:21:19",
+            "id": "f2880v5",
+            "is_submitter": false,
+            "link_id": "t3_dcgwdr",
+            "parent_id": "t1_f28764t",
+            "score": 1,
+            "stickied": false,
+            "author_name": "0x3fff0000"
+        },
+        "f287h4z": {
+            "comment": "The malware may have come there if the games weren\u2019t clean",
+            "timeStamp": "2019/10/02-15:15:09",
+            "id": "f287h4z",
+            "is_submitter": false,
+            "link_id": "t3_dcgwdr",
+            "parent_id": "t1_f28764t",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Wizard_OfDarkness"
+        },
+        "f28764t": {
+            "comment": "Vimm's lair is a site to get old games. shhhhhh",
+            "timeStamp": "2019/10/02-15:11:41",
+            "id": "f28764t",
+            "is_submitter": true,
+            "link_id": "t3_dcgwdr",
+            "parent_id": "t1_f286orp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Liquid-Patriot"
+        },
+        "f2874d0": {
+            "comment": "[removed]",
+            "timeStamp": "2019/10/02-15:11:08",
+            "id": "f2874d0",
+            "is_submitter": false,
+            "link_id": "t3_dcgwdr",
+            "parent_id": "t1_f286dee",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "f286orp": {
+            "comment": "The only thing I can think of is that you may have another file that check to see if the malware is in a directory, if not, it writes the file there. Idk what Vimm\u2019s lair is so idk if that could be part of your issue",
+            "timeStamp": "2019/10/02-15:06:11",
+            "id": "f286orp",
+            "is_submitter": false,
+            "link_id": "t3_dcgwdr",
+            "parent_id": "t3_dcgwdr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Wizard_OfDarkness"
+        },
+        "f286dee": {
+            "comment": "[removed]",
+            "timeStamp": "2019/10/02-15:02:38",
+            "id": "f286dee",
+            "is_submitter": false,
+            "link_id": "t3_dcgwdr",
+            "parent_id": "t3_dcgwdr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

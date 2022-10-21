@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I came up with an interesting concept and was wondering if something like this exists or has existed in the wild. Obviously botnets have insane distributed computing power. With this a botnet could share a database of vital binaries running on infected machines. An algorithm could then select binaries to target based on various factors and then use the resources of the network to fuzz the binary and record bugs/crashes. From here the herder (assuming he is not a kiddie) can turn the bug into an exploit assuming it is an exploitable crash and then add this to the propagation mechanism of the malware and the network targets the next binary in the list. This theoretically would result in more infections. More infections result in more computing power, more computing power results in faster bug discovery, more exploits and the cycle continues. \n\nThis seems like it would result in a highly scalable botnet and seems like a good way of utilising cpu resources of the machine. I understand that the incentive for this may be low as crypto mining etc is more directly profitable however in the long term this seems like it would pay dividends. More bots on the network and exclusive access to any zero days found. \n\nTldr: does fuzzware exist and if so what are the limitations of this.",
+        "title": "Fuzzware",
+        "score": 1,
+        "id": "rfcj9k",
+        "commsNum": 0,
+        "timeStamp": "2021/12/13-02:12:31",
+        "author_name": "ryan75195",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/rfcj9k/fuzzware/"
+    },
+    "posts": {}
+}

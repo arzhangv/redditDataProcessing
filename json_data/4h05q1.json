@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Eset\u2019s LiveGrid telemetry shows a spike in detections of the JS/Danger.ScriptAttachment malicious code, which tries to download and install various malware variants to the intended victims\u2019 machines.",
+        "score": 8,
+        "id": "4h05q1",
+        "commsNum": 0,
+        "timeStamp": "2016/04/29-09:20:20",
+        "author_name": "Quincy_vonavon4_",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.computerweekly.com/news/450294545/Ransomware-makes-up-a-quarter-and-rising-of-UK-cyber-attacks-finds-research"
+    },
+    "posts": {}
+}

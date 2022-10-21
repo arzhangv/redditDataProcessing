@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I work as a sysadmin and one of my users was emailed a word doc which had macros in it, clearly a virus, so me being me and a VBA dork I delved in, I could not resist.\n\nThe project was password protected in the VBA editor, no sweat, I cracked the password and got into the modules, and I don't know if it is my dyslexia or what, but I have been coding in VB6 and VBA for over 11 years and I cannot follow this code, the variable names are atrocious and just, confusing.\n\nSo, if anyone is up for it, here is the code from one of the modules on PasteBin, I cleaned up the code a little since the formatting was complete crap in the source files.\n\nModule 1:\n\nhttp://pastebin.com/9rFXExtz\n\nModule 2:\n\nhttp://pastebin.com/xZukep4W\n\nMain Word Doc form in VBA:\n\nhttp://pastebin.com/ceDzfd03",
+        "title": "Anyone up for helping me figure out what this VBA macro virus does?",
+        "score": 6,
+        "id": "3hi9of",
+        "commsNum": 13,
+        "timeStamp": "2015/08/18-15:35:17",
+        "author_name": "DisITGuy",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 13,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/3hi9of/anyone_up_for_helping_me_figure_out_what_this_vba/"
+    },
+    "posts": {}
+}

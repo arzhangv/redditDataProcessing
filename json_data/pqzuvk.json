@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I was going to download a pack of vst's and then i got this, which is kinda weird since i paid for the original product that i downloaded, what should i do?\n\nhttps://preview.redd.it/tcvkgd4iido71.png?width=463&amp;format=png&amp;auto=webp&amp;s=90449caf5aabca90b59d3c3579059b889b4af42f",
+        "title": "Roland Cloud vst's trojan",
+        "score": 1,
+        "id": "pqzuvk",
+        "commsNum": 4,
+        "timeStamp": "2021/09/18-19:47:04",
+        "author_name": "nostalgicokkk",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/pqzuvk/roland_cloud_vsts_trojan/"
+    },
+    "posts": {
+        "hdh6y68": {
+            "comment": "I don't know. The detection is unrelated to whatever you were downloading at the time, so I have nothing to go on.",
+            "timeStamp": "2021/09/19-09:10:15",
+            "id": "hdh6y68",
+            "is_submitter": false,
+            "link_id": "t3_pqzuvk",
+            "parent_id": "t1_hdfopo1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "rainrat"
+        },
+        "hdfqxjm": {
+            "comment": "[removed]",
+            "timeStamp": "2021/09/19-00:29:06",
+            "id": "hdfqxjm",
+            "is_submitter": false,
+            "link_id": "t3_pqzuvk",
+            "parent_id": "t1_hdfopo1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hdfopo1": {
+            "comment": "so can i extract the zip file?",
+            "timeStamp": "2021/09/19-00:00:28",
+            "id": "hdfopo1",
+            "is_submitter": true,
+            "link_id": "t3_pqzuvk",
+            "parent_id": "t1_hdf5qon",
+            "score": 1,
+            "stickied": false,
+            "author_name": "nostalgicokkk"
+        },
+        "hdf5qon": {
+            "comment": "A \"PUA\" is a Potentially Unwanted Application, not a Trojan. It did offer or bundle some grey software in the past ( https://www.ghacks.net/2019/12/09/utorrent-is-flagged-as-malicious-by-several-antivirus-engines-currently/ ) including a cryptocurrency miner ( https://www.theverge.com/2015/3/6/8161251/utorrents-secret-bitcoin-miner-adware-malware ). I don't know if the bundling is still going on, whether Microsoft just has a long memory for software publishers that have done grey bundling, or if it's detecting torrent clients for other reason (such as being an easy way to get an infection into an organization).\n\nIt looks like, from it being found in the \"updates\" folder, that the detection has nothing to do with anything you were downloading, and your Bittorrent client was trying to update in the background.",
+            "timeStamp": "2021/09/18-20:41:14",
+            "id": "hdf5qon",
+            "is_submitter": false,
+            "link_id": "t3_pqzuvk",
+            "parent_id": "t3_pqzuvk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "rainrat"
+        }
+    }
+}

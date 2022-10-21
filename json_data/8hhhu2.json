@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I was testing my basic beginner reverse (compiled from python3 )shell (legally) and when I ran the exe on the windows 10 machine it immediately detected it, which i found odd. Does it flag it if it opens ports or something?",
+        "title": "How was windows AV able detect my reverse shell executable?",
+        "score": 1,
+        "id": "8hhhu2",
+        "commsNum": 0,
+        "timeStamp": "2018/05/06-12:13:09",
+        "author_name": "ZamWessel_38",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8hhhu2/how_was_windows_av_able_detect_my_reverse_shell/"
+    },
+    "posts": {}
+}

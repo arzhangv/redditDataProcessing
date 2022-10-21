@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "PETYA ransomware overwrites MBR causing a blue screen of death",
+        "score": 1,
+        "id": "4c4zov",
+        "commsNum": 0,
+        "timeStamp": "2016/03/27-01:53:45",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/45678/malware/petya-ransomware.html"
+    },
+    "posts": {}
+}

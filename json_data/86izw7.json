@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I am in the process of setting up a basic Malware sanbox/analysis lab on an ESXi host which will have a few different flavours of Windows installed. Once I have the OS and some tools installed I plan on take snapshots so that I can easily revert to a fresh instance once Malware runs it's course.\n\nMy question is whether I should be installing windows updates before taking the snapshot or is it normally best practice to leave the OS in an unpatched state? Curious to know how others have setup their sandbox machines.\n\nThanks.",
+        "title": "Malware Sanbox - Windows updates or no?",
+        "score": 7,
+        "id": "86izw7",
+        "commsNum": 6,
+        "timeStamp": "2018/03/23-01:04:42",
+        "author_name": "MrRiddell",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/86izw7/malware_sanbox_windows_updates_or_no/"
+    },
+    "posts": {}
+}

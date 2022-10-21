@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Not sure if this is the right place to post this. I'm thinking that this is Ryuk Ransomware. I believe it was in the MAM VAST software that we use through work, at Mills Fleet Farm. Anyone have any idea what could be happening? Is our information at risk?",
+        "score": 1,
+        "id": "e9q4gq",
+        "commsNum": 1,
+        "timeStamp": "2019/12/12-08:52:37",
+        "author_name": "Eskeetit34",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://i.redd.it/tf8oek3tf8441.jpg"
+    },
+    "posts": {
+        "fakmf8c": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2019/12/12-08:52:37",
+            "id": "fakmf8c",
+            "is_submitter": false,
+            "link_id": "t3_e9q4gq",
+            "parent_id": "t3_e9q4gq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

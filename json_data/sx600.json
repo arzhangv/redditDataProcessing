@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Just thought I pass along a script I found that will automatically extract and decrypt the files contained within a McAfee BUP quarantined file. Came in handy while analyzing how an user got infected issue. \n\nhttp://packetstormsecurity.org/files/98464/McAfee-Virusscan-Antivirus-Quarantined-File-Restore-Utility-1.0.html",
+        "title": "Using Python to extract files from McAfee BUP Quarantined File",
+        "score": 8,
+        "id": "sx600",
+        "commsNum": 3,
+        "timeStamp": "2012/04/28-12:55:45",
+        "author_name": "BPCT",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": null,
+        "url": "http://www.reddit.com/r/Malware/comments/sx600/using_python_to_extract_files_from_mcafee_bup/"
+    },
+    "posts": {}
+}

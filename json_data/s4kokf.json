@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Symptoms:\n\nWhen you start up Chrome, it apparently behaves normally and is clean.  However, in 2-5 minutes, it will always reload itself: now, it has an extension called \"Properties\". (And  extensions/settings may itself be inaccessible.)\n\nThis hijack extension causes all searchbar queries to redirect to: \"[hxxps://tobepartou.com](https://tobepartou.com)?\\[your search term\\]\" \\[https not hxxps\\].  Which redirects again to a Bing search.  \n\nSomething is running outside of Chrome to get it to start up as a normal installation and then reload itself as an infected instance. However, with doing some preliminary digging, I dont find anything in: \n\n\\`HKEY\\_LOCAL\\_MACHINE\\\\Software\\\\Microsoft\\\\Windows\\\\CurrentVersion\\\\Run\\`\n\n\\`HKEY\\_CURRENT\\_USER\\\\Software\\\\Microsoft\\\\Windows\\\\CurrentVersion\\\\Run\\`  \n\n  \nSupposedly, from investigations on the web, the file that causes the initial infection is called CS\\_Installer.exe.\n\nAnyone have any good results in finding/deleting tobepartou? (Yes, I could go to a third party software package, but I have a preference for doing this sort of thing manually.)  \n\nAny/all information appreciated. Thanks.",
+        "title": "tobepartou Chrome browser hijack",
+        "score": 1,
+        "id": "s4kokf",
+        "commsNum": 0,
+        "timeStamp": "2022/01/15-05:48:08",
+        "author_name": "10010101110011011010",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/s4kokf/tobepartou_chrome_browser_hijack/"
+    },
+    "posts": {}
+}

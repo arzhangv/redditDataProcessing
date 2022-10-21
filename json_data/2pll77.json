@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Wiper Malware \u2013 A Detection Deep Dive",
+        "score": 10,
+        "id": "2pll77",
+        "commsNum": 0,
+        "timeStamp": "2014/12/17-10:35:18",
+        "author_name": "craiwill",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://blogs.cisco.com/security/talos/wiper-malware"
+    },
+    "posts": {}
+}

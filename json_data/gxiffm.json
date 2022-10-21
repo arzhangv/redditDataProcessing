@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I am looking for detailed explanation of malware analysis where certain portion of the malware is encoded/encrypted. I am interested in understanding how to analyze such malware, especially dynamic analysis parts where we allow the malware to complete the decoding process.\n\n  Would be great if someone can point to resources which give more explanation, thanks.",
+        "title": "Searching for analysis walk-through for Malware with encoded/encrypted components",
+        "score": 1,
+        "id": "gxiffm",
+        "commsNum": 3,
+        "timeStamp": "2020/06/05-19:20:37",
+        "author_name": "Nephylym",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/gxiffm/searching_for_analysis_walkthrough_for_malware/"
+    },
+    "posts": {
+        "ft32q84": {
+            "comment": "[removed]",
+            "timeStamp": "2020/06/06-01:38:16",
+            "id": "ft32q84",
+            "is_submitter": false,
+            "link_id": "t3_gxiffm",
+            "parent_id": "t3_gxiffm",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ft2ln4g": {
+            "comment": "Here some of ways malware authors tend to hide / obfuscate data so its harder to fingerprint the malware\n\n[https://www.sans.org/blog/tools-for-examining-xor-obfuscation-for-malware-analysis/](https://www.sans.org/blog/tools-for-examining-xor-obfuscation-for-malware-analysis/)\n\n[https://isc.sans.edu/forums/diary/Malware+and+XOR+Part+1/22486/](https://isc.sans.edu/forums/diary/Malware+and+XOR+Part+1/22486/)\n\n[https://blog.malwarebytes.com/threat-analysis/2013/03/obfuscation-malwares-best-friend/](https://blog.malwarebytes.com/threat-analysis/2013/03/obfuscation-malwares-best-friend/)\n\n[https://blog.sucuri.net/2017/08/malware-decoding-step-step-guide.html](https://blog.sucuri.net/2017/08/malware-decoding-step-step-guide.html)",
+            "timeStamp": "2020/06/05-23:54:37",
+            "id": "ft2ln4g",
+            "is_submitter": false,
+            "link_id": "t3_gxiffm",
+            "parent_id": "t3_gxiffm",
+            "score": 1,
+            "stickied": false,
+            "author_name": "vinumsv"
+        },
+        "ft2gkt5": {
+            "comment": "[removed]",
+            "timeStamp": "2020/06/05-23:19:38",
+            "id": "ft2gkt5",
+            "is_submitter": false,
+            "link_id": "t3_gxiffm",
+            "parent_id": "t3_gxiffm",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

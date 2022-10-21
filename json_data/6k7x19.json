@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[deleted]",
+        "title": "A very in-depth technical breakdown of NotPetya",
+        "score": 1,
+        "id": "6k7x19",
+        "commsNum": 0,
+        "timeStamp": "2017/06/29-05:12:18",
+        "author_name": "[deleted]",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.carbonblack.com/2017/06/28/carbon-black-threat-research-technical-analysis-petya-notpetya-ransomware/"
+    },
+    "posts": {}
+}

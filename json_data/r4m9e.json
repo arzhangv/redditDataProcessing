@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Evading antivirus by exploiting file-parsing vulnerabilities",
+        "score": 8,
+        "id": "r4m9e",
+        "commsNum": 1,
+        "timeStamp": "2012/03/19-21:10:40",
+        "author_name": "94c3",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": null,
+        "url": "http://seclists.org/bugtraq/2012/Mar/88"
+    },
+    "posts": {}
+}

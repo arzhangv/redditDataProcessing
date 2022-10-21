@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "A virus at this company has hidden a lot of files not all but a lot and renamed all the files with a v in the start. For example instead of excel.exe it is vexcel.exe. I have ran an AVG scan, ESET online scanner, TDSSKiller, rogue killer. Nothing seems to be working. After I renamed them all The virus renamed them back. Also I have already deleted the fake programs the virus created. This is only happening on 3 workstations.\nAny help would be appreciated.",
+        "title": "Virus hid files and renamed them with the letter V",
+        "score": 0,
+        "id": "3t4iq5",
+        "commsNum": 6,
+        "timeStamp": "2015/11/16-22:16:18",
+        "author_name": "rygerious",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/3t4iq5/virus_hid_files_and_renamed_them_with_the_letter_v/"
+    },
+    "posts": {}
+}

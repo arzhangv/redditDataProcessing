@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Malware Shellbot is Now Capable of Shutting Down Other Miners",
+        "score": 12,
+        "id": "bk9x5r",
+        "commsNum": 3,
+        "timeStamp": "2019/05/03-08:43:18",
+        "author_name": "cyborg_Finance123",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://cryptolauren.com/2019/05/02/malware-shellbot-is-now-capable-of-shutting-down-other-miners/"
+    },
+    "posts": {
+        "emgbhrr": {
+            "comment": "I am curious what kind of devices yo these types of malware end up attacking?",
+            "timeStamp": "2019/05/03-17:45:07",
+            "id": "emgbhrr",
+            "is_submitter": false,
+            "link_id": "t3_bk9x5r",
+            "parent_id": "t3_bk9x5r",
+            "score": 1,
+            "stickied": false,
+            "author_name": "forkling9"
+        },
+        "emg3xht": {
+            "comment": "There\u2019s no way the original Shellbot could have been mining Monero back in 2005 since Monero was created in 2014. This is what happens when your technical writers don\u2019t know their tech.",
+            "timeStamp": "2019/05/03-15:59:49",
+            "id": "emg3xht",
+            "is_submitter": false,
+            "link_id": "t3_bk9x5r",
+            "parent_id": "t3_bk9x5r",
+            "score": 4,
+            "stickied": false,
+            "author_name": "tonythegoose"
+        },
+        "emfklo8": {
+            "comment": "How is this news? Cryptominer scripts almost always try to shut down well known processes from competing miners, and often previous instances of themselves.",
+            "timeStamp": "2019/05/03-12:12:47",
+            "id": "emfklo8",
+            "is_submitter": false,
+            "link_id": "t3_bk9x5r",
+            "parent_id": "t3_bk9x5r",
+            "score": 3,
+            "stickied": false,
+            "author_name": "krypt0kn1gh7"
+        }
+    }
+}

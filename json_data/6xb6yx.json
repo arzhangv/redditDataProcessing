@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Hacker Tactics - Part 1: Domain Generation Algorithms",
+        "score": 1,
+        "id": "6xb6yx",
+        "commsNum": 0,
+        "timeStamp": "2017/08/31-17:57:49",
+        "author_name": "del_hack",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.anomali.com/blog/hacker-tactics-part-1-domain-generation-algorithms"
+    },
+    "posts": {}
+}

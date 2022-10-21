@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Using Dban and Rufus to nuke a drive infested with malware. Need help. I try to load Dban from my external hard drive and the drive just doesn't show. I change my boot order, nothing.\n\nI try to use Rufus on an internal drive. Nothing.\n\nI've been trying to fix my computer for weeks and I'm seriously losing hope here.",
+        "title": "Trying to nuke a drive",
+        "score": 1,
+        "id": "by2azt",
+        "commsNum": 2,
+        "timeStamp": "2019/06/07-18:08:24",
+        "author_name": "FreudianDuck",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/by2azt/trying_to_nuke_a_drive/"
+    },
+    "posts": {
+        "eqc1z92": {
+            "comment": "maybe you should ask a different subreddit",
+            "timeStamp": "2019/06/07-19:27:33",
+            "id": "eqc1z92",
+            "is_submitter": false,
+            "link_id": "t3_by2azt",
+            "parent_id": "t3_by2azt",
+            "score": 1,
+            "stickied": true,
+            "author_name": "edward_snowedin"
+        },
+        "eqbth56": {
+            "comment": "Every time I boot from the external it tells me there isn't an OS",
+            "timeStamp": "2019/06/07-18:09:08",
+            "id": "eqbth56",
+            "is_submitter": true,
+            "link_id": "t3_by2azt",
+            "parent_id": "t3_by2azt",
+            "score": 1,
+            "stickied": false,
+            "author_name": "FreudianDuck"
+        }
+    }
+}

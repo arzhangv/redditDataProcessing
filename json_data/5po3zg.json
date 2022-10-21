@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "BankBot, an Android malware based on a source code leaked online",
+        "score": 1,
+        "id": "5po3zg",
+        "commsNum": 0,
+        "timeStamp": "2017/01/23-03:25:07",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/55586/malware/bankbot-android-malware.html"
+    },
+    "posts": {}
+}

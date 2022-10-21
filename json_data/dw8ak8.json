@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Can anyone please help me to find the VirusTotal\u2019s API to get subscription user\u2019s quota usage?\n\nSomewhere I found the below details should work but didn\u2019t:\n\nURL: https://www.virustotal.com/api/v3/users/&lt;USER_NAME&gt;/intelligence_quota_group\n\nrequest header:  key (X-Apikey) value (api-key)",
+        "title": "VirusTotal API to check user\u2019s quota usage",
+        "score": 1,
+        "id": "dw8ak8",
+        "commsNum": 1,
+        "timeStamp": "2019/11/14-03:32:47",
+        "author_name": "johnnoah06",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/dw8ak8/virustotal_api_to_check_users_quota_usage/"
+    },
+    "posts": {
+        "f7lbqtt": {
+            "comment": "`curl --request GET --url https://www.virustotal.com/api/v3/groups/carb_org --header \"x-apikey: $VTapikey\"`  unfortunately it only works with the version 3 of the API. I was just talking to VT Support over this.",
+            "timeStamp": "2019/11/15-08:57:26",
+            "id": "f7lbqtt",
+            "is_submitter": false,
+            "link_id": "t3_dw8ak8",
+            "parent_id": "t3_dw8ak8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "quasarcannon"
+        }
+    }
+}

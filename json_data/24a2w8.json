@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Google yields a few small complaints but nothing majorly informative.  A while back we saw a bunch of infections for [BetterSurf](https://www.microsoft.com/security/portal/threat/Encyclopedia/Entry.aspx?Name=Adware:Win32/BetterSurf#tab=2) popping up on PCs.  While investing this I saw that programs such as MediaViewer, VideoViewer, and such were also installed.\n\nI did some searching in Palo Alto's URL logs for these names and got a bunch of hits from jsutils.net and jscripts.org.   \n\nwww.jsutils.net/ext.js?c=6599&amp;ext=MediaViewV1alpha2182\n\nwww.jscripts.org/ext.js?c=7770&amp;ext=MediaBuzzV1mode7344\n\nwww.jscripts.org/ext.js?c=7026&amp;ext=MediaWatchV1home304\n\netc\n\nThe scripts look like they actually pull more scripts from a bunch of other sites then run them on the webpage.  \n\nPalo Alto also detects hits to jsutils and jscripts as \"SPNR.Gen Command And Control Traffic\" since it's phoning in so many hits to the page. \n\nDue to the lack of any results on Google I was hoping someone here had some insight on where this is coming from.  I'm guessing a rogue browser extension is loading it into every page.   Has anyone dealt with this?",
+        "title": "Adware involving jsutils.net and jscripts.org?",
+        "score": 0,
+        "id": "24a2w8",
+        "commsNum": 0,
+        "timeStamp": "2014/04/29-07:44:51",
+        "author_name": "[deleted]",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/24a2w8/adware_involving_jsutilsnet_and_jscriptsorg/"
+    },
+    "posts": {}
+}

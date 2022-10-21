@@ -1,0 +1,176 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": null,
+        "title": "Does someone knows wtf is this malware ? i got rid of it with a restore point, but what is this ?",
+        "score": 0,
+        "id": "6s43rr",
+        "commsNum": 14,
+        "timeStamp": "2017/08/07-00:44:47",
+        "author_name": "seekgermangf",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 14,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://i.redd.it/56nbr8sus9ez.png"
+    },
+    "posts": {
+        "dlcjxsc": {
+            "comment": "Please read the sidebar before posting in this sub. This is not a place for tech support. Removed. ",
+            "timeStamp": "2017/08/08-14:01:40",
+            "id": "dlcjxsc",
+            "is_submitter": false,
+            "link_id": "t3_6s43rr",
+            "parent_id": "t3_6s43rr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "g0dmoney"
+        },
+        "dlbqv6v": {
+            "comment": "Scareware perhaps, or a keylogger/RAT that attempts to make itself useful so that you don't remove it. It could scan your system for unprotected passwords, WiFi passwords and credit card numbers.",
+            "timeStamp": "2017/08/08-04:55:34",
+            "id": "dlbqv6v",
+            "is_submitter": false,
+            "link_id": "t3_6s43rr",
+            "parent_id": "t3_6s43rr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "conmarap"
+        },
+        "dlb0q5r": {
+            "comment": "If you manage to find the location of where you downloaded that version of Chrome drop it in here somewhere. If we can get a hold of that it may help trying to figure out what malware variant it was. Or if you've still got the Chrome exe on DiskStation drop in here an MD5 of it, but it sounds like this maybe gone. ",
+            "timeStamp": "2017/08/07-16:10:43",
+            "id": "dlb0q5r",
+            "is_submitter": false,
+            "link_id": "t3_6s43rr",
+            "parent_id": "t1_dlawjke",
+            "score": 1,
+            "stickied": false,
+            "author_name": "j_lemz"
+        },
+        "dlawjke": {
+            "comment": "Nope, but i was searching for a save game from (sakura games) in an unknown site",
+            "timeStamp": "2017/08/07-14:46:04",
+            "id": "dlawjke",
+            "is_submitter": true,
+            "link_id": "t3_6s43rr",
+            "parent_id": "t1_dla1b4c",
+            "score": 1,
+            "stickied": false,
+            "author_name": "seekgermangf"
+        },
+        "dlateaa": {
+            "comment": "Pretty sure it's a wipe at this point.",
+            "timeStamp": "2017/08/07-13:47:18",
+            "id": "dlateaa",
+            "is_submitter": false,
+            "link_id": "t3_6s43rr",
+            "parent_id": "t3_6s43rr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Nihilist_Servo"
+        },
+        "dlamcv0": {
+            "comment": "whoa scary, i think its a good thing that hacker can only use win10 in russian instead of english...",
+            "timeStamp": "2017/08/07-11:44:07",
+            "id": "dlamcv0",
+            "is_submitter": false,
+            "link_id": "t3_6s43rr",
+            "parent_id": "t3_6s43rr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "shesharp"
+        },
+        "dla69qz": {
+            "comment": "Install malwarebytes (clicking by common sense) and scan your system.",
+            "timeStamp": "2017/08/07-06:49:24",
+            "id": "dla69qz",
+            "is_submitter": false,
+            "link_id": "t3_6s43rr",
+            "parent_id": "t3_6s43rr",
+            "score": 0,
+            "stickied": false,
+            "author_name": "nickhudsonincs"
+        },
+        "dla4lsc": {
+            "comment": "Yeah, there is no way I would ever use it again without wiping it.  A simple restore wouldn't do.",
+            "timeStamp": "2017/08/07-06:08:47",
+            "id": "dla4lsc",
+            "is_submitter": false,
+            "link_id": "t3_6s43rr",
+            "parent_id": "t1_dla0yio",
+            "score": 3,
+            "stickied": false,
+            "author_name": "rob22202"
+        },
+        "dla2red": {
+            "comment": "Just a guess, but if the malware provided remote desktop connectivity, the hacker on the remote end may have switched your desktop UI to a language they can read.",
+            "timeStamp": "2017/08/07-05:15:30",
+            "id": "dla2red",
+            "is_submitter": false,
+            "link_id": "t3_6s43rr",
+            "parent_id": "t3_6s43rr",
+            "score": 9,
+            "stickied": false,
+            "author_name": "mortgarra"
+        },
+        "dla1b4c": {
+            "comment": "Do you remember where you downloaded the version of Chrome from?",
+            "timeStamp": "2017/08/07-04:24:31",
+            "id": "dla1b4c",
+            "is_submitter": false,
+            "link_id": "t3_6s43rr",
+            "parent_id": "t1_dl9wd6w",
+            "score": 4,
+            "stickied": false,
+            "author_name": "j_lemz"
+        },
+        "dla18ea": {
+            "comment": "This malware looks like a particularly nasty piece of invasive software that is known as windows 10. Best course of action is a dose of Linux, perhaps Ubuntu or Fedora ...",
+            "timeStamp": "2017/08/07-04:21:44",
+            "id": "dla18ea",
+            "is_submitter": false,
+            "link_id": "t3_6s43rr",
+            "parent_id": "t3_6s43rr",
+            "score": 32,
+            "stickied": false,
+            "author_name": "moipersoin"
+        },
+        "dla0yio": {
+            "comment": "This machine is hosed!",
+            "timeStamp": "2017/08/07-04:11:08",
+            "id": "dla0yio",
+            "is_submitter": false,
+            "link_id": "t3_6s43rr",
+            "parent_id": "t1_dla0676",
+            "score": 3,
+            "stickied": false,
+            "author_name": "russianhacker968"
+        },
+        "dla0676": {
+            "comment": "You may wanna read the sidebar",
+            "timeStamp": "2017/08/07-03:38:40",
+            "id": "dla0676",
+            "is_submitter": false,
+            "link_id": "t3_6s43rr",
+            "parent_id": "t3_6s43rr",
+            "score": 6,
+            "stickied": false,
+            "author_name": "Haroon552"
+        },
+        "dl9wd6w": {
+            "comment": "It turned my appearance into this theme, and added russian.\n\nWindows explorer stayed in english, so i ve been able (windows + r) to use cmd and take a restore point, but the whole system was 99% .\nslower.\n\nIt installed a malware version of chromium with 3/4 add-ons (didnt screenshooted it).",
+            "timeStamp": "2017/08/07-00:47:54",
+            "id": "dl9wd6w",
+            "is_submitter": true,
+            "link_id": "t3_6s43rr",
+            "parent_id": "t3_6s43rr",
+            "score": 4,
+            "stickied": false,
+            "author_name": "seekgermangf"
+        }
+    }
+}

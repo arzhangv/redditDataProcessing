@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I know there are a bunch of posts that have some good databases of malware; I'm wondering if anyone has anything that will infect a host and only live in that hosts memory. I'm doing some research and need something that doesn't write to the disk. Any help would be appreciated!",
+        "title": "NEED (sneaky) Malware!",
+        "score": 0,
+        "id": "2223kz",
+        "commsNum": 6,
+        "timeStamp": "2014/04/02-16:44:14",
+        "author_name": "sdv1225",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2223kz/need_sneaky_malware/"
+    },
+    "posts": {}
+}

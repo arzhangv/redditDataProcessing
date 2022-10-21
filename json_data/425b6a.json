@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Linux.Encoder.0 technical writeup: a story about light-weight cryptanalysis and blind reverse engineering",
+        "score": 10,
+        "id": "425b6a",
+        "commsNum": 5,
+        "timeStamp": "2016/01/22-04:28:12",
+        "author_name": "Maijin",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://labs.bitdefender.com/wp-content/uploads/2015/11/1251711000741210279.pdf"
+    },
+    "posts": {}
+}

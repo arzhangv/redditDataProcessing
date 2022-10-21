@@ -1,0 +1,187 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "My conputer got infected and all of the files are encrypted using a online key. Please help me recover it",
+        "title": ".Nobu ransomware",
+        "score": 1,
+        "id": "kad6z5",
+        "commsNum": 20,
+        "timeStamp": "2020/12/10-02:40:51",
+        "author_name": "MRifaau498",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 20,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/kad6z5/nobu_ransomware/"
+    },
+    "posts": {
+        "gfjz7c6": {
+            "comment": "Is that for private people or just companies?",
+            "timeStamp": "2020/12/12-09:28:11",
+            "id": "gfjz7c6",
+            "is_submitter": false,
+            "link_id": "t3_kad6z5",
+            "parent_id": "t1_gfa6u6k",
+            "score": 1,
+            "stickied": false,
+            "author_name": "siriuslyred"
+        },
+        "gfa9nc6": {
+            "comment": "responding to this type of thread keeps people coming back and posting this dogshit content",
+            "timeStamp": "2020/12/10-07:03:49",
+            "id": "gfa9nc6",
+            "is_submitter": false,
+            "link_id": "t3_kad6z5",
+            "parent_id": "t3_kad6z5",
+            "score": 1,
+            "stickied": true,
+            "author_name": "edward_snowedin"
+        },
+        "gfa6u6k": {
+            "comment": "Also some of these groups you can't legally pay if you are in amercia",
+            "timeStamp": "2020/12/10-06:46:17",
+            "id": "gfa6u6k",
+            "is_submitter": false,
+            "link_id": "t3_kad6z5",
+            "parent_id": "t1_gf9r80j",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Wouldratherplaymtg"
+        },
+        "gf9r80j": {
+            "comment": "Or paying :( unfortunately that might be the only chance of seeing the files again, though of course they could not give you the key and you will be encouraging them to do it others (though they likely would anyway)",
+            "timeStamp": "2020/12/10-04:21:54",
+            "id": "gf9r80j",
+            "is_submitter": false,
+            "link_id": "t3_kad6z5",
+            "parent_id": "t1_gf9nfk8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "siriuslyred"
+        },
+        "gf9oqtf": {
+            "comment": "[removed]",
+            "timeStamp": "2020/12/10-03:43:13",
+            "id": "gf9oqtf",
+            "is_submitter": false,
+            "link_id": "t3_kad6z5",
+            "parent_id": "t1_gf9namd",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "gf9oo8g": {
+            "comment": "[removed]",
+            "timeStamp": "2020/12/10-03:42:01",
+            "id": "gf9oo8g",
+            "is_submitter": false,
+            "link_id": "t3_kad6z5",
+            "parent_id": "t1_gf9n7iw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "gf9namd": {
+            "comment": "Are you saying that there wont be a single change to rcover the files",
+            "timeStamp": "2020/12/10-03:18:47",
+            "id": "gf9namd",
+            "is_submitter": true,
+            "link_id": "t3_kad6z5",
+            "parent_id": "t1_gf9n7iw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MRifaau498"
+        },
+        "gf9n08b": {
+            "comment": "I mean i have all of my files still in my hard drive and I wont wipe the harddrive",
+            "timeStamp": "2020/12/10-03:13:50",
+            "id": "gf9n08b",
+            "is_submitter": true,
+            "link_id": "t3_kad6z5",
+            "parent_id": "t1_gf9mx9l",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MRifaau498"
+        },
+        "gf9mwpx": {
+            "comment": "https://m.youtube.com/watch?v=OtHZueEZe9s",
+            "timeStamp": "2020/12/10-03:12:08",
+            "id": "gf9mwpx",
+            "is_submitter": false,
+            "link_id": "t3_kad6z5",
+            "parent_id": "t1_gf9mv6w",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Wouldratherplaymtg"
+        },
+        "gf9mv6w": {
+            "comment": "Wtym",
+            "timeStamp": "2020/12/10-03:11:24",
+            "id": "gf9mv6w",
+            "is_submitter": true,
+            "link_id": "t3_kad6z5",
+            "parent_id": "t1_gf9mtml",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MRifaau498"
+        },
+        "gf9murd": {
+            "comment": "No",
+            "timeStamp": "2020/12/10-03:11:12",
+            "id": "gf9murd",
+            "is_submitter": true,
+            "link_id": "t3_kad6z5",
+            "parent_id": "t1_gf9merh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MRifaau498"
+        },
+        "gf9mtml": {
+            "comment": "You're probably better off with a reload tbh ransomware sucks.",
+            "timeStamp": "2020/12/10-03:10:40",
+            "id": "gf9mtml",
+            "is_submitter": false,
+            "link_id": "t3_kad6z5",
+            "parent_id": "t1_gf9m451",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Wouldratherplaymtg"
+        },
+        "gf9mbrm": {
+            "comment": "I guess i have to wait. Abt 2Tb of file are encrypted",
+            "timeStamp": "2020/12/10-03:02:04",
+            "id": "gf9mbrm",
+            "is_submitter": true,
+            "link_id": "t3_kad6z5",
+            "parent_id": "t1_gf9m81u",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MRifaau498"
+        },
+        "gf9m451": {
+            "comment": "No solution! :(",
+            "timeStamp": "2020/12/10-02:58:19",
+            "id": "gf9m451",
+            "is_submitter": true,
+            "link_id": "t3_kad6z5",
+            "parent_id": "t1_gf9li3p",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MRifaau498"
+        },
+        "gf9li3p": {
+            "comment": "https://www.nomoreransom.org/",
+            "timeStamp": "2020/12/10-02:47:34",
+            "id": "gf9li3p",
+            "is_submitter": false,
+            "link_id": "t3_kad6z5",
+            "parent_id": "t3_kad6z5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Wouldratherplaymtg"
+        }
+    }
+}

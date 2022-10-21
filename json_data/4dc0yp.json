@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Palo Alto researchers discovered a new type of malware and dubbing it, PowerSniff. PowerSniff takes advantage of Microsoft's PowerShell.",
+        "score": 7,
+        "id": "4dc0yp",
+        "commsNum": 4,
+        "timeStamp": "2016/04/04-10:10:09",
+        "author_name": "Veronicapo4_",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://blog.ensilo.com/cyber-security-in-120-secs-the-year-ransomware-holds-america-hostage"
+    },
+    "posts": {}
+}

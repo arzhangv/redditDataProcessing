@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "A year ago I stupidly installed a program that infected my computer with Hooks, Trojans, malware, and more. \nFor the recordI keep windows up to date.\nI noticed within 10 minutes of using this cryptomining program that it was sus. So I deleted it. \nEverything was ok for about a week or two then if if step away form my computer the fans would be maxed out 100% CPU AND GPU. \nI scanned with Microsoft defender. It found nothing. I did several full scans and offline scans over a few days and still nothing. \nI tried malwarebytes which found 3 or 4 obvious pieces of malicious programs.\nI thought that was in I'm in the clear. Some time passes and the computer starts acting up again. The bottom right corner of my screen spamming scam adds from the news bubble. \nI ran malwarebytes again. Found another program or so. Then the news thing would happen less frequently. \nI noticed one my my personal folders was empty weeks in. \nSo I looked around and took another chance. I downloaded Kaspersky. It would scanned and found more issues. \nI left it to hibernate and over a couple more weeks found more and more until everything seemed OK. \n\nRecently I've been noticing that I have 35-40 ram usage on the desktop. A knowledgeable computer guy asked me to open my temp files and immediately laughed when he saw so many unamed files. I told him about the empty folder and he said that's all he needed to see. He said you my friend have worms. You should do an entire wipe of this computer. \n\nI'm wondering if there are any other programs I can use to catch these \"worms\" or other malware. I'm ok with resetting the computer I'm just genuinely curious as to what the name of the worm, or whatever it is my computer has and if it could be caught.",
+        "title": "want to double check for Worms, Trojans, and more",
+        "score": 1,
+        "id": "vodvef",
+        "commsNum": 0,
+        "timeStamp": "2022/06/30-10:27:29",
+        "author_name": "PomegranatePro",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/vodvef/want_to_double_check_for_worms_trojans_and_more/"
+    },
+    "posts": {
+        "iefzbeb": {
+            "comment": "If the problem is just that your your backup/recovery data has been corrupted or damaged by malware, you should still be able to load a Windows Recovery installation media onto a USB drive, and boot from that to reinstall windows. Then it won't be depending on anything stored on your machine.  \n\n\nCreating the recovery media USB is easy. Instructions [on Microsoft.com.](https://support.microsoft.com/en-us/windows/create-a-usb-recovery-drive-460091d5-1e8f-cb33-2d17-8fdef77412d5)\n\nThe steps to run the recovery process from that media can vary a bit depending which computer you have. What you need to do is reboot into your BIOS/UEFI (this is the somewhat primitive, mostly read-only operating system or firmware stored on the motherboard). So google \"how to boot to BIOS\" and include the manufacturer and model of your laptop, and you will probably find instructions easily.  \n\n\nTypically the way it works is you reboot the computer, and as soon as it completes the part of the reboot where it turns off and turns back on, but before it does anything else (such as trying to load windows), you need to start rapidly tapping the key that your laptop uses to access the BIOS. (the key could be ESC, it could be F2, F8, F10, or something else entirely. There are a lot of different computers out there and for some reason the industry doesn't want to standardize this--which is why you need to look it up).  \n\n\nOnce you get into the BIOS, you need to change the \"boot order\" so that the first thing that the computer tries to boot from is your USB drive instead of the primary storage drive (usually C:). This isn't terribly complicated to do most of the time, but you might want to google \"how to change my boot order &lt;your laptop manufacturer and model&gt;\" before you begin and familiarize yourself with the process. Do. Not. Fuck. With. Anything. Else. Don't get tough and create a BIOS administrator password if you've not had one already. And if you see an option in there for secure boot, you may need to turn it off before you will be able to boot from USB--I'm not sure.   \n\n\nSecure Boot is kind of a newer thing meant to help prevent bootloader malware, and I'm not too familiar with it. I do know that if you fuck it up, it will give you hell trying to figure out how to fix it because at a minimum, you will make the process of reformatting your primary storage drive much more complicated, and you'll also need a second computer, a lot of time, and a lot of patience to figure it all out. Anyway, my advice is to try and go in and change the boot order to the USB drive (you should not have plugged the recovery USB into the machine yet, btw), and leave Secure Boot enabled first, then try running the recovery, and see how it goes. If it seems to be rejecting your attempts at recovery, you may want to try turning secure boot.  \n\n\nNow, here's the thing: you have been running cryptominer malware on your machine for quite a while, by the sounds of it. It's entirely possible that you have damaged the motherboard or the processor, or something else in the hardware. Recovering your machine may end up being virtually impossible without significant internal repair. Cryptomining is extremely demanding of your computer's processing resources, and that produces a lot of heat. That can cause all kinds of problems, fry all kinds of things, etc. Most legitimate bitcoin mining activity is done by people who make a point of not overworking their machines, but if you're a bad guy and you're using some other dude's computer, you really don't give a shit if you fry it, right? That's what the cryptominer malware does, it just runs your machine like a dog until it dies.  \n\n\nAnyway, fingers crossed for you that what I just described isn't your problem. I hope you are starting to realize, though, that what you're getting wrapped up in is a lot more complicated than it might have first seemed. You should consider taking it to a professional to get the OS reinstalled. It will save you a LOT of frustration. If they give you some insanely high quote, just ask for the computer back so you can go get a second opinion. You'll still be on the hook for a diagnostic (shouldn't be much more than $100, if that), but if the next shop quotes high, too, you can go back to the first one or stick with the second one, and any diagnostic fee you paid is already done and out of the way, at least.  \n\n\nGood luck!",
+            "timeStamp": "2022/07/01-05:24:00",
+            "id": "iefzbeb",
+            "is_submitter": false,
+            "link_id": "t3_vodvef",
+            "parent_id": "t1_iedzeno",
+            "score": 1,
+            "stickied": false,
+            "author_name": "LemmePeeInThatBooty"
+        },
+        "iedzeno": {
+            "comment": "I reset it.\nWhen it boots it asks for my pin then blue screens saying service isn't serviceable. \nSo I tried shift clicking the reset and booting in safe mode to check if I could get onto the desktop. Nope white screen.... \n\nI talked with that guy again. He said he's surprised my computer wasn't dead when he looked at it. Says I bought myself a lot of time when I immediately Uninstalled and used Anti-Malware apps. \nHis guess is that it ruined my windows backup install and hasn't seen anything like it since windows 7",
+            "timeStamp": "2022/06/30-17:01:02",
+            "id": "iedzeno",
+            "is_submitter": true,
+            "link_id": "t3_vodvef",
+            "parent_id": "t1_ied4i8n",
+            "score": 1,
+            "stickied": false,
+            "author_name": "PomegranatePro"
+        },
+        "ied6eh6": {
+            "comment": "Windows defender already thinks my PC is clean. I did a full scan and offline scan today. \n\nI think I'll sort through my 2TB for what I really need. Copy it's files and see if I can delete them. If they delete I'll throw them back on the 2TB to save. Will this work? \n\nI really appreciate your help but what you said is a lot for me and even if I went through all those steps there's no guarantee I'd do it right.",
+            "timeStamp": "2022/06/30-13:38:41",
+            "id": "ied6eh6",
+            "is_submitter": true,
+            "link_id": "t3_vodvef",
+            "parent_id": "t3_vodvef",
+            "score": 1,
+            "stickied": false,
+            "author_name": "PomegranatePro"
+        },
+        "ied4i8n": {
+            "comment": "Go to View-&gt;Show Folder Options (top of file explorer window, far-right) and select the options to \"show hidden files\" and \"show system files.\" Also enable to the option to show file extensions in the file name.\n\nReboot the computer into safe mode WITHOUT NETWORKING\n(https://support.microsoft.com/en-gb/windows/start-your-pc-in-safe-mode-in-windows-92c27cff-db89-8644-1ce4-b3e5e56fe234), and disconnect any ethernet cables you might have plugged in, and if you have a usb wifi dongle you can easily unplug, do that as well.\n\nOnce the computer boots up and you get windows loaded, plug the flash drive in, don't select any option to \"run\" it or anything, just browse to the drive as a folder, and look for a file called \"autorun.inf\". If/when you find that, copy the file, paste it to your desktop, then open in notepad (right-click, open with, select notepad). Look for any kind of weird code at all. It should have basically nothing in there, and if it does, whatever other files it's pointing at (which could be a .ico or really anything at all) are malicious. So just delete the autorun file and eject it as quick as you can, then wait a minute and reinsert it, and look for the autorun file again. See if it reappears. If not, you should be safe to stick it back into your computer after you reinstall windows. But when you do, again, don't run it--run a windows defender scan on it immediately. Also be careful and look for files with changed file extensions. Sometimes these kinds of malware will erase a file, like a photo, and replace it with an exe that uses the same thumbnail for an icon. If you double-click it, it should warn you you're about to run program not launch an image, but that isn't foolproof. You'll want to be really cautious about opening the files that are on the drive until you are SURE it's clean. Another thing you can do is not use the USB drive for a while (like a month or two)--this will provide time for defender to see the malware wreaking havoc on other machines and deploy a security patch for it. Once that's done, if you insert the drive and the malware is detected, defender should protect you.",
+            "timeStamp": "2022/06/30-13:26:18",
+            "id": "ied4i8n",
+            "is_submitter": false,
+            "link_id": "t3_vodvef",
+            "parent_id": "t1_iecsgxp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "LemmePeeInThatBooty"
+        },
+        "iecsgxp": {
+            "comment": "He told me to backup what I care about before I reset the computer. The only issue with that is I have a USB for work I've been using and a 2tb portable hard-drive I took photos off of this computer and put them on there. \n\nHow do I ensure that I'm not backing up infected material just to infect myself again if I plug in the hard drive. And how do I check is the photos and other files on my 2TB portable are infected. \n\nIf worst comes to worst I supposed I could just wipe everything but that would cause a lot of work for me later on.",
+            "timeStamp": "2022/06/30-12:08:42",
+            "id": "iecsgxp",
+            "is_submitter": true,
+            "link_id": "t3_vodvef",
+            "parent_id": "t1_iecgi3x",
+            "score": 1,
+            "stickied": false,
+            "author_name": "PomegranatePro"
+        },
+        "iecgi3x": {
+            "comment": "https://www.reddit.com/r/Malware/comments/4ap1a7/please_view_before_posting_on_rmalware/?utm_medium=android_app&amp;utm_source=share\n\nBut to answer your question, actually rooting out whatever you are infected by might be way more effort than it's worth.\n\nA couple places to start are:\n1.) Startup (look in this tab in task manager, or open start menu, type in \"msconfig\" (no quotes) and go to startup from there. Look for anything unusual or that you don't know what it is. Also check app history and users for anything unexpected. Here is what my startup list looks like on my work computer: https://imgur.com/a/3gIz9tF. Looking at running processes could help too, but you aren't knowledgeable enough to know what belongs there and what doesn't.\n\n2.) Use Wireshark or your router security logs to look for unexplained network connections. Whatever is infecting you is \"phoning home\" and if you can spot which program is doing the phoning, you may find your culprit, but maybe not. Legit apps can be hijacked and used to phone home, too.\n\nThe other thing is that you may see running apps which you trust, but which were actually quietly replaced by a malicious version. The way to identify that can get tricky and way too complicated to explain here.\n\nBest thing to do is wipe your OS, and soon. Any private data on your machine and every password you enter to log into sites is potentially compromised at this point. The sooner you cut off the bad guy from your machine, the better.",
+            "timeStamp": "2022/06/30-10:50:07",
+            "id": "iecgi3x",
+            "is_submitter": false,
+            "link_id": "t3_vodvef",
+            "parent_id": "t3_vodvef",
+            "score": 1,
+            "stickied": false,
+            "author_name": "LemmePeeInThatBooty"
+        }
+    }
+}

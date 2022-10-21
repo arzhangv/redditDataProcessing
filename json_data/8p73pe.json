@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "VPNFilter Infecting Thousands of Devices \u2013 More than Expected!",
+        "score": 1,
+        "id": "8p73pe",
+        "commsNum": 1,
+        "timeStamp": "2018/06/06-20:38:46",
+        "author_name": "ZomaIslam3",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.osradar.com/vpnfilter-infecting-thousands-of-devices-more-than-expected/"
+    },
+    "posts": {
+        "e08zkdo": {
+            "comment": "[removed]",
+            "timeStamp": "2018/06/06-20:38:53",
+            "id": "e08zkdo",
+            "is_submitter": false,
+            "link_id": "t3_8p73pe",
+            "parent_id": "t3_8p73pe",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

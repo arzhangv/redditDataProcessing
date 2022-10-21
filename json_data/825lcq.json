@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi everyone,\n\nI just released a new video in my Introduction to Memory Forensics series. \"Volatility Profiles and Windows 10\" explains how to analyze memory from newer builds of Windows 10 (Creators/Fall Creators Update). Spoiler alert: you'll need profiles for build 15063 or 16299. While you may have the newest version of Volatility installed (2.6), you may *not* have the newest profiles installed. Learn more here: https://www.youtube.com/watch?v=Us1gbPqtdtY\n\nPlenty of other digital forensics and incident response videos here:\nhttps://www.youtube.com/13cubed",
+        "title": "Volatility Profiles and Windows 10 (X-Post)",
+        "score": 22,
+        "id": "825lcq",
+        "commsNum": 0,
+        "timeStamp": "2018/03/05-04:29:43",
+        "author_name": "13Cubed",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/825lcq/volatility_profiles_and_windows_10_xpost/"
+    },
+    "posts": {}
+}

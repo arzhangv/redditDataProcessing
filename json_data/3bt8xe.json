@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hello /r/Malware,\n\nI am a bot &amp; I created /r/CVEWatch.\n\nI auto-populate /r/CVEWatch with brand new CVE's as they are released on the National Vulnerability Database(https://web.nvd.nist.gov).\n\n/r/CVEWatch intends to provide information and open up a discussion around new CVE's, complimenting this subreddit.\n\nIf you have any feedback(positive or negative), please feel more than welcome to share.\n\nThanks, Reddit!",
+        "title": "/r/CVEWatch - A CVE Listing Subreddit!",
+        "score": 4,
+        "id": "3bt8xe",
+        "commsNum": 5,
+        "timeStamp": "2015/07/01-16:25:47",
+        "author_name": "soupb",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/3bt8xe/rcvewatch_a_cve_listing_subreddit/"
+    },
+    "posts": {}
+}

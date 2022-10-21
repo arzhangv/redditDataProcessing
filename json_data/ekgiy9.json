@@ -1,0 +1,110 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hello, \n\nI'm curious about different extreme malware and play around in a VM with them. I'm looking especially for \"computer breaking virusses\" and just dumb viruses like memz and such. \n\nWhere would I need to look to find these types of programs?\n\nThanks",
+        "title": "Looking for various malware",
+        "score": 1,
+        "id": "ekgiy9",
+        "commsNum": 8,
+        "timeStamp": "2020/01/05-10:04:55",
+        "author_name": "Chicken_Wing420",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 8,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ekgiy9/looking_for_various_malware/"
+    },
+    "posts": {
+        "fddpwur": {
+            "comment": "[removed]",
+            "timeStamp": "2020/01/06-06:26:33",
+            "id": "fddpwur",
+            "is_submitter": false,
+            "link_id": "t3_ekgiy9",
+            "parent_id": "t3_ekgiy9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fddjv9i": {
+            "comment": "I wrote a blog that answers your question, which can be found [here](https://maxkersten.nl/binary-analysis-course/obtaining-samples/searching-samples/). It contains a review of numerous free and some paid services that offer what you are looking for.",
+            "timeStamp": "2020/01/06-04:52:20",
+            "id": "fddjv9i",
+            "is_submitter": false,
+            "link_id": "t3_ekgiy9",
+            "parent_id": "t3_ekgiy9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ThisIsLibra"
+        },
+        "fddgxs2": {
+            "comment": "https://lmgtfy.com/?q=malware+sample+download",
+            "timeStamp": "2020/01/06-03:56:38",
+            "id": "fddgxs2",
+            "is_submitter": false,
+            "link_id": "t3_ekgiy9",
+            "parent_id": "t3_ekgiy9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "boli99"
+        },
+        "fddab3l": {
+            "comment": "[removed]",
+            "timeStamp": "2020/01/06-01:18:11",
+            "id": "fddab3l",
+            "is_submitter": false,
+            "link_id": "t3_ekgiy9",
+            "parent_id": "t3_ekgiy9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fdcre2y": {
+            "comment": "Anything that is submitted to any.run is downloadable.",
+            "timeStamp": "2020/01/05-19:42:52",
+            "id": "fdcre2y",
+            "is_submitter": false,
+            "link_id": "t3_ekgiy9",
+            "parent_id": "t3_ekgiy9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "skeeball"
+        },
+        "fdcb17n": {
+            "comment": "I host a repository of malware. You can read about it and download the client at the link below. You can search by malware name or YARA signature name to find samples using the built-in query language. I've got about 500k samples of legitimate and malicious files.\n\nhttps://practicalsecurityanalytics.com/malware-analysis-center/about/",
+            "timeStamp": "2020/01/05-16:31:32",
+            "id": "fdcb17n",
+            "is_submitter": false,
+            "link_id": "t3_ekgiy9",
+            "parent_id": "t3_ekgiy9",
+            "score": 3,
+            "stickied": false,
+            "author_name": "FusionCarcass"
+        },
+        "fdat6gs": {
+            "comment": "TheZoo is on github amd has generic malware",
+            "timeStamp": "2020/01/05-10:43:19",
+            "id": "fdat6gs",
+            "is_submitter": false,
+            "link_id": "t3_ekgiy9",
+            "parent_id": "t3_ekgiy9",
+            "score": 8,
+            "stickied": false,
+            "author_name": "RyanStankye"
+        },
+        "fdanafs": {
+            "comment": "Virusbay is one such website...",
+            "timeStamp": "2020/01/05-10:11:59",
+            "id": "fdanafs",
+            "is_submitter": false,
+            "link_id": "t3_ekgiy9",
+            "parent_id": "t3_ekgiy9",
+            "score": 3,
+            "stickied": false,
+            "author_name": "ci9her"
+        }
+    }
+}

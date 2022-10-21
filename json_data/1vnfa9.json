@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I was goofing about as usual, when I decided to install GameMaker: Studio on a whim. Being the dunce that I am, I used what I thought was a trusted website as opposed to the Developer's website. it finishes the download, and I tab out of the window. a few moments later, I notice the download window is still open and it's downloading Linkey (a known spyware masquerading as a \"convenient extension\") and god knows what else. I quickly close the window and run a MalwareBytes scan. It finds a few things, and I delete them, along with the \"extension\" and the program, from my control center. The moral of the story, kids? DON'T USE SOFTONIC.\n\nAlso, [This](https://www.google.com/search?q=softonic+virus&amp;rlz=1C1CHMO_enUS547US547&amp;oq=softonic+&amp;aqs=chrome.4.69i57j69i59j69i60j0l3.8282j0j7&amp;sourceid=chrome&amp;espv=210&amp;es_sm=93&amp;ie=UTF-8) ",
+        "title": "PSA: softonic.com Can Install Spyware And Other Programs Without Your Consent!",
+        "score": 6,
+        "id": "1vnfa9",
+        "commsNum": 0,
+        "timeStamp": "2014/01/19-21:21:39",
+        "author_name": "Paperluigi987",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/1vnfa9/psa_softoniccom_can_install_spyware_and_other/"
+    },
+    "posts": {}
+}

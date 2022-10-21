@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "A library to decode/parse zeus-like configuration files",
+        "score": 2,
+        "id": "2od31u",
+        "commsNum": 0,
+        "timeStamp": "2014/12/05-05:57:28",
+        "author_name": "Maijin",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://github.com/mak/libzpy"
+    },
+    "posts": {}
+}

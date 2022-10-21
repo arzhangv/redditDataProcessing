@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "TheMoon botnet is now leveraging a zero-day to target GPON routers",
+        "score": 1,
+        "id": "8l7wl8",
+        "commsNum": 0,
+        "timeStamp": "2018/05/21-23:31:05",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://securityaffairs.co/wordpress/72762/malware/themoon-gpon-routers.html"
+    },
+    "posts": {}
+}

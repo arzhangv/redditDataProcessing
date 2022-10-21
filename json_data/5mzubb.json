@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "2016 Updates to Shifu Banking Trojan",
+        "score": 1,
+        "id": "5mzubb",
+        "commsNum": 0,
+        "timeStamp": "2017/01/09-11:45:13",
+        "author_name": "N3mes1s",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://researchcenter.paloaltonetworks.com/2017/01/unit42-2016-updates-shifu-banking-trojan/"
+    },
+    "posts": {}
+}

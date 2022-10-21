@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "4chan.js malware deobfuscated sample [Pastebin] (does anyone know what it does?)",
+        "score": 12,
+        "id": "2q4ay9",
+        "commsNum": 6,
+        "timeStamp": "2014/12/22-15:38:24",
+        "author_name": "StricklandPropayne",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://pastebin.com/V7j7ke3Q"
+    },
+    "posts": {}
+}

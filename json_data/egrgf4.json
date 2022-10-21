@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Anybody who can give me better insights on darkshell malware . Although this link had pretty cool info, looking further !",
+        "score": 1,
+        "id": "egrgf4",
+        "commsNum": 0,
+        "timeStamp": "2019/12/28-06:40:45",
+        "author_name": "justin_cdi",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://hackernewsdog.com/darkshell-malware-rootkit-antimalware-analysis/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,110 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi there, a few years ago my dad\u2019s computer was infected with Internet Security and I\u2019ve been searching for a replica of it for quite some time to test in a sandbox environment now that I know what I\u2019m doing. \n\nIt goes by the forms of `sm.exe`, `amsecure.exe`, and `isecurity.exe` among others, but the official name is Trojan.Win32.FakeAV. \n\nIf anyone has a sample or knows where to find one, I\u2019d be extremely appreciative. Thanks!",
+        "title": "Looking for a sample of Trojan.Win32.FakeAV",
+        "score": 1,
+        "id": "eptjq6",
+        "commsNum": 8,
+        "timeStamp": "2020/01/16-17:55:57",
+        "author_name": "sulliops",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 8,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/eptjq6/looking_for_a_sample_of_trojanwin32fakeav/"
+    },
+    "posts": {
+        "ff47l4k": {
+            "comment": "Do you know what that malware is called?",
+            "timeStamp": "2020/01/20-13:54:41",
+            "id": "ff47l4k",
+            "is_submitter": false,
+            "link_id": "t3_eptjq6",
+            "parent_id": "t1_fenewni",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ChihuahuaCats"
+        },
+        "fenewni": {
+            "comment": "Remember a virus that changed the date/time format to virus detected, such that every timestamp of every file included \"VIRUSDETECTED\" ?",
+            "timeStamp": "2020/01/17-09:46:50",
+            "id": "fenewni",
+            "is_submitter": false,
+            "link_id": "t3_eptjq6",
+            "parent_id": "t1_feltv66",
+            "score": 1,
+            "stickied": false,
+            "author_name": "jacxy"
+        },
+        "femaijo": {
+            "comment": "FakeAV is not a malware family but an umbrella name for every malware that pretends to be an Antivirus product. In its simplest form it may have an icon and/or property description of a known Antivirus software.\n\nBased on your information you are probably not going to find the original malware that infected your dad's computer 10 years ago.",
+            "timeStamp": "2020/01/16-23:27:03",
+            "id": "femaijo",
+            "is_submitter": false,
+            "link_id": "t3_eptjq6",
+            "parent_id": "t3_eptjq6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Struppigel"
+        },
+        "felxm8f": {
+            "comment": "All of the files are stored serverside without the extension to help reduce the risk of accidentally clicking on them. You may have to add the extension back based off of the file type field of the sample you download.",
+            "timeStamp": "2020/01/16-19:58:33",
+            "id": "felxm8f",
+            "is_submitter": false,
+            "link_id": "t3_eptjq6",
+            "parent_id": "t1_felwc6n",
+            "score": 1,
+            "stickied": false,
+            "author_name": "FusionCarcass"
+        },
+        "felwc6n": {
+            "comment": "Am I doing something wrong that it won\u2019t let me download files as .exe? They just download as \u201cfile\u201d.",
+            "timeStamp": "2020/01/16-19:42:46",
+            "id": "felwc6n",
+            "is_submitter": true,
+            "link_id": "t3_eptjq6",
+            "parent_id": "t1_felvi3l",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sulliops"
+        },
+        "felvi3l": {
+            "comment": "All the malware in my repository gets correlated with tens of thousands of YARA samples as well, and it looks like some of them are specific to fakeav. The following search will give you those results:\n\nrulename contains \"fakeav\"",
+            "timeStamp": "2020/01/16-19:32:48",
+            "id": "felvi3l",
+            "is_submitter": false,
+            "link_id": "t3_eptjq6",
+            "parent_id": "t1_felump9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "FusionCarcass"
+        },
+        "felump9": {
+            "comment": "I noticed your tool a little while ago, actually, and it seems interesting. I\u2019ll check it out and see if I can find what I\u2019m looking for, cheers!",
+            "timeStamp": "2020/01/16-19:22:26",
+            "id": "felump9",
+            "is_submitter": true,
+            "link_id": "t3_eptjq6",
+            "parent_id": "t1_feltv66",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sulliops"
+        },
+        "feltv66": {
+            "comment": "I host a repository of malware with a couple hundred thousand samples. You can download them via a tool called the Malware Analysis Center. You can read about it more at the link below.\n\nThe following search should return about 20 samples:\n\nname contains \"trojan.win32.fakeav\"\n\nhttps://practicalsecurityanalytics.com/malware-analysis-center/about/",
+            "timeStamp": "2020/01/16-19:13:23",
+            "id": "feltv66",
+            "is_submitter": false,
+            "link_id": "t3_eptjq6",
+            "parent_id": "t3_eptjq6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "FusionCarcass"
+        }
+    }
+}

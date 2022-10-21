@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Assembler source code obfuscator (MASM)",
+        "score": 7,
+        "id": "3hd4c3",
+        "commsNum": 2,
+        "timeStamp": "2015/08/17-14:21:31",
+        "author_name": "BartoszWojcik",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/3hd4c3/assembler_source_code_obfuscator_masm/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I'm looking for a malware sample that uses IRC for command and control.\nI used a very old generic IRC bot (92a1ad5bb921d59d5537aa45a2bde798) as it is rather easy to analyze. Strings (IRC Commands, Server, Channel) are not encrypted. Easy to take over. So it was the perfect sample to teach basic malware analysis.\nBut this sample does not work on a Win10 64 Bit VM.\nAny suggestions what sample might work on that OS and is also rather easy to analyze?",
+        "title": "Looking for an easy to analyze IRC Bot for educational purpose",
+        "score": 7,
+        "id": "6wxl3h",
+        "commsNum": 3,
+        "timeStamp": "2017/08/30-00:32:06",
+        "author_name": "Morrownale",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6wxl3h/looking_for_an_easy_to_analyze_irc_bot_for/"
+    },
+    "posts": {
+        "dmcjrcw": {
+            "comment": "Browse the skiddy central forums (nulled.to, hackforums.com, etc), alot of crap gets released there regularly for all types of malware builders. If you want easy to analyse, you'll find it at those sites for a start, and hence it being recent it's bound to run on Win10. \n\nIf you don't already, register to any skiddy/hack websites offering downloads to tools so you can read posts. Regularly check new topics for something you want to look into, and bobs your uncle.",
+            "timeStamp": "2017/08/30-14:39:49",
+            "id": "dmcjrcw",
+            "is_submitter": false,
+            "link_id": "t3_6wxl3h",
+            "parent_id": "t3_6wxl3h",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Jigoku1337"
+        },
+        "dmc0325": {
+            "comment": "Are you looking for the bot or the client? You can trivially write a bot in almost any language on any platform.",
+            "timeStamp": "2017/08/30-08:56:25",
+            "id": "dmc0325",
+            "is_submitter": false,
+            "link_id": "t3_6wxl3h",
+            "parent_id": "t3_6wxl3h",
+            "score": 2,
+            "stickied": false,
+            "author_name": "wmassingham"
+        }
+    }
+}

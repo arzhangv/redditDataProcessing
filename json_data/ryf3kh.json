@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Censorware And Live Modification/Censorship of Website Images And Text",
+        "score": 1,
+        "id": "ryf3kh",
+        "commsNum": 0,
+        "timeStamp": "2022/01/07-11:06:39",
+        "author_name": "scryblackwren",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "/r/RealLifeConspiracy/comments/ryeiis/censorware_and_live_modificationcensorship_of/"
+    },
+    "posts": {
+        "hrt3n7n": {
+            "comment": "Yep... I was stunned too. Sure censorship exists but it's not malware.",
+            "timeStamp": "2022/01/08-10:39:39",
+            "id": "hrt3n7n",
+            "is_submitter": false,
+            "link_id": "t3_ryf3kh",
+            "parent_id": "t1_hrp7fyt",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ISJ-117"
+        },
+        "hrp7fyt": {
+            "comment": "What is this tinfoil hat nonsense?",
+            "timeStamp": "2022/01/07-14:31:51",
+            "id": "hrp7fyt",
+            "is_submitter": false,
+            "link_id": "t3_ryf3kh",
+            "parent_id": "t3_ryf3kh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Rakanisheu"
+        }
+    }
+}

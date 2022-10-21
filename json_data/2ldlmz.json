@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Have you ever seen encrypted C2 GET requests for .png files? Are there any analysis write ups online that you can forward me.\n\nI've come across this article which suggests the png may have base64 encoded cmds: \n\nhttp://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp-detecting-apt-activity-with-network-traffic-analysis.pdf\n\n\nI have the sample png. Could someone help me determine the output\n\nMuch Appreciated\n\nReference:\n\n**Sample:** https://malwr.com/analysis/YjBhNzIwZTg0ODVkNDdiOGIzOTAyNzMyZTA0ZjZkNDA/\n^png avail for DL\n\n",
+        "title": "Teach me: How are .png used in a botnet",
+        "score": 5,
+        "id": "2ldlmz",
+        "commsNum": 16,
+        "timeStamp": "2014/11/05-08:16:58",
+        "author_name": "ninja-turtle",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 16,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2ldlmz/teach_me_how_are_png_used_in_a_botnet/"
+    },
+    "posts": {}
+}

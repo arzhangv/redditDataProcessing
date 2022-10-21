@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I already have plenty of VMs running but I'm trying to run malware on a real machine. I've tried RebootRestoreRX already and it's pretty easy to set up but one virus manages to survive it. I end up with a trojan downloader on my system which reaches out to a server once it is connected to the internet.",
+        "title": "What's a good reboot-to-restore program?",
+        "score": 9,
+        "id": "3xyy2b",
+        "commsNum": 9,
+        "timeStamp": "2015/12/23-07:19:29",
+        "author_name": "sw2de3fr4gt",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 9,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/3xyy2b/whats_a_good_reboottorestore_program/"
+    },
+    "posts": {}
+}

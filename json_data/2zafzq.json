@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "This dumb ass software will use any android phone you have connected to your laptop instead of launching an AVD to run the malware.\n\nAnyone know by chance how to clean android.systempack.ins from an android phone? Do I need to flash new firmware onto this thing?\n\nDamn it to hell.\n\nEdit: Apparently, it's as easy as uninstalling. Dodged a bullet... I have to say, Droidbox has been fine for dynamic analysis besides this. Just make sure you're not charging an android phone through your PC.",
+        "title": "WARNING to all who have used or will use droidbox",
+        "score": 5,
+        "id": "2zafzq",
+        "commsNum": 4,
+        "timeStamp": "2015/03/16-16:21:40",
+        "author_name": "[deleted]",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2zafzq/warning_to_all_who_have_used_or_will_use_droidbox/"
+    },
+    "posts": {}
+}

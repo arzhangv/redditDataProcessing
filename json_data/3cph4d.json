@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Try sending a file through gmail with the password of infected, this is a standard practice for malware within our field.  Google still scans the file even though it is in a passworded archive file.\n\nI mean if I use WinRar... password the damn thing and encrypt the filenames, it shouldn't be scanned or detected.\n\n\nHow are you guys submitting these to AV vendors for signature creation.  My current process is to execute malware in a sandbox and create IoCs for my internal applications and devices and then submit to the major AV vendors out there for a signature add.  This is all pretty much scripted, however after researching into it today, I've noticed that these samples haven't been being sent for a while now.",
+        "title": "So does no one else have a problem with this? Google scanning passworded malware samples",
+        "score": 8,
+        "id": "3cph4d",
+        "commsNum": 8,
+        "timeStamp": "2015/07/09-11:54:13",
+        "author_name": "hunterAS",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 8,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/3cph4d/so_does_no_one_else_have_a_problem_with_this/"
+    },
+    "posts": {}
+}

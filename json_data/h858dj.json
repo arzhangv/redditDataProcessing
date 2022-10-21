@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "[deleted]",
+        "title": "Interesting technique used by #Adwind #Ratty &amp; #Qarallax JAVA RAT sample for distribution of malicious JAR(zip) appended to MSI. So when the OS sees jar ext it executes jre to handle the file, but unique about zip files are read from bottom to top so jar is executed instead of msi file. :)",
+        "score": 1,
+        "id": "h858dj",
+        "commsNum": 0,
+        "timeStamp": "2020/06/13-03:41:35",
+        "author_name": "[deleted]",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://twitter.com/Securityinbits/status/1271406138588708866"
+    },
+    "posts": {}
+}

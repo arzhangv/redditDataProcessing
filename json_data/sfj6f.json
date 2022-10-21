@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Malware analysis of a German Trojan",
+        "score": 1,
+        "id": "sfj6f",
+        "commsNum": 0,
+        "timeStamp": "2012/04/17-21:47:06",
+        "author_name": "live_dont_exist",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": null,
+        "url": "http://resources.infosecinstitute.com/german-trojan/"
+    },
+    "posts": {}
+}

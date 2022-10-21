@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Patching the patch",
+        "score": 1,
+        "id": "4dxtni",
+        "commsNum": 0,
+        "timeStamp": "2016/04/08-11:51:52",
+        "author_name": "31ric",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://blog.malwarebytes.org/threat-analysis/exploits-threat-analysis/2016/04/botched-flash-0day-gets-patched/"
+    },
+    "posts": {}
+}

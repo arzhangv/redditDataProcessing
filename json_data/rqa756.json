@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Microsoft decided to go with Amazon\u2019s App Store when Windows 11 supported Android applications. On the other hand, Samsung has successfully run its App Store for Galaxy smartphones and devices alongside the Google Play Store for years.\n\nUnfortunately, multiple Showbox movie piracy applications clones on Samsung App Store could infect customers\u2019 devices with various malware.\n\nThis issue was first reported by Android Police\u2019s Max Weinbach when a few Showbox applications available on the Galaxy Stored initiated Google Play\u2019s Protect warning on installation.\n\nMeanwhile, PhoneArena was also intrigued with these several clone apps on the app marketplace of Samsung. Thus, the news outlet grilled the potentially malicious apps in an online virus scanning platform, Virustotal.\n\nThe Showbox apks were analyzed at Virustotal, and it showed over a dozen low-grade alerts from security vendors ranging from \u201criskware\u201d to adware. A few applications also requested permissions, such as access to calls and contacts, that weren\u2019t necessary.\n\nAccording to Android security analyst Linuxct, while the applications themselves don\u2019t have malware, they can download and initiate codes that include malware. The analyst further added:\n\nSo at any moment, it may become a trojan/malware, hence it\u2019s unsafe and thus why so many vendors flagged it in VT/Play Protect. Similar issues were documented in at least two Showbox apps on the Galaxy Store, though it may also affect others.\n\nRecently, Android devices have been a major target of malware affecting millions of devices worldwide. In November, a\u00a0trojan infected around 9.3 million devices\u00a0worldwide, spreading through the App Store.\u00a0FluBot malware also targeted Android devices\u00a0and could act as spyware, credit card stealer, and SMS spammer.\n\nThe Samsung Galaxy App was launched in July 2014, all of the mobile devices created by the tech giant have this App Store pre-installed.",
+        "title": "Samsung Galaxy Store\u2019s Apps are Spreading Malware",
+        "score": 1,
+        "id": "rqa756",
+        "commsNum": 0,
+        "timeStamp": "2021/12/27-23:38:49",
+        "author_name": "djuyera",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/rqa756/samsung_galaxy_stores_apps_are_spreading_malware/"
+    },
+    "posts": {}
+}

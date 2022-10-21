@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[removed]",
+        "title": "Any beginner videos to learn about malware and programming them?",
+        "score": 9,
+        "id": "6n2hir",
+        "commsNum": 3,
+        "timeStamp": "2017/07/13-08:54:30",
+        "author_name": "ItsRevelant",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6n2hir/any_beginner_videos_to_learn_about_malware_and/"
+    },
+    "posts": {
+        "dk6nuno": {
+            "comment": "Sorry bud, learning to craft malware is NOT a quick process and takes years of programming knowledge, and then years of penetration testing and reverse engineering knowledge and experience. Any malware you can Create without this knowledge has already been done. But I'm sure you can find plenty of videos on YouTube on the basics of how malware works.",
+            "timeStamp": "2017/07/13-13:57:54",
+            "id": "dk6nuno",
+            "is_submitter": false,
+            "link_id": "t3_6n2hir",
+            "parent_id": "t3_6n2hir",
+            "score": 3,
+            "stickied": false,
+            "author_name": "Jlev12"
+        },
+        "dk6g29j": {
+            "comment": "Java won't do you too much good in actually writing malware (jRATs and JDBs have been fading from existence), but if you really want to see the sourcecode behind malware, there are several github repositories that you can find with some digging.\n\nTo understand what is going on with the malware found on github, you will more than likely have to learn C and/or C++, which is most likely in your CS path.",
+            "timeStamp": "2017/07/13-11:37:43",
+            "id": "dk6g29j",
+            "is_submitter": false,
+            "link_id": "t3_6n2hir",
+            "parent_id": "t3_6n2hir",
+            "score": 3,
+            "stickied": false,
+            "author_name": "AZCWR_R0x26E0xefbfbd"
+        },
+        "dk6fhm2": {
+            "comment": "I mean, there's tutorials on making keyloggers and stuff like that here, but this subreddit isnt meant for people MAKING malware, it's for reporting on malware.\n\nYou're not likley to get too much help from people here on how to make malware",
+            "timeStamp": "2017/07/13-11:27:48",
+            "id": "dk6fhm2",
+            "is_submitter": false,
+            "link_id": "t3_6n2hir",
+            "parent_id": "t3_6n2hir",
+            "score": 0,
+            "stickied": false,
+            "author_name": "work6849"
+        }
+    }
+}

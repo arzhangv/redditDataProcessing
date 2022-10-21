@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "\ud83d\udc23 Starting a new series where I'm presenting how you can safely grab the malicious code and by using various techniques like decompiling and deobfuscation to see what it is doing. In this series, you are going to see different approaches and solutions that are used to bypass antivirus and other threat defenses, learn how to approach payloads and hopefully recognize common patterns that are reused by malicious actors.\n\n\u2753 What do you think about it? What specific topics are you interested in?\n\n\ud83d\udc49 [https://blog.cyberethical.me/android-malware-analysis-preparation](https://blog.cyberethical.me/android-malware-analysis-preparation)",
+        "title": "Android malware analysis: preparation",
+        "score": 1,
+        "id": "psjdkm",
+        "commsNum": 5,
+        "timeStamp": "2021/09/21-07:03:57",
+        "author_name": "Asentinn",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/psjdkm/android_malware_analysis_preparation/"
+    },
+    "posts": {
+        "hdtkwrg": {
+            "comment": "I have done some work on cuckoodroid, its a bit outdated at the moment",
+            "timeStamp": "2021/09/22-01:12:34",
+            "id": "hdtkwrg",
+            "is_submitter": false,
+            "link_id": "t3_psjdkm",
+            "parent_id": "t1_hdrd8z8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "waqarrashid33"
+        },
+        "hdtilcd": {
+            "comment": "I am still learning, I'm noting down these topics and will so what I will come up with. Thanks!",
+            "timeStamp": "2021/09/22-00:36:28",
+            "id": "hdtilcd",
+            "is_submitter": true,
+            "link_id": "t3_psjdkm",
+            "parent_id": "t1_hdsiray",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Asentinn"
+        },
+        "hdtijuh": {
+            "comment": "I'm just learning along the way, so definitely adding that to my research list. Thanks for the suggestion!",
+            "timeStamp": "2021/09/22-00:35:49",
+            "id": "hdtijuh",
+            "is_submitter": true,
+            "link_id": "t3_psjdkm",
+            "parent_id": "t1_hdrd8z8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Asentinn"
+        },
+        "hdsiray": {
+            "comment": "Dynamic analysis and setting up something like Frida? Memory dumping and analysis? Kind of harder stuff but I'm curious",
+            "timeStamp": "2021/09/21-18:24:40",
+            "id": "hdsiray",
+            "is_submitter": false,
+            "link_id": "t3_psjdkm",
+            "parent_id": "t3_psjdkm",
+            "score": 1,
+            "stickied": false,
+            "author_name": "lakitustanfield"
+        },
+        "hdrd8z8": {
+            "comment": "Any idea about dynamic analysis like cuckoo?",
+            "timeStamp": "2021/09/21-13:09:39",
+            "id": "hdrd8z8",
+            "is_submitter": false,
+            "link_id": "t3_psjdkm",
+            "parent_id": "t3_psjdkm",
+            "score": 1,
+            "stickied": false,
+            "author_name": "waqarrashid33"
+        }
+    }
+}

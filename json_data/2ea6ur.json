@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "https://www.virustotal.com/en/file/10f0734ccfefc2db770f2aa1fc4d9e86a81c759a56d4387a146b1c2ad81494a8/analysis/\n\nI pulled this url out of the pdf:\nhttps://www.virustotal.com/en/url/0c4ed0aa4ca0d5b7e81b7a960165917f8dd21e1cda936de503105158bfa8a013/analysis/\n\nUltimately leads to Gameover zeus:\nhttps://www.virustotal.com/en/file/f4c3fbcb0cb49eb172a787d7f28e9498314a4eb4e816adfdb1fe21442ab75eb3/analysis/1408705153/",
+        "title": "Pdf attachment emails dropping Gameover zeus",
+        "score": 11,
+        "id": "2ea6ur",
+        "commsNum": 3,
+        "timeStamp": "2014/08/22-08:07:17",
+        "author_name": "Blarghblahblargh",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2ea6ur/pdf_attachment_emails_dropping_gameover_zeus/"
+    },
+    "posts": {}
+}

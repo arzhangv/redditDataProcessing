@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Xenomorph: A newly hatched Banking Trojan",
+        "score": 1,
+        "id": "szg6lo",
+        "commsNum": 1,
+        "timeStamp": "2022/02/23-04:20:31",
+        "author_name": "YioUio",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.threatfabric.com/blogs/xenomorph-a-newly-hatched-banking-trojan.html"
+    },
+    "posts": {
+        "hy6h1y5": {
+            "comment": "...and?",
+            "timeStamp": "2022/02/23-17:25:38",
+            "id": "hy6h1y5",
+            "is_submitter": false,
+            "link_id": "t3_szg6lo",
+            "parent_id": "t3_szg6lo",
+            "score": 2,
+            "stickied": false,
+            "author_name": "seandakid"
+        }
+    }
+}

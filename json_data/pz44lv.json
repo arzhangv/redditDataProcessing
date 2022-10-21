@@ -1,0 +1,143 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Analyzing the Mario Themed Malware",
+        "score": 1,
+        "id": "pz44lv",
+        "commsNum": 11,
+        "timeStamp": "2021/10/01-02:04:33",
+        "author_name": "serhack",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 11,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://serhack.me/articles/analyzing-mario-malware-en/"
+    },
+    "posts": {
+        "hjgiohs": {
+            "comment": "Alright. I'll give it a shot and let you know what I find.",
+            "timeStamp": "2021/11/05-12:59:17",
+            "id": "hjgiohs",
+            "is_submitter": false,
+            "link_id": "t3_pz44lv",
+            "parent_id": "t1_hif1m44",
+            "score": 1,
+            "stickied": false,
+            "author_name": "NightWolf56"
+        },
+        "hif1m44": {
+            "comment": "I worked with diff between youtube.dl and the strings from the excutable. Once I identified the main section, it was easy to decode how it worked.",
+            "timeStamp": "2021/10/28-12:10:07",
+            "id": "hif1m44",
+            "is_submitter": true,
+            "link_id": "t3_pz44lv",
+            "parent_id": "t1_hi5g7fj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "serhack"
+        },
+        "hi5g7fj": {
+            "comment": "Will do! Did you figure out how they embedded their code inside janma.exe or how to pull it out nicely? I agree it looks similar to pyinstaller but not quiet. The sample I have seems to have a lot of youtube.dl stuffed in with it.",
+            "timeStamp": "2021/10/26-12:12:03",
+            "id": "hi5g7fj",
+            "is_submitter": false,
+            "link_id": "t3_pz44lv",
+            "parent_id": "t1_hhy9l4o",
+            "score": 2,
+            "stickied": false,
+            "author_name": "NightWolf56"
+        },
+        "hhy9l4o": {
+            "comment": "You're welcome. Please share any noticeable things if you discover something important. I managed to recover some old binaries (~January 2020) and the attackers left many meta-data.",
+            "timeStamp": "2021/10/24-21:54:48",
+            "id": "hhy9l4o",
+            "is_submitter": true,
+            "link_id": "t3_pz44lv",
+            "parent_id": "t1_hhwog7w",
+            "score": 2,
+            "stickied": false,
+            "author_name": "serhack"
+        },
+        "hhwog7w": {
+            "comment": "Thanks for the writeup! I came across this campaign a while ago bit didn't get very far. I think I'll dig out the sample I had again.",
+            "timeStamp": "2021/10/24-13:50:11",
+            "id": "hhwog7w",
+            "is_submitter": false,
+            "link_id": "t3_pz44lv",
+            "parent_id": "t3_pz44lv",
+            "score": 2,
+            "stickied": false,
+            "author_name": "NightWolf56"
+        },
+        "hgrh1wv": {
+            "comment": "[removed]",
+            "timeStamp": "2021/10/15-10:31:21",
+            "id": "hgrh1wv",
+            "is_submitter": false,
+            "link_id": "t3_pz44lv",
+            "parent_id": "t3_pz44lv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hf29bz7": {
+            "comment": "Good writeup man! Thanks for sharing!",
+            "timeStamp": "2021/10/01-21:52:23",
+            "id": "hf29bz7",
+            "is_submitter": false,
+            "link_id": "t3_pz44lv",
+            "parent_id": "t3_pz44lv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Drive_Nightcall"
+        },
+        "hf1ne2s": {
+            "comment": "Hey man! Enjoyed the write-up. The concept of jacking the cookies of a Facebook user to share the campaign is really fascinating!",
+            "timeStamp": "2021/10/01-18:26:45",
+            "id": "hf1ne2s",
+            "is_submitter": false,
+            "link_id": "t3_pz44lv",
+            "parent_id": "t3_pz44lv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Bibikski"
+        },
+        "hf0ljyv": {
+            "comment": "Really does, these guys are clearly very experienced programmers and hackers. The virus itself is clearly no script kiddie feat",
+            "timeStamp": "2021/10/01-13:21:48",
+            "id": "hf0ljyv",
+            "is_submitter": false,
+            "link_id": "t3_pz44lv",
+            "parent_id": "t1_hf0jus4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Mysterious_Ad7232"
+        },
+        "hf0jus4": {
+            "comment": "haha. The fact of auto-spreading malware via Facebook campaigns in the accounts retrieved by malware is impressive. It's a clear method and denotes some experience from the attackers.",
+            "timeStamp": "2021/10/01-13:08:54",
+            "id": "hf0jus4",
+            "is_submitter": true,
+            "link_id": "t3_pz44lv",
+            "parent_id": "t1_hf0h8ty",
+            "score": 3,
+            "stickied": false,
+            "author_name": "serhack"
+        },
+        "hf0h8ty": {
+            "comment": "Jeeez nice read man! Who said people don\u2019t fall for dumb shit hahaha?",
+            "timeStamp": "2021/10/01-12:49:03",
+            "id": "hf0h8ty",
+            "is_submitter": false,
+            "link_id": "t3_pz44lv",
+            "parent_id": "t3_pz44lv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Mysterious_Ad7232"
+        }
+    }
+}

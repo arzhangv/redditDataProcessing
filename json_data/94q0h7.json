@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I was recently hacked on a game. I was wondering if there was any way to find the key logger. Im just worried that they come for the rest of my games/personal accounts.",
+        "title": "Need help finding a keylogger",
+        "score": 0,
+        "id": "94q0h7",
+        "commsNum": 6,
+        "timeStamp": "2018/08/04-23:45:40",
+        "author_name": "Edwd",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/94q0h7/need_help_finding_a_keylogger/"
+    },
+    "posts": {
+        "e3ox63r": {
+            "comment": "My buddy said it was most likely a keylogger, but i have no idea since the rest of my stuff is untouched.",
+            "timeStamp": "2018/08/06-01:46:58",
+            "id": "e3ox63r",
+            "is_submitter": true,
+            "link_id": "t3_94q0h7",
+            "parent_id": "t1_e3n4uq4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Edwd"
+        },
+        "e3ox5i7": {
+            "comment": "sorry :(",
+            "timeStamp": "2018/08/06-01:46:20",
+            "id": "e3ox5i7",
+            "is_submitter": true,
+            "link_id": "t3_94q0h7",
+            "parent_id": "t1_e3mx8um",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Edwd"
+        },
+        "e3ox5dr": {
+            "comment": "no i use mostly all different passwords",
+            "timeStamp": "2018/08/06-01:46:13",
+            "id": "e3ox5dr",
+            "is_submitter": true,
+            "link_id": "t3_94q0h7",
+            "parent_id": "t1_e3mxd5c",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Edwd"
+        },
+        "e3n4uq4": {
+            "comment": "Perhaps you were phished. Or maybe you were credential stuffed? What makes you so sure you got key logged?",
+            "timeStamp": "2018/08/05-04:46:05",
+            "id": "e3n4uq4",
+            "is_submitter": false,
+            "link_id": "t3_94q0h7",
+            "parent_id": "t3_94q0h7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "lolsrsly00"
+        },
+        "e3mxd5c": {
+            "comment": "Do you use that password anywhere else?",
+            "timeStamp": "2018/08/05-00:22:40",
+            "id": "e3mxd5c",
+            "is_submitter": false,
+            "link_id": "t3_94q0h7",
+            "parent_id": "t3_94q0h7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "inthemixmike"
+        },
+        "e3mx8um": {
+            "comment": "Wrong subreddit however chances are your password is poor or used somewhere else that got hacked",
+            "timeStamp": "2018/08/05-00:19:06",
+            "id": "e3mx8um",
+            "is_submitter": false,
+            "link_id": "t3_94q0h7",
+            "parent_id": "t3_94q0h7",
+            "score": 5,
+            "stickied": false,
+            "author_name": "xyvo"
+        }
+    }
+}

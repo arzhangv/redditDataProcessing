@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I'm looking for chromium based malicious extensions samples. Is there any repository with samples available for download?",
+        "title": "Malicious extensions samples",
+        "score": 1,
+        "id": "ulmsda",
+        "commsNum": 0,
+        "timeStamp": "2022/05/09-01:48:15",
+        "author_name": "tlzr",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ulmsda/malicious_extensions_samples/"
+    },
+    "posts": {
+        "i7xr5lp": {
+            "comment": "[removed]",
+            "timeStamp": "2022/05/09-09:31:41",
+            "id": "i7xr5lp",
+            "is_submitter": false,
+            "link_id": "t3_ulmsda",
+            "parent_id": "t1_i7xqoe4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "i7xqoe4": {
+            "comment": "[removed]",
+            "timeStamp": "2022/05/09-09:28:30",
+            "id": "i7xqoe4",
+            "is_submitter": false,
+            "link_id": "t3_ulmsda",
+            "parent_id": "t3_ulmsda",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "i7wgybj": {
+            "comment": "I'm not sure where but I'd like to know as well.",
+            "timeStamp": "2022/05/09-02:58:53",
+            "id": "i7wgybj",
+            "is_submitter": false,
+            "link_id": "t3_ulmsda",
+            "parent_id": "t3_ulmsda",
+            "score": 1,
+            "stickied": false,
+            "author_name": "BC4Allah"
+        }
+    }
+}

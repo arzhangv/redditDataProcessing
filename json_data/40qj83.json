@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Just revieved 2 javascripts via e-mail yesterday. \n\nThanks to another post here on Reddit I'm guessing they were a link to download ransomware or some other heinous exe. I thot I'd post here the details of these .js files for those of you in the know to examine. They're most... interesting.\n\nFirst, I got sent two of them. The basic e-mail contained this:\n\n&gt;Hello my name is Ben ! \n&gt;Resume attached,\n&gt;I am looking forward to hearing from you \n&gt;Sincerely \n&gt;Ben\n\nAttached to this was a .zip file named Ben Glenn.zip. Inside that was a Ben Glenn.js\n\nThe contents of the Ben Glenn.js (it was minimized) looks like this:\n\n[http://pastebin.com/Pwrc1ZqQ](http://pastebin.com/Pwrc1ZqQ)\n\nIn the second e-mail, the name was changed to Ted and the .zip file to Ted White.zip. The contents of the Ted White.js looks like this:\n\n[http://pastebin.com/v4c87C73](http://pastebin.com/v4c87C73)\n\nI'm not a JS programmer but this looked pretty amazing to me. The creator of this managed to create two identical packages but buried the data in enough random garbage that it would probably slip by most scanners (it did mine).\n\nOnce you look at it though, it's not too difficult to figure out. If you jam all of the first variables together and then pull out every third letter, you get this for the final function.\n\n[http://pastebin.com/bhYYKW8L](http://pastebin.com/bhYYKW8L)\n\nJust thot some of you would find this interesting.\n\nOne even more puzzling thing... when I tried to paste the function into pastebin, it forced me to do a captcha thinking it was spam.\n\n\n*edit*\n\nGot brave and decided to check the download link an yep, it works.  But, BitDefender stopped it from downloading finding it to be Trojan.GenericKD.2979155",
+        "title": "Javascript Resume recieved via e-mail",
+        "score": 3,
+        "id": "40qj83",
+        "commsNum": 6,
+        "timeStamp": "2016/01/12-21:15:49",
+        "author_name": "Fengist",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/40qj83/javascript_resume_recieved_via_email/"
+    },
+    "posts": {}
+}

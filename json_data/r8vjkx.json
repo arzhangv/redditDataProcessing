@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": " I keep getting notifications of Wacatac.B!ml on files I know are clean, and this is getting pretty annoying and tiresome.\u00a0\u00a0Is there a way to disable just this particular detection, as it is clearly pretty close to useless?",
+        "title": "Clean file keeps getting detected as wacatac.b!ml, cant delete the defender \"notification\"",
+        "score": 1,
+        "id": "r8vjkx",
+        "commsNum": 4,
+        "timeStamp": "2021/12/04-10:17:28",
+        "author_name": "azyxi",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/r8vjkx/clean_file_keeps_getting_detected_as_wacatacbml/"
+    },
+    "posts": {
+        "hn91y9m": {
+            "comment": "Add an Exclusion to Windows Defender. Usually if your fast enough. To open Windefender it will allow you to do it the main box before it moves to quarantine or deletes it.",
+            "timeStamp": "2021/12/04-14:48:52",
+            "id": "hn91y9m",
+            "is_submitter": false,
+            "link_id": "t3_r8vjkx",
+            "parent_id": "t3_r8vjkx",
+            "score": 2,
+            "stickied": false,
+            "author_name": "blabbities"
+        },
+        "hn8ztom": {
+            "comment": "[deleted]",
+            "timeStamp": "2021/12/04-14:33:55",
+            "id": "hn8ztom",
+            "is_submitter": false,
+            "link_id": "t3_r8vjkx",
+            "parent_id": "t3_r8vjkx",
+            "score": -2,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hn8g1ei": {
+            "comment": "[This thread](https://answers.microsoft.com/en-us/protect/forum/all/overly-eager-heuristics-for-trojanwin32wacatacbml/6f2a72f3-3978-48ac-9fb7-fbe82c686ae3) might help you understand what is happening.  Speaking from experience, if these files are written by you, it's better to learn how to rewrite your code to avoid false positives than to try to disable the detection, especially if you plan to distribute the code.\n\nIf this doesn't apply to you, or you just don't care, [this link](https://www.majorgeeks.com/content/page/how_to_manage_windows_defender_antivirus_found_threats.html) shows how to disable the specific detection on your machine.  It involves getting it detected, first, then browsing through a few menus to allow the threat.  I have done this in the past while testing exploit tools, so I know it works.",
+            "timeStamp": "2021/12/04-12:11:28",
+            "id": "hn8g1ei",
+            "is_submitter": false,
+            "link_id": "t3_r8vjkx",
+            "parent_id": "t3_r8vjkx",
+            "score": 3,
+            "stickied": false,
+            "author_name": "godlyfrog"
+        },
+        "hn84gqc": {
+            "comment": "If you're confident it's a false positive, just set an exception for that file in your AV.",
+            "timeStamp": "2021/12/04-10:50:31",
+            "id": "hn84gqc",
+            "is_submitter": false,
+            "link_id": "t3_r8vjkx",
+            "parent_id": "t3_r8vjkx",
+            "score": 4,
+            "stickied": false,
+            "author_name": "JackedRightUp"
+        }
+    }
+}

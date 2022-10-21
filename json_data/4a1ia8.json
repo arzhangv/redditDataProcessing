@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "PowerSniff Malware Used in Macro-based Attacks",
+        "score": 1,
+        "id": "4a1ia8",
+        "commsNum": 0,
+        "timeStamp": "2016/03/11-16:10:53",
+        "author_name": "mackwage",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://researchcenter.paloaltonetworks.com/2016/03/powersniff-malware-used-in-macro-based-attacks/"
+    },
+    "posts": {}
+}

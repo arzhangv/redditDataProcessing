@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "\n\nZeus v2 Malware Analysis - Part I",
+        "score": 14,
+        "id": "rbjaj",
+        "commsNum": 12,
+        "timeStamp": "2012/03/24-09:48:44",
+        "author_name": "g0dmoney",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 12,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": null,
+        "url": "http://sysforensics.org/2012/03/zeus-v2-malware-analysis-part-i.html?m=1"
+    },
+    "posts": {}
+}

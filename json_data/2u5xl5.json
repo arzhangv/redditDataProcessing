@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Reversing packed malware sample",
+        "score": 1,
+        "id": "2u5xl5",
+        "commsNum": 0,
+        "timeStamp": "2015/01/29-20:28:58",
+        "author_name": "live_dont_exist",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://ardsec.blogspot.com/2015/01/a-malware-sample-i-analyzed.html"
+    },
+    "posts": {}
+}

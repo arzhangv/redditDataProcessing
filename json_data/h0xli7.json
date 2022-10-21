@@ -1,0 +1,187 @@
+{
+    "op": {
+        "upvote_ratio": 0.89,
+        "selftext": "",
+        "title": "New Avaddon Ransomware. Upon running it the background is changed to the following and creates a new directory, in my case, an empty Z folder. Within the C drive, the ransomware note is created with the following instructions. The process name is sava.exe with description being sava.",
+        "score": 24,
+        "id": "h0xli7",
+        "commsNum": 15,
+        "timeStamp": "2020/06/11-04:32:55",
+        "author_name": "LMJR500Army",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 15,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://i.redd.it/7uk6fxdhn9451.png"
+    },
+    "posts": {
+        "fvsgeyt": {
+            "comment": "[removed]",
+            "timeStamp": "2020/06/23-15:14:30",
+            "id": "fvsgeyt",
+            "is_submitter": false,
+            "link_id": "t3_h0xli7",
+            "parent_id": "t3_h0xli7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fuyxl0v": {
+            "comment": "[removed]",
+            "timeStamp": "2020/06/15-19:17:18",
+            "id": "fuyxl0v",
+            "is_submitter": false,
+            "link_id": "t3_h0xli7",
+            "parent_id": "t1_funaw7s",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fuyv8xi": {
+            "comment": "[removed]",
+            "timeStamp": "2020/06/15-18:54:44",
+            "id": "fuyv8xi",
+            "is_submitter": false,
+            "link_id": "t3_h0xli7",
+            "parent_id": "t3_h0xli7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fut1sfx": {
+            "comment": "r/Ransomware",
+            "timeStamp": "2020/06/14-08:17:39",
+            "id": "fut1sfx",
+            "is_submitter": false,
+            "link_id": "t3_h0xli7",
+            "parent_id": "t3_h0xli7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DadsDepresingChicken"
+        },
+        "funaw7s": {
+            "comment": "Can you provide hash?",
+            "timeStamp": "2020/06/12-15:33:57",
+            "id": "funaw7s",
+            "is_submitter": false,
+            "link_id": "t3_h0xli7",
+            "parent_id": "t3_h0xli7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "realcats"
+        },
+        "fumjfra": {
+            "comment": "[removed]",
+            "timeStamp": "2020/06/12-11:39:26",
+            "id": "fumjfra",
+            "is_submitter": false,
+            "link_id": "t3_h0xli7",
+            "parent_id": "t3_h0xli7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ftr47wh": {
+            "comment": "[removed]",
+            "timeStamp": "2020/06/11-17:06:16",
+            "id": "ftr47wh",
+            "is_submitter": false,
+            "link_id": "t3_h0xli7",
+            "parent_id": "t3_h0xli7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ftppizm": {
+            "comment": "sample? sample source?",
+            "timeStamp": "2020/06/11-10:09:01",
+            "id": "ftppizm",
+            "is_submitter": false,
+            "link_id": "t3_h0xli7",
+            "parent_id": "t3_h0xli7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "snwl_pm"
+        },
+        "ftpm4ke": {
+            "comment": "[removed]",
+            "timeStamp": "2020/06/11-09:42:11",
+            "id": "ftpm4ke",
+            "is_submitter": false,
+            "link_id": "t3_h0xli7",
+            "parent_id": "t1_ftpejzu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ftphdd4": {
+            "comment": "Does it require admin privileges ?",
+            "timeStamp": "2020/06/11-09:04:27",
+            "id": "ftphdd4",
+            "is_submitter": false,
+            "link_id": "t3_h0xli7",
+            "parent_id": "t3_h0xli7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "BaGamman"
+        },
+        "ftpejzu": {
+            "comment": "i am sorry, i was playing with words of common saying \"pcaps or it didn't happen\", thinking that you should share sha256 hash of malware file itself. not the ransom key.",
+            "timeStamp": "2020/06/11-08:41:44",
+            "id": "ftpejzu",
+            "is_submitter": false,
+            "link_id": "t3_h0xli7",
+            "parent_id": "t1_ftp8tlj",
+            "score": 2,
+            "stickied": false,
+            "author_name": "apatrid"
+        },
+        "ftp8tlj": {
+            "comment": "I covered up the key",
+            "timeStamp": "2020/06/11-07:53:57",
+            "id": "ftp8tlj",
+            "is_submitter": true,
+            "link_id": "t3_h0xli7",
+            "parent_id": "t1_ftorxcy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "LMJR500Army"
+        },
+        "ftp1cxv": {
+            "comment": "Happened when I tested it as well. Created a new Z: folder.",
+            "timeStamp": "2020/06/11-06:47:18",
+            "id": "ftp1cxv",
+            "is_submitter": false,
+            "link_id": "t3_h0xli7",
+            "parent_id": "t3_h0xli7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "lawrenceabrams"
+        },
+        "ftorxcy": {
+            "comment": "hash, or it didn't happen?",
+            "timeStamp": "2020/06/11-05:10:26",
+            "id": "ftorxcy",
+            "is_submitter": false,
+            "link_id": "t3_h0xli7",
+            "parent_id": "t3_h0xli7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "apatrid"
+        },
+        "ftopwkv": {
+            "comment": "That background is hideous. I think I'd pay for the ransom just to get it removed.",
+            "timeStamp": "2020/06/11-04:45:58",
+            "id": "ftopwkv",
+            "is_submitter": false,
+            "link_id": "t3_h0xli7",
+            "parent_id": "t3_h0xli7",
+            "score": 3,
+            "stickied": false,
+            "author_name": "RiskyPickles"
+        }
+    }
+}

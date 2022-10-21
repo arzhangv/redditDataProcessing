@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "[https://class.malware.re/](https://class.malware.re/)\n\n\ud83d\udde3**CodePerfect**\n\n&amp;#x200B;\n\nCheatsheet? That's underselling this, it appears to be a full introductory course, complete with open source resources. +100.\n\n&amp;#x200B;\n\nI'll have to archive this in case the page ever goes down. It's multi-page though. wget -r might do the trick.",
+        "title": "Malware Analysis Cheatsheet",
+        "score": 1,
+        "id": "uzrc0m",
+        "commsNum": 0,
+        "timeStamp": "2022/05/28-09:53:52",
+        "author_name": "saqfi",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/uzrc0m/malware_analysis_cheatsheet/"
+    },
+    "posts": {
+        "iawv6wf": {
+            "comment": "[removed]",
+            "timeStamp": "2022/06/02-06:58:34",
+            "id": "iawv6wf",
+            "is_submitter": false,
+            "link_id": "t3_uzrc0m",
+            "parent_id": "t3_uzrc0m",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "iafnb52": {
+            "comment": "Thanks, checked it out and it seems interesting.",
+            "timeStamp": "2022/05/29-08:08:55",
+            "id": "iafnb52",
+            "is_submitter": false,
+            "link_id": "t3_uzrc0m",
+            "parent_id": "t3_uzrc0m",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MissPiggyWasABadPig"
+        },
+        "iadfo0g": {
+            "comment": "If it helps at all, I know the guy that teaches that. Coleman Kane, you can follow him on Twitter. He even uses a friend and former coworker as a reference.",
+            "timeStamp": "2022/05/28-17:19:27",
+            "id": "iadfo0g",
+            "is_submitter": false,
+            "link_id": "t3_uzrc0m",
+            "parent_id": "t3_uzrc0m",
+            "score": 1,
+            "stickied": false,
+            "author_name": "stay_spooky"
+        },
+        "iac1ydj": {
+            "comment": "Thats a pretty interesting class, which is weird because those are my daily activities lol",
+            "timeStamp": "2022/05/28-10:34:50",
+            "id": "iac1ydj",
+            "is_submitter": false,
+            "link_id": "t3_uzrc0m",
+            "parent_id": "t3_uzrc0m",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ThePorko"
+        }
+    }
+}

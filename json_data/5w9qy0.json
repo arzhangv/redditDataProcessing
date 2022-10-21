@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Security researchers feel it is time to change the way malware is cataloged... as the malware threat grows larger over time, it is evident traditional strategies may not be successful in the long run",
+        "score": 1,
+        "id": "5w9qy0",
+        "commsNum": 0,
+        "timeStamp": "2017/02/26-03:38:21",
+        "author_name": "bdragonmsl",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://themerkle.com/security-researchers-need-to-find-new-ways-to-categorize-malware-strains/"
+    },
+    "posts": {}
+}

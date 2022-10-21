@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "*Apologies for bad format; on mobile*\n\nSo about a week ago I was trying to download this modifier tool from some Chinese website, for some reason I got inpatient and started clicking a bunch of links, and my pc has been infected ever since. \n\nThis is what my pc looks like right now:\n\nhttps://imgur.com/gallery/vi5F9xE  \n\nHere are some of the things that have been happening: \n\n-Chinese website tabs popping up at random \n\n-A twitter look-a-like logo appearing in the top right corner of my screen every time I log on \n\n-A little t-shirt with a heart on it appearing at the top of the screen; when I click on it, it changes my background to some anime shit\n\n-Random folders with Chinese names showing up in my documents \n\nI installed Malwarebytes and began a premium trial and have done numerous scans and quarantines but nothing has worked, the Chinese news article windows keep opening (though I am able to close them by pressing x). \n\nJust earlier today, my google chrome wouldn\u2019t open, then when I tried to shut down my computer, it was taking forever (wayyy longer than usual) so I just turned off the power supply.\n\nI\u2019m not a techy guy at all, but this virus is pretty creepy and extremely annoying, and with everything being in Chinese, I can\u2019t even understand any of it!\n\nAny help/suggestions would be appreciated.",
+        "title": "Chinese virus on computer??",
+        "score": 1,
+        "id": "f1c69j",
+        "commsNum": 1,
+        "timeStamp": "2020/02/09-09:52:10",
+        "author_name": "MoggTheOtherTwin",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/f1c69j/chinese_virus_on_computer/"
+    },
+    "posts": {
+        "fh3o64b": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2020/02/09-09:52:11",
+            "id": "fh3o64b",
+            "is_submitter": false,
+            "link_id": "t3_f1c69j",
+            "parent_id": "t3_f1c69j",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Is it possible to a trojan to run with a legitimate program?\n\nsorry if it's a noob question\n\nWhat I mean is for a legitimate program to be added a trojan to run when you run the program?\n\nand does blocking that program in firewall inbound and outband rules in firewall may help somehow?\n\nthe trojan that was detected was the exe of the installed program : Wacatac.B!ml \n\ngotta say that I ran the program yesterday and the defender didn't found it\n\nand today when I ran it, I got the notification and the program was closed automatically",
+        "title": "trojan trough a program",
+        "score": 1,
+        "id": "ui1mhz",
+        "commsNum": 0,
+        "timeStamp": "2022/05/04-01:06:56",
+        "author_name": "deamehma",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ui1mhz/trojan_trough_a_program/"
+    },
+    "posts": {
+        "i7ntcnh": {
+            "comment": "If a program would not be able to launch another program we wouldnt have computers as we know them :)\n\n&gt;What I mean is for a legitimate program to be added a trojan to run when you run the program?\n\n[Ever heard of russian puppets?](https://www.alamyimages.fr/photos-images/russian-puppets.html) . Of course, the program you launch can be a box dropping legitimate program and bad ones. \n\n&gt; does blocking that program in firewall inbound and outband rules in firewall may help somehow?\n\nHum, kinda. It may prevent information stealing or computer being remote controlled. But they still can do whatever they want with your computer and files without internet you know : wasting ressources, being destructive...\n\n&gt;the trojan that was detected was the exe of the installed program : Wacatac.B!ml \ngotta say that I ran the program yesterday and the defender didn't found it\nand today when I ran it, I got the notification and the program was closed automatically\n\nWith such detection this could be legitimate or not. Put it on virustotal,  run Malwarebyte change your passwords yada yada",
+            "timeStamp": "2022/05/07-03:06:05",
+            "id": "i7ntcnh",
+            "is_submitter": false,
+            "link_id": "t3_ui1mhz",
+            "parent_id": "t3_ui1mhz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RCEdude"
+        }
+    }
+}

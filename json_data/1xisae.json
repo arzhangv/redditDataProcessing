@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Dynamic Malware Analysis with No Strings Attached - Treating Malware Like a Series of Logic Puzzles",
+        "score": 8,
+        "id": "1xisae",
+        "commsNum": 0,
+        "timeStamp": "2014/02/10-06:48:06",
+        "author_name": "LightningRurik",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.ghettoforensics.com/2014/02/malware-with-no-strings-attached.html"
+    },
+    "posts": {}
+}

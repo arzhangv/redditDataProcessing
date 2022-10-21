@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Announcing Fibratus 1.5.0 - a modern tool for the Windows kernel tracing and observability",
+        "score": 1,
+        "id": "uf9ozn",
+        "commsNum": 0,
+        "timeStamp": "2022/04/30-05:03:14",
+        "author_name": "rabbitstack",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://github.com/rabbitstack/fibratus/releases/tag/v1.5.0"
+    },
+    "posts": {}
+}

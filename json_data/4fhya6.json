@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Is this safe or not?",
+        "score": 1,
+        "id": "4fhya6",
+        "commsNum": 1,
+        "timeStamp": "2016/04/19-07:55:09",
+        "author_name": "mirocj",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.virustotal.com/en/file/8fb56fefc5afa0f3950ca1d32e2a3dc6c56c1d07ca7f1aadde3cb5f77445fcf7/analysis/"
+    },
+    "posts": {}
+}

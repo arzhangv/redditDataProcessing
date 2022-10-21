@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I need some urgent cash for a new laptop. Thought I could sell this tool I co-created, it's called WinElevator, it runs windows apps with admin rights, then those apps can load kernel drivers, good application if you're working with rootkits.\n\nA precompiled, CLI tool is available for $150, and the source for $540. Anyone interested could mail me at tedsimpson114@gmail.com\n",
+        "title": "WinElevator - runs windows apps with admin rights",
+        "score": 0,
+        "id": "8gnm62",
+        "commsNum": 4,
+        "timeStamp": "2018/05/02-21:06:55",
+        "author_name": "jhave21",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8gnm62/winelevator_runs_windows_apps_with_admin_rights/"
+    },
+    "posts": {
+        "dydnzhz": {
+            "comment": "I can just disable UAC if I need to that badly, and if this let's Standard user accounts elevate to Administrator without a password, I hope you've reported it to Microsoft as a bug so they can fix it.",
+            "timeStamp": "2018/05/03-06:06:15",
+            "id": "dydnzhz",
+            "is_submitter": false,
+            "link_id": "t3_8gnm62",
+            "parent_id": "t1_dydhy6j",
+            "score": 1,
+            "stickied": false,
+            "author_name": "kirashi3"
+        },
+        "dydhy6j": {
+            "comment": "But with this tool,  no UAC and no password is needed",
+            "timeStamp": "2018/05/03-03:35:18",
+            "id": "dydhy6j",
+            "is_submitter": true,
+            "link_id": "t3_8gnm62",
+            "parent_id": "t1_dyd8g2k",
+            "score": 0,
+            "stickied": false,
+            "author_name": "jhave21"
+        },
+        "dyddrhz": {
+            "comment": "&gt;I need some urgent cash for a new laptop\n\nPawn shop.",
+            "timeStamp": "2018/05/03-00:51:41",
+            "id": "dyddrhz",
+            "is_submitter": false,
+            "link_id": "t3_8gnm62",
+            "parent_id": "t3_8gnm62",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sephstorm"
+        },
+        "dyd8g2k": {
+            "comment": "Um... Or I can just right click any application and choose Run As Admin. Am I missing something here?",
+            "timeStamp": "2018/05/02-22:09:34",
+            "id": "dyd8g2k",
+            "is_submitter": false,
+            "link_id": "t3_8gnm62",
+            "parent_id": "t3_8gnm62",
+            "score": 3,
+            "stickied": false,
+            "author_name": "kirashi3"
+        }
+    }
+}

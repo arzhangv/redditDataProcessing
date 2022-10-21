@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "on virus total i get this \n\n [https://www.virustotal.com/#/url/f162b6b2c642b1e7b1f86462298bea5b6d1dcabbafe3d02518120e6a3b0c847a/detection](https://www.virustotal.com/#/url/f162b6b2c642b1e7b1f86462298bea5b6d1dcabbafe3d02518120e6a3b0c847a/detection) \n\nand when i used hybrid analysis i got this\n\n [https://www.hybrid-analysis.com/sample/6a9da4aaba5674d74f568447f9113a50d4bde9dd553d710d31f700ae2ed8785a](https://www.hybrid-analysis.com/sample/6a9da4aaba5674d74f568447f9113a50d4bde9dd553d710d31f700ae2ed8785a) \n\nit seems that virustotal says there is 1/70, it this a false positive? should i not download it?",
+        "title": "want to know if this is safe",
+        "score": 1,
+        "id": "bpvny1",
+        "commsNum": 1,
+        "timeStamp": "2019/05/17-12:34:59",
+        "author_name": "throwbirds",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/bpvny1/want_to_know_if_this_is_safe/"
+    },
+    "posts": {
+        "eny0vog": {
+            "comment": "Try https://any.run",
+            "timeStamp": "2019/05/17-12:55:39",
+            "id": "eny0vog",
+            "is_submitter": false,
+            "link_id": "t3_bpvny1",
+            "parent_id": "t3_bpvny1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AlfredoVignale"
+        }
+    }
+}

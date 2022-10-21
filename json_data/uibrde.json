@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Analyzing BlackByte Ransomware's Go-Based Variants",
+        "score": 1,
+        "id": "uibrde",
+        "commsNum": 0,
+        "timeStamp": "2022/05/04-10:24:19",
+        "author_name": "DrinkMoreCodeMore",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.zscaler.com/blogs/security-research/analysis-blackbyte-ransomwares-go-based-variants"
+    },
+    "posts": {}
+}

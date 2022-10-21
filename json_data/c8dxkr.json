@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[removed]",
+        "title": "A new variant of Trojan/Linux.Agent",
+        "score": 1,
+        "id": "c8dxkr",
+        "commsNum": 1,
+        "timeStamp": "2019/07/02-12:38:45",
+        "author_name": "dunnololidk",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/c8dxkr/a_new_variant_of_trojanlinuxagent/"
+    },
+    "posts": {
+        "esm20dk": {
+            "comment": "[removed]",
+            "timeStamp": "2019/07/02-12:42:43",
+            "id": "esm20dk",
+            "is_submitter": false,
+            "link_id": "t3_c8dxkr",
+            "parent_id": "t3_c8dxkr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

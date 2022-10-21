@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I'm trying to download something from there, it looks legit but I want to make sure because the file inside of the .rar that I downloaded is a .exe . Does anybody know if this site is safe?",
+        "title": "Is kcrack.com safe",
+        "score": 1,
+        "id": "ekl2ml",
+        "commsNum": 3,
+        "timeStamp": "2020/01/05-15:37:07",
+        "author_name": "haloha_x",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ekl2ml/is_kcrackcom_safe/"
+    },
+    "posts": {
+        "fddgg1p": {
+            "comment": "No, it is not.",
+            "timeStamp": "2020/01/06-03:46:23",
+            "id": "fddgg1p",
+            "is_submitter": false,
+            "link_id": "t3_ekl2ml",
+            "parent_id": "t3_ekl2ml",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Struppigel"
+        },
+        "fdcbh61": {
+            "comment": "I can't directly answer your question but /r/CrackWatch might be a better place to search for an answer.",
+            "timeStamp": "2020/01/05-16:35:58",
+            "id": "fdcbh61",
+            "is_submitter": false,
+            "link_id": "t3_ekl2ml",
+            "parent_id": "t3_ekl2ml",
+            "score": 2,
+            "stickied": false,
+            "author_name": "erbat"
+        },
+        "fdcat0r": {
+            "comment": "Can't think of a single reason why a site that specializes in sharing illegal software cracks wouldn't be safe.",
+            "timeStamp": "2020/01/05-16:29:11",
+            "id": "fdcat0r",
+            "is_submitter": false,
+            "link_id": "t3_ekl2ml",
+            "parent_id": "t3_ekl2ml",
+            "score": 10,
+            "stickied": false,
+            "author_name": "JulienneDelphiki"
+        }
+    }
+}

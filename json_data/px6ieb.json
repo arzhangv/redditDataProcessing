@@ -1,0 +1,220 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hi guys,\n\n&amp;#x200B;\n\nI have a DIY home built PC and I am just using Malwarebytes + Avast, both the free version. I have very little knowledge of antimalware/antivirus/antihacking technologies. Is this the best combo or should I go with a different freeware, or buy a specific firms product? When I research it they all seem the same to me. I also use Tinywall as my firewall. Is this pretty good, or should I use/buy something else? (either physical firewall or virtual). I just use my computer for normal residential stuff and working from home.",
+        "title": "Best Malware Program",
+        "score": 1,
+        "id": "px6ieb",
+        "commsNum": 18,
+        "timeStamp": "2021/09/28-06:34:10",
+        "author_name": "GBR505",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 18,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/px6ieb/best_malware_program/"
+    },
+    "posts": {
+        "henkc29": {
+            "comment": "Kaspersky or Bitdefender are ranked really high consistently. Funnily.enough I was doing some research her is a Youtube channel PC Security Channel who is focused on testing out AVs. He seems to have been doing it a while and seems to report the same Kaspersky and Bitdefender. To me Bitdefender is new so I just went with paying for Kaspersky. I know historically in the past it was the best and to see it 15ish years later still high rated gives me confidence in the ability to do it's job. However I dont think they have a free version...and I know Bitdefender does from that YT channel. So if your sticking to free. Maybe Bitdefender. I haven't used MalwareBytes AV ever or their Supplement scanner (if they still have that) so no comment. As far as Avast, I work as red teamed and sometimes have to mimic exploits or bad stuff and on my past VM I grabbed it and used to download all sorts of stuff and write my own and I can't say I was too impressed with it. It was just decent in my experience",
+            "timeStamp": "2021/09/28-15:54:53",
+            "id": "henkc29",
+            "is_submitter": false,
+            "link_id": "t3_px6ieb",
+            "parent_id": "t3_px6ieb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "blabbities"
+        },
+        "heng3vx": {
+            "comment": "This is actually true lol. The only time I\u2019ve seen something that is better than WD is like an EDR. YMMV.",
+            "timeStamp": "2021/09/28-15:22:19",
+            "id": "heng3vx",
+            "is_submitter": false,
+            "link_id": "t3_px6ieb",
+            "parent_id": "t1_helr63h",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DataClusterz"
+        },
+        "hemapli": {
+            "comment": "There are several organizations that test AV programs. The one I prefer is AV Comparatives (https://www.av-comparatives.org/). They have a number of different tests but here's a link to their latest \"Real World\" test (you can use the dropdown to chose other tests): https://www.av-comparatives.org/comparison/\n\nWhile the \"Best\" changes with each test Bitdefender and Kaspersky are always at the top. I use the paid version of Bitdefender. The free version uses the same AV engine, it just lacks all the extras.\n\nIn this particular test Avast did fine, Malwarebytes not so fine. It had a lower detection rate and several false positives.\n\nMalwarebytes is usually used as a \"second opinion\", just run on demand. It is good at finding things that are already in the system, not as good keeping things out in the first place.\n\nAs someone else already mentioned Windows Defender is fine for most people. It wasn't always that way but Microsoft has improved it quite a lot over the years, as you can see in this test.",
+            "timeStamp": "2021/09/28-10:28:04",
+            "id": "hemapli",
+            "is_submitter": false,
+            "link_id": "t3_px6ieb",
+            "parent_id": "t3_px6ieb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Remo_253"
+        },
+        "hem9ulw": {
+            "comment": "Well, let's say that third party software contains a virus, it could be save/hide in the windows register, in the startup of your computer or could be a logic bomb, malicious code that gets executed when certain conditions met.\n\nCracked software sometimes needs you to turn off antivirus and firewall because it will get recognized and deleted by the antivirus.\n\nA fresh os install is the easiest solution to get rid of viruses. \n\nI would suggest software from verified sources or even open-source.",
+            "timeStamp": "2021/09/28-10:22:11",
+            "id": "hem9ulw",
+            "is_submitter": false,
+            "link_id": "t3_px6ieb",
+            "parent_id": "t1_helm6wg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "giorgosioak"
+        },
+        "hem3bdq": {
+            "comment": "They will just battle each other for resources and your computer\u2019s performance can be significantly impacted",
+            "timeStamp": "2021/09/28-09:37:42",
+            "id": "hem3bdq",
+            "is_submitter": false,
+            "link_id": "t3_px6ieb",
+            "parent_id": "t1_hem1dgx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Trolling_turd"
+        },
+        "hem1dgx": {
+            "comment": "What happens if you run 2? \n\nAm I able to keep Avast + Mawarebytes and have Windows Defender?",
+            "timeStamp": "2021/09/28-09:24:25",
+            "id": "hem1dgx",
+            "is_submitter": true,
+            "link_id": "t3_px6ieb",
+            "parent_id": "t1_helr63h",
+            "score": 1,
+            "stickied": false,
+            "author_name": "GBR505"
+        },
+        "helr63h": {
+            "comment": "Tbh windows defender is one of the best AVs right now. Whatever you do, plz don\u2019t run 2 antivirus programs",
+            "timeStamp": "2021/09/28-08:14:29",
+            "id": "helr63h",
+            "is_submitter": false,
+            "link_id": "t3_px6ieb",
+            "parent_id": "t3_px6ieb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Trolling_turd"
+        },
+        "helmg6c": {
+            "comment": "[removed]",
+            "timeStamp": "2021/09/28-07:41:03",
+            "id": "helmg6c",
+            "is_submitter": false,
+            "link_id": "t3_px6ieb",
+            "parent_id": "t1_helhlvh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "helm6wg": {
+            "comment": ".",
+            "timeStamp": "2021/09/28-07:39:13",
+            "id": "helm6wg",
+            "is_submitter": true,
+            "link_id": "t3_px6ieb",
+            "parent_id": "t1_hell4zi",
+            "score": 1,
+            "stickied": false,
+            "author_name": "GBR505"
+        },
+        "hell4zi": {
+            "comment": "If you are using authenticated programs, not cracked versions, or any weird website visits you should be ok from viruses.\n\nMalwarebytes is top tier antivirus. Also they provide nice tools on their website. When I clean friends computers I use it with their other software. \n\n(I wouldn't use any antivirus tbh in any of my computers if I had windows installed, they just slow down the computer in my opinion)\n\nAlso make sure your password on wifi isn't the default and be at least 10 characters (put a special character for safety).\n\nCareful with the freeware you install and you will be pretty safe",
+            "timeStamp": "2021/09/28-07:31:42",
+            "id": "hell4zi",
+            "is_submitter": false,
+            "link_id": "t3_px6ieb",
+            "parent_id": "t3_px6ieb",
+            "score": 0,
+            "stickied": false,
+            "author_name": "giorgosioak"
+        },
+        "helkykk": {
+            "comment": "[removed]",
+            "timeStamp": "2021/09/28-07:30:26",
+            "id": "helkykk",
+            "is_submitter": false,
+            "link_id": "t3_px6ieb",
+            "parent_id": "t3_px6ieb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "helj37j": {
+            "comment": "So I guess I could partition the HD, run linux for me and Microsoft for work?",
+            "timeStamp": "2021/09/28-07:16:57",
+            "id": "helj37j",
+            "is_submitter": true,
+            "link_id": "t3_px6ieb",
+            "parent_id": "t1_helhulj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "GBR505"
+        },
+        "helhulj": {
+            "comment": "Linux is open source hackers built it wirh thier blood it is 100\u00d7 times secure then windows",
+            "timeStamp": "2021/09/28-07:07:40",
+            "id": "helhulj",
+            "is_submitter": false,
+            "link_id": "t3_px6ieb",
+            "parent_id": "t3_px6ieb",
+            "score": -6,
+            "stickied": false,
+            "author_name": "aacharya__Chanakya"
+        },
+        "helhp9n": {
+            "comment": "And thank you!",
+            "timeStamp": "2021/09/28-07:06:33",
+            "id": "helhp9n",
+            "is_submitter": true,
+            "link_id": "t3_px6ieb",
+            "parent_id": "t1_helgq51",
+            "score": 1,
+            "stickied": false,
+            "author_name": "GBR505"
+        },
+        "helhog4": {
+            "comment": "Ok so Malware Bytes + Avast free version is pretty solid then?",
+            "timeStamp": "2021/09/28-07:06:23",
+            "id": "helhog4",
+            "is_submitter": true,
+            "link_id": "t3_px6ieb",
+            "parent_id": "t1_helgq51",
+            "score": 1,
+            "stickied": false,
+            "author_name": "GBR505"
+        },
+        "helhlvh": {
+            "comment": "Since I use it for work I am using Microsoft. I don't think there is a way around that. So really Microsoft PCs are inherently insecure and Linux (I guess to to low market penetration/no viruses targeting it?) is significantly more secure?",
+            "timeStamp": "2021/09/28-07:05:50",
+            "id": "helhlvh",
+            "is_submitter": true,
+            "link_id": "t3_px6ieb",
+            "parent_id": "t1_helgfik",
+            "score": 1,
+            "stickied": false,
+            "author_name": "GBR505"
+        },
+        "helgq51": {
+            "comment": "I wouldn't worry too much about whats the best setup and instead just start. You will find what setup works best for you as you go and it will change over time as you gain more experience. Many people start with nothing more than a hand me down computer from their parents and a desire to learn so you are already off to a good start!",
+            "timeStamp": "2021/09/28-06:59:11",
+            "id": "helgq51",
+            "is_submitter": false,
+            "link_id": "t3_px6ieb",
+            "parent_id": "t3_px6ieb",
+            "score": 3,
+            "stickied": false,
+            "author_name": "ksr_malware"
+        },
+        "helgfik": {
+            "comment": "Use linux",
+            "timeStamp": "2021/09/28-06:56:56",
+            "id": "helgfik",
+            "is_submitter": false,
+            "link_id": "t3_px6ieb",
+            "parent_id": "t3_px6ieb",
+            "score": -5,
+            "stickied": false,
+            "author_name": "aacharya__Chanakya"
+        }
+    }
+}

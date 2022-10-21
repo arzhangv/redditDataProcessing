@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Ransomware Actor Abuses Genshin Impact Anti-Cheat Driver to Kill Antivirus",
+        "score": 1,
+        "id": "wxfykz",
+        "commsNum": 0,
+        "timeStamp": "2022/08/25-07:38:27",
+        "author_name": "CyberMasterV",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.trendmicro.com/en_us/research/22/h/ransomware-actor-abuses-genshin-impact-anti-cheat-driver-to-kill-antivirus.html"
+    },
+    "posts": {
+        "ilucurl": {
+            "comment": "I personally only install games with unrestricted kernel access /s",
+            "timeStamp": "2022/08/26-00:44:57",
+            "id": "ilucurl",
+            "is_submitter": false,
+            "link_id": "t3_wxfykz",
+            "parent_id": "t3_wxfykz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ISpikInglisVeriBest"
+        }
+    }
+}

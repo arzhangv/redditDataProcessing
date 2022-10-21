@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Sorry if this is not what this subreddit is for but I'm doing some research on memory-based malware. Malware that injects itself into into legitimate processes via DLL. \nOne example I found was Kaspersky Labs:\nhttp://www.securelist.com/en/blog/687/A_unique_fileless_bot_attacks_news_site_visitors\n\nI am also trying to find some techniques that will discover the malware since most AV can't pick it up.\n\nAny info on this type of attacks or some examples would be much appreciated! Thanks.",
+        "title": "Memory-Based Malware Analysis",
+        "score": 14,
+        "id": "1y5f6p",
+        "commsNum": 5,
+        "timeStamp": "2014/02/17-07:18:24",
+        "author_name": "sdv1225",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/1y5f6p/memorybased_malware_analysis/"
+    },
+    "posts": {}
+}

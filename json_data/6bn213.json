@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Some machines can\u2019t be infected by WannaCry because they have been already infected by Adylkuzz",
+        "score": 1,
+        "id": "6bn213",
+        "commsNum": 0,
+        "timeStamp": "2017/05/16-23:33:55",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/59170/malware/adylkuzz-botnet-wannacry.html"
+    },
+    "posts": {}
+}

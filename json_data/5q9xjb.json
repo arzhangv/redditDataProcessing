@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hello,\n\ni am currently writing my Masters Thesis in the field of Computer Forensics. The goal is the development of a live response tool for Linux Systems. \n\nTo test my implementation i am looking for Linux Malware or VM Images of infected Linux Systems. Unfortunately i haven't found any with my Google skills.\n\nDoes anybody know of some sources to aquire Linux Malware? Like a Keylogger or Rootkit?\n\nThanks in advance!",
+        "title": "Sources for Linux Malware",
+        "score": 21,
+        "id": "5q9xjb",
+        "commsNum": 15,
+        "timeStamp": "2017/01/26-04:42:29",
+        "author_name": "stop_dis",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 15,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5q9xjb/sources_for_linux_malware/"
+    },
+    "posts": {}
+}

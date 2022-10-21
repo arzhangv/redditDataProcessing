@@ -1,0 +1,143 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hey guys, just wanted to see if anyone here has heard about a website called wingfatgroup. I was looking up food related questions and found this website on the main page for my Google search. It redirected me to places like chpok, downloadit-on, thekolnews,forever stopper, AK.hetaint, and plarium. I get the feeling this was just a pop up malware since it ended up redirecting me to raid shadow legends, but just wanted to know if anyone here knows about these places.",
+        "title": "Redirected to multiple websites",
+        "score": 1,
+        "id": "scpvin",
+        "commsNum": 0,
+        "timeStamp": "2022/01/25-14:35:33",
+        "author_name": "SpawnTrap71",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/scpvin/redirected_to_multiple_websites/"
+    },
+    "posts": {
+        "hucd1yw": {
+            "comment": "There was one that gave me some trouble. I looked up the up which said it was some Google servers in Kansas, even though there isn't any in Kansas. Other sites point me towards googles HQ. Other than that I am just looking up what these IPS area so far it seems I'm safe here.",
+            "timeStamp": "2022/01/26-12:31:18",
+            "id": "hucd1yw",
+            "is_submitter": true,
+            "link_id": "t3_scpvin",
+            "parent_id": "t1_huccgow",
+            "score": 1,
+            "stickied": false,
+            "author_name": "SpawnTrap71"
+        },
+        "huccgow": {
+            "comment": "you have to look it all up until you figure out what's going on.  a lot of the ip addresses you see will be microsoft talking to your box.",
+            "timeStamp": "2022/01/26-12:27:52",
+            "id": "huccgow",
+            "is_submitter": false,
+            "link_id": "t3_scpvin",
+            "parent_id": "t1_huc94zf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sfzombie13"
+        },
+        "huc94zf": {
+            "comment": "Oh ok I see now. I do plan on being more vigilant on what happens on my network. I always stay on popular sites and I'm pretty careful on what I click, but there are times I just slip up. I downloaded Wireshark and it's hard to understand what is going on. Lol at first I got a little freaked out when I saw data sending over to something called arrisgro. Found out that Xfinity modems are made by a company called Arris.",
+            "timeStamp": "2022/01/26-12:08:17",
+            "id": "huc94zf",
+            "is_submitter": true,
+            "link_id": "t3_scpvin",
+            "parent_id": "t1_hubw4cv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "SpawnTrap71"
+        },
+        "hubw4cv": {
+            "comment": "it wasn't a device i found, just open ports on my box talking to things i knew about.  no way i opened ports 7.9. 11, and 13.  i found some of those are sometimes used by malware as c&amp;c channels.  stealthy shit that elided a couple of virus scans so i nuked it with dban and reflashed the bios just in case of a root kit.  it's pretty easy to evade a scan, just recompile the malware with a couple of things added to get a new signature.   you should keep a baseline scan of your network and check every so often for beacons and strange things.  i once found a guy who was sabotaging his work network so he go work from his hotel room by analyzing traffic on a pcap.  he thought he was smarter than me.  he was wrong.",
+            "timeStamp": "2022/01/26-10:51:06",
+            "id": "hubw4cv",
+            "is_submitter": false,
+            "link_id": "t3_scpvin",
+            "parent_id": "t1_hubtt82",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sfzombie13"
+        },
+        "hubtt82": {
+            "comment": "Must be fucking terrifying finding devices you don't know on your network. In this situation I think I got it figured out. I removed everything and any scan I do comes out fine.",
+            "timeStamp": "2022/01/26-10:37:25",
+            "id": "hubtt82",
+            "is_submitter": true,
+            "link_id": "t3_scpvin",
+            "parent_id": "t1_hubqdky",
+            "score": 1,
+            "stickied": false,
+            "author_name": "SpawnTrap71"
+        },
+        "hubqdky": {
+            "comment": "i would've missed mine had it not been for a wireshark scan where i caught my computer talking to others on my network from ports 9 and 11 and some other shit  it had been acting funny for a bit, small stuff i couldn't explain.  i'm not really good with malware removal, just starting to reverse it.  there are some good forums on it though.",
+            "timeStamp": "2022/01/26-10:16:55",
+            "id": "hubqdky",
+            "is_submitter": false,
+            "link_id": "t3_scpvin",
+            "parent_id": "t1_hubeamq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sfzombie13"
+        },
+        "hubeamq": {
+            "comment": "I did that before too, I was using edge and it allowed some random files to be downloaded on my computer. I freaked out and just wiped it completely clean. I did run an offline scan before noticing the size of those cookies and it didn't warn me about them when I checked windows defender. Problem is I don't know if that's how you check offline scans, sucks that it doesn't give you a report after it's done.",
+            "timeStamp": "2022/01/26-09:06:08",
+            "id": "hubeamq",
+            "is_submitter": true,
+            "link_id": "t3_scpvin",
+            "parent_id": "t1_huajnaq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "SpawnTrap71"
+        },
+        "huajnaq": {
+            "comment": "if you had that many cookies i would run an offline scan just in case.  i recently had to nuke my whole system due to some bullshit i picked up, or had sent to me, who the hell knows now.",
+            "timeStamp": "2022/01/26-05:45:37",
+            "id": "huajnaq",
+            "is_submitter": false,
+            "link_id": "t3_scpvin",
+            "parent_id": "t1_hu8t40w",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sfzombie13"
+        },
+        "hu8t40w": {
+            "comment": "I downloaded Malwarebytes and it says I'm fine too. I use Firefox and I have it so it blocks out cookies that can track me. The websites I got redirected to did have some cookies on my system, which I deleted, and the ones that Firefox blocked are classified as tracking content by Firefox.",
+            "timeStamp": "2022/01/25-18:58:13",
+            "id": "hu8t40w",
+            "is_submitter": true,
+            "link_id": "t3_scpvin",
+            "parent_id": "t1_hu8hx48",
+            "score": 1,
+            "stickied": false,
+            "author_name": "SpawnTrap71"
+        },
+        "hu8gbaj": {
+            "comment": "I ran windows defender and it said nothing was found. Been kinda scared to go back online on my laptop, so all the info I've shared I've gathered with plane mode on that device lol. I guess the only way to find out if I'm affected by adware is by going back to my browser.",
+            "timeStamp": "2022/01/25-17:27:49",
+            "id": "hu8gbaj",
+            "is_submitter": true,
+            "link_id": "t3_scpvin",
+            "parent_id": "t1_hu8e8t2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "SpawnTrap71"
+        },
+        "hu8dw0o": {
+            "comment": "Yeah I looked further into it and it mostly leads to just being pop ups. The original website I clicked on seems like its legit but the exact link I clicked on was an html file. Pretty sure that's what caused it",
+            "timeStamp": "2022/01/25-17:10:53",
+            "id": "hu8dw0o",
+            "is_submitter": true,
+            "link_id": "t3_scpvin",
+            "parent_id": "t1_hu8dh40",
+            "score": 1,
+            "stickied": false,
+            "author_name": "SpawnTrap71"
+        }
+    }
+}

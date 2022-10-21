@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Anyone seen this before?  \n\n\nhttps://preview.redd.it/d8ue0313i4g41.png?width=1832&amp;format=png&amp;auto=webp&amp;s=a0946e8417c9d9182909a0f43ce7b4920f63fbee\n\nExcel never finishes this install ... but a malicious file\n\n C:\\\\Users\\\\admin\\\\AppData\\\\Roaming\\\\Microsoft\\\\Windows\\\\Templates\\\\sample\\_.dll  \n**MD5:** df10e110d15e4c8670eefe2947c99b38   \nis dropped.",
+        "title": "Unknown Malware",
+        "score": 1,
+        "id": "f1sqja",
+        "commsNum": 0,
+        "timeStamp": "2020/02/10-08:29:47",
+        "author_name": "any_any_drop",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/f1sqja/unknown_malware/"
+    },
+    "posts": {}
+}

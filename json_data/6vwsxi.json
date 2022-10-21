@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "So when certain malware is looking for passwords and stuff, I read that some have the ability to collect POST data. Can somebody explain to me what this means and how it does it? \n\nI heard some can specifically target passwords and stuff. Has there ever been any  malware in the wild that collects ALL the post data and not just passwords and the cc info?\n\nThanks!",
+        "title": "Questions about malware collecting POST data.",
+        "score": 1,
+        "id": "6vwsxi",
+        "commsNum": 2,
+        "timeStamp": "2017/08/24-23:39:42",
+        "author_name": "fredfredburger88",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6vwsxi/questions_about_malware_collecting_post_data/"
+    },
+    "posts": {
+        "dm3o9ze": {
+            "comment": "I'm not sure about the malware side of it as I haven't looked into it myself, but the POST data you're referring to would be HTTP. HTTP uses two primary forms of transferring data; POST and GET. POST stores the information being sent in the packet header, thus is discrete (not visible in plain sight but NOT by default encrypted) whereas GET stores the information in the url (example, when you google something and the url reflects that with a heap of + and &amp; characters). If you want to have a look at how this data can be manipulated, I'd suggest running Wireshark and logging your connection while googling and going around a few sights (including logging in to a website) and then looking for the packets and reading through the data being sent. This may be a bit difficult without experience in Wireshark though, but there's no better way to learn than to try it. ",
+            "timeStamp": "2017/08/25-01:59:27",
+            "id": "dm3o9ze",
+            "is_submitter": false,
+            "link_id": "t3_6vwsxi",
+            "parent_id": "t3_6vwsxi",
+            "score": 2,
+            "stickied": false,
+            "author_name": "BlackSirrah239"
+        }
+    }
+}

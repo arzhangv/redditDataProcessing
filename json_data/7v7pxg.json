@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "GandCrab, a new ransomware-as-a-service emerges from Russian crime underground",
+        "score": 1,
+        "id": "7v7pxg",
+        "commsNum": 0,
+        "timeStamp": "2018/02/04-08:36:04",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/68636/malware/gandcrab-raas.html"
+    },
+    "posts": {}
+}

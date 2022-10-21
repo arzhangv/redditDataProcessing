@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "An associate of mine got a 'resume' emailed to him and this was attached to it as well.\n\n**Source of resume.js file:**\n\nhttp://pastebin.com/vdZRR7ih\n\nCan anyone deobfuscate it and figure out what it does?\n\n**Edit:** It's a cryptowall 3.0 file\n\nhttp://blog.trendmicro.com/trendlabs-security-intelligence/cryptowall-3-0-ransomware-partners-with-fareit-spyware/\n\n&gt;Using JavaScript and \u201cJPEGS\u201d\n\n&gt;CryptoWall 3.0 arrives via spammed emails, using a JavaScript attachment. In the screenshot below, the attachment poses as a resume inside an archive file. A .JS file (detected as JS_DLOADR.JBNZ, JS_DLOAD.CRYP, and JS_DLOADE.XXPU) will be extracted from the file, which is peculiar as it is as the file extensions often associated with resumes are .DOC, .PDF and .RTF.\n\nAlso from /u/Blarghblahblargh\n\n&gt;Hey guys. I've seen this before. It downloads and executes CryptoWall and Pony from these domains: ActiveXObject 38 hxxp://dorttlokolrt[.]com/images/one.jpg ActiveXObject 38 hxxp://dorttlokolrt[.]com/images/two.jpg",
+        "title": "resume.js malware",
+        "score": 14,
+        "id": "2zq0n4",
+        "commsNum": 13,
+        "timeStamp": "2015/03/20-10:52:53",
+        "author_name": "ZeldaAddict",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 13,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2zq0n4/resumejs_malware/"
+    },
+    "posts": {}
+}

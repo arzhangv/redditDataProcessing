@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "(POC) PHP module rootkits are a thing now",
+        "score": 1,
+        "id": "6h6hu8",
+        "commsNum": 0,
+        "timeStamp": "2017/06/14-02:51:32",
+        "author_name": "luke-paradoxis",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://blog.paradoxis.nl/your-interpreter-isnt-safe-anymore-the-php-module-rootkit-c7ca6a1a9af5"
+    },
+    "posts": {}
+}

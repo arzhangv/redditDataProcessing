@@ -1,0 +1,187 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I understand using a network segmented VM to navigate to the site, but what do i need to do to ensure integrity of the download? Also, how do I ensure I get it if some malware will only download on certain browsers/OS for instance.\n\nAs an example \\- based on [https://www.virustotal.com/#/file/934123e65fb66dbb01dd178257ea3abd563d81adaa94229c33fb7e1df363d46f/detection](https://www.virustotal.com/#/file/934123e65fb66dbb01dd178257ea3abd563d81adaa94229c33fb7e1df363d46f/detection)\n\nIt appears there is malware on UMD's site. How could I safely navigate there and retrieve the malware for analysis without executing it and ensuring I obtain the malware while retaining its integrity for analysis?",
+        "title": "How to safely grab malware from a download site?",
+        "score": 8,
+        "id": "8kfx3e",
+        "commsNum": 15,
+        "timeStamp": "2018/05/18-12:42:13",
+        "author_name": "thehoodedidiot",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 15,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8kfx3e/how_to_safely_grab_malware_from_a_download_site/"
+    },
+    "posts": {
+        "e00n5p3": {
+            "comment": "outstanding! this is exactly what I was looking for:  a way to collect everything from a likely malicious website and have it categorized, hashed and graphed for you automatically ",
+            "timeStamp": "2018/06/02-17:02:47",
+            "id": "e00n5p3",
+            "is_submitter": true,
+            "link_id": "t3_8kfx3e",
+            "parent_id": "t1_dzatw44",
+            "score": 1,
+            "stickied": false,
+            "author_name": "thehoodedidiot"
+        },
+        "dzatw44": {
+            "comment": "One of the tools on REMnux can be used for what you are trying to do. Its called thug, it will connect to a site and say its a exploitable browser. Any exploit that is ran is saved for analysis, same with any downloaded file. \n\nThe github is\nhttps://github.com/buffer/thug/blob/master/README.rst\n\nNice example\nhttps://www.google.com/amp/909research.com/how-to-use-thug-honeyclient/amp/",
+            "timeStamp": "2018/05/20-14:11:25",
+            "id": "dzatw44",
+            "is_submitter": false,
+            "link_id": "t3_8kfx3e",
+            "parent_id": "t1_dz846qh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "justadrawer"
+        },
+        "dz84fi3": {
+            "comment": "Thank you! ",
+            "timeStamp": "2018/05/18-22:29:55",
+            "id": "dz84fi3",
+            "is_submitter": true,
+            "link_id": "t3_8kfx3e",
+            "parent_id": "t1_dz7pj7j",
+            "score": 1,
+            "stickied": false,
+            "author_name": "thehoodedidiot"
+        },
+        "dz84ajd": {
+            "comment": "thanks!",
+            "timeStamp": "2018/05/18-22:25:37",
+            "id": "dz84ajd",
+            "is_submitter": true,
+            "link_id": "t3_8kfx3e",
+            "parent_id": "t1_dz7cutx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "thehoodedidiot"
+        },
+        "dz84a7c": {
+            "comment": "I agree? it was an example \\- next time I'll come up with a hypothetical so people don't think I'm trying to analyze something worth sharing.",
+            "timeStamp": "2018/05/18-22:25:21",
+            "id": "dz84a7c",
+            "is_submitter": true,
+            "link_id": "t3_8kfx3e",
+            "parent_id": "t1_dz7qgis",
+            "score": 3,
+            "stickied": false,
+            "author_name": "thehoodedidiot"
+        },
+        "dz846qh": {
+            "comment": "If you've got access to VM software, check out the \"REMnux\" virtual machine by SANS. It's a pre-built environment for reverse engineering and analysis.",
+            "timeStamp": "2018/05/18-22:22:26",
+            "id": "dz846qh",
+            "is_submitter": false,
+            "link_id": "t3_8kfx3e",
+            "parent_id": "t1_dz844hd",
+            "score": 2,
+            "stickied": false,
+            "author_name": "b1t_viper"
+        },
+        "dz844hd": {
+            "comment": "Right \\- so the example wasn't me claiming it was confirmed malicious, but that it warranted additional inspection.\n\nAnd I think you're right \\- I'll go back to basics and stop probing further.",
+            "timeStamp": "2018/05/18-22:20:29",
+            "id": "dz844hd",
+            "is_submitter": true,
+            "link_id": "t3_8kfx3e",
+            "parent_id": "t1_dz82ndc",
+            "score": 2,
+            "stickied": false,
+            "author_name": "thehoodedidiot"
+        },
+        "dz82ndc": {
+            "comment": "Don't take this the wrong way, but if you're not sure of the best way to safely download the file, then you may not have the skills necessary (yet) to properly secure an appropriate analysis environment on your own. Take a look through some search results for \"malware analysis sandbox\" and see where that takes you.\n\nI downloaded the sample you linked from VT and ran it on any.run. You can take a look at the results here if you like: https://app.any.run/tasks/66b200e1-6841-49b6-8f1e-fa078429f6e2\n\nAs near as I can tell, the VM has an older version of Acrobat Reader installed so it should be vulnerable to the specified CVE (unless it's TOO old). Nothing really interesting happened, so I'd be more likely to assume that it's a false positive detection especially since there's only one vendor that flagged it.",
+            "timeStamp": "2018/05/18-21:38:06",
+            "id": "dz82ndc",
+            "is_submitter": false,
+            "link_id": "t3_8kfx3e",
+            "parent_id": "t3_8kfx3e",
+            "score": 0,
+            "stickied": false,
+            "author_name": "b1t_viper"
+        },
+        "dz7qgis": {
+            "comment": "1/58 products detect it as malicious, so their detection is possibly/likely a false positive. You can't assume it's malicious just because it's marked on VT as such.",
+            "timeStamp": "2018/05/18-17:09:48",
+            "id": "dz7qgis",
+            "is_submitter": false,
+            "link_id": "t3_8kfx3e",
+            "parent_id": "t1_dz7mxn9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "johnchills"
+        },
+        "dz7pj7j": {
+            "comment": "Use Tor or non-attrib infrastructure if anonymity is a concern. Don't be surprised if the malware is no longer hosted there. You can change your user agent using a plug-in or proxy software like Burp Suite if it's being picky about UAs. Compare the hash of whatever you download to the hash of what is on VT to ensure they're the same. \n\nEdit: if you're worried about execution without user interaction you might check to see if your CVE lines up with any of the following from security. stackexchange. com/questions/94356/can-malicious-code-trigger-without-the-user-executing-or-opening-the-file",
+            "timeStamp": "2018/05/18-16:51:20",
+            "id": "dz7pj7j",
+            "is_submitter": false,
+            "link_id": "t3_8kfx3e",
+            "parent_id": "t3_8kfx3e",
+            "score": 7,
+            "stickied": false,
+            "author_name": "PM_Me__Cats"
+        },
+        "dz7mxn9": {
+            "comment": "The vt signature indicates a cve exploit",
+            "timeStamp": "2018/05/18-16:00:54",
+            "id": "dz7mxn9",
+            "is_submitter": true,
+            "link_id": "t3_8kfx3e",
+            "parent_id": "t1_dz7iml9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "thehoodedidiot"
+        },
+        "dz7iml9": {
+            "comment": "Why do you think the PDF is malicious?",
+            "timeStamp": "2018/05/18-14:41:22",
+            "id": "dz7iml9",
+            "is_submitter": false,
+            "link_id": "t3_8kfx3e",
+            "parent_id": "t3_8kfx3e",
+            "score": 1,
+            "stickied": false,
+            "author_name": "johnchills"
+        },
+        "dz7fvgh": {
+            "comment": "You could use `curl` to automate this and not need any extension",
+            "timeStamp": "2018/05/18-13:52:47",
+            "id": "dz7fvgh",
+            "is_submitter": false,
+            "link_id": "t3_8kfx3e",
+            "parent_id": "t3_8kfx3e",
+            "score": 2,
+            "stickied": false,
+            "author_name": "_Nexor"
+        },
+        "dz7cvfa": {
+            "comment": "compare the hash to the one on VT",
+            "timeStamp": "2018/05/18-13:03:23",
+            "id": "dz7cvfa",
+            "is_submitter": false,
+            "link_id": "t3_8kfx3e",
+            "parent_id": "t3_8kfx3e",
+            "score": 2,
+            "stickied": false,
+            "author_name": "RyanStankye"
+        },
+        "dz7cutx": {
+            "comment": "you can use this to change your UA string: https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg?hl=en-US",
+            "timeStamp": "2018/05/18-13:03:07",
+            "id": "dz7cutx",
+            "is_submitter": false,
+            "link_id": "t3_8kfx3e",
+            "parent_id": "t3_8kfx3e",
+            "score": 0,
+            "stickied": false,
+            "author_name": "SUPACOMPUTA"
+        }
+    }
+}

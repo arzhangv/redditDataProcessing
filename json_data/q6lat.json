@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Malware Analysis Tutorial 18: Infecting Driver Files (Part II: Simple Infection)",
+        "score": 15,
+        "id": "q6lat",
+        "commsNum": 0,
+        "timeStamp": "2012/02/26-02:34:01",
+        "author_name": "pwnwaffe",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": null,
+        "url": "http://fumalwareanalysis.blogspot.com/2012/02/malware-analysis-tutorial-18-infecting.html"
+    },
+    "posts": {}
+}

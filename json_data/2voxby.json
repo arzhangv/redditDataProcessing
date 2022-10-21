@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "CTB-Locker dropper in-depth analysis",
+        "score": 1,
+        "id": "2voxby",
+        "commsNum": 0,
+        "timeStamp": "2015/02/12-13:11:22",
+        "author_name": "Maijin",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://christophe.rieunier.name/securite/CTB-Locker/CTB-Locker_analysis_en.php"
+    },
+    "posts": {}
+}

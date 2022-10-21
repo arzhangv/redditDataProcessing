@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Basically, I am looking for samples of botnets that check if the environment is a virtual machine or not, and then get triggered (or not) accordingly. So samples of other botnets  that do these checks would also be helpful.",
+        "title": "Can I have sample or hash of the botnets - Sdbot.ckn or Sdbot.fmn ?",
+        "score": 0,
+        "id": "3a57wo",
+        "commsNum": 2,
+        "timeStamp": "2015/06/17-02:18:18",
+        "author_name": "m4lw4r34n4ly5t",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/3a57wo/can_i_have_sample_or_hash_of_the_botnets_sdbotckn/"
+    },
+    "posts": {}
+}

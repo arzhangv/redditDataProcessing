@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I am just starting my journey into Malware Analysis and wanted to know what safety precautions i should take during my work with malware. My main fear is that malware will be able to break out from a VM when i am analyzing it. Is this possible? Would setting up a VM within a VM be helpful in mitigating this? Also are there any good tutorials you would recommend?\n\nthanks\nMarlo",
+        "title": "Malware Analysis Safety?",
+        "score": 9,
+        "id": "437tgx",
+        "commsNum": 8,
+        "timeStamp": "2016/01/28-23:23:12",
+        "author_name": "MarloStanfields",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 8,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/437tgx/malware_analysis_safety/"
+    },
+    "posts": {}
+}

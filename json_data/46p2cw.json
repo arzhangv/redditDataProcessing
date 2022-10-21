@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Locky Ransomware uses AES to encrypt Local Files and Unmapped Network Shares",
+        "score": 1,
+        "id": "46p2cw",
+        "commsNum": 0,
+        "timeStamp": "2016/02/19-22:53:14",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/44617/cyber-crime/locky-ransomware.html"
+    },
+    "posts": {}
+}

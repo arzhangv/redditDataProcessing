@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I received an email flagged as spam.\n\nupon analysing the embedded URL, virustotal deemed it suspicious.\n\nit's not clear it the email itself , apart the URL, is clean .\n\nthe following is the email In html.\n\nhttps://i.imgur.com/TiE6hiU.jpg\n\nare those codes in the html file an injection vector?\n\nnote: email was only displayed with cat in shell.\n\n\n\nthanks.",
+        "title": "analysis of suspicious email",
+        "score": 1,
+        "id": "vi1rjx",
+        "commsNum": 0,
+        "timeStamp": "2022/06/22-03:09:15",
+        "author_name": "mito88",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/vi1rjx/analysis_of_suspicious_email/"
+    },
+    "posts": {
+        "idcz266": {
+            "comment": "I've received various iterations of phishing emails using this method, but not any encoded like this. My guess is it's a similar HTML redirect method using \"onerror:\" and redirecting you to that bitly link. Last one I got sent me to a Russian domain that VT hadn't flagged try. I bet if that domain was still active it'd serve some kind of web drive-by download that gets your cryptocurrency wallet credentials stolen.",
+            "timeStamp": "2022/06/22-15:29:06",
+            "id": "idcz266",
+            "is_submitter": false,
+            "link_id": "t3_vi1rjx",
+            "parent_id": "t3_vi1rjx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ImproperEatenKitKat"
+        },
+        "idbfxvq": {
+            "comment": "the bitly link target redirects to ibcfv[.]imaginehair[.]link[/]athwt2 which doesn't resolve anymore, though there are some some sandbox results for the domain if you look online, but it's hard to tell what the domain was actually doing.",
+            "timeStamp": "2022/06/22-08:52:55",
+            "id": "idbfxvq",
+            "is_submitter": false,
+            "link_id": "t3_vi1rjx",
+            "parent_id": "t3_vi1rjx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "bcopy"
+        },
+        "idbft4m": {
+            "comment": "[removed]",
+            "timeStamp": "2022/06/22-08:52:01",
+            "id": "idbft4m",
+            "is_submitter": false,
+            "link_id": "t3_vi1rjx",
+            "parent_id": "t3_vi1rjx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "idarweo": {
+            "comment": "[removed]",
+            "timeStamp": "2022/06/22-05:52:50",
+            "id": "idarweo",
+            "is_submitter": false,
+            "link_id": "t3_vi1rjx",
+            "parent_id": "t3_vi1rjx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "idahv85": {
+            "comment": "Had really to say, the bitly link seems to be dead",
+            "timeStamp": "2022/06/22-04:09:35",
+            "id": "idahv85",
+            "is_submitter": false,
+            "link_id": "t3_vi1rjx",
+            "parent_id": "t3_vi1rjx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AnApexBread"
+        }
+    }
+}

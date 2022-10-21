@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "A detailed look into the methods used by Medusa Locker ransomware",
+        "score": 1,
+        "id": "gvzwjd",
+        "commsNum": 0,
+        "timeStamp": "2020/06/03-11:47:46",
+        "author_name": "LightningRurik",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.carbonblack.com/2020/06/03/tau-threat-analyis-medusa-locker-ransomware/"
+    },
+    "posts": {}
+}

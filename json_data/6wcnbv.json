@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Large Victim Credential Server Uncovered Via PDF Phishing",
+        "score": 21,
+        "id": "6wcnbv",
+        "commsNum": 6,
+        "timeStamp": "2017/08/27-08:08:34",
+        "author_name": "majorllama",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.ringzerolabs.com/2017/08/large-victim-credential-server.html"
+    },
+    "posts": {
+        "dm72nln": {
+            "comment": "Absolutely.",
+            "timeStamp": "2017/08/27-09:15:59",
+            "id": "dm72nln",
+            "is_submitter": true,
+            "link_id": "t3_6wcnbv",
+            "parent_id": "t1_dm71w45",
+            "score": 1,
+            "stickied": false,
+            "author_name": "majorllama"
+        },
+        "dm71w45": {
+            "comment": "That pdf icon will wreck non-savy users without file extensions displayed. ",
+            "timeStamp": "2017/08/27-08:59:43",
+            "id": "dm71w45",
+            "is_submitter": false,
+            "link_id": "t3_6wcnbv",
+            "parent_id": "t1_dm71fen",
+            "score": 2,
+            "stickied": false,
+            "author_name": "010kindsofpeople"
+        },
+        "dm71fen": {
+            "comment": "No it isn't. The zip is downloaded to the machine and it is up to the user to open the \"document\" inside. Good question.",
+            "timeStamp": "2017/08/27-08:49:51",
+            "id": "dm71fen",
+            "is_submitter": true,
+            "link_id": "t3_6wcnbv",
+            "parent_id": "t1_dm711iy",
+            "score": 2,
+            "stickied": false,
+            "author_name": "majorllama"
+        },
+        "dm711iy": {
+            "comment": "Is the pdf extracting and running the exe if the user clicks the link? ",
+            "timeStamp": "2017/08/27-08:41:33",
+            "id": "dm711iy",
+            "is_submitter": false,
+            "link_id": "t3_6wcnbv",
+            "parent_id": "t1_dm70k1o",
+            "score": 1,
+            "stickied": false,
+            "author_name": "010kindsofpeople"
+        },
+        "dm70k1o": {
+            "comment": "I believe it should be mitigated by using applocker. The initial exe and scripts do not attempt any kind of process hollowing or privilege escalation to circumvent access controls. I think you should be good.",
+            "timeStamp": "2017/08/27-08:30:47",
+            "id": "dm70k1o",
+            "is_submitter": true,
+            "link_id": "t3_6wcnbv",
+            "parent_id": "t1_dm709g4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "majorllama"
+        },
+        "dm709g4": {
+            "comment": "This is mitigated if the user doesn't have permissions to run unsigned exe's right? ",
+            "timeStamp": "2017/08/27-08:23:57",
+            "id": "dm709g4",
+            "is_submitter": false,
+            "link_id": "t3_6wcnbv",
+            "parent_id": "t3_6wcnbv",
+            "score": 2,
+            "stickied": false,
+            "author_name": "010kindsofpeople"
+        }
+    }
+}

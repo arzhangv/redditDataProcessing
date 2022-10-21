@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "The Rakos botnet \u2013 Exploring a P2P Transient Botnet From Discovery to Enumeration",
+        "score": 1,
+        "id": "6ac3kf",
+        "commsNum": 0,
+        "timeStamp": "2017/05/10-04:08:59",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/58931/malware/p2p-transient-rakos-botnet.html"
+    },
+    "posts": {}
+}

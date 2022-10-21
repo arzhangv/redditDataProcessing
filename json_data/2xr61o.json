@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I am currently using a bootable USB to conduct some basic malware analysis, Ex: cuckoo sandbox.\nI am thinking about installing some more reverse engineering/malware analyst tools.  Such as Bokken, PEid, PEview, etc.\n\nThe only thing stopping me is whether its possible for malware to infect the host computer i am using.  (the host computer isnt my main computer).\n\nShould I be ok if I simply never mount the host hard drive?",
+        "title": "Can Malware infect a host computer if booting from a USB?",
+        "score": 14,
+        "id": "2xr61o",
+        "commsNum": 7,
+        "timeStamp": "2015/03/02-20:43:32",
+        "author_name": "malwareX",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2xr61o/can_malware_infect_a_host_computer_if_booting/"
+    },
+    "posts": {}
+}

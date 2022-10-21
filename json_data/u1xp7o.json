@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Step-by-step creation of a Ghidra script to handle stack strings, tested on CaddyWiper and PlugX",
+        "score": 1,
+        "id": "u1xp7o",
+        "commsNum": 0,
+        "timeStamp": "2022/04/12-05:16:59",
+        "author_name": "ThisIsLibra",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://maxkersten.nl/binary-analysis-course/analysis-scripts/ghidra-script-to-handle-stack-strings/"
+    },
+    "posts": {}
+}

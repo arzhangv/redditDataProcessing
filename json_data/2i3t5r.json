@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi, I'm looking to reverse engineer and understand how the P2P bits work in the zeroaccess malware. I was wondering if someone could help me find samples of the same online.\n\nI recall reading that a later version of Zeroaccess had a fix for the P2P protocol(that was vulnerable earlier); I was hoping to get samples of both kinds to understand the differences better.",
+        "title": "Samples of Zeroaccess P2P malware",
+        "score": 1,
+        "id": "2i3t5r",
+        "commsNum": 0,
+        "timeStamp": "2014/10/02-09:59:59",
+        "author_name": "blahfish",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2i3t5r/samples_of_zeroaccess_p2p_malware/"
+    },
+    "posts": {}
+}

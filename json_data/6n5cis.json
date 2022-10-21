@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Sometimes malware gets distributed as source code: WSO web shell (aka \"FilesMan\", or \"Antichat shell\") and the Perlbot IRC bot can be found in a large number of variants.\n\nAre there algorithms or techniques for getting the chain of descent on these families?  Like WSO 2.5 has descendent v2.5.1, which is just the addition of a \"phone home\" piece of code. WSO 2.8 is 2.5.1 with yet another, different, \"phone home\" piece of code included.\n\nAre there algorithms for making the \"family tree\" or phylogeny of these things?",
+        "title": "Putting PHP/Perl malware in families?",
+        "score": 13,
+        "id": "6n5cis",
+        "commsNum": 2,
+        "timeStamp": "2017/07/13-16:20:22",
+        "author_name": "bediger4000",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6n5cis/putting_phpperl_malware_in_families/"
+    },
+    "posts": {
+        "dk7ti1m": {
+            "comment": "That's why people \"normalize\" the source code or other input. See: https://cs.uwaterloo.ca/~binma/cs482/chain-letter.pdf\n\nPretty-printing WSO source code is fairly effective as a normalization method, but the biological methods (Neighbor Joining, UPGMA etc) don't really give a good family tree. I'm looking for something that actually uses the source code.\n\nAlso, how do you get a job doing the customization? Those folks generally do a very poor job of obfuscation.",
+            "timeStamp": "2017/07/14-08:57:37",
+            "id": "dk7ti1m",
+            "is_submitter": true,
+            "link_id": "t3_6n5cis",
+            "parent_id": "t1_dk773to",
+            "score": 1,
+            "stickied": false,
+            "author_name": "bediger4000"
+        },
+        "dk773to": {
+            "comment": "You'd have a hard time getting a family tree.  Most all web based malware is often stolen and customized by 3rd parties.  The other major problem is they often have minor variations to get past large hosting companies blocks.  That might be adding a space to change the Md5, replacing chars with hex or just simply the request variables to bypass a firewall block. ",
+            "timeStamp": "2017/07/13-20:59:28",
+            "id": "dk773to",
+            "is_submitter": false,
+            "link_id": "t3_6n5cis",
+            "parent_id": "t3_6n5cis",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Hessian_Rodriguez"
+        }
+    }
+}

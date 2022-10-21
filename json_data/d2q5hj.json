@@ -1,0 +1,176 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Is there somewhere I can download the ransomware sample found at https://www.virustotal.com/gui/file/cc20cae08f82e39e35ac3a7edbbbd129337b7aee0572858e02bfda88995f7146/detection",
+        "score": 9,
+        "id": "d2q5hj",
+        "commsNum": 14,
+        "timeStamp": "2019/09/11-06:26:45",
+        "author_name": "gaurav__sehgal",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 14,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/d2q5hj/is_there_somewhere_i_can_download_the_ransomware/"
+    },
+    "posts": {
+        "ezykv4j": {
+            "comment": "you can download from VT if you work in the industry...",
+            "timeStamp": "2019/09/11-23:32:37",
+            "id": "ezykv4j",
+            "is_submitter": false,
+            "link_id": "t3_d2q5hj",
+            "parent_id": "t1_ezwux0j",
+            "score": 1,
+            "stickied": false,
+            "author_name": "newtowntom"
+        },
+        "ezy9sqi": {
+            "comment": "No worries",
+            "timeStamp": "2019/09/11-21:25:11",
+            "id": "ezy9sqi",
+            "is_submitter": false,
+            "link_id": "t3_d2q5hj",
+            "parent_id": "t1_ezy9rv9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "dem0n"
+        },
+        "ezy9rv9": {
+            "comment": "Thanks a lot for the resources.",
+            "timeStamp": "2019/09/11-21:24:47",
+            "id": "ezy9rv9",
+            "is_submitter": true,
+            "link_id": "t3_d2q5hj",
+            "parent_id": "t1_ezxir9r",
+            "score": 1,
+            "stickied": false,
+            "author_name": "gaurav__sehgal"
+        },
+        "ezxir9r": {
+            "comment": "I know you've already got the sample but for future reference you should also check:  \n[https://malpedia.caad.fkie.fraunhofer.de/](https://malpedia.caad.fkie.fraunhofer.de/) \\- if you have access\n\n[https://malshare.com/](https://malshare.com/) \\- this one is great\n\n[https://malware.one/](https://malware.one/)\n\n[https://beta.virusbay.io/login](https://beta.virusbay.io/login) \\- great for requesting samples\n\n&amp;#x200B;\n\nYou should also look at joining some malware research trust groups (slack, telegram etc). They're great places to ask for samples too.",
+            "timeStamp": "2019/09/11-15:38:23",
+            "id": "ezxir9r",
+            "is_submitter": false,
+            "link_id": "t3_d2q5hj",
+            "parent_id": "t3_d2q5hj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "dem0n"
+        },
+        "ezx9i37": {
+            "comment": "Yeah /u/manifest122 is right. Whenever you see a malware sampled being shared and the zip is encrypted it's almost always `infected`",
+            "timeStamp": "2019/09/11-13:51:40",
+            "id": "ezx9i37",
+            "is_submitter": false,
+            "link_id": "t3_d2q5hj",
+            "parent_id": "t1_ezwxyfw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ImpressiveWordk"
+        },
+        "ezx1uav": {
+            "comment": "try 'infected'",
+            "timeStamp": "2019/09/11-12:29:23",
+            "id": "ezx1uav",
+            "is_submitter": false,
+            "link_id": "t3_d2q5hj",
+            "parent_id": "t1_ezwxyfw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Manifest122"
+        },
+        "ezwxyfw": {
+            "comment": "ugh is password protected?",
+            "timeStamp": "2019/09/11-11:47:03",
+            "id": "ezwxyfw",
+            "is_submitter": false,
+            "link_id": "t3_d2q5hj",
+            "parent_id": "t1_ezwauzn",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AssWaterr"
+        },
+        "ezwvdn7": {
+            "comment": "Ah yes. Reasons.",
+            "timeStamp": "2019/09/11-11:18:39",
+            "id": "ezwvdn7",
+            "is_submitter": false,
+            "link_id": "t3_d2q5hj",
+            "parent_id": "t1_ezwvari",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Aro2220"
+        },
+        "ezwvari": {
+            "comment": "Kinda. Couple of clients got hit in different times. Archived them because of reasons.",
+            "timeStamp": "2019/09/11-11:17:46",
+            "id": "ezwvari",
+            "is_submitter": false,
+            "link_id": "t3_d2q5hj",
+            "parent_id": "t1_ezwux0j",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ErLabi247"
+        },
+        "ezwux0j": {
+            "comment": "How do you get a hold of those? Honeypots?",
+            "timeStamp": "2019/09/11-11:13:33",
+            "id": "ezwux0j",
+            "is_submitter": false,
+            "link_id": "t3_d2q5hj",
+            "parent_id": "t1_ezwevh1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MoistQuacker"
+        },
+        "ezwnrl1": {
+            "comment": "Thanks.",
+            "timeStamp": "2019/09/11-09:55:08",
+            "id": "ezwnrl1",
+            "is_submitter": true,
+            "link_id": "t3_d2q5hj",
+            "parent_id": "t1_ezwevh1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "gaurav__sehgal"
+        },
+        "ezwnqvk": {
+            "comment": "Thanks a ton.",
+            "timeStamp": "2019/09/11-09:54:55",
+            "id": "ezwnqvk",
+            "is_submitter": true,
+            "link_id": "t3_d2q5hj",
+            "parent_id": "t1_ezwauzn",
+            "score": 1,
+            "stickied": false,
+            "author_name": "gaurav__sehgal"
+        },
+        "ezwevh1": {
+            "comment": "If you want some other ransomware for testing/analysis let me know. I've got some nasty ones locked up in an archive.",
+            "timeStamp": "2019/09/11-08:17:39",
+            "id": "ezwevh1",
+            "is_submitter": false,
+            "link_id": "t3_d2q5hj",
+            "parent_id": "t3_d2q5hj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ErLabi247"
+        },
+        "ezwauzn": {
+            "comment": "[https://transfer.sh/wAaC4/5572026707148800.zip](https://transfer.sh/wAaC4/5572026707148800.zip)",
+            "timeStamp": "2019/09/11-07:32:26",
+            "id": "ezwauzn",
+            "is_submitter": false,
+            "link_id": "t3_d2q5hj",
+            "parent_id": "t3_d2q5hj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ImpressiveWordk"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I was reading a paper on the use of n-grams to detect malware.  Could anyone provide a brief overview of how it works, just so I can confirm I'm not misunderstanding the whole thing?",
+        "title": "How does n-gram signature analysis work?",
+        "score": 3,
+        "id": "4tmeex",
+        "commsNum": 7,
+        "timeStamp": "2016/07/19-10:39:58",
+        "author_name": "stallmansama",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/4tmeex/how_does_ngram_signature_analysis_work/"
+    },
+    "posts": {}
+}

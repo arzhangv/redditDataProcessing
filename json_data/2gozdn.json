@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "TorrentLocker - New Variant with New Encryption Observed in the Wild",
+        "score": 11,
+        "id": "2gozdn",
+        "commsNum": 1,
+        "timeStamp": "2014/09/17-13:26:21",
+        "author_name": "Horgh",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.isightpartners.com/2014/09/torrentlocker-new-variant-observed-wild/"
+    },
+    "posts": {}
+}

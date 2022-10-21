@@ -1,0 +1,99 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "i need a updated list(prefer 2019) of av evasion techniques an types\n\nThe ones I found on Google, are incomplete or outdated, this\n\n[https://marcoramilli.com/2013/07/20/malware-evasion-chart/](https://marcoramilli.com/2013/07/20/malware-evasion-chart/)\n\nis one of the best I found but it is 7 years ago and I am not sure that the techniques mentioned are still in use\n\nThanks for the help",
+        "title": "av evasion techniques",
+        "score": 1,
+        "id": "erqcag",
+        "commsNum": 7,
+        "timeStamp": "2020/01/20-21:51:25",
+        "author_name": "bl455",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/erqcag/av_evasion_techniques/"
+    },
+    "posts": {
+        "fh7x9dh": {
+            "comment": "[https://lolbas-project.github.io/#](https://lolbas-project.github.io/#) lists Windows built-in and\n\n[https://gtfobins.github.io/](https://gtfobins.github.io/) lists Linux built-in (or common) tools, that could easily be exploited.",
+            "timeStamp": "2020/02/10-07:04:29",
+            "id": "fh7x9dh",
+            "is_submitter": false,
+            "link_id": "t3_erqcag",
+            "parent_id": "t3_erqcag",
+            "score": 1,
+            "stickied": false,
+            "author_name": "any_any_drop"
+        },
+        "ffqpmyl": {
+            "comment": "I don\u2019t have a doc but this is from 6+ years of malware development. \n\nByte Encryption &amp; Obfuscation will bypass 99% of antivirus programs.\n\nThe only one to catch this sort of method is Avira, as it detects the filewrite call.",
+            "timeStamp": "2020/01/27-07:58:24",
+            "id": "ffqpmyl",
+            "is_submitter": false,
+            "link_id": "t3_erqcag",
+            "parent_id": "t3_erqcag",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MysticalTeamMember"
+        },
+        "ff66kcw": {
+            "comment": "thanks for the answers, here other contributions (2018-2019)\n\n[https://www.andreafortuna.org/2018/02/12/malware-hiding-and-evasion-techniques/](https://www.andreafortuna.org/2018/02/12/malware-hiding-and-evasion-techniques/)\n\n[https://searchsecurity.techtarget.com/feature/Antivirus-evasion-techniques-show-ease-in-avoiding-antivirus-detection](https://searchsecurity.techtarget.com/feature/Antivirus-evasion-techniques-show-ease-in-avoiding-antivirus-detection)\n\n[https://gatefy.com/posts/8-common-malware-evasion-techniques/](https://gatefy.com/posts/8-common-malware-evasion-techniques/)\n\n[https://www.vmray.com/cyber-security-blog/sans-webcast-recap-dissecting-popular-malware-evasion-techniques/](https://www.vmray.com/cyber-security-blog/sans-webcast-recap-dissecting-popular-malware-evasion-techniques/)\n\n[https://www.deepinstinct.com/2019/09/15/malware-evasion-techniques-part-1-process-injection-and-manipulation/](https://www.deepinstinct.com/2019/09/15/malware-evasion-techniques-part-1-process-injection-and-manipulation/)",
+            "timeStamp": "2020/01/21-07:25:48",
+            "id": "ff66kcw",
+            "is_submitter": true,
+            "link_id": "t3_erqcag",
+            "parent_id": "t3_erqcag",
+            "score": 1,
+            "stickied": false,
+            "author_name": "bl455"
+        },
+        "ff60y4p": {
+            "comment": "\"The goal of this is to share just some of the ways Black Hills Information Security bypassed endpoint security in 2018.\"\n\nhttps://www.blackhillsinfosec.com/webcast-sacred-cash-cow-tipping-2019/",
+            "timeStamp": "2020/01/21-06:18:33",
+            "id": "ff60y4p",
+            "is_submitter": false,
+            "link_id": "t3_erqcag",
+            "parent_id": "t3_erqcag",
+            "score": 1,
+            "stickied": false,
+            "author_name": "xylogx"
+        },
+        "ff5ptlg": {
+            "comment": "There is a book that explain how AV works and evasions.\nIs \"antivirus for hackers\", is a good book.",
+            "timeStamp": "2020/01/21-03:13:35",
+            "id": "ff5ptlg",
+            "is_submitter": false,
+            "link_id": "t3_erqcag",
+            "parent_id": "t3_erqcag",
+            "score": 1,
+            "stickied": false,
+            "author_name": "p3tr00v"
+        },
+        "ff5lm9r": {
+            "comment": "Idk who downvoted this but it's exactly what I would post. All of these methods are commonly used by adversaries and it just takes one Google search to get from that page to a detailed description.",
+            "timeStamp": "2020/01/21-01:28:23",
+            "id": "ff5lm9r",
+            "is_submitter": false,
+            "link_id": "t3_erqcag",
+            "parent_id": "t1_ff5bv82",
+            "score": 1,
+            "stickied": false,
+            "author_name": "_-rootkid-_"
+        },
+        "ff5bv82": {
+            "comment": "[MITRE ATT&amp;CK Defense Evasion Tactic](https://attack.mitre.org/tactics/TA0005/)",
+            "timeStamp": "2020/01/20-22:03:14",
+            "id": "ff5bv82",
+            "is_submitter": false,
+            "link_id": "t3_erqcag",
+            "parent_id": "t3_erqcag",
+            "score": 1,
+            "stickied": false,
+            "author_name": "dakeytheone"
+        }
+    }
+}

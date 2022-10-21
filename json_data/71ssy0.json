@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Triaging VBS Downloaders and Obfuscated Powershell (xpost r/ringzero)",
+        "score": 14,
+        "id": "71ssy0",
+        "commsNum": 1,
+        "timeStamp": "2017/09/22-11:06:51",
+        "author_name": "majorllama",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.ringzerolabs.com/2017/09/triaging-malicious-word-document.html"
+    },
+    "posts": {}
+}

@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "So basicly i have a pc with no wi fi ,blutetoth adapter.And my question is that if i have malware on this pc,what can it do?I want to say first that i dont't understand anything.",
+        "title": "Having malware on an offline pc",
+        "score": 1,
+        "id": "iv34rl",
+        "commsNum": 3,
+        "timeStamp": "2020/09/18-02:48:28",
+        "author_name": "theMimi_8",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/iv34rl/having_malware_on_an_offline_pc/"
+    },
+    "posts": {
+        "g5pi5ye": {
+            "comment": "Perhaps research Stuxnet as to what malware can do to offline systems. Stuxnet shows whats possible although rare and very targeted (targeted at Iran's nuclear program). For you though and unless it's ransomware (encrypts your files so they aren't accessible), 99.9999% chance nothing will happen.",
+            "timeStamp": "2020/09/18-08:06:20",
+            "id": "g5pi5ye",
+            "is_submitter": false,
+            "link_id": "t3_iv34rl",
+            "parent_id": "t3_iv34rl",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mc_markus"
+        },
+        "g5ouvhf": {
+            "comment": "[deleted]",
+            "timeStamp": "2020/09/18-03:49:40",
+            "id": "g5ouvhf",
+            "is_submitter": false,
+            "link_id": "t3_iv34rl",
+            "parent_id": "t3_iv34rl",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

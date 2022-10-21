@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Microsoft no Longer Signs Windows Drivers for Process Hacker",
+        "score": 1,
+        "id": "qeriws",
+        "commsNum": 6,
+        "timeStamp": "2021/10/24-05:49:28",
+        "author_name": "Th3_Pr0f3ss0r",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://borncity.com/win/2021/10/23/microsoft-signiert-windows-treiber-fr-process-hacker-nicht-mehr/"
+    },
+    "posts": {
+        "hk22d1i": {
+            "comment": "Screw Microsoft",
+            "timeStamp": "2021/11/10-03:44:57",
+            "id": "hk22d1i",
+            "is_submitter": false,
+            "link_id": "t3_qeriws",
+            "parent_id": "t3_qeriws",
+            "score": 1,
+            "stickied": false,
+            "author_name": "blabbities"
+        },
+        "hhvro69": {
+            "comment": "Benjamin Delpy is THE insider threat",
+            "timeStamp": "2021/10/24-10:10:21",
+            "id": "hhvro69",
+            "is_submitter": false,
+            "link_id": "t3_qeriws",
+            "parent_id": "t1_hhvpem2",
+            "score": 9,
+            "stickied": false,
+            "author_name": "Veneck"
+        },
+        "hhvpem2": {
+            "comment": "\u201cMimikatz, now approved for Windows account recovery\u201d - Microsoft",
+            "timeStamp": "2021/10/24-09:54:50",
+            "id": "hhvpem2",
+            "is_submitter": true,
+            "link_id": "t3_qeriws",
+            "parent_id": "t1_hhvl22f",
+            "score": 13,
+            "stickied": false,
+            "author_name": "Th3_Pr0f3ss0r"
+        },
+        "hhvl22f": {
+            "comment": "Or mimikatz",
+            "timeStamp": "2021/10/24-09:25:37",
+            "id": "hhvl22f",
+            "is_submitter": false,
+            "link_id": "t3_qeriws",
+            "parent_id": "t1_hhvd7xb",
+            "score": 11,
+            "stickied": false,
+            "author_name": "Veneck"
+        },
+        "hhvd7xb": {
+            "comment": "Yet they have no problem signing malicious Rootkits\u2026",
+            "timeStamp": "2021/10/24-08:30:49",
+            "id": "hhvd7xb",
+            "is_submitter": true,
+            "link_id": "t3_qeriws",
+            "parent_id": "t1_hhvd04l",
+            "score": 18,
+            "stickied": false,
+            "author_name": "Th3_Pr0f3ss0r"
+        },
+        "hhvd04l": {
+            "comment": "Classic Microsoft, blocking third party solutions because they are better than their in-house ones.",
+            "timeStamp": "2021/10/24-08:29:12",
+            "id": "hhvd04l",
+            "is_submitter": false,
+            "link_id": "t3_qeriws",
+            "parent_id": "t3_qeriws",
+            "score": 32,
+            "stickied": false,
+            "author_name": "ISpikInglisVeriBest"
+        }
+    }
+}

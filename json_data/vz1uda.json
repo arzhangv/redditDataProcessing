@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I don't know if this is the correct subreddit for this.\n\nI tried to download aircrack-ng from the official website ( [Aircrack-ng](https://www.aircrack-ng.org/) ) for windows. When trying to extract the ZIP, windows explorer stopped responding and restarted. I ran a windows defender scan and it found a threat: Tool:AndroidOS/MultiVerze.\n\nIs that a virus or a false positive? I removed it via windows defender, but if it is a virus, is there any chance my computer is still infected?\n\nI would really appreciate any help.",
+        "title": "Windows defender threat found when installing aircrack-ng",
+        "score": 1,
+        "id": "vz1uda",
+        "commsNum": 0,
+        "timeStamp": "2022/07/14-10:47:25",
+        "author_name": "xDev120",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/vz1uda/windows_defender_threat_found_when_installing/"
+    },
+    "posts": {}
+}

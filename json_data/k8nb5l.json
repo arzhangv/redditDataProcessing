@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Russian behind \"Locky\" ransomware sentenced to French prison for bitcoin laundering",
+        "score": 1,
+        "id": "k8nb5l",
+        "commsNum": 5,
+        "timeStamp": "2020/12/07-11:18:11",
+        "author_name": "sour_creme",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://apnews.com/article/cryptocurrency-paris-money-laundering-bitcoin-russia-61b5109e954f494b80d51c452b3b18e2"
+    },
+    "posts": {
+        "gghikas": {
+            "comment": "Here is the question I have been wondering and one of the reasons I still can\u2019t understand why people get behind Bitcoin....\n\nSo this dude has x BTC right...  if he doesn\u2019t agree to give whatever back to someone or say if you get your BTC stolen...  there isn\u2019t a way to get it back.  This dude never has to give any of it back so he could just rot in prison and his family can keep the BTC forever assuming they would have the credentials to the wallet.  Right?\n\nThere isn\u2019t any bank or central agency so it would have to be moved away from this guy (or whomever) with a valid transaction.  Right?",
+            "timeStamp": "2020/12/20-07:34:15",
+            "id": "gghikas",
+            "is_submitter": false,
+            "link_id": "t3_k8nb5l",
+            "parent_id": "t3_k8nb5l",
+            "score": 1,
+            "stickied": false,
+            "author_name": "thegreatcerebral"
+        },
+        "gf1ia6r": {
+            "comment": "Wait, since when the french police know about the very concept of Bitcoin and cryptocurrencies ?\n\nThey were supposed to still use Minitel.\n\n\nIn all seriousness, this is great news, may he serve an example for the other ransomware pirates.",
+            "timeStamp": "2020/12/08-02:26:11",
+            "id": "gf1ia6r",
+            "is_submitter": false,
+            "link_id": "t3_k8nb5l",
+            "parent_id": "t3_k8nb5l",
+            "score": 1,
+            "stickied": false,
+            "author_name": "BaGamman"
+        },
+        "gf1fwx0": {
+            "comment": "Laundering Bitcoin is illegal?",
+            "timeStamp": "2020/12/08-01:42:54",
+            "id": "gf1fwx0",
+            "is_submitter": false,
+            "link_id": "t3_k8nb5l",
+            "parent_id": "t3_k8nb5l",
+            "score": 1,
+            "stickied": false,
+            "author_name": "scootscoot"
+        },
+        "gezv72d": {
+            "comment": "[deleted]",
+            "timeStamp": "2020/12/07-15:14:43",
+            "id": "gezv72d",
+            "is_submitter": false,
+            "link_id": "t3_k8nb5l",
+            "parent_id": "t3_k8nb5l",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "gezhsym": {
+            "comment": "Wow Big news!",
+            "timeStamp": "2020/12/07-13:17:55",
+            "id": "gezhsym",
+            "is_submitter": false,
+            "link_id": "t3_k8nb5l",
+            "parent_id": "t3_k8nb5l",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Kraken0c"
+        }
+    }
+}

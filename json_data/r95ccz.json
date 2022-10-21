@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "FBI: Cuba ransomware breached 49 US critical infrastructure orgs",
+        "score": 1,
+        "id": "r95ccz",
+        "commsNum": 5,
+        "timeStamp": "2021/12/04-18:27:27",
+        "author_name": "DrinkMoreCodeMore",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.bleepingcomputer.com/news/security/fbi-cuba-ransomware-breached-49-us-critical-infrastructure-orgs/"
+    },
+    "posts": {
+        "hpg7o2f": {
+            "comment": "[removed]",
+            "timeStamp": "2021/12/21-09:52:50",
+            "id": "hpg7o2f",
+            "is_submitter": false,
+            "link_id": "t3_r95ccz",
+            "parent_id": "t1_hnaiggd",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hnb5kr5": {
+            "comment": "[deleted]",
+            "timeStamp": "2021/12/05-02:17:37",
+            "id": "hnb5kr5",
+            "is_submitter": false,
+            "link_id": "t3_r95ccz",
+            "parent_id": "t1_hna864f",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hnaip2t": {
+            "comment": "Bahaha, I feel so stupid! Thanks for clarifying",
+            "timeStamp": "2021/12/04-21:38:05",
+            "id": "hnaip2t",
+            "is_submitter": false,
+            "link_id": "t3_r95ccz",
+            "parent_id": "t1_hnaiggd",
+            "score": 16,
+            "stickied": false,
+            "author_name": "JJenkx"
+        },
+        "hnaiggd": {
+            "comment": "The name of the Ransomware variant is Cuba\u2026\n\nCuba is not thought to be the nation where it\u2019s threat actors are located. They are generally thought to be located in Russia.",
+            "timeStamp": "2021/12/04-21:35:43",
+            "id": "hnaiggd",
+            "is_submitter": false,
+            "link_id": "t3_r95ccz",
+            "parent_id": "t1_hna864f",
+            "score": 21,
+            "stickied": false,
+            "author_name": "SodinokibiSeppuku"
+        },
+        "hna864f": {
+            "comment": "I didn't know there were any high profile threat actors in Cuba. It is surprising seeing them try to stir problems. I thought relations were getting better, not worst",
+            "timeStamp": "2021/12/04-20:05:04",
+            "id": "hna864f",
+            "is_submitter": false,
+            "link_id": "t3_r95ccz",
+            "parent_id": "t3_r95ccz",
+            "score": 6,
+            "stickied": false,
+            "author_name": "JJenkx"
+        },
+        "hna6ayu": {
+            "comment": "This sounds like a problem",
+            "timeStamp": "2021/12/04-19:49:50",
+            "id": "hna6ayu",
+            "is_submitter": false,
+            "link_id": "t3_r95ccz",
+            "parent_id": "t3_r95ccz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "doizz"
+        }
+    }
+}

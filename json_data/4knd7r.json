@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[deleted]",
+        "title": "Technical Report about the Malware used in the Cyberespionage against RUAG",
+        "score": 14,
+        "id": "4knd7r",
+        "commsNum": 1,
+        "timeStamp": "2016/05/23-03:44:00",
+        "author_name": "[deleted]",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.melani.admin.ch/melani/en/home/dokumentation/reports/technical-reports/technical-report_apt_case_ruag.html"
+    },
+    "posts": {}
+}

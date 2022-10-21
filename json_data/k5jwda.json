@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "[removed]",
+        "title": "any hint for firefox malware ?",
+        "score": 1,
+        "id": "k5jwda",
+        "commsNum": 3,
+        "timeStamp": "2020/12/02-14:20:02",
+        "author_name": "WhiteWistle",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/k5jwda/any_hint_for_firefox_malware/"
+    },
+    "posts": {
+        "gef8c90": {
+            "comment": "it's not an help request.",
+            "timeStamp": "2020/12/02-14:21:38",
+            "id": "gef8c90",
+            "is_submitter": true,
+            "link_id": "t3_k5jwda",
+            "parent_id": "t1_gef857o",
+            "score": 1,
+            "stickied": false,
+            "author_name": "WhiteWistle"
+        },
+        "gef857o": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2020/12/02-14:20:03",
+            "id": "gef857o",
+            "is_submitter": false,
+            "link_id": "t3_k5jwda",
+            "parent_id": "t3_k5jwda",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

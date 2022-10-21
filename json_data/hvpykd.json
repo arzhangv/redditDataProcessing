@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "[deleted]",
+        "title": "Gen:Variant.Ursu.781962 malware",
+        "score": 2,
+        "id": "hvpykd",
+        "commsNum": 10,
+        "timeStamp": "2020/07/22-01:20:57",
+        "author_name": "[deleted]",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 10,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/hvpykd/genvariantursu781962_malware/"
+    },
+    "posts": {
+        "fyuvlfp": {
+            "comment": "Also I scanned all of the files o nthe pendrive w virustotal and all of them were signed",
+            "timeStamp": "2020/07/22-02:45:16",
+            "id": "fyuvlfp",
+            "is_submitter": false,
+            "link_id": "t3_hvpykd",
+            "parent_id": "t1_fyuuyle",
+            "score": 1,
+            "stickied": false,
+            "author_name": "nomoneyforname"
+        },
+        "fyuv8zr": {
+            "comment": "Watch my newest post I added new informations that I got",
+            "timeStamp": "2020/07/22-02:39:30",
+            "id": "fyuv8zr",
+            "is_submitter": false,
+            "link_id": "t3_hvpykd",
+            "parent_id": "t1_fyuuyle",
+            "score": 1,
+            "stickied": false,
+            "author_name": "nomoneyforname"
+        },
+        "fyuuyle": {
+            "comment": "It looks like malware that tries to impersonate bitdefender tools. The files in the link are not signed, while actual bitdefender tools are signed\n\nLook at the signature info on this one:\n\n [https://www.virustotal.com/gui/file/3d4c10ee72d4ef68cdab08eaec5d2219d929ddb5297a84697c2f090b8f7f8d22/details](https://www.virustotal.com/gui/file/3d4c10ee72d4ef68cdab08eaec5d2219d929ddb5297a84697c2f090b8f7f8d22/details)",
+            "timeStamp": "2020/07/22-02:34:41",
+            "id": "fyuuyle",
+            "is_submitter": false,
+            "link_id": "t3_hvpykd",
+            "parent_id": "t1_fyush6v",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TacticalCheerio"
+        },
+        "fyush6v": {
+            "comment": "Aren't these bitdefender tools?",
+            "timeStamp": "2020/07/22-01:52:14",
+            "id": "fyush6v",
+            "is_submitter": false,
+            "link_id": "t3_hvpykd",
+            "parent_id": "t1_fyurwlt",
+            "score": 1,
+            "stickied": false,
+            "author_name": "nomoneyforname"
+        },
+        "fyurwlt": {
+            "comment": "Here are the only two samples I saw on VirusTotal that are labelled Gen:Variant.Ursu.781962 by BitDefender\n\n[https://www.virustotal.com/gui/file/28935aeac0dd85d5f2b49264d1d39203f4227f689f17b90a73f544b5317ef9ca/detection](https://www.virustotal.com/gui/file/28935aeac0dd85d5f2b49264d1d39203f4227f689f17b90a73f544b5317ef9ca/detection)\n\n[https://www.virustotal.com/gui/file/d317c391d461f0a015dd71ec7ec1c9308cc2c0b830965fe501a72e55a1d1676f/detection](https://www.virustotal.com/gui/file/d317c391d461f0a015dd71ec7ec1c9308cc2c0b830965fe501a72e55a1d1676f/detection)",
+            "timeStamp": "2020/07/22-01:42:18",
+            "id": "fyurwlt",
+            "is_submitter": false,
+            "link_id": "t3_hvpykd",
+            "parent_id": "t3_hvpykd",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TacticalCheerio"
+        }
+    }
+}

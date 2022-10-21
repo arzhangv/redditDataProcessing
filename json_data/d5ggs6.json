@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Malware Botnet Emotet Awakes and Resumes its Spamming Campaign",
+        "score": 29,
+        "id": "d5ggs6",
+        "commsNum": 2,
+        "timeStamp": "2019/09/17-05:46:03",
+        "author_name": "UngilUndy",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://secalerts.co/article/malware-botnet-emotet-awakes-and-resumes-its-spamming-campaign/0596231e"
+    },
+    "posts": {
+        "f0n5f45": {
+            "comment": "Same, though this was a few months ago. Did the needful and pushed it to the OTX.",
+            "timeStamp": "2019/09/17-15:56:47",
+            "id": "f0n5f45",
+            "is_submitter": false,
+            "link_id": "t3_d5ggs6",
+            "parent_id": "t1_f0n0ln5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "admiralspark"
+        },
+        "f0n0ln5": {
+            "comment": "Received a campaign from emotet the other day. Typical 5 host rotation embedded for c2. Same remit payment verbiage. They knew insider outlook distribution email lists, which made it more frustrating.",
+            "timeStamp": "2019/09/17-14:58:11",
+            "id": "f0n0ln5",
+            "is_submitter": false,
+            "link_id": "t3_d5ggs6",
+            "parent_id": "t3_d5ggs6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Googs22"
+        }
+    }
+}

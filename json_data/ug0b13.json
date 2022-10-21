@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Using CAPE Sandbox and FOG to analyze malware on physical machines",
+        "score": 1,
+        "id": "ug0b13",
+        "commsNum": 0,
+        "timeStamp": "2022/05/01-06:50:00",
+        "author_name": "paran0ide",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://mariohenkel.medium.com/using-cape-sandbox-and-fog-to-analyze-malware-on-physical-machines-4dda328d4e2c"
+    },
+    "posts": {
+        "i71o6j3": {
+            "comment": "[removed]",
+            "timeStamp": "2022/05/02-09:39:44",
+            "id": "i71o6j3",
+            "is_submitter": false,
+            "link_id": "t3_ug0b13",
+            "parent_id": "t3_ug0b13",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

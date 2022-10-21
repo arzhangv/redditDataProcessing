@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Malware \u2013 Domain Generation Algorithm (DGA)",
+        "score": 4,
+        "id": "1yeno8",
+        "commsNum": 1,
+        "timeStamp": "2014/02/19-19:09:57",
+        "author_name": "fujimaster",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.senet-int.com/2013/09/malware-domain-generation-algorithm-dga/"
+    },
+    "posts": {}
+}

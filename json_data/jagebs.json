@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Lemon Duck brings cryptocurrency miners back into the spotlight",
+        "score": 1,
+        "id": "jagebs",
+        "commsNum": 4,
+        "timeStamp": "2020/10/13-09:03:40",
+        "author_name": "DrinkMoreCodeMore",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://blog.talosintelligence.com/2020/10/lemon-duck-brings-cryptocurrency-miners.html"
+    },
+    "posts": {
+        "g8qohqn": {
+            "comment": "Lemon Duck is one of the nastier ones for sure.",
+            "timeStamp": "2020/10/13-15:43:09",
+            "id": "g8qohqn",
+            "is_submitter": false,
+            "link_id": "t3_jagebs",
+            "parent_id": "t3_jagebs",
+            "score": 2,
+            "stickied": false,
+            "author_name": "bunby_heli"
+        },
+        "g8qb11q": {
+            "comment": "oh, that is a lot of spreading methods, i didnt read the full article before commenting,  sorry!",
+            "timeStamp": "2020/10/13-13:50:32",
+            "id": "g8qb11q",
+            "is_submitter": false,
+            "link_id": "t3_jagebs",
+            "parent_id": "t1_g8qadtf",
+            "score": 2,
+            "stickied": false,
+            "author_name": "sneezec4t"
+        },
+        "g8qadtf": {
+            "comment": "Yeah, it's certainly been on the rise. I think this one stands out a bit because of how many ways it can spread.",
+            "timeStamp": "2020/10/13-13:46:05",
+            "id": "g8qadtf",
+            "is_submitter": true,
+            "link_id": "t3_jagebs",
+            "parent_id": "t1_g8q9z0j",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DrinkMoreCodeMore"
+        },
+        "g8q9z0j": {
+            "comment": "Hasn't cryptocurrency malware been 'in the spotlight' for a while now?",
+            "timeStamp": "2020/10/13-13:43:10",
+            "id": "g8q9z0j",
+            "is_submitter": false,
+            "link_id": "t3_jagebs",
+            "parent_id": "t3_jagebs",
+            "score": 2,
+            "stickied": false,
+            "author_name": "sneezec4t"
+        }
+    }
+}

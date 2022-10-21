@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Banking Trojan \u201cCitadel\u201d Returns",
+        "score": 14,
+        "id": "4698m4",
+        "commsNum": 0,
+        "timeStamp": "2016/02/17-07:47:23",
+        "author_name": "bartblaze",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://blog.jpcert.or.jp/2016/02/banking-trojan--27d6.html"
+    },
+    "posts": {}
+}

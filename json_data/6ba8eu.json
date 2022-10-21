@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "#WannaCry #ransomware hit #Windows computers worldwide",
+        "score": 1,
+        "id": "6ba8eu",
+        "commsNum": 0,
+        "timeStamp": "2017/05/15-06:00:13",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://resources.infosecinstitute.com/a4-black-friday-massive-ransomware-attack-leveraging-wannacry-hit-systems-worldwide/"
+    },
+    "posts": {}
+}

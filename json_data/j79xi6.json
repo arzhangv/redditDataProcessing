@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": " \n\nHello guys,\n\nI got a few reports of people getting weird link redirects from my site. So I scanned it used a pro to help with that, moved it on a more secure host and wondering if it got cleaned.\n\nhere it is: [https://dronesgator.com/drone-laws-map/](https://dronesgator.com/drone-laws-map/)\n\nThing is, only SOME people see it, probably by IP or place they visit the site from.\n\nWould be a great help for some feedback!",
+        "title": "I cleaned my site and scanned it, can you still see some spammy link redirects",
+        "score": 1,
+        "id": "j79xi6",
+        "commsNum": 6,
+        "timeStamp": "2020/10/08-02:19:10",
+        "author_name": "iampaularcher",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/j79xi6/i_cleaned_my_site_and_scanned_it_can_you_still/"
+    },
+    "posts": {
+        "g85mmwz": {
+            "comment": "just the us",
+            "timeStamp": "2020/10/08-14:56:34",
+            "id": "g85mmwz",
+            "is_submitter": false,
+            "link_id": "t3_j79xi6",
+            "parent_id": "t1_g83uacd",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Interesting-Bus-5370"
+        },
+        "g83vhq8": {
+            "comment": "Whatever tools you are scanning with, pls throw them away. Drones law map still infected. As mentioned, the injections happens before any cache stage: check template php files and page content directly in the db. Drone law map still loads malicious stuff. I copied it for you: https://textbin.net/2l0vYHa4rG \n\nSide note: don\u2018t open a new window when clicking on the country links. Meh.",
+            "timeStamp": "2020/10/08-06:41:25",
+            "id": "g83vhq8",
+            "is_submitter": false,
+            "link_id": "t3_j79xi6",
+            "parent_id": "t1_g83sb8y",
+            "score": 1,
+            "stickied": false,
+            "author_name": "vornamemitd"
+        },
+        "g83uacd": {
+            "comment": "Shit, what country are you from? Must be an IP thing..",
+            "timeStamp": "2020/10/08-06:29:25",
+            "id": "g83uacd",
+            "is_submitter": true,
+            "link_id": "t3_j79xi6",
+            "parent_id": "t1_g83szbd",
+            "score": 1,
+            "stickied": false,
+            "author_name": "iampaularcher"
+        },
+        "g83szbd": {
+            "comment": "i just tried it, i got redirected to a spam site when i clicked on the tag that says \"drones are illegal.\"",
+            "timeStamp": "2020/10/08-06:16:24",
+            "id": "g83szbd",
+            "is_submitter": false,
+            "link_id": "t3_j79xi6",
+            "parent_id": "t1_g83sb8y",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Interesting-Bus-5370"
+        },
+        "g83sb8y": {
+            "comment": "Hey, foud out it might have been a vulnerability with a plugin I had called Rank Math, had some redirects going and it seemed to have been an issue.\n\nI have tried to scan it with everything possible and it doesn't find anything.\n\nLet me know if you still see it. I have cleared the cache.",
+            "timeStamp": "2020/10/08-06:09:22",
+            "id": "g83sb8y",
+            "is_submitter": true,
+            "link_id": "t3_j79xi6",
+            "parent_id": "t1_g83hqey",
+            "score": 1,
+            "stickied": false,
+            "author_name": "iampaularcher"
+        },
+        "g83hqey": {
+            "comment": "Wrong sub unfortunately. Still, your site is still heavily infected. Did you ever have a look at the source code? Check line 76 - a lot of stuff gets injected before WP Rocket optimization kicks in. Assuming that you are actually trying to sell drones and are not pushing the malvertized links, start by having a look at e.g. the header.php of your template. Do you have a clean version of the site? Roll back - and btw. the \"pro\" you mentioned in one of your other posts, they haven\u2018t quite got it right. In case the live version is the only one you got, you could indeed reach out to Sucuri (as mentioned in /r/techsupport) or start from scratch in case you\u2018re short on budget. Get rid of any outdated/unnecessary plugins and install a WP \"firewall\". Another option - go for managed WP hosting for a few bucks more and let them handle the security. Your site is straight forward, doesn\u2018t seem to need much low-level dev interaction, so I\u2018d say this might be your best bet. Otherwise your site will get infected over and over again.",
+            "timeStamp": "2020/10/08-03:45:55",
+            "id": "g83hqey",
+            "is_submitter": false,
+            "link_id": "t3_j79xi6",
+            "parent_id": "t3_j79xi6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "vornamemitd"
+        }
+    }
+}

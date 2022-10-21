@@ -1,0 +1,110 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Yesterday my pc got infected by ransomware don't really care for the files thank god not willing to pay the idiot aither, just don't wanna go through the reinstalling programs problem. Any fix? One more question if I reinstall windows without the copy will the thing still be on? And will there still be System restore point if reinstalled. ",
+        "title": "Garncrab v5.0.3",
+        "score": 1,
+        "id": "a3nk93",
+        "commsNum": 8,
+        "timeStamp": "2018/12/06-04:45:58",
+        "author_name": "holdinarjan",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 8,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/a3nk93/garncrab_v503/"
+    },
+    "posts": {
+        "eb8pfwf": {
+            "comment": "Thread removed.  Please take tech support questions to /r/techsupport or /r/antivirus",
+            "timeStamp": "2018/12/06-13:14:44",
+            "id": "eb8pfwf",
+            "is_submitter": false,
+            "link_id": "t3_a3nk93",
+            "parent_id": "t3_a3nk93",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mjuad"
+        },
+        "eb8h0c2": {
+            "comment": "Not really a memorable name for a virus. ",
+            "timeStamp": "2018/12/06-11:43:24",
+            "id": "eb8h0c2",
+            "is_submitter": true,
+            "link_id": "t3_a3nk93",
+            "parent_id": "t1_eb8ck7u",
+            "score": 1,
+            "stickied": false,
+            "author_name": "holdinarjan"
+        },
+        "eb8ghrv": {
+            "comment": "Well its 5.0.3 I'm in process of reseting pc and hope its not on there again. Otherwise a new windows install is in order. ",
+            "timeStamp": "2018/12/06-11:37:42",
+            "id": "eb8ghrv",
+            "is_submitter": true,
+            "link_id": "t3_a3nk93",
+            "parent_id": "t1_eb8fy2p",
+            "score": 1,
+            "stickied": false,
+            "author_name": "holdinarjan"
+        },
+        "eb8fy2p": {
+            "comment": "Likely 5.04 then.  If the attack happened after 10/26, it is unlikely that the Bit-defender tool will work unfortunately.  ",
+            "timeStamp": "2018/12/06-11:31:46",
+            "id": "eb8fy2p",
+            "is_submitter": false,
+            "link_id": "t3_a3nk93",
+            "parent_id": "t1_eb7oj36",
+            "score": 1,
+            "stickied": false,
+            "author_name": "billseagull"
+        },
+        "eb8ck7u": {
+            "comment": "Gandcrab*",
+            "timeStamp": "2018/12/06-10:53:50",
+            "id": "eb8ck7u",
+            "is_submitter": false,
+            "link_id": "t3_a3nk93",
+            "parent_id": "t1_eb7jef5",
+            "score": 5,
+            "stickied": false,
+            "author_name": "edisun"
+        },
+        "eb7oj36": {
+            "comment": "Sadly it says initilization failed tried before.",
+            "timeStamp": "2018/12/06-06:13:51",
+            "id": "eb7oj36",
+            "is_submitter": true,
+            "link_id": "t3_a3nk93",
+            "parent_id": "t1_eb7nhwq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "holdinarjan"
+        },
+        "eb7nhwq": {
+            "comment": "Did you mean grandcrab?  yeah if it's 5.0.3 I think there is a decryption tool   \n\n\n[check this](https://labs.bitdefender.com/2018/10/gandcrab-ransomware-decryption-tool-available-for-free/)",
+            "timeStamp": "2018/12/06-05:58:46",
+            "id": "eb7nhwq",
+            "is_submitter": false,
+            "link_id": "t3_a3nk93",
+            "parent_id": "t3_a3nk93",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ragupal"
+        },
+        "eb7jef5": {
+            "comment": "Title mistake grancrab* ",
+            "timeStamp": "2018/12/06-04:46:16",
+            "id": "eb7jef5",
+            "is_submitter": true,
+            "link_id": "t3_a3nk93",
+            "parent_id": "t3_a3nk93",
+            "score": 1,
+            "stickied": false,
+            "author_name": "holdinarjan"
+        }
+    }
+}

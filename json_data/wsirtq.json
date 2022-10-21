@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hi, I was using my laptop today and my roommate was experimenting with wireguard on his. He opened a new random port (11445) on the router and checked the traffic in Wireshark and he saw, that as soon as he opened the port my laptop begin to communicate on that port using wireguard protocol (or maybe others as well, but he was filtering by wg). I haven't even heard about wireguard before. Unfortunetley he didn't save any data from wireshark and we weren't able to reproduce it. He checked a few IPs I was communicating with and they were from India, and our country (we live in Europe).  I don't use any vpn and use qbittorrent. There were some active torrents seeding at the time.  I immediatley ran a scan in ESET and have the software stop all traffic both incoming and outgoing if I don't specifically allow it. So far there wasn't any suspicious activity and ESET found nothing.\n\nCould you help me, what could this be? Should I worry?",
+        "title": "Random wireguard protocol communication",
+        "score": 1,
+        "id": "wsirtq",
+        "commsNum": 0,
+        "timeStamp": "2022/08/19-09:47:31",
+        "author_name": "Hewtick",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/wsirtq/random_wireguard_protocol_communication/"
+    },
+    "posts": {
+        "ilhpve0": {
+            "comment": "Did your friend port forwarding 11445 to the wrong IP inside your LAN?\n\nThis would explain everything you mentioned. \n\nIf he forwarded it to your IP you probably got random noise from the internet destination nat\u2019d to your machine. Your machine probably wasn\u2019t listening (running a dameon to receive the traffic) but it still technically went to the device. Unless your doing deep packet inspection most protocol identification is very lame and just done on port number. So seeing \u2018wg\u2019 hitting your machine could be equivalent to seeing \u2018port 11445\u2019 hitting your machine. Seeing the bytes sent vs received would be interesting. If it\u2019s all noise with no response you\u2019d see traffic coming into your machine, but your machine not responding. If your machine WAS responding, then there\u2019s greater concern. My guess is you\u2019d see garbage noise on port 11445 to your machine and no responses from your machine back. \n\n\nAnyways, your probably fine.\nIf your really bothered or want more, hmu.",
+            "timeStamp": "2022/08/23-11:53:00",
+            "id": "ilhpve0",
+            "is_submitter": false,
+            "link_id": "t3_wsirtq",
+            "parent_id": "t3_wsirtq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TastyRobot21"
+        }
+    }
+}

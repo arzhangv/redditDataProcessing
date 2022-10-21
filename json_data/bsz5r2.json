@@ -1,0 +1,99 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "I wrote a Trojan that forces you to take a biology quiz...",
+        "score": 0,
+        "id": "bsz5r2",
+        "commsNum": 7,
+        "timeStamp": "2019/05/25-13:25:45",
+        "author_name": "mathmare",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://github.com/mathmare/RockingMrA"
+    },
+    "posts": {
+        "eosvm4h": {
+            "comment": "Thread removed.",
+            "timeStamp": "2019/05/25-17:21:41",
+            "id": "eosvm4h",
+            "is_submitter": false,
+            "link_id": "t3_bsz5r2",
+            "parent_id": "t3_bsz5r2",
+            "score": 2,
+            "stickied": false,
+            "author_name": "mjuad"
+        },
+        "eosp6b9": {
+            "comment": "&gt;If only you could SEE the irony in your comment\n\nspelling is for faggots",
+            "timeStamp": "2019/05/25-16:28:04",
+            "id": "eosp6b9",
+            "is_submitter": false,
+            "link_id": "t3_bsz5r2",
+            "parent_id": "t1_eos9ijf",
+            "score": -5,
+            "stickied": false,
+            "author_name": "Surpentstone"
+        },
+        "eosooqq": {
+            "comment": "This would have been really edgy 20 years ago lol.",
+            "timeStamp": "2019/05/25-16:24:08",
+            "id": "eosooqq",
+            "is_submitter": false,
+            "link_id": "t3_bsz5r2",
+            "parent_id": "t3_bsz5r2",
+            "score": 0,
+            "stickied": false,
+            "author_name": "dmximposter"
+        },
+        "eosk5gt": {
+            "comment": "i would get an 85 eyes closed",
+            "timeStamp": "2019/05/25-15:47:42",
+            "id": "eosk5gt",
+            "is_submitter": false,
+            "link_id": "t3_bsz5r2",
+            "parent_id": "t3_bsz5r2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Surpentstone"
+        },
+        "eos9ijf": {
+            "comment": "I dunno can you sea it?",
+            "timeStamp": "2019/05/25-14:28:47",
+            "id": "eos9ijf",
+            "is_submitter": false,
+            "link_id": "t3_bsz5r2",
+            "parent_id": "t1_eos8ocz",
+            "score": -1,
+            "stickied": false,
+            "author_name": "gbdavidx"
+        },
+        "eos8ocz": {
+            "comment": "If only you could SEE the irony in your comment.",
+            "timeStamp": "2019/05/25-14:22:39",
+            "id": "eos8ocz",
+            "is_submitter": false,
+            "link_id": "t3_bsz5r2",
+            "parent_id": "t1_eos63kg",
+            "score": 0,
+            "stickied": false,
+            "author_name": "DerSkagg"
+        },
+        "eos63kg": {
+            "comment": "I can spelling is not a strong suit",
+            "timeStamp": "2019/05/25-14:03:32",
+            "id": "eos63kg",
+            "is_submitter": false,
+            "link_id": "t3_bsz5r2",
+            "parent_id": "t3_bsz5r2",
+            "score": 0,
+            "stickied": false,
+            "author_name": "gbdavidx"
+        }
+    }
+}

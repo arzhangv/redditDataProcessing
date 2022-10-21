@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "The Curse of Necurs - part 1 (Analysis of the Necurs Rootkit)",
+        "score": 5,
+        "id": "26fn3x",
+        "commsNum": 0,
+        "timeStamp": "2014/05/25-01:21:30",
+        "author_name": "[deleted]",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://pferrie.host22.com/papers/necurs1.pdf"
+    },
+    "posts": {}
+}

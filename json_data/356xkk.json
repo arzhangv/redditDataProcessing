@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "So I'm looking into the Rombertik malware and trying to make it freak out and attempt to wipe my MBR or encrypt my files but I can not get it to do it. I've put it in Immunity Debugger, OlyDebug, ran with Procmon and Process Hacker running, took regshots, ran Winalysis, ran it with an AV program running, and it just keeps executing as though nothing is wrong. I didn't even change the process names of any of my tools and I'm running on a stand alone box using Deep Freeze so it's not having VM detection problems. \n\nBlogs mention that if the compile time is changed or the hash it makes from \"a resource in memory\" is different, it freaks out and tries to blow up the computer. So does anyone know how to alter a programs compile time, or what this memory resource is that it's hashing? I'm running out of ideas to tackle this.",
+        "title": "Trying to activate Rombertik's defense. I'm running out of ideas...",
+        "score": 14,
+        "id": "356xkk",
+        "commsNum": 15,
+        "timeStamp": "2015/05/07-09:45:41",
+        "author_name": "Onahail",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 15,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/356xkk/trying_to_activate_rombertiks_defense_im_running/"
+    },
+    "posts": {}
+}

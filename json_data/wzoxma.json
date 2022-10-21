@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "The rickroll malware has infected 6 billion computers in the world.",
+        "score": 1,
+        "id": "wzoxma",
+        "commsNum": 0,
+        "timeStamp": "2022/08/27-23:53:45",
+        "author_name": "Iwantpizza69",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://i.redd.it/jg1o11lcjek91.jpg"
+    },
+    "posts": {
+        "im3reva": {
+            "comment": "And I suppose now you want me to click that link?",
+            "timeStamp": "2022/08/28-00:55:54",
+            "id": "im3reva",
+            "is_submitter": false,
+            "link_id": "t3_wzoxma",
+            "parent_id": "t3_wzoxma",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RedWineAndWomen"
+        }
+    }
+}

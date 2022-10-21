@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Email from new friend that turned into shadyland. Ever seen this... anomaly... Before?",
+        "score": 1,
+        "id": "brv6jo",
+        "commsNum": 2,
+        "timeStamp": "2019/05/22-15:26:39",
+        "author_name": "123456788888899",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://i.redd.it/jjo87q1g9uz21.jpg"
+    },
+    "posts": {
+        "eogrrzs": {
+            "comment": "Oh shoot, sorry about that. I guess I misunderstood the rules",
+            "timeStamp": "2019/05/22-15:31:07",
+            "id": "eogrrzs",
+            "is_submitter": true,
+            "link_id": "t3_brv6jo",
+            "parent_id": "t3_brv6jo",
+            "score": 1,
+            "stickied": false,
+            "author_name": "123456788888899"
+        },
+        "eogrc6f": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2019/05/22-15:26:40",
+            "id": "eogrc6f",
+            "is_submitter": false,
+            "link_id": "t3_brv6jo",
+            "parent_id": "t3_brv6jo",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

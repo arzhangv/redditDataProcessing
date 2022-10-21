@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi. Learning a bit more about malware, and I remember back in the day there were programs like EliteWrap that were \"exe wrapper's\" They would somehow embed executables inside of other files. I have been learning in class about droppers that either call out to the internet to download a file, or alternatively have embedded exes. Now, I suppose my question is, are wrappers being used to create these embedded exe's? By default, when using a wrapper program, is the embedded program ran when the other exe is ran?\n\nThanks.",
+        "title": "Wrapper vs dropper?",
+        "score": 6,
+        "id": "3fxjk7",
+        "commsNum": 6,
+        "timeStamp": "2015/08/05-15:20:30",
+        "author_name": "BlastedInTheFace",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/3fxjk7/wrapper_vs_dropper/"
+    },
+    "posts": {}
+}

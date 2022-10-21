@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Custom Malware Development (Establishing A Shell Through the Target\u2019s Browser)",
+        "score": 1,
+        "id": "e4pamc",
+        "commsNum": 0,
+        "timeStamp": "2019/12/01-14:50:39",
+        "author_name": "dimitrios_eLS",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://medium.com/@d.bougioukas/red-team-diary-entry-3-custom-malware-development-establish-a-shell-through-the-browser-bed97c6398a5"
+    },
+    "posts": {}
+}

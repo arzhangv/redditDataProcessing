@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Firefox and Malwares in VirusTotal",
+        "score": 1,
+        "id": "ry73hc",
+        "commsNum": 0,
+        "timeStamp": "2022/01/07-05:13:15",
+        "author_name": "scryblackwren",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.virustotal.com/gui/file/e813d34fa35e9b4f4646f858299e45cc5e20bc9f8a646d14d53f1a679b919fcd/detection"
+    },
+    "posts": {
+        "hro7jmy": {
+            "comment": "no clue, i poke around virus total every once in a while",
+            "timeStamp": "2022/01/07-10:48:07",
+            "id": "hro7jmy",
+            "is_submitter": true,
+            "link_id": "t3_ry73hc",
+            "parent_id": "t1_hrnd2dh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "scryblackwren"
+        },
+        "hrnd2dh": {
+            "comment": "What do you mean 'Firefox'? What and where did you download this from?\n\nIt looks to be 'prepscram', a PUA/adware that can cause web broswsers (chrome, firefox, edge) to break.",
+            "timeStamp": "2022/01/07-07:46:09",
+            "id": "hrnd2dh",
+            "is_submitter": false,
+            "link_id": "t3_ry73hc",
+            "parent_id": "t3_ry73hc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Batchos"
+        },
+        "hrnabuk": {
+            "comment": "\"Creation Time: \t2015-05-05\" Pretty damn suspicious! HitmanPro that shiiii",
+            "timeStamp": "2022/01/07-07:29:06",
+            "id": "hrnabuk",
+            "is_submitter": false,
+            "link_id": "t3_ry73hc",
+            "parent_id": "t3_ry73hc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "fuckAraZobayan"
+        },
+        "hrn9zt2": {
+            "comment": "[deleted]",
+            "timeStamp": "2022/01/07-07:26:58",
+            "id": "hrn9zt2",
+            "is_submitter": false,
+            "link_id": "t3_ry73hc",
+            "parent_id": "t3_ry73hc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hrmzewd": {
+            "comment": "what is it?",
+            "timeStamp": "2022/01/07-06:15:54",
+            "id": "hrmzewd",
+            "is_submitter": false,
+            "link_id": "t3_ry73hc",
+            "parent_id": "t3_ry73hc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DM-ME-UR-GORE"
+        },
+        "hrmypq1": {
+            "comment": "[removed]",
+            "timeStamp": "2022/01/07-06:10:50",
+            "id": "hrmypq1",
+            "is_submitter": false,
+            "link_id": "t3_ry73hc",
+            "parent_id": "t3_ry73hc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

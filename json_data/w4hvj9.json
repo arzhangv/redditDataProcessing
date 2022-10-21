@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "In my second local disk I have all my multimedia files encrypted, there is also a readme txt that says that I need to pay to return my files.\n\nEmsisoft didn't help in decrypting my files.\n\nHelp!",
+        "title": "DjVu .repl encrypted files",
+        "score": 1,
+        "id": "w4hvj9",
+        "commsNum": 0,
+        "timeStamp": "2022/07/21-07:19:20",
+        "author_name": "LordSpaghetti32",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/w4hvj9/djvu_repl_encrypted_files/"
+    },
+    "posts": {
+        "ih2uvle": {
+            "comment": "See rule #1.",
+            "timeStamp": "2022/07/21-10:47:59",
+            "id": "ih2uvle",
+            "is_submitter": false,
+            "link_id": "t3_w4hvj9",
+            "parent_id": "t3_w4hvj9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mjuad"
+        },
+        "ih2gqrl": {
+            "comment": "If you can make a vmdk I could possibly load and run some decrypters I have",
+            "timeStamp": "2022/07/21-09:21:03",
+            "id": "ih2gqrl",
+            "is_submitter": false,
+            "link_id": "t3_w4hvj9",
+            "parent_id": "t3_w4hvj9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "NoAssumption205"
+        },
+        "ih2gksm": {
+            "comment": "Do you need a place to drop ?",
+            "timeStamp": "2022/07/21-09:20:03",
+            "id": "ih2gksm",
+            "is_submitter": false,
+            "link_id": "t3_w4hvj9",
+            "parent_id": "t3_w4hvj9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "NoAssumption205"
+        },
+        "ih2gj8e": {
+            "comment": "Yes proved us a sample please",
+            "timeStamp": "2022/07/21-09:19:47",
+            "id": "ih2gj8e",
+            "is_submitter": false,
+            "link_id": "t3_w4hvj9",
+            "parent_id": "t3_w4hvj9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "NoAssumption205"
+        },
+        "ih2a03d": {
+            "comment": "Do you have the ransomware sample?  Id be willing to take a look, but chances are you wont be getting your files back.",
+            "timeStamp": "2022/07/21-08:39:11",
+            "id": "ih2a03d",
+            "is_submitter": false,
+            "link_id": "t3_w4hvj9",
+            "parent_id": "t3_w4hvj9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "agski"
+        }
+    }
+}

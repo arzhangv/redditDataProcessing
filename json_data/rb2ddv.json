@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 0.67,
+        "selftext": "**The Sysdig Threat Research Team** has detected an attack that can be attributed to the **TeamTNT**. The initial target was a **Kubernetes** pod exposed outside the network. Once access was gained, the malware attempted to **steal AWS credentials using the EC2 instance metadata.**  \n\n\n[TeamTNT stealing credentials using EC2 Instance Metadata.](https://sysdig.com/blog/teamtnt-aws-credentials/)",
+        "title": "TeamTNT stealing credentials using EC2 Instance Metadata.",
+        "score": 2,
+        "id": "rb2ddv",
+        "commsNum": 0,
+        "timeStamp": "2021/12/07-08:04:10",
+        "author_name": "MiguelHzBz",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/rb2ddv/teamtnt_stealing_credentials_using_ec2_instance/"
+    },
+    "posts": {}
+}

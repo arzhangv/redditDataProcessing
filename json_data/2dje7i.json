@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Tiny Malware PoC: Malware Without IAT, DATA OR Resource Section + Source and Compiled Sample",
+        "score": 2,
+        "id": "2dje7i",
+        "commsNum": 0,
+        "timeStamp": "2014/08/14-06:56:17",
+        "author_name": "CodeAndSec",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.codeandsec.com/PoC-Tiny-Malware-Without-IAT-DATA-Or-Resource-Section"
+    },
+    "posts": {}
+}

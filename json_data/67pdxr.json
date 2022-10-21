@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi,\ni finished my project on attempting to develop a simple ELF binary encryption / ELF code injection / unencryption on the fly which I thought may interest some people.\nI wrote an article describing the whole process of encrypting the .text section of an ELF Binary and then injecting code into the binary to unencrypt it on the fly.\n\nEssentially encrypting the binary on disk and protecting it from static analysis but still running as it normally would.\n\nThis was done in a few overs over a few days, I'm sure there is tons of mistakes as it was an exercise for myself to help me learn a bit more about ELF internals.\n\nArticle: http://www.pinkstyle.org/elfcrypt.html (long)\n\n3rd and final video: https://www.youtube.com/watch?v=oTwPC11A9Og&amp;feature=youtu.be",
+        "title": "Run time binary decryption/ELF code injection/ELF protection",
+        "score": 6,
+        "id": "67pdxr",
+        "commsNum": 0,
+        "timeStamp": "2017/04/26-09:47:52",
+        "author_name": "shekkys",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/67pdxr/run_time_binary_decryptionelf_code_injectionelf/"
+    },
+    "posts": {}
+}

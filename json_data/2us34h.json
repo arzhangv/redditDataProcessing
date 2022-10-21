@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Download FakeNet for simulates a network so that malware interacting with a remote host | iTeam Developers",
+        "score": 1,
+        "id": "2us34h",
+        "commsNum": 0,
+        "timeStamp": "2015/02/04-10:31:59",
+        "author_name": "IstyloMax",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://iteamdevelopers.org/download/fakenet/"
+    },
+    "posts": {}
+}

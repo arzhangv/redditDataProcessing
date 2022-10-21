@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "PowerShell Scripts used to run malicious shellcode. Reverse Shell vs Bind Shell",
+        "score": 1,
+        "id": "updvb6",
+        "commsNum": 0,
+        "timeStamp": "2022/05/14-02:46:43",
+        "author_name": "CyberMasterV",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://cybergeeks.tech/powershell-scripts-used-to-run-malicious-shellcode-reverse-shell-vs-bind-shell/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I'm new to reversing / analysis, but I bring a little bit of experience.  I'm really learning by doing, so I have myself 2 samples of what definitely look like Upatre/Dyreza. Both items are word documents that contain password protected macros, but after fumbling around with IDA for a bit I was able to look at a lot of the strings I assume would be contained in the macro. I know there is a wealth of information on both threats online, but I would like to learn for myself, so I'm looking for some help with a few questions that have come out of my experience so far:\n\nThe dropper seems to want to download a txt file from a variety of different domains (confirmed with packet captures that it tries to contact each domain I saw with IDA). I was only able to wget the file from two of them, but they were both exactly the same and are clearly encoded and I have no idea how. Is there an easy way to identify how this file might be encoded?\n\nLooking at the changes on disk, a .txt file and a .ps1 file get saved in temp and quickly deleted, and I assume that this is the product of the text file the dropper is downloading.  Is there a way to recover these files to see the contents? Or to stop them in the process?\n\nA powershell process is eventually spawned and I'd like to know what's going on there. Would crashdumping svchost and powershell exe's be a good move for further analysis? \n\nLastly, the domains hosting these files actually seem to be legitimate, and all developed by the same company. Can locate the lead developers facebook page, and verified that their domains have been around for quite some time. Should I consider contacting someone from the whois info about their site potentially hosting malicious code? \n\nAny guidance or advice is greatly appreciated. Again, I am somewhat new to software debugging/reversing, but I do plan on becoming more familiar with IDA since it would be a useful tool. \n",
+        "title": "Dyreza/Upatre and Me (noob needs help)",
+        "score": 1,
+        "id": "35hvi2",
+        "commsNum": 4,
+        "timeStamp": "2015/05/10-08:08:32",
+        "author_name": "[deleted]",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/35hvi2/dyrezaupatre_and_me_noob_needs_help/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Chinese Android banking Trojan decrypts and drops payload from assets using shared object. \n\nTargets three Chinese banks: \ncom.yitong.mbank.psbc;\ncom.bankcomm.Bankcomm;\ncmb.pb;\n\nBesides that it also stores its secrets, including password, in plain text :) \n\nInfographic: https://twitter.com/LukasStefanko/status/862202817829888000\nVirusTotal: https://www.virustotal.com/en/file/127d23964d5122ee1c88475e2050b866f13a07291c5c33517198147382e37861/analysis/1494397732/\nSample: https://koodous.com/apks/127d23964d5122ee1c88475e2050b866f13a07291c5c33517198147382e37861",
+        "title": "Chinese banking malware store its secrets in plain text + drops payload using shared object",
+        "score": 37,
+        "id": "6abdq7",
+        "commsNum": 0,
+        "timeStamp": "2017/05/10-00:41:03",
+        "author_name": "lukasstefanko",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6abdq7/chinese_banking_malware_store_its_secrets_in/"
+    },
+    "posts": {}
+}

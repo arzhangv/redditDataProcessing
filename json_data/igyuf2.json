@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "ReZer0v4: a Dot Net based loader",
+        "score": 1,
+        "id": "igyuf2",
+        "commsNum": 2,
+        "timeStamp": "2020/08/26-06:30:41",
+        "author_name": "ThisIsLibra",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://maxkersten.nl/binary-analysis-course/malware-analysis/rezer0v4-loader/"
+    },
+    "posts": {
+        "g3g13zu": {
+            "comment": "The name ReZer0 is present within the loader, in this case ReZer0v4 as its apparently the fourth version. Version two was also used quite a lot, as I saw during my research.",
+            "timeStamp": "2020/08/31-00:37:39",
+            "id": "g3g13zu",
+            "is_submitter": true,
+            "link_id": "t3_igyuf2",
+            "parent_id": "t1_g3dn9jd",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ThisIsLibra"
+        },
+        "g3dn9jd": {
+            "comment": "Ah, i knew this code :D. So this thing has a name. How do you come with the name btw? \n\nBecause in dotnet malware its hard to identify loaders or crypters. They have the brilliant idea of reusing the same codes over and over from any other crypter / loader.\n\nNYAN cat repo is a base for many dotnet crap.",
+            "timeStamp": "2020/08/30-11:01:20",
+            "id": "g3dn9jd",
+            "is_submitter": false,
+            "link_id": "t3_igyuf2",
+            "parent_id": "t3_igyuf2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RCEdude"
+        }
+    }
+}

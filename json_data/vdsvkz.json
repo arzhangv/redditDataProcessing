@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Going through a list of high severity vulnerabilities I noticed a more recent one, [CVE-2022-0778](https://nvd.nist.gov/vuln/detail/CVE-2022-0778), which was publicized March 15th, 2022. For some background, the OpenSSL problem lies in a bug on the BN\\_mod\\_sqrt() function, that if served a maliciously crafted certificate to parse, it will enter an infinite loop. The vulnerability then impacts a variety of scenarios such as\n\n* TLS clients consuming server certificates\n* TLS servers consuming client certificates\n* Hosting providers taking certificates or private keys from customers\n* Certificate authorities parsing certification requests from subscribers\n* Anything else which parses ASN.1 elliptic curve parameters\n* Denial of Service\n\nLooking through the vulnerability reports and responses, I noticed how each cybersecurity company responded to the vulnerability. Some patching it as fast as possible, while others still haven't come up with a patch.\n\nFor instance, Check Point was able to deploy a fix within 2-3 days of the publication, Palo Alto Networks deployed a patch 39 days after the publication, and Fortinet + Cisco still have not announced a patch for the vulnerability. For a vulnerability so severe it shocks me that some Cybersec companies still can't find a patch.",
+        "title": "Impact of OpenSSL Infinite Loop Vulnerability CVE-2022-0778",
+        "score": 1,
+        "id": "vdsvkz",
+        "commsNum": 0,
+        "timeStamp": "2022/06/16-11:40:19",
+        "author_name": "Public_Garage4728",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/vdsvkz/impact_of_openssl_infinite_loop_vulnerability/"
+    },
+    "posts": {
+        "iddo33w": {
+            "comment": "This is actually one of the ways I came up with the idea for the post, was going around looking at a variety of cybersec subreddits and was seeing a ton of posts constantly being created regarding unresolved vulnerabilities.",
+            "timeStamp": "2022/06/22-18:48:20",
+            "id": "iddo33w",
+            "is_submitter": true,
+            "link_id": "t3_vdsvkz",
+            "parent_id": "t1_ics95n2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Public_Garage4728"
+        },
+        "iddny6l": {
+            "comment": "Appreciate the response. My main theory was more in the sense that to people unfamiliar in the space, or parties affected, the fact its \"High severity\" should be enough for a company to take action, regardless of how little they may be affected. But I do agree with you 100%",
+            "timeStamp": "2022/06/22-18:47:14",
+            "id": "iddny6l",
+            "is_submitter": true,
+            "link_id": "t3_vdsvkz",
+            "parent_id": "t1_icozsq2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Public_Garage4728"
+        },
+        "icx3pjd": {
+            "comment": "Yeah I looked through their subreddits and saw a bunch of posts. I agree that any high severity vulnerability should be patched up to prevent any complaints or public concerns.",
+            "timeStamp": "2022/06/18-23:48:19",
+            "id": "icx3pjd",
+            "is_submitter": false,
+            "link_id": "t3_vdsvkz",
+            "parent_id": "t1_ics95n2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Any-Blacksmith-5674"
+        },
+        "ics95n2": {
+            "comment": "As a previous commentor stated, some companies may not find it as necessary to deliver a fix compared to others. Personally, in my experience I feel that each company should release something for a high severity threat. \n\nAlthough they may be low at risk, people are still cautious and value their safety. For example you could filter through the paloalto subreddit and see a ton of posts regarding the issue and concerns being raised throughout the months.",
+            "timeStamp": "2022/06/17-18:30:25",
+            "id": "ics95n2",
+            "is_submitter": false,
+            "link_id": "t3_vdsvkz",
+            "parent_id": "t1_icnjns5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "psaiful28"
+        },
+        "icozsq2": {
+            "comment": "It is probably not a \"can't find a patch\" instead it is a case of \"find a fix that doesn't make it worse\".\n\nAdditionally, depending on the affected version and method of delivery of an exploit there may not be a need for \"critical/immediate\" patching.\n\nAll of this depends on the scope of the OpenSSL vulnerability and the implementation of OpenSSL within the different products.",
+            "timeStamp": "2022/06/17-03:39:20",
+            "id": "icozsq2",
+            "is_submitter": false,
+            "link_id": "t3_vdsvkz",
+            "parent_id": "t3_vdsvkz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Farstone"
+        },
+        "icnjns5": {
+            "comment": "Any reason why some companies are able to get a patch out faster than others, surprised one could release a patch in 2 days while others take longer/can't find a patch.",
+            "timeStamp": "2022/06/16-18:16:54",
+            "id": "icnjns5",
+            "is_submitter": false,
+            "link_id": "t3_vdsvkz",
+            "parent_id": "t3_vdsvkz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Any-Blacksmith-5674"
+        }
+    }
+}

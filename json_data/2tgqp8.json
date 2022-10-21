@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Encryption Scanner is a small-foot print Windows app that will scan, detect, and alert admins after a crypto-virus like CryptoWall or CryptoLocker, attacks. \n\nNow you might say-- \"Why would I want a detection system that alerts me AFTER I have already been hacked?\" \n\nWell-- the answer is-- that is just the point:\nSomehow, some way, the crypto-virus got passed your AV and Anti-Malware software. And once your files are encrypted [and you still don't know it] you will be in for a big and unpleasant surprise a month from now when the ransom note shows up.\n\nWith the Encryption Scanner you are alerted right away so you can lock your system down, find and kill the encryption engine, and replace the encrypted data from backup... rather than from a month from now...\nfor more info go to encryptionscanner.com\n",
+        "title": "New software to detect encrypted files",
+        "score": 0,
+        "id": "2tgqp8",
+        "commsNum": 6,
+        "timeStamp": "2015/01/23-16:34:07",
+        "author_name": "encryptionscanner",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2tgqp8/new_software_to_detect_encrypted_files/"
+    },
+    "posts": {}
+}

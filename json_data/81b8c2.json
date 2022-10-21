@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Blast from the past: stowaway Virut delivered with Chinese DDoS bot",
+        "score": 1,
+        "id": "81b8c2",
+        "commsNum": 0,
+        "timeStamp": "2018/03/01-19:03:20",
+        "author_name": "TechLord2",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://blog.malwarebytes.com/threat-analysis/2018/03/blast-from-the-past-stowaway-virut-delivered-with-chinese-ddos-bot/"
+    },
+    "posts": {}
+}

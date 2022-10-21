@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Squid Game has led to various Squid Game malware apps flooding Google Play Store.",
+        "score": 1,
+        "id": "qfewx1",
+        "commsNum": 2,
+        "timeStamp": "2021/10/25-04:45:17",
+        "author_name": "Aggressive_Project",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.vpnranks.com/blog/beware-squid-game-mobile-application-can-hack-your-data/"
+    },
+    "posts": {
+        "hi3b7zk": {
+            "comment": "It's past time for people to get educated about cybersec since early age",
+            "timeStamp": "2021/10/26-01:38:49",
+            "id": "hi3b7zk",
+            "is_submitter": false,
+            "link_id": "t3_qfewx1",
+            "parent_id": "t3_qfewx1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Hex00fShield"
+        },
+        "hi0xe8h": {
+            "comment": "[removed]",
+            "timeStamp": "2021/10/25-12:53:08",
+            "id": "hi0xe8h",
+            "is_submitter": false,
+            "link_id": "t3_qfewx1",
+            "parent_id": "t3_qfewx1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

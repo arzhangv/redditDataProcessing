@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "InfoSec Resources   \u2013  Analyzing the German Trojan, Part 3: the Skype Component",
+        "score": 10,
+        "id": "yp1oc",
+        "commsNum": 2,
+        "timeStamp": "2012/08/23-06:58:36",
+        "author_name": "live_dont_exist",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": null,
+        "url": "http://resources.infosecinstitute.com/german-trojan-3/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,231 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hi thanks for reading this post, i'm 16 years old, and i want to be a Malware Analyst/Reverse Engineer, i did a lot of researches but i have still some questions about books and other stuff. Currently i'm reading \"Learning Malware Analysis\" by Monappa K.A and i'm finding this book reeally good, at the moment i'm at page 404/484, i've understand everything in general (i will read the pages that maybe i didn't understand after i will finish it the first time). For a better understand i will make a list of what i want to do.\n\n**Books:**\n\n\\[X\\] Learning Malware Analysis\n\n\\[\\] Mastering Malware Analysis\n\n\\[\\] Secrets of Reverse Engineering\n\n\\[\\] Learning Reverse Engineering\n\n\\[\\] Mastering Reverse Engineering (Maybe)\n\n\\[\\] Ida Pro Book\n\n\\[\\] Art Of Memory Forensics\n\n\\---------------------------------------------------------\n\n**Languages:**\n\n\\[X\\] Python (I have also made a prototype of a malware, i will upload it on Youtube)\n\n\\[X\\] Assembly x86 (I know the basic thanks to the book of Monappa)\n\n\\[+-\\] Assembly x64 (I know some things explained by Monappa)\n\n\\[\\] (Question here, C or C++?)\n\n\\[\\] Various languages like: C#, Java, Javascript\n\n\\---------------------------------------------------------\n\n**Job:**\n\nI don't think here in Italy there are these types of jobs, if there are they are rare or stupid, like one I have read or they are underpaid. How can i obtain this job?, i need to do something before?, i've read (and personally understand) that is the experience that matters, so i don't need to do something before?\n\n\\---------------------------------------------------------\n\n**Mentor:**\n\nI'm really searching someone for talking, for asking questions, for helping me to understand, if someone want to help me i will be glad, someone that have a good teacher skills, and not writing with a weird english dialect. If you want you can contact me here on Reddit and i will give you my Discord.\n\n\\---------------------------------------------------------\n\n**Info:**\n\nYoutube: [https://youtu.be/xH0sUpeabSM](https://youtu.be/xH0sUpeabSM)\n\n**\"Yes, i'm a criminal. My crime is that of curiosity. My crime is that of judjing people by what they do and think, not what they look like. My crime is that of outsmarting you, something that you will neve forgive me for.\" - The Mentor  January 8, 1986.**",
+        "title": "A newbie here!",
+        "score": 1,
+        "id": "i32hhg",
+        "commsNum": 19,
+        "timeStamp": "2020/08/03-11:26:31",
+        "author_name": "BlackDog17_",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 19,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/i32hhg/a_newbie_here/"
+    },
+    "posts": {
+        "g0l06vg": {
+            "comment": "If you're like me you might get tired of books and want some practical stuff; I'd recommend going through OpenSecurityTraining Intro to Reverse Engineering Software, their Reverse Engineering Malware, then take a look at MalwareUnicorn RE101 and 102. If you have fun with those, consider paying a little money for a course like 0ffset's Beginner Malware Analysis course. I find when I pay (a little) money for something I'm more likely to complete it.\n\nAt any point in your training, check out MalwareBazaar and try to reverse engineer a sample yourself. Work with a write-up of a known sample or go from scratch. Learn how to use the main tools in a FLARE VM and set up a lab first.",
+            "timeStamp": "2020/08/06-10:23:17",
+            "id": "g0l06vg",
+            "is_submitter": false,
+            "link_id": "t3_i32hhg",
+            "parent_id": "t3_i32hhg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "lakitustanfield"
+        },
+        "g0cah2l": {
+            "comment": "the guy said the book \"practical malware analysis\"but is better start with Malware Analysis and then move to the practical malware?",
+            "timeStamp": "2020/08/04-09:20:17",
+            "id": "g0cah2l",
+            "is_submitter": false,
+            "link_id": "t3_i32hhg",
+            "parent_id": "t1_g0c5014",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mousse312"
+        },
+        "g0ca7ro": {
+            "comment": "thanks a lot man!\n\nI was thinking this topic was very very hard even to enter...\n\nBut now i know that if i start right i can uderstand",
+            "timeStamp": "2020/08/04-09:18:39",
+            "id": "g0ca7ro",
+            "is_submitter": false,
+            "link_id": "t3_i32hhg",
+            "parent_id": "t1_g0c5014",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mousse312"
+        },
+        "g0c5014": {
+            "comment": "Yes it is.",
+            "timeStamp": "2020/08/04-08:41:27",
+            "id": "g0c5014",
+            "is_submitter": true,
+            "link_id": "t3_i32hhg",
+            "parent_id": "t1_g0bfrbo",
+            "score": 1,
+            "stickied": false,
+            "author_name": "BlackDog17_"
+        },
+        "g0bfrbo": {
+            "comment": "so im thinking in buy this book,ths topic is very interesting",
+            "timeStamp": "2020/08/04-04:50:59",
+            "id": "g0bfrbo",
+            "is_submitter": false,
+            "link_id": "t3_i32hhg",
+            "parent_id": "t1_g0b2nnm",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mousse312"
+        },
+        "g0b2yks": {
+            "comment": "Thanks you very much!",
+            "timeStamp": "2020/08/04-01:26:12",
+            "id": "g0b2yks",
+            "is_submitter": true,
+            "link_id": "t3_i32hhg",
+            "parent_id": "t1_g0az68e",
+            "score": 2,
+            "stickied": false,
+            "author_name": "BlackDog17_"
+        },
+        "g0b2qgv": {
+            "comment": "I've read it (100 pages), but i found more understandable for starting the book Learning Malware Analysis, and then Practical Malware Analysis.",
+            "timeStamp": "2020/08/04-01:22:22",
+            "id": "g0b2qgv",
+            "is_submitter": true,
+            "link_id": "t3_i32hhg",
+            "parent_id": "t1_g0a6ipc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "BlackDog17_"
+        },
+        "g0b2nnm": {
+            "comment": "Which book? Learning Malware Analysis? really? i found it really amazing and i've understand, the few concepts of programming that touch the book are arrays, some understandable C codes, for understand assembly and Object Oriented Programming, i really don't find hardthis, in a general view. Thanks for your answer.",
+            "timeStamp": "2020/08/04-01:21:00",
+            "id": "g0b2nnm",
+            "is_submitter": true,
+            "link_id": "t3_i32hhg",
+            "parent_id": "t1_g09u3qg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "BlackDog17_"
+        },
+        "g0b2gyc": {
+            "comment": "Yes the book also talk about file less malware, thanks for your suggestion.",
+            "timeStamp": "2020/08/04-01:17:53",
+            "id": "g0b2gyc",
+            "is_submitter": true,
+            "link_id": "t3_i32hhg",
+            "parent_id": "t1_g0arxg5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "BlackDog17_"
+        },
+        "g0b0ru0": {
+            "comment": "[removed]",
+            "timeStamp": "2020/08/04-00:49:25",
+            "id": "g0b0ru0",
+            "is_submitter": false,
+            "link_id": "t3_i32hhg",
+            "parent_id": "t3_i32hhg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "g0az68e": {
+            "comment": "Hello,\n\nThere is at least one anti-malware company headquartered in Italy, [TGSoft](https://www.tgsoft.it/italy/contatti.asp).  They are not the largest company, nor are they the smallest, but they have been in the industry for a long time and have a good reputation.  \n\nYou might want to reach out to them and ask for some career advice.  They may have some suggestions on where to pursue things further.\n\nRegards,\n\nAryeh Goretsky",
+            "timeStamp": "2020/08/04-00:23:34",
+            "id": "g0az68e",
+            "is_submitter": false,
+            "link_id": "t3_i32hhg",
+            "parent_id": "t3_i32hhg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "goretsky"
+        },
+        "g0arxg5": {
+            "comment": "You also gonna be needing  scripting languages, Powershell, bash, JavaScript as we are seeing most malwares are now staged,  file less and obfuscated. I like to reverse engineer Powershell and JavaScript because it's like solving a puzzle. I am not a professional in Malware analysis or even good at it but i found SentinelOne Zero2Hero Malware Reverse Engineering course to be really helpful in basic understanding.",
+            "timeStamp": "2020/08/03-22:37:19",
+            "id": "g0arxg5",
+            "is_submitter": false,
+            "link_id": "t3_i32hhg",
+            "parent_id": "t3_i32hhg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MTK911"
+        },
+        "g0a6ipc": {
+            "comment": "For book practical malware analysis is a great one",
+            "timeStamp": "2020/08/03-18:51:47",
+            "id": "g0a6ipc",
+            "is_submitter": false,
+            "link_id": "t3_i32hhg",
+            "parent_id": "t3_i32hhg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "nishan8583"
+        },
+        "g09u3qg": {
+            "comment": "This book is harder for learn or someone with a little experience in programming can understand?",
+            "timeStamp": "2020/08/03-16:59:36",
+            "id": "g09u3qg",
+            "is_submitter": false,
+            "link_id": "t3_i32hhg",
+            "parent_id": "t3_i32hhg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mousse312"
+        },
+        "g096k2v": {
+            "comment": "[deleted]",
+            "timeStamp": "2020/08/03-13:42:01",
+            "id": "g096k2v",
+            "is_submitter": false,
+            "link_id": "t3_i32hhg",
+            "parent_id": "t3_i32hhg",
+            "score": 2,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "g096gmg": {
+            "comment": "Thank you very much for your answer, i subscribed.",
+            "timeStamp": "2020/08/03-13:41:15",
+            "id": "g096gmg",
+            "is_submitter": true,
+            "link_id": "t3_i32hhg",
+            "parent_id": "t1_g0925xn",
+            "score": 2,
+            "stickied": false,
+            "author_name": "BlackDog17_"
+        },
+        "g0925xn": {
+            "comment": "Half my job is dealing with MalDocs.\nCheck everything by https://www.youtube.com/channel/UC5-rNGe-OhG_KxwYN4DuNVQ",
+            "timeStamp": "2020/08/03-13:07:11",
+            "id": "g0925xn",
+            "is_submitter": false,
+            "link_id": "t3_i32hhg",
+            "parent_id": "t3_i32hhg",
+            "score": 2,
+            "stickied": false,
+            "author_name": "ITminion867"
+        },
+        "g08wqno": {
+            "comment": "[deleted]",
+            "timeStamp": "2020/08/03-12:31:25",
+            "id": "g08wqno",
+            "is_submitter": false,
+            "link_id": "t3_i32hhg",
+            "parent_id": "t3_i32hhg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "g08qkbf": {
+            "comment": "[removed]",
+            "timeStamp": "2020/08/03-11:50:29",
+            "id": "g08qkbf",
+            "is_submitter": false,
+            "link_id": "t3_i32hhg",
+            "parent_id": "t3_i32hhg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

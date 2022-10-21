@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "This might be a total noob question but I was under the impression that executables and scripts and that store a bit of meta-data about the persons computer who made the executable, can't this get tracked? Again, I apologise for the newbie question, I've only just started a computer science degree and malware fascinates me",
+        "title": "Don't executables save a bit of metadata about the computer when compiled or saved? How do malware authors not get caught by this?",
+        "score": 12,
+        "id": "2zfvsi",
+        "commsNum": 7,
+        "timeStamp": "2015/03/17-22:57:38",
+        "author_name": "noobmalware",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2zfvsi/dont_executables_save_a_bit_of_metadata_about_the/"
+    },
+    "posts": {}
+}

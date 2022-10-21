@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 0.99,
+        "selftext": "[deleted]",
+        "title": "On my tabs I've been seeing this weird Google tab pop up, and I don't use Google that much because I use my Firefox incognito browser. When I tap on it, it either takes me to a black screen or nothing happens at all. Is this some kind of malware or virus?",
+        "score": 1,
+        "id": "hww108",
+        "commsNum": 4,
+        "timeStamp": "2020/07/23-22:28:52",
+        "author_name": "[deleted]",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://i.redd.it/pjjomxywqqc51.jpg"
+    },
+    "posts": {
+        "fz29j8v": {
+            "comment": "What's also strange is that this has an older Google logo",
+            "timeStamp": "2020/07/23-22:30:02",
+            "id": "fz29j8v",
+            "is_submitter": false,
+            "link_id": "t3_hww108",
+            "parent_id": "t3_hww108",
+            "score": 1,
+            "stickied": false,
+            "author_name": "SynergyEnterprise"
+        },
+        "fz29fwd": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2020/07/23-22:28:53",
+            "id": "fz29fwd",
+            "is_submitter": false,
+            "link_id": "t3_hww108",
+            "parent_id": "t3_hww108",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

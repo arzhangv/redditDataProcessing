@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I just visited this Reddit story: http://www.reddit.com/r/movies/comments/27nioe/11_best_movies_that_takes_place_over_one_day_or/\n\nand expanded the gallery using res. Immediately I received a popup saying that the page could not be displayed without updating Flash, together with a reasonable facsimile of the Adobe Flash downloader page. On dismissing the alert, my browser downloaded an executable called 'set-up' \n\nThe URL associated with the file is: http ://get.download2desktop.com/DownloadManager/Get?p=7302&amp;d=1775&amp;l=1694&amp;n=0&amp;d1=13409&amp;clickid=835160861, http ://downloads.giochimobi.com/FPlayer/UK/auload.html?installer=Flash_Player_13_for_Other_Browsers&amp;browser_type=KHTML&amp;dualoffer=false\n\nThe file didn't execute, and I'm on a Mac. But I was wondering whether anyone has seen this before, and whether there is somewhere sensible to report this. I've retained a copy of the file.\n\nOddly enough the same thing happened four times, but now the page appears to display correctly. Possibly a compromised advert?\n\n**Edit** - reported it to Imgur, and received an e-mail back saying that \"This is a known issue and we're working on a fix.\"",
+        "title": "Imgur serving Malware masquerading as Flash update?",
+        "score": 25,
+        "id": "27omob",
+        "commsNum": 11,
+        "timeStamp": "2014/06/09-01:59:08",
+        "author_name": "HeartyBeast",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 11,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/27omob/imgur_serving_malware_masquerading_as_flash_update/"
+    },
+    "posts": {}
+}

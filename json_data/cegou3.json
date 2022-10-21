@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Heightened threat scenario: all the facts in the AV-TEST Security Report 2018/2019",
+        "score": 10,
+        "id": "cegou3",
+        "commsNum": 1,
+        "timeStamp": "2019/07/17-11:24:05",
+        "author_name": "mmorgens82",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.av-test.org/en/news/heightened-threat-scenario-all-the-facts-in-the-av-test-security-report-2018-2019/"
+    },
+    "posts": {
+        "eu2dq1f": {
+            "comment": "&gt;**With massive increases in malware statistics, it was anything but quiet on the malware front. Windows and Android systems continue to be the focus of organized crime, yet the malware rate for Apple's macOS has nearly tripled. In 2019, the negative trend is expected to grow worse: In mid-May, the AV-TEST analysis systems recorded the 900 millionth malware program \u2013 a frightening record. All the more incomprehensible is the persistence of low protection levels of IoT devices, which are like open barn doors for attackers on the Internet.** \n\nDirect Link to the PDF: [https://www.av-test.org/fileadmin/pdf/security\\_report/AV-TEST\\_Security\\_Report\\_2018-2019.pdf](https://www.av-test.org/fileadmin/pdf/security_report/AV-TEST_Security_Report_2018-2019.pdf)",
+            "timeStamp": "2019/07/17-11:24:38",
+            "id": "eu2dq1f",
+            "is_submitter": true,
+            "link_id": "t3_cegou3",
+            "parent_id": "t3_cegou3",
+            "score": 2,
+            "stickied": false,
+            "author_name": "mmorgens82"
+        }
+    }
+}

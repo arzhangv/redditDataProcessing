@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hey, I would like to know how the APIs hooked by Dyre for IE, Firefox and Chrome browser.  Something similar to result of APIHOOKS plugin of Volatility tool.  Could someone help me out here. An active sample of Dyre would also help, so that I can run APIHOOKS plugin myself. Thank you so much. \n",
+        "title": "APIs Hooked by Dyre for Different Browsers",
+        "score": 2,
+        "id": "36vodz",
+        "commsNum": 0,
+        "timeStamp": "2015/05/22-07:18:01",
+        "author_name": "[deleted]",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/36vodz/apis_hooked_by_dyre_for_different_browsers/"
+    },
+    "posts": {}
+}

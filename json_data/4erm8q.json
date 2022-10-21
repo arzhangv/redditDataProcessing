@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Stealthy, Hypervisor-based Malware Analysis (Slides)",
+        "score": 1,
+        "id": "4erm8q",
+        "commsNum": 0,
+        "timeStamp": "2016/04/14-08:19:25",
+        "author_name": "sh3dow",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.slideshare.net/tklengyel/stealthy-hypervisorbased-malware-analysis"
+    },
+    "posts": {}
+}

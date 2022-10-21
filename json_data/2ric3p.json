@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Anyone seeing a new document being email like \n\ncontaining a word document, , it doesn't report on Virus Total, but opening it in plain text editor , shows URLDownloadToFileA, I take it is some type of macro virus?\n\nDear all,\n \nPayment has been made to you in amount GBP 11892,44 by BACS.\n\n\n \nSee attachment.\n \nRegards,\n \nLenny Moore\nSenior Accountant\n",
+        "title": "New Word Doc Malware?",
+        "score": 6,
+        "id": "2ric3p",
+        "commsNum": 13,
+        "timeStamp": "2015/01/06-04:37:15",
+        "author_name": "zerodeadzero",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 13,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2ric3p/new_word_doc_malware/"
+    },
+    "posts": {}
+}

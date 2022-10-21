@@ -1,0 +1,165 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "When I start up my pc, [battle.net](https://battle.net) and xbox services gets an error. I can't open task manager or some other stuff. My Windows Defender goes crazy and I see something along the lines of Trojan.Win32/IRCBOT process: pid:5148,ProcessStart:132472926111962494. Once I run MalwareBytes, I do a quick scan and there will be a problem with something like the Registry Value/Key malware. After that I quarantine it and my apps like [battle.net](https://battle.net) start working again. But when I open Genshin Impact, the problem pops up again and I have to fish it out with MalwareBytes again. Everytime I restart my computer, it shows the IRCBot malware thing again.\n\nAny assistance would be much appreciated",
+        "title": "I was stupidly trying out cracking on my main pc and I got a virus",
+        "score": 1,
+        "id": "jc3cv6",
+        "commsNum": 13,
+        "timeStamp": "2020/10/15-21:35:43",
+        "author_name": "Gingeroose",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 13,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/jc3cv6/i_was_stupidly_trying_out_cracking_on_my_main_pc/"
+    },
+    "posts": {
+        "g8zw0kj": {
+            "comment": "&gt;A place for malware reports and information. This is NOT a place for help with malware removal or various other end-user questions.\n\nPost is 8h old. Does this subreddit even have mods?",
+            "timeStamp": "2020/10/16-05:40:27",
+            "id": "g8zw0kj",
+            "is_submitter": false,
+            "link_id": "t3_jc3cv6",
+            "parent_id": "t3_jc3cv6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "cyphzr0"
+        },
+        "g8zovhr": {
+            "comment": "[removed]",
+            "timeStamp": "2020/10/16-04:05:03",
+            "id": "g8zovhr",
+            "is_submitter": false,
+            "link_id": "t3_jc3cv6",
+            "parent_id": "t1_g8z6bc0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "g8zokcu": {
+            "comment": "This isn't the right sub for this.\n\nBut, as others said, this isn't a bad one and can likely be removed pretty easily. So, you can reinstall Windows or take a weekend and learn a lot about Windows to remove it. Someone in /r/techsupport can help, but that generally starts with going into Task Manager, and viewing your Startup items to find it.",
+            "timeStamp": "2020/10/16-03:59:59",
+            "id": "g8zokcu",
+            "is_submitter": false,
+            "link_id": "t3_jc3cv6",
+            "parent_id": "t3_jc3cv6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "LightningRurik"
+        },
+        "g8zm0dn": {
+            "comment": "I\u2019d recommend a boot CD/DVD or USB to scan and fix also. \nIf I ever have something insanely persistent I use a boot antivirus OS. \nHere\u2019s an example; however I am not endorsing any of these specifically. Do your own research. My rule of thumb is if I find the same boot Operating Systems recommended on 3 sites and it seems to suit my needs then I use it. https://www.lifewire.com/free-bootable-antivirus-tools-2625785",
+            "timeStamp": "2020/10/16-03:16:18",
+            "id": "g8zm0dn",
+            "is_submitter": false,
+            "link_id": "t3_jc3cv6",
+            "parent_id": "t3_jc3cv6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Err504"
+        },
+        "g8zf7o4": {
+            "comment": "It sounds like it\u2019s hooking into something that loads in that game. Try deleting and reinstalling the game. Check scheduled tasks and login scripts.",
+            "timeStamp": "2020/10/16-01:06:58",
+            "id": "g8zf7o4",
+            "is_submitter": false,
+            "link_id": "t3_jc3cv6",
+            "parent_id": "t1_g8z6bc0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "_-rootkid-_"
+        },
+        "g8zd4bu": {
+            "comment": "Wipe your hard drive and reinstall. It\u2019s the only way to be sure you got rid of everything.",
+            "timeStamp": "2020/10/16-00:28:17",
+            "id": "g8zd4bu",
+            "is_submitter": false,
+            "link_id": "t3_jc3cv6",
+            "parent_id": "t3_jc3cv6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "LiquidIsLiquid"
+        },
+        "g8z8c9e": {
+            "comment": "The Startup folder is this yes?  \n\\`Roaming\\\\Microsoft\\\\Windows\\\\Start Menu\\\\Programs\\\\Startup\\`\n\nIf so then there's nothing in there, scheduled tasks I'm a dumbass and dunno where that is.  \n\n\nGotta be honest, I dunno how to wipe and reinstall",
+            "timeStamp": "2020/10/15-23:09:05",
+            "id": "g8z8c9e",
+            "is_submitter": true,
+            "link_id": "t3_jc3cv6",
+            "parent_id": "t1_g8z7uyn",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Gingeroose"
+        },
+        "g8z7uyn": {
+            "comment": "If it's any consolation it doesn't look like very advanced malware (apart from the persistence aspect). \n\nIs there anything in your Startup Apps folder? Anything in your scheduled tasks? \n\nIt may be that you're deleting the primary artifact (the one spawning the process that your AV is detecting) but the persistance mechanism must still be there undetected if it keeps coming back. \n\nSafest option is to wipe n reinstall. But depends what you have on the machine etc etc.",
+            "timeStamp": "2020/10/15-23:01:34",
+            "id": "g8z7uyn",
+            "is_submitter": false,
+            "link_id": "t3_jc3cv6",
+            "parent_id": "t3_jc3cv6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "1-2-switch"
+        },
+        "g8z6bc0": {
+            "comment": "Everything seemed swell once I restarted my pc after running the toolkit, but after I tried launching the game genshin impact again, the problem started appearing again. I checked MalwareBytes after scanning and the problem seems to be this :Registry Data: 1\n\nHijack.ExeFile, HKLM\\\\SOFTWARE\\\\CLASSES\\\\EXEFILE\\\\SHELL\\\\OPEN\\\\COMMAND",
+            "timeStamp": "2020/10/15-22:38:36",
+            "id": "g8z6bc0",
+            "is_submitter": true,
+            "link_id": "t3_jc3cv6",
+            "parent_id": "t1_g8z3v3p",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Gingeroose"
+        },
+        "g8z3v3p": {
+            "comment": "Yes. I should mention that I haven\u2019t used that in a long time tho.",
+            "timeStamp": "2020/10/15-22:04:16",
+            "id": "g8z3v3p",
+            "is_submitter": false,
+            "link_id": "t3_jc3cv6",
+            "parent_id": "t1_g8z3rn0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Marshall_HD"
+        },
+        "g8z3rn0": {
+            "comment": "[https://www.malwarebytes.com/antirootkit/](https://www.malwarebytes.com/antirootkit/)  \nare you talking about this?",
+            "timeStamp": "2020/10/15-22:02:56",
+            "id": "g8z3rn0",
+            "is_submitter": true,
+            "link_id": "t3_jc3cv6",
+            "parent_id": "t1_g8z2ly0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Gingeroose"
+        },
+        "g8z2zbv": {
+            "comment": "Protip for when you get your issue sorted out. Malwarebytes offers their product Malwarebytes Anti-Exploit as a free beta version download on their support forum. This program/module is implemented in their real time protection in the paid version of Malware Bytes Anti Malware.\n\nMB Anti Exploit is VERY good, I have tested multiple exploits against it and it's really something you should use.",
+            "timeStamp": "2020/10/15-21:52:17",
+            "id": "g8z2zbv",
+            "is_submitter": false,
+            "link_id": "t3_jc3cv6",
+            "parent_id": "t1_g8z2ly0",
+            "score": 2,
+            "stickied": false,
+            "author_name": "ElliotsRebirth"
+        },
+        "g8z2ly0": {
+            "comment": "You can try the rootkit version of malware bytes, it worked like a charm for me.",
+            "timeStamp": "2020/10/15-21:47:23",
+            "id": "g8z2ly0",
+            "is_submitter": false,
+            "link_id": "t3_jc3cv6",
+            "parent_id": "t3_jc3cv6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Marshall_HD"
+        }
+    }
+}

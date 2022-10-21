@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "How ransomware exploded in the age of Bitcoin",
+        "score": 1,
+        "id": "ee76q6",
+        "commsNum": 4,
+        "timeStamp": "2019/12/22-09:01:07",
+        "author_name": "DecryptMedia",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://decrypt.co/15394/how-ransomware-exploded-in-the-age-of-btc?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=sm"
+    },
+    "posts": {
+        "fbtuwc8": {
+            "comment": "Yes totally agree. I still think it\u2019s sad tho that they have taken away the privacy of Bitcoin by getting us to give them ID.",
+            "timeStamp": "2019/12/23-02:33:02",
+            "id": "fbtuwc8",
+            "is_submitter": false,
+            "link_id": "t3_ee76q6",
+            "parent_id": "t1_fbt2g3a",
+            "score": 1,
+            "stickied": false,
+            "author_name": "rwx-777"
+        },
+        "fbt2g3a": {
+            "comment": "I suspect so. Bitcoin is absolutely fascinating and brilliant when Silk Road started the whole darknet markets. I believe Silk Road really contributed to the success that It had in 18/19. Back then, bitcoin was not under scrutiny so it was a genius idea to do, and you actually could withdraw anonymously easily.  Now any place you go to, the exchanges always ask for an ID. Sure you can make a fake one, but my point is their are much higher chances of getting busted now, compared to the early 2010\u2019s. \n\nAnd I really do believe Silk Road helped promote the coin indirectly. Then the general public got all excited when it was at its peak in like like \u201817? So yes I definitely agree they will be teaching this in history someday. Bitcoin and all other currencies I do not think will last long, until people understand the concept of the block chain. It\u2019s like even funnier because then people say monero will keep you anonymous. Umm no, monero has had several issues this year, and a security researcher I guarantee all of the other coins are not 100% safe. \n\nPeople just don\u2019t understand the concept. Blockchain will remain relevant as a service/technology, but as a system to keep transferring money, I think all coins are gonna be worthless. Once people finally understand security better. \n\n/end rant (people on like /r/onions) simply do not understand the concept, and get mad when you tell them blockchain is a ledger system. \n\nMonero Breach Link:\n\nhttps://arstechnica.com/information-technology/2019/11/official-monero-website-is-hacked-to-deliver-currency-stealing-malware/",
+            "timeStamp": "2019/12/22-18:02:02",
+            "id": "fbt2g3a",
+            "is_submitter": false,
+            "link_id": "t3_ee76q6",
+            "parent_id": "t1_fbrezio",
+            "score": 1,
+            "stickied": false,
+            "author_name": "gunot10101"
+        },
+        "fbrezio": {
+            "comment": "They shall be teaching \u201ethe age of Bitcoin\u201c in history classes in a few years ...",
+            "timeStamp": "2019/12/22-11:17:39",
+            "id": "fbrezio",
+            "is_submitter": false,
+            "link_id": "t3_ee76q6",
+            "parent_id": "t3_ee76q6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "rwx-777"
+        },
+        "fbqxn1w": {
+            "comment": "Can we stop saying bitcoin makes you anonymous. It\u2019s pseudo anonymous. Block chain is a ledger, so it\u2019s not 100% anonymous. No crypto that used blockchain is anonymous. Sure you can tumble the coins, but the bottom line is you can follow the bread crumbs.",
+            "timeStamp": "2019/12/22-09:45:31",
+            "id": "fbqxn1w",
+            "is_submitter": false,
+            "link_id": "t3_ee76q6",
+            "parent_id": "t3_ee76q6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "gunot10101"
+        }
+    }
+}

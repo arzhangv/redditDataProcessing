@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "[deleted]",
+        "title": "PowerShell Commands for Incident Response",
+        "score": 1,
+        "id": "ibfm7i",
+        "commsNum": 0,
+        "timeStamp": "2020/08/17-07:54:28",
+        "author_name": "[deleted]",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.securityinbits.com/incident-response/powershell-commands-for-incident-response/"
+    },
+    "posts": {}
+}

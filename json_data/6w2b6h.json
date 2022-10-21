@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Security Headlines: Word Malware, Cloud Disasters and More",
+        "score": 1,
+        "id": "6w2b6h",
+        "commsNum": 0,
+        "timeStamp": "2017/08/25-16:50:32",
+        "author_name": "cyber_block_",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://blog.isc2.org/isc2_blog/2017/08/security-headlines.html"
+    },
+    "posts": {}
+}

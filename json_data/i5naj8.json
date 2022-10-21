@@ -1,0 +1,110 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I'm starting a challenge to complete as many of the previous FLARE-ON challenges as possible before flareon7. I'll be livestreaming 6:30 pm EST every other day, starting tomorrow. Here's the first one if you'd like to share/watch: https://youtu.be/hTgT5i5u2D0",
+        "title": "Road to FLARE-ON 7 (Stream Series)",
+        "score": 1,
+        "id": "i5naj8",
+        "commsNum": 8,
+        "timeStamp": "2020/08/07-15:11:10",
+        "author_name": "lakitustanfield",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 8,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/i5naj8/road_to_flareon_7_stream_series/"
+    },
+    "posts": {
+        "g28bf1g": {
+            "comment": "It'll take a lot of time management. Two years ago (I think?) was a horrible year. The challenges were okay, but they took a *TON* of time, especially the PlugX one. I cannot emphasize enough how much time you need to allot for yourself. I had many sleepless nights, days off work, and 100% focused weekends, because I didn't expect to get it in on time, and I barely did. It actually swore me off CTFs since.",
+            "timeStamp": "2020/08/20-10:00:46",
+            "id": "g28bf1g",
+            "is_submitter": false,
+            "link_id": "t3_i5naj8",
+            "parent_id": "t1_g1apkb5",
+            "score": 2,
+            "stickied": false,
+            "author_name": "LightningRurik"
+        },
+        "g1apkb5": {
+            "comment": "Made it to challenge 4 today, but I'm deciding to adjust my schedule. I'm probably gonna do an hour and a half every 3 days, since rn I don't have enough time for other commitments. Plus I work full time so the 3 hours has hurt lol. Next stream Saturday.",
+            "timeStamp": "2020/08/12-21:56:10",
+            "id": "g1apkb5",
+            "is_submitter": true,
+            "link_id": "t3_i5naj8",
+            "parent_id": "t3_i5naj8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "lakitustanfield"
+        },
+        "g134xpy": {
+            "comment": "Ok thanks",
+            "timeStamp": "2020/08/11-02:45:15",
+            "id": "g134xpy",
+            "is_submitter": false,
+            "link_id": "t3_i5naj8",
+            "parent_id": "t3_i5naj8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mike_specter37"
+        },
+        "g0vt833": {
+            "comment": "Sept 12th I believe",
+            "timeStamp": "2020/08/09-04:42:14",
+            "id": "g0vt833",
+            "is_submitter": false,
+            "link_id": "t3_i5naj8",
+            "parent_id": "t1_g0ruxzi",
+            "score": 1,
+            "stickied": false,
+            "author_name": "credmp"
+        },
+        "g0ruxzi": {
+            "comment": "When will Flare-On 7 start?",
+            "timeStamp": "2020/08/08-01:58:01",
+            "id": "g0ruxzi",
+            "is_submitter": false,
+            "link_id": "t3_i5naj8",
+            "parent_id": "t3_i5naj8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mike_specter37"
+        },
+        "g0rseo8": {
+            "comment": "[removed]",
+            "timeStamp": "2020/08/08-01:14:53",
+            "id": "g0rseo8",
+            "is_submitter": false,
+            "link_id": "t3_i5naj8",
+            "parent_id": "t1_g0rse7m",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "g0rse7m": {
+            "comment": "flare-on.com",
+            "timeStamp": "2020/08/08-01:14:40",
+            "id": "g0rse7m",
+            "is_submitter": true,
+            "link_id": "t3_i5naj8",
+            "parent_id": "t1_g0rnzdm",
+            "score": 1,
+            "stickied": false,
+            "author_name": "lakitustanfield"
+        },
+        "g0rnzdm": {
+            "comment": "Where can you get access to the retired challenges?",
+            "timeStamp": "2020/08/08-00:03:57",
+            "id": "g0rnzdm",
+            "is_submitter": false,
+            "link_id": "t3_i5naj8",
+            "parent_id": "t3_i5naj8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "xmcbx"
+        }
+    }
+}

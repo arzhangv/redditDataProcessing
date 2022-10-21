@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I have been getting odd website blocks through Malwarebytes as below:\n\n[get this perhaps once every 2 days](https://preview.redd.it/or5pdd93rf661.png?width=472&amp;format=png&amp;auto=webp&amp;s=a6b8e6e5959ba79412bbb25ae53e26ed638e6fb4)\n\nI thought initially it may be some dodgy chrome extension but I removed anything I wasn't using and now just have one (AdBlock) - so don't think its likely to be that. Also done full virus scans etc of course and nothing detected on any of my drives.\n\nI did a bit of research and it appears this IP may be associated with the Dridex malware, it seems very odd that I'm getting these outbounds now and again through chrome - has anyone else noticed outbounds from this IP via chrome as well?",
+        "title": "Suspicious outbound IP: 51.83.96.87 Port: 443",
+        "score": 1,
+        "id": "kh67pt",
+        "commsNum": 2,
+        "timeStamp": "2020/12/20-16:40:19",
+        "author_name": "xGOXSTRAPx",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/kh67pt/suspicious_outbound_ip_51839687_port_443/"
+    },
+    "posts": {
+        "ggjdrk5": {
+            "comment": "Ok I'll give that a go, may be a while before I know if it has changed anything though since I only get the outbound maybe once every 24-48 hours",
+            "timeStamp": "2020/12/20-16:51:14",
+            "id": "ggjdrk5",
+            "is_submitter": true,
+            "link_id": "t3_kh67pt",
+            "parent_id": "t1_ggjddi7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "xGOXSTRAPx"
+        },
+        "ggjddi7": {
+            "comment": "I\u2019ve never seen this but I\u2019m interested. I\u2019d try deleting that chrome.exe that is being reported and redos load chrome and copy the new exe into there just to see if it stops the traffic.",
+            "timeStamp": "2020/12/20-16:47:42",
+            "id": "ggjddi7",
+            "is_submitter": false,
+            "link_id": "t3_kh67pt",
+            "parent_id": "t3_kh67pt",
+            "score": 1,
+            "stickied": false,
+            "author_name": "FOlahey"
+        }
+    }
+}

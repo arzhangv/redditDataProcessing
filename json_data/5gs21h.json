@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Toy decompiler for x86-64 written in Python [PDF]",
+        "score": 7,
+        "id": "5gs21h",
+        "commsNum": 0,
+        "timeStamp": "2016/12/06-01:53:54",
+        "author_name": "xenexfor",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://yurichev.com/writings/toy_decompiler.pdf"
+    },
+    "posts": {}
+}

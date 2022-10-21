@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hi\n\nIs there a way to change a PE files meta tags \"Original File Name\" or \"Internal Name\"?",
+        "title": "PE File - Change Metadata",
+        "score": 1,
+        "id": "qhnzfe",
+        "commsNum": 4,
+        "timeStamp": "2021/10/28-07:13:33",
+        "author_name": "antmar9041",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/qhnzfe/pe_file_change_metadata/"
+    },
+    "posts": {
+        "hifm96e": {
+            "comment": "[removed]",
+            "timeStamp": "2021/10/28-14:28:40",
+            "id": "hifm96e",
+            "is_submitter": false,
+            "link_id": "t3_qhnzfe",
+            "parent_id": "t3_qhnzfe",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hietf7c": {
+            "comment": "That worked perfect.  Thank you.",
+            "timeStamp": "2021/10/28-11:16:08",
+            "id": "hietf7c",
+            "is_submitter": true,
+            "link_id": "t3_qhnzfe",
+            "parent_id": "t1_hiemwys",
+            "score": 2,
+            "stickied": false,
+            "author_name": "antmar9041"
+        },
+        "hiemwys": {
+            "comment": "There is a windows tool called \u201cResource Hacker\u201d which can edit all of the metadata",
+            "timeStamp": "2021/10/28-10:34:20",
+            "id": "hiemwys",
+            "is_submitter": false,
+            "link_id": "t3_qhnzfe",
+            "parent_id": "t3_qhnzfe",
+            "score": 4,
+            "stickied": false,
+            "author_name": "Trolling_turd"
+        },
+        "hieheto": {
+            "comment": "No sir, they're _mAgIc_.",
+            "timeStamp": "2021/10/28-09:58:39",
+            "id": "hieheto",
+            "is_submitter": false,
+            "link_id": "t3_qhnzfe",
+            "parent_id": "t3_qhnzfe",
+            "score": 2,
+            "stickied": false,
+            "author_name": "throwawayPzaFm"
+        }
+    }
+}

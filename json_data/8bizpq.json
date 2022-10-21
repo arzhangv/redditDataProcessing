@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "The malware opens random tabs even if the browser isnt opened. If I delete a browser it opens them trough another",
+        "title": "Enclosely.info malware",
+        "score": 2,
+        "id": "8bizpq",
+        "commsNum": 0,
+        "timeStamp": "2018/04/11-10:41:07",
+        "author_name": "Drimogg",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8bizpq/encloselyinfo_malware/"
+    },
+    "posts": {}
+}

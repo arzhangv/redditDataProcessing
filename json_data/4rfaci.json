@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hey, was scrolling tumblr and a popup came up, the window went blue with \"error\" and it was beeping. \nThe error read as follows:\n\"err0x80060402.webcam says:\nDear customer, \nA serious malfunction has been detected with OS X 10.10.3 and your Chrome... Please call the number below for a Apple Macintosh technician to help you resolve the issue:\n(251) 333-8686\nFor your safety, closing the Chrome browser has been disabled without support of the Apple Macintosh technician to avoid corruption to the registry of your OS X 10.10.3 operating system\nPlease contact support Helpline at (251) 333-8686\n\nDO NOT SHUT DOWN OR RESTART THE COMPUTER, DOING THAT MAY LEAD TO DATA LOSS AND POSSIBLE FAILURE OF THE OPERATING SYSTEM AND POTENTIAL NON BOOTABLE SITUATION RESULTING IN COMPLETE DATA LOSS, CONTACT MICROSOFT CERTIFIED TECHNICIANS TO RESOLVE THE ISSUE CALL- (251) 333-8686\n\nDear customer,...\"\n\nMalware scan came up clean, chrome seems to be working now, but have not retried tumblr. I'm wondering if anybody else had this issue? Was it serious how did you get rid of it?",
+        "title": "err0x80060402.webcam on chrome in OS X",
+        "score": 0,
+        "id": "4rfaci",
+        "commsNum": 4,
+        "timeStamp": "2016/07/05-15:31:37",
+        "author_name": "Chloe183",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/4rfaci/err0x80060402webcam_on_chrome_in_os_x/"
+    },
+    "posts": {}
+}

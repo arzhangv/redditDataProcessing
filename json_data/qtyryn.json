@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "[removed]",
+        "title": "Malware en mi celular",
+        "score": 1,
+        "id": "qtyryn",
+        "commsNum": 1,
+        "timeStamp": "2021/11/14-12:34:42",
+        "author_name": "JHD-627",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/qtyryn/malware_en_mi_celular/"
+    },
+    "posts": {
+        "hkmsj27": {
+            "comment": "[removed]",
+            "timeStamp": "2021/11/14-12:35:18",
+            "id": "hkmsj27",
+            "is_submitter": false,
+            "link_id": "t3_qtyryn",
+            "parent_id": "t3_qtyryn",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

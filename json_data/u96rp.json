@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Here we go again: Flame malware analysis by Crysys lab [PDF]",
+        "score": 7,
+        "id": "u96rp",
+        "commsNum": 3,
+        "timeStamp": "2012/05/28-13:25:05",
+        "author_name": "quitelikeme",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": null,
+        "url": "http://www.crysys.hu/skywiper/skywiper.pdf"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "InfoSec Institute Resources   \u2013  Analysis of Malware with Immunity Debugger",
+        "score": 0,
+        "id": "13tcdz",
+        "commsNum": 1,
+        "timeStamp": "2012/11/26-07:22:28",
+        "author_name": "securitygeek123",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://resources.infosecinstitute.com/analysis-of-malware-samples/"
+    },
+    "posts": {}
+}

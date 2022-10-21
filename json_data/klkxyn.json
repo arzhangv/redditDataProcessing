@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "A detailed analysis of Derusbi DLL Backdoor used by APT19 (Codoso, C0d0so, Sunshop Group)",
+        "score": 1,
+        "id": "klkxyn",
+        "commsNum": 0,
+        "timeStamp": "2020/12/27-22:24:01",
+        "author_name": "malware_bender",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://cybergeeks.tech/analyzing-apt19-malware-using-a-step-by-step-method/"
+    },
+    "posts": {}
+}

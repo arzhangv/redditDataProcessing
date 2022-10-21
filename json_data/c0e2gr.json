@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi! After I installed BTC2 core wallet my pc started acting up when connection to my trezor it also made coinomi not being able to close. When I ran malwarebytes I just gave me a ton of warnings about my electrum wallet, but I found out that was most likely false positive. Now I have uninstalled all but worried my pc is compromissed. Can anyone have a look at the BTC2 core wallet to see if its something fishy?  [https://www.bitc2.org/](https://www.bitc2.org/)",
+        "title": "BTC2 Core wallet made my PC very strange.",
+        "score": 7,
+        "id": "c0e2gr",
+        "commsNum": 3,
+        "timeStamp": "2019/06/13-18:18:11",
+        "author_name": "BitcoinNoob89",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/c0e2gr/btc2_core_wallet_made_my_pc_very_strange/"
+    },
+    "posts": {
+        "er5lqxx": {
+            "comment": "I am not asking for help to remove malware from my PC i am asking for someone to check the wallet they provide form the link i sent. Its not BTC core. Its BTC2 core. Most likley a scam coin i fell for.",
+            "timeStamp": "2019/06/14-09:10:26",
+            "id": "er5lqxx",
+            "is_submitter": true,
+            "link_id": "t3_c0e2gr",
+            "parent_id": "t3_c0e2gr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "BitcoinNoob89"
+        },
+        "er4yxey": {
+            "comment": "&gt; This is NOT a place for help with malware removal or various other end-user questions.",
+            "timeStamp": "2019/06/14-05:00:57",
+            "id": "er4yxey",
+            "is_submitter": false,
+            "link_id": "t3_c0e2gr",
+            "parent_id": "t3_c0e2gr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "_rock_farmer"
+        },
+        "er3xtrt": {
+            "comment": "I\u2019m not aware of any such wallet. Download the BTC Core wallet from bitcoin.org ?",
+            "timeStamp": "2019/06/13-18:28:40",
+            "id": "er3xtrt",
+            "is_submitter": false,
+            "link_id": "t3_c0e2gr",
+            "parent_id": "t3_c0e2gr",
+            "score": 7,
+            "stickied": false,
+            "author_name": "JerryGallow"
+        }
+    }
+}

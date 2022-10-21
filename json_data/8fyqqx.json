@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Good morning,\n\nI just released a new video in the Introduction to Windows Forensics series called \u201cEvent Log Forensics with Log Parser.\u201d This video shows how Log Parser can be used to analyze Windows event logs in ways not possible with Windows Event Viewer or third-party log viewers.\n\nYou can watch it here:\nhttps://www.youtube.com/watch?v=mCfkFO0xs34\n\nPlenty more juicy DFIR goodness here:\nhttps://www.youtube.com/13cubed",
+        "title": "Event Log Forensics with Log Parser (X-Post)",
+        "score": 22,
+        "id": "8fyqqx",
+        "commsNum": 0,
+        "timeStamp": "2018/04/30-04:27:50",
+        "author_name": "13Cubed",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8fyqqx/event_log_forensics_with_log_parser_xpost/"
+    },
+    "posts": {}
+}

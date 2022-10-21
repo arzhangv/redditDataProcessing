@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hello, I am aiming to focus my final year project at university around Cuckoo. Is there any part of the UI, Report or any process that you feel is lacking in the software. Thank you in advance :)",
+        "title": "Final Year Project - Cuckoo",
+        "score": 5,
+        "id": "dmv943",
+        "commsNum": 2,
+        "timeStamp": "2019/10/25-03:02:21",
+        "author_name": "Arrong18",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/dmv943/final_year_project_cuckoo/"
+    },
+    "posts": {
+        "f56g7h7": {
+            "comment": "[removed]",
+            "timeStamp": "2019/10/25-10:00:33",
+            "id": "f56g7h7",
+            "is_submitter": false,
+            "link_id": "t3_dmv943",
+            "parent_id": "t3_dmv943",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "f55k6p1": {
+            "comment": "Try Pheonix",
+            "timeStamp": "2019/10/25-06:09:20",
+            "id": "f55k6p1",
+            "is_submitter": false,
+            "link_id": "t3_dmv943",
+            "parent_id": "t3_dmv943",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Doctorexx"
+        }
+    }
+}

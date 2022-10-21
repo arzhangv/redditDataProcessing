@@ -1,0 +1,132 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "any way to fix? Ive tried using uninstallers, but none of them seemed to delete the program files so I tried to do it myself to no avail.\n\n[any ideas why it's still asking for permission when all users already have permission? it's literally asking for permission from \\\\\"everyone\\\\\"\\(because i made the file accessible to all users\\)](https://preview.redd.it/t3d8e8fyb2e41.png?width=447&amp;format=png&amp;auto=webp&amp;s=02960753482312e1c92ce68a0c50bb7ca9b7a9a1)",
+        "title": "tried to change access to \"everyone\" so I could delete the program files folder for Segurazo, this happened",
+        "score": 1,
+        "id": "ewkjzq",
+        "commsNum": 10,
+        "timeStamp": "2020/01/30-23:04:18",
+        "author_name": "dedredlink",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 10,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ewkjzq/tried_to_change_access_to_everyone_so_i_could/"
+    },
+    "posts": {
+        "fh1wijq": {
+            "comment": "Nice, I actually did try that before you commented and it worked so you were right! somehow malwarebytes was the only program able to delete those files",
+            "timeStamp": "2020/02/08-21:32:38",
+            "id": "fh1wijq",
+            "is_submitter": true,
+            "link_id": "t3_ewkjzq",
+            "parent_id": "t1_fgom2fp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "dedredlink"
+        },
+        "fgp7t2l": {
+            "comment": "Really? It worked for me like a week ago. That\u2019s scary",
+            "timeStamp": "2020/02/06-06:22:56",
+            "id": "fgp7t2l",
+            "is_submitter": false,
+            "link_id": "t3_ewkjzq",
+            "parent_id": "t1_fgom32d",
+            "score": 1,
+            "stickied": false,
+            "author_name": "hamsterbilly"
+        },
+        "fgom32d": {
+            "comment": "They\u2019ve evolved against that. Idk how they did it.",
+            "timeStamp": "2020/02/05-23:50:41",
+            "id": "fgom32d",
+            "is_submitter": false,
+            "link_id": "t3_ewkjzq",
+            "parent_id": "t1_fgat9lj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "zharoh"
+        },
+        "fgom2fp": {
+            "comment": "Don\u2019t worry bud, I gotchu. Download malware bytes and do the 14 day trial. MAKE SURE ITS THE OFFICIAL website. Should be malwarebytes.com then, run it, when it gets all the threats of Segurazo, hit quarantine. Then go to quarantine and hit delete for all of them. Run it 2 more times, refresh Program Files 86x to make sure it doesn\u2019t come back. And congrats. Your free",
+            "timeStamp": "2020/02/05-23:50:18",
+            "id": "fgom2fp",
+            "is_submitter": false,
+            "link_id": "t3_ewkjzq",
+            "parent_id": "t3_ewkjzq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "zharoh"
+        },
+        "fgat9lj": {
+            "comment": "Boot into safe mode and delete it.",
+            "timeStamp": "2020/02/02-06:54:10",
+            "id": "fgat9lj",
+            "is_submitter": false,
+            "link_id": "t3_ewkjzq",
+            "parent_id": "t3_ewkjzq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "hamsterbilly"
+        },
+        "fg8wm64": {
+            "comment": "I ended up with segurazo and tried everything to delete it. What finally ended working was taking out my Ethernet cable and then going to the start menu and deleting segurazo normally.",
+            "timeStamp": "2020/02/02-00:06:08",
+            "id": "fg8wm64",
+            "is_submitter": false,
+            "link_id": "t3_ewkjzq",
+            "parent_id": "t3_ewkjzq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "icup5"
+        },
+        "fg46zkq": {
+            "comment": "[removed]",
+            "timeStamp": "2020/01/31-11:04:22",
+            "id": "fg46zkq",
+            "is_submitter": false,
+            "link_id": "t3_ewkjzq",
+            "parent_id": "t3_ewkjzq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fg3gm6j": {
+            "comment": "Have you tried using the `takeown` command via windows command prompt to get ownership of that folder first before deleting?",
+            "timeStamp": "2020/01/31-06:30:19",
+            "id": "fg3gm6j",
+            "is_submitter": false,
+            "link_id": "t3_ewkjzq",
+            "parent_id": "t3_ewkjzq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Schnitzel725"
+        },
+        "fg2zaem": {
+            "comment": "The nuclear option is to flash a USB drive with linux and boot into it to delete it from another OS",
+            "timeStamp": "2020/01/31-01:26:18",
+            "id": "fg2zaem",
+            "is_submitter": false,
+            "link_id": "t3_ewkjzq",
+            "parent_id": "t3_ewkjzq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "nre_graphico"
+        },
+        "fg2y3xv": {
+            "comment": "Make sure no application is currently using the files in the folder",
+            "timeStamp": "2020/01/31-00:58:29",
+            "id": "fg2y3xv",
+            "is_submitter": false,
+            "link_id": "t3_ewkjzq",
+            "parent_id": "t3_ewkjzq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ollypwn"
+        }
+    }
+}

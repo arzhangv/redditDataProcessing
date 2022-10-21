@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Someone know how to make a persistent malware in android?, I mean what is the folder in OS, even the phone has factory reset malware still here, appreciate any resource or help.\nThanks and sorry for my English.",
+        "title": "Malware Android",
+        "score": 1,
+        "id": "qj3bsm",
+        "commsNum": 1,
+        "timeStamp": "2021/10/30-08:05:15",
+        "author_name": "slap-fi",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/qj3bsm/malware_android/"
+    },
+    "posts": {
+        "hipk21t": {
+            "comment": "It should be, but itd be a pain in the ass. I saw a post a little bit back om raidforums detailing how chinese malware creators made a virus that survived a whole OS re-install.\n\nSo, possible? Yes. Annoying to make? Almost certainly",
+            "timeStamp": "2021/10/30-17:39:20",
+            "id": "hipk21t",
+            "is_submitter": false,
+            "link_id": "t3_qj3bsm",
+            "parent_id": "t3_qj3bsm",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Mysterious_Ad7232"
+        }
+    }
+}

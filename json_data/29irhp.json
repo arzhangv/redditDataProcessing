@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Seems to be fairly obscure as I've only found a few of threads with recent examples. I've been infected myself somehow and have no idea where it came from or how to purge, though it's just annoying at worst and has no network privileges to send out any hashes, and easy to see when it gets run as it consumes 2 full cpu cores. A key for `Windows Media Player Network Sharing Service` in `[HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Run]` also gets assigned to start up at logon with this command line,\n\n&gt;wmpnetwk.exe -a cryptonight -t 2 -o stratum+tcp://mine.moneropool.com:3333 -p x -u 4B6L2v81ehU6JFFxMH9AADhUPqe3zjZE8TUcQFzTSUwY5iESpPVwi9AhQ8HjRhPtqn9sPdDHm3qy4cbJD2bxppr6G7GN8fW\n\n[related hits](https://www.google.com/search?num=20&amp;safe=off&amp;site=&amp;source=hp&amp;q=mine.moneropool.com%2Bwmpnetwk.exe&amp;oq=mine.moneropool.com%2Bwmpnetwk.exe&amp;gs_l=hp.3...19113.24040.1.24152.17.17.0.0.0.0.344.1546.8j3j1j1.13.0....0...1c.1.48.hp..21.0.0.nNw0-UKPwOY):  \nhttps://bitcointalk.org/index.php?topic=639375.0  \nhttps://bitcointalk.org/index.php?topic=607930.0  \n[virustotal: wmpnetwk.dll](https://www.virustotal.com/en/file/e2e6b6938879142c4e35542b5fe8d3eeec7bf9e682f915213fda009097c3878e/analysis/1401909211/)\n\nIt also copies 2 files, wmpnetwk.exe and wmpnetwk.dll, I'm assuming from some local store to `.\\%appdata%\\microsoft\\windows\\recent`, which is where the above task is run from. I've deleted them through the command line and also the startup key, but they apparently get recopied at some point (not at logon).\n\nThe last trigger I noticed was when updating some firefox extensions, none of which were shady at all (noscript, firebug, etc) so it could be the browser itself idk. I don't even have windows media player installed, so there is also no related service to disable here. But this apparently has not been picked up by any malware scanners yet so, any tips on removing it other than wiping?",
+        "title": "Stealth Primecoin miner trojan as wmpnetwk.exe",
+        "score": 10,
+        "id": "29irhp",
+        "commsNum": 6,
+        "timeStamp": "2014/06/30-17:29:30",
+        "author_name": "radiantcabbage",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/29irhp/stealth_primecoin_miner_trojan_as_wmpnetwkexe/"
+    },
+    "posts": {}
+}

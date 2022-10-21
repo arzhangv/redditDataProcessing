@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi,\n\nAnybody know the Canadian company that got exposed by the Ostap malware campaign in the last month or so.\n\nThanks",
+        "title": "Ostap Malware",
+        "score": 1,
+        "id": "e8djjt",
+        "commsNum": 3,
+        "timeStamp": "2019/12/09-10:07:10",
+        "author_name": "AnyGuyFromAnywhere",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/e8djjt/ostap_malware/"
+    },
+    "posts": {
+        "fbh2uuf": {
+            "comment": "[removed]",
+            "timeStamp": "2019/12/20-09:49:56",
+            "id": "fbh2uuf",
+            "is_submitter": false,
+            "link_id": "t3_e8djjt",
+            "parent_id": "t3_e8djjt",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fac87ym": {
+            "comment": "[removed]",
+            "timeStamp": "2019/12/09-15:44:30",
+            "id": "fac87ym",
+            "is_submitter": false,
+            "link_id": "t3_e8djjt",
+            "parent_id": "t3_e8djjt",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fabigky": {
+            "comment": "[removed]",
+            "timeStamp": "2019/12/09-12:35:24",
+            "id": "fabigky",
+            "is_submitter": false,
+            "link_id": "t3_e8djjt",
+            "parent_id": "t3_e8djjt",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

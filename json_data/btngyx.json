@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hey there everyone. I've noticed that there's been an interesting uptick in conversations about malware that remotely stores sexually explicit images on infected hosts. I've done some basic searches for proof and have found that 9 times out of 10 the person claiming that such malware exists is simply lying about having visited pornographic websites &lt;a href=\"[https://www.secureworldexpo.com/industry-news/malware-mystery-solved-it-was-the-employee-visiting-porn-sites-on-his-work-laptop](https://www.secureworldexpo.com/industry-news/malware-mystery-solved-it-was-the-employee-visiting-porn-sites-on-his-work-laptop)\"&gt;Link&lt;/a&gt;  &lt;a href=\"[https://www.cnet.com/news/a-child-porn-planting-virus-threat-or-bad-defense/](https://www.cnet.com/news/a-child-porn-planting-virus-threat-or-bad-defense/)\"&gt;Link 2&lt;/a&gt;.\n\n&amp;#x200B;\n\n&amp;#x200B;\n\nI'm going to admit, I'm pretty skeptical that this is a thing, so I'm curious if anyone has seen anything like this and if they have any links to reporting or analysis of legitimate instances of this occurring.",
+        "title": "(QUESTION) Porn Downloading Malware?",
+        "score": 1,
+        "id": "btngyx",
+        "commsNum": 1,
+        "timeStamp": "2019/05/27-08:43:08",
+        "author_name": "DynastyWarrior",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/btngyx/question_porn_downloading_malware/"
+    },
+    "posts": {
+        "ep07y4q": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2019/05/27-08:43:08",
+            "id": "ep07y4q",
+            "is_submitter": false,
+            "link_id": "t3_btngyx",
+            "parent_id": "t3_btngyx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

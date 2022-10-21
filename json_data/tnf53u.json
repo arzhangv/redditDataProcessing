@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Now i am completely focusing on malware analysis. And  one of my biggest dream is to become a malware analyst.But there is problem i face . In my degree career i have 2 backlog in maths. But i am fail to clear that papers . I need a Job in the field of malware analysis. So is  this backlog cause any problem in my career.\n\n* Is there a chance that I will be excluded from interviews because I have a backlog?  \n\n* Is a degree essential for malware analysis? \n\n* Do I need to apply for any other degree?  \n\n* Can I not get a job for the sole reason of not having degre?\n\nNB : course i taken is  BSc computer science. Now i have a CHFI certification",
+        "title": "MALWARE ANALYSIS CAREER",
+        "score": 1,
+        "id": "tnf53u",
+        "commsNum": 0,
+        "timeStamp": "2022/03/24-22:41:52",
+        "author_name": "NANDUZZZZZ",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/tnf53u/malware_analysis_career/"
+    },
+    "posts": {
+        "i4darhw": {
+            "comment": "Your wording makes it kind of hard to understand, but in my experience if you show initiative and passion and have ways to demonstrate that you have experience in the field of Malware that turns a lot of heads. Now everyone's situation is different and I happen to be at a university which is pretty Cybersecurity focused, so I have gotten the opportunity to meet with professionals in a face to face environment and talk to them about what and why I am interested in malware. It is going to be much harder to make an impression through just a resume you submit.\n\n If you aren't in a place where you can get those networking opportunities it will probably be significantly harder, and ironically a great place to get those opportunities is at a university in the Computer Science or Cyber security field. So if you are going to try without a degree I would recommend having a long resume to show your skill level and consistency, otherwise I would personally suggest you go to a university so you can make those connections if you are able to financially.",
+            "timeStamp": "2022/04/11-18:10:32",
+            "id": "i4darhw",
+            "is_submitter": false,
+            "link_id": "t3_tnf53u",
+            "parent_id": "t3_tnf53u",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Herr4chan"
+        },
+        "i290p9d": {
+            "comment": "this depends on the organization. Some companies has some strict baselines that they will recruit guys with minimum educational qualification...it could be a degree. Though there might be other companies take guys with experience and give exceptions in the educational qualifications. \n\nIMO, Degree is not essential for malware analysis but companies do care about some basic qualifications. Though there are companies that started to give importance on skills rather than educational qualifications, the reality is , It is not that easy. \n\nI know guys who have 5-10 year experiences started to do pursue higher education part time. Some times, lack of a bachelor degree might be an hurdle when you look for a job change or promotion. I totally understand that the skills does matter but unfortunately the market is like this. So , IMO, finish your degree asap or be exceptional. Because you are going to compete with guys with different educational standards, certifications , experiences and so on.",
+            "timeStamp": "2022/03/26-16:15:05",
+            "id": "i290p9d",
+            "is_submitter": false,
+            "link_id": "t3_tnf53u",
+            "parent_id": "t3_tnf53u",
+            "score": 1,
+            "stickied": false,
+            "author_name": "socialanimal88"
+        },
+        "i22460w": {
+            "comment": "I\u2019m a little iffy on your wording.\n\n\nIf the full job is malware analyst then I would expect way more than just identification, IOC extraction and rule writing. I\u2019d expect someone who\u2019s at the very least somewhat comfortable with assembly and has shown some capability/interest to disassemble and analyze binaries, even simple ones used for teaching RE. But if that falls under your identification requirement, then yea agreed.",
+            "timeStamp": "2022/03/25-05:46:10",
+            "id": "i22460w",
+            "is_submitter": false,
+            "link_id": "t3_tnf53u",
+            "parent_id": "t1_i21shrv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Gotta_Git_Fast"
+        },
+        "i21t81e": {
+            "comment": "Are you good at assembly?  Probably more important than a CS degree, with it\u2019s (IMO) largely unnecessary mathematics requirements",
+            "timeStamp": "2022/03/25-03:56:04",
+            "id": "i21t81e",
+            "is_submitter": false,
+            "link_id": "t3_tnf53u",
+            "parent_id": "t3_tnf53u",
+            "score": 1,
+            "stickied": false,
+            "author_name": "venerable4bede"
+        },
+        "i21shrv": {
+            "comment": "Most places care that you can competently identify malware strains, extract IOCs, and write an IDS rule to block more of that traffic. Each job will be different but I'm not aware of any kind of malware related job that requires a heavy math focus.",
+            "timeStamp": "2022/03/25-03:47:16",
+            "id": "i21shrv",
+            "is_submitter": false,
+            "link_id": "t3_tnf53u",
+            "parent_id": "t3_tnf53u",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Fleischwulf"
+        },
+        "i21sgcf": {
+            "comment": "[removed]",
+            "timeStamp": "2022/03/25-03:46:47",
+            "id": "i21sgcf",
+            "is_submitter": false,
+            "link_id": "t3_tnf53u",
+            "parent_id": "t3_tnf53u",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi /Malware\n\nThis morning we received a boatload of spam to my place of work, all of which was kindly let through by Mimecast. The emails in question contained an attachment called invoice.doc which of course everyone started clicking on. The .doc itself contained a VB script which dropped a few extra files. Luckily our AV was on the ball for once and we could contain this issue early on.\n\nFrom the looks of things it may be related to the Dridex bot. Link to that mention [here](http://sanesecurity.blogspot.co.uk/2015/02/gail-walker-mblseminars-invoicedoc.html)\n\nAs a side hobby I like to collect Malware, and when I have time, take it apart and see how it works. Still quite new to this thing hence wanting to ask if anyone here could shed some light on my issue.\n\nI exported the VB script from the word document and as I was going through it to see what I could find, I noticed that in the beginning parts of it has encoded / obfuscated text.\n\nI.e text like so *1cN1U69k586R7wChe0w6Q986t2K82t320p7g*. I have included the whole thing in a [pastebin](http://pastebin.com/efStR6Bs).\n\n\nBeen doing some research online trying to figure this out however still not sure on how to proceed. Anyone seen VB scripts like this before and if so how did you make that part readable for humans.\n\nThank you in advance\n\nEDIT: Found some additional info [here](http://blog.spiderlabs.com/2015/01/tips-for-deobfuscating-the-malicious-macros-using-python.html) that may be related.\n\nEDIT: Thank you all that posted replies. Much appreciated. I shall continue to research this. Not as easy as one would think!\n\n",
+        "title": "Question about malicious VB script.",
+        "score": 13,
+        "id": "2vkqxb",
+        "commsNum": 15,
+        "timeStamp": "2015/02/11-12:51:41",
+        "author_name": "HandsomeJohansson",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 15,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2vkqxb/question_about_malicious_vb_script/"
+    },
+    "posts": {}
+}

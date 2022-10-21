@@ -1,0 +1,132 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I received an unsolicited email with a Word doc attachment which included a password to decrypt the \"doc\". Interestingly Gmail didn't flag it in anyway. I don't have a VM to open it in right now, and was wondering if there are any online scanners that I can upload it to that also allows you to provide the password so it can analyze it properly?",
+        "title": "Online scanner that decrypts the payload if you provide the password?",
+        "score": 6,
+        "id": "6mv1e4",
+        "commsNum": 8,
+        "timeStamp": "2017/07/12-09:24:05",
+        "author_name": "s1m0n8",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 8,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6mv1e4/online_scanner_that_decrypts_the_payload_if_you/"
+    },
+    "posts": {
+        "dk5qsg5": {
+            "comment": "If you can host the file somewhere I'll download it and throw it at Lastline and let you know what it finds.",
+            "timeStamp": "2017/07/13-02:04:12",
+            "id": "dk5qsg5",
+            "is_submitter": false,
+            "link_id": "t3_6mv1e4",
+            "parent_id": "t3_6mv1e4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "BadMoles"
+        },
+        "dk51a49": {
+            "comment": "Thanks! Unfortunately I'd already tried that service and wasn't aware of this option, so have now hit this so can't resubmit:\n\n&gt;It is currently not possible to re-submit/overwrite an existing analysis on the public webservice at https://www.hybrid-analysis.com/, so be careful to provide the password without a typo.",
+            "timeStamp": "2017/07/12-14:49:23",
+            "id": "dk51a49",
+            "is_submitter": true,
+            "link_id": "t3_6mv1e4",
+            "parent_id": "t1_dk4zb9k",
+            "score": 1,
+            "stickied": false,
+            "author_name": "s1m0n8"
+        },
+        "dk4zb9k": {
+            "comment": "Hybrid Analysis does do this. When you upload the file, before you hit submit, there is a plus symbol labelled \"Analysis Options\". Underneath that there is a Commandline options field where you can enter a password when the VM sandbox is prompted. See [here](https://team.vxstream-sandbox.com/plugins/servlet/mobile?contentId=1802359)\n\nEDIT: If link doesn't work https://team.vxstream-sandbox.com/plugins/servlet/mobile?contentId=1802359#content/view/1802359",
+            "timeStamp": "2017/07/12-14:12:28",
+            "id": "dk4zb9k",
+            "is_submitter": false,
+            "link_id": "t3_6mv1e4",
+            "parent_id": "t3_6mv1e4",
+            "score": 4,
+            "stickied": false,
+            "author_name": "chinese_buffet"
+        },
+        "dk4yws0": {
+            "comment": "[removed]",
+            "timeStamp": "2017/07/12-14:04:56",
+            "id": "dk4yws0",
+            "is_submitter": false,
+            "link_id": "t3_6mv1e4",
+            "parent_id": "t3_6mv1e4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "dk4ulv9": {
+            "comment": "That's actually a tougher nut to crack than you'd think. Even a lot of commercial sandboxes don't do well with password protected files unless it's a specific password. You could use this to remove the password though: https://github.com/herumi/msoffice ",
+            "timeStamp": "2017/07/12-12:48:35",
+            "id": "dk4ulv9",
+            "is_submitter": false,
+            "link_id": "t3_6mv1e4",
+            "parent_id": "t3_6mv1e4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "dougsec"
+        },
+        "dk4sxjb": {
+            "comment": "https://malwr.com ?",
+            "timeStamp": "2017/07/12-12:19:41",
+            "id": "dk4sxjb",
+            "is_submitter": false,
+            "link_id": "t3_6mv1e4",
+            "parent_id": "t1_dk4j0p4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TheWrightMatt"
+        },
+        "dk4suq1": {
+            "comment": "[deleted]",
+            "timeStamp": "2017/07/12-12:18:19",
+            "id": "dk4suq1",
+            "is_submitter": false,
+            "link_id": "t3_6mv1e4",
+            "parent_id": "t1_dk4iqka",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "dk4j0p4": {
+            "comment": "No sir, different one. I'll report back later with the link.",
+            "timeStamp": "2017/07/12-09:32:54",
+            "id": "dk4j0p4",
+            "is_submitter": false,
+            "link_id": "t3_6mv1e4",
+            "parent_id": "t1_dk4iumi",
+            "score": 2,
+            "stickied": false,
+            "author_name": "UsernameTaken__Fuck"
+        },
+        "dk4iumi": {
+            "comment": "www.hybrid-analysis.com ? Tried that already.",
+            "timeStamp": "2017/07/12-09:30:04",
+            "id": "dk4iumi",
+            "is_submitter": true,
+            "link_id": "t3_6mv1e4",
+            "parent_id": "t1_dk4iqka",
+            "score": 1,
+            "stickied": false,
+            "author_name": "s1m0n8"
+        },
+        "dk4iqka": {
+            "comment": "All I know of is an online service that you can upload the document to be executed within their environment, and they'll provide net stats, strings, etc. No ideas on passwords though.",
+            "timeStamp": "2017/07/12-09:28:09",
+            "id": "dk4iqka",
+            "is_submitter": false,
+            "link_id": "t3_6mv1e4",
+            "parent_id": "t3_6mv1e4",
+            "score": 2,
+            "stickied": false,
+            "author_name": "UsernameTaken__Fuck"
+        }
+    }
+}

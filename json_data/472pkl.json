@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I dont know if somebody can help me with this,\nbut I am searching for an docx document where \"Locky\" is injected.\nWant to try it out myself (On a secondary machine of course ;) )",
+        "title": "Sample of Locky",
+        "score": 3,
+        "id": "472pkl",
+        "commsNum": 6,
+        "timeStamp": "2016/02/22-12:12:09",
+        "author_name": "Vosarey",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/472pkl/sample_of_locky/"
+    },
+    "posts": {}
+}

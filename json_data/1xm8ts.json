@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Meet Mask, posssibly the most sophisticated malware campaign ever seen",
+        "score": 8,
+        "id": "1xm8ts",
+        "commsNum": 0,
+        "timeStamp": "2014/02/11-07:21:11",
+        "author_name": "kracalo",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://arstechnica.com/security/2014/02/meet-mask-posssibly-the-most-sophisticated-malware-campaign-ever-seen/"
+    },
+    "posts": {}
+}

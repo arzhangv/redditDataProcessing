@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Most antivirus programs can\u2019t detect new coronavirus malware that steals victims\u2019 money, personal data",
+        "score": 1,
+        "id": "ifl6rx",
+        "commsNum": 1,
+        "timeStamp": "2020/08/24-01:31:39",
+        "author_name": "goodfreeze7",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://cybernews.com/security/most-antivirus-programs-cant-detect-new-coronavirus-malware/"
+    },
+    "posts": {
+        "g2rumhy": {
+            "comment": "This is.... so silly. What's the point of this article?\n\nCalling this a static analysis is hardly even passable. All this article is saying is that two vendors have their definitions and heuristics updated to recognize this particular variant of Raccoon Stealer, which we can't even ascertain because there's no provided hash.",
+            "timeStamp": "2020/08/24-22:33:58",
+            "id": "g2rumhy",
+            "is_submitter": false,
+            "link_id": "t3_ifl6rx",
+            "parent_id": "t3_ifl6rx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "0x00000124"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[https://malware.dontneedcoffee.com/2018/05/CVE\\-2018\\-8174.html](https://malware.dontneedcoffee.com/2018/05/CVE-2018-8174.html)\n\n[https://blog.barkly.com/double\\-kill\\-vbscript\\-zero\\-day\\-exploit\\-cve\\-2018\\-8174](https://blog.barkly.com/double-kill-vbscript-zero-day-exploit-cve-2018-8174)\n\nLooks like this is set to be the next big exploit abused by actors. Incorporated into threadkit, RIG and now magnitude EKs. ",
+        "title": "CVE-2018-8174 \"Double Kill\" Incorporated into EKs",
+        "score": 29,
+        "id": "8o4rbn",
+        "commsNum": 0,
+        "timeStamp": "2018/06/02-17:08:54",
+        "author_name": "thehoodedidiot",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8o4rbn/cve20188174_double_kill_incorporated_into_eks/"
+    },
+    "posts": {}
+}

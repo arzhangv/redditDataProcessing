@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Abcbot, an evolving botnet",
+        "score": 1,
+        "id": "qs6k37",
+        "commsNum": 1,
+        "timeStamp": "2021/11/12-00:05:51",
+        "author_name": "c0r3dump3d",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://blog.netlab.360.com/abcbot_an_evolving_botnet_en/"
+    },
+    "posts": {
+        "hkbc7y0": {
+            "comment": "That's interesting as fuck... I'd love to know and chat with the analysts or the malware developer themselves.",
+            "timeStamp": "2021/11/12-01:35:10",
+            "id": "hkbc7y0",
+            "is_submitter": false,
+            "link_id": "t3_qs6k37",
+            "parent_id": "t3_qs6k37",
+            "score": 7,
+            "stickied": false,
+            "author_name": "mattiaricciard"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I am currently 16 years old and I am interested in malware analysis. I am reading through practical malware analysis (book). I want to find a solution to a problem that malware analysts are having and need urgent attention. I would also like details on what has previously been done in preventing this problem. I then want to write a research about the solution to the problem. If there is any prerequisites that are not covered in practical malware analysis(book) please list them below.\n\nEDIT: I want to write a research paper to enter in the ISEF (Intel science fair competition) my topic will be malware. Are there any challenges that malware analysts face when analyzing malware that could be solved by building a program.",
+        "title": "Are there any challenges in the field of Malware Analysis?",
+        "score": 0,
+        "id": "4gl0re",
+        "commsNum": 12,
+        "timeStamp": "2016/04/26-14:12:10",
+        "author_name": "the_illumintai",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 12,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/4gl0re/are_there_any_challenges_in_the_field_of_malware/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "TrendMicro spotted a 64-Bit variant of NewPosThings PoS malware",
+        "score": 1,
+        "id": "31a7sj",
+        "commsNum": 0,
+        "timeStamp": "2015/04/02-23:09:55",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/35631/cyber-crime/64-bit-newposthings-malware.html"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi everyone,\n\nI have been trying to analysis Zbot malware  but I cannot fully unpack because packed as Aspack.\n\nFirst I was trying to use below technique and others.\n\nI have found last loaded dll and import function by setting LoadLibraryA/W and GetProcAddress functions(loaded last dll is ntmarta.dll and last function is GetMartaExtensionInterface).\u00a0I have continued to exit from unpacking stub.\u00a0\n\n&amp;#x200B;\n\n![img](1qpsp4ylw8241)\n\nI've reached the marked address and I selected Analyze Code option.\n\nLast state,\n\n![img](yuhtk6xmw8241)\n\nand I was dumping debugged process using OllyDump but this address may not OEP also IAT could not be fully repaired. I cannot progress more.\n\nI'll attach unpacked program's IDA output as much as I can.\n\nYou can download packed Zbot sample. Also I added the not be fully unpacked  IDA output of the progress I could make.\n\n[https://www.dosya.tc/server24/g6s9ux/Zbot.7z.html](https://www.dosya.tc/server24/g6s9ux/Zbot.7z.html)\n\nCan you help me please?\u00a0I have tested known all of techniques. Have you an idea?",
+        "title": "Zbot Malware Unpacking Help",
+        "score": 1,
+        "id": "e51mcm",
+        "commsNum": 0,
+        "timeStamp": "2019/12/02-08:42:38",
+        "author_name": "rax-or",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": true,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/e51mcm/zbot_malware_unpacking_help/"
+    },
+    "posts": {}
+}

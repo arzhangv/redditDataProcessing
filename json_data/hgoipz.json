@@ -1,0 +1,121 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "i was just fooling around on my computer looking at different websites, when genius me decided to go on a website called poop,com. i am pretty sure this website has gotten me malware or a versus. when I first got on the website i was greeted with a women revealing cleavage. I also saw that the website directed me to another website.  this scared me and I decided to close the tab. the website was incredibly sketchy and I think it could have possibly given me malware",
+        "title": "I think I just got malware on my laptop",
+        "score": 1,
+        "id": "hgoipz",
+        "commsNum": 9,
+        "timeStamp": "2020/06/26-23:29:06",
+        "author_name": "tridhh",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 9,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/hgoipz/i_think_i_just_got_malware_on_my_laptop/"
+    },
+    "posts": {
+        "fw8o9ff": {
+            "comment": "[removed]",
+            "timeStamp": "2020/06/27-22:37:25",
+            "id": "fw8o9ff",
+            "is_submitter": false,
+            "link_id": "t3_hgoipz",
+            "parent_id": "t1_fw6pu9k",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fw6pu9k": {
+            "comment": "Maybe but your biggest problem isn't malware, it's your browsing habits.\n\nIf you wanna visit random, likely sketchy sites and click on what you want, spin up a VM and do it. If you do get a virus, toss the VM.\n\nIf you think you might have a virus, then you should act like you have a virus.",
+            "timeStamp": "2020/06/27-10:54:45",
+            "id": "fw6pu9k",
+            "is_submitter": false,
+            "link_id": "t3_hgoipz",
+            "parent_id": "t3_hgoipz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "WadeEffingWilson"
+        },
+        "fw5jp2e": {
+            "comment": "CLEAVAGE? You should just throw the whole thing in the trash now, this is beyond the powers of malware analysts",
+            "timeStamp": "2020/06/27-03:01:48",
+            "id": "fw5jp2e",
+            "is_submitter": false,
+            "link_id": "t3_hgoipz",
+            "parent_id": "t3_hgoipz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "nre_graphico"
+        },
+        "fw5fh7p": {
+            "comment": "Please tell me this is a joke",
+            "timeStamp": "2020/06/27-01:48:39",
+            "id": "fw5fh7p",
+            "is_submitter": false,
+            "link_id": "t3_hgoipz",
+            "parent_id": "t3_hgoipz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Shadowwlicia"
+        },
+        "fw5e4in": {
+            "comment": "This is the answer.",
+            "timeStamp": "2020/06/27-01:25:55",
+            "id": "fw5e4in",
+            "is_submitter": false,
+            "link_id": "t3_hgoipz",
+            "parent_id": "t1_fw58i1p",
+            "score": 1,
+            "stickied": false,
+            "author_name": "zoonose99"
+        },
+        "fw58i1p": {
+            "comment": "Get malwarebytes and scan",
+            "timeStamp": "2020/06/26-23:53:25",
+            "id": "fw58i1p",
+            "is_submitter": false,
+            "link_id": "t3_hgoipz",
+            "parent_id": "t3_hgoipz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "1711frgtn"
+        },
+        "fw580a3": {
+            "comment": "[removed]",
+            "timeStamp": "2020/06/26-23:45:34",
+            "id": "fw580a3",
+            "is_submitter": false,
+            "link_id": "t3_hgoipz",
+            "parent_id": "t3_hgoipz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fw57zd7": {
+            "comment": "Poop fetish? Well time to format!",
+            "timeStamp": "2020/06/26-23:45:10",
+            "id": "fw57zd7",
+            "is_submitter": false,
+            "link_id": "t3_hgoipz",
+            "parent_id": "t3_hgoipz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "pres82"
+        },
+        "fw57qn0": {
+            "comment": "mate dont click links lol",
+            "timeStamp": "2020/06/26-23:41:23",
+            "id": "fw57qn0",
+            "is_submitter": false,
+            "link_id": "t3_hgoipz",
+            "parent_id": "t3_hgoipz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Major_Cupcake"
+        }
+    }
+}

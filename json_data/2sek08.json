@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Skeleton Key Malware modifies the Active Directory authentication process",
+        "score": 1,
+        "id": "2sek08",
+        "commsNum": 0,
+        "timeStamp": "2015/01/14-06:51:24",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/32208/cyber-crime/skeleton-key-malware.html"
+    },
+    "posts": {}
+}

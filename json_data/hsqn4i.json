@@ -1,0 +1,165 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I typed the *#21# and it didn\u2019t pop up the screen telling me things and it called Verizon :( If this is real someone tell me how to get rid of it without buying a new phone. I literally just bought this iphone xs. Not trynna be more broke.",
+        "title": "My iphone might be tapped, i\u2019m pissed and concerned.",
+        "score": 1,
+        "id": "hsqn4i",
+        "commsNum": 13,
+        "timeStamp": "2020/07/16-23:19:52",
+        "author_name": "toasterS4you",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 13,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/hsqn4i/my_iphone_might_be_tapped_im_pissed_and_concerned/"
+    },
+    "posts": {
+        "fzbdv09": {
+            "comment": "That's the verizon code for call forwarding... just type  ##002# to turn if off if you think it's on...",
+            "timeStamp": "2020/07/26-09:51:18",
+            "id": "fzbdv09",
+            "is_submitter": false,
+            "link_id": "t3_hsqn4i",
+            "parent_id": "t3_hsqn4i",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MassCasualty"
+        },
+        "fz0zuac": {
+            "comment": "&gt; Tik tok\n\nSo your phone is tapped.",
+            "timeStamp": "2020/07/23-15:09:36",
+            "id": "fz0zuac",
+            "is_submitter": false,
+            "link_id": "t3_hsqn4i",
+            "parent_id": "t1_fyf27yi",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Windows-Sucks"
+        },
+        "fyf2aeg": {
+            "comment": "It\u2019s fake news clout chasers on tik tok",
+            "timeStamp": "2020/07/17-17:43:28",
+            "id": "fyf2aeg",
+            "is_submitter": true,
+            "link_id": "t3_hsqn4i",
+            "parent_id": "t1_fyc422k",
+            "score": 1,
+            "stickied": false,
+            "author_name": "toasterS4you"
+        },
+        "fyf292r": {
+            "comment": "Yeah, but i\u2019ve downloaded ipabox before",
+            "timeStamp": "2020/07/17-17:43:05",
+            "id": "fyf292r",
+            "is_submitter": true,
+            "link_id": "t3_hsqn4i",
+            "parent_id": "t1_fyc79jh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "toasterS4you"
+        },
+        "fyf27yi": {
+            "comment": "Welp i fell na\u00efve for falling for this one. Tik tok has it blowing up. Stupid me",
+            "timeStamp": "2020/07/17-17:42:45",
+            "id": "fyf27yi",
+            "is_submitter": true,
+            "link_id": "t3_hsqn4i",
+            "parent_id": "t1_fyc7enw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "toasterS4you"
+        },
+        "fyf2561": {
+            "comment": "I think it\u2019s a huge hoax tbh. The *#21# my provider tech team said it\u2019s almost not possible.",
+            "timeStamp": "2020/07/17-17:41:56",
+            "id": "fyf2561",
+            "is_submitter": true,
+            "link_id": "t3_hsqn4i",
+            "parent_id": "t1_fyc7t6k",
+            "score": 1,
+            "stickied": false,
+            "author_name": "toasterS4you"
+        },
+        "fyf21rl": {
+            "comment": "My provider the police and geek squad said it\u2019s not possible...",
+            "timeStamp": "2020/07/17-17:40:57",
+            "id": "fyf21rl",
+            "is_submitter": true,
+            "link_id": "t3_hsqn4i",
+            "parent_id": "t1_fyce182",
+            "score": 1,
+            "stickied": false,
+            "author_name": "toasterS4you"
+        },
+        "fydig8g": {
+            "comment": "Yup, just a dial code.",
+            "timeStamp": "2020/07/17-09:44:25",
+            "id": "fydig8g",
+            "is_submitter": false,
+            "link_id": "t3_hsqn4i",
+            "parent_id": "t1_fyc422k",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RyanStankye"
+        },
+        "fyce182": {
+            "comment": "You should have bought an Encrochat terminal, so FBI's Chineeses wouldnt able to spy on you. /s\n\nOn a more serious note, /u/4745454B  answer is interesting.",
+            "timeStamp": "2020/07/17-02:28:42",
+            "id": "fyce182",
+            "is_submitter": false,
+            "link_id": "t3_hsqn4i",
+            "parent_id": "t3_hsqn4i",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RCEdude"
+        },
+        "fyc7t6k": {
+            "comment": "Spying on iPhones is quite expensive, there are companies that make LEO (law enforcement tools), but they need 0-day exploits for that, which are few an far in between.\n\nAnd thus the companies bill users per tapped phone, which is to prevent frivolous use. Except if you are an intelligence agency that pays shitloads to begin with, and thus have incentive to avoid frivolous use.\n\nSo unless you are under interest for some significant reason, don't worry.",
+            "timeStamp": "2020/07/17-00:40:39",
+            "id": "fyc7t6k",
+            "is_submitter": false,
+            "link_id": "t3_hsqn4i",
+            "parent_id": "t3_hsqn4i",
+            "score": 1,
+            "stickied": false,
+            "author_name": "4745454B"
+        },
+        "fyc7enw": {
+            "comment": "That is a huge assumption to make. This is objectively paranoid.",
+            "timeStamp": "2020/07/17-00:34:00",
+            "id": "fyc7enw",
+            "is_submitter": false,
+            "link_id": "t3_hsqn4i",
+            "parent_id": "t3_hsqn4i",
+            "score": 1,
+            "stickied": false,
+            "author_name": "kyerussell"
+        },
+        "fyc79jh": {
+            "comment": "I'm fairly certain you're good. I've never seen a screen pop up before...\n\nYou say this is a brand new phone, right? I wouldn't worry at all.",
+            "timeStamp": "2020/07/17-00:31:39",
+            "id": "fyc79jh",
+            "is_submitter": false,
+            "link_id": "t3_hsqn4i",
+            "parent_id": "t3_hsqn4i",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TheElusiveNinJay"
+        },
+        "fyc422k": {
+            "comment": "???\nMine does that too \n\nWhere are you reading about this",
+            "timeStamp": "2020/07/16-23:40:36",
+            "id": "fyc422k",
+            "is_submitter": false,
+            "link_id": "t3_hsqn4i",
+            "parent_id": "t3_hsqn4i",
+            "score": 1,
+            "stickied": false,
+            "author_name": "adhocadhoc"
+        }
+    }
+}

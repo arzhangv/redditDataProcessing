@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Tracking Turla: New backdoor delivered via Armenian watering holes",
+        "score": 1,
+        "id": "fhr1wx",
+        "commsNum": 1,
+        "timeStamp": "2020/03/12-17:46:37",
+        "author_name": "goretsky",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.welivesecurity.com/2020/03/12/tracking-turla-new-backdoor-armenian-watering-holes/"
+    },
+    "posts": {
+        "fkcuu0p": {
+            "comment": "Hello,\n\nAn update from ESET's researchers on a watering hole campaign targeting Armenian websites attributed to the Turla espionage group.\n\nPrevious reports:\n\nYear|Report\n----|----|\n2019 | [Turla LightNeuron Campaign](https://www.welivesecurity.com/wp-content/uploads/2019/05/ESET-LightNeuron.pdf) [PDF]\n2018 | [Turla Mosquito Campaign](https://www.welivesecurity.com/wp-content/uploads/2018/01/ESET_Turla_Mosquito.pdf) [PDF]\n2017 | [Turla\u2019s watering hole campaign: An updated Firefox extension abusing Instagram](https://www.welivesecurity.com/2017/06/06/turlas-watering-hole-campaign-updated-firefox-extension-abusing-instagram/)\n\nTurla IoC's for this campaign can be found on ESET's [GitHub](https://github.com/eset/) at:  [`https://github.com/eset/malware-ioc/tree/master/turla#turla-watering-hole-armenia`](https://github.com/eset/malware-ioc/tree/master/turla#turla-watering-hole-armenia)\n\nAliases: Krypton (Microsoft), Snake (CrowdStrike, ESET), Waterbug (Symantec), White Bear (Kaspersky Lab), Venomous Bear (CrowdStrike)\n[Source: MITRE ATT&amp;CK page: [Group G0010 - Turla](https://attack.mitre.org/groups/G0010/)]. \n\nRegards,\n\nAryeh Goretsky",
+            "timeStamp": "2020/03/12-18:07:44",
+            "id": "fkcuu0p",
+            "is_submitter": true,
+            "link_id": "t3_fhr1wx",
+            "parent_id": "t3_fhr1wx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "goretsky"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Bitscout \u2013 The Free Remote Digital Forensics Tool Builder",
+        "score": 1,
+        "id": "6m0rth",
+        "commsNum": 0,
+        "timeStamp": "2017/07/08-05:42:50",
+        "author_name": "maxxori",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://github.com/vitaly-kamluk/bitscout"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Cap'n'Proto remote vuln: pointer overflow check optimized away by compiler .",
+        "title": "https://github.com/sandstorm-io/capnproto/blob/master/security-advisories/2017-04-17-0-apple-clang-elides-bounds-check.md",
+        "score": 6,
+        "id": "66nx6k",
+        "commsNum": 10,
+        "timeStamp": "2017/04/21-01:22:54",
+        "author_name": "brokercx",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 10,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/66nx6k/httpsgithubcomsandstormiocapnprotoblobmastersecuri/"
+    },
+    "posts": {}
+}

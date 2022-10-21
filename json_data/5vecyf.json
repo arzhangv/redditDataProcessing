@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "What's the coolest/most interesting persistence technique you've seen malware use?",
+        "score": 34,
+        "id": "5vecyf",
+        "commsNum": 21,
+        "timeStamp": "2017/02/21-13:34:56",
+        "author_name": "Bouncingbunny13",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 21,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5vecyf/whats_the_coolestmost_interesting_persistence/"
+    },
+    "posts": {}
+}

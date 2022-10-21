@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "https://mega.nz/#!wUpkUJQJ!VT1qRDZtXp_USWHDR8_xGTeNVq4SbE-uhMXVC6N6MV4\n\nEdit - see comments for more detail but the file uses an RTL UTF code to hide the fact that it's a .scr - so that's one mystery solved.\n\nThe payload seems to be packed together as an SFX rar.\n\nBitdefender and Malwarebytes seem to gloss over it but it did get detected once I put it into a 7z for some reason (only the RTL exploit bit - no idea why it doesn't register if I don't put it in an archive).\n\nAnyone know what this is? I'm fairly sure my machine is compromised but I'm not sure if this is a new malware or not.\n\nAnd I got this file through subscribing to a torrent RSS for South Park - magnet link included\n\nThe entire payload is ~40 megabytes and the rest of the torrent file is zeroed out padding.\n\nmagnet:?xt=urn:btih:onltqjq3rhz2qmqeu3fkzy27go7hbys5&amp;dn=South.Park.S19E09.720p.HDTV.x264-FLEET.mp4",
+        "title": "Can anyone identify this malware?",
+        "score": 15,
+        "id": "3vcump",
+        "commsNum": 14,
+        "timeStamp": "2015/12/03-17:20:49",
+        "author_name": "throwawayyyImao",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 14,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/3vcump/can_anyone_identify_this_malware/"
+    },
+    "posts": {}
+}

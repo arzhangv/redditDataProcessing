@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hey\n\nI'm on a macbook pro. This notification keeps popping up.\n\nI don't have Hola, I have Nord. I don't recall ever installing it. Any suggestions would be much appreciated )\n\nThanks!\n\nhttps://preview.redd.it/txqkppkfitn71.png?width=914&amp;format=png&amp;auto=webp&amp;s=168d279fd737dffd6dad6b6018e864909a67f590",
+        "title": "Hola VPN unblocker disabled because it contains malware",
+        "score": 1,
+        "id": "pp8oib",
+        "commsNum": 6,
+        "timeStamp": "2021/09/16-00:33:05",
+        "author_name": "madsthefilmaker",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/pp8oib/hola_vpn_unblocker_disabled_because_it_contains/"
+    },
+    "posts": {
+        "hd3ijkp": {
+            "comment": "[removed]",
+            "timeStamp": "2021/09/16-09:37:20",
+            "id": "hd3ijkp",
+            "is_submitter": false,
+            "link_id": "t3_pp8oib",
+            "parent_id": "t3_pp8oib",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hd3d3da": {
+            "comment": "I know you said your on a Mac, but invest in a good antivirus software.",
+            "timeStamp": "2021/09/16-09:00:35",
+            "id": "hd3d3da",
+            "is_submitter": false,
+            "link_id": "t3_pp8oib",
+            "parent_id": "t3_pp8oib",
+            "score": -4,
+            "stickied": false,
+            "author_name": "tron_dovakin"
+        },
+        "hd2gk6p": {
+            "comment": "I would recommend NOT installing such type of programs, most of them are fake/clickbait/malware.\n\nYou normally CANT CRACK subscriptions, thats just... technical nonsense.",
+            "timeStamp": "2021/09/16-04:55:11",
+            "id": "hd2gk6p",
+            "is_submitter": false,
+            "link_id": "t3_pp8oib",
+            "parent_id": "t1_hd29xwo",
+            "score": 8,
+            "stickied": false,
+            "author_name": "RCEdude"
+        },
+        "hd29xwo": {
+            "comment": "Thanks for jumping in\n\n&amp;#x200B;\n\nI did a sofware update and it looks like it no longer shows up. \n\nRe: *not* r/techsupport \\- I did go there to begin with but it was pretty quiet so thought maybe I wasn't in the right place. \n\nAnyway if you don't mind, what would you recommend in case it shows up again? \n\nMany thanks",
+            "timeStamp": "2021/09/16-03:42:00",
+            "id": "hd29xwo",
+            "is_submitter": true,
+            "link_id": "t3_pp8oib",
+            "parent_id": "t1_hd26et7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "madsthefilmaker"
+        },
+        "hd26et7": {
+            "comment": "1) This subreddit is not /r/techsupport \n\n2) Suggestion : Dont be gullible and fall for \"cracked vpn\". I have doubts, like \"how the hell can people crack a subscription service ? \"",
+            "timeStamp": "2021/09/16-02:52:46",
+            "id": "hd26et7",
+            "is_submitter": false,
+            "link_id": "t3_pp8oib",
+            "parent_id": "t3_pp8oib",
+            "score": 8,
+            "stickied": false,
+            "author_name": "RCEdude"
+        },
+        "hd1ym4t": {
+            "comment": "[removed]",
+            "timeStamp": "2021/09/16-00:49:59",
+            "id": "hd1ym4t",
+            "is_submitter": false,
+            "link_id": "t3_pp8oib",
+            "parent_id": "t3_pp8oib",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

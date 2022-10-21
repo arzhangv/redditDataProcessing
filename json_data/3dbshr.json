@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "New Point of Sale malware discovered by Morphick",
+        "score": 1,
+        "id": "3dbshr",
+        "commsNum": 0,
+        "timeStamp": "2015/07/14-18:20:58",
+        "author_name": "tomdoepker",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://morphick.com/blog/2015/7/14/bernhardpos-new-pos-malware-discovered-by-morphick"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I know it looks complicated.  The author of the video is one of the most respected malware researchers and cybercrime analysts in the world.  He is using a tool called a debugger to step through the malware used to compromise an ATM machine.  ***DON'T TRY THIS AT HOME***.  Just kidding.  Reversing Engineering malware can be tedious. The people who write code like this are smart and don't want researchers, analysts, and law enforcement to learn the inner workings of their malicious code.  Nevertheless, this kind of analysis is key to the development of signatures and rule sets for antivirus products, intrusion detection systems, firewalls, and threat intelligence systems.",
+        "title": "Having a look on GreenDispenser (ATM Malware)",
+        "score": 0,
+        "id": "3poku3",
+        "commsNum": 4,
+        "timeStamp": "2015/10/21-13:44:13",
+        "author_name": "p4wp4tr0l",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/3poku3/having_a_look_on_greendispenser_atm_malware/"
+    },
+    "posts": {}
+}

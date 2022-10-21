@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hello Everyone, \n\nI needed some assistance in identifying the behavior of this file &amp; more specifically how it might have got into a respective host, unfortunately due to the certain restrictions I will unable to submit a copy of this file but I will provide info of the behavior of the file along with hashes \n\n\\-- BEHAVIOR-- \n\n1. the name of the file is OEM7.EXE( in the path  ' \\\\??\\\\C:\\\\Windows\\\\OEM7\\\\OEM7.exe ' ), the hash of this file is :  521b2c3e73c57adf4c414a7ee2114d67f7af61baf0ad8732c1bf39c5d2dabd2d (SHA256)\n2. The file when executed is spawning various instances of cmd.exe(being used to run ' slmgr.vbs ' from the system 32 folder) and is writing multiple instances of  ' KMS8Load.exe ' in the system32 folder(hash of KMS8LOAD: f1cb231f351b1c1c32565f025f7b9d834fa350aeac3714b2f31d4c479151cb75 ) \n3. furthermore, the executable is also  reaching out to the domain  khoaf\\[.\\]com on port 80 while it is being run.\n4. changes the registry value of   ' \\\\REGISTRY\\\\MACHINE\\\\SOFTWARE\\\\Microsoft\\\\Windows NT\\\\CurrentVersion\\\\Image File Execution Options\\\\sppsvc.exe ' from 'Debugger' to 'KM8LOAD.exe'   .\n\n\\--question-- \n\n1. we know this is bad, what we don't know is when did OEM7.exe enter the machine, was it already there? is there any known process or file that does this ?\n2. what is it trying to achieve by reaching out to khoaf\\[.\\]com ",
+        "title": "What does this file do?",
+        "score": 1,
+        "id": "98amc8",
+        "commsNum": 1,
+        "timeStamp": "2018/08/18-02:59:46",
+        "author_name": "clawesome_crab",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/98amc8/what_does_this_file_do/"
+    },
+    "posts": {
+        "e4eil8x": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2018/08/18-02:59:46",
+            "id": "e4eil8x",
+            "is_submitter": false,
+            "link_id": "t3_98amc8",
+            "parent_id": "t3_98amc8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

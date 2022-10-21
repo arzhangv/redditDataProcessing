@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "[removed]",
+        "title": "Is there an app for IPhone that allows you to see if Pegasus is on your phone?",
+        "score": 1,
+        "id": "tquc4n",
+        "commsNum": 1,
+        "timeStamp": "2022/03/29-00:29:10",
+        "author_name": "Pubh12",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/tquc4n/is_there_an_app_for_iphone_that_allows_you_to_see/"
+    },
+    "posts": {
+        "i2jdof7": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators **and be sure to include the link to the post** - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2022/03/29-00:29:11",
+            "id": "i2jdof7",
+            "is_submitter": false,
+            "link_id": "t3_tquc4n",
+            "parent_id": "t3_tquc4n",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

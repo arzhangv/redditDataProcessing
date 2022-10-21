@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Gozi: The Malware with a Thousand Faces",
+        "score": 1,
+        "id": "ijwf3a",
+        "commsNum": 0,
+        "timeStamp": "2020/08/31-04:42:51",
+        "author_name": "israelgub",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://research.checkpoint.com/2020/gozi-the-malware-with-a-thousand-faces/"
+    },
+    "posts": {}
+}

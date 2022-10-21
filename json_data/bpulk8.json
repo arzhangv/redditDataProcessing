@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "hey everybody i was just wondering is Qustodio  malware  just a random question because Norton alerted me about a possible malicious file or malware i dont' know if it was for something else but  im a little concerned for my device",
+        "title": "is Qustodio malware",
+        "score": 0,
+        "id": "bpulk8",
+        "commsNum": 2,
+        "timeStamp": "2019/05/17-11:06:18",
+        "author_name": "cyrptedras",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/bpulk8/is_qustodio_malware/"
+    },
+    "posts": {
+        "eo0tbym": {
+            "comment": "yeah they did install it but my antivirus has been alerted me about the file and said there was a problem with it idk if i was seeing things but thats what it looked like to me",
+            "timeStamp": "2019/05/18-05:45:40",
+            "id": "eo0tbym",
+            "is_submitter": true,
+            "link_id": "t3_bpulk8",
+            "parent_id": "t1_enxrbmy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "cyrptedras"
+        },
+        "enxrbmy": {
+            "comment": "Qustodio is a parental control software, which allows parent to monitor messaging and limit web content. \n\nSo the question is did your parents install it?",
+            "timeStamp": "2019/05/17-11:57:34",
+            "id": "enxrbmy",
+            "is_submitter": false,
+            "link_id": "t3_bpulk8",
+            "parent_id": "t3_bpulk8",
+            "score": 2,
+            "stickied": false,
+            "author_name": "4745454B"
+        }
+    }
+}

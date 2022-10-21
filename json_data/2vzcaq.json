@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hey all.\n\nI am a first year Forensic Computing student and although my course will have some taught Malware sessions in it's final year, I would like to get a head start and try and teach myself some stuff early. To do this, I'd like to get a book.\n\nI've been reading around this sub and other forums and the book [Practical Malware Analysis by Michael Sikorski and Andrew Honig](http://www.amazon.com/Practical-Malware-Analysis-Dissecting-Malicious/dp/1593272901) mentioned in recommendations and generally seems to be the most talked about.\n\nIs this book still the one to buy as somebody who doesn't really have any previous with RE or Malware but wants to learn? \n\nIf it isn't, is there anything better that I should look into?\n\nCheers!",
+        "title": "Is the book Practical Malware Analysis still the best choice?",
+        "score": 23,
+        "id": "2vzcaq",
+        "commsNum": 14,
+        "timeStamp": "2015/02/15-08:40:09",
+        "author_name": "DanSec",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 14,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2vzcaq/is_the_book_practical_malware_analysis_still_the/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi, Im researching systems for automated malware analysis for my bachelor thesis. I have already grown found of Cuckoo Sandbox(https://cuckoosandbox.org/) and is probably the system my thesis is going to focus on.. However I am having a hard time finding real Cuckoo opensource/free competitors. So my question is, does anyone here know some 'good' competitors I can use for comparisons? Free web-based solutions like VirusTotal and so on is not what im after. Thanks in advance :)",
+        "title": "Researching systems for automated malware analysis",
+        "score": 3,
+        "id": "7x05lj",
+        "commsNum": 5,
+        "timeStamp": "2018/02/12-03:35:59",
+        "author_name": "fire_starr",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/7x05lj/researching_systems_for_automated_malware_analysis/"
+    },
+    "posts": {}
+}

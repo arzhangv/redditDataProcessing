@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "So I had a issue today on my desktop that was running Adblock and just assumed it was possible the app installed from some rogue ad in a website however, the only sites I had been on was Teamviewer, Realtek and Rosewill when this installed. The app that was silently installed was DNS Unlocker. I thought it was wierd and went to remove Adblock after I uninstalled DNS Unlocker and Adblock extension removal redirected me to a page with malware. I thought it was possible the desktop was still infected but scans revealed nothing. \n\nSo fast forward to today. I'm on my laptop and the same issue happened, but this I am on Amazon, TP-Link and Google.com. Adblock was still installed and went to remove it with the same results of being redirected to malware hosted sites. \n\nThe only conclusion I can figure is Adblock is silently installing this rogue app DNS Unlocker.",
+        "title": "Weird issue from Adblock (Not Plus) on 2 different computers. DNS Unlocker.",
+        "score": 10,
+        "id": "3qs5zt",
+        "commsNum": 9,
+        "timeStamp": "2015/10/29-18:04:46",
+        "author_name": "Imtheciscoguy",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 9,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/3qs5zt/weird_issue_from_adblock_not_plus_on_2_different/"
+    },
+    "posts": {}
+}

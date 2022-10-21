@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I know I get a little pop-up whenever I deactivate my AV on my Windows machine. That means the system is watching if the AV is active or not. Now, does that mean I can query the system for this information? ^would ^be ^a ^shame ^if ^someonexe ^were ^to ^download ^something ^right ^after ^this ^happens",
+        "title": "Can you query Windows for the state of the AV installed?",
+        "score": 10,
+        "id": "5kf3ea",
+        "commsNum": 7,
+        "timeStamp": "2016/12/26-10:45:22",
+        "author_name": "_Nexor",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5kf3ea/can_you_query_windows_for_the_state_of_the_av/"
+    },
+    "posts": {}
+}

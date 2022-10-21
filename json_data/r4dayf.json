@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Quakbot payload",
+        "score": 1,
+        "id": "r4dayf",
+        "commsNum": 4,
+        "timeStamp": "2021/11/28-12:18:14",
+        "author_name": "DrinkMoreCodeMore",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://twitter.com/Max_Mal_/status/1463909174279090185"
+    },
+    "posts": {
+        "hmhcj4k": {
+            "comment": "[deleted]",
+            "timeStamp": "2021/11/28-18:28:03",
+            "id": "hmhcj4k",
+            "is_submitter": false,
+            "link_id": "t3_r4dayf",
+            "parent_id": "t1_hmhaieh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hmhaieh": {
+            "comment": "Because this is a sub to share Malware and malware related info, IOCs, etc.",
+            "timeStamp": "2021/11/28-18:12:31",
+            "id": "hmhaieh",
+            "is_submitter": true,
+            "link_id": "t3_r4dayf",
+            "parent_id": "t1_hmh6wkn",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DrinkMoreCodeMore"
+        },
+        "hmh6wkn": {
+            "comment": "[deleted]",
+            "timeStamp": "2021/11/28-17:45:33",
+            "id": "hmh6wkn",
+            "is_submitter": false,
+            "link_id": "t3_r4dayf",
+            "parent_id": "t3_r4dayf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hmfwhnm": {
+            "comment": "@fr0s7_ @ffforward @ankit_anubhav @executemalware \\#Quakbot (A.K.A \\#Qabot) \\#MalDoc\n\n\\#Datoploader \ud83d\udd25\n:\\Datop\\best[a|b|c].ocx @executemalware \ud83d\ude09\n\nhxxps://srkcampus[.]org/OYcMRJbL/ji[.]htm\nhxxps://klevvrtech[.]com/zxywJAC24KJ/ji[.]html\nhxxps://rstebet[.]co[.]id/fbmKk6n48G/ji[.]html \n\n***\n\nposted by [@Max_Mal_](https://twitter.com/Max_Mal_)\n\nPhotos in tweet |  [Photo 1](http://pbs.twimg.com/media/FFDYwcbWUA0DFks.png) | [Photo 2](http://pbs.twimg.com/media/FFDY8snWYAgq_zq.png) \n\n^[(Github)](https://github.com/username) ^| ^[(What's\u2005new)](https://github.com/username)",
+            "timeStamp": "2021/11/28-12:18:36",
+            "id": "hmfwhnm",
+            "is_submitter": false,
+            "link_id": "t3_r4dayf",
+            "parent_id": "t3_r4dayf",
+            "score": 2,
+            "stickied": false,
+            "author_name": "twitterInfo_bot"
+        }
+    }
+}

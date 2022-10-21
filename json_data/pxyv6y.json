@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Presuming this the place where someone may have had a similar experience. If you have please let me know in the comments.\n\nSo this was an interesting case as despite me installing MEMZ something must have gone wrong with the execution of the code as I was still able to boot many times with the virus on my system. Not only was I able to boot, the virus never caused any interruptions at all.   \n\n\nThis all started when I decided to crack the software plugin \"AfterCodecs\". Something I feel is important to mention is that I had all my programs installed on two harddrives D: and Z:. I also adjusted certain folders on the harddrive to act as my C: drive, this was to make the process of installing programs and managing space much easier seeing as I only had a 240GB SSD at the time.  \n\n\nBut back to what I was saying; I installed the plugin and it worked as I expected for just over a month, then I decided it was about time I gave my PC an upgrade as up until this point I was still running my old Ryzen 5 -1600. When upgrading I accidentally booted from my HDD D: to be greeted by an all too familiar message \"Your PC has been trashed by the MEMZ Trojan Virus\" and I proceeded to stare at the nyan cat for a few moments whilst being bewildered as to how it was on that hard drive and how I had not noticed it at all.  \n\n\nTo fix it I simply unplugged said HDD, booted into my windows install and then proceeded to install the HDD whilst windows was open (Not recommended, but the harddrive may have been lost anyway). I refreshed my disk management and prepared to format the entire drive. However it showed up without a problem and I decided to try one last attempt to save my files, I ran Malwarebytes which to my astonishment managed to find the culprit and removed it entirely.   \n\n\nSince then my system has been working flawlessly and I have had 0 issues. The only sign I had that the malware was even on my pc was the occasional bluescreen however I had just put that down to VALORANT's intrusive anti-cheat  software.\n\n&amp;#x200B;\n\nI was wondering if anyone else has ever had a similar experience with MEMZ and if so how you went about solving it or even your full story as this has led me to be extremely curious and cautious knowing that someone remanufactured MEMZ to be used maliciously.   \n\n\nIf you read the entire post, thank you and I hope my story was clear and makes sense to anyone else.",
+        "title": "MEMZ Trojan and I Didn't Notice For Weeks.",
+        "score": 1,
+        "id": "pxyv6y",
+        "commsNum": 0,
+        "timeStamp": "2021/09/29-09:20:26",
+        "author_name": "BradM__",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/pxyv6y/memz_trojan_and_i_didnt_notice_for_weeks/"
+    },
+    "posts": {}
+}

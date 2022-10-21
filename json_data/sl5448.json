@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "[removed]",
+        "title": "New pc",
+        "score": 1,
+        "id": "sl5448",
+        "commsNum": 0,
+        "timeStamp": "2022/02/05-03:43:28",
+        "author_name": "Independent_Pen2847",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/sl5448/new_pc/"
+    },
+    "posts": {
+        "hvosc3x": {
+            "comment": "[removed]",
+            "timeStamp": "2022/02/05-03:44:21",
+            "id": "hvosc3x",
+            "is_submitter": false,
+            "link_id": "t3_sl5448",
+            "parent_id": "t3_sl5448",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

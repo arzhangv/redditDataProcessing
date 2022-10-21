@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Analyzing a Backdoor/Bot for the MIPS Platform",
+        "score": 7,
+        "id": "33vs1w",
+        "commsNum": 7,
+        "timeStamp": "2015/04/25-19:35:30",
+        "author_name": "DeuceDaily",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.giac.org/paper/grem/2573/analyzing-backdoor-bot-mips-platform/124977"
+    },
+    "posts": {}
+}

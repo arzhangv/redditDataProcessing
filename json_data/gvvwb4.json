@@ -1,0 +1,110 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Looking to make my move into something more focused than app sec. Does anyone know any good resources for writing malware via C++ / C#? I want to learn how to make tools to exploit machines rather than just google pre written exploits and modifying them. Obviously app sec is different anyone can make a web request via python / JavaScript. I want to know something a bit more edgy. Thanks!",
+        "title": "Hey guys. App sec tester / security professional",
+        "score": 2,
+        "id": "gvvwb4",
+        "commsNum": 9,
+        "timeStamp": "2020/06/03-08:21:46",
+        "author_name": "Allevon-602",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 9,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/gvvwb4/hey_guys_app_sec_tester_security_professional/"
+    },
+    "posts": {
+        "fssczk3": {
+            "comment": "Yeah as you get that low level and lower, there are no certs. I havn't tried that course but it looks good. I'de pick an OS, preferably Linux as it is way more documented and start look at the binary format. Most things apply to all formats with different names.",
+            "timeStamp": "2020/06/03-13:48:30",
+            "id": "fssczk3",
+            "is_submitter": false,
+            "link_id": "t3_gvvwb4",
+            "parent_id": "t1_fssclvi",
+            "score": 1,
+            "stickied": false,
+            "author_name": "randomperson83"
+        },
+        "fssclvi": {
+            "comment": "I don\u2019t know too much about linkers / compilers tbh. I\u2019ve taken and passed OSWE / OSCE / OSCP so I know a bit about binary exploitation. Just enough to scrape the top I think. So will definitely have to dig more into that. The other guy suggested a course from sektor7 that I purchased so we\u2019ll see how in depth that course goes",
+            "timeStamp": "2020/06/03-13:45:29",
+            "id": "fssclvi",
+            "is_submitter": true,
+            "link_id": "t3_gvvwb4",
+            "parent_id": "t1_fsrxt0v",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Allevon-602"
+        },
+        "fsrxt0v": {
+            "comment": "Linux binary analysis is not a bad book as far as learning about ELF executables and injecting into them. Examples are written in C. Go has become really popular for malware, all Go binaries are statically linked",
+            "timeStamp": "2020/06/03-11:50:59",
+            "id": "fsrxt0v",
+            "is_submitter": false,
+            "link_id": "t3_gvvwb4",
+            "parent_id": "t1_fsrm0ad",
+            "score": 1,
+            "stickied": false,
+            "author_name": "randomperson83"
+        },
+        "fsrqwkk": {
+            "comment": "Didn\u2019t know there was one of these trying to find resources on malware dev is hard \ud83d\ude02. But maybe I just don\u2019t know where to look because I thought the same thing about network hacking when I first stated and it\u2019s so abundant now.",
+            "timeStamp": "2020/06/03-10:58:17",
+            "id": "fsrqwkk",
+            "is_submitter": true,
+            "link_id": "t3_gvvwb4",
+            "parent_id": "t1_fsr9okm",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Allevon-602"
+        },
+        "fsrm0ad": {
+            "comment": "I mean the over all goal is to learn how to make RATS / C2 infrastructure / privilege escalation automation / I want to dip my hand in making some ransomeware as well cause I want to blow up a VM at least once with one that I\u2019ve made. That definitely is on my bucket list. I figured c++ would be a good language I suppose. I\u2019m not opposed to learning the harder of the two languages. I took one or two C classes in uni at one point and enjoyed it so figured it can\u2019t be that bad.",
+            "timeStamp": "2020/06/03-10:20:57",
+            "id": "fsrm0ad",
+            "is_submitter": true,
+            "link_id": "t3_gvvwb4",
+            "parent_id": "t1_fsrliih",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Allevon-602"
+        },
+        "fsrliih": {
+            "comment": "Well, I would figure out what your goals are before committing to a language. If you are trying to write a persistence thing or just execute remote commands I would consider go. If you are trying to inject in other processes or muck around with lower level stuff, c/c++ might be more appropriate.\n\nWindows internals IMHO is one of the best books out there, but it is a reference book, not something that will guide you through writing a RAT. If you really want to know what\u2019s going on under the hood, windows internals is a good way to help you figure it out. It goes over memory management and OS architecture.\n\nIf you don\u2019t know C++ right now, you might want to look at picking up go instead. It\u2019s pretty easy to get going and has quite a bit of stuff built in and many less ways to shoot yourself in the foot than c++.\n\nThat game hacking book looks like it might have interesting content, but not too sure how much it relies on cheat engine. There are several papers and presos on process injection, which are relevant if for example you are trying to grab data from another running process.",
+            "timeStamp": "2020/06/03-10:17:10",
+            "id": "fsrliih",
+            "is_submitter": false,
+            "link_id": "t3_gvvwb4",
+            "parent_id": "t1_fsrifeq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "genmud"
+        },
+        "fsrifeq": {
+            "comment": "So, I want to write more stuff like generic Trojan / malware dev. Eventually I\u2019d want to use these tools for red team assessments. I think I\u2019ll start with c++ than move to go if I feel like that would be a better solution. Is windows internals a book? I was also told that game hacking (the no starch book is a good place to start for all this)",
+            "timeStamp": "2020/06/03-09:53:11",
+            "id": "fsrifeq",
+            "is_submitter": true,
+            "link_id": "t3_gvvwb4",
+            "parent_id": "t1_fsri326",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Allevon-602"
+        },
+        "fsri326": {
+            "comment": "Writing exploits and malware are a bit different. If you are wanting to write shellcode, shellcoders handbook is good, but also learning x86 asm is necessary if you are going to go down that route.\n\nIf you are wanting to do generic trojan or malware dev, something like windows internals is a good point of reference for windows apis, etc. Getting around security controls is where attackers spend most of their time.\n\nGo is getting picked up by a bunch of pentesters, but is pretty easy to identify/reverse in its native form, since packers/protection of stuff running is harder to do. If I was going to use go for pentesting, I would probably look into writing a custom compiler/linker for obfuscating the go bytecode before it creates a binary.",
+            "timeStamp": "2020/06/03-09:50:30",
+            "id": "fsri326",
+            "is_submitter": false,
+            "link_id": "t3_gvvwb4",
+            "parent_id": "t3_gvvwb4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "genmud"
+        }
+    }
+}

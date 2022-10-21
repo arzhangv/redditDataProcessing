@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 0.67,
+        "selftext": "",
+        "title": "Inside a TrickBot Cobalt Strike Attack Server - SentinelLabs",
+        "score": 1,
+        "id": "hdyfzm",
+        "commsNum": 0,
+        "timeStamp": "2020/06/22-12:00:02",
+        "author_name": "sysopfb",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://labs.sentinelone.com/inside-a-trickbot-cobaltstrike-attack-server/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Analysis of Hasbro.com Drive-By-Download Attack",
+        "score": 7,
+        "id": "1wd9ln",
+        "commsNum": 4,
+        "timeStamp": "2014/01/28-05:22:51",
+        "author_name": "byteguard",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://malwarecoroner.blogspot.com/2014/01/hasborocom-drive-by-download-analysis.html"
+    },
+    "posts": {}
+}

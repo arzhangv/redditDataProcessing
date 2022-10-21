@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "20-year-old Windows bug lets printers install malware\u2014patch now",
+        "score": 1,
+        "id": "4ssi6j",
+        "commsNum": 0,
+        "timeStamp": "2016/07/14-02:59:46",
+        "author_name": "JohnnyDoran",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://arstechnica.com/security/2016/07/20-year-old-windows-bug-lets-printers-install-malware-patch-now/"
+    },
+    "posts": {}
+}

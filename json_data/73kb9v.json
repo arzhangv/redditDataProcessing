@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "It's a cheat(botting) for a PC game and like most games, there are false positives.\n\nI just want to make sure this isn't one of them. Tons of people use this bot to make public games to help others level(Diablo 2 is very old and community getting smaller, these bots help people find games to level)\n\nHere's the link for the github page wiki where the download it.\n\nhttps://github.com/DetectiveSquirrel/Version-Hack-Guide-1.14d/blob/master/README.md\n\nhere is the actual download on the site.\n\nhttp://puu.sh/szost/8c27dcd72e.rar\n\nOn virustotal is shows up as malware on  2 parts, the rest comes up as safe.\n\nI'm wondering if this is a false positive and make sure this is safe to use, I know people can go in and change files at any moment.\n\nLots of people run these bots, so it's not a unique type bot that's unknown.\n\nI would like to try and get this bot up and running soon, so finding out of this is safe or not will decide if I can go to the next step! Please!\n\nAny help will be appreciated, thanks!",
+        "title": "False-Positive? Need help!",
+        "score": 0,
+        "id": "73kb9v",
+        "commsNum": 6,
+        "timeStamp": "2017/10/01-00:07:08",
+        "author_name": "Doomsay__911",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/73kb9v/falsepositive_need_help/"
+    },
+    "posts": {
+        "dnr8a95": {
+            "comment": "it is injecting into the game ",
+            "timeStamp": "2017/10/01-07:21:51",
+            "id": "dnr8a95",
+            "is_submitter": true,
+            "link_id": "t3_73kb9v",
+            "parent_id": "t1_dnr3zx8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Doomsay__911"
+        },
+        "dnr3zx8": {
+            "comment": "Do you know which signatures are hitting?\n\nIs it just a generic heuristic? Maybe like \"process injection\".\n\nIf it is just hitting on a technique and not some specific malware then you are probably fine. \n\n",
+            "timeStamp": "2017/10/01-05:02:35",
+            "id": "dnr3zx8",
+            "is_submitter": false,
+            "link_id": "t3_73kb9v",
+            "parent_id": "t3_73kb9v",
+            "score": 1,
+            "stickied": false,
+            "author_name": "hash_define"
+        },
+        "dnr01z2": {
+            "comment": "thanks for the help.\n\nI wonder when the file was changed, lots of people use this bot.",
+            "timeStamp": "2017/10/01-01:48:54",
+            "id": "dnr01z2",
+            "is_submitter": true,
+            "link_id": "t3_73kb9v",
+            "parent_id": "t1_dnqzjeq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Doomsay__911"
+        },
+        "dnqzjeq": {
+            "comment": "If A/V flagged it; there is a reason. Also the threshold for false positives is 5% since most engines use a threshold of greater than 95%. In this case it was not a false postive. \n\n\nIt was flagged because:\nhttps://www.metadefender.com/#!/results/file/B4E349C935914A62EA1C1EAD0BF8271E/hash/analysis\n\nIt's a keylogger/trojan. So obviously no its not okay to run.  ",
+            "timeStamp": "2017/10/01-01:24:32",
+            "id": "dnqzjeq",
+            "is_submitter": false,
+            "link_id": "t3_73kb9v",
+            "parent_id": "t1_dnqz8vo",
+            "score": -3,
+            "stickied": false,
+            "author_name": "PirateGrievous"
+        },
+        "dnqz8vo": {
+            "comment": "It's a guide for botting, I know what these do. It is reverting the games patch from 1.14 to 1.13.\n\nI'm wondering if the files in the download is safe and a false positive?\n\nI see tons of people using this bot and wanting to make sure that the download file hasn't been changed.\n\nIf you could let me know I would appreciate it a lot...",
+            "timeStamp": "2017/10/01-01:10:16",
+            "id": "dnqz8vo",
+            "is_submitter": true,
+            "link_id": "t3_73kb9v",
+            "parent_id": "t1_dnqytcs",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Doomsay__911"
+        },
+        "dnqytcs": {
+            "comment": "So you are copying over libraries and executable's, without knowing what they do? The obvious answer is no don't copy over arbitrary executable's and libraries without knowing what they do.",
+            "timeStamp": "2017/10/01-00:49:51",
+            "id": "dnqytcs",
+            "is_submitter": false,
+            "link_id": "t3_73kb9v",
+            "parent_id": "t3_73kb9v",
+            "score": 5,
+            "stickied": false,
+            "author_name": "PirateGrievous"
+        }
+    }
+}

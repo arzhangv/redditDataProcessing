@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "New Downloader for Locky",
+        "score": 9,
+        "id": "4gfcl0",
+        "commsNum": 0,
+        "timeStamp": "2016/04/25-13:46:39",
+        "author_name": "sh3dow",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.fireeye.com/blog/threat-research/2016/04/new_downloader_forl.html"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "As someone just wetting their toes in the area of Malware Analysis I'm a bit overwhelmed about how to go through the whole process. I got a sample online and am currently doing the static / blackbox analysis of it. Have ye got a go to list of steps and tools that you 'always' try first when going through the sample? I'm really struggling with identifying the processes it starts and the registry entries it alters / creates. ",
+        "title": "Go to plan for analyzing a sample?",
+        "score": 12,
+        "id": "5c11el",
+        "commsNum": 3,
+        "timeStamp": "2016/11/09-05:20:46",
+        "author_name": "signpos",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5c11el/go_to_plan_for_analyzing_a_sample/"
+    },
+    "posts": {}
+}

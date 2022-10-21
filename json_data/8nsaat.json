@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "someones been sending me emails from an account thats my name and my birth year and including a link from a .tk with me and a phone number. the email is sglazer2000@gmail.com and the number posted is 9178815543.\nSomeone send them malware or something like that, thank you.\nor teach me how to do it.",
+        "title": "getting sus email, want to counter with malware",
+        "score": 0,
+        "id": "8nsaat",
+        "commsNum": 4,
+        "timeStamp": "2018/06/01-07:29:13",
+        "author_name": "shlohmo69",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8nsaat/getting_sus_email_want_to_counter_with_malware/"
+    },
+    "posts": {
+        "dzzobhb": {
+            "comment": "This user has been banned from posting here",
+            "timeStamp": "2018/06/02-05:38:58",
+            "id": "dzzobhb",
+            "is_submitter": false,
+            "link_id": "t3_8nsaat",
+            "parent_id": "t3_8nsaat",
+            "score": 1,
+            "stickied": true,
+            "author_name": "edward_snowedin"
+        },
+        "dzy8495": {
+            "comment": "lmao",
+            "timeStamp": "2018/06/01-10:18:03",
+            "id": "dzy8495",
+            "is_submitter": true,
+            "link_id": "t3_8nsaat",
+            "parent_id": "t1_dzy50oa",
+            "score": -2,
+            "stickied": false,
+            "author_name": "shlohmo69"
+        },
+        "dzy50oa": {
+            "comment": "[here you go](http://i0.kym-cdn.com/photos/images/original/000/722/212/29b.jpg)",
+            "timeStamp": "2018/06/01-09:34:19",
+            "id": "dzy50oa",
+            "is_submitter": false,
+            "link_id": "t3_8nsaat",
+            "parent_id": "t3_8nsaat",
+            "score": 2,
+            "stickied": false,
+            "author_name": "okmokmz"
+        },
+        "dzxzveb": {
+            "comment": "What is this 4chan circa 2008? This subreddit isn\u2019t your personal army ",
+            "timeStamp": "2018/06/01-08:19:57",
+            "id": "dzxzveb",
+            "is_submitter": false,
+            "link_id": "t3_8nsaat",
+            "parent_id": "t3_8nsaat",
+            "score": 4,
+            "stickied": false,
+            "author_name": "ShewkShewk"
+        }
+    }
+}

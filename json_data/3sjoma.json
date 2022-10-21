@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Yet another \"ransomware as a service\" has been launched",
+        "score": 21,
+        "id": "3sjoma",
+        "commsNum": 10,
+        "timeStamp": "2015/11/12-08:06:51",
+        "author_name": "Drivingmecrazeh",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 10,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.csoonline.com/article/3004594/cyber-attacks-espionage/new-ransomware-business-cashing-in-on-cryptolockers-name.html"
+    },
+    "posts": {}
+}

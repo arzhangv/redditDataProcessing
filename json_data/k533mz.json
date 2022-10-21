@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "We are happy to release one of our project R4PT0R a malware library, we heartily thank InQuest Labs for supporting us with samples for the library &amp; for community, research purposes.",
+        "score": 1,
+        "id": "k533mz",
+        "commsNum": 5,
+        "timeStamp": "2020/12/01-21:25:31",
+        "author_name": "navneetmuffin",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://ax1al.com/projects/r4pt0r/index.html"
+    },
+    "posts": {
+        "giq3git": {
+            "comment": "There is a 10 hour delay fetching comments.\n\nI will be messaging you in 1 month on [**2021-02-09 16:19:50 UTC**](http://www.wolframalpha.com/input/?i=2021-02-09%2016:19:50%20UTC%20To%20Local%20Time) to remind you of [**this link**](https://np.reddit.com/r/Malware/comments/k533mz/we_are_happy_to_release_one_of_our_project_r4pt0r/ginzs9g/?context=3)\n\n[**CLICK THIS LINK**](https://np.reddit.com/message/compose/?to=RemindMeBot&amp;subject=Reminder&amp;message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2FMalware%2Fcomments%2Fk533mz%2Fwe_are_happy_to_release_one_of_our_project_r4pt0r%2Fginzs9g%2F%5D%0A%0ARemindMe%21%202021-02-09%2016%3A19%3A50%20UTC) to send a PM to also be reminded and to reduce spam.\n\n^(Parent commenter can ) [^(delete this message to hide from others.)](https://np.reddit.com/message/compose/?to=RemindMeBot&amp;subject=Delete%20Comment&amp;message=Delete%21%20k533mz)\n\n*****\n\n|[^(Info)](https://np.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/)|[^(Custom)](https://np.reddit.com/message/compose/?to=RemindMeBot&amp;subject=Reminder&amp;message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here)|[^(Your Reminders)](https://np.reddit.com/message/compose/?to=RemindMeBot&amp;subject=List%20Of%20Reminders&amp;message=MyReminders%21)|[^(Feedback)](https://np.reddit.com/message/compose/?to=Watchful1&amp;subject=RemindMeBot%20Feedback)|\n|-|-|-|-|",
+            "timeStamp": "2021/01/09-18:56:26",
+            "id": "giq3git",
+            "is_submitter": false,
+            "link_id": "t3_k533mz",
+            "parent_id": "t1_ginzs9g",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RemindMeBot"
+        },
+        "ginzs9g": {
+            "comment": "!remindme 1 month",
+            "timeStamp": "2021/01/09-08:19:50",
+            "id": "ginzs9g",
+            "is_submitter": false,
+            "link_id": "t3_k533mz",
+            "parent_id": "t1_gf2d5i9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "BaGamman"
+        },
+        "gik6ljm": {
+            "comment": "[removed]",
+            "timeStamp": "2021/01/08-09:25:58",
+            "id": "gik6ljm",
+            "is_submitter": false,
+            "link_id": "t3_k533mz",
+            "parent_id": "t1_gf2d5i9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "gf2d7nu": {
+            "comment": "I will be messaging you in 1 month on [**2021-01-08 16:20:00 UTC**](http://www.wolframalpha.com/input/?i=2021-01-08%2016:20:00%20UTC%20To%20Local%20Time) to remind you of [**this link**](https://np.reddit.com/r/Malware/comments/k533mz/we_are_happy_to_release_one_of_our_project_r4pt0r/gf2d5i9/?context=3)\n\n[**CLICK THIS LINK**](https://np.reddit.com/message/compose/?to=RemindMeBot&amp;subject=Reminder&amp;message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2FMalware%2Fcomments%2Fk533mz%2Fwe_are_happy_to_release_one_of_our_project_r4pt0r%2Fgf2d5i9%2F%5D%0A%0ARemindMe%21%202021-01-08%2016%3A20%3A00%20UTC) to send a PM to also be reminded and to reduce spam.\n\n^(Parent commenter can ) [^(delete this message to hide from others.)](https://np.reddit.com/message/compose/?to=RemindMeBot&amp;subject=Delete%20Comment&amp;message=Delete%21%20k533mz)\n\n*****\n\n|[^(Info)](https://np.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/)|[^(Custom)](https://np.reddit.com/message/compose/?to=RemindMeBot&amp;subject=Reminder&amp;message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here)|[^(Your Reminders)](https://np.reddit.com/message/compose/?to=RemindMeBot&amp;subject=List%20Of%20Reminders&amp;message=MyReminders%21)|[^(Feedback)](https://np.reddit.com/message/compose/?to=Watchful1&amp;subject=RemindMeBot%20Feedback)|\n|-|-|-|-|",
+            "timeStamp": "2020/12/08-08:20:28",
+            "id": "gf2d7nu",
+            "is_submitter": false,
+            "link_id": "t3_k533mz",
+            "parent_id": "t1_gf2d5i9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RemindMeBot"
+        },
+        "gf2d5i9": {
+            "comment": "!remindme 1 month",
+            "timeStamp": "2020/12/08-08:20:00",
+            "id": "gf2d5i9",
+            "is_submitter": false,
+            "link_id": "t3_k533mz",
+            "parent_id": "t3_k533mz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "BaGamman"
+        }
+    }
+}

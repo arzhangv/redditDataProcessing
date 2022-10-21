@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "It seems several people across multiple boards are reporting this virus as of today.\n\nIt seems tied to the recent windows update. \n\nImgur ads are infected, even the auto play ones that you do not need to click. \n\nWindows defender catches this in most cases. \n\nMicrosoft categorizes this threat as severe. \nIf you've visited Steam, imgur, torrents or any content sharing sites it is advised that you run a full scan immediately. \n\nPersonaly, I got the warning for this particular virus while testing it over on imgur. Sure enough, windows defender had notified me. \n\nAnyone else who has been infected by this virus, please post here how you managed to get said virus (what websites were you browsing, what torrent sites were you using etc). \n\nThanks!",
+        "title": "Exploit: SWF/Meadgive Virus PSA",
+        "score": 13,
+        "id": "6apbf8",
+        "commsNum": 6,
+        "timeStamp": "2017/05/11-21:46:32",
+        "author_name": "poorspacedreams",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6apbf8/exploit_swfmeadgive_virus_psa/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I remember kaspersky had a slick interactive one a while back but I can't seem to find it.",
+        "title": "Any good comprehensive lists of threat actors / groups?",
+        "score": 25,
+        "id": "6lth66",
+        "commsNum": 6,
+        "timeStamp": "2017/07/07-05:59:26",
+        "author_name": "IambadatIT",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6lth66/any_good_comprehensive_lists_of_threat_actors/"
+    },
+    "posts": {
+        "djy15x7": {
+            "comment": "Thats a nice list. I like reading the apt reports. Gives a good insight into trends and methods.",
+            "timeStamp": "2017/07/08-06:12:01",
+            "id": "djy15x7",
+            "is_submitter": false,
+            "link_id": "t3_6lth66",
+            "parent_id": "t1_djwzvyj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TailSpinBowler"
+        },
+        "djxgmfa": {
+            "comment": "Just blame everything on China, Russia and now North Korea. Job done. ",
+            "timeStamp": "2017/07/07-18:08:04",
+            "id": "djxgmfa",
+            "is_submitter": false,
+            "link_id": "t3_6lth66",
+            "parent_id": "t3_6lth66",
+            "score": 4,
+            "stickied": false,
+            "author_name": "gonzo_au"
+        },
+        "djx2v6z": {
+            "comment": "This is a great resource, thanks for sharing!",
+            "timeStamp": "2017/07/07-13:21:17",
+            "id": "djx2v6z",
+            "is_submitter": false,
+            "link_id": "t3_6lth66",
+            "parent_id": "t1_djwh7od",
+            "score": 1,
+            "stickied": false,
+            "author_name": "afschuld"
+        },
+        "djwzvyj": {
+            "comment": "This is also a good collection of publicly released docs on APT actors: https://github.com/kbandla/aptnotes/",
+            "timeStamp": "2017/07/07-12:28:52",
+            "id": "djwzvyj",
+            "is_submitter": false,
+            "link_id": "t3_6lth66",
+            "parent_id": "t3_6lth66",
+            "score": 2,
+            "stickied": false,
+            "author_name": "pyorre"
+        },
+        "djwt36u": {
+            "comment": "You mean this?\n\nhttps://cybermap.kaspersky.com/\n\nI'd never seen this before, it looks cool!",
+            "timeStamp": "2017/07/07-10:31:56",
+            "id": "djwt36u",
+            "is_submitter": false,
+            "link_id": "t3_6lth66",
+            "parent_id": "t3_6lth66",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Sam-Gunn"
+        },
+        "djwh7od": {
+            "comment": "Here's one: https://docs.google.com/spreadsheets/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml",
+            "timeStamp": "2017/07/07-06:59:43",
+            "id": "djwh7od",
+            "is_submitter": false,
+            "link_id": "t3_6lth66",
+            "parent_id": "t3_6lth66",
+            "score": 12,
+            "stickied": false,
+            "author_name": "superponible"
+        }
+    }
+}

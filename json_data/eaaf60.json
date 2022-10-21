@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "How to use Maltego - part 1",
+        "score": 1,
+        "id": "eaaf60",
+        "commsNum": 1,
+        "timeStamp": "2019/12/13-13:45:41",
+        "author_name": "Z3r0s3c4",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.peerlyst.com/posts/how-to-use-maltego-part-1-david-dunmore?trk=search_suggestion_query"
+    },
+    "posts": {
+        "fb4882m": {
+            "comment": "Fuck off bot",
+            "timeStamp": "2019/12/16-05:42:01",
+            "id": "fb4882m",
+            "is_submitter": false,
+            "link_id": "t3_eaaf60",
+            "parent_id": "t3_eaaf60",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RussianToCollusion"
+        }
+    }
+}

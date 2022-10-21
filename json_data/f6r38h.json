@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Worried Whether Your Mac Can Get A Virus? Let's Talk Facts",
+        "score": 1,
+        "id": "f6r38h",
+        "commsNum": 2,
+        "timeStamp": "2020/02/20-02:19:00",
+        "author_name": "Cyberthere",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.sentinelone.com/blog/worried-whether-your-mac-can-get-a-virus-lets-talk-facts/"
+    },
+    "posts": {
+        "fi6glw9": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2020/02/20-02:19:01",
+            "id": "fi6glw9",
+            "is_submitter": false,
+            "link_id": "t3_f6r38h",
+            "parent_id": "t3_f6r38h",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

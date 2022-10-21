@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Attack code exploiting critical bugs in net time sync puts servers at risk Updates available for remote code-execution vulnerabilities. Patch now!",
+        "score": 6,
+        "id": "2pxqm7",
+        "commsNum": 1,
+        "timeStamp": "2014/12/20-17:53:25",
+        "author_name": "TominatorXX",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://arstechnica.com/security/2014/12/attack-code-exploiting-critical-bugs-in-net-time-sync-puts-servers-at-risk/"
+    },
+    "posts": {}
+}

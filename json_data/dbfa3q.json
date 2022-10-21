@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "CISO &amp; SOC guide: Detecting and stopping data exfiltration via DNS",
+        "score": 0,
+        "id": "dbfa3q",
+        "commsNum": 2,
+        "timeStamp": "2019/09/30-10:47:08",
+        "author_name": "Z3r0s3c4",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.peerlyst.com/posts/ciso-and-soc-guide-detecting-and-stopping-data-exfiltration-via-dns-s-delano?trk=search_page_search_result"
+    },
+    "posts": {
+        "f2187py": {
+            "comment": "[removed]",
+            "timeStamp": "2019/09/30-11:45:09",
+            "id": "f2187py",
+            "is_submitter": false,
+            "link_id": "t3_dbfa3q",
+            "parent_id": "t1_f20zdwv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "f20zdwv": {
+            "comment": "stop spamming this garbage. you can't detect data exfiltration on a dns level. you need full visiblity into https traffic. whatever this solution is, it's worthless.",
+            "timeStamp": "2019/09/30-10:51:54",
+            "id": "f20zdwv",
+            "is_submitter": false,
+            "link_id": "t3_dbfa3q",
+            "parent_id": "t3_dbfa3q",
+            "score": 3,
+            "stickied": false,
+            "author_name": "fr0ng"
+        }
+    }
+}

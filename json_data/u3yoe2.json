@@ -1,0 +1,99 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "[removed]",
+        "title": "How can/does an identifiable language weigh into attribution?",
+        "score": 1,
+        "id": "u3yoe2",
+        "commsNum": 1,
+        "timeStamp": "2022/04/14-20:17:31",
+        "author_name": "heap-spray-n-pray",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/u3yoe2/how_candoes_an_identifiable_language_weigh_into/"
+    },
+    "posts": {
+        "i4vu9kr": {
+            "comment": "Read a couple different pieces and the had no idea, someone mentioned Russia another mentioned someone entirely different",
+            "timeStamp": "2022/04/15-14:50:12",
+            "id": "i4vu9kr",
+            "is_submitter": true,
+            "link_id": "t3_u3yoe2",
+            "parent_id": "t1_i4th9om",
+            "score": 1,
+            "stickied": false,
+            "author_name": "heap-spray-n-pray"
+        },
+        "i4vtd6v": {
+            "comment": "Gotcha, I was under the assumption the \u201cstyle\u201d schtick was an exercise in forensic psychology but I didn\u2019t know there was a fingerprinting process like the one you described. Thanks for the info",
+            "timeStamp": "2022/04/15-14:43:26",
+            "id": "i4vtd6v",
+            "is_submitter": true,
+            "link_id": "t3_u3yoe2",
+            "parent_id": "t1_i4u3l9r",
+            "score": 1,
+            "stickied": false,
+            "author_name": "heap-spray-n-pray"
+        },
+        "i4u3l9r": {
+            "comment": "I wouldn't put much weight on finding Cyrillic characters in a binary because as you stated, that's easy to tack on but if I remember correctly, the majority of the malware in the world originates in Eastern Europe so there shouldn't be much reason to fake that. Some malware strains won't even install on computers with a Cyrillic keyboard installed.\n\nMore to your question, the style of the code wouldn't tell you anything because once it's a binary, the compiler has made so many optimizations it shouldn't be recognizable. On top of that, tracing the asm is usually much more interesting than anything \"stylistic\". \n\nFor me personally, I'm always annoyed by Golang specifically because of how easy it is to strip symbols and you wind up with 100-1000 unnamed functions.",
+            "timeStamp": "2022/04/15-07:30:59",
+            "id": "i4u3l9r",
+            "is_submitter": false,
+            "link_id": "t3_u3yoe2",
+            "parent_id": "t3_u3yoe2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Fleischwulf"
+        },
+        "i4th9om": {
+            "comment": "I've only listened to a podcast about it, but I think the general consensus was that Russia was behind it?",
+            "timeStamp": "2022/04/15-04:13:30",
+            "id": "i4th9om",
+            "is_submitter": false,
+            "link_id": "t3_u3yoe2",
+            "parent_id": "t1_i4td1hf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Costinteo"
+        },
+        "i4td1hf": {
+            "comment": "Wow did some quick reading, pretty insane. Even though he went well beyond language, it seemed like it worked in that no one was able to pinpoint who it was",
+            "timeStamp": "2022/04/15-03:20:35",
+            "id": "i4td1hf",
+            "is_submitter": true,
+            "link_id": "t3_u3yoe2",
+            "parent_id": "t1_i4t9a7u",
+            "score": 1,
+            "stickied": false,
+            "author_name": "heap-spray-n-pray"
+        },
+        "i4t9a7u": {
+            "comment": "I don't know how attribution is done, but the point you made in the second paragraph is true and it has happened before. Take a look at \"Olympic Destroyer\". It had a lot of false flags and psyops to deter correct attribution.",
+            "timeStamp": "2022/04/15-02:28:19",
+            "id": "i4t9a7u",
+            "is_submitter": false,
+            "link_id": "t3_u3yoe2",
+            "parent_id": "t3_u3yoe2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Costinteo"
+        },
+        "i4sed5o": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators **and be sure to include the link to the post** - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2022/04/14-20:17:33",
+            "id": "i4sed5o",
+            "is_submitter": false,
+            "link_id": "t3_u3yoe2",
+            "parent_id": "t3_u3yoe2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

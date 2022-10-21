@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Does any modern solution to monitoring the network traffic of a honeypot from the honeypot itself exist? For use with a non virtualised honeypot.\n\nSebek has died and Qebek only supports Windows guests.",
+        "title": "The current state of linux host based high interaction honeypot monitoring?",
+        "score": 1,
+        "id": "467fdc",
+        "commsNum": 1,
+        "timeStamp": "2016/02/17-01:10:17",
+        "author_name": "fishoilmadness",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/467fdc/the_current_state_of_linux_host_based_high/"
+    },
+    "posts": {}
+}

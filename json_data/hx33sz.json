@@ -1,0 +1,220 @@
+{
+    "op": {
+        "upvote_ratio": 0.89,
+        "selftext": "",
+        "title": "[Legitimate] Mastering Malware Analysis \u2014 currently available for FREE download, only for the next 6 days by its publishers.",
+        "score": 14,
+        "id": "hx33sz",
+        "commsNum": 26,
+        "timeStamp": "2020/07/24-07:50:04",
+        "author_name": "kkaosninja",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 26,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://twitter.com/TheHackersNews/status/1286314227997712384"
+    },
+    "posts": {
+        "fzbqm3m": {
+            "comment": "Thanks! And thanks /u/kkaosninja it's a good resource",
+            "timeStamp": "2020/07/26-11:37:10",
+            "id": "fzbqm3m",
+            "is_submitter": false,
+            "link_id": "t3_hx33sz",
+            "parent_id": "t1_fz4pglj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "bong-rips-for-jesus"
+        },
+        "fz7c8fu": {
+            "comment": "Maybe /r/asknetsec ?",
+            "timeStamp": "2020/07/25-08:31:42",
+            "id": "fz7c8fu",
+            "is_submitter": false,
+            "link_id": "t3_hx33sz",
+            "parent_id": "t1_fz3rhuf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "red8lue"
+        },
+        "fz758k6": {
+            "comment": "[removed]",
+            "timeStamp": "2020/07/25-07:21:49",
+            "id": "fz758k6",
+            "is_submitter": false,
+            "link_id": "t3_hx33sz",
+            "parent_id": "t1_fz3ke8y",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fz73mzf": {
+            "comment": "[removed]",
+            "timeStamp": "2020/07/25-07:04:42",
+            "id": "fz73mzf",
+            "is_submitter": false,
+            "link_id": "t3_hx33sz",
+            "parent_id": "t3_hx33sz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fz6xzra": {
+            "comment": "I did, thanks!",
+            "timeStamp": "2020/07/25-05:57:55",
+            "id": "fz6xzra",
+            "is_submitter": false,
+            "link_id": "t3_hx33sz",
+            "parent_id": "t1_fz67fvt",
+            "score": 1,
+            "stickied": false,
+            "author_name": "trichofobia"
+        },
+        "fz67fvt": {
+            "comment": "Just use the regular link and put in fake data.",
+            "timeStamp": "2020/07/24-22:51:44",
+            "id": "fz67fvt",
+            "is_submitter": true,
+            "link_id": "t3_hx33sz",
+            "parent_id": "t1_fz4xrol",
+            "score": 1,
+            "stickied": false,
+            "author_name": "kkaosninja"
+        },
+        "fz5cl8s": {
+            "comment": "Copied it to [ufile.io](https://ufile.io/jvwz2ycv), so no need to fill out the website form. Pardon the sketchy-looking filename.",
+            "timeStamp": "2020/07/24-17:18:09",
+            "id": "fz5cl8s",
+            "is_submitter": false,
+            "link_id": "t3_hx33sz",
+            "parent_id": "t3_hx33sz",
+            "score": 4,
+            "stickied": false,
+            "author_name": "CappyRawr"
+        },
+        "fz4xrol": {
+            "comment": "\"The link to 'Mastering Malware Analysis ($39.99 Value) FREE for a  Limited Time' has expired. Please register below to get your free  download.\"\n\nDarn :(",
+            "timeStamp": "2020/07/24-15:02:23",
+            "id": "fz4xrol",
+            "is_submitter": false,
+            "link_id": "t3_hx33sz",
+            "parent_id": "t1_fz4pglj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "trichofobia"
+        },
+        "fz4qcvi": {
+            "comment": "Nope, used a temp mail and fake info",
+            "timeStamp": "2020/07/24-13:59:27",
+            "id": "fz4qcvi",
+            "is_submitter": false,
+            "link_id": "t3_hx33sz",
+            "parent_id": "t1_fz4pkv5",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Trolling_turd"
+        },
+        "fz4pkv5": {
+            "comment": "If that is your actual work email, I suggest you delete the comment asap.",
+            "timeStamp": "2020/07/24-13:53:08",
+            "id": "fz4pkv5",
+            "is_submitter": true,
+            "link_id": "t3_hx33sz",
+            "parent_id": "t1_fz4pglj",
+            "score": 2,
+            "stickied": false,
+            "author_name": "kkaosninja"
+        },
+        "fz4pglj": {
+            "comment": "heres the link incase anyone doesn't want to input their info\n\nhttps://thehackernews.tradepub.com/c/tpdownloadpage.mpl?p=w_pacb122&amp;w=d&amp;email=cejeceb943@inmail92.com&amp;key=OHVZbUBqPugrrscjgwNQ&amp;ts=23766&amp;u=1360361380161595623653&amp;e=Y2VqZWNlYjk0M0Bpbm1haWw5Mi5jb20=&amp;first=asdf&amp;o2dt=440&amp;o3dt=6&amp;i2dt=227&amp;cs=D2500&amp;utm_medium=email&amp;utm_source=transactional&amp;utm_campaign=tku-flow&amp;utm_content=tku-email&amp;utm_term=DL-CTA&amp;secure=1",
+            "timeStamp": "2020/07/24-13:52:08",
+            "id": "fz4pglj",
+            "is_submitter": false,
+            "link_id": "t3_hx33sz",
+            "parent_id": "t3_hx33sz",
+            "score": 3,
+            "stickied": false,
+            "author_name": "Trolling_turd"
+        },
+        "fz3rhuf": {
+            "comment": "I found a weird script in a community site. I tried posting it here and in /r/javascript but it got removed. Anyone know how to get help with something like that?",
+            "timeStamp": "2020/07/24-09:24:03",
+            "id": "fz3rhuf",
+            "is_submitter": false,
+            "link_id": "t3_hx33sz",
+            "parent_id": "t3_hx33sz",
+            "score": -2,
+            "stickied": false,
+            "author_name": "strange_fate"
+        },
+        "fz3oodu": {
+            "comment": "This is why I posted a link to the verified handle tweet, not the shortened URL they posted :)",
+            "timeStamp": "2020/07/24-09:01:46",
+            "id": "fz3oodu",
+            "is_submitter": true,
+            "link_id": "t3_hx33sz",
+            "parent_id": "t1_fz3obxi",
+            "score": 3,
+            "stickied": false,
+            "author_name": "kkaosninja"
+        },
+        "fz3obxi": {
+            "comment": "[Had the PDF scanned at hybrid-analysis.com](https://www.hybrid-analysis.com/sample/4dae26be4d24ca2100b38698e5068392348360ecac7281fedcdcdca9a71306e3)\n\nCame out clean.",
+            "timeStamp": "2020/07/24-08:59:04",
+            "id": "fz3obxi",
+            "is_submitter": false,
+            "link_id": "t3_hx33sz",
+            "parent_id": "t3_hx33sz",
+            "score": 3,
+            "stickied": false,
+            "author_name": "BlockBag"
+        },
+        "fz3o312": {
+            "comment": "I just scrolled through the PDF and I think you'll need a deep understanding of coding language...so this'll be a long time before I open this book again.",
+            "timeStamp": "2020/07/24-08:57:07",
+            "id": "fz3o312",
+            "is_submitter": false,
+            "link_id": "t3_hx33sz",
+            "parent_id": "t3_hx33sz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "KomputerIdiat"
+        },
+        "fz3ksaz": {
+            "comment": "Put fake data. That's what I did. Got the book.\n\nUse Guerrilla Mail or another such anonymous mail service.\n\nThere is no verification of the data.",
+            "timeStamp": "2020/07/24-08:30:30",
+            "id": "fz3ksaz",
+            "is_submitter": true,
+            "link_id": "t3_hx33sz",
+            "parent_id": "t3_hx33sz",
+            "score": 5,
+            "stickied": false,
+            "author_name": "kkaosninja"
+        },
+        "fz3ke8y": {
+            "comment": "Asking for too much information",
+            "timeStamp": "2020/07/24-08:27:17",
+            "id": "fz3ke8y",
+            "is_submitter": false,
+            "link_id": "t3_hx33sz",
+            "parent_id": "t3_hx33sz",
+            "score": 9,
+            "stickied": false,
+            "author_name": "ManOfLaBook"
+        },
+        "fz3fzgt": {
+            "comment": "[removed]",
+            "timeStamp": "2020/07/24-07:50:21",
+            "id": "fz3fzgt",
+            "is_submitter": false,
+            "link_id": "t3_hx33sz",
+            "parent_id": "t3_hx33sz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

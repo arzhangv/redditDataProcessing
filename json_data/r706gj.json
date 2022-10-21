@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "So my friend downloaded a exe application off some sketchy site and he got a notification that its malicious, I ended up going over and running it through virus total and its a trojan, he went and got his computer checked out and all is good. can anyone tell me about it?",
+        "score": 1,
+        "id": "r706gj",
+        "commsNum": 0,
+        "timeStamp": "2021/12/01-21:44:26",
+        "author_name": "UMBR4Paradox",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.virustotal.com/gui/file/11c4dbfab0936aeae92b13e02314f9529e916cf382ee3901442588bfb154e9ee/detection"
+    },
+    "posts": {}
+}

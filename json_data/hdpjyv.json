@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Such a great conference !  \n\n\nDoes anyone has a list of malicious packets signatures or any resource that could help to build an IDS ? Tod makes me wanna play around with network programming",
+        "title": "2005 Tod Beardsley about PacketFu",
+        "score": 1,
+        "id": "hdpjyv",
+        "commsNum": 1,
+        "timeStamp": "2020/06/22-03:04:32",
+        "author_name": "SumakQawsay",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/hdpjyv/2005_tod_beardsley_about_packetfu/"
+    },
+    "posts": {
+        "fwwjmx0": {
+            "comment": "[removed]",
+            "timeStamp": "2020/07/04-07:04:35",
+            "id": "fwwjmx0",
+            "is_submitter": false,
+            "link_id": "t3_hdpjyv",
+            "parent_id": "t3_hdpjyv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

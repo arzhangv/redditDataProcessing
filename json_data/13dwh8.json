@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Proof-of-concept malware can share USB smart card readers with attackers over Internet",
+        "score": 3,
+        "id": "13dwh8",
+        "commsNum": 0,
+        "timeStamp": "2012/11/17-20:47:45",
+        "author_name": "antdude",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.computerworld.com/s/article/9233697/Proof_of_concept_malware_can_share_USB_smart_card_readers_with_attackers_over_Internet"
+    },
+    "posts": {}
+}

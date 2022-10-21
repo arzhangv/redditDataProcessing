@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I don't usually download anything sketchy that could result in a trojan or anything, but today I realized there was a change in my Google chrome. It looked hacked, broken and filled with Russian letters. \nApparently I downloaded something sketchy I can't remember, and go-go tech infected my chrome. Ain't too bad I thought. The problem is, I've tried literally everything to remove it and I can't find the malware. \nI deleted all my safe add-ons on chrome, I used Malwarebytes, I checked apps and deleted stuff I considered sketch, I did so many things but nothing seems to work. Please help me guys I don't know how to fix this.",
+        "title": "Go-go tech has taken over chrome and I don't know what to do.",
+        "score": 1,
+        "id": "w0l35w",
+        "commsNum": 0,
+        "timeStamp": "2022/07/16-09:57:23",
+        "author_name": "HappyCrimson",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/w0l35w/gogo_tech_has_taken_over_chrome_and_i_dont_know/"
+    },
+    "posts": {
+        "igfgg5k": {
+            "comment": "[removed]",
+            "timeStamp": "2022/07/16-12:14:52",
+            "id": "igfgg5k",
+            "is_submitter": false,
+            "link_id": "t3_w0l35w",
+            "parent_id": "t3_w0l35w",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "igf1ipy": {
+            "comment": "Sign out of your chrome browser on every computer\n\nDelete the sync data in Chrome (don't clear passwords and what not just the rest of the sync data) \n\nScan each computer individually to clear malicious extensions. \n\nOnce the sync data is cleared and each computer is scanned individually then add computers back to chrome sync one by one. \n\nYou have to make sure you do this with every computer because Chrome sync works by adding extensions. So if one computer still has a malicious extension on it that extension will get added back to the sync.",
+            "timeStamp": "2022/07/16-10:28:26",
+            "id": "igf1ipy",
+            "is_submitter": false,
+            "link_id": "t3_w0l35w",
+            "parent_id": "t3_w0l35w",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AnApexBread"
+        }
+    }
+}

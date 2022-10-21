@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "hi there,i am looking for a malware sample which has VMescape functionality(VM to host),could anyone help if he/she has analyzed in the past?",
+        "title": "Help",
+        "score": 1,
+        "id": "efszop",
+        "commsNum": 0,
+        "timeStamp": "2019/12/26-00:25:48",
+        "author_name": "foxy429",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/efszop/help/"
+    },
+    "posts": {}
+}

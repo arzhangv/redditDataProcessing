@@ -1,0 +1,176 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "no matter what i do (malwarbites, emsisoft, spyhunter, adwcleaner)  dropper shown as a process (when i use emisoft antihijack). location  windows/temp (named xfcfa.exe or other {any other five letters}.exe if first one was removed. currently scanning and mwb shows 3 of them)  main activity - it creates 200+ lpk.dll files (mwb names it trojan.servstart) in disc C folders. and it creates 1 hra33.dll in windows/system32  (also emsisoft found  Gen:Trojan.Heur.FU - dunno if related to abovementioned events)...maybe i should do smth with registry, but afraid to touch anything i have no knowledge about as i am far from being techsavvy (just using some glaryutilities, ccleaner etc, apparently doesnot help). tnx in advance. ps: are there any other reddit groups which can help with that?  ",
+        "title": "any way to beat trojan downloader/droper?",
+        "score": 1,
+        "id": "6mz4rp",
+        "commsNum": 13,
+        "timeStamp": "2017/07/12-20:40:46",
+        "author_name": "gabber-united",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 13,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6mz4rp/any_way_to_beat_trojan_downloaderdroper/"
+    },
+    "posts": {
+        "dk90j09": {
+            "comment": "i see a process(dropperfile) which drops trojans... but no indiation of what drops the (re-emerging) dropper ",
+            "timeStamp": "2017/07/15-03:44:31",
+            "id": "dk90j09",
+            "is_submitter": true,
+            "link_id": "t3_6mz4rp",
+            "parent_id": "t1_dk7safb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "gabber-united"
+        },
+        "dk90fm0": {
+            "comment": "[deleted]",
+            "timeStamp": "2017/07/15-03:39:48",
+            "id": "dk90fm0",
+            "is_submitter": false,
+            "link_id": "t3_6mz4rp",
+            "parent_id": "t1_dk7safb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "dk8ytac": {
+            "comment": "Have you tried scannig with other av? Trendmicro, kaspersky, or esetnod? Alsp do you have the file? Try uploading it in virustotal.",
+            "timeStamp": "2017/07/15-02:12:54",
+            "id": "dk8ytac",
+            "is_submitter": false,
+            "link_id": "t3_6mz4rp",
+            "parent_id": "t3_6mz4rp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Xanster29"
+        },
+        "dk7safb": {
+            "comment": "If the malicious files keep coming back after being removed it is normally because there is something else on the machine that isn't being detected and is dropping the files. Or you have another infected machine on your network and it is dropping the files across the network. Sophos have a free tool (Source of Infection) that might help with this: www.sophos.com/kb/111505 \nbasically what you need to do is remove the malicious files, then run the tool with an admin command prompt and leave it running until the files come back. Once you spot them you can close the tool. Then go to your %temp% folder and you should find a csv file, it will list every file that has been created on the machine since you started running the tool. locate the malicious files and if it was a local process that created them it will give you the name of it, if it was a remote process it will give you the IP address of the machine that dropped them. Hope this helps.",
+            "timeStamp": "2017/07/14-08:35:22",
+            "id": "dk7safb",
+            "is_submitter": false,
+            "link_id": "t3_6mz4rp",
+            "parent_id": "t1_dk6xj68",
+            "score": 1,
+            "stickied": false,
+            "author_name": "peter_mack"
+        },
+        "dk6xj68": {
+            "comment": "well, all AV i used detect and delete viruses (dropper and multiple servstart). it just keep re-emerging somehow. however i have a problem with restart...wonder if it can affect deletion process as AV usually inform that restart is needed (i dont have restart per-se, when laptop turned off i ve got a screen with a msg about overheat (fan not working) and then i press enter and its begin loading and showing windows screen.",
+            "timeStamp": "2017/07/13-17:17:03",
+            "id": "dk6xj68",
+            "is_submitter": true,
+            "link_id": "t3_6mz4rp",
+            "parent_id": "t1_dk6sgey",
+            "score": 1,
+            "stickied": false,
+            "author_name": "gabber-united"
+        },
+        "dk6xdax": {
+            "comment": "i cannot not do without ruining the system :] never did. no-go-zone for me",
+            "timeStamp": "2017/07/13-17:13:26",
+            "id": "dk6xdax",
+            "is_submitter": true,
+            "link_id": "t3_6mz4rp",
+            "parent_id": "t1_dk699ag",
+            "score": -1,
+            "stickied": false,
+            "author_name": "gabber-united"
+        },
+        "dk6sgey": {
+            "comment": "well atleast not that i know of but most endpoint antivirus detects it ",
+            "timeStamp": "2017/07/13-15:26:50",
+            "id": "dk6sgey",
+            "is_submitter": false,
+            "link_id": "t3_6mz4rp",
+            "parent_id": "t1_dk5j8b7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "killmasta93"
+        },
+        "dk6czx0": {
+            "comment": "Go to /r/techsupport for malware removal help",
+            "timeStamp": "2017/07/13-10:45:38",
+            "id": "dk6czx0",
+            "is_submitter": false,
+            "link_id": "t3_6mz4rp",
+            "parent_id": "t3_6mz4rp",
+            "score": 3,
+            "stickied": false,
+            "author_name": "Drivingmecrazeh"
+        },
+        "dk699ag": {
+            "comment": "When it comes to malware that's your only option. Otherwise you can never trust the system to be secure. ",
+            "timeStamp": "2017/07/13-09:42:12",
+            "id": "dk699ag",
+            "is_submitter": false,
+            "link_id": "t3_6mz4rp",
+            "parent_id": "t1_dk68s4c",
+            "score": 5,
+            "stickied": false,
+            "author_name": "phrozen_one"
+        },
+        "dk68s4c": {
+            "comment": "not an option! ",
+            "timeStamp": "2017/07/13-09:34:04",
+            "id": "dk68s4c",
+            "is_submitter": true,
+            "link_id": "t3_6mz4rp",
+            "parent_id": "t1_dk5vx1k",
+            "score": -1,
+            "stickied": false,
+            "author_name": "gabber-united"
+        },
+        "dk5vx1k": {
+            "comment": "Wipe the machine and rebuild. ",
+            "timeStamp": "2017/07/13-05:17:51",
+            "id": "dk5vx1k",
+            "is_submitter": false,
+            "link_id": "t3_6mz4rp",
+            "parent_id": "t3_6mz4rp",
+            "score": 7,
+            "stickied": false,
+            "author_name": "phrozen_one"
+        },
+        "dk5tr2j": {
+            "comment": "[removed]",
+            "timeStamp": "2017/07/13-04:08:30",
+            "id": "dk5tr2j",
+            "is_submitter": false,
+            "link_id": "t3_6mz4rp",
+            "parent_id": "t3_6mz4rp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "dk5j8b7": {
+            "comment": "not sure i opened any email/ any simple solution?...like dunno, special antidroper malware targeting and eliminating completely such trojans? -_-",
+            "timeStamp": "2017/07/12-21:30:24",
+            "id": "dk5j8b7",
+            "is_submitter": true,
+            "link_id": "t3_6mz4rp",
+            "parent_id": "t1_dk5iums",
+            "score": 0,
+            "stickied": false,
+            "author_name": "gabber-united"
+        },
+        "dk5iums": {
+            "comment": "well yes the droper comes in though email i recommend scrolloutf1 for email gateway",
+            "timeStamp": "2017/07/12-21:20:39",
+            "id": "dk5iums",
+            "is_submitter": false,
+            "link_id": "t3_6mz4rp",
+            "parent_id": "t3_6mz4rp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "killmasta93"
+        }
+    }
+}

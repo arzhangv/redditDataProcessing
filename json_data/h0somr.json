@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": 0.64,
+        "selftext": "For my previous question I got a lot of good answers.\nThis is my 2nd ques... What do you guys suggest for lab..\nLaptop or desktop...\nLaptop 4core 8thread\nDesktop 6core 12thread. No power backup lol..\nPro's and con's will be so much helpful.\n\nThanks",
+        "title": "Lab suggestion:- laptop vs desktop",
+        "score": 3,
+        "id": "h0somr",
+        "commsNum": 6,
+        "timeStamp": "2020/06/10-22:14:06",
+        "author_name": "ci9her",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/h0somr/lab_suggestion_laptop_vs_desktop/"
+    },
+    "posts": {
+        "ftq6y9t": {
+            "comment": "Server running Hyper-V or ESXi.\n\nIf that's not an option, desktop running the same.",
+            "timeStamp": "2020/06/11-12:28:05",
+            "id": "ftq6y9t",
+            "is_submitter": false,
+            "link_id": "t3_h0somr",
+            "parent_id": "t3_h0somr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "wmassingham"
+        },
+        "ftov535": {
+            "comment": "Or making one strong one on desktop, and accessing that desktop remotely from your laptop (assuming you'd have fast internet connection on the go).",
+            "timeStamp": "2020/06/11-05:45:51",
+            "id": "ftov535",
+            "is_submitter": false,
+            "link_id": "t3_h0somr",
+            "parent_id": "t1_fto2sfy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "rameezrehman408"
+        },
+        "ftoctap": {
+            "comment": "[removed]",
+            "timeStamp": "2020/06/11-01:20:42",
+            "id": "ftoctap",
+            "is_submitter": false,
+            "link_id": "t3_h0somr",
+            "parent_id": "t3_h0somr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fto8noq": {
+            "comment": "[removed]",
+            "timeStamp": "2020/06/11-00:15:41",
+            "id": "fto8noq",
+            "is_submitter": false,
+            "link_id": "t3_h0somr",
+            "parent_id": "t3_h0somr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fto2sfy": {
+            "comment": "Yeah.. so I was thinking.. making two labs .. one on laptop and one on desktop.",
+            "timeStamp": "2020/06/10-22:52:02",
+            "id": "fto2sfy",
+            "is_submitter": true,
+            "link_id": "t3_h0somr",
+            "parent_id": "t1_fto28g8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ci9her"
+        },
+        "fto28g8": {
+            "comment": "Imo, the more power (no not the electrical kind) the better. That desktop one sounds more future-proof. If you plan to take it and move around a lot, then maybe the laptop",
+            "timeStamp": "2020/06/10-22:44:37",
+            "id": "fto28g8",
+            "is_submitter": false,
+            "link_id": "t3_h0somr",
+            "parent_id": "t3_h0somr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Schnitzel725"
+        }
+    }
+}

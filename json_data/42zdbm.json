@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Inside VirusTotal's pants: Putting the spotlight on firmware malware",
+        "score": 25,
+        "id": "42zdbm",
+        "commsNum": 0,
+        "timeStamp": "2016/01/27-12:06:31",
+        "author_name": "blowupbadguys",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://blog.virustotal.com/2016/01/putting-spotlight-on-firmware-malware_27.html"
+    },
+    "posts": {}
+}

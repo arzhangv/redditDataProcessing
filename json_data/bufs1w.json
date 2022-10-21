@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "HiddenWasp Malware Stings Targeted Linux Systems",
+        "score": 33,
+        "id": "bufs1w",
+        "commsNum": 3,
+        "timeStamp": "2019/05/29-08:04:56",
+        "author_name": "DrinkMoreCodeMore",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.intezer.com/blog-hiddenwasp-malware-targeting-linux-systems/"
+    },
+    "posts": {
+        "epid6n7": {
+            "comment": "Is there an easy way to detect if a Linux box is infected? Pretty new to Linux unfortunately :/",
+            "timeStamp": "2019/05/30-10:31:35",
+            "id": "epid6n7",
+            "is_submitter": false,
+            "link_id": "t3_bufs1w",
+            "parent_id": "t3_bufs1w",
+            "score": 2,
+            "stickied": false,
+            "author_name": "supersecretsquirel"
+        },
+        "epgjhw5": {
+            "comment": "That is pretty wild.",
+            "timeStamp": "2019/05/30-04:05:44",
+            "id": "epgjhw5",
+            "is_submitter": false,
+            "link_id": "t3_bufs1w",
+            "parent_id": "t3_bufs1w",
+            "score": 2,
+            "stickied": false,
+            "author_name": "blynd"
+        },
+        "epfs6fq": {
+            "comment": "/r/titlegore",
+            "timeStamp": "2019/05/30-00:20:07",
+            "id": "epfs6fq",
+            "is_submitter": false,
+            "link_id": "t3_bufs1w",
+            "parent_id": "t3_bufs1w",
+            "score": 3,
+            "stickied": false,
+            "author_name": "vesche"
+        }
+    }
+}

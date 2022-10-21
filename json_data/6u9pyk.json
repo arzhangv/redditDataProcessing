@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "is there any technology other than machine learning or data mining that can be used for malware  research.",
+        "title": "malware analysis and detection",
+        "score": 2,
+        "id": "6u9pyk",
+        "commsNum": 5,
+        "timeStamp": "2017/08/17-05:48:07",
+        "author_name": "DDEKA2017",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6u9pyk/malware_analysis_and_detection/"
+    },
+    "posts": {
+        "dmbit1y": {
+            "comment": "Malware is really generic word that covers various types of malicious software elements. Normally malware was detected using by syntax based manners that effort to detect a particular of the creation of a malware terms. However, these techniques are not able to detect previously unseen malware components, and, most notably, polymorphic malware. ",
+            "timeStamp": "2017/08/30-00:44:19",
+            "id": "dmbit1y",
+            "is_submitter": false,
+            "link_id": "t3_6u9pyk",
+            "parent_id": "t3_6u9pyk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "grogerysolberg"
+        },
+        "dlsvtbn": {
+            "comment": "Thank you for your reply . Actually, I want to do academic research on malware analysis and detection. In that regards i want to know about current sate of art for malware research field.",
+            "timeStamp": "2017/08/18-08:17:13",
+            "id": "dlsvtbn",
+            "is_submitter": true,
+            "link_id": "t3_6u9pyk",
+            "parent_id": "t1_dlsnfg4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DDEKA2017"
+        },
+        "dlsnfg4": {
+            "comment": "Well, you can use a Forensic VM box, Hex editors and a million other tools depending on what you need. If you could be specific with your end goal, I may be able to recommend you proper tools for it.",
+            "timeStamp": "2017/08/18-05:22:25",
+            "id": "dlsnfg4",
+            "is_submitter": false,
+            "link_id": "t3_6u9pyk",
+            "parent_id": "t3_6u9pyk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "JoshRosserino"
+        },
+        "dlrzjf3": {
+            "comment": "Google cuckoo sandbox",
+            "timeStamp": "2017/08/17-17:09:10",
+            "id": "dlrzjf3",
+            "is_submitter": false,
+            "link_id": "t3_6u9pyk",
+            "parent_id": "t3_6u9pyk",
+            "score": 2,
+            "stickied": false,
+            "author_name": "gbdavidx"
+        },
+        "dlrkq4h": {
+            "comment": "What do you mean exactly? What do you want to achieve? It's hard to answer without details.",
+            "timeStamp": "2017/08/17-12:29:32",
+            "id": "dlrkq4h",
+            "is_submitter": false,
+            "link_id": "t3_6u9pyk",
+            "parent_id": "t3_6u9pyk",
+            "score": 2,
+            "stickied": false,
+            "author_name": "tr4cefl0w"
+        }
+    }
+}

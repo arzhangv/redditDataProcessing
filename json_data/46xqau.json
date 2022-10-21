@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Explaining LinuxMint ISO image backdoor:\n\nI wrote additional notes on HOW Tsunami/Kaiten malware becomes the chosen hacktool by these hackers. We are under-estimating many facts about this malware family and its descendants.. \n\nLink:\n\nhttp://blog.malwaremustdie.org/2016/02/mmd-0052-2016-skidddos-elf-distribution.html#tsunami \u2026",
+        "title": "Why Tsunami malware was used? (my answer)",
+        "score": 4,
+        "id": "46xqau",
+        "commsNum": 1,
+        "timeStamp": "2016/02/21-14:42:20",
+        "author_name": "mmd0xFF",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/46xqau/why_tsunami_malware_was_used_my_answer/"
+    },
+    "posts": {}
+}

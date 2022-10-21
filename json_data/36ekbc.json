@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I'm analyzing some samples, and although I do my best to analyze it in a sanitized environment (with the least traffic noise possible), my WireShark is still flooded with loads of useless information.\n\nI've tried using ProcMon to determine the IP addresses that the executable is communicating with, but I feel like this isn't the right way and I might miss important traffic.\n\nI've also tried to use FakeNet which is generating the most amazing and useful PCAPs for the traffic it captures, but again, I'm getting the feeling that it misses a lot of important traffic.\n\nWhat do you suggest?",
+        "title": "How do you filter out benign traffic in WireShark while analyzing malware?",
+        "score": 8,
+        "id": "36ekbc",
+        "commsNum": 6,
+        "timeStamp": "2015/05/18-12:48:48",
+        "author_name": "eran-",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/36ekbc/how_do_you_filter_out_benign_traffic_in_wireshark/"
+    },
+    "posts": {}
+}

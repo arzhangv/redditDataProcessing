@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Modeling Zero Day Malware Spread",
+        "score": 6,
+        "id": "2yku4k",
+        "commsNum": 0,
+        "timeStamp": "2015/03/10-10:28:56",
+        "author_name": "lqdc13",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://lqdc.github.io/modeling-zero-day-malware-spread.html"
+    },
+    "posts": {}
+}

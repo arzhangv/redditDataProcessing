@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[deleted]",
+        "title": "Malware can be copied or purchased by a new adversary. The adversaries update their malware and exploit kits, along with their attack vectors in order to stay ahead of detection efforts.",
+        "score": 1,
+        "id": "3rmru3",
+        "commsNum": 0,
+        "timeStamp": "2015/11/05-06:36:10",
+        "author_name": "[deleted]",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://icitech.org/icit-brief-know-your-enemies-a-primer-on-advanced-persistent-threat-groups/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Are there any good methods/features to detect .NET Malware samples statically? Like looking at the PE file and it's headers without having to explode it in a Sandbox.",
+        "title": ".NET Malware",
+        "score": 1,
+        "id": "r7enuj",
+        "commsNum": 3,
+        "timeStamp": "2021/12/02-11:06:01",
+        "author_name": "Avinbihari",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/r7enuj/net_malware/"
+    },
+    "posts": {
+        "hos354k": {
+            "comment": "Detecting strange thing in headers would be the same as trying to detect some specific obfuscators/protectors. It highly relies on the obfuscators used so you'd have to code differents methods. \n\nMoreover, you wont detect a \"malware\", you will most likely detect an obfuscator, not a malware per se.\n\nAlso, many obfuscators are used on commercial software and not only malware.\n\nI am working on my own tool to extract config from malware or at least identify them and its hard to find a pattern that cover everything. I rely mainly on the IL code patterns, functions patterns, references to certain libraries, strings, etc.. But all is tied up to specific malware patterns. I have very few generic detections for Chrome-like stealers, discord stealers, etc.. but its only kinda... not good.",
+            "timeStamp": "2021/12/16-05:52:57",
+            "id": "hos354k",
+            "is_submitter": false,
+            "link_id": "t3_r7enuj",
+            "parent_id": "t3_r7enuj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RCEdude"
+        },
+        "hn68jaz": {
+            "comment": "[removed]",
+            "timeStamp": "2021/12/03-23:51:25",
+            "id": "hn68jaz",
+            "is_submitter": false,
+            "link_id": "t3_r7enuj",
+            "parent_id": "t3_r7enuj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hn1wbii": {
+            "comment": "[removed]",
+            "timeStamp": "2021/12/03-02:26:47",
+            "id": "hn1wbii",
+            "is_submitter": false,
+            "link_id": "t3_r7enuj",
+            "parent_id": "t3_r7enuj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hmztsfm": {
+            "comment": "[removed]",
+            "timeStamp": "2021/12/02-15:00:35",
+            "id": "hmztsfm",
+            "is_submitter": false,
+            "link_id": "t3_r7enuj",
+            "parent_id": "t3_r7enuj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

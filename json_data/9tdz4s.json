@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Well , I'm starting to reverse malware. The point is that the only languages I understand fairly well are C &amp; Python (and other languages).\n\nObviously , I'm starting to learn ASM x86 with NASM as assembler.\n\nDo you guys know any good sites / books with whom I can learn how to understand and write efficient code in ASM from scratch?\n\nAlso , a knowledge of C &amp; ASM should be enough for RE, right?\n\nThanks in advance for your answers!",
+        "title": "C &amp; ASM for Reversing? Is it enough?",
+        "score": 1,
+        "id": "9tdz4s",
+        "commsNum": 4,
+        "timeStamp": "2018/11/01-14:59:40",
+        "author_name": "unkn0wncoder",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/9tdz4s/c_asm_for_reversing_is_it_enough/"
+    },
+    "posts": {
+        "eal9c4y": {
+            "comment": "Thanks! I know that site and I have the PDF of Practical Malware Analysis.\n\nThanks for the advices though!",
+            "timeStamp": "2018/11/27-11:24:13",
+            "id": "eal9c4y",
+            "is_submitter": true,
+            "link_id": "t3_9tdz4s",
+            "parent_id": "t1_eal7r8t",
+            "score": 3,
+            "stickied": false,
+            "author_name": "unkn0wncoder"
+        },
+        "eal7r8t": {
+            "comment": "You may want to have a look at [https://beginners.re/](https://beginners.re/) (if I recall correctly, this e-book describes common patterns in binaries, how C++ classes represented in binary). There is also \"Practical Malware Analysis\" (not free but you can find PDFs of it)\n\n&amp;#x200B;\n\nOf course the best way to learn about reversing is practice (as usual), there are tons of crackmes and \"simple\" malware samples to begin with :)",
+            "timeStamp": "2018/11/27-11:05:54",
+            "id": "eal7r8t",
+            "is_submitter": false,
+            "link_id": "t3_9tdz4s",
+            "parent_id": "t3_9tdz4s",
+            "score": 2,
+            "stickied": false,
+            "author_name": "aaSSfxxx"
+        },
+        "e8xmlao": {
+            "comment": "I would say C/C++ , ASM, and .NET as I\u2019ve seen some of those in the wild. Python portion is for the automation tasks for RE",
+            "timeStamp": "2018/11/02-12:59:43",
+            "id": "e8xmlao",
+            "is_submitter": false,
+            "link_id": "t3_9tdz4s",
+            "parent_id": "t3_9tdz4s",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Ryancor"
+        },
+        "e8vjx6e": {
+            "comment": "[removed]",
+            "timeStamp": "2018/11/01-14:59:41",
+            "id": "e8vjx6e",
+            "is_submitter": false,
+            "link_id": "t3_9tdz4s",
+            "parent_id": "t3_9tdz4s",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

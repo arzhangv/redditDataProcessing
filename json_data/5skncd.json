@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Phishme observed operators behind Locky and Sage ransomware share delivery infrastructure",
+        "score": 1,
+        "id": "5skncd",
+        "commsNum": 0,
+        "timeStamp": "2017/02/07-02:24:40",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/56066/malware/sage-locky-delivery-infrastructure.html"
+    },
+    "posts": {}
+}

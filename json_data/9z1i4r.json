@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Discovered 13 malicious apps on Google Play with over 560,000 installs",
+        "score": 1,
+        "id": "9z1i4r",
+        "commsNum": 4,
+        "timeStamp": "2018/11/21-00:44:44",
+        "author_name": "barakadua131",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://twitter.com/LukasStefanko/status/1064507886896844800?s=19"
+    },
+    "posts": {
+        "ea61kmo": {
+            "comment": "Please, no more google play news",
+            "timeStamp": "2018/11/21-06:41:17",
+            "id": "ea61kmo",
+            "is_submitter": false,
+            "link_id": "t3_9z1i4r",
+            "parent_id": "t3_9z1i4r",
+            "score": 1,
+            "stickied": true,
+            "author_name": "edward_snowedin"
+        },
+        "ea5otnl": {
+            "comment": "Sarcastic. This headline is constant and I wish Google would do more to address the Play store. After all, Google DID cause the chaos with Meltdown and Spectre, even though research dates back to 1995 on that subject. The laziness regarding apps is kind of confusing. Lazy really.  ",
+            "timeStamp": "2018/11/21-01:54:57",
+            "id": "ea5otnl",
+            "is_submitter": false,
+            "link_id": "t3_9z1i4r",
+            "parent_id": "t1_ea5okx7",
+            "score": 4,
+            "stickied": false,
+            "author_name": "taterthotsalad"
+        },
+        "ea5okx7": {
+            "comment": "36 more? Do you have link?",
+            "timeStamp": "2018/11/21-01:46:53",
+            "id": "ea5okx7",
+            "is_submitter": true,
+            "link_id": "t3_9z1i4r",
+            "parent_id": "t1_ea5ojqj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "barakadua131"
+        },
+        "ea5ojqj": {
+            "comment": "THIS JUST IN: 36 more found overnight. Rinse and repeat. Google fix this shit! Your waffling is annoying regarding security. ",
+            "timeStamp": "2018/11/21-01:45:48",
+            "id": "ea5ojqj",
+            "is_submitter": false,
+            "link_id": "t3_9z1i4r",
+            "parent_id": "t3_9z1i4r",
+            "score": 4,
+            "stickied": false,
+            "author_name": "taterthotsalad"
+        }
+    }
+}

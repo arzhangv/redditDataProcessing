@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Having fun with PE files and GoLang",
+        "score": 4,
+        "id": "367n9o",
+        "commsNum": 0,
+        "timeStamp": "2015/05/16-16:19:49",
+        "author_name": "guitmz",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://vx.thomazi.me/posts/having-fun-with-pe-files-and-golang/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Context Menu Persistance using DLL Hijacking",
+        "score": 1,
+        "id": "fkvl9l",
+        "commsNum": 0,
+        "timeStamp": "2020/03/18-12:34:13",
+        "author_name": "proccpuinfo",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://b.ou.is/articles/2020-03/context-menu-persistance"
+    },
+    "posts": {}
+}

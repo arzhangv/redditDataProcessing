@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hi there, I am looking for IDA plug-ins to help me in the static malware analysis. Like deoffuscate strings, similarity with another sample, if the API is used by another malicious sample, family label of the current sample I am working on.\n\n\nThanks",
+        "title": "IDA plugins",
+        "score": 1,
+        "id": "umf6i1",
+        "commsNum": 0,
+        "timeStamp": "2022/05/10-03:02:47",
+        "author_name": "0X900",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/umf6i1/ida_plugins/"
+    },
+    "posts": {
+        "i8kwf40": {
+            "comment": "[removed]",
+            "timeStamp": "2022/05/14-07:32:33",
+            "id": "i8kwf40",
+            "is_submitter": false,
+            "link_id": "t3_umf6i1",
+            "parent_id": "t3_umf6i1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "i81er72": {
+            "comment": "Thanks alot",
+            "timeStamp": "2022/05/10-04:39:39",
+            "id": "i81er72",
+            "is_submitter": true,
+            "link_id": "t3_umf6i1",
+            "parent_id": "t1_i81elzc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "0X900"
+        },
+        "i81elzc": {
+            "comment": "For string deobfuscation you can start with [https://blog.securitybreak.io/reverse-engineering-tips-strings-deobfuscation-with-floss-9424417e285d](https://blog.securitybreak.io/reverse-engineering-tips-strings-deobfuscation-with-floss-9424417e285d)\n\nFor the other questions, I guess you need something else because you need to extract some information to classify malware and to identify eventually a family or similarity with other stuff.",
+            "timeStamp": "2022/05/10-04:38:09",
+            "id": "i81elzc",
+            "is_submitter": false,
+            "link_id": "t3_umf6i1",
+            "parent_id": "t3_umf6i1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "wolfcod"
+        }
+    }
+}

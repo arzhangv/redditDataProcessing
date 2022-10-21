@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "help i keep getting these ads non stop( appears occasionally) i used an antivrus it wont detect, i checked notification nothing is there, i checked coookies nothing there, i checked task manager nothing seems to run suspiciously, i checked extensions and still nothing...what should i do here",
+        "score": 1,
+        "id": "s9q73s",
+        "commsNum": 1,
+        "timeStamp": "2022/01/21-17:04:44",
+        "author_name": "One_Ant5484",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://i.redd.it/fui7o2qs15d81.jpg"
+    },
+    "posts": {
+        "htogyxi": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators **and be sure to include the link to the post** - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2022/01/21-17:04:46",
+            "id": "htogyxi",
+            "is_submitter": false,
+            "link_id": "t3_s9q73s",
+            "parent_id": "t3_s9q73s",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

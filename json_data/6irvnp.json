@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Honda halted production in a factory after finding WannaCry traces in its networks",
+        "score": 1,
+        "id": "6irvnp",
+        "commsNum": 0,
+        "timeStamp": "2017/06/22-00:00:12",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/60314/malware/wannacry-honda-plant-halt.html"
+    },
+    "posts": {}
+}

@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "A dozen malicious PyPi packages have been discovered installing malware that modifies the Discord client to become an information-sealing backdoor and stealing data from web browsers and Roblox.",
+        "score": 1,
+        "id": "wr4r3d",
+        "commsNum": 0,
+        "timeStamp": "2022/08/17-17:23:28",
+        "author_name": "Late_Ice_9288",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.bleepingcomputer.com/news/security/malicious-pypi-packages-turn-discord-into-password-stealing-malware/"
+    },
+    "posts": {
+        "iku1vri": {
+            "comment": "very scummy. Discord is already an information stealing client for tencent though so status quo.",
+            "timeStamp": "2022/08/18-12:22:00",
+            "id": "iku1vri",
+            "is_submitter": false,
+            "link_id": "t3_wr4r3d",
+            "parent_id": "t3_wr4r3d",
+            "score": 1,
+            "stickied": false,
+            "author_name": "HollowSavant"
+        },
+        "iktnbvb": {
+            "comment": "[removed]",
+            "timeStamp": "2022/08/18-10:48:32",
+            "id": "iktnbvb",
+            "is_submitter": false,
+            "link_id": "t3_wr4r3d",
+            "parent_id": "t3_wr4r3d",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

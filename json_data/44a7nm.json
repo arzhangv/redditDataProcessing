@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Mystery hacker pwns Dridex Trojan botnet... to serve antivirus installer",
+        "score": 62,
+        "id": "44a7nm",
+        "commsNum": 3,
+        "timeStamp": "2016/02/05-02:01:12",
+        "author_name": "sevaaraii",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.theregister.co.uk/2016/02/04/dridex_botnet_pwned/"
+    },
+    "posts": {}
+}

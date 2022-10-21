@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I've read that more and more malware is proxy-aware, but don't know the real numbers or percentages. Just wondering if this approach is still worth it in the Enterprise.",
+        "title": "Is using a web proxy / sinkhole approach to detect call home still viable?",
+        "score": 2,
+        "id": "6c8ljb",
+        "commsNum": 2,
+        "timeStamp": "2017/05/19-21:41:00",
+        "author_name": "Heisenberg1977",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6c8ljb/is_using_a_web_proxy_sinkhole_approach_to_detect/"
+    },
+    "posts": {}
+}

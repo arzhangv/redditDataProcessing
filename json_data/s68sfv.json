@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hello, I am trying to find something alternative to VirusShare. I am having problems with VirusShare, which is there's a 1 minute limit time and slow searching, I want something that is with over 1 minute or unlimited time to search and that you can search with detection or sha256, is there any alternatives? Thanks",
+        "title": "Alternatives to VirusShare",
+        "score": 1,
+        "id": "s68sfv",
+        "commsNum": 0,
+        "timeStamp": "2022/01/17-09:01:25",
+        "author_name": "RainbowIsRainbow",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/s68sfv/alternatives_to_virusshare/"
+    },
+    "posts": {
+        "ht6sbdb": {
+            "comment": "[removed]",
+            "timeStamp": "2022/01/18-07:44:30",
+            "id": "ht6sbdb",
+            "is_submitter": false,
+            "link_id": "t3_s68sfv",
+            "parent_id": "t3_s68sfv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ht247kg": {
+            "comment": "There is also something like: hxxps://support.clean-mx.com/clean-mx/viruses.php, but it seems dead.",
+            "timeStamp": "2022/01/17-09:06:48",
+            "id": "ht247kg",
+            "is_submitter": true,
+            "link_id": "t3_s68sfv",
+            "parent_id": "t3_s68sfv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RainbowIsRainbow"
+        }
+    }
+}

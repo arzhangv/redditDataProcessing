@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Analyzing a New MIPS IoT Malware With JEB",
+        "score": 1,
+        "id": "68ni4r",
+        "commsNum": 0,
+        "timeStamp": "2017/05/01-10:50:18",
+        "author_name": "j04n_",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.pnfsoftware.com/blog/analyzing-mips-iot-malware-with-jeb/"
+    },
+    "posts": {}
+}

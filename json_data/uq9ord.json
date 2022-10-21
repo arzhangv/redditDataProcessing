@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "So I know that malware can replace files and my mom3 file got corrupted after moving it to my MP3 players is it possible that it's malware",
+        "title": "mp3 file random corruption",
+        "score": 1,
+        "id": "uq9ord",
+        "commsNum": 0,
+        "timeStamp": "2022/05/15-09:27:46",
+        "author_name": "Strong_Sea_2464",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/uq9ord/mp3_file_random_corruption/"
+    },
+    "posts": {
+        "i8pzic4": {
+            "comment": "Wtf is a mom3 file",
+            "timeStamp": "2022/05/15-11:01:52",
+            "id": "i8pzic4",
+            "is_submitter": false,
+            "link_id": "t3_uq9ord",
+            "parent_id": "t3_uq9ord",
+            "score": 1,
+            "stickied": false,
+            "author_name": "epicpotatoe_"
+        }
+    }
+}

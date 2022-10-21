@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I recently found an open source botnet, here:\n\n    https://github.com/whitepacket/ZIB-Trojan\n\nIt seems pretty interesting as it has a lot of features and is coded in Python, but I don't fully understand what it is or how it works. I know that it is a botnet and I have a rough idea of how botnets work, but I don't understand why bitcoin is needed and also what the purpose of the payment system is and what all the \"channels\" are as it is not descirbed very well in the readme. Could someone explain to me simply how this particular botnet works? Many thanks!",
+        "title": "Could someone explain what this malware is/how it works?",
+        "score": 15,
+        "id": "3xuexw",
+        "commsNum": 6,
+        "timeStamp": "2015/12/22-07:42:42",
+        "author_name": "l0n3_w4nder3r",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/3xuexw/could_someone_explain_what_this_malware_ishow_it/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Swrort PowerShell Stager Analysis [PDF]",
+        "score": 1,
+        "id": "ea7tdj",
+        "commsNum": 5,
+        "timeStamp": "2019/12/13-10:31:44",
+        "author_name": "kindredsec",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://github.com/itsKindred/malware-analysis-writeups/blob/master/swrort-dropper/swrort-stager-analysis.pdf"
+    },
+    "posts": {
+        "fatxg9h": {
+            "comment": "PDF's are one of the most common reporting formats, and regardless, it's hosted directly on github and you don't even have to download it. Fix your threat model.",
+            "timeStamp": "2019/12/14-08:54:50",
+            "id": "fatxg9h",
+            "is_submitter": true,
+            "link_id": "t3_ea7tdj",
+            "parent_id": "t1_farcp7g",
+            "score": 1,
+            "stickied": false,
+            "author_name": "kindredsec"
+        },
+        "fars28s": {
+            "comment": "[removed]",
+            "timeStamp": "2019/12/14-02:31:58",
+            "id": "fars28s",
+            "is_submitter": false,
+            "link_id": "t3_ea7tdj",
+            "parent_id": "t3_ea7tdj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "farcp7g": {
+            "comment": "How about not using the world's most exploitable format on a malware research forum?",
+            "timeStamp": "2019/12/14-01:10:55",
+            "id": "farcp7g",
+            "is_submitter": false,
+            "link_id": "t3_ea7tdj",
+            "parent_id": "t3_ea7tdj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "bong-rips-for-jesus"
+        },
+        "fapac45": {
+            "comment": "lol it's github.",
+            "timeStamp": "2019/12/13-16:39:01",
+            "id": "fapac45",
+            "is_submitter": false,
+            "link_id": "t3_ea7tdj",
+            "parent_id": "t1_faona8e",
+            "score": 1,
+            "stickied": false,
+            "author_name": "dmximposter"
+        },
+        "faona8e": {
+            "comment": "I am not clicking that pdf link \ud83d\ude0e",
+            "timeStamp": "2019/12/13-12:16:03",
+            "id": "faona8e",
+            "is_submitter": false,
+            "link_id": "t3_ea7tdj",
+            "parent_id": "t3_ea7tdj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "xoxaxo"
+        }
+    }
+}

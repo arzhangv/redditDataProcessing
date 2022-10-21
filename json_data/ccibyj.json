@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "By verified I mean that they were in the r/Piracy megathread and were popular guides in r/Piracy. I know this is a dumb question but is my PC actually compromised or not? The reason I'm so hesitant is because in the guide it was specifically stated ignore if Windows Defender states that it's a trojan, but I feel like thats a trap.\n\n&amp;#x200B;\n\nThanks so much! \n\nhttps://i.redd.it/04u2qmzbjy931.png",
+        "title": "I downloaded some pirated software and torrents from \"verified\" publishers",
+        "score": 0,
+        "id": "ccibyj",
+        "commsNum": 6,
+        "timeStamp": "2019/07/12-16:32:34",
+        "author_name": "anotheroneflew",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ccibyj/i_downloaded_some_pirated_software_and_torrents/"
+    },
+    "posts": {
+        "etphj4q": {
+            "comment": "Sorry I should have read the rules",
+            "timeStamp": "2019/07/13-15:06:56",
+            "id": "etphj4q",
+            "is_submitter": true,
+            "link_id": "t3_ccibyj",
+            "parent_id": "t1_etphhu4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "anotheroneflew"
+        },
+        "etphhu4": {
+            "comment": "This is not a subreddit for this type of question.  Thread removed.\n\n\nPlease redirect questions related to malware removal to /r/antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware",
+            "timeStamp": "2019/07/13-15:06:27",
+            "id": "etphhu4",
+            "is_submitter": false,
+            "link_id": "t3_ccibyj",
+            "parent_id": "t3_ccibyj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mjuad"
+        },
+        "etof6ge": {
+            "comment": "If you're infected, I guess that's what you get for attempting to steal people's work \ud83e\udd37\u200d\u2642\ufe0f\ud83e\udd37\u200d\u2642\ufe0f\ud83e\udd37\u200d\u2642\ufe0f",
+            "timeStamp": "2019/07/13-06:50:24",
+            "id": "etof6ge",
+            "is_submitter": false,
+            "link_id": "t3_ccibyj",
+            "parent_id": "t3_ccibyj",
+            "score": 0,
+            "stickied": false,
+            "author_name": "__deerlord__"
+        },
+        "etoerv7": {
+            "comment": "That's legitimate software.\n\n&amp;#x200B;\n\nIt's used by people to earn money from the pirated materials they're giving away.",
+            "timeStamp": "2019/07/13-06:44:20",
+            "id": "etoerv7",
+            "is_submitter": false,
+            "link_id": "t3_ccibyj",
+            "parent_id": "t3_ccibyj",
+            "score": 3,
+            "stickied": false,
+            "author_name": "JulienneDelphiki"
+        },
+        "etn9a4l": {
+            "comment": "Good for you?",
+            "timeStamp": "2019/07/12-18:13:17",
+            "id": "etn9a4l",
+            "is_submitter": false,
+            "link_id": "t3_ccibyj",
+            "parent_id": "t3_ccibyj",
+            "score": 2,
+            "stickied": false,
+            "author_name": "ImaginaryProfit"
+        },
+        "etn32qo": {
+            "comment": "Wrong sub and oh my!",
+            "timeStamp": "2019/07/12-16:49:26",
+            "id": "etn32qo",
+            "is_submitter": false,
+            "link_id": "t3_ccibyj",
+            "parent_id": "t3_ccibyj",
+            "score": 4,
+            "stickied": false,
+            "author_name": "slothmad"
+        }
+    }
+}

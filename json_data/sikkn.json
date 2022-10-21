@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Digging Into the Nitol DDoS Botnet",
+        "score": 2,
+        "id": "sikkn",
+        "commsNum": 0,
+        "timeStamp": "2012/04/19-15:21:39",
+        "author_name": "ekse",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": null,
+        "url": "http://blogs.mcafee.com/mcafee-labs/digging-into-the-nitol-ddos-botnet"
+    },
+    "posts": {}
+}

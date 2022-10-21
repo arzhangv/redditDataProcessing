@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Implementing Malware Command and Control Using Major CDNs and High-Traffic Domains",
+        "score": 1,
+        "id": "6o63ti",
+        "commsNum": 0,
+        "timeStamp": "2017/07/18-21:10:54",
+        "author_name": "fireh7nter",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.cyberark.com/threat-research-blog/implementing-malware-command-control-using-major-cdns-high-traffic-domains/"
+    },
+    "posts": {}
+}

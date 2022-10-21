@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Hacker uses new RAT malware, unseen tactics, techniques, and procedures (TTPs), including a novel RAT (remote access trojan) and a new local privilege escalation tool in Cuba Ransomware attacks.",
+        "score": 1,
+        "id": "wlg4ww",
+        "commsNum": 0,
+        "timeStamp": "2022/08/10-19:38:35",
+        "author_name": "Late_Ice_9288",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.bleepingcomputer.com/news/security/hacker-uses-new-rat-malware-in-cuba-ransomware-attacks/"
+    },
+    "posts": {}
+}

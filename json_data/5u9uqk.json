@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "After doing a search of my IPS logs, I'm noticing a significant number of reconnaissance events (TCP Portscans &amp; Pingsweeps).  On further inspection, a lot of traffic comes from web advertising (some malicious) IPs.  How do advertising companies utilize ICMP in their business?  Is it purely for fingerprinting target hosts?",
+        "title": "ICMP and Advertisements/Malware",
+        "score": 7,
+        "id": "5u9uqk",
+        "commsNum": 0,
+        "timeStamp": "2017/02/15-11:59:27",
+        "author_name": "asterope440LY",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5u9uqk/icmp_and_advertisementsmalware/"
+    },
+    "posts": {}
+}

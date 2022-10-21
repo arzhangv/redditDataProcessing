@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Do My Best To Keep People Safe From The Dangers Of The Internet",
+        "score": 3,
+        "id": "8qgsch",
+        "commsNum": 2,
+        "timeStamp": "2018/06/11-23:36:23",
+        "author_name": "silentshitghost",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.virustotal.com/en/user/silentshotghost/"
+    },
+    "posts": {
+        "e0j9e19": {
+            "comment": "I heard you can bypass such laws by using a password protected zip.",
+            "timeStamp": "2018/06/12-03:33:21",
+            "id": "e0j9e19",
+            "is_submitter": false,
+            "link_id": "t3_8qgsch",
+            "parent_id": "t1_e0j5k6t",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Pagan_Pigeon"
+        },
+        "e0j5k6t": {
+            "comment": "[deleted]",
+            "timeStamp": "2018/06/12-01:11:44",
+            "id": "e0j5k6t",
+            "is_submitter": false,
+            "link_id": "t3_8qgsch",
+            "parent_id": "t1_e0j2oon",
+            "score": 4,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "e0j2oon": {
+            "comment": "\"Very dangerous and illegal\"\n\n",
+            "timeStamp": "2018/06/11-23:37:40",
+            "id": "e0j2oon",
+            "is_submitter": false,
+            "link_id": "t3_8qgsch",
+            "parent_id": "t3_8qgsch",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Pagan_Pigeon"
+        }
+    }
+}

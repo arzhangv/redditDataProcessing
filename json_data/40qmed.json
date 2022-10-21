@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi,\n\nHope some one can shine some light on this W32/Nivdort.G.gen!Eldorado. Almost for a month now our mail server keep receiving emails from different external senders. Email includes attachment. This attachment is being filtered and deleted by  our mail server scans. But I want to know if someone saw this and can tell me what it is, what does it do, how bad is it, how to clean it. Just in case it gets thru and any of my users decide to run it. I hope not.",
+        "title": "W32/Nivdort.G.gen!Eldorado - Any info?",
+        "score": 4,
+        "id": "40qmed",
+        "commsNum": 3,
+        "timeStamp": "2016/01/12-21:39:12",
+        "author_name": "fsoul",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/40qmed/w32nivdortggeneldorado_any_info/"
+    },
+    "posts": {}
+}

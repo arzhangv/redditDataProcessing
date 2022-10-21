@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "The core activity of GhostMiner\u2019s components was performed by a compiled malicious Windows executable. To stay undetected, the executable relied on a couple of nested PowerShell evasion frameworks - Out-CompressedDll and Invoke-ReflectivePEInjection, which employed fileless techniques to conceal the presence of the malicious program. https://blog.minerva-labs.com/ghostminer-cryptomining-malware-goes-fileless",
+        "title": "GhostMiner: Cryptomining Malware Goes Fileless",
+        "score": 33,
+        "id": "879qom",
+        "commsNum": 9,
+        "timeStamp": "2018/03/26-07:57:54",
+        "author_name": "Mr_CyberFish",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 9,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/879qom/ghostminer_cryptomining_malware_goes_fileless/"
+    },
+    "posts": {
+        "dwntood": {
+            "comment": "The definition is a bit loose but yeah pretty much\n",
+            "timeStamp": "2018/04/01-21:48:53",
+            "id": "dwntood",
+            "is_submitter": false,
+            "link_id": "t3_879qom",
+            "parent_id": "t1_dwcoxou",
+            "score": 1,
+            "stickied": false,
+            "author_name": "firefox4493"
+        }
+    }
+}

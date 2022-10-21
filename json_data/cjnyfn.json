@@ -1,0 +1,110 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Hero Who Stopped the Wannacry Ransomware Sentenced to a Year for Developing Malware",
+        "score": 0,
+        "id": "cjnyfn",
+        "commsNum": 8,
+        "timeStamp": "2019/07/29-23:48:47",
+        "author_name": "bumgumhumdum",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 8,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://beincrypto.com/hero-who-stopped-the-wannacry-ransomware-sentenced-to-a-year-for-developing-malware/?utm_source=Reddit&amp;utm_medium=Social&amp;utm_campaign=Hutchkins&amp;utm_content=JL"
+    },
+    "posts": {
+        "ew75vs3": {
+            "comment": "He was charged with producing and selling a banking malware called Kronos and the UPAS kit, another backdoor malware.",
+            "timeStamp": "2019/08/07-07:04:13",
+            "id": "ew75vs3",
+            "is_submitter": false,
+            "link_id": "t3_cjnyfn",
+            "parent_id": "t3_cjnyfn",
+            "score": 1,
+            "stickied": false,
+            "author_name": "seeron"
+        },
+        "evjpyoe": {
+            "comment": "triggered my Edgelord detection system.",
+            "timeStamp": "2019/07/31-03:04:40",
+            "id": "evjpyoe",
+            "is_submitter": false,
+            "link_id": "t3_cjnyfn",
+            "parent_id": "t1_even6nn",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RCEdude"
+        },
+        "evfubfg": {
+            "comment": "He's getting punished for developing and selling malware, not for \"saving the world\".",
+            "timeStamp": "2019/07/30-08:43:33",
+            "id": "evfubfg",
+            "is_submitter": false,
+            "link_id": "t3_cjnyfn",
+            "parent_id": "t1_even6nn",
+            "score": 1,
+            "stickied": false,
+            "author_name": "__deerlord__"
+        },
+        "eveymgt": {
+            "comment": "Sentenced to time served.",
+            "timeStamp": "2019/07/30-03:44:02",
+            "id": "eveymgt",
+            "is_submitter": false,
+            "link_id": "t3_cjnyfn",
+            "parent_id": "t3_cjnyfn",
+            "score": 1,
+            "stickied": false,
+            "author_name": "GeneralInk"
+        },
+        "evey66j": {
+            "comment": "He did create banking malware, which is what he was charged for, and would\u2019ve gotten a much worse sentence if not for stopping Wannacry.",
+            "timeStamp": "2019/07/30-03:36:36",
+            "id": "evey66j",
+            "is_submitter": false,
+            "link_id": "t3_cjnyfn",
+            "parent_id": "t1_even6nn",
+            "score": 1,
+            "stickied": false,
+            "author_name": "VirtualMedicine"
+        },
+        "evepnb0": {
+            "comment": "And on top of that, doing a good deed doesn't just undo crimes, that isn't how the legal system works.",
+            "timeStamp": "2019/07/30-01:15:50",
+            "id": "evepnb0",
+            "is_submitter": false,
+            "link_id": "t3_cjnyfn",
+            "parent_id": "t1_eveokhs",
+            "score": 1,
+            "stickied": false,
+            "author_name": "NotRalphNader"
+        },
+        "eveokhs": {
+            "comment": "This is a shitty clickbait article. Sentenced to a year of supervision. No jail time like the title would otherwise infer",
+            "timeStamp": "2019/07/30-00:57:36",
+            "id": "eveokhs",
+            "is_submitter": false,
+            "link_id": "t3_cjnyfn",
+            "parent_id": "t1_even6nn",
+            "score": 1,
+            "stickied": false,
+            "author_name": "SoCleanSoFresh"
+        },
+        "even6nn": {
+            "comment": "No good deed goes unpunished.\n\nThis is why you should never try to save the world. Let the whole world burn and fall into chaos. Because shit like this happens and it really makes you question humanity.",
+            "timeStamp": "2019/07/30-00:34:56",
+            "id": "even6nn",
+            "is_submitter": false,
+            "link_id": "t3_cjnyfn",
+            "parent_id": "t3_cjnyfn",
+            "score": 1,
+            "stickied": false,
+            "author_name": "n0x29a"
+        }
+    }
+}

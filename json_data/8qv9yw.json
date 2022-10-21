@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I just downloaded Filezilla client on my Mac and Avast AV showed tons of warnings about detecting virus / malware. \n\nI downloaded it from the official site here: https://filezilla-project.org/download.php\n\nI had noticed this sentence below the download button that says \"This installer may include bundled offers.\" and it felt sketchy.\n\nHowever, I did not anticipate virus detections on the installer.\n\nIs it a false positive or it's a inentional attempt to infect users?",
+        "title": "Is the Filezilla client infected?",
+        "score": 5,
+        "id": "8qv9yw",
+        "commsNum": 3,
+        "timeStamp": "2018/06/13-12:29:09",
+        "author_name": "global-indian",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8qv9yw/is_the_filezilla_client_infected/"
+    },
+    "posts": {
+        "e0p7nld": {
+            "comment": "&gt;MacKeeper\n\nThat was one of the first piece of crap that go installed on this mac. It got automatically / forcefully downloaded via Google Chrome on visiting some site ( not sketchy or porn ). Thankfully Avast detected it. \n\nBtw, recently I even saw google ads of MacKeeper on YouTube ( Adblock was disabled ) . They have very poor ad quality management if adwares can advertised like that.\n\n",
+            "timeStamp": "2018/06/14-21:13:19",
+            "id": "e0p7nld",
+            "is_submitter": true,
+            "link_id": "t3_8qv9yw",
+            "parent_id": "t1_e0nioxb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "global-indian"
+        },
+        "e0nioxb": {
+            "comment": "Well, this is indeed not a personal tech support, but, it turns out Filezilla forum tend to remove topics about *bundled offers*, so it's probably a good idea to keep some intelligence here.\n\nFilezilla for macOS has two download links on their website, one that include *bundled offers* and another one, one click away, that is the legit .app in a Zip archive.\n\nThe *bundled offer**s* link is an installer application known as [installCore by ironSource](https://www.sentinelone.com/blog/osx-ironcore-a-or-what-we-know-about-osx-flashimitator-a/).\n\nDepending on the self\\-elected *offers*, it should install the adware / PUP usual suspects, i.e. MacKeeper or Advanced Mac Cleaner, and some internet browsers search extension.\n\nThese days `OSX.IronCore` (\\_\\_TEXT,\\_\\_text) is AES [decrypted at Objective\\-C runtime](https://www.pnfsoftware.com/blog/having-fun-with-obfuscated-mach-o-files/) then it decompress and dynamically load a Mach\\-O library.\n\nThis, plus the adware / PUP *offers*, gives many reason an AV to ring the bells.",
+            "timeStamp": "2018/06/14-03:46:46",
+            "id": "e0nioxb",
+            "is_submitter": false,
+            "link_id": "t3_8qv9yw",
+            "parent_id": "t3_8qv9yw",
+            "score": 2,
+            "stickied": false,
+            "author_name": "melomac"
+        },
+        "e0mbl0y": {
+            "comment": "This sub is not your personal tech support. Please see: the sticky at the top of the sub, the sidebar to the right, and the rules listed prior to clicking \u201csubmit\u201d",
+            "timeStamp": "2018/06/13-12:47:24",
+            "id": "e0mbl0y",
+            "is_submitter": false,
+            "link_id": "t3_8qv9yw",
+            "parent_id": "t3_8qv9yw",
+            "score": 1,
+            "stickied": true,
+            "author_name": "edward_snowedin"
+        }
+    }
+}

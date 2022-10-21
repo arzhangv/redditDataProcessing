@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "https://malwr.com/analysis/YTZkZjM0MWJjNTFmNDlkNDhkNzY2NzdkOTllNmEyNDQ/\n\nFew questions:\n\n1. Why does malwr recognize \n\n    -shellcode - Matched shellcode byte patterns\n\n    -vmdetect - Possibly employs anti-virtualization techniques\n\n2. Ran this through pdfid which resulted in //AA and /JS that I'm interested in looking over. When I attempted to --search via pdf-parser, it did not find those keywords?\n\n    -I'm trying to determine why PDFiD detected those but I'm unable to locate the strings via pdfparser.\n\n    -What should I do to locate those strings?",
+        "title": "PDF Analysis help (Not sure if malicious in nature)",
+        "score": 6,
+        "id": "5gtlje",
+        "commsNum": 11,
+        "timeStamp": "2016/12/06-07:57:53",
+        "author_name": "ninja-turtle",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 11,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5gtlje/pdf_analysis_help_not_sure_if_malicious_in_nature/"
+    },
+    "posts": {}
+}

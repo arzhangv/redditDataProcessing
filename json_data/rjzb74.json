@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hi All, \n\nI failed my GREM 2 times already and did better on the second attempt. I come from a digital forensics background as my day to day. This was my first SANs course, and I always found malware analysis interesting, so I figured to give this cert a shot. \n\nWhat are your guy's thoughts on the cert itself for breaking into the industry? I hope to do some form of malware analysis in the near future, but I feel like this cert is a make or break. I was thinking of taking a break and focusing on the skills first (samples, writeups, etc), then maybe going for the last attempt or maybe none at all. Thoughts?",
+        "title": "Thoughts about the importance of GREM",
+        "score": 1,
+        "id": "rjzb74",
+        "commsNum": 0,
+        "timeStamp": "2021/12/19-07:45:41",
+        "author_name": "SushiSush1",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/rjzb74/thoughts_about_the_importance_of_grem/"
+    },
+    "posts": {
+        "hrke9ng": {
+            "comment": "SEH Records and PDF Analysis (tooling). Still deciding if I want to take another attempt",
+            "timeStamp": "2022/01/06-16:10:15",
+            "id": "hrke9ng",
+            "is_submitter": true,
+            "link_id": "t3_rjzb74",
+            "parent_id": "t1_hrjwbyl",
+            "score": 1,
+            "stickied": false,
+            "author_name": "SushiSush1"
+        },
+        "hrjwbyl": {
+            "comment": "What part(s) did you struggle with for the exams?",
+            "timeStamp": "2022/01/06-14:15:32",
+            "id": "hrjwbyl",
+            "is_submitter": false,
+            "link_id": "t3_rjzb74",
+            "parent_id": "t3_rjzb74",
+            "score": 1,
+            "stickied": false,
+            "author_name": "wakko45"
+        },
+        "hp6mx9s": {
+            "comment": "Doing a quick search on a job listing site you will find thousands of jobs listing it.  Lots of them requesting it specifically but for most it as a generic SANs cert that they would prefer you have one of.",
+            "timeStamp": "2021/12/19-08:43:54",
+            "id": "hp6mx9s",
+            "is_submitter": false,
+            "link_id": "t3_rjzb74",
+            "parent_id": "t3_rjzb74",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Kamwind"
+        },
+        "hp6g5fo": {
+            "comment": "I have not, my roadmap I created for myself during vacation is PMA",
+            "timeStamp": "2021/12/19-07:54:30",
+            "id": "hp6g5fo",
+            "is_submitter": true,
+            "link_id": "t3_rjzb74",
+            "parent_id": "t1_hp6fh06",
+            "score": 1,
+            "stickied": false,
+            "author_name": "SushiSush1"
+        },
+        "hp6fh06": {
+            "comment": "There\u2019s a lot of starter ones that are preps for GREM. eCMAP, thecybermentor PMA, Zero2Auto.",
+            "timeStamp": "2021/12/19-07:49:30",
+            "id": "hp6fh06",
+            "is_submitter": false,
+            "link_id": "t3_rjzb74",
+            "parent_id": "t3_rjzb74",
+            "score": 1,
+            "stickied": false,
+            "author_name": "canofspam2020"
+        }
+    }
+}

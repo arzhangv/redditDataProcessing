@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Rise in Cyberattacks on Law Firms Highlights Need for Additional Security Layers",
+        "score": 1,
+        "id": "e3esre",
+        "commsNum": 1,
+        "timeStamp": "2019/11/29-05:34:16",
+        "author_name": "gf56tr5",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.spamtitan.com/web-filtering/cyberattacks-on-law-firms-need-additional-security-layers/"
+    },
+    "posts": {
+        "f93n20o": {
+            "comment": "Spamtitan....sure sounds like a domain I want to visit.",
+            "timeStamp": "2019/11/29-13:34:13",
+            "id": "f93n20o",
+            "is_submitter": false,
+            "link_id": "t3_e3esre",
+            "parent_id": "t3_e3esre",
+            "score": 1,
+            "stickied": false,
+            "author_name": "the-bit-slinger"
+        }
+    }
+}

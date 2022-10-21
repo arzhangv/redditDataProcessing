@@ -1,0 +1,143 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[removed]",
+        "title": "Using C to create malware",
+        "score": 0,
+        "id": "ejb5l8",
+        "commsNum": 21,
+        "timeStamp": "2020/01/02-21:52:59",
+        "author_name": "CurryMonster69420",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 21,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ejb5l8/using_c_to_create_malware/"
+    },
+    "posts": {
+        "fcwsu2q": {
+            "comment": "Thank you",
+            "timeStamp": "2020/01/02-23:23:18",
+            "id": "fcwsu2q",
+            "is_submitter": true,
+            "link_id": "t3_ejb5l8",
+            "parent_id": "t1_fcwsbpm",
+            "score": 1,
+            "stickied": false,
+            "author_name": "CurryMonster69420"
+        },
+        "fcwsbpm": {
+            "comment": "You need to have a good understanding of how the things you want to write malware for work. A good starting place that goes into a little bit of everything including malware and how ELF works is \"learning linux binary analysis\", you can find it on Amazon and other places. Thats a good start, I'de also recommend practical binary analysis bit not as good as other book. Make sure you are a strong C programmer and make sure you know how to spot vulnerabilities as well. Once you have strong fundamentals(from the books or from wherever), I like looking at conference talks, you can find them anywhere",
+            "timeStamp": "2020/01/02-23:13:39",
+            "id": "fcwsbpm",
+            "is_submitter": false,
+            "link_id": "t3_ejb5l8",
+            "parent_id": "t1_fcwry02",
+            "score": 1,
+            "stickied": false,
+            "author_name": "randomperson83"
+        },
+        "fcwry02": {
+            "comment": "How can I get started looking at ELF viruses or other low level malware.",
+            "timeStamp": "2020/01/02-23:06:37",
+            "id": "fcwry02",
+            "is_submitter": true,
+            "link_id": "t3_ejb5l8",
+            "parent_id": "t1_fcwrm2b",
+            "score": 1,
+            "stickied": false,
+            "author_name": "CurryMonster69420"
+        },
+        "fcwrm2b": {
+            "comment": "I don't really think C will help you in this situation. Mail related malware in the form that you want is rare these days. It is also highly dependent on your OS and what client you are using to read emails(like outlook vs browser). In general you would need to find an exploit in one of these programs that would enable you to do what you want. I don't know as much about PE or Mach-o, but I do know ELF so lets focus on linux. If I was you, I'de learn ELF so that you can understand how certain pieces of ELF viruses work. There are a lot of resources for those, you can google around for it. I am going to assume you are not into UEFI kits or anything that low level, but maybe you are interested in either low level malware like ELF viruses(which do usually involve C, but you can also use Python these days) or maybe you can look at browser malware/vulnerabilities.",
+            "timeStamp": "2020/01/02-23:00:31",
+            "id": "fcwrm2b",
+            "is_submitter": false,
+            "link_id": "t3_ejb5l8",
+            "parent_id": "t1_fcwqwcz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "randomperson83"
+        },
+        "fcwrb7q": {
+            "comment": "I see what you're getting at. Thank you",
+            "timeStamp": "2020/01/02-22:55:07",
+            "id": "fcwrb7q",
+            "is_submitter": true,
+            "link_id": "t3_ejb5l8",
+            "parent_id": "t1_fcwr3le",
+            "score": 2,
+            "stickied": false,
+            "author_name": "CurryMonster69420"
+        },
+        "fcwr3le": {
+            "comment": "1. think of something that would convince you that a program was safe\n2. think of a bad thing\n3. write a c program that does (1) publically, and (2) invisibly.",
+            "timeStamp": "2020/01/02-22:51:21",
+            "id": "fcwr3le",
+            "is_submitter": false,
+            "link_id": "t3_ejb5l8",
+            "parent_id": "t1_fcwr05y",
+            "score": 2,
+            "stickied": false,
+            "author_name": "boli99"
+        },
+        "fcwr05y": {
+            "comment": "I could probably write some basic things like a key logger or a program that sends a malicious payload but I have no clue how to do things like disguising it as something legitimate.",
+            "timeStamp": "2020/01/02-22:49:41",
+            "id": "fcwr05y",
+            "is_submitter": true,
+            "link_id": "t3_ejb5l8",
+            "parent_id": "t1_fcwqj4p",
+            "score": 1,
+            "stickied": false,
+            "author_name": "CurryMonster69420"
+        },
+        "fcwqwcz": {
+            "comment": "I'm not really sure but I know I want it to be part of an email attachment (or embedded into a word document or an image) which I could then trick an unsuspecting end user to download (a trojan comes to mind).",
+            "timeStamp": "2020/01/02-22:47:51",
+            "id": "fcwqwcz",
+            "is_submitter": true,
+            "link_id": "t3_ejb5l8",
+            "parent_id": "t1_fcwqje2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "CurryMonster69420"
+        },
+        "fcwqje2": {
+            "comment": "It would be helpful to know what type of \"malware\" you are talking about, what are you trying to achieve? Are you curious about ELF viruses or maybe something else? I like learning linux binary analysis.",
+            "timeStamp": "2020/01/02-22:41:36",
+            "id": "fcwqje2",
+            "is_submitter": false,
+            "link_id": "t3_ejb5l8",
+            "parent_id": "t3_ejb5l8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "randomperson83"
+        },
+        "fcwqj4p": {
+            "comment": "1. think of the bad thing you want to do\n2. write a c program that does the bad thing\n\nsince you 'know c in general' - you wont have any issues.",
+            "timeStamp": "2020/01/02-22:41:28",
+            "id": "fcwqj4p",
+            "is_submitter": false,
+            "link_id": "t3_ejb5l8",
+            "parent_id": "t3_ejb5l8",
+            "score": 4,
+            "stickied": false,
+            "author_name": "boli99"
+        },
+        "fcwpdps": {
+            "comment": "[deleted]",
+            "timeStamp": "2020/01/02-22:22:06",
+            "id": "fcwpdps",
+            "is_submitter": false,
+            "link_id": "t3_ejb5l8",
+            "parent_id": "t3_ejb5l8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

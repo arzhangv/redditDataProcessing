@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hello!  \nAn email was sent out to everyone in my school, and in it there was a link to input our info.\n\nThe link was a link to a weebly website, and me, being smart, realized it was a scam and didn't put my school email in\n\n2 of my friends did, because they're bad.\n\nNow the IT department says that even if we clicked on the link, we were infected, but I think that since weebly is a free website generator and is a trusted company, they wouldn't have an option to steal data.\n\n1. Could they have put a virus on my computer? please only answer if you know how weebly works\n2. What do they want our emails for?\n3. What should my friends do?",
+        "title": "Question about malware",
+        "score": 1,
+        "id": "qpm677",
+        "commsNum": 1,
+        "timeStamp": "2021/11/08-12:17:53",
+        "author_name": "Nugget2450",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/qpm677/question_about_malware/"
+    },
+    "posts": {
+        "hjuh3nd": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators **and be sure to include the link to the post** - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2021/11/08-12:18:42",
+            "id": "hjuh3nd",
+            "is_submitter": false,
+            "link_id": "t3_qpm677",
+            "parent_id": "t3_qpm677",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

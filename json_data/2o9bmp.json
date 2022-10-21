@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "An Analysis of the \"Destructive\" Malware Behind FBI Warnings",
+        "score": 14,
+        "id": "2o9bmp",
+        "commsNum": 0,
+        "timeStamp": "2014/12/04-05:44:55",
+        "author_name": "DespeakableMe",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://blog.trendmicro.com/trendlabs-security-intelligence/an-analysis-of-the-destructive-malware-behind-fbi-warnings/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,99 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "n open invitation to sit down and chat with r/Malware!\n\nWe're looking to start an AMA series with experienced individuals who are interested in talking about anything surrounding reverse engineering, malware, OS internals, or their current projects and passions.\n\nThe moderator team will ensure the AMAs encourage in-depth, highly technical discussions and will remove any questions from readers that might steer the discussion away from the purpose of the AMA.\n\nWe are a relatively small subreddit, however over the last year we have tried to keep content as technical as possible. We believe that, while it may have reduced our daily subscriber count, those who do subscribe and read this subreddit are redditors who are truly interested in what you have to say. It's our hope that, while you may only receive a handful of questions, the questions that do get asked will relate to something you are passionate about.\n\n**After the AMA is concluded, we will sticky a post with anything you'd like to share** \\-- whether that be a website, book, github account, twitter profile, or upcoming conference talk -- anything you'd like to pitch or get the word out about.\n\nr/Malware mods have begun working on a shared document where we have begun to compile a list of candidates for AMA invitations. **If this sounds like something you'd like to do, please** [message the moderator team](https://old.reddit.com/message/compose?to=%2Fr%2FMalware) **and let us know to add you to our list.**",
+        "title": "AMAs Wanted: Calling any and all professional reverse engineers, malware programmers, whitepaper authors or conference speakers!",
+        "score": 1,
+        "id": "dvzovh",
+        "commsNum": 7,
+        "timeStamp": "2019/11/13-14:36:27",
+        "author_name": "edward_snowedin",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/dvzovh/amas_wanted_calling_any_and_all_professional/"
+    },
+    "posts": {
+        "fngnapr": {
+            "comment": "Same here",
+            "timeStamp": "2020/04/15-01:05:14",
+            "id": "fngnapr",
+            "is_submitter": false,
+            "link_id": "t3_dvzovh",
+            "parent_id": "t3_dvzovh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "johnx86"
+        },
+        "fi8thif": {
+            "comment": "[removed]",
+            "timeStamp": "2020/02/20-17:19:39",
+            "id": "fi8thif",
+            "is_submitter": false,
+            "link_id": "t3_dvzovh",
+            "parent_id": "t3_dvzovh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fdfxevt": {
+            "comment": "Can you please add a wiki section for people like me who are interested in learning malware programming.",
+            "timeStamp": "2020/01/06-20:54:15",
+            "id": "fdfxevt",
+            "is_submitter": false,
+            "link_id": "t3_dvzovh",
+            "parent_id": "t3_dvzovh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "somebody_11223344"
+        },
+        "fc8zul9": {
+            "comment": "[removed]",
+            "timeStamp": "2019/12/28-06:52:40",
+            "id": "fc8zul9",
+            "is_submitter": false,
+            "link_id": "t3_dvzovh",
+            "parent_id": "t3_dvzovh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fbb5h15": {
+            "comment": "[removed]",
+            "timeStamp": "2019/12/18-10:28:37",
+            "id": "fbb5h15",
+            "is_submitter": false,
+            "link_id": "t3_dvzovh",
+            "parent_id": "t3_dvzovh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "f7hxltn": {
+            "comment": "[removed]",
+            "timeStamp": "2019/11/14-08:35:46",
+            "id": "f7hxltn",
+            "is_submitter": false,
+            "link_id": "t3_dvzovh",
+            "parent_id": "t3_dvzovh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "f7ftmzf": {
+            "comment": "Just wanted to say this sounds great, very much looking forward to it!",
+            "timeStamp": "2019/11/13-15:07:25",
+            "id": "f7ftmzf",
+            "is_submitter": false,
+            "link_id": "t3_dvzovh",
+            "parent_id": "t3_dvzovh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "teksimian"
+        }
+    }
+}

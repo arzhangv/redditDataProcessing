@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "A detailed analysis of the new malware used by the Russian APT28/Sofacy called SkinnyBoy",
+        "score": 1,
+        "id": "v7y9e8",
+        "commsNum": 0,
+        "timeStamp": "2022/06/08-12:48:37",
+        "author_name": "CyberMasterV",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://cybergeeks.tech/skinnyboy-apt28/"
+    },
+    "posts": {
+        "ibpbjbd": {
+            "comment": "A STEP-BY-STEP ANALYSIS OF THE NEW MALWARE USED BY APT28/SOFACY CALLED SKINNYBOY\nBy CyberMasterV / **August 3, 2021** / Malware analysis",
+            "timeStamp": "2022/06/08-23:12:10",
+            "id": "ibpbjbd",
+            "is_submitter": false,
+            "link_id": "t3_v7y9e8",
+            "parent_id": "t3_v7y9e8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "SpyVersusNinja"
+        }
+    }
+}

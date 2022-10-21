@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "So I'm noticing a number of my friends have had their instagram accounts hacked recently. Through one of their hacked accounts, someone is trying to hack mine. Their technique seems to be, after a roundabout and aggressive conversation, to get me to list their email on my account, ostensibly to then change my password out from under me using their email as the forgot password recovery account.\n\nI've gotten to the point in the conversation where they have given me their email address - malizeemalizee@gmail.com. I'm not sure there's anything that can be done with it, it seems to be a norwegian listed account, I say b/c of the translation that popped up in the insta chat:\n\n&gt; Gmail er en intuitiv, effektiv og nyttig mailtjeneste. 15 GB lagerplads, mindre spam og mobiladgang.\n\nI knew it was risky, but upon being asked for it, I decided to give this hacker my phone number, figuring that he probably could get it if he was targeting me just fine on his own. He was asking me, before asking me to put his email on my account, to copy/paste a link that was going to be sent to my phone number. I decided to ensure he wasn't targeting me specifically with a site he had my credentials for, needing me to bypass 2fa. I figured if that was the case, I'd just go to that site and change my creds. He never sent a link, although claimed he did multiple times. \n\nSo my reason for posting this here is twofold - firstly, because I figure I should do at least _something_ to publicize this threat. Secondly, to see if anyone within the r/malware community could do anything with that email address, helping to curb this hacking campaign.\n\nThanks!",
+        "title": "Instagram Hacking",
+        "score": 1,
+        "id": "sfn5ec",
+        "commsNum": 1,
+        "timeStamp": "2022/01/29-09:37:00",
+        "author_name": "TheLemming",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/sfn5ec/instagram_hacking/"
+    },
+    "posts": {
+        "hwscixr": {
+            "comment": "yes.  you are right. [Instagram hacking](https://www.hackerslist.co/) is very common now a  day. many people lost their id to hackers.  so we should use strong passwords for id. if anyone wants he can hire a hacker easily",
+            "timeStamp": "2022/02/13-07:35:12",
+            "id": "hwscixr",
+            "is_submitter": false,
+            "link_id": "t3_sfn5ec",
+            "parent_id": "t3_sfn5ec",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Sufficient_Kiwi_6813"
+        },
+        "hvmg3hf": {
+            "comment": "I wanted to see what his game was. a couple of my friends had already been hacked, possibly in similar ways. I thought if i figured him out, I'd be able to both feel confident about my own account safety and help warn my friends against possible attacks like this in the future.",
+            "timeStamp": "2022/02/04-14:30:20",
+            "id": "hvmg3hf",
+            "is_submitter": true,
+            "link_id": "t3_sfn5ec",
+            "parent_id": "t1_hvm6oxn",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TheLemming"
+        },
+        "hvm6oxn": {
+            "comment": "&gt;I knew it was risky, but upon being asked for it, I decided to give this hacker my phone number, figuring that he probably could get it if he was targeting me just fine on his own.\n\nAh the classic 'some risk' vs 'literally zero benefit' tradeoff. Why did you engage with this person at all? why would these people this this person email on their account? This is all silly.",
+            "timeStamp": "2022/02/04-13:29:23",
+            "id": "hvm6oxn",
+            "is_submitter": false,
+            "link_id": "t3_sfn5ec",
+            "parent_id": "t3_sfn5ec",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Krombuchar2"
+        },
+        "hurz5jq": {
+            "comment": "Not Norwegian, but Danish.",
+            "timeStamp": "2022/01/29-14:39:54",
+            "id": "hurz5jq",
+            "is_submitter": false,
+            "link_id": "t3_sfn5ec",
+            "parent_id": "t3_sfn5ec",
+            "score": 1,
+            "stickied": false,
+            "author_name": "rlmaers"
+        },
+        "hur0s6o": {
+            "comment": "Yes, of course.",
+            "timeStamp": "2022/01/29-10:41:19",
+            "id": "hur0s6o",
+            "is_submitter": true,
+            "link_id": "t3_sfn5ec",
+            "parent_id": "t1_huqwd41",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TheLemming"
+        },
+        "huqwd41": {
+            "comment": "I hope you reported it to Instagram.",
+            "timeStamp": "2022/01/29-10:11:58",
+            "id": "huqwd41",
+            "is_submitter": false,
+            "link_id": "t3_sfn5ec",
+            "parent_id": "t3_sfn5ec",
+            "score": 1,
+            "stickied": false,
+            "author_name": "LeftHandedGraffiti"
+        }
+    }
+}

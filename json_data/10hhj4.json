@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I would like to do some basic malware analysis in a VMWare based test environment I have set up. I thought Conficker would be a good choice to watch propagate but it seems to detect the virtualization and do nothing.\n\nI am looking for recommendations for specific malware that will propagate on its own (once an initial guest is infected) in a Windows environment and that doesn't care about being in a virtual machine.\n\nAny suggestions?\n",
+        "title": "Looking for malware for analysis in a Windows based virtual environment",
+        "score": 3,
+        "id": "10hhj4",
+        "commsNum": 1,
+        "timeStamp": "2012/09/25-19:12:54",
+        "author_name": "[deleted]",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/10hhj4/looking_for_malware_for_analysis_in_a_windows/"
+    },
+    "posts": {}
+}

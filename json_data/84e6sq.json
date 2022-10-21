@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "New variant of malware released for iOS. I call it iOS/Bonzo.A. It\u2019s app identifier is com.asol.bonzo. Anyone want a sample?",
+        "score": 50,
+        "id": "84e6sq",
+        "commsNum": 23,
+        "timeStamp": "2018/03/14-08:21:46",
+        "author_name": "iPwnUrPhone",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 23,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://i.redd.it/0cd98wp0yql01.jpg"
+    },
+    "posts": {}
+}

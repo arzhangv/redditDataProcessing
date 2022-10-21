@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "If this isn't the right place to ask, mods, feel free to delete this post.\n\nAnyway, I'm looking for this and/or the second variant for research.",
+        "title": "Anyone know where to download OSX/Fruitfly?",
+        "score": 1,
+        "id": "6sxz3o",
+        "commsNum": 1,
+        "timeStamp": "2017/08/10-18:36:10",
+        "author_name": "tapdancingwhale",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6sxz3o/anyone_know_where_to_download_osxfruitfly/"
+    },
+    "posts": {
+        "dlnmt4w": {
+            "comment": "Thanks!",
+            "timeStamp": "2017/08/15-08:23:50",
+            "id": "dlnmt4w",
+            "is_submitter": true,
+            "link_id": "t3_6sxz3o",
+            "parent_id": "t1_dln8bxv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "tapdancingwhale"
+        },
+        "dln8bxv": {
+            "comment": "here you go:https://ufile.io/h0ait\npassword = infected",
+            "timeStamp": "2017/08/15-01:15:22",
+            "id": "dln8bxv",
+            "is_submitter": false,
+            "link_id": "t3_6sxz3o",
+            "parent_id": "t3_6sxz3o",
+            "score": 1,
+            "stickied": false,
+            "author_name": "stat1xs"
+        },
+        "dlkqoml": {
+            "comment": "Yes, I do. Apologies for not linking it sooner.\n\n[Article](http://thehackernews.com/2017/07/macos-malware-fruitfly.html)\n\n[VirusTotal report](https://www.virustotal.com/en/file/befa9bfe488244c64db096522b4fad73fc01ea8c4cd0323f1cbdee81ba008271/analysis/)",
+            "timeStamp": "2017/08/13-14:12:00",
+            "id": "dlkqoml",
+            "is_submitter": true,
+            "link_id": "t3_6sxz3o",
+            "parent_id": "t1_dlhsczg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "tapdancingwhale"
+        },
+        "dlhsczg": {
+            "comment": "Hey! Do you have a hash or article to reference to for context? Makes it easier to look for a sample :)",
+            "timeStamp": "2017/08/11-14:19:42",
+            "id": "dlhsczg",
+            "is_submitter": false,
+            "link_id": "t3_6sxz3o",
+            "parent_id": "t3_6sxz3o",
+            "score": 2,
+            "stickied": false,
+            "author_name": "stat1xs"
+        }
+    }
+}

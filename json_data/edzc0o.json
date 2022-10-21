@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Shamoon 2012 Analysis",
+        "score": 1,
+        "id": "edzc0o",
+        "commsNum": 1,
+        "timeStamp": "2019/12/21-18:43:56",
+        "author_name": "myrtus0x0",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://malwareindepth.com/shamoon-2012/"
+    },
+    "posts": {
+        "fbmeu9c": {
+            "comment": "[removed]",
+            "timeStamp": "2019/12/21-18:45:06",
+            "id": "fbmeu9c",
+            "is_submitter": false,
+            "link_id": "t3_edzc0o",
+            "parent_id": "t3_edzc0o",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

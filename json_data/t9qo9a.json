@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I created a sub for helping Ukraine with cybertasks! r/CyberArmyOfUkraine\n\nCollaborating against the russian war machine has never been so fun. Small, simple actions can mean the world! Give 'em hell guys and gals!",
+        "title": "I invite you all to collaborate against Russia's criminal invasion of Ukraine",
+        "score": 1,
+        "id": "t9qo9a",
+        "commsNum": 5,
+        "timeStamp": "2022/03/08-12:55:41",
+        "author_name": "godlike-dawn",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/t9qo9a/i_invite_you_all_to_collaborate_against_russias/"
+    },
+    "posts": {
+        "i0evdtx": {
+            "comment": "\\+1",
+            "timeStamp": "2022/03/12-12:48:53",
+            "id": "i0evdtx",
+            "is_submitter": false,
+            "link_id": "t3_t9qo9a",
+            "parent_id": "t1_hzwg7v0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ssy449"
+        },
+        "hzwmbko": {
+            "comment": "[removed]",
+            "timeStamp": "2022/03/08-15:49:14",
+            "id": "hzwmbko",
+            "is_submitter": false,
+            "link_id": "t3_t9qo9a",
+            "parent_id": "t1_hzwma8z",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hzwma8z": {
+            "comment": "Nice try, FBI. [:D](https://i.redd.it/a8ftumss8ke41.jpg)",
+            "timeStamp": "2022/03/08-15:48:58",
+            "id": "hzwma8z",
+            "is_submitter": false,
+            "link_id": "t3_t9qo9a",
+            "parent_id": "t3_t9qo9a",
+            "score": 1,
+            "stickied": false,
+            "author_name": "nspectre"
+        },
+        "hzwg7v0": {
+            "comment": "I mean, I agree with the cause, but there's already the telegram chat that's run by the Ukrainian government for this",
+            "timeStamp": "2022/03/08-15:04:55",
+            "id": "hzwg7v0",
+            "is_submitter": false,
+            "link_id": "t3_t9qo9a",
+            "parent_id": "t3_t9qo9a",
+            "score": 4,
+            "stickied": false,
+            "author_name": "Nugget2450"
+        },
+        "hzwclez": {
+            "comment": "[deleted]",
+            "timeStamp": "2022/03/08-14:39:25",
+            "id": "hzwclez",
+            "is_submitter": false,
+            "link_id": "t3_t9qo9a",
+            "parent_id": "t1_hzw5i34",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hzw5i34": {
+            "comment": "Just in case you hadn't realized, the people here take apart malware, identify how it works, how it spreads. A lot of us work within Infosec communities, where we see what happens when malware is executed in various environments.\n\nA call to arms isn't really in keeping with what this sub was designed for.",
+            "timeStamp": "2022/03/08-13:46:21",
+            "id": "hzw5i34",
+            "is_submitter": false,
+            "link_id": "t3_t9qo9a",
+            "parent_id": "t3_t9qo9a",
+            "score": 20,
+            "stickied": false,
+            "author_name": "gigabyte4711"
+        }
+    }
+}

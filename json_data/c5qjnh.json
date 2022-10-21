@@ -1,0 +1,165 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "New Silex malware is bricking IoT devices, has scary plans.",
+        "score": 32,
+        "id": "c5qjnh",
+        "commsNum": 13,
+        "timeStamp": "2019/06/26-07:33:36",
+        "author_name": "DrinkMoreCodeMore",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 13,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.zdnet.com/article/new-silex-malware-is-bricking-iot-devices-has-scary-plans/"
+    },
+    "posts": {
+        "etfe5pv": {
+            "comment": "I agree friend the staff does not care about safety, a boy of 14 years do a damage like that, is because they have to change them.",
+            "timeStamp": "2019/07/10-07:05:53",
+            "id": "etfe5pv",
+            "is_submitter": false,
+            "link_id": "t3_c5qjnh",
+            "parent_id": "t1_es5eett",
+            "score": 1,
+            "stickied": false,
+            "author_name": "felipekirby94"
+        },
+        "etfe0hw": {
+            "comment": "and only a 14-year-old kid wanting attention.",
+            "timeStamp": "2019/07/10-07:04:12",
+            "id": "etfe0hw",
+            "is_submitter": false,
+            "link_id": "t3_c5qjnh",
+            "parent_id": "t3_c5qjnh",
+            "score": 2,
+            "stickied": false,
+            "author_name": "felipekirby94"
+        },
+        "es5fgey": {
+            "comment": "Yep I work in a Dev company too, I hear you there. Pressures from business stakeholders is to \"get it done as fast as possible\" \n\nDev team at my company just see security as something that slows them down so they find ways around the process - which is just stupid\n\nAbsolutely agree with the need for culture change but don't know what it'll take? Significant high profile breach in last few years but still hasn't sunk in yet",
+            "timeStamp": "2019/06/26-21:35:17",
+            "id": "es5fgey",
+            "is_submitter": false,
+            "link_id": "t3_c5qjnh",
+            "parent_id": "t1_es5eett",
+            "score": 1,
+            "stickied": false,
+            "author_name": "justahelpfulfren"
+        },
+        "es5eett": {
+            "comment": "I work in IT and unfortunately devs/security engineers are seen as a cost center and not a portion of the company that affects the bottom line. There needs to be a culture change. IoT device security just fucking blows in general lol.",
+            "timeStamp": "2019/06/26-21:19:00",
+            "id": "es5eett",
+            "is_submitter": false,
+            "link_id": "t3_c5qjnh",
+            "parent_id": "t1_es4zq91",
+            "score": 5,
+            "stickied": false,
+            "author_name": "BinaryWarlord"
+        },
+        "es58ovo": {
+            "comment": "R&amp;D? No, it just requires proper due diligence. Still costs money, but QC is not R&amp;D. The issue is that an overwhelming majority of this IoT shit is slapped together in China for tiny margins. Ultimately, the customers want cheap shit, and that's what they're being sold.",
+            "timeStamp": "2019/06/26-20:00:07",
+            "id": "es58ovo",
+            "is_submitter": false,
+            "link_id": "t3_c5qjnh",
+            "parent_id": "t1_es575sr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "UpvoteIfYouDare"
+        },
+        "es575sr": {
+            "comment": "&gt;Hopefully manufacturers might start taking security seriously\n\nThat would require R&amp;D investment which would negate the low cost of most of these items.  Sadly, it won't happen.\n\n/r/internetofshit",
+            "timeStamp": "2019/06/26-19:41:57",
+            "id": "es575sr",
+            "is_submitter": false,
+            "link_id": "t3_c5qjnh",
+            "parent_id": "t1_es4zq91",
+            "score": 2,
+            "stickied": false,
+            "author_name": "elitexero"
+        },
+        "es4zq91": {
+            "comment": "Honestly better the devices are bricked than made part of a botnet. \n\nHopefully manufacturers might start taking security seriously instead of churning out these vulnerable pieces of shit like it's going out of fashion (which it is)",
+            "timeStamp": "2019/06/26-18:15:49",
+            "id": "es4zq91",
+            "is_submitter": false,
+            "link_id": "t3_c5qjnh",
+            "parent_id": "t3_c5qjnh",
+            "score": 3,
+            "stickied": false,
+            "author_name": "justahelpfulfren"
+        },
+        "es3ob4z": {
+            "comment": "Yeah seriously. Like sure, password spraying isn\u2019t exactly some stuxnet shit, but I\u2019d say building a password sprayer, and the payload, AND setting up a c2 server is impressive for a 14 year old.",
+            "timeStamp": "2019/06/26-09:37:56",
+            "id": "es3ob4z",
+            "is_submitter": false,
+            "link_id": "t3_c5qjnh",
+            "parent_id": "t1_es3my0s",
+            "score": 1,
+            "stickied": false,
+            "author_name": "NovateI"
+        },
+        "es3my0s": {
+            "comment": "It\u2019s funny how those guys are like \u201cwhat a skid lol\u201d but like ... it\u2019s a 14 year old kid lol. What is it people say about the special olympics...",
+            "timeStamp": "2019/06/26-09:23:24",
+            "id": "es3my0s",
+            "is_submitter": false,
+            "link_id": "t3_c5qjnh",
+            "parent_id": "t1_es3jczf",
+            "score": 2,
+            "stickied": false,
+            "author_name": "NfxfFghcvqDhrfgvbaf"
+        },
+        "es3jczf": {
+            "comment": "Seems likely!\n\nhttps://twitter.com/MalwareTechBlog/status/1143695718730780672",
+            "timeStamp": "2019/06/26-08:44:39",
+            "id": "es3jczf",
+            "is_submitter": true,
+            "link_id": "t3_c5qjnh",
+            "parent_id": "t1_es3i0y0",
+            "score": 3,
+            "stickied": false,
+            "author_name": "DrinkMoreCodeMore"
+        },
+        "es3i0y0": {
+            "comment": "Maybe it turns into some sort of Kronos situation where he becomes a white hat later on then all this old shit catches up with him and causes problems down the road.",
+            "timeStamp": "2019/06/26-08:30:19",
+            "id": "es3i0y0",
+            "is_submitter": false,
+            "link_id": "t3_c5qjnh",
+            "parent_id": "t1_es3haec",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Yapoz"
+        },
+        "es3haec": {
+            "comment": "Agreed. IMO it's not wrong. He's a 14-year old kid who is a bit misguided in his ways and can easily be found. He admits to DDoSing Wix, Omgle, Twitter for lols and then also selling a few spots on the net. Dude needs to calm down before it goes bad. Luckily he's under 18 so really the worst that would happen in the EU is a slap on the wrist.",
+            "timeStamp": "2019/06/26-08:22:09",
+            "id": "es3haec",
+            "is_submitter": true,
+            "link_id": "t3_c5qjnh",
+            "parent_id": "t1_es3gx7b",
+            "score": 3,
+            "stickied": false,
+            "author_name": "DrinkMoreCodeMore"
+        },
+        "es3gx7b": {
+            "comment": "I love how the ending seems specifically designed to scare the kid.",
+            "timeStamp": "2019/06/26-08:18:05",
+            "id": "es3gx7b",
+            "is_submitter": false,
+            "link_id": "t3_c5qjnh",
+            "parent_id": "t3_c5qjnh",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Yapoz"
+        }
+    }
+}

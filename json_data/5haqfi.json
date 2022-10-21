@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I was wondering if that would work. I mean, I don't know much about how heuristics work but from what I could reason the more functions and structures you add in, the less likely it would be to appear as malware. Is that true? How so?",
+        "title": "Junk code in order to evade AV?",
+        "score": 3,
+        "id": "5haqfi",
+        "commsNum": 10,
+        "timeStamp": "2016/12/08-16:40:38",
+        "author_name": "_Nexor",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 10,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5haqfi/junk_code_in_order_to_evade_av/"
+    },
+    "posts": {}
+}

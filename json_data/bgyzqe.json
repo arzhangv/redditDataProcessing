@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hope this is the right section.\n\nLast night I watched a stream of the latest Game of Thrones via Kodi, using a VPN... Judge away...\n\nI noticed a notification of a VPN not installed on my laptop and closed the screen when I saw program in the background which quickly closed. The screen seemed to have a busy graphical interface and seemed to be running, although it was gone in a split second.\n\nI quickly powered off the laptop, today I turned on the laptop and it was running pretty slowly (although it's slow regardless), I opened Chrome and a file began to download which was called something like index.mf8u, I quickly powered off the system again before it had a chance to open.\n\nWhat would be my best approach here? I'm wary of logging on to my laptop again in case it gives someone a chance to mine my data.",
+        "title": "Think i've been hacked",
+        "score": 0,
+        "id": "bgyzqe",
+        "commsNum": 2,
+        "timeStamp": "2019/04/24-12:39:18",
+        "author_name": "Soar_seo",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/bgyzqe/think_ive_been_hacked/"
+    },
+    "posts": {
+        "elonvsv": {
+            "comment": "A good way to check, if your computer is infected with malware is to use a live CD with a malware scanner. An example is the [Kaspersky Rescue Disk](https://support.kaspersky.com/de/viruses/krd2018). You can burn these on a CD or install them on an USB flash drive (preferably using another computer). The live CD contains an operating system you boot instead of the usual OS on the possibly infected computer. This way you can ensure, that the malware is not executed and can do now further harm or hide from the scanner. If you have any questions about this, just ask.",
+            "timeStamp": "2019/04/24-13:00:18",
+            "id": "elonvsv",
+            "is_submitter": false,
+            "link_id": "t3_bgyzqe",
+            "parent_id": "t3_bgyzqe",
+            "score": 0,
+            "stickied": false,
+            "author_name": "AmbulatoryEel"
+        },
+        "elomidn": {
+            "comment": "per the subs description...\n\n&gt; A place for malware reports and information. This is NOT a place for help with malware removal or various other end-user questions.\n\n&gt; Please redirect questions related to malware removal to /r/antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware\n\ni believe /r/techsupport has a wiki entry or thread that has workd for some people in the past.  Good Luck!",
+            "timeStamp": "2019/04/24-12:47:15",
+            "id": "elomidn",
+            "is_submitter": false,
+            "link_id": "t3_bgyzqe",
+            "parent_id": "t3_bgyzqe",
+            "score": 7,
+            "stickied": false,
+            "author_name": "redrage97"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "New Hadoop Yarn cryptomining botnet that disables Alibaba Cloud Security Guard and 360 Security agents",
+        "score": 1,
+        "id": "esf4tz",
+        "commsNum": 0,
+        "timeStamp": "2020/01/22-09:25:15",
+        "author_name": "tolisec",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://tolisec.com/yarn-botnet/"
+    },
+    "posts": {}
+}

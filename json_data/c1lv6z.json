@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Good morning,\n\nI\u2019ve just released \u201cDetecting Persistence in Memory.\u201d As a continuation of the \"Introduction to Memory Forensics\" series, this episode covers a new Volatility plugin that parses Auto-Start Extensibility Points (ASEPs) directly from memory. While this concept is not new, and a previous \"autoruns\" plugin has been available for a while, this new plugin provides more capabilities than its predecessor. The project is called winesap (no, that's not a typo -- it's winesap, not winASEP), and it's able to detect more ASEPs than its predecessor and apply custom rules to automatically detect suspicious paths/filenames.\n\nAlso, don\u2019t forget to vote in the 2019 Forensic 4:cast Awards. Voting closes July 10, 2019. 13Cubed is up for DFIR Show of the Year, and there are plenty of other awesome categories you should check out as well! It will take you &lt; 1 minute. https://forensic4cast.com/forensic-4cast-awards/\n\nEpisode:\nhttps://www.youtube.com/watch?v=shF8hAprD4g\n\nChannel:\nhttps://www.youtube.com/13cubed\n\nPatreon (Help support 13Cubed):\nhttps://www.patreon.com/13cubed",
+        "title": "Detecting (Malware) Persistence in Memory (X-Post)",
+        "score": 27,
+        "id": "c1lv6z",
+        "commsNum": 3,
+        "timeStamp": "2019/06/17-03:19:14",
+        "author_name": "13Cubed",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/c1lv6z/detecting_malware_persistence_in_memory_xpost/"
+    },
+    "posts": {
+        "erf5ns5": {
+            "comment": "Definitely going to check out. Thanks for posting.",
+            "timeStamp": "2019/06/17-12:43:12",
+            "id": "erf5ns5",
+            "is_submitter": false,
+            "link_id": "t3_c1lv6z",
+            "parent_id": "t3_c1lv6z",
+            "score": 2,
+            "stickied": false,
+            "author_name": "UpDimension"
+        },
+        "eremlkf": {
+            "comment": "Yes, InfoSec/DFIR, and thanks!",
+            "timeStamp": "2019/06/17-09:10:45",
+            "id": "eremlkf",
+            "is_submitter": true,
+            "link_id": "t3_c1lv6z",
+            "parent_id": "t1_ere5dx6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "13Cubed"
+        },
+        "ere5dx6": {
+            "comment": "Dude you've earned a subscriber. You have a lot of interesting videos I'll be checking out. Thanks. If you don't mind me asking do you work in security?",
+            "timeStamp": "2019/06/17-05:22:44",
+            "id": "ere5dx6",
+            "is_submitter": false,
+            "link_id": "t3_c1lv6z",
+            "parent_id": "t3_c1lv6z",
+            "score": 3,
+            "stickied": false,
+            "author_name": "_W0z"
+        }
+    }
+}

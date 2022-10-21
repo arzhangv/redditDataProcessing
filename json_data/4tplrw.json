@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Golang for DFIR",
+        "score": 1,
+        "id": "4tplrw",
+        "commsNum": 0,
+        "timeStamp": "2016/07/19-22:17:09",
+        "author_name": "meirwah",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://sroberts.github.io/2016/07/18/go-for-dfir/"
+    },
+    "posts": {}
+}

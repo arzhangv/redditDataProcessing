@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "WikiLeaks leaked files on the Grasshopper framework, a CIA Tool for creating customized malware installers",
+        "score": 1,
+        "id": "642li6",
+        "commsNum": 0,
+        "timeStamp": "2017/04/07-12:33:05",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/57822/intelligence/cia-grasshopper-framework.html"
+    },
+    "posts": {}
+}

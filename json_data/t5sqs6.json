@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hi there,\n\nJust wanted to get some things straight. In order to hollow a process on the Docker host and implement malicious code a Docker container would need to run in  privileged mode? A normal container can't access other processes outside the container?",
+        "title": "Process hollowing from inside a Docker container",
+        "score": 1,
+        "id": "t5sqs6",
+        "commsNum": 0,
+        "timeStamp": "2022/03/03-06:26:24",
+        "author_name": "NazgulNr5",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/t5sqs6/process_hollowing_from_inside_a_docker_container/"
+    },
+    "posts": {}
+}

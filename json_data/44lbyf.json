@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Malware Must Die!: MMD-0052-2016 - SkidDDOS ELF infection Jan-Feb 2016",
+        "score": 7,
+        "id": "44lbyf",
+        "commsNum": 0,
+        "timeStamp": "2016/02/07-04:01:12",
+        "author_name": "mmd0xFF",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://blog.malwaremustdie.org/2016/02/mmd-0052-2016-skidddos-elf-distribution.html"
+    },
+    "posts": {}
+}

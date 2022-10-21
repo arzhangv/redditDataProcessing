@@ -1,0 +1,99 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hi \n\nI received a text message with a generic link from a scammer pretending to be a bank (not even my bank). I would like to visit the link an analyze what happens. I assume it would be safe to do so on an Azure Windows 10 VM, but I would rather be safe than sorry.  \n\n\nWould this be a good approach? And/or are there better ways to do this?  \nI am thinking of doing it this way because I wouldn't care if it ruins the system (it probably won't cause it's a phishing attempt) and I (think?) am anonymous. \n\nThanks in advance for your insights!",
+        "title": "Safety of Azure VM for analysis",
+        "score": 1,
+        "id": "socp54",
+        "commsNum": 2,
+        "timeStamp": "2022/02/09-04:43:18",
+        "author_name": "0range_juice_",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/socp54/safety_of_azure_vm_for_analysis/"
+    },
+    "posts": {
+        "hwvc2s7": {
+            "comment": "are there any free VPS services (even if its for very low power machines for a couple of mins)?",
+            "timeStamp": "2022/02/13-20:07:41",
+            "id": "hwvc2s7",
+            "is_submitter": false,
+            "link_id": "t3_socp54",
+            "parent_id": "t1_hwvbnqa",
+            "score": 1,
+            "stickied": false,
+            "author_name": "New_Green2342"
+        },
+        "hwvbnqa": {
+            "comment": "&gt;app.any.run\n\nthis is a free VPS service?",
+            "timeStamp": "2022/02/13-20:04:02",
+            "id": "hwvbnqa",
+            "is_submitter": false,
+            "link_id": "t3_socp54",
+            "parent_id": "t1_hw9o1i4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "New_Green2342"
+        },
+        "hw9o1i4": {
+            "comment": "This is exactly what [https://any.run/](https://any.run/) is made for. You can create a free account.",
+            "timeStamp": "2022/02/09-11:59:28",
+            "id": "hw9o1i4",
+            "is_submitter": false,
+            "link_id": "t3_socp54",
+            "parent_id": "t3_socp54",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Yuri_Butso"
+        },
+        "hw9frma": {
+            "comment": "I sent it in DM",
+            "timeStamp": "2022/02/09-11:07:05",
+            "id": "hw9frma",
+            "is_submitter": true,
+            "link_id": "t3_socp54",
+            "parent_id": "t1_hw98lrw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "0range_juice_"
+        },
+        "hw98lrw": {
+            "comment": "What's the link? :)",
+            "timeStamp": "2022/02/09-10:22:55",
+            "id": "hw98lrw",
+            "is_submitter": false,
+            "link_id": "t3_socp54",
+            "parent_id": "t3_socp54",
+            "score": 1,
+            "stickied": false,
+            "author_name": "antmar9041"
+        },
+        "hw8k9p0": {
+            "comment": "Thanks!",
+            "timeStamp": "2022/02/09-07:53:12",
+            "id": "hw8k9p0",
+            "is_submitter": true,
+            "link_id": "t3_socp54",
+            "parent_id": "t1_hw83e89",
+            "score": 1,
+            "stickied": false,
+            "author_name": "0range_juice_"
+        },
+        "hw83e89": {
+            "comment": "As long as you don\u2019t have anything else in Azure on that virtual network, and all of the network components are throwaway (meaning you aren\u2019t utilizing the external static IP on anything else) an Azure VM is fine for analysis. You can also use a site like app.any.run or Hybrid-Analysis for such a simple task.",
+            "timeStamp": "2022/02/09-05:56:22",
+            "id": "hw83e89",
+            "is_submitter": false,
+            "link_id": "t3_socp54",
+            "parent_id": "t3_socp54",
+            "score": 1,
+            "stickied": false,
+            "author_name": "danstheman7"
+        }
+    }
+}

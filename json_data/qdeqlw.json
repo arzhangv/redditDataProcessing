@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "PCI DSS is a standard developed to secure sensitive cardholder data. The PCI Standard is a set of security controls that Merchants and Service Providers are required to follow and implement to protect card data against data breaches. Any organization that handles payment cards, like debit and credit cards must meet the 12 requirements to comply with the PCI DSS Standard.\n\nFailure to meet the 12 requirements may result in fines or even termination of credit card processing rights and privileges by the organization. Explaining the PCI DSS 12 requirements in our video we aim to help our viewers gain a better understanding of the standard and its implementation. Understanding the [12 requirements will make the PCI DSS Compliance](https://www.youtube.com/watch?v=LfxLVxajRik&amp;t=352s) more achievable for organizations.\n\n **12 PCI DSS Requirements:-**   \n \n\n1) Installing Firewall Configurations  \n\n2) Not Using Vendor Supplied defaults\n\n3) Secured Card data to prevent data breaches \n\n4) Encryption of Card Holder Data Transmission \n\n5) Use Updated Anti-Virus \n\n6) Develop and Maintain secure systems and applications    \n\n7) Restrict access to cardholder data by business need to know   \n\n8) Unique ID to each person   \n\n9) Restrict physical access to workplace &amp; cardholder data \n\n10) Track &amp; Monitor all access to network resources and cardholder data  \n\n11) Regularly testing of security systems and processes   \n\n12) Maintain a policy that addresses information security for all personale",
+        "title": "PCI DSS Requirements",
+        "score": 1,
+        "id": "qdeqlw",
+        "commsNum": 1,
+        "timeStamp": "2021/10/22-04:18:57",
+        "author_name": "stephen90147",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/qdeqlw/pci_dss_requirements/"
+    },
+    "posts": {
+        "hhnafb1": {
+            "comment": "There are 12 major *sections* in the PCI DSS. There are far more actual requirements.",
+            "timeStamp": "2021/10/22-10:46:13",
+            "id": "hhnafb1",
+            "is_submitter": false,
+            "link_id": "t3_qdeqlw",
+            "parent_id": "t3_qdeqlw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "iheartrms"
+        }
+    }
+}

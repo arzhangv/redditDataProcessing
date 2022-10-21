@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I tried drltrace but compiling it is proving difficult because of its dependencies. I tried to download the release binaries and while they do execute, they don't actually produce any logs.\n\nI'm looking for a tool to trace all api calls made by malware on a windows host. I'm leaning towards using cuckoo sandbox but are there any other tools out there that would let me see all api calls?\n\nI have found a few tools out there but they are not working as advertised and I wanted to know if there's a good trusted tool for this purpose.\n\nI run flarevm, REMNUX, and kali for malware analysis.",
+        "title": "Best tool for tracing all malware API calls?",
+        "score": 1,
+        "id": "f946zw",
+        "commsNum": 1,
+        "timeStamp": "2020/02/24-19:56:43",
+        "author_name": "amirootyet",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/f946zw/best_tool_for_tracing_all_malware_api_calls/"
+    },
+    "posts": {
+        "fipc7tr": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2020/02/24-19:56:44",
+            "id": "fipc7tr",
+            "is_submitter": false,
+            "link_id": "t3_f946zw",
+            "parent_id": "t3_f946zw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

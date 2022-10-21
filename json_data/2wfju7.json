@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I created a website for creating and sharing OpenIOC files. If you are unfamiliar with OpenIOC you can read about it here: http://openioc.org/\n\nThe website I created is https://openiocdb.com\n\nI made the site primarily because I couldn't find any good resources awhile back for downloading OpenIOC files. I saw lots of stuff scattered through all kinds of places. From Google groups to industry websites. I thought it would be nice to have a website dedicated to collecting and sharing these. If you notice the website has actually been \"active\" for some time in that it has been set up and running for awhile. I've just never shared it because I didn't think it was quite ready as I was waiting for some additional control features in the download manager.\n\nI am always open to feedback on improving the site. Especially right now since this is the first time I'm sharing it. Let me know what's missing or what you don't like. I want this website to be a great resource and there's no way I'm going to get it right the first time by myself.\n\nSo /r/malware, what do you think?",
+        "title": "I created a website for sharing OpenIOC files",
+        "score": 9,
+        "id": "2wfju7",
+        "commsNum": 9,
+        "timeStamp": "2015/02/19-06:32:30",
+        "author_name": "visionviper",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 9,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2wfju7/i_created_a_website_for_sharing_openioc_files/"
+    },
+    "posts": {}
+}

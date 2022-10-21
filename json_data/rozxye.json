@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I want information about Drive-by downloads to fix some issue as I've clicked on a malicious link and played a video there. I just wanted to ask for information on how to stop it since I cannot find any.",
+        "title": "Drive-by downloads.",
+        "score": 1,
+        "id": "rozxye",
+        "commsNum": 0,
+        "timeStamp": "2021/12/26-08:14:04",
+        "author_name": "tonaruto044",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/rozxye/driveby_downloads/"
+    },
+    "posts": {
+        "hqcatb0": {
+            "comment": "[removed]",
+            "timeStamp": "2021/12/28-15:32:44",
+            "id": "hqcatb0",
+            "is_submitter": false,
+            "link_id": "t3_rozxye",
+            "parent_id": "t3_rozxye",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hq3vi6z": {
+            "comment": "Just how they inject and how they act. If there are ways to notice a drive-by download, feel free to share. Thanks alot!",
+            "timeStamp": "2021/12/26-20:01:19",
+            "id": "hq3vi6z",
+            "is_submitter": true,
+            "link_id": "t3_rozxye",
+            "parent_id": "t1_hq2ag1r",
+            "score": 1,
+            "stickied": false,
+            "author_name": "tonaruto044"
+        },
+        "hq2ag1r": {
+            "comment": "What kind of information are you looking for exactly?",
+            "timeStamp": "2021/12/26-12:26:29",
+            "id": "hq2ag1r",
+            "is_submitter": false,
+            "link_id": "t3_rozxye",
+            "parent_id": "t3_rozxye",
+            "score": 1,
+            "stickied": false,
+            "author_name": "vlgngrbrdmn"
+        }
+    }
+}

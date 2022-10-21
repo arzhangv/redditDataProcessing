@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Is there a difference? Most classes I have come across suggest snapshots, rather than setting up your tools in a vm and then making it nonpersistent. Is one way more secure than the other? (I'm using vmware workstation if that helps/changes the answer)",
+        "title": "Nonpersistent vm vs snapshots",
+        "score": 1,
+        "id": "jdlzft",
+        "commsNum": 5,
+        "timeStamp": "2020/10/18-11:58:59",
+        "author_name": "gtrven",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/jdlzft/nonpersistent_vm_vs_snapshots/"
+    },
+    "posts": {
+        "g9z54a2": {
+            "comment": "\\^ this\n\nAnd often times malware is checking if vmtools is installed and wont run if so.",
+            "timeStamp": "2020/10/24-17:13:12",
+            "id": "g9z54a2",
+            "is_submitter": false,
+            "link_id": "t3_jdlzft",
+            "parent_id": "t1_g99qxfz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DrWhatNoName"
+        },
+        "g9b4r9v": {
+            "comment": "It depends on what you want to do. If you need to RE malware you go with virtual machines and snapshots and you won't have any problem with anti-vm cause you'll find the workarounds as you go.\n\n If you just want to run malware for forensic artifact extraction and do not have a proper hardened sandbox I guess having a physical machine with snapshotting software installed is a good way to get some juice as not much malware detects that kind of software. Pretty useless though if you fill the machine with tons of widely known monitoring tools like Wireshark, install its network capturing driver and you'll be RIP. ALSO make sure you understand how the tool you are using works and backup your system before running any malware, there are some samples that will wipe any system restoration points or even set the infected state of the machine as the last restoration point.",
+            "timeStamp": "2020/10/19-02:42:39",
+            "id": "g9b4r9v",
+            "is_submitter": false,
+            "link_id": "t3_jdlzft",
+            "parent_id": "t3_jdlzft",
+            "score": 1,
+            "stickied": false,
+            "author_name": "folivoro"
+        },
+        "g9aw0rd": {
+            "comment": "The difference is that snapshots give you option to move back and forth between changes on your VM. Nonpersistent VM is always going to delete all changes made to the base image.",
+            "timeStamp": "2020/10/18-23:56:17",
+            "id": "g9aw0rd",
+            "is_submitter": false,
+            "link_id": "t3_jdlzft",
+            "parent_id": "t3_jdlzft",
+            "score": 1,
+            "stickied": false,
+            "author_name": "CatTheHacker"
+        },
+        "g99qxfz": {
+            "comment": "I think vmtools are requiered if you want to take \nconsistent snapshots (with memory) I would go with non persistant disk",
+            "timeStamp": "2020/10/18-16:08:33",
+            "id": "g99qxfz",
+            "is_submitter": false,
+            "link_id": "t3_jdlzft",
+            "parent_id": "t3_jdlzft",
+            "score": 1,
+            "stickied": false,
+            "author_name": "othmtl"
+        },
+        "g99m16f": {
+            "comment": "[removed]",
+            "timeStamp": "2020/10/18-15:22:11",
+            "id": "g99m16f",
+            "is_submitter": false,
+            "link_id": "t3_jdlzft",
+            "parent_id": "t3_jdlzft",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

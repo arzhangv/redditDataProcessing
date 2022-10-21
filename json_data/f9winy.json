@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Revealing the Trick | A Deep Dive into TrickLoader Obfuscation - SentinelLabs",
+        "score": 1,
+        "id": "f9winy",
+        "commsNum": 0,
+        "timeStamp": "2020/02/26-09:14:10",
+        "author_name": "sysopfb",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://labs.sentinelone.com/revealing-the-trick-a-deep-dive-into-trickloader-obfuscation/"
+    },
+    "posts": {}
+}

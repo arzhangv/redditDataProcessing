@@ -1,0 +1,143 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Fellow IT Professional here,\n\nI just started learning about malware analysis through a few resources that I have. Im very familiar pen testing distros and i want to know if there are any systems that are dedicated to maleware analysis?",
+        "title": "Malware enthusiast",
+        "score": 1,
+        "id": "usretq",
+        "commsNum": 0,
+        "timeStamp": "2022/05/18-17:54:38",
+        "author_name": "WinnerzCircle",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/usretq/malware_enthusiast/"
+    },
+    "posts": {
+        "i9hlkh1": {
+            "comment": "[removed]",
+            "timeStamp": "2022/05/21-13:29:03",
+            "id": "i9hlkh1",
+            "is_submitter": false,
+            "link_id": "t3_usretq",
+            "parent_id": "t1_i9d3zv9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "i9fbg72": {
+            "comment": "Thanks for the reply's. I made a list of the resources and VMs you guys mentioned. I'm building a nested virtual environment that will host win7, vulnerable Linux, and 1 or 2 of the machines mentioned for my testing and learning environment. And maybe Kali Linux to brush up on my pen-testing abilities. \n\nThanks!",
+            "timeStamp": "2022/05/21-00:06:28",
+            "id": "i9fbg72",
+            "is_submitter": true,
+            "link_id": "t3_usretq",
+            "parent_id": "t3_usretq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "WinnerzCircle"
+        },
+        "i9d3zv9": {
+            "comment": "Will do and thanks",
+            "timeStamp": "2022/05/20-12:03:27",
+            "id": "i9d3zv9",
+            "is_submitter": true,
+            "link_id": "t3_usretq",
+            "parent_id": "t1_i95mrre",
+            "score": 1,
+            "stickied": false,
+            "author_name": "WinnerzCircle"
+        },
+        "i9cupx7": {
+            "comment": "Thanks !!",
+            "timeStamp": "2022/05/20-10:51:47",
+            "id": "i9cupx7",
+            "is_submitter": true,
+            "link_id": "t3_usretq",
+            "parent_id": "t1_i96fjsz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "WinnerzCircle"
+        },
+        "i98l3dd": {
+            "comment": "[removed]",
+            "timeStamp": "2022/05/19-12:12:43",
+            "id": "i98l3dd",
+            "is_submitter": false,
+            "link_id": "t3_usretq",
+            "parent_id": "t3_usretq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "i96fjsz": {
+            "comment": "[removed]",
+            "timeStamp": "2022/05/19-01:05:42",
+            "id": "i96fjsz",
+            "is_submitter": false,
+            "link_id": "t3_usretq",
+            "parent_id": "t3_usretq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "i95mrre": {
+            "comment": "[removed]",
+            "timeStamp": "2022/05/18-19:41:41",
+            "id": "i95mrre",
+            "is_submitter": false,
+            "link_id": "t3_usretq",
+            "parent_id": "t3_usretq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "i95k7y5": {
+            "comment": "[removed]",
+            "timeStamp": "2022/05/18-19:20:49",
+            "id": "i95k7y5",
+            "is_submitter": false,
+            "link_id": "t3_usretq",
+            "parent_id": "t3_usretq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "i95cn1z": {
+            "comment": "Flare &amp; Remnux are a dynamic duo",
+            "timeStamp": "2022/05/18-18:22:00",
+            "id": "i95cn1z",
+            "is_submitter": false,
+            "link_id": "t3_usretq",
+            "parent_id": "t3_usretq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "canofspam2020"
+        },
+        "i959v8c": {
+            "comment": "*Yoda voice*: Remnux.. you seek remnux!\n\nhttps://remnux.org/",
+            "timeStamp": "2022/05/18-18:00:24",
+            "id": "i959v8c",
+            "is_submitter": false,
+            "link_id": "t3_usretq",
+            "parent_id": "t3_usretq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "concmap"
+        },
+        "i959ftn": {
+            "comment": "https://cuckoosandbox.org/",
+            "timeStamp": "2022/05/18-17:57:03",
+            "id": "i959ftn",
+            "is_submitter": false,
+            "link_id": "t3_usretq",
+            "parent_id": "t3_usretq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ShipofThesaurus"
+        }
+    }
+}

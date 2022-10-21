@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "If someone has information about this malware let me know, btw i'm not infected, just tryna get some information about it",
+        "title": "Project Plague",
+        "score": 1,
+        "id": "qladx2",
+        "commsNum": 2,
+        "timeStamp": "2021/11/02-11:11:59",
+        "author_name": "CrazyDaisuDuck",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/qladx2/project_plague/"
+    },
+    "posts": {
+        "hj66yh1": {
+            "comment": "Basically a campain of cybercriminals that installs miners and makes botnets.  \nCommonly used for DDoSsing, scamming etc.\n\nI have no idea where to find the samples tho.",
+            "timeStamp": "2021/11/03-10:13:33",
+            "id": "hj66yh1",
+            "is_submitter": false,
+            "link_id": "t3_qladx2",
+            "parent_id": "t3_qladx2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "JANTHEBOSS_OFFICIAL"
+        },
+        "hj2rdgd": {
+            "comment": "I found a report from Virus Total from a Project Plague sample: [https://www.virustotal.com/gui/file/5090241dd376f6b456dbbdecf8a7781286e3d79b94b3f20757cc42095bce6548/details](https://www.virustotal.com/gui/file/5090241dd376f6b456dbbdecf8a7781286e3d79b94b3f20757cc42095bce6548/details)\n\n&amp;#x200B;\n\nAlso some one uploaded a sample to [app.any.run](https://app.any.run) which runs the file in a sandbox. From here you can download the file and analyze it on test machine: [https://app.any.run/tasks/9cfc028c-9a6f-46c3-8bab-8338ab3ffac9/#](https://app.any.run/tasks/9cfc028c-9a6f-46c3-8bab-8338ab3ffac9/#)\n\n&amp;#x200B;\n\nWhat's interesting is there is a pcap file when this file is run and it appears to communicate to a server called [vb0x.hopto.org](https://vb0x.hopto.org) over port 80. You can see the infected machine sending information about the host to the server such as OS, username, CPU speed, public IP address. Just some information about it. So how did you run into this file?",
+            "timeStamp": "2021/11/02-16:14:18",
+            "id": "hj2rdgd",
+            "is_submitter": false,
+            "link_id": "t3_qladx2",
+            "parent_id": "t3_qladx2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "dkayem"
+        }
+    }
+}

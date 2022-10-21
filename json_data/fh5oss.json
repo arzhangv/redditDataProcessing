@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Here's a very up to date course I found while doing some personal research on malware analysis. I've only watched the first 2017 lecture, but it seems pretty comprehensive in what it covers. The 2020 course also has recorded lectures and even has a lecture on using Ghidra.\n\n[Link to lecture videos](https://www.youtube.com/user/cincykane/videos)\n\n[Link to course website](https://class.malware.re/)\n\n[Course materials on github](https://github.com/ckane/CS7038-Malware-Analysis)",
+        "title": "University of Cincinnati Malware Analysis and Reverse Engineering Course (2020)",
+        "score": 1,
+        "id": "fh5oss",
+        "commsNum": 6,
+        "timeStamp": "2020/03/11-15:28:00",
+        "author_name": "HorsesFlyIntoBoxes",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/fh5oss/university_of_cincinnati_malware_analysis_and/"
+    },
+    "posts": {
+        "fkatdc6": {
+            "comment": "Thanks! Adding this to my to-do!",
+            "timeStamp": "2020/03/12-06:16:29",
+            "id": "fkatdc6",
+            "is_submitter": false,
+            "link_id": "t3_fh5oss",
+            "parent_id": "t3_fh5oss",
+            "score": 1,
+            "stickied": false,
+            "author_name": "careago_"
+        },
+        "fk9y1nz": {
+            "comment": "Great resource! Thanks for the links.",
+            "timeStamp": "2020/03/11-21:14:33",
+            "id": "fk9y1nz",
+            "is_submitter": false,
+            "link_id": "t3_fh5oss",
+            "parent_id": "t3_fh5oss",
+            "score": 1,
+            "stickied": false,
+            "author_name": "technogal"
+        },
+        "fk9536h": {
+            "comment": "Great material from a great guy",
+            "timeStamp": "2020/03/11-16:21:20",
+            "id": "fk9536h",
+            "is_submitter": false,
+            "link_id": "t3_fh5oss",
+            "parent_id": "t3_fh5oss",
+            "score": 2,
+            "stickied": false,
+            "author_name": "ComputerPizza"
+        },
+        "fk94xyx": {
+            "comment": "Coleman is good people. Would highly recommend.",
+            "timeStamp": "2020/03/11-16:19:57",
+            "id": "fk94xyx",
+            "is_submitter": false,
+            "link_id": "t3_fh5oss",
+            "parent_id": "t3_fh5oss",
+            "score": 4,
+            "stickied": false,
+            "author_name": "FlaccidKraken"
+        },
+        "fk92nor": {
+            "comment": "[removed]",
+            "timeStamp": "2020/03/11-15:58:06",
+            "id": "fk92nor",
+            "is_submitter": false,
+            "link_id": "t3_fh5oss",
+            "parent_id": "t3_fh5oss",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fk90pq5": {
+            "comment": "Wow, this website is awesome! Thank for sharing!",
+            "timeStamp": "2020/03/11-15:40:20",
+            "id": "fk90pq5",
+            "is_submitter": false,
+            "link_id": "t3_fh5oss",
+            "parent_id": "t3_fh5oss",
+            "score": 2,
+            "stickied": false,
+            "author_name": "DManHack"
+        }
+    }
+}

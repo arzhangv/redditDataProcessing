@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "(Sys)Call Me Maybe: Exploring Malware Syscalls with PANDA",
+        "score": 14,
+        "id": "3in9mf",
+        "commsNum": 4,
+        "timeStamp": "2015/08/27-14:03:27",
+        "author_name": "moyix",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://moyix.blogspot.com/2015/08/syscall-me-maybe-exploring-malware.html"
+    },
+    "posts": {}
+}

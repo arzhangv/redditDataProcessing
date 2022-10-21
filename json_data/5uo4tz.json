@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "3 Techniques Malware Authors Use to Evade Sandbox Analysis",
+        "score": 28,
+        "id": "5uo4tz",
+        "commsNum": 1,
+        "timeStamp": "2017/02/17-11:32:24",
+        "author_name": "tboro1",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.vmray.com/blog/sandbox-evasion-techniques-part-1/"
+    },
+    "posts": {}
+}

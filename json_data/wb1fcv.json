@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I am happy to share my latest project with the community: ATLAS\n\nIt is an analysis description of malware or kill-chain.\n\nhttps://github.com/MALWARE-ATLAS/ATLAS",
+        "title": "ATLAS: Malware Analysis Description",
+        "score": 1,
+        "id": "wb1fcv",
+        "commsNum": 0,
+        "timeStamp": "2022/07/29-03:39:42",
+        "author_name": "r00tten",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/wb1fcv/atlas_malware_analysis_description/"
+    },
+    "posts": {
+        "ii6coid": {
+            "comment": "[removed]",
+            "timeStamp": "2022/07/29-13:48:08",
+            "id": "ii6coid",
+            "is_submitter": false,
+            "link_id": "t3_wb1fcv",
+            "parent_id": "t3_wb1fcv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

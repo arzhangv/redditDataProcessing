@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Good day everyone, \n\nI have to write a paper on the Cyber Attack that took place in Septemeber 2019 on The cyberattack on India's largest nuclear power plant and her  Space Research Organisation (ISRO).\n\n&amp;#x200B;\n\nNot much is known about the attack. Thus, very little information has been revealed.\n\nHowever, based on my research and other non-official sources (OSINT) the malware of question in the attack would be Dtrack. \n\nUpon regarding about this, i don't quite understand how this malware would be able to infect a system.\n\nCould someone help me explain Dtrack? i.e: How does the infection occur etc\n\n&amp;#x200B;\n\nSome sources:\n\n[https://securelist.com/my-name-is-dtrack/93338/](https://securelist.com/my-name-is-dtrack/93338/) \n\n&amp;#x200B;\n\nthank you :)",
+        "title": "Dtrack Malware",
+        "score": 1,
+        "id": "dx2653",
+        "commsNum": 6,
+        "timeStamp": "2019/11/15-20:25:08",
+        "author_name": "subatomic_rabbithole",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/dx2653/dtrack_malware/"
+    },
+    "posts": {
+        "fl63519": {
+            "comment": "  \n\n**DTrack Analysis Report**\n\nSamples **f84de0a584ae7e02fb0ffe679f96db8d, 3a3bad366916aa3198fd1f76f3c29f24**,and **8f360227e7ee415ff509c2e443370e56** are **DTrack loaders** that locate and decrypt the **DTrack Trojan**, **shellcode** and a **process name** from its overlay data. The process name is pseudorandomly chosen from a block of encrypted process names. The shellcode is responsible for injecting the Trojan into the selected process using a technique called **process hollowing**. Sample **f84de0a584ae7e02fb0ffe679f96db8d** differs however with the shellcode injecting the RAT into the loader's process space instead of the process space of the selected process. DTrack Trojans are capable of downloading and uploading files, obtaining system information, executing commands, entrenching files and archiving directory listings of volumes to a password-protected ZIP file. The Trojans contact the following C2 servers: www\\[.\\]totalmateria\\[.\\]net www\\[.\\]materialindia\\[.\\]in \\* katawaku\\[.\\]jp\n\nCreated by **X-Force IRIS** Last updated **Mar 18, 2020**",
+            "timeStamp": "2020/03/21-21:55:36",
+            "id": "fl63519",
+            "is_submitter": false,
+            "link_id": "t3_dx2653",
+            "parent_id": "t3_dx2653",
+            "score": 1,
+            "stickied": false,
+            "author_name": "bishnumu"
+        },
+        "f7niock": {
+            "comment": "Thank you :)\n\n&amp;#x200B;\n\nBut i still don't quite understand how this malware infects a system..\n\ncant seem to find a good source explaining it :/",
+            "timeStamp": "2019/11/16-04:01:49",
+            "id": "f7niock",
+            "is_submitter": true,
+            "link_id": "t3_dx2653",
+            "parent_id": "t1_f7namcv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "subatomic_rabbithole"
+        },
+        "f7nimmg": {
+            "comment": "One of the 3 only countries that deserves it",
+            "timeStamp": "2019/11/16-04:00:39",
+            "id": "f7nimmg",
+            "is_submitter": false,
+            "link_id": "t3_dx2653",
+            "parent_id": "t3_dx2653",
+            "score": 1,
+            "stickied": false,
+            "author_name": "EndangeredPootis"
+        },
+        "f7nd61m": {
+            "comment": "[Kaspersky](https://usa.kaspersky.com/about/press-releases/2019_dtrack-previously-unknown-spy-tool-hits-financial-institutions-and-research-centers) also released some information",
+            "timeStamp": "2019/11/16-01:29:43",
+            "id": "f7nd61m",
+            "is_submitter": false,
+            "link_id": "t3_dx2653",
+            "parent_id": "t3_dx2653",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sayo_nara"
+        },
+        "f7naopb": {
+            "comment": "Thank you, will check it out",
+            "timeStamp": "2019/11/16-00:22:16",
+            "id": "f7naopb",
+            "is_submitter": true,
+            "link_id": "t3_dx2653",
+            "parent_id": "t1_f7namcv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "subatomic_rabbithole"
+        },
+        "f7namcv": {
+            "comment": "From Pukhraj Singh(@RungRage ) Tweet trail in September and subsequently on October 28 can give you the DTrack explanation on how does the infection occur. Link is [https://twitter.com/RungRage/status/1189019122924806145](https://twitter.com/RungRage/status/1189019122924806145)",
+            "timeStamp": "2019/11/16-00:20:31",
+            "id": "f7namcv",
+            "is_submitter": false,
+            "link_id": "t3_dx2653",
+            "parent_id": "t3_dx2653",
+            "score": 1,
+            "stickied": false,
+            "author_name": "bishnumu"
+        }
+    }
+}

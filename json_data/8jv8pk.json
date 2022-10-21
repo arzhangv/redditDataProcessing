@@ -1,0 +1,198 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I have been interested in malware for a few years now, but nothing to me in malware is more interesting than fake, rogue antiviruses.\n\nBut, I haven't been able to find any in the wild on the internet, or a download to any new ones ANYWHERE. And this makes me sad, as I would love to find new ones and find out how to remove them for fun. As I loved watching those old Rogueamp videos back when he uploaded malware videos.\n\nIf you know anything about this, please reply. Thanks.",
+        "title": "Where could I find, \"Rogue Antivirus\" malware samples?",
+        "score": 17,
+        "id": "8jv8pk",
+        "commsNum": 16,
+        "timeStamp": "2018/05/16-07:14:33",
+        "author_name": "theStrobilus",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 16,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8jv8pk/where_could_i_find_rogue_antivirus_malware_samples/"
+    },
+    "posts": {
+        "e885nvr": {
+            "comment": "[removed]",
+            "timeStamp": "2018/10/22-02:18:47",
+            "id": "e885nvr",
+            "is_submitter": false,
+            "link_id": "t3_8jv8pk",
+            "parent_id": "t3_8jv8pk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "dzmw9i0": {
+            "comment": "yes please we need this",
+            "timeStamp": "2018/05/26-17:39:47",
+            "id": "dzmw9i0",
+            "is_submitter": false,
+            "link_id": "t3_8jv8pk",
+            "parent_id": "t1_dz3zujb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TurboPS3Ninja"
+        },
+        "dzf8ld8": {
+            "comment": "I hope the trend comes back to rogue antiviruses, because Ransomware and background bit\\-coining malware are super boring!!! \\&gt;:\\(",
+            "timeStamp": "2018/05/22-19:28:28",
+            "id": "dzf8ld8",
+            "is_submitter": true,
+            "link_id": "t3_8jv8pk",
+            "parent_id": "t1_dz2ybjg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "theStrobilus"
+        },
+        "dzf8jqq": {
+            "comment": "Protogent is more of just crapware than a rogue.",
+            "timeStamp": "2018/05/22-19:27:41",
+            "id": "dzf8jqq",
+            "is_submitter": true,
+            "link_id": "t3_8jv8pk",
+            "parent_id": "t1_dz2pw5j",
+            "score": 1,
+            "stickied": false,
+            "author_name": "theStrobilus"
+        },
+        "dzc4z90": {
+            "comment": "Protegent",
+            "timeStamp": "2018/05/21-08:44:54",
+            "id": "dzc4z90",
+            "is_submitter": false,
+            "link_id": "t3_8jv8pk",
+            "parent_id": "t1_dz2pw5j",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MatunReddit"
+        },
+        "dz41h1h": {
+            "comment": "Yeap. We all knew that~ \nStill miss him and the rogues tho :v",
+            "timeStamp": "2018/05/16-20:14:05",
+            "id": "dz41h1h",
+            "is_submitter": false,
+            "link_id": "t3_8jv8pk",
+            "parent_id": "t1_dz40339",
+            "score": 1,
+            "stickied": false,
+            "author_name": "terang_md"
+        },
+        "dz40339": {
+            "comment": "I suppose it was better for him to just quit when he got bored of it. I definitely noticed him slowly getting bored\\-er as he was about to enter that phase of just not uploading.",
+            "timeStamp": "2018/05/16-19:49:21",
+            "id": "dz40339",
+            "is_submitter": true,
+            "link_id": "t3_8jv8pk",
+            "parent_id": "t1_dz3nyka",
+            "score": 2,
+            "stickied": false,
+            "author_name": "theStrobilus"
+        },
+        "dz3zujb": {
+            "comment": "Link to a folder of them?",
+            "timeStamp": "2018/05/16-19:45:10",
+            "id": "dz3zujb",
+            "is_submitter": true,
+            "link_id": "t3_8jv8pk",
+            "parent_id": "t1_dz3t1hc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "theStrobilus"
+        },
+        "dz3zrig": {
+            "comment": "Looked around on it, couldn't find any download links.\n\nrogue antiviruses are so rare .:\\(",
+            "timeStamp": "2018/05/16-19:43:42",
+            "id": "dz3zrig",
+            "is_submitter": true,
+            "link_id": "t3_8jv8pk",
+            "parent_id": "t1_dz3wgsv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "theStrobilus"
+        },
+        "dz3wgsv": {
+            "comment": "[This site used to be really really good](http://siri-urz.blogspot.com/) for rogue AVs",
+            "timeStamp": "2018/05/16-18:46:23",
+            "id": "dz3wgsv",
+            "is_submitter": false,
+            "link_id": "t3_8jv8pk",
+            "parent_id": "t3_8jv8pk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "NinjaYoda"
+        },
+        "dz3t1hc": {
+            "comment": "I have some ancient samples I can throw your way - NavaShield included.",
+            "timeStamp": "2018/05/16-17:45:28",
+            "id": "dz3t1hc",
+            "is_submitter": false,
+            "link_id": "t3_8jv8pk",
+            "parent_id": "t3_8jv8pk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "FixThisBrokenMachine"
+        },
+        "dz3nyka": {
+            "comment": "Yea. I miss RogueAmp~",
+            "timeStamp": "2018/05/16-16:13:22",
+            "id": "dz3nyka",
+            "is_submitter": false,
+            "link_id": "t3_8jv8pk",
+            "parent_id": "t3_8jv8pk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "terang_md"
+        },
+        "dz3mvlu": {
+            "comment": "i would also like to try rouge av samples",
+            "timeStamp": "2018/05/16-15:54:23",
+            "id": "dz3mvlu",
+            "is_submitter": false,
+            "link_id": "t3_8jv8pk",
+            "parent_id": "t3_8jv8pk",
+            "score": 2,
+            "stickied": false,
+            "author_name": "TurboPS3Ninja"
+        },
+        "dz36785": {
+            "comment": "I personally haven't seen a rogue in over 5 years. ",
+            "timeStamp": "2018/05/16-11:38:09",
+            "id": "dz36785",
+            "is_submitter": false,
+            "link_id": "t3_8jv8pk",
+            "parent_id": "t3_8jv8pk",
+            "score": 4,
+            "stickied": false,
+            "author_name": "brownies303"
+        },
+        "dz2ybjg": {
+            "comment": "There aren\u2019t many (any?) new rogues as of late - the attention has shifted to ransomware and cryptomining. ",
+            "timeStamp": "2018/05/16-09:47:08",
+            "id": "dz2ybjg",
+            "is_submitter": false,
+            "link_id": "t3_8jv8pk",
+            "parent_id": "t3_8jv8pk",
+            "score": 2,
+            "stickied": false,
+            "author_name": "inoculan2"
+        },
+        "dz2pw5j": {
+            "comment": "Vinesauce joel found a few in his videos of computer destruction. Stuff like windows police, progent, etc. ",
+            "timeStamp": "2018/05/16-07:46:35",
+            "id": "dz2pw5j",
+            "is_submitter": false,
+            "link_id": "t3_8jv8pk",
+            "parent_id": "t3_8jv8pk",
+            "score": 3,
+            "stickied": false,
+            "author_name": "drewlap"
+        }
+    }
+}

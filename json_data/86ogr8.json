@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "The AVCrypt Ransomware Tries To Uninstall Your AV Software",
+        "score": 25,
+        "id": "86ogr8",
+        "commsNum": 0,
+        "timeStamp": "2018/03/23-14:52:38",
+        "author_name": "TechLord2",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.bleepingcomputer.com/news/security/the-avcrypt-ransomware-tries-to-uninstall-your-av-software/"
+    },
+    "posts": {
+        "dx099ll": {
+            "comment": "Anyone got samples? ",
+            "timeStamp": "2018/04/08-00:04:09",
+            "id": "dx099ll",
+            "is_submitter": false,
+            "link_id": "t3_86ogr8",
+            "parent_id": "t3_86ogr8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MisterCBax"
+        }
+    }
+}

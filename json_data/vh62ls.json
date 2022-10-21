@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Apple iPhone Malware",
+        "score": 1,
+        "id": "vh62ls",
+        "commsNum": 0,
+        "timeStamp": "2022/06/20-22:48:24",
+        "author_name": "DoItTodayBro",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://i.redd.it/9lf6v98rxw691.jpg"
+    },
+    "posts": {
+        "id8lgn4": {
+            "comment": "I can't speak to anyone's intentions. But I can tell you that http protocol doesn't exist and the space in the url is also impossible. Regards of who wrote the link whether it op, the user, or some really bad malware that link will never lead anywhere",
+            "timeStamp": "2022/06/21-16:03:40",
+            "id": "id8lgn4",
+            "is_submitter": false,
+            "link_id": "t3_vh62ls",
+            "parent_id": "t1_id70jah",
+            "score": 1,
+            "stickied": false,
+            "author_name": "pastathepal"
+        },
+        "id70jah": {
+            "comment": "Fake in terms of the user wrote it by himself and sent our to 4 unordered contacts by mistake? Or that I wrote it to get attention at this subreddit?",
+            "timeStamp": "2022/06/21-08:52:18",
+            "id": "id70jah",
+            "is_submitter": true,
+            "link_id": "t3_vh62ls",
+            "parent_id": "t1_id5yp1e",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DoItTodayBro"
+        },
+        "id70977": {
+            "comment": "Is it a phishing link when you are the sender of the Message? The question is how can the phone sent this by itself or what app could have permission to do so? Like I wrote there was no user action that triggered this iMessage and he haven\u2019t received it from other people. The link is broken and I couldn\u2019t find anything like that online.",
+            "timeStamp": "2022/06/21-08:50:22",
+            "id": "id70977",
+            "is_submitter": true,
+            "link_id": "t3_vh62ls",
+            "parent_id": "t1_id5uykm",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DoItTodayBro"
+        },
+        "id5uykm": {
+            "comment": "Bro just found out about phishing links",
+            "timeStamp": "2022/06/21-02:13:38",
+            "id": "id5uykm",
+            "is_submitter": false,
+            "link_id": "t3_vh62ls",
+            "parent_id": "t3_vh62ls",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Justhereforther34"
+        },
+        "id5g8cx": {
+            "comment": "This message was sent to 4 random contacts over iMessage. The owner thinks that he hasn\u2019t clicked on anything and didn\u2019t receive the message for himself. I couldn\u2019t find anything online. I don\u2019t have a clue why the iMessage has been sent. It looks for sure like malware? His iPhone is funny patched.",
+            "timeStamp": "2022/06/20-22:48:52",
+            "id": "id5g8cx",
+            "is_submitter": true,
+            "link_id": "t3_vh62ls",
+            "parent_id": "t3_vh62ls",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DoItTodayBro"
+        }
+    }
+}

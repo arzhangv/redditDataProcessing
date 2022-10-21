@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Doing network scans I have noticed a lot of instances of the website [BFMIO.com](https://BFMIO.com) showing up numerous times on our network from multiple users all with zero knowledge. \n\nRan Malware scanner: Webroot, Windows Defender. \n\nRemoved suspicious looking extensions/software. \n\nI'm sure there might be Registry entries associated that might be needing to be removed. Has anyone had an issue like this they have had to deal with?\n\n&amp;#x200B;\n\n&amp;#x200B;",
+        "title": "BFMIO.com surgency in network",
+        "score": 1,
+        "id": "a0wjoi",
+        "commsNum": 1,
+        "timeStamp": "2018/11/27-08:43:59",
+        "author_name": "Thano2Drugskids",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/a0wjoi/bfmiocom_surgency_in_network/"
+    },
+    "posts": {
+        "eakwcdx": {
+            "comment": "MAYBE YOU SHOULD ASK R/TECHSUPPORT NOOB",
+            "timeStamp": "2018/11/27-08:47:21",
+            "id": "eakwcdx",
+            "is_submitter": false,
+            "link_id": "t3_a0wjoi",
+            "parent_id": "t3_a0wjoi",
+            "score": 1,
+            "stickied": true,
+            "author_name": "edward_snowedin"
+        }
+    }
+}

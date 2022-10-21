@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "VMCloak - A automated windows guest virtual machine creator for Linux",
+        "score": 1,
+        "id": "2vrpsp",
+        "commsNum": 0,
+        "timeStamp": "2015/02/13-06:55:58",
+        "author_name": "IstyloMax",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://iteamdevelopers.org/vmcloak-automated-virtual-machine-creator/"
+    },
+    "posts": {}
+}

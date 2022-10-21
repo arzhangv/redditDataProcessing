@@ -1,0 +1,110 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Set up a Mac VM on VMWare, tried running the ThiefQuest Ransomware. On the Activity Monitor, I Force Quit vmware-tools-daemon, hoping it won't detect it as a VM. But I guess I'm wrong. It's either the samples I've gotten are wrong, or the malware detects a VM. \n\nhttps://preview.redd.it/qjsk2yyu0h951.png?width=1910&amp;format=png&amp;auto=webp&amp;s=e5d5186bee11b35fdc5eaa1d7c06d577c4a3da32",
+        "title": "ThiefQuest Ransomware detects VM (possibly)",
+        "score": 1,
+        "id": "hmzwmt",
+        "commsNum": 8,
+        "timeStamp": "2020/07/07-11:17:20",
+        "author_name": "LMJR500Army",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 8,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/hmzwmt/thiefquest_ransomware_detects_vm_possibly/"
+    },
+    "posts": {
+        "fxi8kaa": {
+            "comment": "oi cunt....",
+            "timeStamp": "2020/07/09-23:22:04",
+            "id": "fxi8kaa",
+            "is_submitter": false,
+            "link_id": "t3_hmzwmt",
+            "parent_id": "t1_fx9o8nr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sike_nikka"
+        },
+        "fxdv4qk": {
+            "comment": "The moment has passed...",
+            "timeStamp": "2020/07/08-20:04:29",
+            "id": "fxdv4qk",
+            "is_submitter": false,
+            "link_id": "t3_hmzwmt",
+            "parent_id": "t1_fx9o8nr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "bughunter47"
+        },
+        "fxb42tv": {
+            "comment": "It can still detect that it's in a VM even without the vmware-tools-daemon running.  Common methods in [this VMware kb article.](https://kb.vmware.com/s/article/1009458) \n\nThere are plenty of other anti-forensic methods for detecting a VM as well.  Sometimes you need to be as tricky as the creators to get the malware to actually run when you are trying to examine it.",
+            "timeStamp": "2020/07/08-05:57:17",
+            "id": "fxb42tv",
+            "is_submitter": false,
+            "link_id": "t3_hmzwmt",
+            "parent_id": "t3_hmzwmt",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TheDarthSnarf"
+        },
+        "fx9wfaf": {
+            "comment": "Me too please",
+            "timeStamp": "2020/07/07-19:53:24",
+            "id": "fx9wfaf",
+            "is_submitter": false,
+            "link_id": "t3_hmzwmt",
+            "parent_id": "t1_fx8z91u",
+            "score": 1,
+            "stickied": false,
+            "author_name": "goose2"
+        },
+        "fx9o8nr": {
+            "comment": "Sure, just gimme a moment",
+            "timeStamp": "2020/07/07-18:32:08",
+            "id": "fx9o8nr",
+            "is_submitter": true,
+            "link_id": "t3_hmzwmt",
+            "parent_id": "t1_fx8z91u",
+            "score": 1,
+            "stickied": false,
+            "author_name": "LMJR500Army"
+        },
+        "fx8z91u": {
+            "comment": "Do you mind sharing the sample? I'd love to take a look",
+            "timeStamp": "2020/07/07-14:42:05",
+            "id": "fx8z91u",
+            "is_submitter": false,
+            "link_id": "t3_hmzwmt",
+            "parent_id": "t3_hmzwmt",
+            "score": 1,
+            "stickied": false,
+            "author_name": "kindredsec"
+        },
+        "fx8xiop": {
+            "comment": "It doesn't look like it's running? \n\n [https://support.apple.com/en-gb/guide/mac-help/mh40616/mac](https://support.apple.com/en-gb/guide/mac-help/mh40616/mac)",
+            "timeStamp": "2020/07/07-14:27:57",
+            "id": "fx8xiop",
+            "is_submitter": false,
+            "link_id": "t3_hmzwmt",
+            "parent_id": "t3_hmzwmt",
+            "score": 1,
+            "stickied": false,
+            "author_name": "nre_graphico"
+        },
+        "fx8cvcp": {
+            "comment": "Some malware still operates in VMs, it's usually when it detects a debugger it'll quit.",
+            "timeStamp": "2020/07/07-11:43:04",
+            "id": "fx8cvcp",
+            "is_submitter": false,
+            "link_id": "t3_hmzwmt",
+            "parent_id": "t3_hmzwmt",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Bot-01A"
+        }
+    }
+}

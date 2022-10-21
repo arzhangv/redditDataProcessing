@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Small command-line PowerShell ransomware simulator, can be used to evaluate file-based ransomware recovery technology",
+        "score": 1,
+        "id": "uofcb6",
+        "commsNum": 0,
+        "timeStamp": "2022/05/12-17:27:08",
+        "author_name": "tborosavage",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.linkedin.com/posts/smgoreli_powershell-ransomware-activity-6930633380338290688-IDvY?utm_source=linkedin_share&amp;utm_medium=member_desktop_web"
+    },
+    "posts": {}
+}

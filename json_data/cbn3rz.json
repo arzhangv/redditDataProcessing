@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[http://prntscr.com/odbvt3](http://prntscr.com/odbvt3) Just wanted to read something about Shaq as you can see and I randomly got redirected. Got adblock on and all that and going to that link again nothing happens. Any idea why is that? It tells me I'm using an outdated Chrome version. Obviously I have my doubts and I'm not falling into this trap if it is one which I'm 95% sure it is some junk.\n\nEven Chrome marks it as insecure [http://prntscr.com/odby7j](http://prntscr.com/odby7j) and the download link contains BSO in it so do they host the download? Is this a suspicious site even though Chrome marks it as secure? As far as I am aware I've got no viruses on my PC as of now and I've got one more extention that gives me permission to generate steam accounts (it's on one single site). I don't really think it's actually malware just something to get me to install junk on my PC and I think this is the right sub.",
+        "title": "Blacksportsonline redirect",
+        "score": 3,
+        "id": "cbn3rz",
+        "commsNum": 5,
+        "timeStamp": "2019/07/10-14:58:54",
+        "author_name": "fQrestX",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/cbn3rz/blacksportsonline_redirect/"
+    },
+    "posts": {
+        "etj0u9a": {
+            "comment": "No problem, stay safe!",
+            "timeStamp": "2019/07/11-09:52:45",
+            "id": "etj0u9a",
+            "is_submitter": false,
+            "link_id": "t3_cbn3rz",
+            "parent_id": "t1_etizgw9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ssj4VB"
+        },
+        "etizgw9": {
+            "comment": "Will do, thanks for the advice man, appreciate it :D",
+            "timeStamp": "2019/07/11-09:39:19",
+            "id": "etizgw9",
+            "is_submitter": true,
+            "link_id": "t3_cbn3rz",
+            "parent_id": "t1_etivtc2",
+            "score": 2,
+            "stickied": false,
+            "author_name": "fQrestX"
+        },
+        "etivtc2": {
+            "comment": "JavaScript? That\u2019s where most online attacks come from, I\u2019d scan the pc again with Malwarebytes and never touch that website again",
+            "timeStamp": "2019/07/11-09:01:52",
+            "id": "etivtc2",
+            "is_submitter": false,
+            "link_id": "t3_cbn3rz",
+            "parent_id": "t1_etishdp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ssj4VB"
+        },
+        "etishdp": {
+            "comment": "Happened again today, on the same site/domain. Nothing else on trusted sites. Opening the .zip shows a JavaScript file inside.",
+            "timeStamp": "2019/07/11-08:26:58",
+            "id": "etishdp",
+            "is_submitter": true,
+            "link_id": "t3_cbn3rz",
+            "parent_id": "t1_etirve9",
+            "score": 2,
+            "stickied": false,
+            "author_name": "fQrestX"
+        },
+        "etirve9": {
+            "comment": "If it only happens on that one site, it\u2019s the website that\u2019s trying to trick you into installing malware not an actual virus, does it happen on trusted websites aswell like YouTube.com?",
+            "timeStamp": "2019/07/11-08:20:21",
+            "id": "etirve9",
+            "is_submitter": false,
+            "link_id": "t3_cbn3rz",
+            "parent_id": "t3_cbn3rz",
+            "score": 2,
+            "stickied": false,
+            "author_name": "ssj4VB"
+        }
+    }
+}

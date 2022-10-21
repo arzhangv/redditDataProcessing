@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "contagio: OSX/Flashback.K sample + Mac OS malware study set (30+ older samples)",
+        "score": 1,
+        "id": "s2xy4",
+        "commsNum": 0,
+        "timeStamp": "2012/04/10-11:44:29",
+        "author_name": "diff-t",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": null,
+        "url": "http://contagiodump.blogspot.com/2012/04/osxflashbackk-sample-mac-os-malware.html"
+    },
+    "posts": {}
+}

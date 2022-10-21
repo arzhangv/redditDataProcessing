@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "From my knowledge, the adame randomware is given through dodgy torrents, and encrypts all your files and USBs by replacing it's code with the author's bitcoin address.\n\nWhere would i be able to find samples for this? (other than torrenting)",
+        "title": "Looking for sample of the ADAME ransomware",
+        "score": 1,
+        "id": "dujhjk",
+        "commsNum": 3,
+        "timeStamp": "2019/11/10-15:38:06",
+        "author_name": "Fect321",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/dujhjk/looking_for_sample_of_the_adame_ransomware/"
+    },
+    "posts": {
+        "f77kqbu": {
+            "comment": "\n\nI found mine (accidentally) by torrenting \"Ms office 2019\". I installed office just fine. But the path I had to run was the infected part. I ran it and then my background went black. All of my files had the adame extension and nothing opened. Even my hard drive that was connected got hit. But luckily only mp3 files on the drive were affected. I learned my lesson and took out the backups.",
+            "timeStamp": "2019/11/11-00:40:33",
+            "id": "f77kqbu",
+            "is_submitter": false,
+            "link_id": "t3_dujhjk",
+            "parent_id": "t3_dujhjk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "err-therror"
+        },
+        "f77jv70": {
+            "comment": "I\u2019m interested as well! Can I Pm?",
+            "timeStamp": "2019/11/11-00:18:21",
+            "id": "f77jv70",
+            "is_submitter": false,
+            "link_id": "t3_dujhjk",
+            "parent_id": "t3_dujhjk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "polybiusKai"
+        },
+        "f77dv0i": {
+            "comment": "PM me and I\u2019ll provide instructions on retrieving a sample for this.",
+            "timeStamp": "2019/11/10-22:06:19",
+            "id": "f77dv0i",
+            "is_submitter": false,
+            "link_id": "t3_dujhjk",
+            "parent_id": "t3_dujhjk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "danstheman7"
+        }
+    }
+}

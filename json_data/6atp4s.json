@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Massive ransomware attack leveraging on WannaCrypt hits systems in dozen countries",
+        "score": 1,
+        "id": "6atp4s",
+        "commsNum": 0,
+        "timeStamp": "2017/05/12-13:12:01",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/59057/cyber-crime/massive-attack-wannacrypt-ransomware.html"
+    },
+    "posts": {}
+}

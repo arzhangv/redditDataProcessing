@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "November 2021\u2019s Most Wanted Malware: Emotet Returns to the Top 10",
+        "score": 1,
+        "id": "rcnglx",
+        "commsNum": 4,
+        "timeStamp": "2021/12/09-10:11:34",
+        "author_name": "HotMomentumStocks",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://crweworld.com/article/news-provided-by-globenewswire/2226908/november-2021s-most-wanted-malware-emotet-returns-to-the-top-10"
+    },
+    "posts": {
+        "hnyfap2": {
+            "comment": "Emotes was a massive false positive on ATP last week. These results don't feel right.",
+            "timeStamp": "2021/12/09-22:07:09",
+            "id": "hnyfap2",
+            "is_submitter": false,
+            "link_id": "t3_rcnglx",
+            "parent_id": "t3_rcnglx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "fsereicikas"
+        },
+        "hny7s53": {
+            "comment": "Nice! Thank you!",
+            "timeStamp": "2021/12/09-20:56:02",
+            "id": "hny7s53",
+            "is_submitter": false,
+            "link_id": "t3_rcnglx",
+            "parent_id": "t1_hnwqqb6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "JJenkx"
+        },
+        "hnwqqb6": {
+            "comment": "https://www.checkpoint.com/press/2021/november-2021s-most-wanted-malware-emotet-returns-to-the-top-10/",
+            "timeStamp": "2021/12/09-14:21:13",
+            "id": "hnwqqb6",
+            "is_submitter": false,
+            "link_id": "t3_rcnglx",
+            "parent_id": "t1_hnwflxz",
+            "score": 4,
+            "stickied": false,
+            "author_name": "Th3_Pr0f3ss0r"
+        },
+        "hnwflxz": {
+            "comment": "Is there a link to that article that uses TLS? I generally refuse to open HTTP only webpages",
+            "timeStamp": "2021/12/09-13:05:47",
+            "id": "hnwflxz",
+            "is_submitter": false,
+            "link_id": "t3_rcnglx",
+            "parent_id": "t3_rcnglx",
+            "score": 3,
+            "stickied": false,
+            "author_name": "JJenkx"
+        }
+    }
+}

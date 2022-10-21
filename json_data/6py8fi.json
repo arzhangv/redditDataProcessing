@@ -1,0 +1,187 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Unless of course they record everything, is that what they would do? How do they normally work?",
+        "title": "How do malicious keyloggers know what to record and what not to record when trying to steal passwords, credit card info, etc?",
+        "score": 8,
+        "id": "6py8fi",
+        "commsNum": 14,
+        "timeStamp": "2017/07/27-12:10:26",
+        "author_name": "Kurt2121",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 14,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6py8fi/how_do_malicious_keyloggers_know_what_to_record/"
+    },
+    "posts": {
+        "dkzk6m0": {
+            "comment": "Yes these APIs are built into windows and no malware does not modify them. Them simply use them for malicious purposes. \n\n\nA gun can be used to protect but a can also be used to rob people.\n\n\nGetAsyncKeyState is used for getting keyboard input however it is used for gaming (usually) it gets up arrows or down arrows or is used for short cuts (control F for search, for example). However, malware simply uses the function call to enumerate all input from the keyboard.\n\n\nSetWindowHookEx is a callback function. It's used for events. For example SetWindowHookEx can be used so whenever a user closes a tab on a browser it'll display \"are you sure you want to close this tab?\" It sets the hook so on application close it does X. However, malware use the hook on keyboard input.\n\n\nNo, you would not find anything on your hard drive with these terms. They're built in functions similar to printf or scant or GetEnvironmentVariable or GetModuleHandle etc. they're just routines for the computer.",
+            "timeStamp": "2017/07/31-15:53:43",
+            "id": "dkzk6m0",
+            "is_submitter": false,
+            "link_id": "t3_6py8fi",
+            "parent_id": "t1_dkzdt2n",
+            "score": 1,
+            "stickied": false,
+            "author_name": "dwThread"
+        },
+        "dkzdt2n": {
+            "comment": "I'm about to throw some serious noob questions your way..\n\nSo these GetAsyncKeyState and SetWindowHookEx, what are these exactly in laymen terms? Does every Windows system come with these functions and the malware changes something to activate them? \n\nOr could I search through a HDD with these terms, and if I find files with them would that indicate I had a keylogger?",
+            "timeStamp": "2017/07/31-13:50:08",
+            "id": "dkzdt2n",
+            "is_submitter": true,
+            "link_id": "t3_6py8fi",
+            "parent_id": "t1_dkycs5v",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Kurt2121"
+        },
+        "dkyg02e": {
+            "comment": "Thanks. I haven't personally encountered many malware variants that do string analysis in real time to determine what data is valuable. That's far too sophisticated as there is way too much valuable information around unless there is a primary target. Again, getting a Foreground window would accomplish the goal. String sanitization and real time analysis (such as parsing) could potentially be \"heavy\" which may not be viable when genuine malware needs to be as lightweight as possible (no strings, packed, position independent, if possible fractionated, usage of the heap or peb, kernel calls to avoid API forwarding, etc)",
+            "timeStamp": "2017/07/31-00:03:04",
+            "id": "dkyg02e",
+            "is_submitter": false,
+            "link_id": "t3_6py8fi",
+            "parent_id": "t1_dkyfv4g",
+            "score": 1,
+            "stickied": false,
+            "author_name": "dwThread"
+        },
+        "dkyfv4g": {
+            "comment": "THIS is the correct answer.\n\nOthers api calls too, but the core is listed in OP comment.",
+            "timeStamp": "2017/07/30-23:57:26",
+            "id": "dkyfv4g",
+            "is_submitter": false,
+            "link_id": "t3_6py8fi",
+            "parent_id": "t1_dkycs5v",
+            "score": 2,
+            "stickied": false,
+            "author_name": "RyanStankye"
+        },
+        "dkycs5v": {
+            "comment": "I'm on mobile so pardon my typos of weird formatting.\n\n\nI'm a big malware nerd. I write malware proof of concepts regularly and do lectures on them when I've got free time.\n\n\nComputers have I/O. Input and output. Some input is more valuable than others. Blah blah blah. On the Windows OS there are several different methodologies in place to keylog data. Some more easily accomplished than others. From a user level perspective we can utilize available Windows API functions to log data:\n\n\n1. GetAsyncKeyState\n\n\n2. SetWindowHookEx\n\n\n3. RegisterRawInputData + GetRawInputData\n\n\n4. Memory Injection (altering in memory instructions).\n\n\nThe most common way to get valuable data is to GetForegroundWindow because this will tell you what application they're typing into. If the Foreground window string returns \"Facebook - Login\". You have found your target.",
+            "timeStamp": "2017/07/30-22:08:56",
+            "id": "dkycs5v",
+            "is_submitter": false,
+            "link_id": "t3_6py8fi",
+            "parent_id": "t3_6py8fi",
+            "score": 3,
+            "stickied": false,
+            "author_name": "dwThread"
+        },
+        "dkx7e7a": {
+            "comment": "This is very vague questions which i have no time to answer, there is countless reports/whitepapers about keyloggers i suggest you google some up and read for yourself.",
+            "timeStamp": "2017/07/30-05:34:42",
+            "id": "dkx7e7a",
+            "is_submitter": false,
+            "link_id": "t3_6py8fi",
+            "parent_id": "t1_dkw6a2q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Banangurkamacka"
+        },
+        "dkw6a2q": {
+            "comment": "Thanks. I've never heard of it being uploaded directly to something like pastebin or github. How long have keyloggers been doing that?",
+            "timeStamp": "2017/07/29-10:59:09",
+            "id": "dkw6a2q",
+            "is_submitter": true,
+            "link_id": "t3_6py8fi",
+            "parent_id": "t1_dktzxqo",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Kurt2121"
+        },
+        "dkud00u": {
+            "comment": "Cred cards can be recognized by the luhn algorithm.\nWhich has been in used in the wild. ",
+            "timeStamp": "2017/07/28-07:31:36",
+            "id": "dkud00u",
+            "is_submitter": false,
+            "link_id": "t3_6py8fi",
+            "parent_id": "t3_6py8fi",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Brononaymous"
+        },
+        "dktzxqo": {
+            "comment": "There are endless variants of this. Yes there can be a file on disk, or it's uploading to a server(github, pastebin etc). Or problaby a few thousand more alternatives.",
+            "timeStamp": "2017/07/28-00:35:24",
+            "id": "dktzxqo",
+            "is_submitter": false,
+            "link_id": "t3_6py8fi",
+            "parent_id": "t1_dktlhxn",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Banangurkamacka"
+        },
+        "dktu849": {
+            "comment": "Usually in a single file which is sent in its entirety but anyone can implement it however they want.",
+            "timeStamp": "2017/07/27-21:34:49",
+            "id": "dktu849",
+            "is_submitter": false,
+            "link_id": "t3_6py8fi",
+            "parent_id": "t1_dktll7s",
+            "score": 2,
+            "stickied": false,
+            "author_name": "iheartrms"
+        },
+        "dktll7s": {
+            "comment": "So everything is in a single text file? Is that file usually just sent in full to the malicious server? Or is it usually scanned for passwords cc info etc?",
+            "timeStamp": "2017/07/27-18:11:45",
+            "id": "dktll7s",
+            "is_submitter": true,
+            "link_id": "t3_6py8fi",
+            "parent_id": "t1_dkt6kxg",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Kurt2121"
+        },
+        "dktlhxn": {
+            "comment": "Ah okay. So would happens then? Like, is it all usually just left on the victim machine in a file? Does the file get sent back to the malicious server? Do they just have it auto scanned for important details?",
+            "timeStamp": "2017/07/27-18:09:38",
+            "id": "dktlhxn",
+            "is_submitter": true,
+            "link_id": "t3_6py8fi",
+            "parent_id": "t1_dktjs48",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Kurt2121"
+        },
+        "dktjs48": {
+            "comment": "Most of what /u/iheartrms said is accurate, but an increasing number of Keyloggers come via backdoored extensions and notifications like [this one](https://www.reddit.com/r/antivirus/comments/6l3j3h/this_thing_popped_up_and_scared_me_a_bit_i/) where they are in chrome and can tell when a page has loaded similar to filtering extensions like Avira or UBO. \n\nAlso, they could check keys pressed before the enter key (e.g. google.com ENTR) for spaces or other primitive filters.",
+            "timeStamp": "2017/07/27-17:30:14",
+            "id": "dktjs48",
+            "is_submitter": false,
+            "link_id": "t3_6py8fi",
+            "parent_id": "t3_6py8fi",
+            "score": 3,
+            "stickied": false,
+            "author_name": "34Dell17"
+        },
+        "dkteran": {
+            "comment": "[deleted]",
+            "timeStamp": "2017/07/27-15:41:30",
+            "id": "dkteran",
+            "is_submitter": false,
+            "link_id": "t3_6py8fi",
+            "parent_id": "t1_dkt6kxg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "dkt6kxg": {
+            "comment": "You don't type much at all. Either they record absolutely everything or they pattern match to detect what they are looking for. But usually they just record everything. ",
+            "timeStamp": "2017/07/27-13:09:28",
+            "id": "dkt6kxg",
+            "is_submitter": false,
+            "link_id": "t3_6py8fi",
+            "parent_id": "t3_6py8fi",
+            "score": 11,
+            "stickied": false,
+            "author_name": "iheartrms"
+        }
+    }
+}

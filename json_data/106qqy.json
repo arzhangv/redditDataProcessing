@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Sophos recognises the Sophos updater as malware... and deletes it",
+        "score": 29,
+        "id": "106qqy",
+        "commsNum": 3,
+        "timeStamp": "2012/09/20-04:21:10",
+        "author_name": "Donnerholz",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://community.sophos.com/t5/Sophos-Endpoint-Protection/Is-any-one-else-seing-this-alert-Shh-Updater-B-False-positives/td-p/29723/page/26"
+    },
+    "posts": {}
+}

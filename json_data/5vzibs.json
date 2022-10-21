@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I wanted to debug some malware that often appears in emails and such and was wondering what the best practices are for setting up a test environment?\n\nOne of my main questions would be, is it safe to make a virtual environment on my main computer and configure it in a way to keep my pc/network safe?",
+        "title": "Best Practices for a Malware Test Environment",
+        "score": 0,
+        "id": "5vzibs",
+        "commsNum": 4,
+        "timeStamp": "2017/02/24-11:25:40",
+        "author_name": "Rfr3sh",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5vzibs/best_practices_for_a_malware_test_environment/"
+    },
+    "posts": {}
+}

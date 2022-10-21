@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "US Sanctions First Crypto Exchange For Alleged Ransomware Ties",
+        "score": 1,
+        "id": "pt15dg",
+        "commsNum": 6,
+        "timeStamp": "2021/09/21-22:54:47",
+        "author_name": "The-Techie",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.thetechee.com/2021/09/us-sanctions-first-crypto-exchange-for.html"
+    },
+    "posts": {
+        "he0din9": {
+            "comment": "[removed]",
+            "timeStamp": "2021/09/23-13:54:58",
+            "id": "he0din9",
+            "is_submitter": false,
+            "link_id": "t3_pt15dg",
+            "parent_id": "t1_hdvkhg9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hdxh74d": {
+            "comment": "Fuck ransomware.\n\nFuck anonymous transactions.",
+            "timeStamp": "2021/09/22-21:56:05",
+            "id": "hdxh74d",
+            "is_submitter": false,
+            "link_id": "t3_pt15dg",
+            "parent_id": "t3_pt15dg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "drbootup"
+        },
+        "hdvkhg9": {
+            "comment": "How about just arrest them and put them in prison...",
+            "timeStamp": "2021/09/22-11:41:21",
+            "id": "hdvkhg9",
+            "is_submitter": false,
+            "link_id": "t3_pt15dg",
+            "parent_id": "t3_pt15dg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Trini_Vix7"
+        },
+        "hdueodn": {
+            "comment": "[deleted]",
+            "timeStamp": "2021/09/22-06:54:37",
+            "id": "hdueodn",
+            "is_submitter": false,
+            "link_id": "t3_pt15dg",
+            "parent_id": "t3_pt15dg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hdtebzn": {
+            "comment": "Crypto is (usually, some have varying amounts of centralization). This is like blocking people from doing business with a brokerage, not a threat to cryptocurrencies themselves.",
+            "timeStamp": "2021/09/21-23:35:03",
+            "id": "hdtebzn",
+            "is_submitter": false,
+            "link_id": "t3_pt15dg",
+            "parent_id": "t1_hdtcn1i",
+            "score": 6,
+            "stickied": false,
+            "author_name": "Bisping"
+        },
+        "hdtcn1i": {
+            "comment": "Weird I thought it was decentralized",
+            "timeStamp": "2021/09/21-23:12:34",
+            "id": "hdtcn1i",
+            "is_submitter": false,
+            "link_id": "t3_pt15dg",
+            "parent_id": "t3_pt15dg",
+            "score": 2,
+            "stickied": false,
+            "author_name": "edward_snowedin"
+        }
+    }
+}

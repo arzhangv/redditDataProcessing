@@ -1,0 +1,110 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hi,\n\nDoes anyone have a working Nefilim page , I found [http://hxt254aygrsziejn.onion/](http://hxt254aygrsziejn.onion) but it doesn't seem to be live and hasn't been for the last week from what I can tell .",
+        "title": "Nefilim Working Onion Link",
+        "score": 1,
+        "id": "s5be50",
+        "commsNum": 0,
+        "timeStamp": "2022/01/16-05:00:01",
+        "author_name": "aspuser13",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/s5be50/nefilim_working_onion_link/"
+    },
+    "posts": {
+        "hszegiz": {
+            "comment": "Thanks for confirming I just saw some notices coming out that a few businesses were still being hit using their ransomware",
+            "timeStamp": "2022/01/16-17:57:09",
+            "id": "hszegiz",
+            "is_submitter": true,
+            "link_id": "t3_s5be50",
+            "parent_id": "t1_hsy22wv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "aspuser13"
+        },
+        "hsy8yg9": {
+            "comment": "Thank you for the informative response!",
+            "timeStamp": "2022/01/16-13:18:01",
+            "id": "hsy8yg9",
+            "is_submitter": false,
+            "link_id": "t3_s5be50",
+            "parent_id": "t1_hsy0anb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "InnerEggplant"
+        },
+        "hsy22wv": {
+            "comment": "There haven't been leaks from that site since at least July, could be down for good",
+            "timeStamp": "2022/01/16-12:33:53",
+            "id": "hsy22wv",
+            "is_submitter": false,
+            "link_id": "t3_s5be50",
+            "parent_id": "t3_s5be50",
+            "score": 1,
+            "stickied": false,
+            "author_name": "lordand"
+        },
+        "hsy0anb": {
+            "comment": "It's a ransomware family that operates as a ransomware-as-a-service. Before being encrypted, data is exfiltrated and leaked on a leak site that the operators use to pressure victims to pay their ransom",
+            "timeStamp": "2022/01/16-12:22:36",
+            "id": "hsy0anb",
+            "is_submitter": false,
+            "link_id": "t3_s5be50",
+            "parent_id": "t1_hswurct",
+            "score": 1,
+            "stickied": false,
+            "author_name": "lordand"
+        },
+        "hsxjlkk": {
+            "comment": "They probably mean a leak site of the nephilim ransomware group (https://www.reddit.com/r/Malware/comments/ixvgoq/list\\_of\\_ransomware\\_groups\\_and\\_their\\_pr\\_pages/)",
+            "timeStamp": "2022/01/16-10:39:09",
+            "id": "hsxjlkk",
+            "is_submitter": false,
+            "link_id": "t3_s5be50",
+            "parent_id": "t1_hsww5yr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Krombuchar2"
+        },
+        "hsww5yr": {
+            "comment": "Won't lie when I read this I thought you were looking for a 2nd stage payload still be hosted on the web for reverse engineering purposes. I have no idea what you are talking about maybe that's a good thing idk. \ud83e\udd14",
+            "timeStamp": "2022/01/16-08:07:38",
+            "id": "hsww5yr",
+            "is_submitter": false,
+            "link_id": "t3_s5be50",
+            "parent_id": "t3_s5be50",
+            "score": 1,
+            "stickied": false,
+            "author_name": "concmap"
+        },
+        "hswuskz": {
+            "comment": "**Nefilim was initially a Carl McCoy studio project co-formed with John \u2018Capachino\u2019 Carter in 1992 after the disbanding of Fields of the Nephilim. It featured McCoy on vocals and keyboards and John Carter on bass, guitars and drums.**\n\nMore details here: &lt;https://en.wikipedia.org/wiki/The_Nefilim&gt; \n\n\n\n*This comment was left automatically (by a bot). If I don't get this right, don't get mad at me, I'm still learning!*\n\n[^(opt out)](https://www.reddit.com/r/wikipedia_answer_bot/comments/ozztfy/post_for_opting_out/) ^(|) [^(delete)](https://www.reddit.com/r/wikipedia_answer_bot/comments/q79g2t/delete_feature_added/) ^(|) [^(report/suggest)](https://www.reddit.com/r/wikipedia_answer_bot) ^(|) [^(GitHub)](https://github.com/TheBugYouCantFix/wiki-reddit-bot)",
+            "timeStamp": "2022/01/16-07:58:20",
+            "id": "hswuskz",
+            "is_submitter": false,
+            "link_id": "t3_s5be50",
+            "parent_id": "t1_hswurct",
+            "score": 1,
+            "stickied": false,
+            "author_name": "wikipedia_answer_bot"
+        },
+        "hswurct": {
+            "comment": "What is Nefilim?",
+            "timeStamp": "2022/01/16-07:58:06",
+            "id": "hswurct",
+            "is_submitter": false,
+            "link_id": "t3_s5be50",
+            "parent_id": "t3_s5be50",
+            "score": 1,
+            "stickied": false,
+            "author_name": "InnerEggplant"
+        }
+    }
+}

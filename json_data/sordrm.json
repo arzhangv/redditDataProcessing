@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "This might get deleted but I\u2019m going to ask anyway. I\u2019ve always wanted to learn how to code, especially when it comes to malware and how they work and reverse engineering their code. My question is where do you think is a good start to learning how malware works and operates.",
+        "title": "Learning how to understand malware",
+        "score": 1,
+        "id": "sordrm",
+        "commsNum": 3,
+        "timeStamp": "2022/02/09-15:37:05",
+        "author_name": "ooobbo",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/sordrm/learning_how_to_understand_malware/"
+    },
+    "posts": {
+        "hwungl1": {
+            "comment": "According to me,\nIf by malware, you mean Linux malware.\n\nThen read about Linux OS and Linux kernel, keeping in mind while learning, you have to find loop holes. You can always take help from articles and blogs.\nAccording to me, the good start after learning the basics of Linux would be, \"Understanding the Linux Kernel\" book and side by side reading about LKMs and going through codes of open source malwares, like rootkits, function and syscall hookers from github. And the big part is to practice it, by writing codes. Writing code on your own is the holy grail amongst all.\n\nIf by malware, you mean Windows malware.\n\nThen read Windows sysinternals, (again same thing) keeping hacker mentality, that how to break this software or how to take advantage of any thing. In this way, malware developing mindset will come. And yes there are many blogs and GitHub projects present out there to help begginers to know how malwares work.\n\nAcc. to me,\nIf you want to know abt malware, pls be specific about the type, else you will get bewildered with all those ocean of concepts. &lt;ins&gt;Trust me, I was there too&lt;/ins&gt;.\n\n For malware analysis, all those I discussed will help you out. On addition to that, \n\n[OST2](https://p.ost2.fyi/courses/)\nAnd \nBook: \"Rootkits and Bootkits: Reversing Modern Malware and Next Generation Threats\"\n\nI think this would be enough...",
+            "timeStamp": "2022/02/13-17:04:09",
+            "id": "hwungl1",
+            "is_submitter": false,
+            "link_id": "t3_sordrm",
+            "parent_id": "t3_sordrm",
+            "score": 1,
+            "stickied": false,
+            "author_name": "BabanSoumyanil"
+        },
+        "hwayzic": {
+            "comment": "Short of coding, you can learn lots about what a specific malware do by running them in a VM with tools on the side, like:\n\n* Process monitor from Sysinternals\n* HxD - a hex editor\n* Autoruns from Sysinternals\n* PE-Bear and PE-Sieve - Two tools for PE (exe) files\n* Yara - detection tool for (mostly executable) files with lots of free rulesets to download\n* Wireshark (Network analysis tool)",
+            "timeStamp": "2022/02/09-17:04:46",
+            "id": "hwayzic",
+            "is_submitter": false,
+            "link_id": "t3_sordrm",
+            "parent_id": "t3_sordrm",
+            "score": 2,
+            "stickied": false,
+            "author_name": "GoranLind"
+        },
+        "hwauxnm": {
+            "comment": "I would get an IDE like Visual Studio Code and search [github.com](https://github.com) for malware.  Keep in mind you'd want to reverse engineer malware to understand how it works in the real world because you wouldn't have access to source code.\n\nLearn how normal software works with some basic behavioral analysis tools like from sysinternals.  ProcMon is a good one.\n\nGet a debugger like x64dbg or a disassembler like Ghidra and start to reverse engineer simple hello world like programs you compile yourself.\n\nOnce you do that, then graduate to start to reverse engineer real malware in a Virtual Machine that is **contained**.\n\nPractical Malware Analysis is a great book, with practice malware and labs to follow along with.\n\nAs for coding, it will definitely help.  I'd look into something like the pefile module with Python.  Learn how it works and what you can do with it by searching github, then write or your own.  Most reverse engineering is done by reading code, and writing code is used to assist along the way.\n\nPS I'm not a reverse engineer, but this is the path I would have taken.\n\nGood luck!",
+            "timeStamp": "2022/02/09-16:35:22",
+            "id": "hwauxnm",
+            "is_submitter": false,
+            "link_id": "t3_sordrm",
+            "parent_id": "t3_sordrm",
+            "score": 2,
+            "stickied": false,
+            "author_name": "greyyit"
+        }
+    }
+}

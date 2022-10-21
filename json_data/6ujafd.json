@@ -1,0 +1,143 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "So I have been given another hat to wear.\n\nMalware Hunter.\n\nI have my event logs, copy of the registry, users directory and a few other things. In looking through my info on this case all I can come up with is the boring day in the life of a user.\n\nWhat don't I know. Is there a good free online course I can take, a book I can read that would give me some incite on where to go next?\n\nI have no idea where to begin on processing this kill chain.",
+        "title": "Looking for help on intro to Malware Analysis",
+        "score": 18,
+        "id": "6ujafd",
+        "commsNum": 11,
+        "timeStamp": "2017/08/18-10:18:42",
+        "author_name": "Ging3rMing3",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 11,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6ujafd/looking_for_help_on_intro_to_malware_analysis/"
+    },
+    "posts": {
+        "dm0c008": {
+            "comment": "[removed]",
+            "timeStamp": "2017/08/23-02:41:43",
+            "id": "dm0c008",
+            "is_submitter": false,
+            "link_id": "t3_6ujafd",
+            "parent_id": "t3_6ujafd",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "dlxey4u": {
+            "comment": "yeah, im gonna order the practical malware analysis book, but first I think i am going to do this. should be good to do a course based thing before going free form with just the book.",
+            "timeStamp": "2017/08/21-08:50:56",
+            "id": "dlxey4u",
+            "is_submitter": true,
+            "link_id": "t3_6ujafd",
+            "parent_id": "t1_dluhhqv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Ging3rMing3"
+        },
+        "dlxevu6": {
+            "comment": "find the point of entry and then find out what it does. looks like this will help me with the later.",
+            "timeStamp": "2017/08/21-08:49:40",
+            "id": "dlxevu6",
+            "is_submitter": true,
+            "link_id": "t3_6ujafd",
+            "parent_id": "t1_dlubumq",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Ging3rMing3"
+        },
+        "dlx50n2": {
+            "comment": "This is not all he needs. This is a good intro but lacks a lot of information compared to the books mentioned by /u/mikiozen.\n\nThis said, the 102 is a good intro to reverse malwares written in Delphi as this is not covered in those books.",
+            "timeStamp": "2017/08/21-04:55:46",
+            "id": "dlx50n2",
+            "is_submitter": false,
+            "link_id": "t3_6ujafd",
+            "parent_id": "t1_dluhhqv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "tr4cefl0w"
+        },
+        "dluhhqv": {
+            "comment": "All you need https://securedorg.github.io/",
+            "timeStamp": "2017/08/19-09:16:12",
+            "id": "dluhhqv",
+            "is_submitter": false,
+            "link_id": "t3_6ujafd",
+            "parent_id": "t3_6ujafd",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Administratr"
+        },
+        "dludxah": {
+            "comment": "Try a tool called autoruns from systernals suite.  It's one of the fastest ways of finding poorly written malware's persistence mechanism.  \nIf it is a decent rootkit, then like above, volatility will be one of you best choices.\nCommon Persistence Mechanism Areas:\nTask scheduler\nRegistry - the run and run once keys.  Don't forget to check the Wow64 registry key too!  (If you need the full registry path let me know, currently on a phone and too lazy to write out all the full paths lol)\nWindows startup folders (amazingly malware still uses these old folders!\nThere are several more, but that autoruns tool generally checks most of them!",
+            "timeStamp": "2017/08/19-07:54:12",
+            "id": "dludxah",
+            "is_submitter": false,
+            "link_id": "t3_6ujafd",
+            "parent_id": "t3_6ujafd",
+            "score": 2,
+            "stickied": false,
+            "author_name": "r3v3rs3r"
+        },
+        "dlubumq": {
+            "comment": "What exactly is your boss asking you to do?\n\n1. https://www.hybrid-analysis.com/\n2. virustotal\n\nBoth should tell you all you need to know about a suspect file. Baring any anti-vm tech.\n\nI would focus on securing your end points. White listing, Antivirus/malware, keep everything patched.",
+            "timeStamp": "2017/08/19-07:00:57",
+            "id": "dlubumq",
+            "is_submitter": false,
+            "link_id": "t3_6ujafd",
+            "parent_id": "t3_6ujafd",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TailSpinBowler"
+        },
+        "dlt7rqj": {
+            "comment": "Haha well it's one of the best free tools, check out Magnet RAM capture too. Send me a PM if you ever have some questions.",
+            "timeStamp": "2017/08/18-11:53:33",
+            "id": "dlt7rqj",
+            "is_submitter": false,
+            "link_id": "t3_6ujafd",
+            "parent_id": "t1_dlt65ey",
+            "score": 1,
+            "stickied": false,
+            "author_name": "tr4cefl0w"
+        },
+        "dlt65ey": {
+            "comment": "Yeah, with the memory image. It's hard to get anything across a vpn. \n\nAlso FTK sucks balls.",
+            "timeStamp": "2017/08/18-11:25:46",
+            "id": "dlt65ey",
+            "is_submitter": true,
+            "link_id": "t3_6ujafd",
+            "parent_id": "t1_dlt4k4g",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Ging3rMing3"
+        },
+        "dlt4k4g": {
+            "comment": "What he said ^. I would also add, if you have a memory image, learning how to use the Volatility Framework. There is plenty of tutorials out there but The Art of Memory Forensics is a good reference book.",
+            "timeStamp": "2017/08/18-10:58:18",
+            "id": "dlt4k4g",
+            "is_submitter": false,
+            "link_id": "t3_6ujafd",
+            "parent_id": "t1_dlt3zoz",
+            "score": 4,
+            "stickied": false,
+            "author_name": "tr4cefl0w"
+        },
+        "dlt3zoz": {
+            "comment": "Read this book to learn how to find malware:\nWindows Forensic Analysis Toolkit, Third Edition: Advanced Analysis Techniques for Windows 7 \nby Harlan Carvey \nLink: http://a.co/56TdKPU\n\nAnd read this book to analyze the malware once you find it\nPractical Malware Analysis: A Hands-On Guide to Dissecting Malicious Software \nby Michael Sikorski et al. \nLink: http://a.co/77FyYyP\n\nGood Luck!",
+            "timeStamp": "2017/08/18-10:48:46",
+            "id": "dlt3zoz",
+            "is_submitter": false,
+            "link_id": "t3_6ujafd",
+            "parent_id": "t3_6ujafd",
+            "score": 12,
+            "stickied": false,
+            "author_name": "mikiozen"
+        }
+    }
+}

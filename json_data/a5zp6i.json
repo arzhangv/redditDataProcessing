@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Clearly, this is an epidemic that needs to be curtailed\n\n[https://thenextweb.com/hardfork/2018/12/04/routers-cryptocurrency-miner-malware-monero/](https://thenextweb.com/hardfork/2018/12/04/routers-cryptocurrency-miner-malware-monero/)\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;",
+        "title": "Cryptojacking targets routers worldwide",
+        "score": 1,
+        "id": "a5zp6i",
+        "commsNum": 3,
+        "timeStamp": "2018/12/13-16:47:35",
+        "author_name": "vickiearse",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/a5zp6i/cryptojacking_targets_routers_worldwide/"
+    },
+    "posts": {
+        "ebsymfj": {
+            "comment": "I heard cryptojacking on IoT devices isn't very profitable...",
+            "timeStamp": "2018/12/14-13:36:48",
+            "id": "ebsymfj",
+            "is_submitter": false,
+            "link_id": "t3_a5zp6i",
+            "parent_id": "t3_a5zp6i",
+            "score": 1,
+            "stickied": false,
+            "author_name": "augboi666"
+        },
+        "ebsce9o": {
+            "comment": "It usually involves a web interface being available somewhere either internal or external facing. If all remote access is turned off such that the only way to configure the device is to plug in a keyboard and monitor it's pretty solid. Then the only  way to interact with the device is by having it process layer 2/3 packets for you which is pretty safe.",
+            "timeStamp": "2018/12/14-09:04:36",
+            "id": "ebsce9o",
+            "is_submitter": false,
+            "link_id": "t3_a5zp6i",
+            "parent_id": "t1_ebr7bpk",
+            "score": 2,
+            "stickied": false,
+            "author_name": "iheartrms"
+        },
+        "ebr7bpk": {
+            "comment": "&gt;Security expert Troy Mursch from Bad Packets Report advises owners of the affected MikroTik devices to immediately download the latest firmware version available for their device.\n\n&gt;You can find the latest version of RouterOS on MikroTik\u2019s website [here](https://mikrotik.com/download).\n\nYikes, could anyone just get in because of a hole in the firmware?  IOW, even if remote access was turned off and everything criminals could get in?\n\nIf so, that's a pretty scary situation.",
+            "timeStamp": "2018/12/13-23:34:32",
+            "id": "ebr7bpk",
+            "is_submitter": false,
+            "link_id": "t3_a5zp6i",
+            "parent_id": "t3_a5zp6i",
+            "score": 4,
+            "stickied": false,
+            "author_name": "Cowicide"
+        }
+    }
+}

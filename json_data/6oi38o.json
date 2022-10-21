@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "can't start web server for cuckoo:\n\n[mongodb]\n\nenabled = yes\n\nhost = 127.0.0.1\n\nport = 27017\n\ndb = {{ reporting.mongodb.db }}\n\nstore_memdump = {{ reporting.mongodb.store_memdump }}\n\npaginate = {{ reporting.mongodb.paginate }}\n\n\ni have tried giving it a name and it fails, to tell me to check my reporting.conf file but i have edited this file a billion times.",
+        "title": "Not able to start mongodb for cuckoo sandbox, help!",
+        "score": 10,
+        "id": "6oi38o",
+        "commsNum": 4,
+        "timeStamp": "2017/07/20-11:13:31",
+        "author_name": "gbdavidx",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6oi38o/not_able_to_start_mongodb_for_cuckoo_sandbox_help/"
+    },
+    "posts": {
+        "dkqvad9": {
+            "comment": "I got it working. For some reason I have four reporting confit files",
+            "timeStamp": "2017/07/26-07:41:02",
+            "id": "dkqvad9",
+            "is_submitter": true,
+            "link_id": "t3_6oi38o",
+            "parent_id": "t1_dkqqjra",
+            "score": 1,
+            "stickied": false,
+            "author_name": "gbdavidx"
+        },
+        "dkqqjra": {
+            "comment": "Maybe sound silly , is MongoDB running ? I have faced issues older version of MongoDB so try upgrading to the latest version.",
+            "timeStamp": "2017/07/26-06:08:51",
+            "id": "dkqqjra",
+            "is_submitter": false,
+            "link_id": "t3_6oi38o",
+            "parent_id": "t3_6oi38o",
+            "score": 1,
+            "stickied": false,
+            "author_name": "vinumsv"
+        },
+        "dkhp94v": {
+            "comment": "i fixed that but now it wont start even though i have declared the values in reporting.conf",
+            "timeStamp": "2017/07/20-13:23:33",
+            "id": "dkhp94v",
+            "is_submitter": true,
+            "link_id": "t3_6oi38o",
+            "parent_id": "t1_dkhp7v5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "gbdavidx"
+        },
+        "dkhp7v5": {
+            "comment": "Rm that lock file and try again.",
+            "timeStamp": "2017/07/20-13:22:56",
+            "id": "dkhp7v5",
+            "is_submitter": false,
+            "link_id": "t3_6oi38o",
+            "parent_id": "t3_6oi38o",
+            "score": 1,
+            "stickied": false,
+            "author_name": "xen0blade"
+        }
+    }
+}

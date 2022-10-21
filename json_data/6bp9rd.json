@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi, after learning OllyDBG now, I'm learning IDA but I feel lost when I open an executable because I can't debug it. \n\nI got a sample of the WannaCry and follow an analysis of the worm and the dropper but I can't see or reach the place where the string of the domain is like in the images. I see it in dissasembler but the images of the articles are in pseudo code.\nIs there any function to do that or did they a fully reverse of the function and then code it?\n\nCan you give me some tips about how do you usually start an analysis with IDA?\n\nExample: the first image of https://blog.malwarebytes.com/threat-analysis/2017/05/the-worm-that-spreads-wanacrypt0r/ with the domain in a comment.\n\nThank you for your time.",
+        "title": "IDA Pro questions with WannaCry",
+        "score": 3,
+        "id": "6bp9rd",
+        "commsNum": 7,
+        "timeStamp": "2017/05/17-08:07:42",
+        "author_name": "Malearner",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6bp9rd/ida_pro_questions_with_wannacry/"
+    },
+    "posts": {}
+}

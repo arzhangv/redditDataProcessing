@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "WordPress sites are being hacked to display fake Cloudflare DDoS protection pages to distribute malware that installs the NetSupport RAT and the RaccoonStealer password-stealing Trojan.",
+        "score": 1,
+        "id": "wuglc5",
+        "commsNum": 0,
+        "timeStamp": "2022/08/21-18:47:07",
+        "author_name": "Late_Ice_9288",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.bleepingcomputer.com/news/security/wordpress-sites-hacked-with-fake-cloudflare-ddos-alerts-pushing-malware/"
+    },
+    "posts": {
+        "ilcfhr8": {
+            "comment": "&gt;WordPress sites are being hacked\n\nand all the other words are redundant.",
+            "timeStamp": "2022/08/22-10:14:27",
+            "id": "ilcfhr8",
+            "is_submitter": false,
+            "link_id": "t3_wuglc5",
+            "parent_id": "t3_wuglc5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "boli99"
+        }
+    }
+}

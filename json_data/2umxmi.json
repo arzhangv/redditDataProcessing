@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "OfficeMalScanner v0.5 is a Ms Office forensic tool to scan for malicious traces, like shellcode heuristics, PE-files or embedded OLE streams. Found files are being extracted to disk. It supports disassembly and hexview as well as an easy brute force mode to detect encrypted files.",
+        "score": 1,
+        "id": "2umxmi",
+        "commsNum": 1,
+        "timeStamp": "2015/02/03-06:11:20",
+        "author_name": "IstyloMax",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.iteamdevelopers.org/download/office-malscanner-v0-5/"
+    },
+    "posts": {}
+}

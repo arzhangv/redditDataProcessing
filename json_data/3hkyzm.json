@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi everyone, \n\nI'm looking for a comprehensive list of malicious user agents so I can run a network analysis scan?",
+        "title": "Malware User-Agents",
+        "score": 0,
+        "id": "3hkyzm",
+        "commsNum": 5,
+        "timeStamp": "2015/08/19-06:32:45",
+        "author_name": "transtechgirl",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/3hkyzm/malware_useragents/"
+    },
+    "posts": {}
+}

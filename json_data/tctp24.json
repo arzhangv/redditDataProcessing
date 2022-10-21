@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Hacking back: AsyncRAT RCE vulnerability",
+        "score": 1,
+        "id": "tctp24",
+        "commsNum": 0,
+        "timeStamp": "2022/03/12-15:27:48",
+        "author_name": "divbyda0",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://brianstadnicki.github.io/posts/vulnerability-asyncrat-rce/"
+    },
+    "posts": {}
+}

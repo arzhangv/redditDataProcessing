@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "There are these 4 files called \"bcastdvr.exe\" along with their dll's in underfolders in my WinSxS folder.\nThese files are normal system executables that are on every Windows PC (as far as I know), but 2 of the 4 are NOT SIGNED by Microsoft. Does this mean they are imposters?",
+        "title": "If a regular system executable in the WinSxS folder is not signed by Microsoft, is it automatically an imposter?",
+        "score": 1,
+        "id": "8atvv5",
+        "commsNum": 6,
+        "timeStamp": "2018/04/08-16:08:19",
+        "author_name": "ImYaDawg",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8atvv5/if_a_regular_system_executable_in_the_winsxs/"
+    },
+    "posts": {
+        "dxbl3b1": {
+            "comment": "Not necessarily. Some files can be modified or changed by other programs in order to fit certain needs. \"bcastdvr\" actually has to do with graphics. If you install other graphics drivers (for example nVidia's gaming drivers), the file may be modified by the installer in order to optimize the performance of your graphics card. Modifying any signed file automatically makes it unsigned.",
+            "timeStamp": "2018/04/13-14:09:19",
+            "id": "dxbl3b1",
+            "is_submitter": false,
+            "link_id": "t3_8atvv5",
+            "parent_id": "t1_dx3p72m",
+            "score": 1,
+            "stickied": false,
+            "author_name": "lmaonoodles"
+        },
+        "dx3p72m": {
+            "comment": "Ok thanks for checking ;) but isn\u2019t it still weird that 2 aren\u2019t signed?\nI mean they\u2019re all from Microsoft so it should be standardized.",
+            "timeStamp": "2018/04/09-18:00:19",
+            "id": "dx3p72m",
+            "is_submitter": true,
+            "link_id": "t3_8atvv5",
+            "parent_id": "t1_dx3lnq3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ImYaDawg"
+        },
+        "dx3lnq3": {
+            "comment": "I found the same files on my PC, and two of them are unsigned as well.  This is probably the normal configuration.",
+            "timeStamp": "2018/04/09-17:02:42",
+            "id": "dx3lnq3",
+            "is_submitter": false,
+            "link_id": "t3_8atvv5",
+            "parent_id": "t3_8atvv5",
+            "score": 2,
+            "stickied": false,
+            "author_name": "compdog"
+        },
+        "dx2ccqg": {
+            "comment": "Its not technically right in my WINSXS folder but in one of the many subfolders in there.",
+            "timeStamp": "2018/04/09-04:48:03",
+            "id": "dx2ccqg",
+            "is_submitter": true,
+            "link_id": "t3_8atvv5",
+            "parent_id": "t1_dx2c3e2",
+            "score": 2,
+            "stickied": false,
+            "author_name": "ImYaDawg"
+        },
+        "dx2c3e2": {
+            "comment": "If bcastdvr.exe is in your startup, I would be suspicious. The only file that sits in my WINSXS folder is migration.xml",
+            "timeStamp": "2018/04/09-04:40:51",
+            "id": "dx2c3e2",
+            "is_submitter": false,
+            "link_id": "t3_8atvv5",
+            "parent_id": "t3_8atvv5",
+            "score": 2,
+            "stickied": false,
+            "author_name": "HwuLondres"
+        },
+        "dx20jlm": {
+            "comment": "Not necessarily, you could upload them to virustotal or run \u2018certutil -hashfile sha256 $filename\u2019 to get their hashes to check on vt, no guarantee they\u2019re clean but might help",
+            "timeStamp": "2018/04/08-21:58:34",
+            "id": "dx20jlm",
+            "is_submitter": false,
+            "link_id": "t3_8atvv5",
+            "parent_id": "t3_8atvv5",
+            "score": 3,
+            "stickied": false,
+            "author_name": "xyvo"
+        }
+    }
+}

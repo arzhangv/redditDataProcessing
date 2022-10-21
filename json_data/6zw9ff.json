@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Sample i found earlier today, lying in the %APPDATA% directory of someones computer on Windows 10, as \"Minecraft_ch_v1.1.vbs\" \n\nHere is the VBS source (warning, no idea what this is doing to the system) https://pastebin.com/bVwy94mV\n\nThe person who owns the computer told me they downloaded a cheat tool for minecraft, ran the file, and nothing happened in terms of the expected cheat tool, consequently they became suspicious, which led to asking me whether their computer may be infected. I had a look, saw a wscript process, and the directory the script was running from, and dumped it into a virtual machine... https://imgur.com/a/7o23x\n\nVirusTotal shows 4/57, potentially as a Trojan.\nhttps://www.virustotal.com/#/file/19fdf0336945e063fdcbe940a8cfaf29af0e9a32af109a78c07412c362f282a9/detection\n\nI was wondering if anyone would be able to deobfuscate this VBS script, all i can figure out after running it in a VM, TCP/IP information under process explorer shows that the script connects to 145.249.105.194:3033. I'm just not sure what it is doing. I am not knowledgable of VBS in many years, and feel confident this is some kind of malware. If anyone could take a look, and possibly tell me what this file is trying to do, would be highly appreciated thanks.\n\nEDIT: Also the person who asked me about this, stated they downloaded the file into their downloads folder only, so it appears to have copied itself into %APPDATA%. They claimed they deleted the file after it did nothing other than show an error message, they ran a virus scan (MalwareBytes) and nothing came up. Going by VirusTotal it seems this wouldn't have detected anything. I told them to reinstall windows just in case, and change any important passwords for online accounts. But i am still curious as to what this is, i am tempted to assume it may be a keylogger. ",
+        "title": "Found this obfuscated VBScript running on a computer, but no idea what it is doing.",
+        "score": 27,
+        "id": "6zw9ff",
+        "commsNum": 18,
+        "timeStamp": "2017/09/13-10:53:44",
+        "author_name": "Jigoku1337",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 18,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6zw9ff/found_this_obfuscated_vbscript_running_on_a/"
+    },
+    "posts": {}
+}

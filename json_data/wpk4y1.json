@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Security researchers from Cleafy reported that the SOVA Android banking malware is back and is rapidly evolving. SOVA Android malware now also encrypts victims\u2019 files",
+        "score": 1,
+        "id": "wpk4y1",
+        "commsNum": 0,
+        "timeStamp": "2022/08/15-20:57:38",
+        "author_name": "Late_Ice_9288",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://securityaffairs.co/wordpress/134392/malware/sova-android-malware-v5.html"
+    },
+    "posts": {
+        "ikksq49": {
+            "comment": "I wanted to know the same thing, because infecting android is quite difficult as far as I know",
+            "timeStamp": "2022/08/16-14:56:42",
+            "id": "ikksq49",
+            "is_submitter": false,
+            "link_id": "t3_wpk4y1",
+            "parent_id": "t1_ikhf6dw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Somanos"
+        },
+        "ikhta79": {
+            "comment": "[removed]",
+            "timeStamp": "2022/08/16-01:19:47",
+            "id": "ikhta79",
+            "is_submitter": false,
+            "link_id": "t3_wpk4y1",
+            "parent_id": "t1_ikhf6dw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ikhf6dw": {
+            "comment": "Sooo....  where and how are users infected?  Are there apps on the Play Store?  From piracy?\n\nI despise articles/writeups like this that miss really important, actionable details like this.",
+            "timeStamp": "2022/08/15-22:20:34",
+            "id": "ikhf6dw",
+            "is_submitter": false,
+            "link_id": "t3_wpk4y1",
+            "parent_id": "t3_wpk4y1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Cowicide"
+        }
+    }
+}

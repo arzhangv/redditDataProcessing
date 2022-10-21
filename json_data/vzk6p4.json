@@ -1,0 +1,176 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Norton Power Eraser (Portable Antivirus) detects suspected malware in Windows 10 \"hosts\" file with path \"C:\\\\Windows\\\\System32\\\\drivers\\\\etc\".\n\nOpening it shows the following information that I did not add manually:\n\n[0.0.0.0](https://0.0.0.0/) [api.amplitude.com](https://api.amplitude.com/)\n\n[0.0.0.0](https://0.0.0.0/) [api.uca.cloud.unity3d.com](https://api.uca.cloud.unity3d.com/)\n\n[0.0.0.0](https://0.0.0.0/) [config.uca.cloud.unity3d.com](https://config.uca.cloud.unity3d.com/)\n\n[0.0.0.0](https://0.0.0.0/) [perf-events.cloud.unity3d.com](https://perf-events.cloud.unity3d.com/)\n\n[0.0.0.0](https://0.0.0.0/) [public.cloud.unity3d.com](https://public.cloud.unity3d.com/)\n\n[0.0.0.0](https://0.0.0.0/) [cdp.cloud.unity3d.com](https://cdp.cloud.unity3d.com/)\n\n[0.0.0.0](https://0.0.0.0/) [data-optout-service.uca.cloud.unity3d.com](https://data-optout-service.uca.cloud.unity3d.com/)\n\nDoes anyone know if it could actually be malware? Windows antivirus doesn't  seem to detect it and I'm afraid to delete this information as it could cause errors.",
+        "title": "Malware in \"hosts\" file with path \"C:\\Windows\\System32\\drivers\\etc\"",
+        "score": 1,
+        "id": "vzk6p4",
+        "commsNum": 0,
+        "timeStamp": "2022/07/15-02:13:01",
+        "author_name": "EstidEstiloso",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/vzk6p4/malware_in_hosts_file_with_path/"
+    },
+    "posts": {
+        "igd2fdk": {
+            "comment": "This is the most useless comment. Say something supportive like \"go to x sub\"",
+            "timeStamp": "2022/07/15-22:56:38",
+            "id": "igd2fdk",
+            "is_submitter": false,
+            "link_id": "t3_vzk6p4",
+            "parent_id": "t1_igas7fd",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AnUncreativeName10"
+        },
+        "igbxggp": {
+            "comment": "Do you have anything cracked that's Unity-related? Cracked software will often sinkhole domains used by the legitimate version of the software to prevent them from discovering the cracked client or remotely disabling/blocking it.",
+            "timeStamp": "2022/07/15-16:52:24",
+            "id": "igbxggp",
+            "is_submitter": false,
+            "link_id": "t3_vzk6p4",
+            "parent_id": "t3_vzk6p4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RamblinWreckGT"
+        },
+        "igbqspd": {
+            "comment": "To expand on this, it\u2019s common for malware to reroute legitimate traffic the same way your Adblock is here.  Bad actors will route your traffic to a server hosting a phishing page, it will fail valid to provide a legitimate cert but if you accept the self signed cert they\u2019ll collect any info you send.\n\nAs others have said, this is legitimate and a false positive from Norton.",
+            "timeStamp": "2022/07/15-16:00:25",
+            "id": "igbqspd",
+            "is_submitter": false,
+            "link_id": "t3_vzk6p4",
+            "parent_id": "t1_ig8uyo7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "cryotic"
+        },
+        "igb69an": {
+            "comment": "[removed]",
+            "timeStamp": "2022/07/15-13:32:52",
+            "id": "igb69an",
+            "is_submitter": false,
+            "link_id": "t3_vzk6p4",
+            "parent_id": "t1_igad7xe",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "igas7fd": {
+            "comment": "This isn't a support subreddit",
+            "timeStamp": "2022/07/15-11:58:13",
+            "id": "igas7fd",
+            "is_submitter": false,
+            "link_id": "t3_vzk6p4",
+            "parent_id": "t3_vzk6p4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Rakanisheu"
+        },
+        "igad7xe": {
+            "comment": "Norton is probably reporting changes to the file based on the process changing them and isn't checking what is being inserted. Best option is to get rid of Norton and to go with the default AV on your system, like Microsoft Security Essentials.",
+            "timeStamp": "2022/07/15-10:18:36",
+            "id": "igad7xe",
+            "is_submitter": false,
+            "link_id": "t3_vzk6p4",
+            "parent_id": "t1_ig8uyo7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Sparkybear"
+        },
+        "ig9imsj": {
+            "comment": "It might have been the unity game engine itself doing the entries. try to figure out if unity was updated recently, then use tcpview to determine the locations unity is communicating with. you will need to perform a dns lookup on each domain on the hosts file, then a reverse dns lookup on the IP's you get from tcpview.\n\nCompare them.\n\n&amp;#x200B;\n\nWhat I am thinking is that with the recent merger, unity maybe added entries to the hosts file as a hacky way of changing endpoints and they dont feel like scouring the codebase to remove old references and instead added endpoints to a list and used the hosts file to blacklist the old ones.... that \"optout\" domain is concerning and it really only makes sense if it was unity changing things internally on thier end and the URLs changed.",
+            "timeStamp": "2022/07/15-06:53:26",
+            "id": "ig9imsj",
+            "is_submitter": false,
+            "link_id": "t3_vzk6p4",
+            "parent_id": "t1_ig9c4y2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "moopthepoop"
+        },
+        "ig96fol": {
+            "comment": "MBAM does this if you try to blacklist any of their domains. (Common tactic when using a pirated version).",
+            "timeStamp": "2022/07/15-05:15:17",
+            "id": "ig96fol",
+            "is_submitter": false,
+            "link_id": "t3_vzk6p4",
+            "parent_id": "t1_ig8vbz3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "hemingray"
+        },
+        "ig92p6e": {
+            "comment": "Your hosts file is sending trackers to a sinkhole IP address effectively blocking these trackers.\n\nsomething modified your hosts files to do something that people want. Look up hosts file ad blocking (they'll prob use 127.0.0.1 as the resolving IP rather than 0.0.0.0 tho)",
+            "timeStamp": "2022/07/15-04:39:51",
+            "id": "ig92p6e",
+            "is_submitter": false,
+            "link_id": "t3_vzk6p4",
+            "parent_id": "t3_vzk6p4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "blabbities"
+        },
+        "ig929tl": {
+            "comment": "Unity just acquired a known spamware business in a bid to grab as much money as they can while failing upwards, norton may have preemptively blocked them and the flagged file was a bug?\n\n&amp;#x200B;\n\nStrange it flagged it, strange the entries showed up. I need to see the rest of the hosts file to see if norton does any fuckery with it, we also need more information about the ad blocking software the OP uses",
+            "timeStamp": "2022/07/15-04:35:30",
+            "id": "ig929tl",
+            "is_submitter": false,
+            "link_id": "t3_vzk6p4",
+            "parent_id": "t1_ig8xprl",
+            "score": 1,
+            "stickied": false,
+            "author_name": "moopthepoop"
+        },
+        "ig8xprl": {
+            "comment": "It could be ad-blocking (if theres a lot more than just the entries you posted)\n\nIf there are only those entries, then its possibly more likely designed to block a license check for cracked software (which would be software from unity3d)",
+            "timeStamp": "2022/07/15-03:45:45",
+            "id": "ig8xprl",
+            "is_submitter": false,
+            "link_id": "t3_vzk6p4",
+            "parent_id": "t3_vzk6p4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "boli99"
+        },
+        "ig8vbz3": {
+            "comment": "Interesting how its classed as spam. Interesting how it detects anything in there tbh",
+            "timeStamp": "2022/07/15-03:16:31",
+            "id": "ig8vbz3",
+            "is_submitter": false,
+            "link_id": "t3_vzk6p4",
+            "parent_id": "t1_ig8sfj8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MuhBigPickle"
+        },
+        "ig8uyo7": {
+            "comment": "To expand on that: [0.0.0.0 is a non-routable IP address](https://www.geeksforgeeks.org/difference-between-127-0-0-1-and-0-0-0-0/), i.e. points to \"nothing\".\n\nAs u/hemingray already pointed out, it's often used to block unwanted sites.\n\nThat Norton Erase flags it as malicious might simply be that it detected these domains in the HOSTS file *(which is nothing more than a plain text file, btw)* and reports them, w/o taking into account the context, i.e. that they're actually *blocked* that way and therefore you are *protected* from them.",
+            "timeStamp": "2022/07/15-03:11:45",
+            "id": "ig8uyo7",
+            "is_submitter": false,
+            "link_id": "t3_vzk6p4",
+            "parent_id": "t1_ig8sfj8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Hel_OWeen"
+        },
+        "ig8sfj8": {
+            "comment": "Looks more like hosts based ad blocking. All of those domains are ad servers. (Yes, Unity is also an ad service). There is no harm.",
+            "timeStamp": "2022/07/15-02:37:47",
+            "id": "ig8sfj8",
+            "is_submitter": false,
+            "link_id": "t3_vzk6p4",
+            "parent_id": "t3_vzk6p4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "hemingray"
+        }
+    }
+}

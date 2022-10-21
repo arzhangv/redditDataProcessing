@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Recently i saw a weird url in my autocomplete. I was curious enough to click on it which redirected me to [google.com](https://google.com).\n\nThe URL is :  [http://q6idnawboy7g.com/](http://q6idnawboy7g.com/) \n\nIm not urging you to open it. Although it redirects to google it might be an IP logger in which case you should open it through a VPN. Try using  [https://hide.me/en/proxy](https://hide.me/en/proxy) \n\ncarrying out a whois lookup it seems it is from cyprus although i cant seem to get more info. Can anyone help me track this down and unveil its true purpose?",
+        "title": "Weird URL in autcomplete",
+        "score": 1,
+        "id": "fn10y3",
+        "commsNum": 0,
+        "timeStamp": "2020/03/22-07:53:10",
+        "author_name": "Gawd_is_great",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/fn10y3/weird_url_in_autcomplete/"
+    },
+    "posts": {}
+}

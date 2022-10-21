@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "How much malware lives in (plants itself here, not targets the directory) the user profile directory on Windows 7 and 10, compared to C:\\Windows and system32, registry, etc?",
+        "title": "Where malware lives",
+        "score": 13,
+        "id": "4dsjg4",
+        "commsNum": 1,
+        "timeStamp": "2016/04/07-11:54:21",
+        "author_name": "catbull",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/4dsjg4/where_malware_lives/"
+    },
+    "posts": {}
+}

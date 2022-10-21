@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "New ransomware, old techniques: Petya adds worm capabilities",
+        "score": 1,
+        "id": "6jz3cg",
+        "commsNum": 0,
+        "timeStamp": "2017/06/28-00:38:53",
+        "author_name": "lillygill",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://blogs.technet.microsoft.com/mmpc/2017/06/27/new-ransomware-old-techniques-petya-adds-worm-capabilities/"
+    },
+    "posts": {}
+}

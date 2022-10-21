@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Since October 18, 2014, our domain has been under DDoS on ports 80 and 25 from what seemed to be a botnet (we found only 17 repeated IPs; the rest were unique). We never figured out which particular malware/botnet was responsible for it, because we never managed to locate physically any of the attacking machines. However, two days ago (September 26, 2015) the attack suddenly stopped.\n\nThis suggests that either the botnet was taken down (anti-virus companies and law enforcement agencies often do this, acting in coordination), or the botnet had a date-limiting trigger. So, is anyone here aware of a botnet being taken down at that date and which one was that?",
+        "title": "Has a botnet been taken down recently?",
+        "score": 18,
+        "id": "3mpu1g",
+        "commsNum": 22,
+        "timeStamp": "2015/09/28-09:35:35",
+        "author_name": "bontchev",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 22,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/3mpu1g/has_a_botnet_been_taken_down_recently/"
+    },
+    "posts": {}
+}

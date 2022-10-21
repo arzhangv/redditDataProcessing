@@ -1,0 +1,165 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hi! I found a file on my system I didn't download or make. It contains two files: Rule.xml and State.xml. It requires a password to open both of the files. I found it while doing a Bitdefender scan. Reply to me if you want to see the file for yourself.",
+        "title": "Weird file I didn't make on my system.",
+        "score": 1,
+        "id": "k7fj07",
+        "commsNum": 13,
+        "timeStamp": "2020/12/05-12:53:19",
+        "author_name": "HorobecS30",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 13,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/k7fj07/weird_file_i_didnt_make_on_my_system/"
+    },
+    "posts": {
+        "gf2031x": {
+            "comment": "it looks like that is what its from... in the link provided in my last post, it shows some chinese guy asking the exact same question as you..\n\nwhile it is suspicious I'd take the chance in believing that its not malicious",
+            "timeStamp": "2020/12/08-06:28:44",
+            "id": "gf2031x",
+            "is_submitter": false,
+            "link_id": "t3_k7fj07",
+            "parent_id": "t1_gew7x7j",
+            "score": 1,
+            "stickied": false,
+            "author_name": "afterm4th_"
+        },
+        "gew7x7j": {
+            "comment": "It does. I have an emulator called Nox installed on my system",
+            "timeStamp": "2020/12/06-16:54:48",
+            "id": "gew7x7j",
+            "is_submitter": true,
+            "link_id": "t3_k7fj07",
+            "parent_id": "t1_gerbcxy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "HorobecS30"
+        },
+        "gerhfj9": {
+            "comment": "[removed]",
+            "timeStamp": "2020/12/05-17:42:36",
+            "id": "gerhfj9",
+            "is_submitter": false,
+            "link_id": "t3_k7fj07",
+            "parent_id": "t3_k7fj07",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "gerbcxy": {
+            "comment": "hmm well with google I found tihs:\n\n[https://jjangfree.tistory.com/2134](https://jjangfree.tistory.com/2134) which is in chinese, but when translated says something about those files getting created by \" Nox app player \"\n\n&amp;#x200B;\n\ndoes that make any sense to you? im not familiar with nox app player myself...",
+            "timeStamp": "2020/12/05-16:52:24",
+            "id": "gerbcxy",
+            "is_submitter": false,
+            "link_id": "t3_k7fj07",
+            "parent_id": "t1_ger24ig",
+            "score": 1,
+            "stickied": false,
+            "author_name": "afterm4th_"
+        },
+        "ger24ig": {
+            "comment": "it said \"skipped from scan: password protected\"",
+            "timeStamp": "2020/12/05-15:37:42",
+            "id": "ger24ig",
+            "is_submitter": true,
+            "link_id": "t3_k7fj07",
+            "parent_id": "t1_geqvyp6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "HorobecS30"
+        },
+        "geqvyp6": {
+            "comment": "ah now i see what you mean. its a 7zip compressed file with 2 files inside of it that are both password protected.\n\n&amp;#x200B;\n\nill try to run a password attack on it but I wont likely get far... \n\ndid bitdefender tell you a name that went along with the infection? or did it tell you anything else? like, another file involved perhaps?",
+            "timeStamp": "2020/12/05-14:50:16",
+            "id": "geqvyp6",
+            "is_submitter": false,
+            "link_id": "t3_k7fj07",
+            "parent_id": "t1_geqovsk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "afterm4th_"
+        },
+        "geqqflo": {
+            "comment": "Most developers will store persistent artifacts in less visible places like their installation directory, AppData, the registry, etc. I don\u2019t use NoxPlayer but it seems that they decided the user directory would be an appropriate place to store data for some reason!",
+            "timeStamp": "2020/12/05-14:08:13",
+            "id": "geqqflo",
+            "is_submitter": false,
+            "link_id": "t3_k7fj07",
+            "parent_id": "t1_geqp2aq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MERLINCONTEST"
+        },
+        "geqp2aq": {
+            "comment": "Actually yes. Why specifically in my user folder if that? Nox is installed to the x86 program files folder.",
+            "timeStamp": "2020/12/05-13:57:56",
+            "id": "geqp2aq",
+            "is_submitter": true,
+            "link_id": "t3_k7fj07",
+            "parent_id": "t1_geqo0i4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "HorobecS30"
+        },
+        "geqow3w": {
+            "comment": "[https://gofile.io/d/qJnrsi](https://gofile.io/d/qJnrsi)",
+            "timeStamp": "2020/12/05-13:56:36",
+            "id": "geqow3w",
+            "is_submitter": true,
+            "link_id": "t3_k7fj07",
+            "parent_id": "t1_geqlzp9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "HorobecS30"
+        },
+        "geqovsk": {
+            "comment": "[https://gofile.io/d/qJnrsi](https://gofile.io/d/qJnrsi)",
+            "timeStamp": "2020/12/05-13:56:32",
+            "id": "geqovsk",
+            "is_submitter": true,
+            "link_id": "t3_k7fj07",
+            "parent_id": "t1_geqkxmq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "HorobecS30"
+        },
+        "geqo0i4": {
+            "comment": "NoxPlayer installed? Poor local file storage decision.",
+            "timeStamp": "2020/12/05-13:50:13",
+            "id": "geqo0i4",
+            "is_submitter": false,
+            "link_id": "t3_k7fj07",
+            "parent_id": "t3_k7fj07",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MERLINCONTEST"
+        },
+        "geqlzp9": {
+            "comment": "I think quite a few people would be interested if you could upload them somewhere and provide a link. Or if you're only giving them to individuals I'd like to take a look at them.",
+            "timeStamp": "2020/12/05-13:35:09",
+            "id": "geqlzp9",
+            "is_submitter": false,
+            "link_id": "t3_k7fj07",
+            "parent_id": "t3_k7fj07",
+            "score": 1,
+            "stickied": false,
+            "author_name": "pirate_phate"
+        },
+        "geqkxmq": {
+            "comment": "sure, i'll take a look... upload it somewhere and ill let you know what i find",
+            "timeStamp": "2020/12/05-13:27:11",
+            "id": "geqkxmq",
+            "is_submitter": false,
+            "link_id": "t3_k7fj07",
+            "parent_id": "t3_k7fj07",
+            "score": 1,
+            "stickied": false,
+            "author_name": "afterm4th_"
+        }
+    }
+}

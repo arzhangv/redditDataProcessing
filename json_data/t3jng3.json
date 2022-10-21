@@ -1,0 +1,110 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Conti group chat leaks",
+        "score": 1,
+        "id": "t3jng3",
+        "commsNum": 7,
+        "timeStamp": "2022/02/28-08:36:10",
+        "author_name": "DrinkMoreCodeMore",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://github.com/TheParmak/conti-leaks-englished"
+    },
+    "posts": {
+        "ib0xw5d": {
+            "comment": "[removed]",
+            "timeStamp": "2022/06/03-04:42:38",
+            "id": "ib0xw5d",
+            "is_submitter": false,
+            "link_id": "t3_t3jng3",
+            "parent_id": "t3_t3jng3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hyxrl3d": {
+            "comment": "&gt;Big thanks to u/Nathannaelc for providing deepl translated pdf documents and json files.",
+            "timeStamp": "2022/03/01-09:49:50",
+            "id": "hyxrl3d",
+            "is_submitter": true,
+            "link_id": "t3_t3jng3",
+            "parent_id": "t1_hyub15c",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DrinkMoreCodeMore"
+        },
+        "hywcdgc": {
+            "comment": "The filenames in the git repo give hints as to the translation platforms used: google translate and deepl, both offer APIs.\n\nAs for the PDFs, they look pretty rudimentary; probably just generated with `pandoc input_json.txt -o output.pdf` or something along those lines.\n\nLinks:\n\n* https://www.deepl.com/en/docs-api\n* https://cloud.google.com/translate\n* https://pandoc.org",
+            "timeStamp": "2022/03/01-02:55:47",
+            "id": "hywcdgc",
+            "is_submitter": false,
+            "link_id": "t3_t3jng3",
+            "parent_id": "t1_hyub15c",
+            "score": 1,
+            "stickied": false,
+            "author_name": "wrboyce"
+        },
+        "hyupolt": {
+            "comment": "I read that haha. So many funny moments in their chat logs.",
+            "timeStamp": "2022/02/28-17:01:02",
+            "id": "hyupolt",
+            "is_submitter": true,
+            "link_id": "t3_t3jng3",
+            "parent_id": "t1_hyupbko",
+            "score": 2,
+            "stickied": false,
+            "author_name": "DrinkMoreCodeMore"
+        },
+        "hyupbko": {
+            "comment": "Don't forget where they asked for 4 vacation days....Hackers need PTO lol",
+            "timeStamp": "2022/02/28-16:58:12",
+            "id": "hyupbko",
+            "is_submitter": false,
+            "link_id": "t3_t3jng3",
+            "parent_id": "t1_hytyk0d",
+            "score": 4,
+            "stickied": false,
+            "author_name": "LoneAmerican"
+        },
+        "hyub15c": {
+            "comment": "Hey, can i ask you how you did this? Like how you translated it and turned it into PDFs and everything? Meaning what script you used?",
+            "timeStamp": "2022/02/28-15:07:33",
+            "id": "hyub15c",
+            "is_submitter": false,
+            "link_id": "t3_t3jng3",
+            "parent_id": "t3_t3jng3",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Letalis_"
+        },
+        "hyu7tra": {
+            "comment": "Thanks, this saves a good bit of effort",
+            "timeStamp": "2022/02/28-14:44:43",
+            "id": "hyu7tra",
+            "is_submitter": false,
+            "link_id": "t3_t3jng3",
+            "parent_id": "t3_t3jng3",
+            "score": 2,
+            "stickied": false,
+            "author_name": "simpaholic"
+        },
+        "hytyk0d": {
+            "comment": "Some interesting words and how many times it's found in the leak\n\nbitcoin - 64\n\nlawyer - 58\n\nworried - 14\n\nafraid - 21\n\nscared - 4\n\nnot pay - 15\n\nrich - 9\n\nscam - 4\n\namerica - 33\n\nlaw enforcement - 2\n\ncaught - 29\n\nemotet - 5\n\nrevil - 5\n\nnoob - 2\n\nforum - 94",
+            "timeStamp": "2022/02/28-13:41:53",
+            "id": "hytyk0d",
+            "is_submitter": true,
+            "link_id": "t3_t3jng3",
+            "parent_id": "t3_t3jng3",
+            "score": 8,
+            "stickied": false,
+            "author_name": "DrinkMoreCodeMore"
+        }
+    }
+}

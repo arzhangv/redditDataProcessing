@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hello guys and girls.\n\nI need some advice. At work I often use IoBit to uninstall software. I prefer it over other programs like Revo Uninstaller since it has batch uninstall and I find the UI way more friendly then other software. \n\nYet, when I scan my computer with HerdProtect, some AV's tell that it's actually a PUP. Well, some files of the program. \n\nI ran the AV programs that said it was a PUP and it actually found it and said it was a threat. Gdata even calls it Win32.Adware.Iobit.A\n\nTwo other programs tell that its a PUP. If you want to see which ones, here is the SHA256 I got from the scan of VirusTotal: 43f764f03addaa3b6fcc3469d77f69486ab69899e41be49901752608d599e8d6\n\nLooking at the results of HerdProtect, only Dr. Web actually says that 4 files are PUP's. TrendMicro says the main EXE is suspicious. GData says that the main EXE and the exe used for updating is malicious.\n\nAfter I tested it in a VM and looked at it with hexeditor, dependency walker and other tools... I found out that there isn't anything wrong with it. \n\nSince I'm extremely new at research malware, I call out to my fellow researchers. Can somebody confirm its a PUP and why? Feel free to give me a tutorial or some tips how to find out if a program is really malicious or not. Since I think I don't use the tools given to me (thanks to you guys) .... at their full potential. \n\nThanks in advance,\nJonez. ",
+        "title": "IoBit Uninstaller is adware?",
+        "score": 3,
+        "id": "37c470",
+        "commsNum": 8,
+        "timeStamp": "2015/05/26-08:16:14",
+        "author_name": "NekoJonez",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 8,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/37c470/iobit_uninstaller_is_adware/"
+    },
+    "posts": {
+        "if1v4cj": {
+            "comment": "&gt;Revo Uninstaller\n\nI wish that worked - apparently it only allows multiple uninstalls in the paid version. The free version only uninstalls one program at a time. Pity, as it is also portable.",
+            "timeStamp": "2022/07/06-01:34:43",
+            "id": "if1v4cj",
+            "is_submitter": false,
+            "link_id": "t3_37c470",
+            "parent_id": "t1_crllvez",
+            "score": 1,
+            "stickied": false,
+            "author_name": "alexlomba87"
+        },
+        "hq6h25q": {
+            "comment": "https://www.revouninstaller.com/pl/revo-uninstaller-free-download/",
+            "timeStamp": "2021/12/27-11:07:16",
+            "id": "hq6h25q",
+            "is_submitter": false,
+            "link_id": "t3_37c470",
+            "parent_id": "t1_hkfl569",
+            "score": 1,
+            "stickied": false,
+            "author_name": "a14_45"
+        },
+        "hkfl569": {
+            "comment": "is there an official link? i dont wanna click on a bad link thatta give me a virus or malware",
+            "timeStamp": "2021/11/12-23:01:12",
+            "id": "hkfl569",
+            "is_submitter": false,
+            "link_id": "t3_37c470",
+            "parent_id": "t1_crllvez",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DarkShadowKing66"
+        }
+    }
+}

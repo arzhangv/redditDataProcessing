@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Hello Everyone.. Good Day.. There are lot sessions out there where you can learn malware analysis, but most of them lack in some point or another. We have tried to compile own version with a practical demo, hope every Incident Responder found this useful. Any feedback will be truly appreciated.",
+        "score": 1,
+        "id": "hosmj1",
+        "commsNum": 0,
+        "timeStamp": "2020/07/10-10:00:21",
+        "author_name": "blackperl_dfir",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://youtu.be/D3inDM8kM-Y"
+    },
+    "posts": {}
+}

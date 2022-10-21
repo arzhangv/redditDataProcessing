@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Good morning,\n\nI released a quick update to \u201cWindows Process Genealogy\u201d with some additional information about a process name change for Windows 10, and 2 additional processes not previously covered.\n\nWindows Process Genealogy \u2013 Update:\nhttps://www.youtube.com/watch?v=vpSIw-zGhhE\n\nUpdated Diagram:\nhttps://www.13cubed.com/downloads/windows_process_genealogy_v2.pdf\n\nChannel:\nhttps://www.youtube.com/13cubed",
+        "title": "Windows Process Genealogy - Update (X-Post)",
+        "score": 17,
+        "id": "8l00mp",
+        "commsNum": 2,
+        "timeStamp": "2018/05/21-04:13:44",
+        "author_name": "13Cubed",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8l00mp/windows_process_genealogy_update_xpost/"
+    },
+    "posts": {
+        "dzi50vd": {
+            "comment": "Conhost's parent used to be csrss.exe, but with newer versions of Windows (8 and later) that changed. For example, cmd.exe and powershell.exe spawn their own conhost process.",
+            "timeStamp": "2018/05/24-07:26:54",
+            "id": "dzi50vd",
+            "is_submitter": true,
+            "link_id": "t3_8l00mp",
+            "parent_id": "t1_dzhdys2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "13Cubed"
+        },
+        "dzhdys2": {
+            "comment": "Nice, None of these spawn conhost? ",
+            "timeStamp": "2018/05/23-19:51:06",
+            "id": "dzhdys2",
+            "is_submitter": false,
+            "link_id": "t3_8l00mp",
+            "parent_id": "t3_8l00mp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "acalarch"
+        }
+    }
+}

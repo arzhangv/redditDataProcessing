@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hello, I am a cyber security student looking for some file-based cryptojacking malware samples, does anyone know any good places to get samples like this? I'm looking for samples such as WannaMine or WebCobra. \n\nThanks!",
+        "title": "File-Based Cryptojacking samples",
+        "score": 1,
+        "id": "eppiu6",
+        "commsNum": 5,
+        "timeStamp": "2020/01/16-13:00:53",
+        "author_name": "stefan69er",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/eppiu6/filebased_cryptojacking_samples/"
+    },
+    "posts": {
+        "fev40wm": {
+            "comment": "I've checked out the zoo, didn't have what I was looking for.",
+            "timeStamp": "2020/01/18-16:14:44",
+            "id": "fev40wm",
+            "is_submitter": true,
+            "link_id": "t3_eppiu6",
+            "parent_id": "t1_fekw8n3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "stefan69er"
+        },
+        "fev3z36": {
+            "comment": "Oh dang, thanks!",
+            "timeStamp": "2020/01/18-16:14:22",
+            "id": "fev3z36",
+            "is_submitter": true,
+            "link_id": "t3_eppiu6",
+            "parent_id": "t1_felucm0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "stefan69er"
+        },
+        "fero5gn": {
+            "comment": "[removed]",
+            "timeStamp": "2020/01/18-06:06:24",
+            "id": "fero5gn",
+            "is_submitter": false,
+            "link_id": "t3_eppiu6",
+            "parent_id": "t3_eppiu6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "felucm0": {
+            "comment": "I host a repository of malware with a couple hundred thousand samples. You can search and download samples via a tool called the Malware Analysis Center. You can read more about it at the link below.\n\nI'm not sure I have any samples of webcobra, but I might have a few samples of wannamine.\n\nI do have thousands of samples of various types of the crypto jacking malware.\n\nhttps://practicalsecurityanalytics.com/malware-analysis-center/about/",
+            "timeStamp": "2020/01/16-19:19:06",
+            "id": "felucm0",
+            "is_submitter": false,
+            "link_id": "t3_eppiu6",
+            "parent_id": "t3_eppiu6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "FusionCarcass"
+        },
+        "fekw8n3": {
+            "comment": "Try out The Zoo: https://thezoo.morirt.com/",
+            "timeStamp": "2020/01/16-13:08:13",
+            "id": "fekw8n3",
+            "is_submitter": false,
+            "link_id": "t3_eppiu6",
+            "parent_id": "t3_eppiu6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AmhalFaruk"
+        }
+    }
+}

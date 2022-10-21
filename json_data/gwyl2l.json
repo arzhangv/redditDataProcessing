@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Tycoon Ransomware targets Windows &amp; Linux. Written in Java. Tycoon given extensions including .redrum, .grinch and .thanos",
+        "score": 1,
+        "id": "gwyl2l",
+        "commsNum": 1,
+        "timeStamp": "2020/06/04-22:33:17",
+        "author_name": "LMJR500Army",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.zdnet.com/google-amp/article/this-new-ransomware-is-targeting-windows-and-linux-pcs-with-a-unique-attack/?fbclid=IwAR1d1RenXKswDG92Wwe8GdfEnq-d1y3xMvqzGVpvgRag5gQjbJ8iVurV2PA"
+    },
+    "posts": {
+        "fth9i3g": {
+            "comment": "anyone knows where i can get a sample by any chance?",
+            "timeStamp": "2020/06/09-07:31:39",
+            "id": "fth9i3g",
+            "is_submitter": false,
+            "link_id": "t3_gwyl2l",
+            "parent_id": "t3_gwyl2l",
+            "score": 1,
+            "stickied": false,
+            "author_name": "SlayerOfBabies"
+        }
+    }
+}

@@ -1,0 +1,198 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Banking malware in latest release of Fing network discovery app for android.",
+        "score": 13,
+        "id": "bq7vwe",
+        "commsNum": 16,
+        "timeStamp": "2019/05/18-12:38:01",
+        "author_name": "r4v3rrr",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 16,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://i.redd.it/rbw6lv8pv0z21.png"
+    },
+    "posts": {
+        "eo85mfq": {
+            "comment": "I'd say so. Fing does stuff like ARP scanning, so maybe it's getting flagged for that sort of activity.",
+            "timeStamp": "2019/05/20-06:13:37",
+            "id": "eo85mfq",
+            "is_submitter": false,
+            "link_id": "t3_bq7vwe",
+            "parent_id": "t1_eo3y138",
+            "score": 1,
+            "stickied": false,
+            "author_name": "stephendt"
+        },
+        "eo67wly": {
+            "comment": "I use Fing, have for a long time, so I backed it up from my phone using the new Google Files app, then uploaded it to opswat metadefender.\n\n    D:\\&gt;certutil -hashfile Fing.apk SHA256\n    SHA256 hash of file Fing.apk:\n    1f bc 4c 97 c5 58 8e 44 c9 43 14 62 88 3a 59 ec 9c 66 89 dc 6e 15 19 f4 96 4b 82 a7 a1 2b c8 51\n\nThen I uploaded it to opswat metadefender.\n\nhttps://metadefender.opswat.com/results#!/file/bzE5MDUxOXIxYmVjWk1YMDM0QnlDNVhaVFIyTg/regular/overview\n\nThis doesn't have any detection, from any antivirus other than DrWeb.  THe meta-analysis, is clean, and I went through the files manually.\n\nhttps://www.hybrid-analysis.com/sample/1fbc4c97c5588e44c9431462883a59ec9c6689dc6e1519f4964b82a7a12bc851\n\nConclusion: this looks like a false positive.",
+            "timeStamp": "2019/05/19-17:52:57",
+            "id": "eo67wly",
+            "is_submitter": false,
+            "link_id": "t3_bq7vwe",
+            "parent_id": "t1_eo3xtcp",
+            "score": 2,
+            "stickied": false,
+            "author_name": "R-EDDIT"
+        },
+        "eo3yiqe": {
+            "comment": "It's one of the worst, and doesn't even make this list - https://www.av-test.org/en/antivirus/mobile-devices/",
+            "timeStamp": "2019/05/19-03:44:09",
+            "id": "eo3yiqe",
+            "is_submitter": false,
+            "link_id": "t3_bq7vwe",
+            "parent_id": "t1_eo3y9lt",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Khanhrhh"
+        },
+        "eo3y9lt": {
+            "comment": "Well with your average android AV I would be right on board with that thinking but this one is supposedly not crappy. Damn right I was scared I bank on my phone lol.\n\nStill, best practice suggests we don't just chalk things up as false positives.",
+            "timeStamp": "2019/05/19-03:40:04",
+            "id": "eo3y9lt",
+            "is_submitter": true,
+            "link_id": "t3_bq7vwe",
+            "parent_id": "t1_eo2era6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "r4v3rrr"
+        },
+        "eo3y138": {
+            "comment": "Sadly I removed it as soon as I found it so I didn't get a chance to pull it apart and check. False positive is certainly possible.",
+            "timeStamp": "2019/05/19-03:35:59",
+            "id": "eo3y138",
+            "is_submitter": true,
+            "link_id": "t3_bq7vwe",
+            "parent_id": "t1_eo2t04f",
+            "score": 1,
+            "stickied": false,
+            "author_name": "r4v3rrr"
+        },
+        "eo3xtcp": {
+            "comment": "Auto update from play store",
+            "timeStamp": "2019/05/19-03:32:23",
+            "id": "eo3xtcp",
+            "is_submitter": true,
+            "link_id": "t3_bq7vwe",
+            "parent_id": "t1_eo30x7n",
+            "score": 1,
+            "stickied": false,
+            "author_name": "r4v3rrr"
+        },
+        "eo30x7n": {
+            "comment": "&gt; Dr. Web\n\nI see Dr. Web is Russian antivirus.  Did you install Fing from the Google Play store, or another location?",
+            "timeStamp": "2019/05/18-19:29:51",
+            "id": "eo30x7n",
+            "is_submitter": false,
+            "link_id": "t3_bq7vwe",
+            "parent_id": "t1_eo224lr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "R-EDDIT"
+        },
+        "eo2t04f": {
+            "comment": "This sounds like the sort of thing that would be a false positive. Are you able to provide more proof?",
+            "timeStamp": "2019/05/18-18:11:55",
+            "id": "eo2t04f",
+            "is_submitter": false,
+            "link_id": "t3_bq7vwe",
+            "parent_id": "t3_bq7vwe",
+            "score": 3,
+            "stickied": false,
+            "author_name": "stephendt"
+        },
+        "eo2hr0e": {
+            "comment": "Ah bollox I seen this whilst using my banking app",
+            "timeStamp": "2019/05/18-16:12:15",
+            "id": "eo2hr0e",
+            "is_submitter": false,
+            "link_id": "t3_bq7vwe",
+            "parent_id": "t3_bq7vwe",
+            "score": 2,
+            "stickied": false,
+            "author_name": "welp_this_is_it"
+        },
+        "eo2gc9g": {
+            "comment": "shadowban test",
+            "timeStamp": "2019/05/18-15:54:37",
+            "id": "eo2gc9g",
+            "is_submitter": false,
+            "link_id": "t3_bq7vwe",
+            "parent_id": "t3_bq7vwe",
+            "score": 1,
+            "stickied": false,
+            "author_name": "bobalob_wtf"
+        },
+        "eo2f4v8": {
+            "comment": "I can\u2019t be the only one who saw SpIDer Guard and thought this was /r/bak for a second",
+            "timeStamp": "2019/05/18-15:42:15",
+            "id": "eo2f4v8",
+            "is_submitter": false,
+            "link_id": "t3_bq7vwe",
+            "parent_id": "t3_bq7vwe",
+            "score": 1,
+            "stickied": false,
+            "author_name": "James_Johnson"
+        },
+        "eo2era6": {
+            "comment": "You got scared by scareware.\n\nAll these shitty AV programs throw false positives all over the place, there's no incentive to stop it, as it convinces people it's doing something.",
+            "timeStamp": "2019/05/18-15:38:20",
+            "id": "eo2era6",
+            "is_submitter": false,
+            "link_id": "t3_bq7vwe",
+            "parent_id": "t3_bq7vwe",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Khanhrhh"
+        },
+        "eo28vur": {
+            "comment": "This app has 10m+ installs (they claim 35m.) Do you think this could be a false positive?",
+            "timeStamp": "2019/05/18-14:38:38",
+            "id": "eo28vur",
+            "is_submitter": false,
+            "link_id": "t3_bq7vwe",
+            "parent_id": "t3_bq7vwe",
+            "score": 1,
+            "stickied": false,
+            "author_name": "bobalob_wtf"
+        },
+        "eo2711f": {
+            "comment": "Use this on IOS, I wonder if intentional..",
+            "timeStamp": "2019/05/18-14:19:35",
+            "id": "eo2711f",
+            "is_submitter": false,
+            "link_id": "t3_bq7vwe",
+            "parent_id": "t3_bq7vwe",
+            "score": 2,
+            "stickied": false,
+            "author_name": "MysticalTeamMember"
+        },
+        "eo224lr": {
+            "comment": "Dr. Web it's one of the few android AVs that actually do the job properly",
+            "timeStamp": "2019/05/18-13:30:38",
+            "id": "eo224lr",
+            "is_submitter": true,
+            "link_id": "t3_bq7vwe",
+            "parent_id": "t3_bq7vwe",
+            "score": 2,
+            "stickied": false,
+            "author_name": "r4v3rrr"
+        },
+        "eo20d19": {
+            "comment": "What was the app you used for detection?",
+            "timeStamp": "2019/05/18-13:13:38",
+            "id": "eo20d19",
+            "is_submitter": false,
+            "link_id": "t3_bq7vwe",
+            "parent_id": "t3_bq7vwe",
+            "score": 6,
+            "stickied": false,
+            "author_name": "computir"
+        }
+    }
+}

@@ -1,0 +1,132 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Distributing malware with Google images, service workers and vegan Twitter bots",
+        "score": 1,
+        "id": "eblzul",
+        "commsNum": 10,
+        "timeStamp": "2019/12/16-14:05:20",
+        "author_name": "Big_badBlobby_mofo",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 10,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://tomforb.es/distributing-malware-with-google-images-service-workers-and-vegan-twitter-bots/"
+    },
+    "posts": {
+        "fb91rze": {
+            "comment": "Imagine your mum saw a native OS notification telling her that her computer was infected.\n\nShe clicks it, and immediately is taken to a page that starts downloading an executable. The page is themed like a Microsoft page and tells her to simply run the file to be virus free. It even has a big arrow on the page pointing to exactly _where_ she should click to run it.\n\nHappens all the time. The people most likely to accept the notifications are those most likely to get infected. Using google images is pretty good because you get a good stream of clicks from all types of people, and it\u2019s apparently easier to get higher rankings than classic search.",
+            "timeStamp": "2019/12/17-15:59:50",
+            "id": "fb91rze",
+            "is_submitter": true,
+            "link_id": "t3_eblzul",
+            "parent_id": "t1_fb91027",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Big_badBlobby_mofo"
+        },
+        "fb91027": {
+            "comment": "Is there some vulnerability executing code going on or is it people just accepting notifications and then running the downloaded executable for some reason? Unless I misread it seems a little far fetched",
+            "timeStamp": "2019/12/17-15:50:31",
+            "id": "fb91027",
+            "is_submitter": false,
+            "link_id": "t3_eblzul",
+            "parent_id": "t3_eblzul",
+            "score": 1,
+            "stickied": false,
+            "author_name": "perolan"
+        },
+        "fb7mpnz": {
+            "comment": "Ah, a tale as old as time.",
+            "timeStamp": "2019/12/17-06:52:13",
+            "id": "fb7mpnz",
+            "is_submitter": false,
+            "link_id": "t3_eblzul",
+            "parent_id": "t1_fb6sxat",
+            "score": 1,
+            "stickied": false,
+            "author_name": "beardyzve"
+        },
+        "fb6sxat": {
+            "comment": "From my brief read it looks like the notifications send popups to the user telling the user to check for viruses using a link to malware download.",
+            "timeStamp": "2019/12/16-21:09:01",
+            "id": "fb6sxat",
+            "is_submitter": false,
+            "link_id": "t3_eblzul",
+            "parent_id": "t1_fb6q14s",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RiskyPickles"
+        },
+        "fb6q14s": {
+            "comment": "Are the notifications just adware?",
+            "timeStamp": "2019/12/16-20:25:17",
+            "id": "fb6q14s",
+            "is_submitter": false,
+            "link_id": "t3_eblzul",
+            "parent_id": "t1_fb6lamx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "GaMonkey07"
+        },
+        "fb6lamx": {
+            "comment": "Don\u2019t allow notifications from sites.",
+            "timeStamp": "2019/12/16-19:24:56",
+            "id": "fb6lamx",
+            "is_submitter": false,
+            "link_id": "t3_eblzul",
+            "parent_id": "t1_fb692kb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Wheaties466"
+        },
+        "fb692kb": {
+            "comment": "How should we look out for these?",
+            "timeStamp": "2019/12/16-17:00:44",
+            "id": "fb692kb",
+            "is_submitter": false,
+            "link_id": "t3_eblzul",
+            "parent_id": "t3_eblzul",
+            "score": 1,
+            "stickied": false,
+            "author_name": "GaMonkey07"
+        },
+        "fb5yfv3": {
+            "comment": "Vegan salad?",
+            "timeStamp": "2019/12/16-14:55:42",
+            "id": "fb5yfv3",
+            "is_submitter": true,
+            "link_id": "t3_eblzul",
+            "parent_id": "t1_fb5x2a9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Big_badBlobby_mofo"
+        },
+        "fb5xntu": {
+            "comment": "[removed]",
+            "timeStamp": "2019/12/16-14:47:07",
+            "id": "fb5xntu",
+            "is_submitter": false,
+            "link_id": "t3_eblzul",
+            "parent_id": "t3_eblzul",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fb5x2a9": {
+            "comment": "What is a word salad title Alex.",
+            "timeStamp": "2019/12/16-14:40:25",
+            "id": "fb5x2a9",
+            "is_submitter": false,
+            "link_id": "t3_eblzul",
+            "parent_id": "t3_eblzul",
+            "score": 1,
+            "stickied": false,
+            "author_name": "geekender"
+        }
+    }
+}

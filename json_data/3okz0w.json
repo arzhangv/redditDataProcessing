@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[deleted]",
+        "title": "Whitepaper: Writing Cisco IOS Rootkits",
+        "score": 1,
+        "id": "3okz0w",
+        "commsNum": 1,
+        "timeStamp": "2015/10/13-06:07:18",
+        "author_name": "[deleted]",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://grid32.com/bb095447484a76e5c74d10f604b716f8/cisco_ios_rootkits.pdf"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "From Linux to Windows - New Cross-Platform Backdoor Discovered",
+        "score": 4,
+        "id": "43thrw",
+        "commsNum": 1,
+        "timeStamp": "2016/02/02-01:17:57",
+        "author_name": "j4v",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://securelist.com/blog/research/73503/from-linux-to-windows-new-family-of-cross-platform-desktop-backdoors-discovered/"
+    },
+    "posts": {}
+}

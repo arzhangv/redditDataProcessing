@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Kovter malware teardown, including \"invisible\" registry persistence",
+        "score": 1,
+        "id": "941nfz",
+        "commsNum": 0,
+        "timeStamp": "2018/08/02-11:04:28",
+        "author_name": "ewhitehats",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://github.com/ewhitehats/kovterTools/raw/master/KovterWhitepaper.pdf"
+    },
+    "posts": {}
+}

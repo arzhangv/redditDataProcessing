@@ -1,0 +1,253 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Apple Pegasus ransomware attack is giving people the option to freely remove their data from the leak",
+        "score": 1,
+        "id": "vkiox1",
+        "commsNum": 0,
+        "timeStamp": "2022/06/25-09:28:13",
+        "author_name": "raheke8",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://i.redd.it/0sshf7zqms791.png"
+    },
+    "posts": {
+        "idwkjht": {
+            "comment": "Amazing. That's actually a scareware or a fake popup scam. The country associated with these scams is India.",
+            "timeStamp": "2022/06/27-00:36:06",
+            "id": "idwkjht",
+            "is_submitter": false,
+            "link_id": "t3_vkiox1",
+            "parent_id": "t1_idr399h",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DefiantDeviantArt"
+        },
+        "idvpp99": {
+            "comment": "This guy is a scammer, he posted the same thing but slightly different in r/Terrifyingasfuck it's a crock of fake bullshit he uses to grift crypto from people",
+            "timeStamp": "2022/06/26-19:10:32",
+            "id": "idvpp99",
+            "is_submitter": false,
+            "link_id": "t3_vkiox1",
+            "parent_id": "t1_idrlrcu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ColdAmoeba"
+        },
+        "idt7vr6": {
+            "comment": "Because that's how to get verification",
+            "timeStamp": "2022/06/26-07:48:30",
+            "id": "idt7vr6",
+            "is_submitter": true,
+            "link_id": "t3_vkiox1",
+            "parent_id": "t1_idsgsa4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "raheke8"
+        },
+        "idsyfp4": {
+            "comment": "You probably got scammed",
+            "timeStamp": "2022/06/26-06:30:05",
+            "id": "idsyfp4",
+            "is_submitter": false,
+            "link_id": "t3_vkiox1",
+            "parent_id": "t1_ids8p8d",
+            "score": 1,
+            "stickied": false,
+            "author_name": "YAROBONZ-"
+        },
+        "idsiw2m": {
+            "comment": "Maybe you are the one who made the virus and trying to scam people on reddit (I was joking but what I said might be real)",
+            "timeStamp": "2022/06/26-03:37:05",
+            "id": "idsiw2m",
+            "is_submitter": false,
+            "link_id": "t3_vkiox1",
+            "parent_id": "t3_vkiox1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TeaBuster"
+        },
+        "idsgsa4": {
+            "comment": "Why did you pay without any verification?",
+            "timeStamp": "2022/06/26-03:07:21",
+            "id": "idsgsa4",
+            "is_submitter": false,
+            "link_id": "t3_vkiox1",
+            "parent_id": "t1_ids8p8d",
+            "score": 1,
+            "stickied": false,
+            "author_name": "JakeSteam"
+        },
+        "idsgprc": {
+            "comment": "My dude you might have just given your card details to them.",
+            "timeStamp": "2022/06/26-03:06:20",
+            "id": "idsgprc",
+            "is_submitter": false,
+            "link_id": "t3_vkiox1",
+            "parent_id": "t1_ids8p8d",
+            "score": 1,
+            "stickied": false,
+            "author_name": "JakeSteam"
+        },
+        "idseb6r": {
+            "comment": "[removed]",
+            "timeStamp": "2022/06/26-02:30:49",
+            "id": "idseb6r",
+            "is_submitter": false,
+            "link_id": "t3_vkiox1",
+            "parent_id": "t1_idrvvs3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ids8p8d": {
+            "comment": "Yeah might be... just tried to see if my number had anything in there and it took me to a payment page. I paid and now it's just stuck loading for the past 10 minues.\n\nOnly sources were dark web forums.",
+            "timeStamp": "2022/06/26-01:09:11",
+            "id": "ids8p8d",
+            "is_submitter": true,
+            "link_id": "t3_vkiox1",
+            "parent_id": "t1_idrlrcu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "raheke8"
+        },
+        "ids66le": {
+            "comment": "There's more beneath that \"function countdown\" not sure what it means but I did view page source",
+            "timeStamp": "2022/06/26-00:34:04",
+            "id": "ids66le",
+            "is_submitter": true,
+            "link_id": "t3_vkiox1",
+            "parent_id": "t1_idr399h",
+            "score": 1,
+            "stickied": false,
+            "author_name": "raheke8"
+        },
+        "idrvz6g": {
+            "comment": "Send your phone number and next thing you know, some indian calls you that your windows computer needs servicing through the teamviewer",
+            "timeStamp": "2022/06/25-22:25:52",
+            "id": "idrvz6g",
+            "is_submitter": false,
+            "link_id": "t3_vkiox1",
+            "parent_id": "t3_vkiox1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "lai_0n"
+        },
+        "idrvvs3": {
+            "comment": "Isn't Pegasus a Spyware and not a ransomware ?",
+            "timeStamp": "2022/06/25-22:24:47",
+            "id": "idrvvs3",
+            "is_submitter": false,
+            "link_id": "t3_vkiox1",
+            "parent_id": "t3_vkiox1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ron_fury"
+        },
+        "idrlrcu": {
+            "comment": "Looks like a scam, unless - are their sources that verify this? I\u2019ve never heard of there being some massive apple hack related to Pegasus",
+            "timeStamp": "2022/06/25-20:40:23",
+            "id": "idrlrcu",
+            "is_submitter": false,
+            "link_id": "t3_vkiox1",
+            "parent_id": "t3_vkiox1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "filmdc"
+        },
+        "idr399h": {
+            "comment": "That's a fake, the countdown values are hardcoded into the page JavaScript code at `assets/js/main.js`:\n\n    function countdown() {\n      let numberDays = 7;\n      let numberHours = 00;\n      let numberMinutes = 49;\n      let numberSeconds = 28;\n\nand the +1s button just reload the page:\n\n    &lt;input type=\"submit\" class=\"btn-time\" value=\"+1s\" onClick=\"window.location.href=window.location.href\"\"&gt;",
+            "timeStamp": "2022/06/25-17:52:54",
+            "id": "idr399h",
+            "is_submitter": false,
+            "link_id": "t3_vkiox1",
+            "parent_id": "t3_vkiox1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "melomac"
+        },
+        "idpmyvn": {
+            "comment": "Or sift to find ones that matter",
+            "timeStamp": "2022/06/25-10:54:28",
+            "id": "idpmyvn",
+            "is_submitter": false,
+            "link_id": "t3_vkiox1",
+            "parent_id": "t1_idpkqnx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Blockchain_Benny"
+        },
+        "idpmr13": {
+            "comment": "ok",
+            "timeStamp": "2022/06/25-10:52:49",
+            "id": "idpmr13",
+            "is_submitter": false,
+            "link_id": "t3_vkiox1",
+            "parent_id": "t1_idpfi7t",
+            "score": 1,
+            "stickied": false,
+            "author_name": "txinxi"
+        },
+        "idplcyw": {
+            "comment": "source?",
+            "timeStamp": "2022/06/25-10:42:21",
+            "id": "idplcyw",
+            "is_submitter": false,
+            "link_id": "t3_vkiox1",
+            "parent_id": "t1_idpfi7t",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mr-sandcastle"
+        },
+        "idpkqnx": {
+            "comment": "So they can get confirmation of what data is legit in their leak",
+            "timeStamp": "2022/06/25-10:37:45",
+            "id": "idpkqnx",
+            "is_submitter": false,
+            "link_id": "t3_vkiox1",
+            "parent_id": "t3_vkiox1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "plkijn"
+        },
+        "idpj3eo": {
+            "comment": "How do you know it\u2019s real",
+            "timeStamp": "2022/06/25-10:25:27",
+            "id": "idpj3eo",
+            "is_submitter": false,
+            "link_id": "t3_vkiox1",
+            "parent_id": "t3_vkiox1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "CheesyCouchPotato"
+        },
+        "idpfi7t": {
+            "comment": "They allegedly have access to half a billion iPhone users' data based on murmurs in the darkweb. Might be worth 15.",
+            "timeStamp": "2022/06/25-09:58:48",
+            "id": "idpfi7t",
+            "is_submitter": true,
+            "link_id": "t3_vkiox1",
+            "parent_id": "t1_idpdp70",
+            "score": 1,
+            "stickied": false,
+            "author_name": "raheke8"
+        },
+        "idpdp70": {
+            "comment": "15m!?",
+            "timeStamp": "2022/06/25-09:45:33",
+            "id": "idpdp70",
+            "is_submitter": false,
+            "link_id": "t3_vkiox1",
+            "parent_id": "t3_vkiox1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "txinxi"
+        }
+    }
+}

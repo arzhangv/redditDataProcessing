@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "goodnight, youareanidiot.org. You have been turned into a parking site",
+        "score": 1,
+        "id": "ht5oc4",
+        "commsNum": 6,
+        "timeStamp": "2020/07/17-15:46:10",
+        "author_name": "Hurbed",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://i.redd.it/xpimk1tjxhb51.png"
+    },
+    "posts": {
+        "g21x23f": {
+            "comment": "Isnt there a new one? https://youareanidiot.cc/",
+            "timeStamp": "2020/08/18-18:03:25",
+            "id": "g21x23f",
+            "is_submitter": false,
+            "link_id": "t3_ht5oc4",
+            "parent_id": "t3_ht5oc4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Still_Human1234"
+        },
+        "fyfbbm9": {
+            "comment": "This really is a tragedy. Good night sweet prince.",
+            "timeStamp": "2020/07/17-19:17:31",
+            "id": "fyfbbm9",
+            "is_submitter": false,
+            "link_id": "t3_ht5oc4",
+            "parent_id": "t3_ht5oc4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "FrankThe1st"
+        },
+        "fyf2wce": {
+            "comment": "[removed]",
+            "timeStamp": "2020/07/17-17:49:46",
+            "id": "fyf2wce",
+            "is_submitter": false,
+            "link_id": "t3_ht5oc4",
+            "parent_id": "t3_ht5oc4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fyf1xbk": {
+            "comment": "[removed]",
+            "timeStamp": "2020/07/17-17:39:43",
+            "id": "fyf1xbk",
+            "is_submitter": false,
+            "link_id": "t3_ht5oc4",
+            "parent_id": "t1_fyf1wbk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fyf1wbk": {
+            "comment": "It was an old website that flashed a \"you are an idiot\" message while also playing audio. The original site it was hosted on was malicious(the reason it's posted here) but youareanidiot.org was clean.",
+            "timeStamp": "2020/07/17-17:39:26",
+            "id": "fyf1wbk",
+            "is_submitter": false,
+            "link_id": "t3_ht5oc4",
+            "parent_id": "t1_fyeyu2d",
+            "score": 1,
+            "stickied": false,
+            "author_name": "somecallhimalex"
+        },
+        "fyeyu2d": {
+            "comment": "?",
+            "timeStamp": "2020/07/17-17:08:31",
+            "id": "fyeyu2d",
+            "is_submitter": false,
+            "link_id": "t3_ht5oc4",
+            "parent_id": "t3_ht5oc4",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Barnezhilton"
+        }
+    }
+}

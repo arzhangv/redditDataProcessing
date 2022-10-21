@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Ransomware author releases decryption keys, says goodbye forever | Malwarebytes",
+        "score": 1,
+        "id": "ssbwez",
+        "commsNum": 1,
+        "timeStamp": "2022/02/14-06:27:43",
+        "author_name": "NerdyGurl4life",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://blog.malwarebytes.com/malwarebytes-news/2022/02/ransomware-author-releases-decryption-keys-says-goodbye-forever/"
+    },
+    "posts": {
+        "hx17wtw": {
+            "comment": "Good stuff",
+            "timeStamp": "2022/02/15-05:40:01",
+            "id": "hx17wtw",
+            "is_submitter": false,
+            "link_id": "t3_ssbwez",
+            "parent_id": "t3_ssbwez",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sturmblast"
+        }
+    }
+}

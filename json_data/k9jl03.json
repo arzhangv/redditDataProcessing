@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "how can an anti virus know that the file is malware before it is even run? for example if i download a zip file with a exe inside of it and i extract the exe the anti virus picks up and deletes the file? how can it detect that its malicious?",
+        "title": "anti virus detection",
+        "score": 1,
+        "id": "k9jl03",
+        "commsNum": 7,
+        "timeStamp": "2020/12/08-19:06:02",
+        "author_name": "lightarenjolle",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/k9jl03/anti_virus_detection/"
+    },
+    "posts": {
+        "gfavgak": {
+            "comment": "[removed]",
+            "timeStamp": "2020/12/10-09:25:52",
+            "id": "gfavgak",
+            "is_submitter": false,
+            "link_id": "t3_k9jl03",
+            "parent_id": "t1_gf4snbu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "gf7ahgt": {
+            "comment": "[removed]",
+            "timeStamp": "2020/12/09-12:02:12",
+            "id": "gf7ahgt",
+            "is_submitter": false,
+            "link_id": "t3_k9jl03",
+            "parent_id": "t3_k9jl03",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "gf68t4a": {
+            "comment": "[removed]",
+            "timeStamp": "2020/12/09-07:10:44",
+            "id": "gf68t4a",
+            "is_submitter": false,
+            "link_id": "t3_k9jl03",
+            "parent_id": "t1_gf4rly9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "gf573xm": {
+            "comment": "[removed]",
+            "timeStamp": "2020/12/08-22:28:09",
+            "id": "gf573xm",
+            "is_submitter": false,
+            "link_id": "t3_k9jl03",
+            "parent_id": "t3_k9jl03",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "gf4rly9": {
+            "comment": "&gt;Usually by checking it against a database of already known malware hashes. A file's hash can be computed without running it. Most AVs also do some other fancy stuff but that's the basic idea.\n\ni coded a port scanner in python with a Gui and i made it a exe with pyinstaller and and windows defender immediately flagged it as a virus and removed the exe? then the hashes wouldnt be known right? because i just coded it? so why does it get removed?",
+            "timeStamp": "2020/12/08-19:36:35",
+            "id": "gf4rly9",
+            "is_submitter": true,
+            "link_id": "t3_k9jl03",
+            "parent_id": "t1_gf4p34h",
+            "score": 1,
+            "stickied": false,
+            "author_name": "lightarenjolle"
+        }
+    }
+}

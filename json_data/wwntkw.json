@@ -1,0 +1,110 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Log4j Vulnerabilities and What They Mean for Your Business",
+        "score": 1,
+        "id": "wwntkw",
+        "commsNum": 0,
+        "timeStamp": "2022/08/24-09:22:40",
+        "author_name": "Ok_Attention6694",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.analyticsinsight.net/log4j-vulnerability-what-do-tech-flaws-mean-for-your-business/"
+    },
+    "posts": {
+        "im7yibq": {
+            "comment": "I'm just wondering why some companies were able to patch it much faster than others (Log4Shell). I saw Check Point, Cisco, and others were able to patch it quickly, but companies like Fortinet, and PAN took much longer.",
+            "timeStamp": "2022/08/28-22:02:05",
+            "id": "im7yibq",
+            "is_submitter": false,
+            "link_id": "t3_wwntkw",
+            "parent_id": "t1_ilu6vsl",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sarahhenicaxoxo"
+        },
+        "ilu6vsl": {
+            "comment": "Would need a good cybersecurity company to protect you, anything like Fortinet, Check Point, Cisco, etc., would help, especially if you haven't already prepared you/your team for Log4j vulnerabilities by now.",
+            "timeStamp": "2022/08/25-23:26:40",
+            "id": "ilu6vsl",
+            "is_submitter": false,
+            "link_id": "t3_wwntkw",
+            "parent_id": "t3_wwntkw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Capable_Ad5175"
+        },
+        "ilt2mp0": {
+            "comment": "Can't exactly stop it, but you can patch/mitigate it",
+            "timeStamp": "2022/08/25-17:27:42",
+            "id": "ilt2mp0",
+            "is_submitter": false,
+            "link_id": "t3_wwntkw",
+            "parent_id": "t1_ilotpc8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "EpisodicEthos304"
+        },
+        "ilptz57": {
+            "comment": "It's late August. If you haven't learnt the lesson of Log4j by now you're pretty fucked.",
+            "timeStamp": "2022/08/25-03:55:03",
+            "id": "ilptz57",
+            "is_submitter": false,
+            "link_id": "t3_wwntkw",
+            "parent_id": "t3_wwntkw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "gonzo_au"
+        },
+        "ilptvpr": {
+            "comment": "Blocking all jndi strings on the waf.",
+            "timeStamp": "2022/08/25-03:54:01",
+            "id": "ilptvpr",
+            "is_submitter": false,
+            "link_id": "t3_wwntkw",
+            "parent_id": "t1_ilotpc8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "gonzo_au"
+        },
+        "ilp3u5e": {
+            "comment": "Patching java",
+            "timeStamp": "2022/08/24-22:20:23",
+            "id": "ilp3u5e",
+            "is_submitter": false,
+            "link_id": "t3_wwntkw",
+            "parent_id": "t1_ilotpc8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "OneLengthiness266"
+        },
+        "ilotpc8": {
+            "comment": "How were companies stopping Log4Shell when it first existed?",
+            "timeStamp": "2022/08/24-20:40:53",
+            "id": "ilotpc8",
+            "is_submitter": false,
+            "link_id": "t3_wwntkw",
+            "parent_id": "t3_wwntkw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "jifodew6"
+        },
+        "ilnsf31": {
+            "comment": "[removed]",
+            "timeStamp": "2022/08/24-16:04:12",
+            "id": "ilnsf31",
+            "is_submitter": false,
+            "link_id": "t3_wwntkw",
+            "parent_id": "t3_wwntkw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

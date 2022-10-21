@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hey guys!  \n\n\nCan i download an malware sample from VirusTotal wiithout a premium key?  \n\n\nThe hash is   \n\n\n2d2588e4c8262a2dec901db7f07132dbe13540db39f3ed30ba2b73a7a7749f27  \n\n\nIf you've seen it, you can see that its a PayPal money gen, but why do you want it?  \n\n\nI know, its a scam, but i want to make a video debunking it, even tho VT says its safe, and im going to test it on VM anyways  \n\n\nThanks!  \n\\-",
+        "title": "Wanna download an sample from VT",
+        "score": 1,
+        "id": "elwo7v",
+        "commsNum": 4,
+        "timeStamp": "2020/01/08-10:30:11",
+        "author_name": "PXPedroxTheBest99",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/elwo7v/wanna_download_an_sample_from_vt/"
+    },
+    "posts": {
+        "fdlnd5n": {
+            "comment": "for i in {1..249600} ; do echo \"Free Paypal Money Adder.exe\" &gt;&gt; mal.txt; done\n\nthat will give you pretty much the same file",
+            "timeStamp": "2020/01/08-15:59:08",
+            "id": "fdlnd5n",
+            "is_submitter": false,
+            "link_id": "t3_elwo7v",
+            "parent_id": "t1_fdl7r4l",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Trolling_turd"
+        },
+        "fdl7r4l": {
+            "comment": "I still need it, i am starting an series on my YT channel debunking Generator/Adder scams",
+            "timeStamp": "2020/01/08-13:21:24",
+            "id": "fdl7r4l",
+            "is_submitter": true,
+            "link_id": "t3_elwo7v",
+            "parent_id": "t1_fdkvi0u",
+            "score": 1,
+            "stickied": false,
+            "author_name": "PXPedroxTheBest99"
+        },
+        "fdl6rjm": {
+            "comment": "Correct in every way. This is a silly file:\n\n                00\t01\t02\t03\t04\t05\t06\t07\t08\t09\t0A\t0B\t0C\t0D\t0E\t0F\n    00000000\t46\t72\t65\t65\t20\t50\t61\t79\t70\t61\t6c\t20\t4d\t6f\t6e\t65\tFree Paypal Mone\n    00000010\t79\t20\t41\t64\t64\t65\t72\t2e\t65\t78\t65\t0d\t0a\t46\t72\t65\ty Adder.exe..Fre\n    00000020\t65\t20\t50\t61\t79\t70\t61\t6c\t20\t4d\t6f\t6e\t65\t79\t20\t41\te Paypal Money A\n    00000030\t64\t64\t65\t72\t2e\t65\t78\t65\t0d\t0a\t46\t72\t65\t65\t20\t50\tdder.exe..Free P\n    00000040\t61\t79\t70\t61\t6c\t20\t4d\t6f\t6e\t65\t79\t20\t41\t64\t64\t65\taypal Money Adde\n    00000050\t72\t2e\t65\t78\t65\t0d\t0a\t46\t72\t65\t65\t20\t50\t61\t79\t70\tr.exe..Free Payp\n    00000060\t61\t6c\t20\t4d\t6f\t6e\t65\t79\t20\t41\t64\t64\t65\t72\t2e\t65\tal Money Adder.e\n    00000070\t78\t65\t0d\t0a\t46\t72\t65\t65\t20\t50\t61\t79\t70\t61\t6c\t20\txe..Free Paypal\n    00000080\t4d\t6f\t6e\t65\t79\t20\t41\t64\t64\t65\t72\t2e\t65\t78\t65\t0d\tMoney Adder.exe.\n    00000090\t0a\t46\t72\t65\t65\t20\t50\t61\t79\t70\t61\t6c\t20\t4d\t6f\t6e\t.Free Paypal Mon\n    000000A0\t65\t79\t20\t41\t64\t64\t65\t72\t2e\t65\t78\t65\t0d\t0a\t46\t72\tey Adder.exe..Fr\n    000000B0\t65\t65\t20\t50\t61\t79\t70\t61\t6c\t20\t4d\t6f\t6e\t65\t79\t20\tee Paypal Money\n    000000C0\t41\t64\t64\t65\t72\t2e\t65\t78\t65\t0d\t0a\t46\t72\t65\t65\t20\tAdder.exe..Free\n    000000D0\t50\t61\t79\t70\t61\t6c\t20\t4d\t6f\t6e\t65\t79\t20\t41\t64\t64\tPaypal Money Add\n    000000E0\t65\t72\t2e\t65\t78\t65\t0d\t0a\t46\t72\t65\t65\t20\t50\t61\t79\ter.exe..Free Pay\n    000000F0\t70\t61\t6c\t20\t4d\t6f\t6e\t65\t79\t20\t41\t64\t64\t65\t72\t2e\tpal Money Adder.\n    00000100\t65\t78\t65\t0d\t0a\t46\t72\t65\t65\t20\t50\t61\t79\t70\t61\t6c\texe..Free Paypal",
+            "timeStamp": "2020/01/08-13:13:24",
+            "id": "fdl6rjm",
+            "is_submitter": false,
+            "link_id": "t3_elwo7v",
+            "parent_id": "t1_fdkvi0u",
+            "score": 1,
+            "stickied": false,
+            "author_name": "LightningRurik"
+        },
+        "fdkvi0u": {
+            "comment": "that file is just plain text. The contents are the same line repeated over and over.\n\n249600 lines of \"Free Paypal Money Adder.exe\"",
+            "timeStamp": "2020/01/08-11:33:30",
+            "id": "fdkvi0u",
+            "is_submitter": false,
+            "link_id": "t3_elwo7v",
+            "parent_id": "t3_elwo7v",
+            "score": 3,
+            "stickied": false,
+            "author_name": "Trolling_turd"
+        }
+    }
+}

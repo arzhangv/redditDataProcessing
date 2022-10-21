@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "M is for Malware Children's Book!",
+        "score": 36,
+        "id": "bq2gcs",
+        "commsNum": 6,
+        "timeStamp": "2019/05/18-03:09:16",
+        "author_name": "IndySecMan",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.kickstarter.com/projects/curtbraz/m-is-for-malware"
+    },
+    "posts": {
+        "eo2gf3b": {
+            "comment": "shadowban test, please ignore",
+            "timeStamp": "2019/05/18-15:55:24",
+            "id": "eo2gf3b",
+            "is_submitter": false,
+            "link_id": "t3_bq2gcs",
+            "parent_id": "t3_bq2gcs",
+            "score": 1,
+            "stickied": false,
+            "author_name": "bobalob_wtf"
+        },
+        "eo2068g": {
+            "comment": "For kids... Or the aspiring CISO...:)",
+            "timeStamp": "2019/05/18-13:11:43",
+            "id": "eo2068g",
+            "is_submitter": false,
+            "link_id": "t3_bq2gcs",
+            "parent_id": "t3_bq2gcs",
+            "score": 2,
+            "stickied": false,
+            "author_name": "theJaxman"
+        },
+        "eo1ya87": {
+            "comment": "I actually considered Worm for W but went with War Driving because I thought the illustration would be cooler.  Great point though, if this actually gets funded and becomes a reality I'll consider a red team book and a blue team follow up series that targets a slightly older child audience.\n\nPlease do share if you would so this can get printed!  I'll running out of free marketing ideas. \ud83d\ude00",
+            "timeStamp": "2019/05/18-12:53:02",
+            "id": "eo1ya87",
+            "is_submitter": true,
+            "link_id": "t3_bq2gcs",
+            "parent_id": "t1_eo0tqnm",
+            "score": 2,
+            "stickied": false,
+            "author_name": "IndySecMan"
+        },
+        "eo12l5t": {
+            "comment": "Yeah, I know it's a little advanced of a topic for kids, but honestly I just have a passion for the field.  Now that I'm a dad, I love reading books to my son but want him to know more about what I do.  It's something I figure we can both enjoy and I can help explain the concepts at a higher level.   There are so many books about nothing, I figured this way at least people in InfoSec would get a kick out of it.  :)",
+            "timeStamp": "2019/05/18-07:37:22",
+            "id": "eo12l5t",
+            "is_submitter": true,
+            "link_id": "t3_bq2gcs",
+            "parent_id": "t1_eo11nf0",
+            "score": 8,
+            "stickied": false,
+            "author_name": "IndySecMan"
+        },
+        "eo11nf0": {
+            "comment": "But why tho?",
+            "timeStamp": "2019/05/18-07:27:15",
+            "id": "eo11nf0",
+            "is_submitter": false,
+            "link_id": "t3_bq2gcs",
+            "parent_id": "t3_bq2gcs",
+            "score": -2,
+            "stickied": false,
+            "author_name": "phant0m_fluxx"
+        },
+        "eo0tqnm": {
+            "comment": "We got my son a series of science books like this by Chris Ferrie. I like that they are progressive in levels. When they are younger you will say W is for Worm. When they get older you read the simplified Definition of worm, and then the third step is reading the explanation of the worm",
+            "timeStamp": "2019/05/18-05:50:42",
+            "id": "eo0tqnm",
+            "is_submitter": false,
+            "link_id": "t3_bq2gcs",
+            "parent_id": "t3_bq2gcs",
+            "score": 4,
+            "stickied": false,
+            "author_name": "dukesilver58"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Few hours back several malicious packages were released on **npm registry**. This video shows how some of these packages are making outbound calls as part of the preinstall step when executed in a **GitHub Actions workflow**. DNS Exfiltration and network calls detected by Harden-Runner GitHub Action [https://github.com/step-security/harden-runner](https://github.com/step-security/harden-runner)\n\nThis is one of the GitHub Actions workflow runs: [https://github.com/varunsh-coder/supply-chain-goat/actions/runs/2037070162](https://github.com/varunsh-coder/supply-chain-goat/actions/runs/2037070162)",
+        "title": "Video of malware node packages trying to phone home",
+        "score": 1,
+        "id": "tn9u66",
+        "commsNum": 0,
+        "timeStamp": "2022/03/24-17:34:11",
+        "author_name": "varunsh-coder",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/tn9u66/video_of_malware_node_packages_trying_to_phone/"
+    },
+    "posts": {}
+}

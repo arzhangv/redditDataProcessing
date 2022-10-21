@@ -1,0 +1,220 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": " \n\nso I have a flash Drive with some important data on it and I am pretty sure my laptop is full of malware, I moved the important data to a flash drive, reinstalled windows after wiping clean everything, and now IDK what to do to move back the data to my pc without infecting it again, is it enough to use windows defender to scan the files?",
+        "title": "best ways to check/remove malware/viruses from a flash drive",
+        "score": 1,
+        "id": "w6vl3u",
+        "commsNum": 0,
+        "timeStamp": "2022/07/24-06:25:52",
+        "author_name": "Fuck_Life_421",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/w6vl3u/best_ways_to_checkremove_malwareviruses_from_a/"
+    },
+    "posts": {
+        "ihyj458": {
+            "comment": "thx",
+            "timeStamp": "2022/07/27-23:24:34",
+            "id": "ihyj458",
+            "is_submitter": true,
+            "link_id": "t3_w6vl3u",
+            "parent_id": "t1_ihgyg60",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Fuck_Life_421"
+        },
+        "ihin2z6": {
+            "comment": "[removed]",
+            "timeStamp": "2022/07/24-17:38:49",
+            "id": "ihin2z6",
+            "is_submitter": false,
+            "link_id": "t3_w6vl3u",
+            "parent_id": "t3_w6vl3u",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ihh0q6v": {
+            "comment": "Just stick to win defender. There's not really any reason to.use anything else these days. It can emulator malware the best as it has the real Windows source and they collect so much data on what windows is facing.",
+            "timeStamp": "2022/07/24-10:37:53",
+            "id": "ihh0q6v",
+            "is_submitter": false,
+            "link_id": "t3_w6vl3u",
+            "parent_id": "t1_ihh0a1k",
+            "score": 1,
+            "stickied": false,
+            "author_name": "pentesticals"
+        },
+        "ihh0a1k": {
+            "comment": "Yes.  \n\nOr pick some other AV program.  Install the trial and use it.",
+            "timeStamp": "2022/07/24-10:34:44",
+            "id": "ihh0a1k",
+            "is_submitter": false,
+            "link_id": "t3_w6vl3u",
+            "parent_id": "t1_ihgaxj6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "staplebench"
+        },
+        "ihgyg60": {
+            "comment": "Use a live USB stick and scan the potentially infected stick with clamav. Most malware will infect executable file types so your regular files will likely be safe anyway, but scan them anyway.",
+            "timeStamp": "2022/07/24-10:21:50",
+            "id": "ihgyg60",
+            "is_submitter": false,
+            "link_id": "t3_w6vl3u",
+            "parent_id": "t3_w6vl3u",
+            "score": 1,
+            "stickied": false,
+            "author_name": "pentesticals"
+        },
+        "ihgrt3r": {
+            "comment": "[removed]",
+            "timeStamp": "2022/07/24-09:35:35",
+            "id": "ihgrt3r",
+            "is_submitter": false,
+            "link_id": "t3_w6vl3u",
+            "parent_id": "t1_ihg6mi4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ihgay83": {
+            "comment": "ty",
+            "timeStamp": "2022/07/24-07:36:35",
+            "id": "ihgay83",
+            "is_submitter": true,
+            "link_id": "t3_w6vl3u",
+            "parent_id": "t1_ihga4om",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Fuck_Life_421"
+        },
+        "ihgaxj6": {
+            "comment": "&gt;A decent AV\n\nlike what? windows defender?",
+            "timeStamp": "2022/07/24-07:36:26",
+            "id": "ihgaxj6",
+            "is_submitter": true,
+            "link_id": "t3_w6vl3u",
+            "parent_id": "t1_ihg7abu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Fuck_Life_421"
+        },
+        "ihga4om": {
+            "comment": "The sandbox should tell you if it\u2019s doing anything malicious so you\u2019ll have an idea if it\u2019s safe or not. You\u2019ll need to do this for each file. I think joe sandbox may publish the results so if it\u2019s personal or sensitive maybe don\u2019t scan it with joe sandbox. \n\nIf you can afford to lose them you can delete anything that shows malicious. False positives are somewhat common so if the file is important you can look at what it thinks is malicious. For example some sandboxes will say excel files are malicious simply for having macros.. any macro.",
+            "timeStamp": "2022/07/24-07:30:30",
+            "id": "ihga4om",
+            "is_submitter": false,
+            "link_id": "t3_w6vl3u",
+            "parent_id": "t1_ihg7esp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TwilightZone1985"
+        },
+        "ihg9qoj": {
+            "comment": "[removed]",
+            "timeStamp": "2022/07/24-07:27:38",
+            "id": "ihg9qoj",
+            "is_submitter": false,
+            "link_id": "t3_w6vl3u",
+            "parent_id": "t3_w6vl3u",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ihg7esp": {
+            "comment": "yeah I can, but what do i do next? scan it? delete the files?",
+            "timeStamp": "2022/07/24-07:10:30",
+            "id": "ihg7esp",
+            "is_submitter": true,
+            "link_id": "t3_w6vl3u",
+            "parent_id": "t1_ihg6hod",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Fuck_Life_421"
+        },
+        "ihg7abu": {
+            "comment": "If you have a second computer and are comfortable using it for this - (back it up first etc) - just plug it in, open your AV software and choose the newly mounted USB drive as the target drive to scan and leave it to do its thing.\n\nA decent AV will have real-time scanning anyway. So will intercept any operations as they attempt to run if they are determined to be malicious.",
+            "timeStamp": "2022/07/24-07:09:33",
+            "id": "ihg7abu",
+            "is_submitter": false,
+            "link_id": "t3_w6vl3u",
+            "parent_id": "t1_ihg6mi4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "patchmau5"
+        },
+        "ihg6mi4": {
+            "comment": "yes, but as long as I don't open the flash drive the malware won't infect my pc right? can I just scan right away on my pc?",
+            "timeStamp": "2022/07/24-07:04:29",
+            "id": "ihg6mi4",
+            "is_submitter": true,
+            "link_id": "t3_w6vl3u",
+            "parent_id": "t1_ihg4ub3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Fuck_Life_421"
+        },
+        "ihg6hod": {
+            "comment": "Can you use a virtual machine? You could sandbox the files in a free tool like joe sandbox before putting them live on a possibly vulnerable computer",
+            "timeStamp": "2022/07/24-07:03:26",
+            "id": "ihg6hod",
+            "is_submitter": false,
+            "link_id": "t3_w6vl3u",
+            "parent_id": "t3_w6vl3u",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TwilightZone1985"
+        },
+        "ihg4ub3": {
+            "comment": "If he wants to keep his data, the CIRClean approach is pretty much the gold standard.\n\nYou could always plug your USB into another computer and scan it with the computers onboard virus scanner. But",
+            "timeStamp": "2022/07/24-06:50:28",
+            "id": "ihg4ub3",
+            "is_submitter": false,
+            "link_id": "t3_w6vl3u",
+            "parent_id": "t1_ihg3ifn",
+            "score": 1,
+            "stickied": false,
+            "author_name": "patchmau5"
+        },
+        "ihg3ifn": {
+            "comment": "why do you want a raspberry lmao just format the usb \ud83d\ude02",
+            "timeStamp": "2022/07/24-06:39:53",
+            "id": "ihg3ifn",
+            "is_submitter": false,
+            "link_id": "t3_w6vl3u",
+            "parent_id": "t1_ihg291w",
+            "score": 1,
+            "stickied": false,
+            "author_name": "myredac"
+        },
+        "ihg291w": {
+            "comment": "is this enough? also thanks",
+            "timeStamp": "2022/07/24-06:30:01",
+            "id": "ihg291w",
+            "is_submitter": true,
+            "link_id": "t3_w6vl3u",
+            "parent_id": "t1_ihg1z46",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Fuck_Life_421"
+        },
+        "ihg1z46": {
+            "comment": "https://circl.lu/projects/CIRCLean/",
+            "timeStamp": "2022/07/24-06:27:40",
+            "id": "ihg1z46",
+            "is_submitter": false,
+            "link_id": "t3_w6vl3u",
+            "parent_id": "t3_w6vl3u",
+            "score": 1,
+            "stickied": false,
+            "author_name": "patchmau5"
+        }
+    }
+}

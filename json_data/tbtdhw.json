@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "[removed]",
+        "title": "so I had malware on my computer a Trojan specifically Trojan.multi.brosubsc.gen so I was wondering I have plugged in my phone and oculus quest while this malware was on my pc to either download files for my quest or upload files from my phone, could the malware now be on my phone?",
+        "score": 1,
+        "id": "tbtdhw",
+        "commsNum": 0,
+        "timeStamp": "2022/03/11-08:06:28",
+        "author_name": "Imliptontea",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/tbtdhw/so_i_had_malware_on_my_computer_a_trojan/"
+    },
+    "posts": {
+        "i09n45g": {
+            "comment": "[removed]",
+            "timeStamp": "2022/03/11-09:56:21",
+            "id": "i09n45g",
+            "is_submitter": false,
+            "link_id": "t3_tbtdhw",
+            "parent_id": "t1_i09mqgg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "i09mqgg": {
+            "comment": "I highly doubt it. While I am not familiar with that particular malware the chances of it jumping between those architectures is very unlikely. Generally malware is specific for the environment it is going to be in. For example, a windows virus normally won't infect a Linux or a Mac. I would be more concerned about your PC than anything it is generally a good idea to do a full system restore if you have any concerns.",
+            "timeStamp": "2022/03/11-09:54:00",
+            "id": "i09mqgg",
+            "is_submitter": false,
+            "link_id": "t3_tbtdhw",
+            "parent_id": "t3_tbtdhw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "cyber_patriot517"
+        }
+    }
+}

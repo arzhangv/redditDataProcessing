@@ -1,0 +1,209 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "[removed]",
+        "title": "Since Cuckoo is not longer officially supported and the 3.0 project revival by Hatching seems dead what sandboxes that are standalone do you use?",
+        "score": 1,
+        "id": "soo5ys",
+        "commsNum": 9,
+        "timeStamp": "2022/02/09-13:15:14",
+        "author_name": "auraria",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 9,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/soo5ys/since_cuckoo_is_not_longer_officially_supported/"
+    },
+    "posts": {
+        "i2wq179": {
+            "comment": "[removed]",
+            "timeStamp": "2022/03/31-15:28:38",
+            "id": "i2wq179",
+            "is_submitter": false,
+            "link_id": "t3_soo5ys",
+            "parent_id": "t1_hwaczcv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hworkce": {
+            "comment": "[removed]",
+            "timeStamp": "2022/02/12-12:17:17",
+            "id": "hworkce",
+            "is_submitter": false,
+            "link_id": "t3_soo5ys",
+            "parent_id": "t1_hwf5vhy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hwfeap1": {
+            "comment": "AFAIK it's fairly common and sandboxes have to deal with it every day.  [Virtualization/Sandbox Evasion](https://attack.mitre.org/techniques/T1497/)",
+            "timeStamp": "2022/02/10-14:07:51",
+            "id": "hwfeap1",
+            "is_submitter": false,
+            "link_id": "t3_soo5ys",
+            "parent_id": "t1_hwf5vhy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "greyyit"
+        },
+        "hwf5vhy": {
+            "comment": "I wasn't aware of VMware aware malware anywhere.",
+            "timeStamp": "2022/02/10-13:14:03",
+            "id": "hwf5vhy",
+            "is_submitter": false,
+            "link_id": "t3_soo5ys",
+            "parent_id": "t1_hwacza5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "dnick"
+        },
+        "hwcsr81": {
+            "comment": "Good point, that's something to consider.",
+            "timeStamp": "2022/02/10-03:39:03",
+            "id": "hwcsr81",
+            "is_submitter": false,
+            "link_id": "t3_soo5ys",
+            "parent_id": "t1_hwclcll",
+            "score": 1,
+            "stickied": false,
+            "author_name": "greyyit"
+        },
+        "hwclcll": {
+            "comment": "Wouldn't this be more taxing on the disk? It only has so many read write cycles it can handle.\n\nAlso bare metal restoring would take more time than automating this task on say a VMware cluster.",
+            "timeStamp": "2022/02/10-02:03:18",
+            "id": "hwclcll",
+            "is_submitter": false,
+            "link_id": "t3_soo5ys",
+            "parent_id": "t1_hwacza5",
+            "score": 2,
+            "stickied": false,
+            "author_name": "VcSv"
+        },
+        "hwborof": {
+            "comment": "Panda also has a very active and helpful slack channel, if you have questions or need help, they\u2019re super friendly too.",
+            "timeStamp": "2022/02/09-20:11:09",
+            "id": "hwborof",
+            "is_submitter": false,
+            "link_id": "t3_soo5ys",
+            "parent_id": "t1_hwaj36l",
+            "score": 1,
+            "stickied": false,
+            "author_name": "NoIHavent235"
+        },
+        "hwbfqpv": {
+            "comment": "+1: https://github.com/kevoreilly/CAPEv2",
+            "timeStamp": "2022/02/09-19:03:15",
+            "id": "hwbfqpv",
+            "is_submitter": false,
+            "link_id": "t3_soo5ys",
+            "parent_id": "t1_hwad0o5",
+            "score": 2,
+            "stickied": false,
+            "author_name": "texyx"
+        },
+        "hwb6lix": {
+            "comment": "You can also make custom plugins pretty easily too!",
+            "timeStamp": "2022/02/09-17:58:48",
+            "id": "hwb6lix",
+            "is_submitter": false,
+            "link_id": "t3_soo5ys",
+            "parent_id": "t1_hwafy78",
+            "score": 2,
+            "stickied": false,
+            "author_name": "t3harvinator"
+        },
+        "hwaj36l": {
+            "comment": "Thanks for this!",
+            "timeStamp": "2022/02/09-15:12:56",
+            "id": "hwaj36l",
+            "is_submitter": true,
+            "link_id": "t3_soo5ys",
+            "parent_id": "t1_hwafy78",
+            "score": 1,
+            "stickied": false,
+            "author_name": "auraria"
+        },
+        "hwafy78": {
+            "comment": "MIT has an environment called Panda, and it's based on qemu. [https://panda-re.mit.edu/](https://panda-re.mit.edu/)\n\nWhat's cool about it is it can save a recording of what a program does, which can be analysed later.",
+            "timeStamp": "2022/02/09-14:52:22",
+            "id": "hwafy78",
+            "is_submitter": false,
+            "link_id": "t3_soo5ys",
+            "parent_id": "t3_soo5ys",
+            "score": 1,
+            "stickied": false,
+            "author_name": "rjzak"
+        },
+        "hwadrj8": {
+            "comment": "Oh no shit, had no idea they did that.\n\nI'll try setting that up tonight.",
+            "timeStamp": "2022/02/09-14:38:18",
+            "id": "hwadrj8",
+            "is_submitter": true,
+            "link_id": "t3_soo5ys",
+            "parent_id": "t1_hwaczcv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "auraria"
+        },
+        "hwadbdw": {
+            "comment": "That's a viable option, I'm just looking for any sandboxes at the moment.",
+            "timeStamp": "2022/02/09-14:35:18",
+            "id": "hwadbdw",
+            "is_submitter": true,
+            "link_id": "t3_soo5ys",
+            "parent_id": "t1_hwacza5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "auraria"
+        },
+        "hwad0o5": {
+            "comment": "CAPEv2",
+            "timeStamp": "2022/02/09-14:33:22",
+            "id": "hwad0o5",
+            "is_submitter": false,
+            "link_id": "t3_soo5ys",
+            "parent_id": "t3_soo5ys",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Nachozombie"
+        },
+        "hwaczcv": {
+            "comment": "Is the cuckoo3 revival not under cert-ee now? https://github.com/cert-ee/cuckoo3\n\nOn my radar to set up and go with, but if it's not a go-er, also keen to see what people suggest.",
+            "timeStamp": "2022/02/09-14:33:08",
+            "id": "hwaczcv",
+            "is_submitter": false,
+            "link_id": "t3_soo5ys",
+            "parent_id": "t3_soo5ys",
+            "score": 1,
+            "stickied": false,
+            "author_name": "_Coeus"
+        },
+        "hwacza5": {
+            "comment": "With fast SSD drives common these days, would it be worth it to automate bare-metal restoring of the OS instead of using VMs?  Would that eliminate a lot of the problems with VM aware malware?",
+            "timeStamp": "2022/02/09-14:33:08",
+            "id": "hwacza5",
+            "is_submitter": false,
+            "link_id": "t3_soo5ys",
+            "parent_id": "t3_soo5ys",
+            "score": 1,
+            "stickied": false,
+            "author_name": "greyyit"
+        },
+        "hwa0ju0": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators **and be sure to include the link to the post** - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2022/02/09-13:15:15",
+            "id": "hwa0ju0",
+            "is_submitter": false,
+            "link_id": "t3_soo5ys",
+            "parent_id": "t3_soo5ys",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

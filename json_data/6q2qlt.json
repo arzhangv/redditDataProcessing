@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "So I've got quite a few rules, but it all comes down to this:\n\n    include \"./rules/global.yar\"  \n    include \"./rules/misc.yar\"  \n\nThe global.yar file contains\n\n    global rule fileSizeLimit {\n\t\t    condition:\n\t\t        filesize &lt; 8MB\n    }\n\nAny rule defined in rules/misc.yar are matched regardless of file size, but this is not what I intend. What am I doing wrong here?\n\nIf this is not the right place to post, that's alright, feel free to slap me on the wrist and direct me to the correct location.\n\nedit:\n\nI should mention this is using Yara 3.5.0. I don't have a chance to upgrade this within the week.",
+        "title": "Yara not using global rules.",
+        "score": 13,
+        "id": "6q2qlt",
+        "commsNum": 2,
+        "timeStamp": "2017/07/28-02:32:52",
+        "author_name": "necrophcodr",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6q2qlt/yara_not_using_global_rules/"
+    },
+    "posts": {
+        "dkvo9wk": {
+            "comment": "I did not. And this is not the case. I'll elaborate a bit more:\n\nI have a main.yar file that contains a lot of includes, the first being the global.yar file with global rules. Then there's a bunch of other includes as well. I guess I could rewrite them to just one gigantic impossible-to-read file, but then I feel like what's the point of including files then?\n\nBesides, it's much more like\n\n    include './rules/global.yar'\n    include './rules/utility.yar'\n    include './rules/misc.yar'\n    include './rules/deletion.yar'\n\nWhere global include global rules, utility include rules used by other rules, misc include various non-specific rules, and deletion include rules for finding files that shouldn't be recovered, but be outright deleted upon matching.\n\nThere's more to it than this, but that's the idea, and I've yet to get it working.",
+            "timeStamp": "2017/07/29-01:31:20",
+            "id": "dkvo9wk",
+            "is_submitter": true,
+            "link_id": "t3_6q2qlt",
+            "parent_id": "t1_dkumvma",
+            "score": 1,
+            "stickied": false,
+            "author_name": "necrophcodr"
+        },
+        "dkumvma": {
+            "comment": "Based on your description, it sounds like you're interested in running rules/misc.yar itself (as oppose to another rule set that includes both global.yar and misc.yar). If so, did you include \"./rules/global.yar\" in misc.yar? ",
+            "timeStamp": "2017/07/28-10:24:43",
+            "id": "dkumvma",
+            "is_submitter": false,
+            "link_id": "t3_6q2qlt",
+            "parent_id": "t3_6q2qlt",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Strongandwrong"
+        }
+    }
+}

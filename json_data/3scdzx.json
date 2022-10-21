@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Bookworm Trojan: A Model of Modular Architecture - Palo Alto Networks BlogPalo Alto Networks Blog",
+        "score": 13,
+        "id": "3scdzx",
+        "commsNum": 0,
+        "timeStamp": "2015/11/10-16:08:49",
+        "author_name": "campuscodi",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://researchcenter.paloaltonetworks.com/2015/11/bookworm-trojan-a-model-of-modular-architecture/"
+    },
+    "posts": {}
+}

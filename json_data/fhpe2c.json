@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Colin Hardy's analysis of the COVID19 Malware is quite good - worth a watch!",
+        "score": 1,
+        "id": "fhpe2c",
+        "commsNum": 2,
+        "timeStamp": "2020/03/12-15:55:17",
+        "author_name": "sauromanthegreat",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.youtube.com/watch?v=NZSoNLRnJjs"
+    },
+    "posts": {
+        "fkd8vc8": {
+            "comment": "[removed]",
+            "timeStamp": "2020/03/12-20:50:00",
+            "id": "fkd8vc8",
+            "is_submitter": false,
+            "link_id": "t3_fhpe2c",
+            "parent_id": "t3_fhpe2c",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fkd52cy": {
+            "comment": "Thanks for the gold!",
+            "timeStamp": "2020/03/12-20:02:50",
+            "id": "fkd52cy",
+            "is_submitter": true,
+            "link_id": "t3_fhpe2c",
+            "parent_id": "t3_fhpe2c",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sauromanthegreat"
+        }
+    }
+}

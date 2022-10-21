@@ -1,0 +1,242 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "How I reversed a NodeJS malware and found the author",
+        "score": 1,
+        "id": "sgt9p9",
+        "commsNum": 0,
+        "timeStamp": "2022/01/30-21:21:16",
+        "author_name": "izanagi_1995",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://medium.com/@nicolassurleraux/how-i-reversed-a-nodejs-malware-and-found-the-author-7dd9531b389f"
+    },
+    "posts": {
+        "hvt7g2b": {
+            "comment": "it appears you have driven at least on skid out of business.\nhttps://www.dropzone.com/uploads/monthly_2022_02/pirate_stan.png.e684df9aec4372b184dcfe6a8d979699.png",
+            "timeStamp": "2022/02/06-05:53:49",
+            "id": "hvt7g2b",
+            "is_submitter": false,
+            "link_id": "t3_sgt9p9",
+            "parent_id": "t3_sgt9p9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sfzombie13"
+        },
+        "hv3np06": {
+            "comment": "Hey, thanks for the feedback :)",
+            "timeStamp": "2022/01/31-22:19:14",
+            "id": "hv3np06",
+            "is_submitter": true,
+            "link_id": "t3_sgt9p9",
+            "parent_id": "t1_hv2riip",
+            "score": 1,
+            "stickied": false,
+            "author_name": "izanagi_1995"
+        },
+        "hv2umiq": {
+            "comment": "Reminds me of one of my projects where I use a Assembly payload to patch a process, after tens of thousands of ppl started downloading my file (within a few days) it got basically auto-detected by the Windows anti-virus as it kept auto-submitting samples of my 'unwanted software'.\n\nFunny how those skids ask you not to upload to anti-virus, but a few simple changes to the script could keep it undetected anyways.",
+            "timeStamp": "2022/01/31-18:15:43",
+            "id": "hv2umiq",
+            "is_submitter": false,
+            "link_id": "t3_sgt9p9",
+            "parent_id": "t1_hv2tqah",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Ferib"
+        },
+        "hv2tqah": {
+            "comment": "&gt; I doubt there is any anti-virus giving a damn fuck about if an unsigned EXE modifies a file in such folder\n\nIronically other repos with this malware tell you not to report it as malware. Maybe someone should report it lol https://i.imgur.com/eFsFjXO.png",
+            "timeStamp": "2022/01/31-18:09:18",
+            "id": "hv2tqah",
+            "is_submitter": false,
+            "link_id": "t3_sgt9p9",
+            "parent_id": "t1_hv2slp9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RodG1300"
+        },
+        "hv2slp9": {
+            "comment": "Yeah lmao, I had a look myself at the code and it's just straightforward JS, nothing difficult going on.\n\nReally surprised by how insecure Discord is as one can simply overwrite the contents of a file that's in the roaming folders, hope to see some signature checking soon on Discord's end to prevent such a thing from happening.\n\nAnd yes you do need to run an EXE to have the files replaced, but I doubt there is any anti-virus giving a damn fuck about if an unsigned EXE modifies a file in such folder, it's even less obvious than using OpenProcess.\n\nAnyway tnx for the info, I'll make sure to keep an eye on mah discord folder!",
+            "timeStamp": "2022/01/31-18:01:13",
+            "id": "hv2slp9",
+            "is_submitter": false,
+            "link_id": "t3_sgt9p9",
+            "parent_id": "t1_hv2rv19",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Ferib"
+        },
+        "hv2rv19": {
+            "comment": "Perms are basically just user perms. The file path is `C:\\Users\\&lt;username&gt;\\AppData\\Local\\Discord\\app-&lt;version&gt;\\modules\\discord_desktop_core-&lt;number&gt;\\discord_desktop_core`and as far as I can tell basically anything that feels like it can mess with it. The file being exploited is just a javascript file that's being ran, so you can probably throw whatever JS nonsense you want into it (seriously its plaintext JS). After reading through the exploit its super simple, by far the hardest part is getting a user to run an exe.",
+            "timeStamp": "2022/01/31-17:55:51",
+            "id": "hv2rv19",
+            "is_submitter": false,
+            "link_id": "t3_sgt9p9",
+            "parent_id": "t1_hv2pax4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RodG1300"
+        },
+        "hv2riip": {
+            "comment": "Very informative and good read. Great detective work! \ud83d\udd0e",
+            "timeStamp": "2022/01/31-17:53:19",
+            "id": "hv2riip",
+            "is_submitter": false,
+            "link_id": "t3_sgt9p9",
+            "parent_id": "t3_sgt9p9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Wenzel-Dashington"
+        },
+        "hv2pax4": {
+            "comment": "Oh, this makes more sense to me now, but now I still wonder what the required privileges are to overwrite the .js files, as I assume they are (assumingly) on \\`C:\\\\Program Files\\` somewhere?\n\nMakes me wonder if doing \\`OpenProcess()\\` would require fewer privileges.",
+            "timeStamp": "2022/01/31-17:36:58",
+            "id": "hv2pax4",
+            "is_submitter": false,
+            "link_id": "t3_sgt9p9",
+            "parent_id": "t1_hv114h4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Ferib"
+        },
+        "hv2auvo": {
+            "comment": "You are a very good coder!",
+            "timeStamp": "2022/01/31-15:48:53",
+            "id": "hv2auvo",
+            "is_submitter": false,
+            "link_id": "t3_sgt9p9",
+            "parent_id": "t3_sgt9p9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Just_Caterpillar_961"
+        },
+        "hv11jx4": {
+            "comment": "Hey, thanks for the good catch! I was a bit overthinking when writing the article :-) I will update that!",
+            "timeStamp": "2022/01/31-10:56:18",
+            "id": "hv11jx4",
+            "is_submitter": true,
+            "link_id": "t3_sgt9p9",
+            "parent_id": "t1_hv114h4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "izanagi_1995"
+        },
+        "hv114h4": {
+            "comment": "Looking into the injector, I don't think thats what its doing. /u/izanagi_1995 might wanna double check but it seems like its really just overwriting some `index.js` file Discord uses and doesn't install BetterDiscord at all. The references in the code to BetterDiscord seem to be about infecting people who use it as well as everyone else. That `pwnBetterDiscord` function in `injector/index.js` just finds the BetterDiscord file and blindly replaces `api/webhooks` with what looks like a joke string, so I think its just stopping it from working.",
+            "timeStamp": "2022/01/31-10:53:42",
+            "id": "hv114h4",
+            "is_submitter": false,
+            "link_id": "t3_sgt9p9",
+            "parent_id": "t1_huznuuu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RodG1300"
+        },
+        "huzy8n3": {
+            "comment": "They only respond when they are script kiddos that are easy to provoke.",
+            "timeStamp": "2022/01/31-06:46:49",
+            "id": "huzy8n3",
+            "is_submitter": true,
+            "link_id": "t3_sgt9p9",
+            "parent_id": "t1_huzy17p",
+            "score": 2,
+            "stickied": false,
+            "author_name": "izanagi_1995"
+        },
+        "huzy17p": {
+            "comment": "If only threat actors responded when you discover and use their own webhook. It never happened to me.",
+            "timeStamp": "2022/01/31-06:45:19",
+            "id": "huzy17p",
+            "is_submitter": false,
+            "link_id": "t3_sgt9p9",
+            "parent_id": "t3_sgt9p9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RCEdude"
+        },
+        "huznuuu": {
+            "comment": "It replaces Discord with BetterDiscord? sounds like a lot of hassle (and privileges?) to inject some JS into a JS based application. Wonder how much more subtle this could go with the original client.",
+            "timeStamp": "2022/01/31-05:26:18",
+            "id": "huznuuu",
+            "is_submitter": false,
+            "link_id": "t3_sgt9p9",
+            "parent_id": "t3_sgt9p9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Ferib"
+        },
+        "huzgrqj": {
+            "comment": "Hey, thanks for the feedback! Very appreciated. Yes, the github issues on this repo are funny as hell",
+            "timeStamp": "2022/01/31-04:19:35",
+            "id": "huzgrqj",
+            "is_submitter": true,
+            "link_id": "t3_sgt9p9",
+            "parent_id": "t1_huzg9tj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "izanagi_1995"
+        },
+        "huzg9tj": {
+            "comment": "Great read. Very informative. Laughing at the snarky replies to the guys github requests.",
+            "timeStamp": "2022/01/31-04:14:23",
+            "id": "huzg9tj",
+            "is_submitter": false,
+            "link_id": "t3_sgt9p9",
+            "parent_id": "t3_sgt9p9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Riven_Dante"
+        },
+        "huz8ozc": {
+            "comment": "Hello, thank you for the feedback! Stay tuned for more!",
+            "timeStamp": "2022/01/31-02:43:19",
+            "id": "huz8ozc",
+            "is_submitter": true,
+            "link_id": "t3_sgt9p9",
+            "parent_id": "t1_huz83xj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "izanagi_1995"
+        },
+        "huz83xj": {
+            "comment": "Very interesting read, thank you for sharing!",
+            "timeStamp": "2022/01/31-02:35:39",
+            "id": "huz83xj",
+            "is_submitter": false,
+            "link_id": "t3_sgt9p9",
+            "parent_id": "t3_sgt9p9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Gothburz"
+        },
+        "huyjvk4": {
+            "comment": "Thanks for your feedback! I hope to post more post in various domains in the future so stay tuned \ud83d\ude03",
+            "timeStamp": "2022/01/30-21:38:31",
+            "id": "huyjvk4",
+            "is_submitter": true,
+            "link_id": "t3_sgt9p9",
+            "parent_id": "t1_huyjbyo",
+            "score": 1,
+            "stickied": false,
+            "author_name": "izanagi_1995"
+        },
+        "huyjbyo": {
+            "comment": "Very interesting, thank you!",
+            "timeStamp": "2022/01/30-21:33:17",
+            "id": "huyjbyo",
+            "is_submitter": false,
+            "link_id": "t3_sgt9p9",
+            "parent_id": "t3_sgt9p9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "rocksoldieralex"
+        }
+    }
+}

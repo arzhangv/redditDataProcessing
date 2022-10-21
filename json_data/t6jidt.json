@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I have a suspicious encrypted word document malware, i try to use oledump, but end up with a lot of jibberlish , how to reverse engine password encrypted word malware?",
+        "title": "encrypted word document malware",
+        "score": 1,
+        "id": "t6jidt",
+        "commsNum": 6,
+        "timeStamp": "2022/03/04-05:56:56",
+        "author_name": "cyberfo",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/t6jidt/encrypted_word_document_malware/"
+    },
+    "posts": {
+        "hzlx6ga": {
+            "comment": "Have you tried any of the above: [https://www.wincope.com/how-to-remove-password-from-word-document.html](https://www.wincope.com/how-to-remove-password-from-word-document.html)\n\nMicrosoft Word uses weak encryption",
+            "timeStamp": "2022/03/06-11:05:27",
+            "id": "hzlx6ga",
+            "is_submitter": false,
+            "link_id": "t3_t6jidt",
+            "parent_id": "t3_t6jidt",
+            "score": 1,
+            "stickied": false,
+            "author_name": "New_Green2342"
+        },
+        "hzdq87u": {
+            "comment": "7z will extract the xml and other files that make up the Ole file. If it's malicious vba or obfuscated powershell it'll be in one of the extracted files. You can supply passwords with 7z too. I usually extract everything then just cat all the files and scroll through till I see obfuscated bullshit, reverse it to typically find the stage 2 domain or shell code being loaded into memory. There's alot of different ways to weaponize word docs so you'll have to figure it out. Once extracted running Yara over the extracted files might help Hone in on it too",
+            "timeStamp": "2022/03/04-15:11:51",
+            "id": "hzdq87u",
+            "is_submitter": false,
+            "link_id": "t3_t6jidt",
+            "parent_id": "t1_hzbni4u",
+            "score": 2,
+            "stickied": false,
+            "author_name": "concmap"
+        },
+        "hzbrogm": {
+            "comment": "[deleted]",
+            "timeStamp": "2022/03/04-07:32:14",
+            "id": "hzbrogm",
+            "is_submitter": false,
+            "link_id": "t3_t6jidt",
+            "parent_id": "t1_hzbni4u",
+            "score": 3,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hzbni4u": {
+            "comment": "Hi, the phishing email provide password abc123 to open word document and attachment(encrypted word document invoice.docx). but oledump invoice.docx didn't get any useful result.\n\nwe can't supply password to oledump and olevba, so how how to analyze the password protected word document",
+            "timeStamp": "2022/03/04-07:03:09",
+            "id": "hzbni4u",
+            "is_submitter": true,
+            "link_id": "t3_t6jidt",
+            "parent_id": "t1_hzbkg1u",
+            "score": 1,
+            "stickied": false,
+            "author_name": "cyberfo"
+        },
+        "hzbkg1u": {
+            "comment": "[deleted]",
+            "timeStamp": "2022/03/04-06:41:24",
+            "id": "hzbkg1u",
+            "is_submitter": false,
+            "link_id": "t3_t6jidt",
+            "parent_id": "t3_t6jidt",
+            "score": 6,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hzbifav": {
+            "comment": "If it is encrypted, there is code to decrypt the data and a key within whatever you are looking at. If it's obfuscated, it might look like gibberish also. I suspect that it is obfuscated and not encrypted, it is much more common with VBA macros. You can try using olevba instead of oledump and see if that helps you see more of what is going on. In the end, deobfuscation is probably going to require a good amount of tedious replacements of variable names and removing junk code.",
+            "timeStamp": "2022/03/04-06:26:22",
+            "id": "hzbifav",
+            "is_submitter": false,
+            "link_id": "t3_t6jidt",
+            "parent_id": "t3_t6jidt",
+            "score": 3,
+            "stickied": false,
+            "author_name": "Nugsly"
+        }
+    }
+}

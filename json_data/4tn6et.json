@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I'm looking at a computer after it's been hit by some ransomware. The files have a .zepto extension and I've been following some guides in removal and recovery. First, Malwarebytes can't find anything. AVG is essentially skipping all the files stating files are locked. Hitman Pro came up empty too. I'm not sure if this system is clean or not. It probably needs to be wiped, but if there's any chance at file recovery I need to try. I'm trying Recuva and Shadow Explorer and they both don't seem to be of much help. Any suggestions where to go from here?",
+        "title": "Chance of recovering files after ransomware attack",
+        "score": 0,
+        "id": "4tn6et",
+        "commsNum": 9,
+        "timeStamp": "2016/07/19-13:01:14",
+        "author_name": "szuturon",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 9,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/4tn6et/chance_of_recovering_files_after_ransomware_attack/"
+    },
+    "posts": {}
+}

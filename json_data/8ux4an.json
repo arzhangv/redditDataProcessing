@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Currently given up on removing Anonymizing Gadget from my PC and going to bed. Will it spread over my wifi to over devices?",
+        "title": "Does malware spread over wifi",
+        "score": 0,
+        "id": "8ux4an",
+        "commsNum": 1,
+        "timeStamp": "2018/06/29-15:06:00",
+        "author_name": "alyxzzz",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8ux4an/does_malware_spread_over_wifi/"
+    },
+    "posts": {
+        "e1ivlxy": {
+            "comment": "yes, malware can spread over the internet",
+            "timeStamp": "2018/06/29-15:32:38",
+            "id": "e1ivlxy",
+            "is_submitter": false,
+            "link_id": "t3_8ux4an",
+            "parent_id": "t3_8ux4an",
+            "score": 1,
+            "stickied": false,
+            "author_name": "tetyys"
+        }
+    }
+}

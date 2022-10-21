@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "GZipDe Downloader spotted serving a Metasploit backdoor",
+        "score": 1,
+        "id": "8szqk7",
+        "commsNum": 0,
+        "timeStamp": "2018/06/22-01:32:23",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://securityaffairs.co/wordpress/73802/malware/gzipde-downloader-metasploit-backdoor.html"
+    },
+    "posts": {}
+}

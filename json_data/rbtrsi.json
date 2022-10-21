@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Critical Hit: How DoppelPaymer Hunts and Kills Windows Processes",
+        "score": 1,
+        "id": "rbtrsi",
+        "commsNum": 0,
+        "timeStamp": "2021/12/08-07:28:41",
+        "author_name": "corewar",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.crowdstrike.com/blog/how-doppelpaymer-hunts-and-kills-windows-processes/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,132 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Looking for some very detailed writeups for malware like the ones on malwr-analysis.com that might show me practicle uses for unpacking debugging and decoding malware. \n\nThanks in advance!",
+        "title": "Malware writeups",
+        "score": 1,
+        "id": "i7fzuu",
+        "commsNum": 10,
+        "timeStamp": "2020/08/10-16:09:36",
+        "author_name": "Wouldratherplaymtg",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 10,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/i7fzuu/malware_writeups/"
+    },
+    "posts": {
+        "g22qxa4": {
+            "comment": "[removed]",
+            "timeStamp": "2020/08/18-23:12:34",
+            "id": "g22qxa4",
+            "is_submitter": false,
+            "link_id": "t3_i7fzuu",
+            "parent_id": "t3_i7fzuu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "g1az4xi": {
+            "comment": "[removed]",
+            "timeStamp": "2020/08/13-00:06:36",
+            "id": "g1az4xi",
+            "is_submitter": false,
+            "link_id": "t3_i7fzuu",
+            "parent_id": "t3_i7fzuu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "g13ikcd": {
+            "comment": "[https://malware-traffic-analysis.net/](https://malware-traffic-analysis.net/)",
+            "timeStamp": "2020/08/11-05:57:21",
+            "id": "g13ikcd",
+            "is_submitter": false,
+            "link_id": "t3_i7fzuu",
+            "parent_id": "t3_i7fzuu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Blk_Fli"
+        },
+        "g13fsxs": {
+            "comment": " awesome site",
+            "timeStamp": "2020/08/11-05:25:56",
+            "id": "g13fsxs",
+            "is_submitter": false,
+            "link_id": "t3_i7fzuu",
+            "parent_id": "t1_g129mys",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ivie1976"
+        },
+        "g13eb8j": {
+            "comment": "[Securelist.com](https://Securelist.com)\n\nand also use github, below is an updated collection of APT's this is added to daily/weekly\n\n [https://github.com/CyberMonitor/APT\\_CyberCriminal\\_Campagin\\_Collections/tree/master/2020](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/tree/master/2020)",
+            "timeStamp": "2020/08/11-05:07:24",
+            "id": "g13eb8j",
+            "is_submitter": false,
+            "link_id": "t3_i7fzuu",
+            "parent_id": "t3_i7fzuu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "CGKL25"
+        },
+        "g12cqxv": {
+            "comment": "[removed]",
+            "timeStamp": "2020/08/10-20:11:14",
+            "id": "g12cqxv",
+            "is_submitter": false,
+            "link_id": "t3_i7fzuu",
+            "parent_id": "t1_g129mys",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "g12ara9": {
+            "comment": "[removed]",
+            "timeStamp": "2020/08/10-19:51:21",
+            "id": "g12ara9",
+            "is_submitter": false,
+            "link_id": "t3_i7fzuu",
+            "parent_id": "t3_i7fzuu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "g129mys": {
+            "comment": "Only the best: [https://vxug.fakedoma.in/index.html](https://vxug.fakedoma.in/index.html) \n\nEnjoy.",
+            "timeStamp": "2020/08/10-19:40:22",
+            "id": "g129mys",
+            "is_submitter": false,
+            "link_id": "t3_i7fzuu",
+            "parent_id": "t3_i7fzuu",
+            "score": 2,
+            "stickied": false,
+            "author_name": "mrkyu"
+        },
+        "g11z69d": {
+            "comment": "The Cybereason blog has had some cool write-ups on malware like Valak or Emotet.",
+            "timeStamp": "2020/08/10-18:01:58",
+            "id": "g11z69d",
+            "is_submitter": false,
+            "link_id": "t3_i7fzuu",
+            "parent_id": "t3_i7fzuu",
+            "score": 2,
+            "stickied": false,
+            "author_name": "zakkistan"
+        },
+        "g11q0mh": {
+            "comment": "Hey I\u2019m pretty interested in this type of stuff too! If you find something could you let me know? :)",
+            "timeStamp": "2020/08/10-16:36:44",
+            "id": "g11q0mh",
+            "is_submitter": false,
+            "link_id": "t3_i7fzuu",
+            "parent_id": "t3_i7fzuu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "BlueRewind_"
+        }
+    }
+}

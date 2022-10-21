@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Cybersecurity researchers discover a new malware called BotenaGo that uses more than 30 security vulnerabilities to attack the\u00a0Internet of Things, threatening millions of routers and IoT devices across the world.\n\nResearchers at AT&amp;T Alien Labs\u00a0detailed that Golang malware (BotenaGo) uses a number of methods to attack devices by creating a backdoor. \u201cDeployed with more than 30 exploits, it has the potential of targeting millions of routers and IoT devices,\u201d the researchers say.\n\nTo know more:https://www.vpnranks.com/blog/botenago-malware-threatening-millions-of-iot-devices-and-routers/",
+        "title": "BotenaGo Malware Threatening Millions of IoT Devices and Routers",
+        "score": 1,
+        "id": "qv51wr",
+        "commsNum": 1,
+        "timeStamp": "2021/11/16-02:40:00",
+        "author_name": "djuyera",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/qv51wr/botenago_malware_threatening_millions_of_iot/"
+    },
+    "posts": {
+        "hsimp9n": {
+            "comment": "[removed]",
+            "timeStamp": "2022/01/13-10:16:44",
+            "id": "hsimp9n",
+            "is_submitter": false,
+            "link_id": "t3_qv51wr",
+            "parent_id": "t3_qv51wr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hkv57pw": {
+            "comment": "Another good example of why Iot is a security nightmare.",
+            "timeStamp": "2021/11/16-07:47:26",
+            "id": "hkv57pw",
+            "is_submitter": false,
+            "link_id": "t3_qv51wr",
+            "parent_id": "t3_qv51wr",
+            "score": 3,
+            "stickied": false,
+            "author_name": "ksr_malware"
+        }
+    }
+}

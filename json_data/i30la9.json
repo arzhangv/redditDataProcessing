@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Excuse my ignorance,... Many security research uses apple macbooks with virtualized environments to malware analysis... my question how do it when apples shift to arm based processors?.. I know that virtual environments works very close to processor, and not emulate the architecture. They will be change to another machines or there are any way to emulate x86 architecture to work with assembly?",
+        "title": "ARM based processors and malware analysis.",
+        "score": 1,
+        "id": "i30la9",
+        "commsNum": 5,
+        "timeStamp": "2020/08/03-09:51:12",
+        "author_name": "rodrigovlds",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/i30la9/arm_based_processors_and_malware_analysis/"
+    },
+    "posts": {
+        "g1qrls9": {
+            "comment": "Thanks!",
+            "timeStamp": "2020/08/16-08:35:24",
+            "id": "g1qrls9",
+            "is_submitter": true,
+            "link_id": "t3_i30la9",
+            "parent_id": "t1_g08elnx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "rodrigovlds"
+        },
+        "g0n6bmb": {
+            "comment": "[removed]",
+            "timeStamp": "2020/08/06-21:40:16",
+            "id": "g0n6bmb",
+            "is_submitter": false,
+            "link_id": "t3_i30la9",
+            "parent_id": "t3_i30la9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "g08f0lq": {
+            "comment": "Good I information! Thanks!",
+            "timeStamp": "2020/08/03-10:42:56",
+            "id": "g08f0lq",
+            "is_submitter": false,
+            "link_id": "t3_i30la9",
+            "parent_id": "t1_g08elnx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Mulletmanaustin"
+        },
+        "g08elnx": {
+            "comment": "Rosetta 2, it\u2019s sort of a weird solution. It will first try and modify a binary at install not at run time. Then for other applications it will hook in and modify instructions in real time when needed. This should help with performance than attempting to do everything at run time/in real time. It has been stated however that Rosetta 2 will not support virtualization applications meaning it will not allow you to emulate an x86 processor to run a VM. It is unclear at the moment if/how this will be supported but it would be up to VMware/Parallels/VirtualBox to add this to have the emulation ability to run x86 OS\u2019s. This is theoretically possible with QEMU at the moment but again no one knows how this will work going forward. That\u2019s just for *nix systems. Windows has legal issues as it\u2019s against the license to run Windows on ARM architecture, this includes emulated x86 on ARM. The only exception is the Windows 10 ARM version that is licensed directly to OEMs for the ARM tablets that suck. So no one knows if MSFT will change their licensing. \n\nAs far as malware analysis. Static analysis should be theoretically unaffected as long as your disassembler/d\u00e9compiler runs on the system. This is making the assumption that you can exclude apps from being modified by Rosetta 2 because if the binary is modified you\u2019re analyzing the modified binary which should have the same behaviors but this can\u2019t be guaranteed. Dynamic analysis is anyone\u2019s guess. If x86 emulation is done in some fashion and Windows license issues are resolved then Linux and Windows dynamic analysis should be possible. Dynamic Intel macOS malware analysis will likely be dead on ARM unless you\u2019re ok with only looking at the modified binary as it runs. If you want to analyze the original x86 macOS malware, buy an Intel Mac. I highly doubt Apple is going to support running an Intel macOS OS on a Apple Silicon device although people always find a way. \n\nThe truth is there are a ton of unanswered questions and only Apple knows what\u2019s next. I hope there\u2019s some emulation support because I need it for my job otherwise I\u2019ll have to stop buying macs and my 5 year old mac is starting to reach its limitations. \n\nTL;DR No one knows because of technical and licensing issues and we won\u2019t know until the first products are released and people get to see how they work.",
+            "timeStamp": "2020/08/03-10:40:40",
+            "id": "g08elnx",
+            "is_submitter": false,
+            "link_id": "t3_i30la9",
+            "parent_id": "t1_g08a0h9",
+            "score": 2,
+            "stickied": false,
+            "author_name": "hummelm10"
+        },
+        "g08a0h9": {
+            "comment": "Not sure about malware analysis. specifically. But the Macs are suppose to have a program that translates the architecture in real time. So you\u2019re able to run old programs",
+            "timeStamp": "2020/08/03-10:12:29",
+            "id": "g08a0h9",
+            "is_submitter": false,
+            "link_id": "t3_i30la9",
+            "parent_id": "t3_i30la9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Mulletmanaustin"
+        }
+    }
+}

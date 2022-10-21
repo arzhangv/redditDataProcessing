@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Retired beginner/intermediate malware analysis training materials from [Pedram Amini](https://twitter.com/pedramamini) and [Ero Carrera](https://twitter.com/erocarrera). This course was last given in 2010 and the materials were open-sourced in 2020. Written in LaTeX + Beamer, the course materials can be rendered in [slideshow](https://github.com/OpenRCE/Malware-Analysis-Training/raw/master/_presentation.pdf) and [article](https://github.com/OpenRCE/Malware-Analysis-Training/raw/master/_article.pdf) modes.",
+        "title": "Reverse Engineering on Windows: A Focus on Malware",
+        "score": 1,
+        "id": "fd25jx",
+        "commsNum": 6,
+        "timeStamp": "2020/03/03-13:48:15",
+        "author_name": "pedramamini",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/fd25jx/reverse_engineering_on_windows_a_focus_on_malware/"
+    },
+    "posts": {
+        "fjgyafe": {
+            "comment": "Switched up the links and provided a link to the top-level of the repository. I still can't reproduce the original links not working, even within a browser without Github authentication, but clearly something was wrong. Thanks for the tips all.",
+            "timeStamp": "2020/03/04-08:05:20",
+            "id": "fjgyafe",
+            "is_submitter": true,
+            "link_id": "t3_fd25jx",
+            "parent_id": "t3_fd25jx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "pedramamini"
+        },
+        "fjfxtql": {
+            "comment": "Looks like the link is wrong. You want this https://github.com/OpenRCE/Malware-Analysis-Training/blob/master/_article.pdf",
+            "timeStamp": "2020/03/03-22:33:33",
+            "id": "fjfxtql",
+            "is_submitter": false,
+            "link_id": "t3_fd25jx",
+            "parent_id": "t3_fd25jx",
+            "score": 2,
+            "stickied": false,
+            "author_name": "superducktoes"
+        },
+        "fjf63r8": {
+            "comment": "Same. No dice here either.",
+            "timeStamp": "2020/03/03-17:25:04",
+            "id": "fjf63r8",
+            "is_submitter": false,
+            "link_id": "t3_fd25jx",
+            "parent_id": "t1_fjesqqh",
+            "score": 0,
+            "stickied": false,
+            "author_name": "Tikiyetti"
+        },
+        "fjf25h5": {
+            "comment": "&gt;They should. I just checked.",
+            "timeStamp": "2020/03/03-16:44:55",
+            "id": "fjf25h5",
+            "is_submitter": true,
+            "link_id": "t3_fd25jx",
+            "parent_id": "t1_fjesqqh",
+            "score": 2,
+            "stickied": false,
+            "author_name": "pedramamini"
+        },
+        "fjez41n": {
+            "comment": "[deleted]",
+            "timeStamp": "2020/03/03-16:15:16",
+            "id": "fjez41n",
+            "is_submitter": false,
+            "link_id": "t3_fd25jx",
+            "parent_id": "t3_fd25jx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fjesqqh": {
+            "comment": "I see that you copy/pasted that paragraph from the README. The links for the slideshow and article do not work from here.",
+            "timeStamp": "2020/03/03-15:19:05",
+            "id": "fjesqqh",
+            "is_submitter": false,
+            "link_id": "t3_fd25jx",
+            "parent_id": "t3_fd25jx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "lurker10001000"
+        }
+    }
+}

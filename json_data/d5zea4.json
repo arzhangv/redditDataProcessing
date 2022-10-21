@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "What we need to know about the built \"raccoon stealer\" aka \"racealer\" pws.\nThese are three samples in the wild infecting people recently, someone is making an effort to make campaign..\nOriginal binary debug code explains much of origin of this threat, it looks like a builder made.\nThe behavior data is enough to give you much info on mitigation and etc OSINT, but no stealing list elsewhere so I wrote list of what items will be stolen in VT comment:\n1. https://www.virustotal.com/gui/file/161e393d9f16ea79c1d8356ec926f5bbf11568f5a322f1cd7216bcd12b4d2091/detection\n2. https://www.virustotal.com/gui/file/975b56ef3e49280bf9a42346c7a3d2d89a80616cabdcb455c4a8ca2f92bf9cea/detection\n3. https://www.virustotal.com/gui/file/1e080fecb40b5db230f28a9b6248f9e70e0c25565c51a4776272ad6d7eb90bdf/detection\nSome screenshot of my analysis: https://twitter.com/malwaremustd1e/status/1174330515165335552\n(Sorry IDA or Ghidra guys, I am using radare2 as RE tool).\n\nA quicky depacked binary: https://www.virustotal.com/gui/file/6bd8a8c3c2f48f5c0ecb80b64350b11caed4660d5f0c2607b8ef217055da524f/detection\nI didn't make so much time for this analysis. Hope this helps.",
+        "title": "Raccoon stealer recent infection in the wild",
+        "score": 5,
+        "id": "d5zea4",
+        "commsNum": 1,
+        "timeStamp": "2019/09/18-08:27:00",
+        "author_name": "mmd0xFF",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/d5zea4/raccoon_stealer_recent_infection_in_the_wild/"
+    },
+    "posts": {
+        "f50hs87": {
+            "comment": "Extra analysis https://www.cybereason.com/blog/hunting-raccoon-stealer-the-new-masked-bandit-on-the-block",
+            "timeStamp": "2019/10/24-07:34:14",
+            "id": "f50hs87",
+            "is_submitter": false,
+            "link_id": "t3_d5zea4",
+            "parent_id": "t3_d5zea4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "hackerxbella"
+        }
+    }
+}

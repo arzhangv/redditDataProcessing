@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "New malware attack on Shellshock: the ChinaZ - A pair of windows CUI tool to mass HTTP req. shellshock attack, with ELF payload.",
+        "score": 2,
+        "id": "2shn21",
+        "commsNum": 0,
+        "timeStamp": "2015/01/14-21:55:59",
+        "author_name": "mmd0xFF",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://blog.malwaremustdie.org/2015/01/mmd-0030-2015-new-elf-malware-on.html"
+    },
+    "posts": {}
+}

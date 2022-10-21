@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I understand how asymmetric cryptography works but so far the only way I know how to use it is with gpg on the linux command line. This requires two things, however, for bash to be installed and gpg to be installed. Obviously a virus couldn't rely on those two programs on a computer.\n\nSo how does a virus written in a language like C/C++ encrypt files? Is there a library or API?",
+        "title": "How does ransomware encrypt files?",
+        "score": 4,
+        "id": "4c8owk",
+        "commsNum": 4,
+        "timeStamp": "2016/03/27-20:58:35",
+        "author_name": "Phrost5019",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/4c8owk/how_does_ransomware_encrypt_files/"
+    },
+    "posts": {}
+}

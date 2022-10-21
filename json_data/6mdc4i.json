@@ -1,0 +1,220 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[removed]",
+        "title": "New Malware Analysis Forum",
+        "score": 12,
+        "id": "6mdc4i",
+        "commsNum": 18,
+        "timeStamp": "2017/07/10-02:13:51",
+        "author_name": "TheOnlyRealTodd",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 18,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6mdc4i/new_malware_analysis_forum/"
+    },
+    "posts": {
+        "dk7aqxi": {
+            "comment": "Yeah we'll see. We'll see crashish.",
+            "timeStamp": "2017/07/13-23:19:16",
+            "id": "dk7aqxi",
+            "is_submitter": true,
+            "link_id": "t3_6mdc4i",
+            "parent_id": "t1_dk7958g",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TheOnlyRealTodd"
+        },
+        "dk7958g": {
+            "comment": "Right. You can cry about it on your forum that you totally didn't advertise here.",
+            "timeStamp": "2017/07/13-21:54:24",
+            "id": "dk7958g",
+            "is_submitter": false,
+            "link_id": "t3_6mdc4i",
+            "parent_id": "t1_dk76ruw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "crashish"
+        },
+        "dk76ruw": {
+            "comment": "The community appreciates your support.",
+            "timeStamp": "2017/07/13-20:51:08",
+            "id": "dk76ruw",
+            "is_submitter": true,
+            "link_id": "t3_6mdc4i",
+            "parent_id": "t1_dk6w46c",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TheOnlyRealTodd"
+        },
+        "dk6w46c": {
+            "comment": "Those things don't negate an ad being an ad. It's ok though, I removed the post for you anyway.",
+            "timeStamp": "2017/07/13-16:45:26",
+            "id": "dk6w46c",
+            "is_submitter": false,
+            "link_id": "t3_6mdc4i",
+            "parent_id": "t1_dk6vx5b",
+            "score": 1,
+            "stickied": false,
+            "author_name": "crashish"
+        },
+        "dk6vx5b": {
+            "comment": "Actually no, because we aren't earning any money and this is not a commercial website. I knew someone would be that guy though. :)",
+            "timeStamp": "2017/07/13-16:41:05",
+            "id": "dk6vx5b",
+            "is_submitter": true,
+            "link_id": "t3_6mdc4i",
+            "parent_id": "t1_dk6uetb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TheOnlyRealTodd"
+        },
+        "dk6uetb": {
+            "comment": "\"This is not meant to be an ad, but here's an ad.\" ",
+            "timeStamp": "2017/07/13-16:07:51",
+            "id": "dk6uetb",
+            "is_submitter": false,
+            "link_id": "t3_6mdc4i",
+            "parent_id": "t3_6mdc4i",
+            "score": 1,
+            "stickied": false,
+            "author_name": "crashish"
+        },
+        "dk3bkeg": {
+            "comment": "Lol",
+            "timeStamp": "2017/07/11-14:41:49",
+            "id": "dk3bkeg",
+            "is_submitter": true,
+            "link_id": "t3_6mdc4i",
+            "parent_id": "t1_dk34wib",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TheOnlyRealTodd"
+        },
+        "dk34wib": {
+            "comment": "Maybe you can't build Rome in a day. But, you could write the script to build Rome in a day. ",
+            "timeStamp": "2017/07/11-12:42:33",
+            "id": "dk34wib",
+            "is_submitter": false,
+            "link_id": "t3_6mdc4i",
+            "parent_id": "t1_dk27jpr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TheHeffNerr"
+        },
+        "dk27jpr": {
+            "comment": "Yeah I agree with that completely. My plan is to start posting quality content and guides but ofc I can't build Rome in a day. I had however been posting up stuff on my blog so I will do it more on the forum now and try and provide the community with the content. Thanks for the support!",
+            "timeStamp": "2017/07/10-22:33:13",
+            "id": "dk27jpr",
+            "is_submitter": true,
+            "link_id": "t3_6mdc4i",
+            "parent_id": "t1_dk1uyk1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TheOnlyRealTodd"
+        },
+        "dk27dsx": {
+            "comment": "I wholeheartedly agree. And those forums are great as well! I was just hoping to isolate it a bit more since malware has definitely become a big thing. My favorite part of MA is still the reversing part though! :)",
+            "timeStamp": "2017/07/10-22:27:45",
+            "id": "dk27dsx",
+            "is_submitter": true,
+            "link_id": "t3_6mdc4i",
+            "parent_id": "t1_dk19mdt",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TheOnlyRealTodd"
+        },
+        "dk1uyk1": {
+            "comment": "Good luck!  As a person that sucks at reverse engineering, even though I've been sucking at it for awhile.  I could see this being handy when it gets more populated.  \n\nI have no idea if this is true.  But, I would put a lot of effort into write ups, guides tool usage.  Seem to be the high traffic item. ",
+            "timeStamp": "2017/07/10-17:30:04",
+            "id": "dk1uyk1",
+            "is_submitter": false,
+            "link_id": "t3_6mdc4i",
+            "parent_id": "t3_6mdc4i",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TheHeffNerr"
+        },
+        "dk19mdt": {
+            "comment": "I'd posit that most malware analysis is supposed to be a subsection of reverse engineering :)  Malware analysis is just the basic scraping of data where RE is the true part.\n\nI'll follow along. Currently the most popular (IMO) sites are http://www.kernelmode.info/forum/ and https://forum.tuts4you.com/\n",
+            "timeStamp": "2017/07/10-10:44:49",
+            "id": "dk19mdt",
+            "is_submitter": false,
+            "link_id": "t3_6mdc4i",
+            "parent_id": "t3_6mdc4i",
+            "score": 2,
+            "stickied": false,
+            "author_name": "LightningRurik"
+        },
+        "dk1363p": {
+            "comment": "Without PHP.. no. You're limited to just 3 or 4 rather poor looking solutions if you're not going to deal with PHP. Can I ask why you'd rather avoid PHP? You have a great selection of forum platforms with it. phpBB is minimalistic and nice looking for a site like this. MyBB is very customizable. IPB, albeit pricey, can look very nice and professional.\n\nMy personal opinion, and maybe others will disagree with me, is if you use nodeBB you're going to lose potential users who just aren't fond of the look and feel of the site.",
+            "timeStamp": "2017/07/10-08:48:40",
+            "id": "dk1363p",
+            "is_submitter": false,
+            "link_id": "t3_6mdc4i",
+            "parent_id": "t1_dk12tf3",
+            "score": 3,
+            "stickied": false,
+            "author_name": "Bmjslider"
+        },
+        "dk12tf3": {
+            "comment": "Didn't want to deal with PHP. I also heard that vBulletin's support has gone downhill or else I would have chosen them. Just out of curiosity, do you have any other suggestions for software that isn't PHP? I also thought of Discourse but I felt it was uglier.",
+            "timeStamp": "2017/07/10-08:42:06",
+            "id": "dk12tf3",
+            "is_submitter": true,
+            "link_id": "t3_6mdc4i",
+            "parent_id": "t1_dk10p9e",
+            "score": 3,
+            "stickied": false,
+            "author_name": "TheOnlyRealTodd"
+        },
+        "dk12rxq": {
+            "comment": "lrgame1983 haha thanks man.",
+            "timeStamp": "2017/07/10-08:41:18",
+            "id": "dk12rxq",
+            "is_submitter": true,
+            "link_id": "t3_6mdc4i",
+            "parent_id": "t1_dk0uf9p",
+            "score": 3,
+            "stickied": false,
+            "author_name": "TheOnlyRealTodd"
+        },
+        "dk10p9e": {
+            "comment": "I like the idea but my god, nodebb is ugly. Of all the different forum platforms, why nodebb?",
+            "timeStamp": "2017/07/10-08:01:03",
+            "id": "dk10p9e",
+            "is_submitter": false,
+            "link_id": "t3_6mdc4i",
+            "parent_id": "t3_6mdc4i",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Bmjslider"
+        },
+        "dk0uf9p": {
+            "comment": "Good luck with it TheOnlyRealTodd, I've been hacked into eternity when my anti-malware forum got more traffic. TBH I was trolling the malware devs but hey, how can one resist right? MMD (Malware must die) suffered the same I believe.",
+            "timeStamp": "2017/07/10-05:32:12",
+            "id": "dk0uf9p",
+            "is_submitter": false,
+            "link_id": "t3_6mdc4i",
+            "parent_id": "t3_6mdc4i",
+            "score": 6,
+            "stickied": false,
+            "author_name": "lrgame1983"
+        },
+        "dk0quwc": {
+            "comment": "I'll give it a try.",
+            "timeStamp": "2017/07/10-03:08:45",
+            "id": "dk0quwc",
+            "is_submitter": false,
+            "link_id": "t3_6mdc4i",
+            "parent_id": "t3_6mdc4i",
+            "score": 3,
+            "stickied": false,
+            "author_name": "BadMoles"
+        }
+    }
+}

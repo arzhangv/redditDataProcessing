@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Awesome Blog on Reversing Crypted .NET Samples",
+        "score": 14,
+        "id": "4v8c21",
+        "commsNum": 1,
+        "timeStamp": "2016/07/29-12:21:54",
+        "author_name": "IceSickle_",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://blog.malwarebytes.com/threat-analysis/2016/07/unpacking-yet-another-net-crypter/"
+    },
+    "posts": {}
+}

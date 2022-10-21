@@ -1,0 +1,143 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Got this link from a presumably hacked friend on facebook. I clicked on it like an idiot before quickly backing out and resetting my (android) phone. What is it? And what are the chances something happened? Using a Note 8",
+        "score": 1,
+        "id": "8bpz9j",
+        "commsNum": 10,
+        "timeStamp": "2018/04/12-06:04:14",
+        "author_name": "aa2051",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 10,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://i.redd.it/u4ajvfex7hr01.jpg"
+    },
+    "posts": {
+        "dx9kqj2": {
+            "comment": "Disable your internet connection and then click it. Should open a browser with the url in the search bar without getting anywhere",
+            "timeStamp": "2018/04/12-14:29:07",
+            "id": "dx9kqj2",
+            "is_submitter": false,
+            "link_id": "t3_8bpz9j",
+            "parent_id": "t1_dx97m0g",
+            "score": 2,
+            "stickied": false,
+            "author_name": "jyggorath"
+        },
+        "dx97m0g": {
+            "comment": "Already tried, it only copies the attached \n\"\ud83d\ude2e\ud83d\ude2e   !!\" message.",
+            "timeStamp": "2018/04/12-11:14:31",
+            "id": "dx97m0g",
+            "is_submitter": false,
+            "link_id": "t3_8bpz9j",
+            "parent_id": "t1_dx96tyu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "aa2051"
+        },
+        "dx96tyu": {
+            "comment": "Long press the link to copy link text without clicking it?",
+            "timeStamp": "2018/04/12-11:02:50",
+            "id": "dx96tyu",
+            "is_submitter": false,
+            "link_id": "t3_8bpz9j",
+            "parent_id": "t1_dx8vw09",
+            "score": 1,
+            "stickied": false,
+            "author_name": "cadhoit_ban"
+        },
+        "dx901ub": {
+            "comment": "Well thats a relief, i closed it before the site even had time to load anyway.",
+            "timeStamp": "2018/04/12-09:21:44",
+            "id": "dx901ub",
+            "is_submitter": false,
+            "link_id": "t3_8bpz9j",
+            "parent_id": "t1_dx8vnyj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "aa2051"
+        },
+        "dx8vw09": {
+            "comment": "Thats all that shows in the message. Not so keen on clicking it again to copy/paste the link!",
+            "timeStamp": "2018/04/12-08:20:47",
+            "id": "dx8vw09",
+            "is_submitter": false,
+            "link_id": "t3_8bpz9j",
+            "parent_id": "t1_dx8ue14",
+            "score": 1,
+            "stickied": false,
+            "author_name": "aa2051"
+        },
+        "dx8vnyj": {
+            "comment": "It looks like the same link that I came across two days ago - I looked at the HTML file, nothing will happen as long as you dont click on the \"Watch Now\" button after opening the link.",
+            "timeStamp": "2018/04/12-08:17:30",
+            "id": "dx8vnyj",
+            "is_submitter": false,
+            "link_id": "t3_8bpz9j",
+            "parent_id": "t3_8bpz9j",
+            "score": 2,
+            "stickied": false,
+            "author_name": "awlzable"
+        },
+        "dx8ue14": {
+            "comment": "Returns a 403 with\n\n    &lt;?xml version=\"1.0\" encoding=\"UTF-8\"?&gt;\n    &lt;Error&gt;\n       &lt;Code&gt;AccessDenied&lt;/Code&gt;\n       &lt;Message&gt;Access denied.&lt;/Message&gt;\n       &lt;Details&gt;Anonymous caller does not have storage.objects.list access to wander1523535762.&lt;/Details&gt;\n    &lt;/Error&gt;\n\nThere was probably a location next to the domain",
+            "timeStamp": "2018/04/12-07:58:21",
+            "id": "dx8ue14",
+            "is_submitter": false,
+            "link_id": "t3_8bpz9j",
+            "parent_id": "t1_dx8pd0v",
+            "score": 1,
+            "stickied": false,
+            "author_name": "shif"
+        },
+        "dx8qkrc": {
+            "comment": "Im not sure, they are an old school friend. It was unusual to get a message from them.",
+            "timeStamp": "2018/04/12-06:57:56",
+            "id": "dx8qkrc",
+            "is_submitter": false,
+            "link_id": "t3_8bpz9j",
+            "parent_id": "t1_dx8qe1n",
+            "score": 1,
+            "stickied": false,
+            "author_name": "aa2051"
+        },
+        "dx8qe1n": {
+            "comment": "What platform did your friend get compromised on?",
+            "timeStamp": "2018/04/12-06:54:48",
+            "id": "dx8qe1n",
+            "is_submitter": false,
+            "link_id": "t3_8bpz9j",
+            "parent_id": "t3_8bpz9j",
+            "score": 2,
+            "stickied": false,
+            "author_name": "PerfectlyStill"
+        },
+        "dx8pd0v": {
+            "comment": "Whoops, Its;\n\nwander1523535762.storage.googleapis.com\n(Careful, obviously)",
+            "timeStamp": "2018/04/12-06:37:27",
+            "id": "dx8pd0v",
+            "is_submitter": false,
+            "link_id": "t3_8bpz9j",
+            "parent_id": "t1_dx8p0ly",
+            "score": 1,
+            "stickied": false,
+            "author_name": "aa2051"
+        },
+        "dx8p0ly": {
+            "comment": "uhh, so what's the link?",
+            "timeStamp": "2018/04/12-06:31:26",
+            "id": "dx8p0ly",
+            "is_submitter": false,
+            "link_id": "t3_8bpz9j",
+            "parent_id": "t3_8bpz9j",
+            "score": 1,
+            "stickied": false,
+            "author_name": "kartoffelwaffel"
+        }
+    }
+}

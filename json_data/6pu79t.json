@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I noticed on an old computer (XP SP3) that all of the internet explorer history, cookie and cache files (index.dat) were completely void of any data, and that there were new index.dat files for them in the TEMP folder. The creation dates of the new ones seem to indicated they were created very close to the same time after a folder called \"smtmp\" which had empty folders labeled 1 2 and 4.\n\n1. Does this smtmp file indicate that a rogue antivirus was present at some point? (Thats what some googling has lead me to believe)\n\n2. Are rouge antivirus programs known for deleting index.dat files? Or creating them in different directories?\n",
+        "title": "Is Rogue antivirus software known for deleting history files?",
+        "score": 2,
+        "id": "6pu79t",
+        "commsNum": 3,
+        "timeStamp": "2017/07/26-23:41:20",
+        "author_name": "Kurt2121",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6pu79t/is_rogue_antivirus_software_known_for_deleting/"
+    },
+    "posts": {
+        "dkx0ksx": {
+            "comment": "Hello,\n\nIt was not too common.  Keep in mind, this was several years ago.  I would imagine all the folks who used to do fake AV have moved on to ransomware now as it is more profitable for them.\n\nRegards,\n\nAryeh Goretsky",
+            "timeStamp": "2017/07/30-00:12:08",
+            "id": "dkx0ksx",
+            "is_submitter": false,
+            "link_id": "t3_6pu79t",
+            "parent_id": "t1_dkw621c",
+            "score": 1,
+            "stickied": false,
+            "author_name": "goretsky"
+        },
+        "dkw621c": {
+            "comment": "Hey Aryeh,\n\nthanks for the reply. Is it common for trojans to erase those files to keep people from discovering where the infection came from? Do you have any examples?",
+            "timeStamp": "2017/07/29-10:54:21",
+            "id": "dkw621c",
+            "is_submitter": true,
+            "link_id": "t3_6pu79t",
+            "parent_id": "t1_dkvsvt9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Kurt2121"
+        },
+        "dkvsvt9": {
+            "comment": "Hello,\n\nCan't say that I recall rogue/fake anti-virus programs doing this, however, they were often installed by a bot or trojan in order to generate some additional revenue for the attacker, and *that* program may have erased those in order to make it harder to determine where the infestation came from.\n\nOr the user may have run a \"system cleaning\" utility that did this, etc.\n\nRegards,\n\nAryeh Goretsky\n",
+            "timeStamp": "2017/07/29-05:16:04",
+            "id": "dkvsvt9",
+            "is_submitter": false,
+            "link_id": "t3_6pu79t",
+            "parent_id": "t3_6pu79t",
+            "score": 1,
+            "stickied": false,
+            "author_name": "goretsky"
+        }
+    }
+}

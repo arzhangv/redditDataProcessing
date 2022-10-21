@@ -1,0 +1,132 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "[removed]",
+        "title": "How to detect incorrectly named DLL?",
+        "score": 1,
+        "id": "u6abht",
+        "commsNum": 1,
+        "timeStamp": "2022/04/18-03:53:47",
+        "author_name": "bananadoggiez",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/u6abht/how_to_detect_incorrectly_named_dll/"
+    },
+    "posts": {
+        "i5c3cl7": {
+            "comment": "If the dll has no export directory, it means it does not export anything, no luck. So you'll have to look for GetModuleHandle/LoadLibrary/LdrLoadDll calls in the .exe like others suggested.   \nIf you can share the samples, I can give you more tips.",
+            "timeStamp": "2022/04/19-05:43:47",
+            "id": "i5c3cl7",
+            "is_submitter": false,
+            "link_id": "t3_u6abht",
+            "parent_id": "t1_i5b2ea9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "kaze0mx"
+        },
+        "i5b2ea9": {
+            "comment": "&gt;ExportDirectory\n\nHi! Thanks for the response. I don't see an Export Directory. There's only Import Directory when viewing it in CFF Explorer.",
+            "timeStamp": "2022/04/18-22:20:25",
+            "id": "i5b2ea9",
+            "is_submitter": true,
+            "link_id": "t3_u6abht",
+            "parent_id": "t1_i58j8ju",
+            "score": 1,
+            "stickied": false,
+            "author_name": "bananadoggiez"
+        },
+        "i59bf70": {
+            "comment": "My thought exactly.\n\nrun the get-filehash -algorithm MD5 \n\ncommand and then look up the hash. It may be this simple for OP though. Virustotal may even have it in their database.",
+            "timeStamp": "2022/04/18-14:12:38",
+            "id": "i59bf70",
+            "is_submitter": false,
+            "link_id": "t3_u6abht",
+            "parent_id": "t1_i5802yi",
+            "score": 1,
+            "stickied": false,
+            "author_name": "HollowSavant"
+        },
+        "i595gd5": {
+            "comment": "There are so many bad answers here, but this is the correct one.\n\nThis is also easy to pull by Python. Here is what I use, with the pefile module:\n\n    if pe.is_dll():\n        #DLL, get original compiled name and export routines\n        #Load in export directory\n        pe.parse_data_directories(\n            directories=[pefile.DIRECTORY_ENTRY['IMAGE_DIRECTORY_ENTRY_EXPORT']])\n\n        try:\n            orig_name = pe.get_string_at_rva(pe.DIRECTORY_ENTRY_EXPORT.struct.Name)\n            print('Original DLL: {}'.format(orig_name))",
+            "timeStamp": "2022/04/18-13:32:10",
+            "id": "i595gd5",
+            "is_submitter": false,
+            "link_id": "t3_u6abht",
+            "parent_id": "t1_i58j8ju",
+            "score": 1,
+            "stickied": false,
+            "author_name": "LightningRurik"
+        },
+        "i58j8ju": {
+            "comment": "If the DLL exports at least one function (which should be the case), you can look in the ExportDirectory structure of the dll (using CFF explorer or [malcat](https://malcat.fr)), there is a field at offset 0xC which is a RVA to the DLL's name.",
+            "timeStamp": "2022/04/18-11:02:57",
+            "id": "i58j8ju",
+            "is_submitter": false,
+            "link_id": "t3_u6abht",
+            "parent_id": "t3_u6abht",
+            "score": 1,
+            "stickied": false,
+            "author_name": "kaze0mx"
+        },
+        "i5802yi": {
+            "comment": "Compare the hashes\u2026.?",
+            "timeStamp": "2022/04/18-08:55:13",
+            "id": "i5802yi",
+            "is_submitter": false,
+            "link_id": "t3_u6abht",
+            "parent_id": "t3_u6abht",
+            "score": 1,
+            "stickied": false,
+            "author_name": "gbdavidx"
+        },
+        "i57viqk": {
+            "comment": "I am not sure if this will help because I am not into malware stuff.\n LoadLibrary is the function used to load a library dynamically. It takes dll name as the parameter. Check if you can find the LoadLibrary calls and the arguments to those.",
+            "timeStamp": "2022/04/18-08:24:37",
+            "id": "i57viqk",
+            "is_submitter": false,
+            "link_id": "t3_u6abht",
+            "parent_id": "t3_u6abht",
+            "score": 1,
+            "stickied": false,
+            "author_name": "lmvsp"
+        },
+        "i57un0z": {
+            "comment": "If you can run the sample in a VM/sandbox, try using procmon from the windows sysinternals tools. You should see a call to `LoadLibrary` that will fail (if all it does is try to load it at runtime)",
+            "timeStamp": "2022/04/18-08:18:40",
+            "id": "i57un0z",
+            "is_submitter": false,
+            "link_id": "t3_u6abht",
+            "parent_id": "t3_u6abht",
+            "score": 1,
+            "stickied": false,
+            "author_name": "elast0ny"
+        },
+        "i57qdql": {
+            "comment": "The name you need is likely in the Exe's code or data sections. You might need to do some static analysis in a disassembler to figure it out (or run strings and hope it's in the output). Ghidra is a pretty decent free tool for this.",
+            "timeStamp": "2022/04/18-07:49:32",
+            "id": "i57qdql",
+            "is_submitter": false,
+            "link_id": "t3_u6abht",
+            "parent_id": "t3_u6abht",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Evening-Researcher"
+        },
+        "i56zrnk": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators **and be sure to include the link to the post** - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2022/04/18-03:53:47",
+            "id": "i56zrnk",
+            "is_submitter": false,
+            "link_id": "t3_u6abht",
+            "parent_id": "t3_u6abht",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

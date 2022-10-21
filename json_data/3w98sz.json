@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Greetings folks, what are some steps and extra precautions I should follow for setting up a safe malware sandbox VM (Win7 x64)? \n\n- Seperate subnet via NAT? \n- Keep off the domain / workgroup? \n- Disable simple file sharing? \n\nThanks for your feedback",
+        "title": "Safe Malware Sandbox VM?",
+        "score": 20,
+        "id": "3w98sz",
+        "commsNum": 10,
+        "timeStamp": "2015/12/10-10:25:45",
+        "author_name": "diggydog92",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 10,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/3w98sz/safe_malware_sandbox_vm/"
+    },
+    "posts": {}
+}

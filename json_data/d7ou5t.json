@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "GonnaCry - Python Ransomeware",
+        "score": 1,
+        "id": "d7ou5t",
+        "commsNum": 0,
+        "timeStamp": "2019/09/22-03:47:14",
+        "author_name": "g0relics",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://github.com/tarcisio-marinho/GonnaCry"
+    },
+    "posts": {}
+}

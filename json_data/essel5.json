@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi there, I did a scan with MalwareBytes due to a strange behaviour of the CPU usage, as the CPU was running at 100% every time I opened Task Manager but rapidly decreased if Task Manager was left opened. Malwarebytes found ttwo Trojan named as in the title, I read on the internet that are pretty malicious, so I wanted to know if I'm safe with Malwarebytes or Ihave to Delete and reinstall Windows?",
+        "title": "Bitcoinminer.COMSPECRST",
+        "score": 1,
+        "id": "essel5",
+        "commsNum": 3,
+        "timeStamp": "2020/01/23-04:28:25",
+        "author_name": "Lehotredditeur",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/essel5/bitcoinminercomspecrst/"
+    },
+    "posts": {
+        "ffcil7t": {
+            "comment": "System interrupt is a genuine part of Windows, but it could be something pretending to be that process.",
+            "timeStamp": "2020/01/23-09:23:57",
+            "id": "ffcil7t",
+            "is_submitter": false,
+            "link_id": "t3_essel5",
+            "parent_id": "t1_ffcgogi",
+            "score": 1,
+            "stickied": false,
+            "author_name": "UnacceptableUse"
+        },
+        "ffcgogi": {
+            "comment": "Thanks for the reply, I noticed that the process draining the CPU is \"system interrupt\", any suggestions? Thank again for your time.",
+            "timeStamp": "2020/01/23-09:04:26",
+            "id": "ffcgogi",
+            "is_submitter": true,
+            "link_id": "t3_essel5",
+            "parent_id": "t1_ffcbk9x",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Lehotredditeur"
+        },
+        "ffcbk9x": {
+            "comment": "Remove the two miners and monitor cpu usage you should be fine",
+            "timeStamp": "2020/01/23-08:11:40",
+            "id": "ffcbk9x",
+            "is_submitter": false,
+            "link_id": "t3_essel5",
+            "parent_id": "t3_essel5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MysticalTeamMember"
+        }
+    }
+}

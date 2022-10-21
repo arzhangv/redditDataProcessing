@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Good Day,\n\nI have here http://pastebin.com/raw/7W9d2a8s a very odd communication from a program SEP considers to be Infostealer.Limitail, but appears to be a very new variant, as my co-worker submitted the file to them for Symantec Endpoint Protection to start detecting and blocking it.\n\nIt's rather harmless, It's built from an NSIS (Nullsoft Scriptable Installer System) package which wraps the entire thing into an exe file, and part of something known as the CryptoNote Client, an old almost defunct bitcoin miner, at least that's what it installs itself as, and it attempts to reach out to several different pools as well. Here is the pool git link:\n\nhttps://github.com/zone117x/node-cryptonote-pool#2-configuration\n\nIt propagates via USB drives and network shares. Harmless, even before you block the outgoing transmissions, except for this fact, it uses encoded or encrypted communications from two pages on several different websites, and receives encoded information (or encrypted) as I put in the link above. \n\nThe good news is that now everyone is making sure the systems they control now has A/V products on it, as they're supposed to. It spread pretty fast, any it's annoying.\n\nAny Ideas about what that could mean? I figure someone might've attempted to decode it or recognize what it contains.\n\n I've read that having 'anchors' that appear over and over again are helpful in decoding strings, but I don't have a clue.\n\nThere is a 2nd path on those hosts it'll call out to. The first URI being /stat.html (Not stats.html) and test.html. You see the result of test above. stat is longer and has what appears to be uncoded variables, hence why I don't believe it's encrypted.\n\n Here is a DeepViz link:  \n\nhttps://sandbox.deepviz.com/report/hash/2561b5316949c44b9747c3163f0cd242/",
+        "title": "Infostealer.Limitail Encoded Strings Question",
+        "score": 5,
+        "id": "4iltxu",
+        "commsNum": 0,
+        "timeStamp": "2016/05/09-14:26:28",
+        "author_name": "Theory5",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/4iltxu/infostealerlimitail_encoded_strings_question/"
+    },
+    "posts": {}
+}

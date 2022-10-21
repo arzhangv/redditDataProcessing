@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Hacking Team's \"Bad BIOS\": A Commercial rootkit for UEFI Firmware?",
+        "score": 1,
+        "id": "3deypd",
+        "commsNum": 0,
+        "timeStamp": "2015/07/15-12:15:37",
+        "author_name": "matrosov",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.intelsecurity.com/advanced-threat-research/blog.html"
+    },
+    "posts": {}
+}

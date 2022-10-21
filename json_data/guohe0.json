@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Netwalker Ransomware \u2013 From Static Reverse Engineering to Automatic Extraction",
+        "score": 2,
+        "id": "guohe0",
+        "commsNum": 0,
+        "timeStamp": "2020/06/01-10:10:24",
+        "author_name": "sysopfb",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://zero2auto.com/2020/05/19/netwalker-re/"
+    },
+    "posts": {}
+}

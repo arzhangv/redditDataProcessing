@@ -1,0 +1,209 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I was trying my hands on Dridex malware inside VM( off course to keep myself safe) initially it looked a simple one to analyse but didn't expected it will escape out of VM and infect HOST machine . Trust me it looks a simple kiddo malware initially . I understand even it can [escape even the sandbox](https://hackernewsdog.com/vm-bypassing-escaping-infect-host-machine/). Looking for suggestion about best sandbox to keep this well sealed inside .",
+        "title": "Malware escaped my VM",
+        "score": 1,
+        "id": "emq939",
+        "commsNum": 17,
+        "timeStamp": "2020/01/10-04:23:55",
+        "author_name": "madelinegemma",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 17,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/emq939/malware_escaped_my_vm/"
+    },
+    "posts": {
+        "fdqpwgl": {
+            "comment": "i think so too, thanks",
+            "timeStamp": "2020/01/10-08:05:32",
+            "id": "fdqpwgl",
+            "is_submitter": false,
+            "link_id": "t3_emq939",
+            "parent_id": "t1_fdqhga5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "edward_snowedin"
+        },
+        "fdqni87": {
+            "comment": "Can you share the sample with the community?",
+            "timeStamp": "2020/01/10-07:40:29",
+            "id": "fdqni87",
+            "is_submitter": false,
+            "link_id": "t3_emq939",
+            "parent_id": "t3_emq939",
+            "score": 1,
+            "stickied": false,
+            "author_name": "FusionCarcass"
+        },
+        "fdqmhz3": {
+            "comment": "You're looking at a large amount of effort for something that's very questionable. I work with hundreds of samples, including Dridex, and haven't seen any that escape. You should investigate that side more.\n\nDo you have a hash for the particular file that's doing this?",
+            "timeStamp": "2020/01/10-07:29:39",
+            "id": "fdqmhz3",
+            "is_submitter": false,
+            "link_id": "t3_emq939",
+            "parent_id": "t3_emq939",
+            "score": 1,
+            "stickied": false,
+            "author_name": "LightningRurik"
+        },
+        "fdql7b7": {
+            "comment": "Dridex is anything but simple lol",
+            "timeStamp": "2020/01/10-07:15:34",
+            "id": "fdql7b7",
+            "is_submitter": false,
+            "link_id": "t3_emq939",
+            "parent_id": "t3_emq939",
+            "score": 1,
+            "stickied": false,
+            "author_name": "pimmytrousers"
+        },
+        "fdqhga5": {
+            "comment": "Whole post look like an ad for linked \"hacker news\" website.",
+            "timeStamp": "2020/01/10-06:32:42",
+            "id": "fdqhga5",
+            "is_submitter": false,
+            "link_id": "t3_emq939",
+            "parent_id": "t3_emq939",
+            "score": 1,
+            "stickied": false,
+            "author_name": "crz_sotona"
+        },
+        "fdqehp5": {
+            "comment": "it was with sarcasm ! I know yea !",
+            "timeStamp": "2020/01/10-05:56:08",
+            "id": "fdqehp5",
+            "is_submitter": true,
+            "link_id": "t3_emq939",
+            "parent_id": "t1_fdqamwu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "madelinegemma"
+        },
+        "fdqdlho": {
+            "comment": "do you even have any evidence your host system was compromised?",
+            "timeStamp": "2020/01/10-05:44:19",
+            "id": "fdqdlho",
+            "is_submitter": false,
+            "link_id": "t3_emq939",
+            "parent_id": "t3_emq939",
+            "score": 1,
+            "stickied": false,
+            "author_name": "_rock_farmer"
+        },
+        "fdqcgla": {
+            "comment": "Your host OS should ideally be one that the malware does not target. Like /u/poezda mentions, it wouldn't be a problem if you had used Linux or Mac OS as the host. Usually it will be safer to use Linux as the host because malware authors tend not to focus it as much because the market share is vastly less than Windows (and security is handled differently in Linux.",
+            "timeStamp": "2020/01/10-05:28:43",
+            "id": "fdqcgla",
+            "is_submitter": false,
+            "link_id": "t3_emq939",
+            "parent_id": "t3_emq939",
+            "score": 1,
+            "stickied": false,
+            "author_name": "secur3gamer"
+        },
+        "fdqc88j": {
+            "comment": "Using shared folder between host and VM?",
+            "timeStamp": "2020/01/10-05:25:26",
+            "id": "fdqc88j",
+            "is_submitter": false,
+            "link_id": "t3_emq939",
+            "parent_id": "t3_emq939",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Kryp70kn1gh7"
+        },
+        "fdqaq1o": {
+            "comment": "What are the indicators that it escaped? How do you know? What kind of virtualization software are you using? Is it up to date? How is it configured? Do you using any kind of addons as \"guest additions\" or similar?\n\nIn my experience it is virtually impossible for malware to escape a properly configured lab with up-to-date software. If it does, you may be sitting on zero-day that if reverse-engineered can get you some pretty hefty bounty. But I wouldn't count on it ;)",
+            "timeStamp": "2020/01/10-05:03:05",
+            "id": "fdqaq1o",
+            "is_submitter": false,
+            "link_id": "t3_emq939",
+            "parent_id": "t3_emq939",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Lasq"
+        },
+        "fdqaojl": {
+            "comment": "Ubuntu is free ;)",
+            "timeStamp": "2020/01/10-05:02:26",
+            "id": "fdqaojl",
+            "is_submitter": false,
+            "link_id": "t3_emq939",
+            "parent_id": "t1_fdq9uor",
+            "score": 1,
+            "stickied": false,
+            "author_name": "velousk"
+        },
+        "fdqamwu": {
+            "comment": "He said mac os... just install it",
+            "timeStamp": "2020/01/10-05:01:43",
+            "id": "fdqamwu",
+            "is_submitter": false,
+            "link_id": "t3_emq939",
+            "parent_id": "t1_fdq9uor",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ragnar_graybeard87"
+        },
+        "fdq9uor": {
+            "comment": "you are going to gift me Mac Pro ? ;)",
+            "timeStamp": "2020/01/10-04:49:25",
+            "id": "fdq9uor",
+            "is_submitter": true,
+            "link_id": "t3_emq939",
+            "parent_id": "t1_fdq9l7p",
+            "score": 1,
+            "stickied": false,
+            "author_name": "madelinegemma"
+        },
+        "fdq9mxm": {
+            "comment": "Yeah physical machine on your own LAN.\n\nBut seperate it from important machine.\n\nBuild a mini lab only safe way to avoid VM breakouts tbh",
+            "timeStamp": "2020/01/10-04:45:56",
+            "id": "fdq9mxm",
+            "is_submitter": false,
+            "link_id": "t3_emq939",
+            "parent_id": "t1_fdq9kfg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RedPacketSecurity"
+        },
+        "fdq9l7p": {
+            "comment": "You should probably idea different host OS like Ubuntu or Mac OS and this would not be a problem as if it did escape the chances of it infecting you would be very slim.",
+            "timeStamp": "2020/01/10-04:45:09",
+            "id": "fdq9l7p",
+            "is_submitter": false,
+            "link_id": "t3_emq939",
+            "parent_id": "t3_emq939",
+            "score": 1,
+            "stickied": false,
+            "author_name": "poezda"
+        },
+        "fdq9kfg": {
+            "comment": "anything except cloud ? Cloud don't give freedom to install anything to analyse anything",
+            "timeStamp": "2020/01/10-04:44:48",
+            "id": "fdq9kfg",
+            "is_submitter": true,
+            "link_id": "t3_emq939",
+            "parent_id": "t1_fdq9cin",
+            "score": 1,
+            "stickied": false,
+            "author_name": "madelinegemma"
+        },
+        "fdq9cin": {
+            "comment": "A dedicated machine on seperate clan\n\nOr\n\n\nUse a cloud sandbox like joesecurity etc..",
+            "timeStamp": "2020/01/10-04:41:14",
+            "id": "fdq9cin",
+            "is_submitter": false,
+            "link_id": "t3_emq939",
+            "parent_id": "t3_emq939",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RedPacketSecurity"
+        }
+    }
+}

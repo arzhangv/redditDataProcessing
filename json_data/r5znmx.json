@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Microsoft Defender generating false positive alerts regarding 'PowEmotet'",
+        "score": 1,
+        "id": "r5znmx",
+        "commsNum": 0,
+        "timeStamp": "2021/11/30-14:47:38",
+        "author_name": "Milyahe",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://twitter.com/GossiTheDog/status/1465805480069107715"
+    },
+    "posts": {}
+}

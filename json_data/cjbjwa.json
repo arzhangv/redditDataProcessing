@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "A primer on cryptographic attacks, explained in a simple way with approachable examples. Learn about Downgrade attacks, Precomputations, Oracles, brand-name SSL vulnerabilities (CRIME, POODLE...) -- and the surprising connections between them.",
+        "score": 36,
+        "id": "cjbjwa",
+        "commsNum": 0,
+        "timeStamp": "2019/07/29-06:54:31",
+        "author_name": "ynvb",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://research.checkpoint.com/cryptographic-attacks-a-guide-for-the-perplexed/"
+    },
+    "posts": {}
+}

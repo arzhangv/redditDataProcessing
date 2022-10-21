@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "A new variant of Bartalex used to serve Dyre and Pony Trojans",
+        "score": 1,
+        "id": "3eamxt",
+        "commsNum": 0,
+        "timeStamp": "2015/07/22-23:35:26",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/38780/cyber-crime/bartalex-drops-dyre-and-pony.html"
+    },
+    "posts": {}
+}

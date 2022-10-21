@@ -1,0 +1,187 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "So I just stumbled across a sample that seems like it's a crypter of sorts. Funny thing is, it's written in C# and the persistence seems pretty decent.\n\nSomehow it injects itself into MSBuild I'm sure, but how would someone go around decompiling it and finding how it actually works? I would love to know how to recreate it, for educational purposes ofcourse.",
+        "title": "How does one achieve this?",
+        "score": 15,
+        "id": "8m5jae",
+        "commsNum": 15,
+        "timeStamp": "2018/05/25-15:05:34",
+        "author_name": "b0zhidar",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 15,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8m5jae/how_does_one_achieve_this/"
+    },
+    "posts": {
+        "dzt67h4": {
+            "comment": "It's almost not really reversing. Almost.",
+            "timeStamp": "2018/05/29-23:55:27",
+            "id": "dzt67h4",
+            "is_submitter": false,
+            "link_id": "t3_8m5jae",
+            "parent_id": "t1_dzloo6y",
+            "score": 1,
+            "stickied": false,
+            "author_name": "gott_modus"
+        },
+        "dzlxhpd": {
+            "comment": "Tbh .net can be obfuscated very strongly so it\u2019s probably best to just catch the injection if it is a crypter like you say.\n\nYou mentioned injection into MsBuild. This is probably a hollowing attack. Hook CreateProcessInternalW -&gt; return to usercode -&gt; check if suspended -&gt; NtResumeThread -&gt; dump payload from memory.",
+            "timeStamp": "2018/05/26-06:34:25",
+            "id": "dzlxhpd",
+            "is_submitter": false,
+            "link_id": "t3_8m5jae",
+            "parent_id": "t3_8m5jae",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Hackers-are-bad"
+        },
+        "dzlrmcc": {
+            "comment": "Deobfuscation code of the sample can be obtained during executable state when it runs in main memory the encryption is not processed   at that time you can see the injection process to system kernel via assembly binary if you can understand ",
+            "timeStamp": "2018/05/26-03:31:12",
+            "id": "dzlrmcc",
+            "is_submitter": false,
+            "link_id": "t3_8m5jae",
+            "parent_id": "t3_8m5jae",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ragupal"
+        },
+        "dzloo6y": {
+            "comment": "I'd suggest you connect with the guys at /r/reverseengineering but be ready to get some negative comments, as .NET reversing is considered a newbie task. There are several good decompilers and other tools to get what you need :) ",
+            "timeStamp": "2018/05/26-01:26:40",
+            "id": "dzloo6y",
+            "is_submitter": false,
+            "link_id": "t3_8m5jae",
+            "parent_id": "t3_8m5jae",
+            "score": 3,
+            "stickied": false,
+            "author_name": "reijin"
+        },
+        "dzl55g2": {
+            "comment": "Potentially, yes. In a lot of cases, the embedded payload is encrypted, either with some homemade version (maybe some hardcoded xor key to avoid static detection) or with proper encryption. You can try to save it as a PE file, but if that does not work you'd have to search through the code in order to find the decryption function, which you'd then copy and execute for yourself with the given blob of data.",
+            "timeStamp": "2018/05/25-17:13:56",
+            "id": "dzl55g2",
+            "is_submitter": false,
+            "link_id": "t3_8m5jae",
+            "parent_id": "t1_dzkzmdq",
+            "score": 2,
+            "stickied": false,
+            "author_name": "ThisIsLibra"
+        },
+        "dzl42iy": {
+            "comment": "They are. Telerik JustDecompile should have no problem extracting the resource data.",
+            "timeStamp": "2018/05/25-16:52:16",
+            "id": "dzl42iy",
+            "is_submitter": false,
+            "link_id": "t3_8m5jae",
+            "parent_id": "t1_dzl0mbd",
+            "score": 1,
+            "stickied": false,
+            "author_name": "gsuberland"
+        },
+        "dzl3bn0": {
+            "comment": "I use graywolf, it works great for this stuff and easy to use. Can be hard to find so here is the link: https://www.digitalbodyguard.com/graywolf.html",
+            "timeStamp": "2018/05/25-16:37:41",
+            "id": "dzl3bn0",
+            "is_submitter": false,
+            "link_id": "t3_8m5jae",
+            "parent_id": "t3_8m5jae",
+            "score": 1,
+            "stickied": false,
+            "author_name": "INIT_6"
+        },
+        "dzl0mt1": {
+            "comment": "ILSpy should be able to save any .net resources as a binary blob",
+            "timeStamp": "2018/05/25-15:45:28",
+            "id": "dzl0mt1",
+            "is_submitter": false,
+            "link_id": "t3_8m5jae",
+            "parent_id": "t1_dzkzmdq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Avery3R"
+        },
+        "dzl0mbd": {
+            "comment": ".net resources are different than PE resources iirc",
+            "timeStamp": "2018/05/25-15:45:13",
+            "id": "dzl0mbd",
+            "is_submitter": false,
+            "link_id": "t3_8m5jae",
+            "parent_id": "t1_dzl03c9",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Avery3R"
+        },
+        "dzl0bq6": {
+            "comment": "Cool! :)",
+            "timeStamp": "2018/05/25-15:39:35",
+            "id": "dzl0bq6",
+            "is_submitter": false,
+            "link_id": "t3_8m5jae",
+            "parent_id": "t1_dzl00uk",
+            "score": 3,
+            "stickied": false,
+            "author_name": "permanentmarker"
+        },
+        "dzl03c9": {
+            "comment": "If you want to exact raw resources use CFF Explorer, great program.",
+            "timeStamp": "2018/05/25-15:35:15",
+            "id": "dzl03c9",
+            "is_submitter": false,
+            "link_id": "t3_8m5jae",
+            "parent_id": "t1_dzkzmdq",
+            "score": 2,
+            "stickied": false,
+            "author_name": "anonymous_dev"
+        },
+        "dzl00uk": {
+            "comment": "Yeah, embedded resources.",
+            "timeStamp": "2018/05/25-15:33:58",
+            "id": "dzl00uk",
+            "is_submitter": true,
+            "link_id": "t3_8m5jae",
+            "parent_id": "t1_dzkzz4s",
+            "score": 3,
+            "stickied": false,
+            "author_name": "b0zhidar"
+        },
+        "dzkzz4s": {
+            "comment": "In the resources? Not sure what you mean. Have you worked with .NET code before?",
+            "timeStamp": "2018/05/25-15:33:03",
+            "id": "dzkzz4s",
+            "is_submitter": false,
+            "link_id": "t3_8m5jae",
+            "parent_id": "t1_dzkzmdq",
+            "score": 3,
+            "stickied": false,
+            "author_name": "permanentmarker"
+        },
+        "dzkzmdq": {
+            "comment": "It seems like a legit program but there is stored bytes in the resources which I suspect is the actual payload. Can I save them and rewrite them as an exe file?",
+            "timeStamp": "2018/05/25-15:26:19",
+            "id": "dzkzmdq",
+            "is_submitter": true,
+            "link_id": "t3_8m5jae",
+            "parent_id": "t1_dzkzjbr",
+            "score": 3,
+            "stickied": false,
+            "author_name": "b0zhidar"
+        },
+        "dzkzjbr": {
+            "comment": "Can't you use IL Spy or something similar to decompile compiled C# code?",
+            "timeStamp": "2018/05/25-15:24:47",
+            "id": "dzkzjbr",
+            "is_submitter": false,
+            "link_id": "t3_8m5jae",
+            "parent_id": "t3_8m5jae",
+            "score": 9,
+            "stickied": false,
+            "author_name": "permanentmarker"
+        }
+    }
+}

@@ -1,0 +1,143 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi. I have a WordPress honey pot. In that honey pot, I emulate WSO (web shell by oRb) web shells. Using that emulated WSO web shell, I caught some odd PHP that renames a lot of malware, or malware-infected PHP files to \"name.php.suspected\".\n\n[https://github.com/bediger4000/php-malware-analysis/tree/master/vigilante\\_suspected](https://github.com/bediger4000/php-malware-analysis/tree/master/vigilante_suspected)\n\n&amp;#x200B;\n\nThis malware actually leaves WSO shells it finds alone, adding only an extra cookie check. The cookie is based on the host name in the URL of the WSO shell that eval's the malware. I think this has been in operation since maybe mid-2015. The authors regularly update the code that finds malware files to rename.",
+        "title": "PHP malware that creates \".php.suspected\" files",
+        "score": 17,
+        "id": "cgt6ku",
+        "commsNum": 11,
+        "timeStamp": "2019/07/23-07:18:35",
+        "author_name": "bediger4000",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 11,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/cgt6ku/php_malware_that_creates_phpsuspected_files/"
+    },
+    "posts": {
+        "euvteie": {
+            "comment": "I think his 2nd follow up proves you wrong, but thank you for pointing out that I was too abrupt, and assumed too much. Apparently I need even more lessons in humility.",
+            "timeStamp": "2019/07/25-07:36:20",
+            "id": "euvteie",
+            "is_submitter": true,
+            "link_id": "t3_cgt6ku",
+            "parent_id": "t1_euof1i4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "bediger4000"
+        },
+        "eut4y7q": {
+            "comment": "Unfortunately, I do not run ClamAV or any other AV: this is from a WordPress honey pot, a fake WordPress that acts just enough like a real WordPress installation that automated malware downloaders are fooled. I assure you that I am in complete control over the machine in question, it runs Linux, and I do NOT run any kind of anti-virus. I based my analysis on deobfuscating and understanding the PHP downloaded to my honey pot. Nothing actually executed. No files were actually renamed, merely *if* this malware had executed, it might have renamed some files.\n\nThe honey pot includes a WSO web shell emulator. This PHP was downloaded via the WSO emulator. So, to recap, I analyzed PHP source code downloaded to my machine. It did not execute. There is no anti-virus. The PHP downloaded to my machine would have examined every file under DocumentRoot, with a variety of PHP functions. For files that the PHP functions deemed to constitute malware, the \"cleanup\" function would execute, and if it had executed (it did not) it would add a \".suspected\" suffix to the file name. I know this is the behavior of an antivirus. This is not an antivirus. It is malware. It treats a few files, ones that contain Web Shell by oRb source code, differently. Those files get a line or two of PHP added to them:\n\n    if (!isset($_COOKIE['227e948fdbaaeccbbb7b3f42fbe848e8'])) {header('HTTP/1.0 404 Not Found');exit;}\n\nThe name of  the cookie is calculated based on the host name in the URL of the WSO web shell that runs this malware.\n\nThis means that the PHP malware that (mostly) creates files with \".suspected\" suffixes, actually leaves WSO web shell in place, probably with a \".php\" suffix so that it can still execute. However! You still have to have a special cookie when accessessing the WSO instances. So this is not entirely analogous to anti-virus. It would be as if the anti-virus left a few suspicious files around for the companies' use later.\n\nIn fact, quite a few HTTP request made of my honey pot have a cookie named as per above. That is, the people who run this malware probably use the WSO instances they find themselves, while keeping out every other cybercriminal that doesn't know the cookie.\n\nBecause this is downloaded to a WSO web shell, and would ordinarily be immediately executed by that web shell, it's malware that's not often caught or analyzed. Its existence explains a lot of the reports of mysterious \".suspected\" suffixes on machines that don't (that is DO NOT) run an antivirus. Those machines are compromised, have a WSO instance, and these attackers send PHP to the WSO instance that renames files so that they have the entire compromised machine to themselves.",
+            "timeStamp": "2019/07/24-18:59:11",
+            "id": "eut4y7q",
+            "is_submitter": true,
+            "link_id": "t3_cgt6ku",
+            "parent_id": "t1_euqcisi",
+            "score": 1,
+            "stickied": false,
+            "author_name": "bediger4000"
+        },
+        "euqcisi": {
+            "comment": ". suspected is the standard rename for clamav I think, if that helps",
+            "timeStamp": "2019/07/24-06:39:44",
+            "id": "euqcisi",
+            "is_submitter": false,
+            "link_id": "t3_cgt6ku",
+            "parent_id": "t1_euq6x2w",
+            "score": 1,
+            "stickied": false,
+            "author_name": "pointyball"
+        },
+        "euq6x2w": {
+            "comment": "I apologize for my abrupt reply earlier. I completely misinterpreted what you wrote. Yes, that's what it looks like is taking place.\n\nI have an instance of the renaming code from 2015, so they've been at this a while. You can google for \".php.suspected\" to find some web sites that have been victimized. They all appear to have multiple malware compromises.\n\nThe people doing this change what they look for, and what they rename. They also get feedback, counts of what signatures the cleanup malware found, so they can improve and try new signatures. It seems very organized.",
+            "timeStamp": "2019/07/24-05:43:04",
+            "id": "euq6x2w",
+            "is_submitter": true,
+            "link_id": "t3_cgt6ku",
+            "parent_id": "t1_eukzi88",
+            "score": 1,
+            "stickied": false,
+            "author_name": "bediger4000"
+        },
+        "euq6cf6": {
+            "comment": "I'm not a superhackerman either. Yes, it appears that the PHP that got sent to me does rename other PHP files that it thinks are malware.  Except for WSO web shells. Those, it adds code to check for a special cookie before executing further. My honey pot has caught quite a few attempted downloads with that special cookie, too.",
+            "timeStamp": "2019/07/24-05:37:02",
+            "id": "euq6cf6",
+            "is_submitter": true,
+            "link_id": "t3_cgt6ku",
+            "parent_id": "t1_euof1i4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "bediger4000"
+        },
+        "eup6cfv": {
+            "comment": "Pretty much. I wasn't making a value judgement how it was happening, just that .suspected is the default extension used when some anti-malware tools are run.\n\nSo if it's not the host system running an av, the virus itself is emulating that behavior either to scan and remove other malware, or -\n\nPotentially it might be trying to fool users by changing . suspected to be php executable, but OP didn't mention any of that.\n\nSo yeah. \nI hope he has better luck with his Honeypot than being polite to people who are giving him free advice he asked for on a form",
+            "timeStamp": "2019/07/24-00:09:57",
+            "id": "eup6cfv",
+            "is_submitter": false,
+            "link_id": "t3_cgt6ku",
+            "parent_id": "t1_euof1i4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "pointyball"
+        },
+        "euous7r": {
+            "comment": "\u201cI want to mine internet coin illegaly on other people's devices, but I don't want other people to mine illegaly on my illegal mining rig\u201e\n\n-hackermans elite",
+            "timeStamp": "2019/07/23-22:46:34",
+            "id": "euous7r",
+            "is_submitter": false,
+            "link_id": "t3_cgt6ku",
+            "parent_id": "t1_euoqsd8",
+            "score": 5,
+            "stickied": false,
+            "author_name": "Zistance"
+        },
+        "euoqsd8": {
+            "comment": "This sounds correct. I have seen crypto-mining malware that tries to find and uninstall all other cryptominers, so that it does not have to share resources. Maybe that's what happening here.",
+            "timeStamp": "2019/07/23-22:19:07",
+            "id": "euoqsd8",
+            "is_submitter": false,
+            "link_id": "t3_cgt6ku",
+            "parent_id": "t1_euof1i4",
+            "score": 5,
+            "stickied": false,
+            "author_name": "pitikay"
+        },
+        "euof1i4": {
+            "comment": "What I think he is saying is that the malware itself is an antivirus malware that patches or at least tries to? Kind of like what Max Butler did patching a exploit in millions of machines. But that's just my guess. But I am not a super hackerman so take everything I say with a grain of salt.",
+            "timeStamp": "2019/07/23-21:01:55",
+            "id": "euof1i4",
+            "is_submitter": false,
+            "link_id": "t3_cgt6ku",
+            "parent_id": "t1_eunjlrb",
+            "score": 6,
+            "stickied": false,
+            "author_name": "Zistance"
+        },
+        "eunjlrb": {
+            "comment": "Please pay attention.\n\n1. I run a WordPress honey pot, not WordPress itself. None of my files got a \".suspected\" suffix.\n2. The honey pot includes a \"Web Shell by oRb\" emulator.\n3. The code I've analyzed got sent to the WSO emulator.\n4. I'm not running an anti-virus. I have a Linux server. They're not 100% immune, but if you take care of them, they're not likely to get compromised.\n5. I have the source code of this PHP malware. I have a number of copies, one from 2015. I didn't get compromised, the attackers got fooled into downloading their code for me to look at.",
+            "timeStamp": "2019/07/23-17:53:41",
+            "id": "eunjlrb",
+            "is_submitter": true,
+            "link_id": "t3_cgt6ku",
+            "parent_id": "t1_eukzi88",
+            "score": -6,
+            "stickied": false,
+            "author_name": "bediger4000"
+        },
+        "eukzi88": {
+            "comment": ".. that's an antivirus.\nYou are being infected, and the AV is renaming the files in an attempt to make them unexecutable",
+            "timeStamp": "2019/07/23-08:17:40",
+            "id": "eukzi88",
+            "is_submitter": false,
+            "link_id": "t3_cgt6ku",
+            "parent_id": "t3_cgt6ku",
+            "score": 7,
+            "stickied": false,
+            "author_name": "pointyball"
+        }
+    }
+}

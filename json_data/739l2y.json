@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Found this monero miner in a website. How common is this?",
+        "score": 79,
+        "id": "739l2y",
+        "commsNum": 30,
+        "timeStamp": "2017/09/29-11:05:36",
+        "author_name": "reactorcoolant",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 30,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://i.redd.it/rfqz2czt3voz.jpg"
+    },
+    "posts": {
+        "dnrrvh9": {
+            "comment": "VERY good question..\ntake how you block scripts...\nlook at this very page right here..\nhttps://i.imgur.com/LcbYKUm.png\nthis is how I block scripts.    \nThough it is with uMatrix and not uBlock Origin,   its made by the same guy and works the same way.\n\nit is 10x easier to allow 'all scripts' to get a page to run..\nor just allow one script from a site to run..\nI use an advanced setup where ubo blocks filter list ads, and umatrix handles everything else.  \n\nBUT.. if i were to let ubo block handle scripts and ads, as I advocate,  \nhttps://i.imgur.com/odB4IXI.png\nis such an example\nit shows the coinminer js...    its more nice and neat, easier to understand in a graph type setup..\nsimplicity.. and 'keeping everything run under one system'   is the main idea of why i dont advocate noscript... other than i dont like the graphic user setup,  it does work good, and it does its job.\n\n",
+            "timeStamp": "2017/10/01-13:33:04",
+            "id": "dnrrvh9",
+            "is_submitter": false,
+            "link_id": "t3_739l2y",
+            "parent_id": "t1_dnrqtba",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Zhangsun321"
+        },
+        "dnrqtba": {
+            "comment": "On a cursory read through of your google page, it looks like you are advocating for block all scripts and whitelist what you want.\n\nIsn't that just the same as using default NoScript, or is there some other advantage?\n\nLegit question btw, I'm not trying to be antagonistic.",
+            "timeStamp": "2017/10/01-13:14:09",
+            "id": "dnrqtba",
+            "is_submitter": false,
+            "link_id": "t3_739l2y",
+            "parent_id": "t1_dnouqz0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "port443"
+        }
+    }
+}

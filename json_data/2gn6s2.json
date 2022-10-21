@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "We found new malware, I called it Linux/GoARM.Bot\nIt was compiled by Go language for ARM6. Yes, it's made in China. A backdoor bot for DoS.\n\nSample:\nhttps://www.virustotal.com/en/file/81c9fcf4f8c8d08c9ad13b5973a039d2e21d73e5e424d94507fb035a47448834/analysis/\nhttps://www.virustotal.com/en/file/27d4a7989b9af86e9ebddb25cbfc9dfcf6800141f476d6a76041a3d8fb437115/analysis/\nhttps://www.virustotal.com/en/file/c665453c6d8dd3723b4f7505e61ee6d02e5100b7de547127e1f5d593b06a894c/analysis/\n\nAnalysis:\nhttp://www.kernelmode.info/forum/viewtopic.php?f=16&amp;t=3491",
+        "title": "Linux/GoARM.Bot",
+        "score": 2,
+        "id": "2gn6s2",
+        "commsNum": 0,
+        "timeStamp": "2014/09/17-01:42:31",
+        "author_name": "mmd0xFF",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2gn6s2/linuxgoarmbot/"
+    },
+    "posts": {}
+}

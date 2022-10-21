@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Dissecting the Triada Trojan with Radare",
+        "score": 5,
+        "id": "5e6fq3",
+        "commsNum": 0,
+        "timeStamp": "2016/11/21-12:49:25",
+        "author_name": "secaggr",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.nowsecure.com/blog/2016/11/21/android-malware-analysis-radare-triada-trojan/"
+    },
+    "posts": {}
+}

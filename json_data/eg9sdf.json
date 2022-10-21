@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": " Hello\n\nI have discovered people are getting spam notifications from Chrome on Android and its actually shown like its sent from my number. For the last three days I have started getting hundreds of phone calls on my business phone which is unbearable, telling me that I have sent them a voice message (please see the screenshot). Is there any way to get out of this without changing the phone number?\n\nThanks\n\nhttps://preview.redd.it/crzsd20wo5741.jpg?width=720&amp;format=pjpg&amp;auto=webp&amp;s=59edf68518a726461dc69630dbdf600c14568206",
+        "title": "Chrome Spam Notifications Have My Business Number",
+        "score": 1,
+        "id": "eg9sdf",
+        "commsNum": 4,
+        "timeStamp": "2019/12/27-02:50:44",
+        "author_name": "joelinoo",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/eg9sdf/chrome_spam_notifications_have_my_business_number/"
+    },
+    "posts": {
+        "fc9c2yx": {
+            "comment": "Yeah, it's a very unfortunate situation though /: hopefully changing the number fixes the problem. Kind of disturbing how it basically steals your number",
+            "timeStamp": "2019/12/28-08:26:00",
+            "id": "fc9c2yx",
+            "is_submitter": false,
+            "link_id": "t3_eg9sdf",
+            "parent_id": "t1_fc9bu7j",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Littlemissdaydreams"
+        },
+        "fc9bu7j": {
+            "comment": "It is other people getting the notifications and thinking it's from my work phone number. However it's a spam Notification from a website showing my number. And bunch of horny people thinking its a message so calling my work number everyday :-) I guess there is nothing to do except changing phone number.",
+            "timeStamp": "2019/12/28-08:24:13",
+            "id": "fc9bu7j",
+            "is_submitter": true,
+            "link_id": "t3_eg9sdf",
+            "parent_id": "t1_fc8uo7n",
+            "score": 1,
+            "stickied": false,
+            "author_name": "joelinoo"
+        },
+        "fc8uo7n": {
+            "comment": "I think changing the number is the only way to fix things. I've never seen anything like this to be completely honest, but if a scan doesn't work, then go with option one.",
+            "timeStamp": "2019/12/28-06:11:08",
+            "id": "fc8uo7n",
+            "is_submitter": false,
+            "link_id": "t3_eg9sdf",
+            "parent_id": "t3_eg9sdf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Littlemissdaydreams"
+        },
+        "fc578kf": {
+            "comment": "The only thing you can do is to change phone number.",
+            "timeStamp": "2019/12/27-03:39:59",
+            "id": "fc578kf",
+            "is_submitter": false,
+            "link_id": "t3_eg9sdf",
+            "parent_id": "t3_eg9sdf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "EndangeredPootis"
+        }
+    }
+}

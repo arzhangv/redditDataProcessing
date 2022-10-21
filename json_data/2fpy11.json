@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Nuclear Exploit Kit and Flash CVE-2014-0515",
+        "score": 12,
+        "id": "2fpy11",
+        "commsNum": 2,
+        "timeStamp": "2014/09/07-07:35:55",
+        "author_name": "Horgh",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://research.zscaler.com/2014/09/nuclear-exploit-kit-and-flash-cve-2014.html"
+    },
+    "posts": {}
+}

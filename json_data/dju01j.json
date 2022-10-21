@@ -1,0 +1,110 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I've been a long-time viewer of [/r/malware](https://www.reddit.com/r/malware), and I have observed that some members of this subreddit, myself included, have a difficult time finding malware samples to analyze... so I built a tool where people can search for malware by name, Yara rules, and a few other properties, and I thought members of this subreddit might appreciate it.\n\nYou can read about it and download it using the links below:\n\nAbout: [https://www.practicalsecurityanalytics.com/malware-analysis-center/about/](https://www.practicalsecurityanalytics.com/malware-analysis-center/about/) \n\nTutorials:  [https://practicalsecurityanalytics.com/category/tutorials/](https://practicalsecurityanalytics.com/category/tutorials/) \n\nDownload:  [https://practicalsecurityanalytics.com/malware-analysis-center/downloads/](https://practicalsecurityanalytics.com/malware-analysis-center/downloads/) \n\nPlease let me know what you think.",
+        "title": "Malware Analysis Center - A free tool for finding and sharing malware",
+        "score": 62,
+        "id": "dju01j",
+        "commsNum": 8,
+        "timeStamp": "2019/10/18-14:17:02",
+        "author_name": "FusionCarcass",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 8,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/dju01j/malware_analysis_center_a_free_tool_for_finding/"
+    },
+    "posts": {
+        "f96fvnk": {
+            "comment": "Can you send me a screenshot of the application after you login and send me a copy of the error log located in the directory below to my email at [admin@practicalsecurityanalytics.com](mailto:admin@practicalsecurityanalytics.com):\n\nC:\\\\Users\\\\&lt;username&gt;\\\\Malware Analysis Center\\\\logs\\\\errors.csv",
+            "timeStamp": "2019/11/30-12:07:54",
+            "id": "f96fvnk",
+            "is_submitter": true,
+            "link_id": "t3_dju01j",
+            "parent_id": "t1_f95zzg1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "FusionCarcass"
+        },
+        "f95zzg1": {
+            "comment": "I got it installed on my machine, requested for a user account and have received the email for the login credentials but once I login I can't seem to get the malware repository to load in order to search for the samples. I've installed the latest updates and I have ROLE\\_MALWAREREPOSITORY\\_USER, ROLE\\_MALWAREREPOSITORY\\_NO\\_LIMIT, and USER roles.\n\nI have also tried running the program as Administrator and that didn't work. Any help would be appreciated, thanks.",
+            "timeStamp": "2019/11/30-10:15:54",
+            "id": "f95zzg1",
+            "is_submitter": false,
+            "link_id": "t3_dju01j",
+            "parent_id": "t3_dju01j",
+            "score": 1,
+            "stickied": false,
+            "author_name": "dkaye_mal_anst18"
+        },
+        "f5pbxag": {
+            "comment": "[removed]",
+            "timeStamp": "2019/10/29-06:23:15",
+            "id": "f5pbxag",
+            "is_submitter": false,
+            "link_id": "t3_dju01j",
+            "parent_id": "t3_dju01j",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "f4amc0m": {
+            "comment": "Thank\nYou!",
+            "timeStamp": "2019/10/19-08:04:57",
+            "id": "f4amc0m",
+            "is_submitter": false,
+            "link_id": "t3_dju01j",
+            "parent_id": "t3_dju01j",
+            "score": 1,
+            "stickied": false,
+            "author_name": "PopularCriticism"
+        },
+        "f49oynx": {
+            "comment": "[removed]",
+            "timeStamp": "2019/10/19-02:36:16",
+            "id": "f49oynx",
+            "is_submitter": false,
+            "link_id": "t3_dju01j",
+            "parent_id": "t3_dju01j",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "f48o1as": {
+            "comment": "This looks pretty neat! \nGreat for sharing and giving back to the community \ud83d\ude4f :)\nI've sent you an email.",
+            "timeStamp": "2019/10/18-17:14:05",
+            "id": "f48o1as",
+            "is_submitter": false,
+            "link_id": "t3_dju01j",
+            "parent_id": "t3_dju01j",
+            "score": 1,
+            "stickied": false,
+            "author_name": "shaigb"
+        },
+        "f48ltoa": {
+            "comment": "This is pretty cool. Thank you !",
+            "timeStamp": "2019/10/18-16:45:02",
+            "id": "f48ltoa",
+            "is_submitter": false,
+            "link_id": "t3_dju01j",
+            "parent_id": "t3_dju01j",
+            "score": 1,
+            "stickied": false,
+            "author_name": "_W0z"
+        },
+        "f48dqxw": {
+            "comment": "[removed]",
+            "timeStamp": "2019/10/18-15:15:05",
+            "id": "f48dqxw",
+            "is_submitter": false,
+            "link_id": "t3_dju01j",
+            "parent_id": "t3_dju01j",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

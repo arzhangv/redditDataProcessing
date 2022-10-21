@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hello \n\nI have setup cuckoo sandbox and already analyzing some malware\n\nthe problem is im having a difficult time trying to understand the json report . could anyone please help me understand the following :  UDP, procmemory, dns\\_servers , http , icmp, domains ,apistats ,processtree \n\njust a brief of what they are please\n\nthank you in advance\n\nhttps://preview.redd.it/4nhypv7evyr81.png?width=1876&amp;format=png&amp;auto=webp&amp;s=2a04816fa39d5da7dfb57a0a696384b488e2c7b1",
+        "title": "Understanding cuckoo sandbox json report",
+        "score": 1,
+        "id": "txv7hl",
+        "commsNum": 0,
+        "timeStamp": "2022/04/06-13:18:26",
+        "author_name": "rayudy",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/txv7hl/understanding_cuckoo_sandbox_json_report/"
+    },
+    "posts": {
+        "i477jjn": {
+            "comment": "indeed",
+            "timeStamp": "2022/04/10-12:19:21",
+            "id": "i477jjn",
+            "is_submitter": true,
+            "link_id": "t3_txv7hl",
+            "parent_id": "t1_i3s11wl",
+            "score": 1,
+            "stickied": false,
+            "author_name": "rayudy"
+        },
+        "i477iib": {
+            "comment": "Thank you very much! this is a great help !",
+            "timeStamp": "2022/04/10-12:19:09",
+            "id": "i477iib",
+            "is_submitter": true,
+            "link_id": "t3_txv7hl",
+            "parent_id": "t1_i3ovini",
+            "score": 1,
+            "stickied": false,
+            "author_name": "rayudy"
+        },
+        "i3s11wl": {
+            "comment": "Good guy answer.",
+            "timeStamp": "2022/04/07-09:14:11",
+            "id": "i3s11wl",
+            "is_submitter": false,
+            "link_id": "t3_txv7hl",
+            "parent_id": "t1_i3ovini",
+            "score": 1,
+            "stickied": false,
+            "author_name": "maldorort"
+        },
+        "i3ovini": {
+            "comment": "The JSON simply contains a summary of artefacts and behavior indicators that had been recorded while your malware sample detonated. Don't get me wrong - but you maybe want to take a step back and check out some of the basics. This page provides a ton of resources for any skill level: [https://github.com/rshipp/awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis)\n\nRegarding Cuckoo, this blog will give you an idea of what you are looking at: [https://www.trustedsec.com/blog/malware-cuckoo-1/](https://www.trustedsec.com/blog/malware-cuckoo-1/)",
+            "timeStamp": "2022/04/06-15:50:37",
+            "id": "i3ovini",
+            "is_submitter": false,
+            "link_id": "t3_txv7hl",
+            "parent_id": "t3_txv7hl",
+            "score": 1,
+            "stickied": false,
+            "author_name": "vornamemitd"
+        }
+    }
+}

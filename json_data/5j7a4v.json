@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hey, recently i had to debug/reverse an ELF file. Ended up doing it using remote debugging in IDA. although it worked pretty good, the setup process is kinda tedious and long. Is there any 'native' debugger like ida for linux? gdb is lacking the interface which is much needed. Tried DDD once, but that was when i had the source code. And it was also sub-optimal.\nWondered what you guys are using.\nedit:\niv'e seen in the sidebar the linuxmalware subreddit, but i can't post there :(",
+        "title": "live debugging / reversing for elf files?",
+        "score": 5,
+        "id": "5j7a4v",
+        "commsNum": 2,
+        "timeStamp": "2016/12/19-08:29:26",
+        "author_name": "TEST_MY_THINGIES",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5j7a4v/live_debugging_reversing_for_elf_files/"
+    },
+    "posts": {}
+}

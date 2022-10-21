@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": " Hi everyone\n\nI'm currently in my last year studying as Cyber Security Professional.  \nFor my bachelor thesis, I'm looking for businesses, big and small, who've felt victim to a ransomware attack. It does not matter how big the attack was.\n\nIf you know a business, or you are part of that business, please leave a comment with the name of the company.\n\nThank you in advance",
+        "title": "Bachelor thesis ransomware",
+        "score": 1,
+        "id": "svfele",
+        "commsNum": 4,
+        "timeStamp": "2022/02/18-03:07:38",
+        "author_name": "AJlVA",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/svfele/bachelor_thesis_ransomware/"
+    },
+    "posts": {
+        "hxghbc8": {
+            "comment": "are you trying to crowdsource your thesis",
+            "timeStamp": "2022/02/18-07:43:50",
+            "id": "hxghbc8",
+            "is_submitter": false,
+            "link_id": "t3_svfele",
+            "parent_id": "t3_svfele",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Krombuchar2"
+        },
+        "hxg5bzw": {
+            "comment": "I would also caveat your research that many of these companies are not going to talk to you for a research topic. They\u2019ve already gotten egg on their face once (if not multiple) from the event. They\u2019ve hired lawyers to protect them from litigation based on the event. Or had invoked their cyber insurance. \n\nWhat would be a better candidate would be to interview researchers and those within MSPs who can talk much more generically. You can then formulate what they provide and what you research uncovers to potentially provide what a breach looked like.",
+            "timeStamp": "2022/02/18-06:20:09",
+            "id": "hxg5bzw",
+            "is_submitter": false,
+            "link_id": "t3_svfele",
+            "parent_id": "t3_svfele",
+            "score": 8,
+            "stickied": false,
+            "author_name": "bigt252002"
+        },
+        "hxfsptg": {
+            "comment": "Post in /r/sysadmin or r/MSP and you\u2019ll probably find a bunch.",
+            "timeStamp": "2022/02/18-04:32:47",
+            "id": "hxfsptg",
+            "is_submitter": false,
+            "link_id": "t3_svfele",
+            "parent_id": "t3_svfele",
+            "score": 2,
+            "stickied": false,
+            "author_name": "xander255"
+        },
+        "hxfr2ym": {
+            "comment": "I think it will help you a lot to write what you need from these companies, everyone here knows companies that got hit, not so hard to find with a quick Google/DuckDuckGo search..",
+            "timeStamp": "2022/02/18-04:15:58",
+            "id": "hxfr2ym",
+            "is_submitter": false,
+            "link_id": "t3_svfele",
+            "parent_id": "t3_svfele",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Nesher86"
+        }
+    }
+}

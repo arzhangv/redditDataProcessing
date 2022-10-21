@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "[deleted]",
+        "title": "Another RDP brute force ransomware strikes again, this time, Snatch Team! Snatch Team was able to go from brute forcing a Domain Administrator (DA) account via RDP, to encrypting all Domain joined systems in less than 5 hours.",
+        "score": 1,
+        "id": "hdgvc6",
+        "commsNum": 0,
+        "timeStamp": "2020/06/21-16:26:19",
+        "author_name": "[deleted]",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://thedfirreport.com/2020/06/21/snatch-ransomware/"
+    },
+    "posts": {}
+}

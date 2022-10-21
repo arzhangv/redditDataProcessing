@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Ransomware Infection chain (Excel 4.0 Macro, hta, VBScript &amp; PowerShell) Analysis",
+        "score": 1,
+        "id": "j6pdvw",
+        "commsNum": 0,
+        "timeStamp": "2020/10/07-04:49:17",
+        "author_name": "securityinbits",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.securityinbits.com/malware-analysis/excel-4-0-macro-hta-vbscript-powershell-analysis-ataware-ransomware-part-1/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Offensive threat modeling &amp; IOC-proof ID generation",
+        "score": 1,
+        "id": "fk5xa1",
+        "commsNum": 0,
+        "timeStamp": "2020/03/17-07:13:06",
+        "author_name": "agyild",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://agyild.writeas.com/offensive-threat-modeling-and-ioc-proof-id-generation"
+    },
+    "posts": {}
+}

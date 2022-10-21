@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Most of the malwares steals the financial data by hooking to browser APIs like PR_Read, PR_write e.t.c.. Also I see some malware like Sinowal uses browser extensions along with these API hooks. I believe user request or response from web server can be modified by just hooking APIs like PR_read, PR_write e.t.c.  Then why these malwares employs browser extensions too? Any thoughts? Thanks in Advance.",
+        "title": "Why malicious browser extensions along with API hooking",
+        "score": 7,
+        "id": "38e4hi",
+        "commsNum": 2,
+        "timeStamp": "2015/06/03-09:51:05",
+        "author_name": "ohm-",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/38e4hi/why_malicious_browser_extensions_along_with_api/"
+    },
+    "posts": {}
+}

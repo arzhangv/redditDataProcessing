@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Because I am in a private school I don't have the ability to just download malware and test it. However, for an essay in computer science we have to investigate different types of scans. In order to do this I would like to test heuristic detection against signature detection, testing for time taken for a scan, amount of files detected, etc. Could anyone collect some data for me as I do not have the resources to do so? Thank you in advance",
+        "title": "Need help from someone with access to malware samples and a security suite",
+        "score": 4,
+        "id": "3l0ved",
+        "commsNum": 9,
+        "timeStamp": "2015/09/15-02:48:29",
+        "author_name": "keswEE",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 9,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/3l0ved/need_help_from_someone_with_access_to_malware/"
+    },
+    "posts": {}
+}

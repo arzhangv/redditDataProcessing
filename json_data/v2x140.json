@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Windows security suddenly detected this malware today from my file from years ago\n\nHow does this malware really work? I never seen it doing any nasty stuff in my browser and Microsoft info page doesn't detailed anything about it. Should I quarantine the file (a PDF) or just leave it as is? I don't know how a PDF can harm my computer, neither my browser.",
+        "title": "BrowserModifier:Win32/Obrypser",
+        "score": 1,
+        "id": "v2x140",
+        "commsNum": 0,
+        "timeStamp": "2022/06/01-18:15:55",
+        "author_name": "WildNumber7303",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/v2x140/browsermodifierwin32obrypser/"
+    },
+    "posts": {
+        "ib1gdya": {
+            "comment": "Microsoft security already removed the file",
+            "timeStamp": "2022/06/03-07:25:24",
+            "id": "ib1gdya",
+            "is_submitter": true,
+            "link_id": "t3_v2x140",
+            "parent_id": "t1_iaxfms3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "WildNumber7303"
+        },
+        "iaxfms3": {
+            "comment": "Upload the file to virustotal.com and share the link",
+            "timeStamp": "2022/06/02-09:28:15",
+            "id": "iaxfms3",
+            "is_submitter": false,
+            "link_id": "t3_v2x140",
+            "parent_id": "t3_v2x140",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Trolling_turd"
+        },
+        "iav9zz5": {
+            "comment": "A PDF in and of itself might contain additional interactive code that could execute upon opening in a reader application, but if the file is simply sitting on disk it isn't likely do much harm.\n\nThere aren't many results for malware detected with that precise signature, but the \"BrowserModifier\" class as a whole looks to be associated with browser adware/unwanted browser extension installations. \n\nIt would be smarter to remove the file, especially if it's not a file you created yourself &amp; you don't need the information in it. You could also look into some of the free scanners on BleepingComputer or something for a tool to check if it dropped files elsewhere on the system.",
+            "timeStamp": "2022/06/01-19:59:11",
+            "id": "iav9zz5",
+            "is_submitter": false,
+            "link_id": "t3_v2x140",
+            "parent_id": "t3_v2x140",
+            "score": 1,
+            "stickied": false,
+            "author_name": "pondelf"
+        }
+    }
+}

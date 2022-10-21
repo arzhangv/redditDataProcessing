@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I'm not sure if this is the right thread but I figured I'd start somewhere. I was brought into a local law firm to help pick up the pieces their last IT provider left us. They claim they're not interested in pursuing this (I recommended a forensic analyst but they just want to clean up the mess). Long story short, I've moved them to 365, however I still have their server running and a user named \"SYSTEM_USER\" keeps logging in, installing winpcap &amp; python every couple days. I've found some of their folders and batch files that I'd deleted and they've returned. I'm not really worried about getting them off the server, I can rebuild later but what I'm curious about is what these batch files are doing.\n\nHere's one batch file:\n        \n    ms --rate 8000 -Pn -p T:8443,2223,2222,4158,5555,443,8080,48080,9999 --randomize-hosts --open -iL list.txt -oX log24.xml\n\nI'm not sure what the ms file does, it's ms.exe (I've uploaded it to virus total) results here: https://www.virustotal.com/en/file/3256989ea4aa20592339b8491cfa0b522327c2e347cee62a24374a9296fe4c60/analysis/\n\nThen there's a few log files that look like there is a list of IP addresses, one with what looks like ip address ranges, a log xml file...\n\nAny ideas what the batch file is doing and what the purpose of all this is? I'm more curious than anything. \n\nI did call the last it guy and asked if they used python for anything and he said no. I've just been keeping an eye on any installed software as well as those directories that they were storing these files (I deleted them). I've also disabled all the sql services, remote services, term services and iis (a few others too). Basically I just wanted to keep this server up until I've recovered their Exchange mailboxes (almost done with that). \n\nAny ideas? Thanks!",
+        "title": "Hacked SBS 2k8 Server",
+        "score": 16,
+        "id": "3sq7d4",
+        "commsNum": 20,
+        "timeStamp": "2015/11/13-16:33:04",
+        "author_name": "Uf-Dah",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 20,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/3sq7d4/hacked_sbs_2k8_server/"
+    },
+    "posts": {}
+}

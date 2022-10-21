@@ -1,0 +1,121 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I wanna learn to code malware people keep saying c++, c#, HolyC. Someone please give me a proper answer. Thanks",
+        "title": "What language is malware usually coded in",
+        "score": 1,
+        "id": "kiohgu",
+        "commsNum": 9,
+        "timeStamp": "2020/12/22-23:15:43",
+        "author_name": "chrisisaac69",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 9,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/kiohgu/what_language_is_malware_usually_coded_in/"
+    },
+    "posts": {
+        "ghqsbaw": {
+            "comment": "[removed]",
+            "timeStamp": "2021/01/01-10:38:27",
+            "id": "ghqsbaw",
+            "is_submitter": false,
+            "link_id": "t3_kiohgu",
+            "parent_id": "t3_kiohgu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ghli5qj": {
+            "comment": "The term \u201cmalware\u201d is a shortening and joining of the two words \u201cmalicious\u201d and \u201csoftware\u201d and indicates that it is software that has been deliberately designed to cause damage, commit crimes or disrupt the normal functioning of a system. [https://rocket.net/blog/malware-and-wordpress-keeping-it-clean/](https://rocket.net/blog/malware-and-wordpress-keeping-it-clean/) This article provides a great description of Malware.",
+            "timeStamp": "2020/12/31-03:10:13",
+            "id": "ghli5qj",
+            "is_submitter": false,
+            "link_id": "t3_kiohgu",
+            "parent_id": "t3_kiohgu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Bloggerneo"
+        },
+        "gh92aul": {
+            "comment": "It depends on what type of malware you want to focus on analyzing. The majority of windows computer malware is written in C / C++, so learning to code in C will give you the foundation for 60% of final malware implants. Often the infection vectors are maldocs using obfuscated VBA macro's and powershell, so those languages will help you understand the first stage malware. .Net also makes up a good percentage and is good to learn. Finally, there's more niche languages like java for android malware or golang for some newer niche malware.\n\nIf you want a little more detailed information about what programming languages you should learn to advance your malware analysis skills, here's an article talking just about that. [https://agdcservices.com/blog/resources-for-learning-malware-analysis/](https://agdcservices.com/blog/resources-for-learning-malware-analysis/)",
+            "timeStamp": "2020/12/27-18:55:56",
+            "id": "gh92aul",
+            "is_submitter": false,
+            "link_id": "t3_kiohgu",
+            "parent_id": "t3_kiohgu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AGDCservices"
+        },
+        "ggu9hfx": {
+            "comment": "[removed]",
+            "timeStamp": "2020/12/23-14:28:34",
+            "id": "ggu9hfx",
+            "is_submitter": false,
+            "link_id": "t3_kiohgu",
+            "parent_id": "t3_kiohgu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ggt2m9z": {
+            "comment": "[removed]",
+            "timeStamp": "2020/12/23-08:10:13",
+            "id": "ggt2m9z",
+            "is_submitter": false,
+            "link_id": "t3_kiohgu",
+            "parent_id": "t3_kiohgu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ggsv7en": {
+            "comment": "As the others mentioned, Malware encompasses a lot. It's \"malicious software\", by definition. Any coding language you can write a program in, you can create malware in. It depends on what sort of malware you're writing, what you're targeting, and what you want to do with it. \n\nDon't think of malware as completely separate from \"normal\" programs. Likewise, don't think of coding malware as different from normal coding. Both ways, you're building a program. In many ways, the same functions that many programs we use in our day to day lives have, are also used by malware. \n\nYour targets (which better be PROOF OF CONCEPT targets), and the behavior of the malware should be your guidance to find the required languages necessary. As well as your own skill level. As your skills in programming grow, so will your understanding for finding which languages to learn and use, and when. \n\nPick a language and learn it. Be it writing useful little programs, or only aiming to write malware, you will learn what you need to know. I would suggest one of the C languages as those seem very popular, both with programmers in general, and malware authors. \n\nFor more examples of malware coded in two or more languages, read up on Stuxnet. It was coded in multiple languages including C, C++ and several other object oriented languages. That was kind of unusual, as per my understanding, but there must've been some good reasons. \n\n**DISCLAIMER:** Finally, don't be a tool. Write malware an an exercise. As a POC. To show yourself and your security buddies you can write it just for fun. Don't try to use it to attack someone. To abuse anybody. To steal anything. The information given here in this sub is to teach you how malware works so you can learn about it, and use that knowledge to defend people. If you find the right job, you may be able to get paid to write malware legally and use it for good! Or at least, for whatever government hires you to do so. Otherwise, keep it in the test lab.",
+            "timeStamp": "2020/12/23-07:01:02",
+            "id": "ggsv7en",
+            "is_submitter": false,
+            "link_id": "t3_kiohgu",
+            "parent_id": "t3_kiohgu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Sam-Gunn"
+        },
+        "ggsirlh": {
+            "comment": "Well you can code malware in about any language, but C / C++ is the best, because it is low level and works seamlessly with Assembler.",
+            "timeStamp": "2020/12/23-04:35:32",
+            "id": "ggsirlh",
+            "is_submitter": false,
+            "link_id": "t3_kiohgu",
+            "parent_id": "t3_kiohgu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MissPiggyWasABadPig"
+        },
+        "ggs4hw5": {
+            "comment": "malware isnt one thing. As with many things in this area you need to know more than one. You'll need knowledge of ASM and C for exploit code. If you're going to interact with other files you may need to know the language they are coded in. Installers and other management programs may be written in C++ if they are for windows. If it's for linux IDK. Some malware may have elements written in Ruby or other languages.",
+            "timeStamp": "2020/12/23-00:27:23",
+            "id": "ggs4hw5",
+            "is_submitter": false,
+            "link_id": "t3_kiohgu",
+            "parent_id": "t3_kiohgu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sephstorm"
+        },
+        "ggs0p25": {
+            "comment": "Tbh, it can be a lot of things. But a lot of malware is written in pure C, using Windows API to do shady things. But malware is too big of a term to hold to a certain language.\n\nWrite a keylogger in C, that should be a good first step.",
+            "timeStamp": "2020/12/22-23:26:09",
+            "id": "ggs0p25",
+            "is_submitter": false,
+            "link_id": "t3_kiohgu",
+            "parent_id": "t3_kiohgu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "project21124"
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "A malicious Google Chrome extension cost one user $16,000",
+        "score": 11,
+        "id": "ejdxtb",
+        "commsNum": 5,
+        "timeStamp": "2020/01/03-03:00:02",
+        "author_name": "Tennis3765",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://decrypt.co/15803/a-malicious-google-chrome-extension-cost-one-user-16000?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=sm"
+    },
+    "posts": {
+        "fcx9ukh": {
+            "comment": "It's 2020 and we don't have sandboxes for browser addons/extensions :-(",
+            "timeStamp": "2020/01/03-05:06:00",
+            "id": "fcx9ukh",
+            "is_submitter": false,
+            "link_id": "t3_ejdxtb",
+            "parent_id": "t3_ejdxtb",
+            "score": 2,
+            "stickied": false,
+            "author_name": "paul_h"
+        },
+        "fcx76ze": {
+            "comment": "That follows the same logic of \"we are better off letting people die of disease because they are weak\". Everyone is different and has a different circumstance, so we are all better off just trying to help one another.",
+            "timeStamp": "2020/01/03-04:20:22",
+            "id": "fcx76ze",
+            "is_submitter": false,
+            "link_id": "t3_ejdxtb",
+            "parent_id": "t1_fcx4qyc",
+            "score": 7,
+            "stickied": false,
+            "author_name": "Byt3G33k"
+        },
+        "fcx5cbq": {
+            "comment": "What a ridiculous statement",
+            "timeStamp": "2020/01/03-03:44:47",
+            "id": "fcx5cbq",
+            "is_submitter": false,
+            "link_id": "t3_ejdxtb",
+            "parent_id": "t1_fcx4qyc",
+            "score": 8,
+            "stickied": false,
+            "author_name": "plznokek"
+        },
+        "fcx4qyc": {
+            "comment": "People who fall for this stuff deserves it",
+            "timeStamp": "2020/01/03-03:32:41",
+            "id": "fcx4qyc",
+            "is_submitter": false,
+            "link_id": "t3_ejdxtb",
+            "parent_id": "t3_ejdxtb",
+            "score": -16,
+            "stickied": false,
+            "author_name": "EndangeredPootis"
+        }
+    }
+}

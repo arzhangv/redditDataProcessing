@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "ETERNALBLUE finally patched by the brave men and women of the NSA! Thank you for finally reporting it years after finding it, and when only a few hundred billions of dollars of economic damage upon mankind. I am glad it did not destroy more computer's firmwar than it did. Thanks for small mercies :)",
+        "score": 1,
+        "id": "puwzgs",
+        "commsNum": 3,
+        "timeStamp": "2021/09/24-18:34:52",
+        "author_name": "Disastrous-Nebula463",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.youtube.com/watch?v=c5DgPdZ3SVw"
+    },
+    "posts": {
+        "hejf6fw": {
+            "comment": "EternalBlue is a exploit that the NSA develop for taking down windows systems, they did not notified the public about the zero-day. You think they're nice? The Shadow Brokers, a hacker group hack the NSA database and found zero day exploits they told the public about it by making ransomware with the zero-day and spreading it all around the world causing millions of dollars of damage",
+            "timeStamp": "2021/09/27-18:00:27",
+            "id": "hejf6fw",
+            "is_submitter": false,
+            "link_id": "t3_puwzgs",
+            "parent_id": "t3_puwzgs",
+            "score": 2,
+            "stickied": false,
+            "author_name": "RSA-256"
+        },
+        "he64q04": {
+            "comment": "[removed]",
+            "timeStamp": "2021/09/24-19:06:33",
+            "id": "he64q04",
+            "is_submitter": false,
+            "link_id": "t3_puwzgs",
+            "parent_id": "t3_puwzgs",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "he61973": {
+            "comment": "[deleted]",
+            "timeStamp": "2021/09/24-18:39:47",
+            "id": "he61973",
+            "is_submitter": false,
+            "link_id": "t3_puwzgs",
+            "parent_id": "t3_puwzgs",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

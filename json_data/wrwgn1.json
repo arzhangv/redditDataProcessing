@@ -1,0 +1,110 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "was planning on trying a keyboard remapper from a guy on reddit that linked his github project. Ran it through virustotal and this looks pretty interesting. Im not sure what all of it means, but it says that the file is communicating with an IP in usa that is then communicating to malicious files.",
+        "score": 1,
+        "id": "wrwgn1",
+        "commsNum": 0,
+        "timeStamp": "2022/08/18-15:12:10",
+        "author_name": "TimpaFFS",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/gallery/wrwgn1"
+    },
+    "posts": {
+        "ikvosqo": {
+            "comment": "Crisis averted folks \ud83d\ude43",
+            "timeStamp": "2022/08/18-19:03:15",
+            "id": "ikvosqo",
+            "is_submitter": false,
+            "link_id": "t3_wrwgn1",
+            "parent_id": "t3_wrwgn1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "LeAristocrat"
+        },
+        "ikvhovw": {
+            "comment": "VT graphs are useless unless you know what you\u2019re doing and even at that they are still dogshit",
+            "timeStamp": "2022/08/18-18:10:10",
+            "id": "ikvhovw",
+            "is_submitter": false,
+            "link_id": "t3_wrwgn1",
+            "parent_id": "t3_wrwgn1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "blue_Kazoo82"
+        },
+        "ikvc7jo": {
+            "comment": "Correct",
+            "timeStamp": "2022/08/18-17:29:09",
+            "id": "ikvc7jo",
+            "is_submitter": false,
+            "link_id": "t3_wrwgn1",
+            "parent_id": "t1_ikvc10k",
+            "score": 1,
+            "stickied": false,
+            "author_name": "rainrat"
+        },
+        "ikvc10k": {
+            "comment": "So basicly all of the files that are marked as malicious have nothing to do with the actual EXE file?",
+            "timeStamp": "2022/08/18-17:27:48",
+            "id": "ikvc10k",
+            "is_submitter": true,
+            "link_id": "t3_wrwgn1",
+            "parent_id": "t1_ikv5x80",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TimpaFFS"
+        },
+        "ikvbzik": {
+            "comment": "So, not malware?",
+            "timeStamp": "2022/08/18-17:27:29",
+            "id": "ikvbzik",
+            "is_submitter": false,
+            "link_id": "t3_wrwgn1",
+            "parent_id": "t1_ikv5x80",
+            "score": 1,
+            "stickied": false,
+            "author_name": "JewsOfHazard"
+        },
+        "ikvbb46": {
+            "comment": "[removed]",
+            "timeStamp": "2022/08/18-17:22:23",
+            "id": "ikvbb46",
+            "is_submitter": false,
+            "link_id": "t3_wrwgn1",
+            "parent_id": "t1_ikv5x80",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ikv5x80": {
+            "comment": "We talking about github [dot] com/Skibbsies/Mouse-Button-Remaps ?\n\nYep, we are. The entire source is less than a page of code. You could just read the code and run it from the source code if you didn't trust the EXE.\n\nThe IP address is ... Microsoft. Sometimes the analysis service sees Windows connect to Microsoft servers for some scheduled reason. (And sometimes a bad actor buys an IP address on one of Microsoft's cloud services, but the connection doesn't show up consistently in the different Behaviour reports, and there's nothing in the source code that would explain it.) So everything after that is irrelevant.\n\nThe only other thing of note in the Behaviour report is keyboard or mouse hooking, which is totally explained by the entire purpose of the program.",
+            "timeStamp": "2022/08/18-16:42:56",
+            "id": "ikv5x80",
+            "is_submitter": false,
+            "link_id": "t3_wrwgn1",
+            "parent_id": "t1_ikusuva",
+            "score": 1,
+            "stickied": false,
+            "author_name": "rainrat"
+        },
+        "ikusuva": {
+            "comment": "[https://www.virustotal.com/gui/file/0539fe03bf2e7214daddd16db808e8fc9602427700333f0467fee93ad426d806/detection](https://www.virustotal.com/gui/file/0539fe03bf2e7214daddd16db808e8fc9602427700333f0467fee93ad426d806/detection)\n\n Link to the scan",
+            "timeStamp": "2022/08/18-15:12:31",
+            "id": "ikusuva",
+            "is_submitter": true,
+            "link_id": "t3_wrwgn1",
+            "parent_id": "t3_wrwgn1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TimpaFFS"
+        }
+    }
+}

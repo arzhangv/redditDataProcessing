@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "A step-by-step analysis of the Russian APT Turla backdoor called TinyTurla",
+        "score": 1,
+        "id": "tqir7t",
+        "commsNum": 0,
+        "timeStamp": "2022/03/28-13:37:49",
+        "author_name": "CyberMasterV",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://cybergeeks.tech/a-step-by-step-analysis-of-the-russian-apt-turla-backdoor-called-tinyturla/"
+    },
+    "posts": {}
+}

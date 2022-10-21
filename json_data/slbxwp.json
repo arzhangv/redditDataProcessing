@@ -1,0 +1,132 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Today, I published a free \"mini-course\" in writing malware configuration parsers for ASyncRAT - including a fully-automated Python parser. Thanks to everyone here for your support of my previous video, and I hope this makes up for the year-long hiatus! Parser code link is in the vid description.",
+        "score": 1,
+        "id": "slbxwp",
+        "commsNum": 7,
+        "timeStamp": "2022/02/05-09:13:39",
+        "author_name": "0xFF0F",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://youtu.be/xV0x7kNZ_Yc"
+    },
+    "posts": {
+        "hwwlp7i": {
+            "comment": "Sweet - thanks a lot again for sharing",
+            "timeStamp": "2022/02/14-05:18:52",
+            "id": "hwwlp7i",
+            "is_submitter": true,
+            "link_id": "t3_slbxwp",
+            "parent_id": "t1_hwwlkzz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "0xFF0F"
+        },
+        "hwwlkzz": {
+            "comment": "https://github.com/MikeZeDev there are old QuasarRat and Nanocore stuff, and unrelated stuff. Too lazy to put recent and bigger stuff on it.",
+            "timeStamp": "2022/02/14-05:17:45",
+            "id": "hwwlkzz",
+            "is_submitter": false,
+            "link_id": "t3_slbxwp",
+            "parent_id": "t1_hwwkf0t",
+            "score": 2,
+            "stickied": false,
+            "author_name": "RCEdude"
+        },
+        "hwwkf0t": {
+            "comment": "Nice! Is any of your work published anywhere?",
+            "timeStamp": "2022/02/14-05:06:25",
+            "id": "hwwkf0t",
+            "is_submitter": true,
+            "link_id": "t3_slbxwp",
+            "parent_id": "t1_hwwkchr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "0xFF0F"
+        },
+        "hwwkchr": {
+            "comment": "Well its part of a project of mine i use to identify extract decrypt and get malware configs so i got some training before. I didnt have to recode the AES part and the loops are kinda the same kind for other malware i deal with.\n\nLooking for accurate patterns is the most difficult as obfuscation can mess with it so much. With this i got good results even on (lightly) obfuscated samples.",
+            "timeStamp": "2022/02/14-05:05:43",
+            "id": "hwwkchr",
+            "is_submitter": false,
+            "link_id": "t3_slbxwp",
+            "parent_id": "t1_hwwhy5k",
+            "score": 2,
+            "stickied": false,
+            "author_name": "RCEdude"
+        },
+        "hwwhy5k": {
+            "comment": "Sick! It\u2019s really cool to see it implemented in C#!\n\nYeah, this took a lot of reading through docs and code (as I\u2019m sure yours did too), but really happy with the result. \n\nThanks for sharing this implementation!",
+            "timeStamp": "2022/02/14-04:41:42",
+            "id": "hwwhy5k",
+            "is_submitter": true,
+            "link_id": "t3_slbxwp",
+            "parent_id": "t1_hwwhose",
+            "score": 1,
+            "stickied": false,
+            "author_name": "0xFF0F"
+        },
+        "hwwhose": {
+            "comment": "Wow, you really dug hard.\n\nNice to see someone got the balls to do it in python. [I myself used c# and dnlib for that.\n](https://pastebin.com/XtrMx9eK)",
+            "timeStamp": "2022/02/14-04:38:58",
+            "id": "hwwhose",
+            "is_submitter": false,
+            "link_id": "t3_slbxwp",
+            "parent_id": "t3_slbxwp",
+            "score": 2,
+            "stickied": false,
+            "author_name": "RCEdude"
+        },
+        "hvqjiwy": {
+            "comment": "[removed]",
+            "timeStamp": "2022/02/05-12:29:29",
+            "id": "hvqjiwy",
+            "is_submitter": false,
+            "link_id": "t3_slbxwp",
+            "parent_id": "t3_slbxwp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hvqdzkj": {
+            "comment": "Worst auto mod",
+            "timeStamp": "2022/02/05-11:32:36",
+            "id": "hvqdzkj",
+            "is_submitter": false,
+            "link_id": "t3_slbxwp",
+            "parent_id": "t1_hvpw1pq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MajorUrsa2"
+        },
+        "hvq9thu": {
+            "comment": "[removed]",
+            "timeStamp": "2022/02/05-10:59:57",
+            "id": "hvq9thu",
+            "is_submitter": false,
+            "link_id": "t3_slbxwp",
+            "parent_id": "t3_slbxwp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hvpw1pq": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators **and be sure to include the link to the post** - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2022/02/05-09:13:39",
+            "id": "hvpw1pq",
+            "is_submitter": false,
+            "link_id": "t3_slbxwp",
+            "parent_id": "t3_slbxwp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

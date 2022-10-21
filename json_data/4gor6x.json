@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Fareit data stealer being delivered using Windows PowerShell",
+        "score": 1,
+        "id": "4gor6x",
+        "commsNum": 0,
+        "timeStamp": "2016/04/27-07:37:31",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/46717/malware/fareit-data-stealer-powershell.html"
+    },
+    "posts": {}
+}

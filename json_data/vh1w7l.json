@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "A detailed analysis on multi-function printer vulnerability. The reason why personal informations are on internet.",
+        "score": 1,
+        "id": "vh1w7l",
+        "commsNum": 0,
+        "timeStamp": "2022/06/20-18:56:42",
+        "author_name": "Late_Ice_9288",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://blog.criminalip.io/2022/06/14/criminal-ip-analysis-report-on-overlooked-mfp-vulnerabilities/"
+    },
+    "posts": {
+        "id67ji1": {
+            "comment": "The best is when they are unpassworded and configured for LDAP, just change the destination IP and grab the plaintext service password with netcat.",
+            "timeStamp": "2022/06/21-04:58:18",
+            "id": "id67ji1",
+            "is_submitter": false,
+            "link_id": "t3_vh1w7l",
+            "parent_id": "t3_vh1w7l",
+            "score": 1,
+            "stickied": false,
+            "author_name": "venerable4bede"
+        }
+    }
+}

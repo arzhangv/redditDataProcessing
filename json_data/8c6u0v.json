@@ -1,0 +1,231 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I have this malware/adware that i installed from a torrent, and idk how to define it all i know is that its called \"mail.ru\". The thing likes to close chrome when i search things like \"reset\" or \"adware\" because its made so that you cant find out how to fix this using this pc. I haven't found anything on my phone about this, and it randomly opens really random tabs like amazon home page, or some russian dating site, i mean, amazon home page? lmao, anyways if anyone has any idea what so ever please help me out, the virus can be found if you search \"mail.ru malware\" and i tried the normal anti virus stuff, mcaffe &amp; malware bytes and did a restore of chrome, i even went through all the files edited from yesturday and deleted suspicious things, and went through my regedit and got everything with the word \"mail.ru\" in it.\n\ni appreciate any help :)",
+        "title": "Chrome Malware that doesnt wanna go away",
+        "score": 8,
+        "id": "8c6u0v",
+        "commsNum": 18,
+        "timeStamp": "2018/04/14-03:51:56",
+        "author_name": "OLEYO",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 18,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8c6u0v/chrome_malware_that_doesnt_wanna_go_away/"
+    },
+    "posts": {
+        "dxedm6u": {
+            "comment": "Thanks!",
+            "timeStamp": "2018/04/15-05:55:39",
+            "id": "dxedm6u",
+            "is_submitter": false,
+            "link_id": "t3_8c6u0v",
+            "parent_id": "t1_dxedgp7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "I-Made-You-Read-This"
+        },
+        "dxedgp7": {
+            "comment": "yep generate sha256 for that exe and https://www.hybrid-analysis.com/sample/[sha256oftheexe]    and scroll to network analysis and if you see connecting to any ad network or irregular url its could be a spyware/adware/malware",
+            "timeStamp": "2018/04/15-05:51:21",
+            "id": "dxedgp7",
+            "is_submitter": false,
+            "link_id": "t3_8c6u0v",
+            "parent_id": "t1_dxe9hxi",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ragupal"
+        },
+        "dxe9hxi": {
+            "comment": "Is it easy to check if executables have adware? Cyber security student feel like I should know this type of thing lol",
+            "timeStamp": "2018/04/15-03:23:43",
+            "id": "dxe9hxi",
+            "is_submitter": false,
+            "link_id": "t3_8c6u0v",
+            "parent_id": "t1_dxclpe6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "I-Made-You-Read-This"
+        },
+        "dxe8py3": {
+            "comment": "windows defender came out as clean",
+            "timeStamp": "2018/04/15-02:48:19",
+            "id": "dxe8py3",
+            "is_submitter": true,
+            "link_id": "t3_8c6u0v",
+            "parent_id": "t1_dxd5gex",
+            "score": 1,
+            "stickied": false,
+            "author_name": "OLEYO"
+        },
+        "dxe8psr": {
+            "comment": "im doing that now insomnia",
+            "timeStamp": "2018/04/15-02:48:08",
+            "id": "dxe8psr",
+            "is_submitter": true,
+            "link_id": "t3_8c6u0v",
+            "parent_id": "t1_dxdfbme",
+            "score": 1,
+            "stickied": false,
+            "author_name": "OLEYO"
+        },
+        "dxe7x3e": {
+            "comment": "https://cdn.discordapp.com/attachments/226591820736495616/435004381650223104/unknown.png\n\nmalware bytes caught a popup",
+            "timeStamp": "2018/04/15-02:12:38",
+            "id": "dxe7x3e",
+            "is_submitter": true,
+            "link_id": "t3_8c6u0v",
+            "parent_id": "t3_8c6u0v",
+            "score": 1,
+            "stickied": false,
+            "author_name": "OLEYO"
+        },
+        "dxe7imb": {
+            "comment": "The four things running are:\n[chrome logo]Browser\n[puzzle piece grey]GPU Process\n[reddit logo]this page\n[Stands adblock logo] my adblocker i use and that i have used for a while so thats not causing issues\n\nmaybe the popup is inactive till a certain number of clicks or after a certain amount of time?",
+            "timeStamp": "2018/04/15-01:55:22",
+            "id": "dxe7imb",
+            "is_submitter": true,
+            "link_id": "t3_8c6u0v",
+            "parent_id": "t1_dxcwlkm",
+            "score": 1,
+            "stickied": false,
+            "author_name": "OLEYO"
+        },
+        "dxe54lo": {
+            "comment": "Ill try that when I get on",
+            "timeStamp": "2018/04/15-00:25:58",
+            "id": "dxe54lo",
+            "is_submitter": true,
+            "link_id": "t3_8c6u0v",
+            "parent_id": "t1_dxd5gex",
+            "score": 1,
+            "stickied": false,
+            "author_name": "OLEYO"
+        },
+        "dxe549u": {
+            "comment": "Yeah I reset chrome extensions so there aren't any now",
+            "timeStamp": "2018/04/15-00:25:39",
+            "id": "dxe549u",
+            "is_submitter": true,
+            "link_id": "t3_8c6u0v",
+            "parent_id": "t1_dxdnxvc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "OLEYO"
+        },
+        "dxe1ptb": {
+            "comment": "[deleted]",
+            "timeStamp": "2018/04/14-22:35:23",
+            "id": "dxe1ptb",
+            "is_submitter": false,
+            "link_id": "t3_8c6u0v",
+            "parent_id": "t3_8c6u0v",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "dxdnxvc": {
+            "comment": "Duh not found by antivirus because it's _probably a chrome extension_ have you checked those?",
+            "timeStamp": "2018/04/14-17:41:54",
+            "id": "dxdnxvc",
+            "is_submitter": false,
+            "link_id": "t3_8c6u0v",
+            "parent_id": "t3_8c6u0v",
+            "score": 1,
+            "stickied": false,
+            "author_name": "JPaulMora"
+        },
+        "dxdfbme": {
+            "comment": "try this https://www.eset.com/int/home/online-scanner/",
+            "timeStamp": "2018/04/14-14:57:45",
+            "id": "dxdfbme",
+            "is_submitter": false,
+            "link_id": "t3_8c6u0v",
+            "parent_id": "t1_dxcjhs4",
+            "score": 2,
+            "stickied": false,
+            "author_name": "insomniacultra"
+        },
+        "dxd5gex": {
+            "comment": "Could be Trojan:Win32/Foniad browser modifier which targets Chrome, coming back through scheduled task which reinstalls it every time it runs. Try full scan with latest Windows Defender signatures. ",
+            "timeStamp": "2018/04/14-12:00:23",
+            "id": "dxd5gex",
+            "is_submitter": false,
+            "link_id": "t3_8c6u0v",
+            "parent_id": "t3_8c6u0v",
+            "score": 3,
+            "stickied": false,
+            "author_name": "rtreit"
+        },
+        "dxcwlkm": {
+            "comment": "Take a look at at the chrome task manager.. Shift + escape ",
+            "timeStamp": "2018/04/14-09:17:58",
+            "id": "dxcwlkm",
+            "is_submitter": false,
+            "link_id": "t3_8c6u0v",
+            "parent_id": "t3_8c6u0v",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Mulletmanaustin"
+        },
+        "dxcm4xm": {
+            "comment": "I normally don't have problem with torrents over the 2yrs I've been doing it, malware bytes got rid of the closing chrome on keywords thing, but I get random pop ups to Amazon and Google lmao",
+            "timeStamp": "2018/04/14-05:27:17",
+            "id": "dxcm4xm",
+            "is_submitter": true,
+            "link_id": "t3_8c6u0v",
+            "parent_id": "t1_dxclpe6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "OLEYO"
+        },
+        "dxclpe6": {
+            "comment": "&gt;  i think it's working\n\nYep good  thing and if u r  new to torrenting and stuff and   don't know how to check executables for adware and malwares  I would highly recommend to use Bitdefender or Malwarebytes with [unchecky](https://unchecky.com) and this subreddit is contributed to analyze the activity and reverse engineering  of modern  ransomware and malwares ",
+            "timeStamp": "2018/04/14-05:14:15",
+            "id": "dxclpe6",
+            "is_submitter": false,
+            "link_id": "t3_8c6u0v",
+            "parent_id": "t1_dxcjknt",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ragupal"
+        },
+        "dxcjknt": {
+            "comment": "I'm running malwarebytes still and i think it's working",
+            "timeStamp": "2018/04/14-03:58:51",
+            "id": "dxcjknt",
+            "is_submitter": true,
+            "link_id": "t3_8c6u0v",
+            "parent_id": "t1_dxcjk9s",
+            "score": 2,
+            "stickied": false,
+            "author_name": "OLEYO"
+        },
+        "dxcjk9s": {
+            "comment": "Sorry I didn't know where to post ",
+            "timeStamp": "2018/04/14-03:58:26",
+            "id": "dxcjk9s",
+            "is_submitter": true,
+            "link_id": "t3_8c6u0v",
+            "parent_id": "t1_dxcjhs4",
+            "score": 2,
+            "stickied": false,
+            "author_name": "OLEYO"
+        },
+        "dxcjhs4": {
+            "comment": "Reset Chrome     \n\n\nAnd scan the system with Malwarebytes\n\n\nNext time post this kind of stuff in r/techsupport",
+            "timeStamp": "2018/04/14-03:55:35",
+            "id": "dxcjhs4",
+            "is_submitter": false,
+            "link_id": "t3_8c6u0v",
+            "parent_id": "t3_8c6u0v",
+            "score": 10,
+            "stickied": false,
+            "author_name": "ragupal"
+        }
+    }
+}

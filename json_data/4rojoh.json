@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Kaspersky AV blocked four attempts to download malware on my machine. I'd been away from it for 30 mins, and the screen lock kicks in pretty quickly. On return I clicked 'Deny' four times, and closed some tabs. Not too many, because un Chrome I run [The Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg?hl=en). It really is great about suspending tabs you've not used for a hour. So all that was open was Slashdot, Reddit, learningjquery.com, and codepen.io,\n.  Kaspersky can't tell me the referrer of the download attempt. I'd like to see long chains of referrers for those sites that do a lot of forwarding/delegation for content/experience. This would allow people to accurately accuse a site of bad partner content vetting/control. Obviously every makes unprovable claims about how good their vetting of partners (and content implicitly is).  \n\nOr is there a better way?\n\nThere's a [Referrer Control](https://chrome.google.com/webstore/detail/referer-control/hnkcfpcejkafcihlgbojoidoihckciin/related?hl=en) plugin for Chrome, but that's the wrong thing.",
+        "title": "Browser 'referrer auditing' needed - why because otherwise 'trusted' portals are not controlling the quality of the advertising partners' inserts.",
+        "score": 2,
+        "id": "4rojoh",
+        "commsNum": 0,
+        "timeStamp": "2016/07/07-06:28:25",
+        "author_name": "paul_h",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/4rojoh/browser_referrer_auditing_needed_why_because/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hello /r/Malware,\n\nI'm doing a research on malware analysis and FinFisher/FinSpy seems to be the one that interests me the most. I have done my own research but most of the blogs don't explain how the tools were used and as a beginner, this is really hard on me.\n\nI'm looking for an analysis of the malware which shows how the tools were used to perform the analysis or a guide on how to use RegShot, OllyDbg, WireShark, ApateDNS and FakeNet properly. Download links will also be appreciated.\n\nHere is a list of sources I've been able to find so far;\n\n* WikiLeaks - [SpyFiles 4](https://wikileaks.org/spyfiles4/)\n\n----\n\n* CODING AND SECURITY - [FinFisher Malware Dropper Analysis \\(Part 1\\)](https://www.codeandsec.com/FinFisher-Malware-Analysis-Part-1)\n\n* CODING AND SECURITY - [FinFisher Malware Analysis (Part 2)](https://www.codeandsec.com/FinFisher-Malware-Analysis-Part-2)\n\n* CODING AND SECURITY - [FinFisher Malware Analysis (Part 3)](https://www.codeandsec.com/FinFisher-Malware-Analysis-Part-3)\n\n----\n\n* AnalysisOfMalware -[ Analysis of the FinFisher malware \u2013 Part 1 \"The dropper\"](https://analysisofmalware.wordpress.com/2015/04/21/analysis-of-the-finfisher-malware/)\n\n*  AnalysisOfMalware - [Analysis of the FinFisher malware \u2013 Part 2 \"The dropped file\"](https://analysisofmalware.wordpress.com/2015/05/20/analysis-of-the-finfisher-malware-part-2-the-dropped-file/)\n\n----\n\nI will be grateful to anyone who can provide assistance with the issues I've got regarding this analysis. \n\nThanks in advance.\n\n\n\n",
+        "title": "Anyone got a thorough analysis of the FinFisher/FinSpy malware with explanation of how the tools were used?",
+        "score": 19,
+        "id": "636njv",
+        "commsNum": 7,
+        "timeStamp": "2017/04/03-06:10:00",
+        "author_name": "Adatomcat",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/636njv/anyone_got_a_thorough_analysis_of_the/"
+    },
+    "posts": {}
+}

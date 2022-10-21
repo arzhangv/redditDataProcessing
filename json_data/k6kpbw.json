@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "[removed]",
+        "title": "Chrome extension \"Night Eye\" behaving suspicious ? ...",
+        "score": 1,
+        "id": "k6kpbw",
+        "commsNum": 1,
+        "timeStamp": "2020/12/04-05:17:19",
+        "author_name": "Dr-Maximum",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/k6kpbw/chrome_extension_night_eye_behaving_suspicious/"
+    },
+    "posts": {
+        "gelcw2n": {
+            "comment": "Also, if the Night Eye extension appears on the [malware.news list](https://malware.news/t/night-eye-extension-adds-a-dark-mode-to-websites/23062), is that just as a news article or is that because Night Eye malicious",
+            "timeStamp": "2020/12/04-05:25:51",
+            "id": "gelcw2n",
+            "is_submitter": true,
+            "link_id": "t3_k6kpbw",
+            "parent_id": "t3_k6kpbw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Dr-Maximum"
+        },
+        "gelc0d0": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2020/12/04-05:17:20",
+            "id": "gelc0d0",
+            "is_submitter": false,
+            "link_id": "t3_k6kpbw",
+            "parent_id": "t3_k6kpbw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

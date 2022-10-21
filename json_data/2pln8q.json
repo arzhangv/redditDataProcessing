@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "So I am seeing a lot about how the WordPress sites themselves are being compromised with the RevSlider plugin. But how about the payload that an end-user who visited one of these infected WordPress sites.\n\n\nDoes anyone have any samples or info on what happens when an end-user visits one of these infected sites?",
+        "title": "SoakSoak Malware: End User Payloads?",
+        "score": 8,
+        "id": "2pln8q",
+        "commsNum": 4,
+        "timeStamp": "2014/12/17-10:51:48",
+        "author_name": "Index_Dot_Zach",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2pln8q/soaksoak_malware_end_user_payloads/"
+    },
+    "posts": {}
+}

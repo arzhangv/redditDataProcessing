@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I plan on obtaining a degree in Cybersecurity, and I do want to screw around with malware on a VM in order to learn a bit more about it. I'm just nervous that it will leak or pass through the network and infect the computer I'm running the VM on. Is it safe to do so or is there a high risk of me fucking shit up?",
+        "title": "Infecting a Virtual Machine: Is my computer safe?",
+        "score": 8,
+        "id": "2yitlg",
+        "commsNum": 14,
+        "timeStamp": "2015/03/09-20:52:06",
+        "author_name": "UglyStru",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 14,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2yitlg/infecting_a_virtual_machine_is_my_computer_safe/"
+    },
+    "posts": {}
+}

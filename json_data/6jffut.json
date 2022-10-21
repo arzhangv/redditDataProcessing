@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "New Fileless Ransomware with Code Injection Ability Detected in the Wild",
+        "score": 50,
+        "id": "6jffut",
+        "commsNum": 4,
+        "timeStamp": "2017/06/25-10:10:56",
+        "author_name": "brokercx",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://vulnerablelife.wordpress.com/2017/06/18/new-fileless-ransomware-with-code-injection-ability-detected-in-the-wild/"
+    },
+    "posts": {}
+}

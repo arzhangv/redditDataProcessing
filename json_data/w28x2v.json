@@ -1,0 +1,99 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "It is only a problem with microsoft docs. Here is the whole link: [https://mtusrede.de/redir/clickGate.php?u=0KMhnq5u&amp;m=12&amp;p=JK99MCU3FT&amp;t=33&amp;splash=0&amp;q=%%20c#&amp;url=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fdotnet%2Fcsharp%2F](https://mtusrede.de/redir/clickGate.php?u=0KMhnq5u&amp;m=12&amp;p=JK99MCU3FT&amp;t=33&amp;splash=0&amp;q=%%20c#&amp;url=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fdotnet%2Fcsharp%2F)\n\nI am on google chrome. I also have a chrome extension called popper blocker\n\nThe problem is the fact that it says: there was an error with this redirection, leaving a blank site,  thus I cannot access the site.",
+        "title": "Whenever i try to go on docs.microsoft.com, I am redirected to mtsudere.",
+        "score": 1,
+        "id": "w28x2v",
+        "commsNum": 0,
+        "timeStamp": "2022/07/18-13:10:49",
+        "author_name": "FuzzyDuDe55555",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/w28x2v/whenever_i_try_to_go_on_docsmicrosoftcom_i_am/"
+    },
+    "posts": {
+        "ih2v1ed": {
+            "comment": "Please see rule #1.",
+            "timeStamp": "2022/07/21-10:48:57",
+            "id": "ih2v1ed",
+            "is_submitter": false,
+            "link_id": "t3_w28x2v",
+            "parent_id": "t3_w28x2v",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mjuad"
+        },
+        "igrmdcj": {
+            "comment": "As well as the other advice in here, check which DNS server you're using or manually set your DNS server to 1.1.1.1.\n\nIn order, check:\n\nBrowser extensions/addons\n\nMalware scan on PC\n\nHosts file\n\nDNS\n\nIf you still face issues there may be something else on the network or upstream DNS is compromised. Is this on your home network?\n\nDon't do anything sensitive on your computer until you've identified the issue - even then I'd recommend a reformat to be sure.",
+            "timeStamp": "2022/07/19-04:56:34",
+            "id": "igrmdcj",
+            "is_submitter": false,
+            "link_id": "t3_w28x2v",
+            "parent_id": "t3_w28x2v",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Satiex"
+        },
+        "igqhrri": {
+            "comment": "Ok",
+            "timeStamp": "2022/07/18-21:01:36",
+            "id": "igqhrri",
+            "is_submitter": true,
+            "link_id": "t3_w28x2v",
+            "parent_id": "t1_igoq7pt",
+            "score": 1,
+            "stickied": false,
+            "author_name": "FuzzyDuDe55555"
+        },
+        "igqhqxq": {
+            "comment": "Thanks",
+            "timeStamp": "2022/07/18-21:01:23",
+            "id": "igqhqxq",
+            "is_submitter": true,
+            "link_id": "t3_w28x2v",
+            "parent_id": "t1_igq7l25",
+            "score": 1,
+            "stickied": false,
+            "author_name": "FuzzyDuDe55555"
+        },
+        "igqfoop": {
+            "comment": "check the hosts file under \nC:\\Windows\\drivers\\etc\\hosts\n\nIt's a file that can be used to redirect a webpage to another",
+            "timeStamp": "2022/07/18-20:43:08",
+            "id": "igqfoop",
+            "is_submitter": false,
+            "link_id": "t3_w28x2v",
+            "parent_id": "t3_w28x2v",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Skyline9Time"
+        },
+        "igq7l25": {
+            "comment": "Re-evaluate the extensions you have, historically it looks like a few extensions are causing redirects to that domain.",
+            "timeStamp": "2022/07/18-19:37:13",
+            "id": "igq7l25",
+            "is_submitter": false,
+            "link_id": "t3_w28x2v",
+            "parent_id": "t3_w28x2v",
+            "score": 1,
+            "stickied": false,
+            "author_name": "blue_Kazoo82"
+        },
+        "igoq7pt": {
+            "comment": "I would recommend installing malwarebytes. It is an AV, that also unintalls and reverses any browser changes. You can uninstall it later.",
+            "timeStamp": "2022/07/18-13:16:05",
+            "id": "igoq7pt",
+            "is_submitter": false,
+            "link_id": "t3_w28x2v",
+            "parent_id": "t3_w28x2v",
+            "score": 1,
+            "stickied": false,
+            "author_name": "SyRex1013"
+        }
+    }
+}

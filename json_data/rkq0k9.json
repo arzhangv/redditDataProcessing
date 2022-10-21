@@ -1,0 +1,231 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "What are the most accurate threat intelligence for Malware? Is virus total the best?",
+        "title": "Threat intelligence",
+        "score": 1,
+        "id": "rkq0k9",
+        "commsNum": 0,
+        "timeStamp": "2021/12/20-07:38:37",
+        "author_name": "Avinbihari",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/rkq0k9/threat_intelligence/"
+    },
+    "posts": {
+        "hpju4zq": {
+            "comment": "[removed]",
+            "timeStamp": "2021/12/22-04:49:00",
+            "id": "hpju4zq",
+            "is_submitter": false,
+            "link_id": "t3_rkq0k9",
+            "parent_id": "t3_rkq0k9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hpey82f": {
+            "comment": "You should look at a scripting language , and access to API services.\n\nIt\u2019s more simple than it sounds , use Python3 + Requests module , I can give a working example with Shodan. \n\nYou can then correlate , sanitize , and store information in a SQL database. \nSQLite3 is purely file-based and claims to be much faster than reading from a file.\n\nPoint is \u2014 you have endless flexibility in creating your own proprietary tooling from a collection of open-source APIs.",
+            "timeStamp": "2021/12/21-03:56:11",
+            "id": "hpey82f",
+            "is_submitter": false,
+            "link_id": "t3_rkq0k9",
+            "parent_id": "t3_rkq0k9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "morphinan"
+        },
+        "hpe56o8": {
+            "comment": "Even the most expensive commercial TI feed will require filtering for your environment IMO. Services like Greynoise.io (I\u2019m an investor/advisor for transparency) can help reduce the alert fatigue. If you\u2019re looking for some free TI consider labs.inquest.net (free portal from my company).",
+            "timeStamp": "2021/12/20-21:40:47",
+            "id": "hpe56o8",
+            "is_submitter": false,
+            "link_id": "t3_rkq0k9",
+            "parent_id": "t3_rkq0k9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "pedramamini"
+        },
+        "hpdu3st": {
+            "comment": "The premise is tenuous.  Best for one org or industry might be useless for the next.",
+            "timeStamp": "2021/12/20-19:59:26",
+            "id": "hpdu3st",
+            "is_submitter": false,
+            "link_id": "t3_rkq0k9",
+            "parent_id": "t3_rkq0k9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Slateclean"
+        },
+        "hpdoh5k": {
+            "comment": "Well, depends on what intelligence you\u2019re looking to consume or produce",
+            "timeStamp": "2021/12/20-19:15:50",
+            "id": "hpdoh5k",
+            "is_submitter": false,
+            "link_id": "t3_rkq0k9",
+            "parent_id": "t3_rkq0k9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MajorUrsa2"
+        },
+        "hpd59t5": {
+            "comment": "[removed]",
+            "timeStamp": "2021/12/20-16:48:19",
+            "id": "hpd59t5",
+            "is_submitter": false,
+            "link_id": "t3_rkq0k9",
+            "parent_id": "t1_hpbcjw5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hpd4lj6": {
+            "comment": "[removed]",
+            "timeStamp": "2021/12/20-16:43:06",
+            "id": "hpd4lj6",
+            "is_submitter": false,
+            "link_id": "t3_rkq0k9",
+            "parent_id": "t3_rkq0k9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hpcr11w": {
+            "comment": "Saved this for helping teach our newbies! Cheers mate",
+            "timeStamp": "2021/12/20-15:00:30",
+            "id": "hpcr11w",
+            "is_submitter": false,
+            "link_id": "t3_rkq0k9",
+            "parent_id": "t1_hpcqwfm",
+            "score": 1,
+            "stickied": false,
+            "author_name": "1-2-switch"
+        },
+        "hpcqwfm": {
+            "comment": "Relevant imagery: \n\nhttps://i.imgur.com/ZD195d6.png",
+            "timeStamp": "2021/12/20-14:59:36",
+            "id": "hpcqwfm",
+            "is_submitter": false,
+            "link_id": "t3_rkq0k9",
+            "parent_id": "t1_hpcq3sk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "gonzo_au"
+        },
+        "hpcqicy": {
+            "comment": "DFIR Report probably provides some of the best CTI and actionable TTPs.",
+            "timeStamp": "2021/12/20-14:56:50",
+            "id": "hpcqicy",
+            "is_submitter": false,
+            "link_id": "t3_rkq0k9",
+            "parent_id": "t3_rkq0k9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "bigt252002"
+        },
+        "hpcq3sk": {
+            "comment": "This is correct. \n\nA total look at TTPs offers a far clearer picture of Threat Intelligence than individual IOCs. Quite often, especially when dealing with sophisticated adversaries, IOCs such as IP/domain/hash are a use-once-and-dump kind of thing.",
+            "timeStamp": "2021/12/20-14:53:55",
+            "id": "hpcq3sk",
+            "is_submitter": false,
+            "link_id": "t3_rkq0k9",
+            "parent_id": "t1_hpcp9g7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "1-2-switch"
+        },
+        "hpcp9g7": {
+            "comment": "Malware intelligence != threat intelligence.",
+            "timeStamp": "2021/12/20-14:47:50",
+            "id": "hpcp9g7",
+            "is_submitter": false,
+            "link_id": "t3_rkq0k9",
+            "parent_id": "t3_rkq0k9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "gonzo_au"
+        },
+        "hpbk9bp": {
+            "comment": "https://bazaar.abuse.ch/browse/ is probably the best if you don\u2019t know what you\u2019re looking for. \n\nVT will give more information if you have a hash but malware bazaar gives you a live feed of current malware that you can download",
+            "timeStamp": "2021/12/20-10:03:17",
+            "id": "hpbk9bp",
+            "is_submitter": false,
+            "link_id": "t3_rkq0k9",
+            "parent_id": "t3_rkq0k9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Trolling_turd"
+        },
+        "hpbcjw5": {
+            "comment": "So it sounds like virus total is the best file reputation service",
+            "timeStamp": "2021/12/20-09:11:15",
+            "id": "hpbcjw5",
+            "is_submitter": true,
+            "link_id": "t3_rkq0k9",
+            "parent_id": "t3_rkq0k9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Avinbihari"
+        },
+        "hpbbk7a": {
+            "comment": "Then yeah, VT or JoeSandbox are going to be what you want.",
+            "timeStamp": "2021/12/20-09:04:24",
+            "id": "hpbbk7a",
+            "is_submitter": false,
+            "link_id": "t3_rkq0k9",
+            "parent_id": "t1_hpb133p",
+            "score": 1,
+            "stickied": false,
+            "author_name": "cea1990"
+        },
+        "hpbbh8f": {
+            "comment": "[removed]",
+            "timeStamp": "2021/12/20-09:03:51",
+            "id": "hpbbh8f",
+            "is_submitter": false,
+            "link_id": "t3_rkq0k9",
+            "parent_id": "t3_rkq0k9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hpb16i2": {
+            "comment": "Then yup!, I\u2019d recommend VT for verifying that.",
+            "timeStamp": "2021/12/20-07:51:55",
+            "id": "hpb16i2",
+            "is_submitter": false,
+            "link_id": "t3_rkq0k9",
+            "parent_id": "t3_rkq0k9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "canofspam2020"
+        },
+        "hpb133p": {
+            "comment": "Looking to find malicious hashes",
+            "timeStamp": "2021/12/20-07:51:14",
+            "id": "hpb133p",
+            "is_submitter": true,
+            "link_id": "t3_rkq0k9",
+            "parent_id": "t1_hpb0w7g",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Avinbihari"
+        },
+        "hpb0w7g": {
+            "comment": "What are you trying to find? If it\u2019s bad in maliciousness? If it\u2019s linked to APT movements? iOCs such as IPs? That determines what you want to use",
+            "timeStamp": "2021/12/20-07:49:51",
+            "id": "hpb0w7g",
+            "is_submitter": false,
+            "link_id": "t3_rkq0k9",
+            "parent_id": "t3_rkq0k9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "canofspam2020"
+        }
+    }
+}

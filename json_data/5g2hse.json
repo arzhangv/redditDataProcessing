@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[deleted]",
+        "title": "Looking for samples of the new Shamoon/Disttrack malware to study",
+        "score": 1,
+        "id": "5g2hse",
+        "commsNum": 0,
+        "timeStamp": "2016/12/02-01:54:40",
+        "author_name": "[deleted]",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://arstechnica.com/security/2016/12/shamoon-wiper-malware-returns-with-a-vengeance/"
+    },
+    "posts": {}
+}

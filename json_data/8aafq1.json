@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Modern Wordpress Malware in the Wild",
+        "score": 0,
+        "id": "8aafq1",
+        "commsNum": 3,
+        "timeStamp": "2018/04/06-08:29:45",
+        "author_name": "nextwavesolutionsllc",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://nextwavesolutions.io/post/modernphpmalware/"
+    },
+    "posts": {
+        "dx6ui6u": {
+            "comment": "Unfortunately, without thinking of the good it could have done to the infosec community a co-worker removed the script from the server. I think the best feature of this malware was the fact it would eval() the return of a GET request. That's the big part I wanted to share. Nothing new, we have seen cryptolockers and many more types of malware do this before. However, it's so stupidly easy with PHP we really should start incorporating this into detection engines somehow. None-the-less thanks for your feedback.",
+            "timeStamp": "2018/04/11-08:56:02",
+            "id": "dx6ui6u",
+            "is_submitter": true,
+            "link_id": "t3_8aafq1",
+            "parent_id": "t1_dwx82z2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "nextwavesolutionsllc"
+        },
+        "dwxf1yo": {
+            "comment": "I'll save some people the time reading it...\n\n&lt;article&gt;\n\nDid you know that obfuscation exists?  Some people use base64.  They think it hides the malware by making it unreadable, but /r/iamverysmart and found it.\n\n&lt;/article&gt;",
+            "timeStamp": "2018/04/06-11:45:24",
+            "id": "dwxf1yo",
+            "is_submitter": false,
+            "link_id": "t3_8aafq1",
+            "parent_id": "t1_dwx82z2",
+            "score": 3,
+            "stickied": false,
+            "author_name": "TParis00ap"
+        },
+        "dwx82z2": {
+            "comment": "Did you hit publish too soon? Or has the blog reverted to a previous revision?\n\nThe blog doesn't actually talk about a sample, name it, show it, have a hash of it, or say much other than a sample, somewhere, used base64 and concat.",
+            "timeStamp": "2018/04/06-10:04:30",
+            "id": "dwx82z2",
+            "is_submitter": false,
+            "link_id": "t3_8aafq1",
+            "parent_id": "t3_8aafq1",
+            "score": 2,
+            "stickied": false,
+            "author_name": "diff-t"
+        }
+    }
+}

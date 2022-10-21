@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "JAKU - A SPECIAL INVESTIGATION INTO A PREVIOUSLY UNKNOWN BOTNET CAMPAIGN",
+        "score": 6,
+        "id": "4iag77",
+        "commsNum": 0,
+        "timeStamp": "2016/05/07-08:44:26",
+        "author_name": "Jofferylan12",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://blogs.forcepoint.com/security-labs/jaku"
+    },
+    "posts": {}
+}

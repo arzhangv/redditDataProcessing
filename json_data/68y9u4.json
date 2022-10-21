@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hey all\n\nI was hoping you guys could shed some light on this botnet for me. I have a bit of a learning disability, so I often ask repetitive questions so I can understand better. (Just letting you know so you dont pull your hair out trying to explain something to me)\n\n\nI was reading some articles talking about how the FBI brought down the Alureon botnet, and that got me thinking. Was it just ONE operation, and just like that, Alureon was done? Were there actually no other alureon botnets besides the one that got infiltrated at that time (Nov 2011)? Thats what the articles make it sound like.\n\nI'll try to sum it up like this; if I were to tell you I had gotten an Alureon infection in 2009 or 2010 or something, would it be from that one big botnet that got infiltrated? Or could it have been from other people also people/criminals deciding to use it during that time?\n\n",
+        "title": "General questions about TDSS/Alureon botnets.",
+        "score": 2,
+        "id": "68y9u4",
+        "commsNum": 0,
+        "timeStamp": "2017/05/02-21:39:46",
+        "author_name": "Thrones33",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/68y9u4/general_questions_about_tdssalureon_botnets/"
+    },
+    "posts": {}
+}

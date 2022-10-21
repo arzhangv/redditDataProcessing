@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Faking System DLLs",
+        "score": 10,
+        "id": "qkjwh",
+        "commsNum": 0,
+        "timeStamp": "2012/03/06-11:42:16",
+        "author_name": "praddo",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": null,
+        "url": "http://syprog.blogspot.com/2012/03/faking-kernel32dll-amateur-sandbox.html"
+    },
+    "posts": {}
+}

@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "My browser is acting oddly i have google in dark mode as the homepage but sometimes it will open in light mode with an older windows look with [google.com/pq](https://google.com/pq) as the url instead of just google.com. Same with searches sometimes its normal in dark mode and others it in light mode with a older sort of look. Ive ran malwarebytes and even did an offline scan with windows defender if anyone can help that would be awesome.",
+        "title": "Browser acting oddly in the last hour or so",
+        "score": 1,
+        "id": "ux9sy8",
+        "commsNum": 0,
+        "timeStamp": "2022/05/24-21:56:12",
+        "author_name": "Dissociate_ME",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ux9sy8/browser_acting_oddly_in_the_last_hour_or_so/"
+    },
+    "posts": {
+        "i9winvt": {
+            "comment": "We are not tech support",
+            "timeStamp": "2022/05/24-22:43:37",
+            "id": "i9winvt",
+            "is_submitter": false,
+            "link_id": "t3_ux9sy8",
+            "parent_id": "t3_ux9sy8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Wouldratherplaymtg"
+        }
+    }
+}

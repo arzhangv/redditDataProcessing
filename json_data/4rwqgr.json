@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Sideloaded Pokemon GO Android App found to contain malware",
+        "score": 37,
+        "id": "4rwqgr",
+        "commsNum": 8,
+        "timeStamp": "2016/07/08-13:22:27",
+        "author_name": "benichmt1",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 8,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.proofpoint.com/us/threat-insight/post/droidjack-uses-side-load-backdoored-pokemon-go-android-app"
+    },
+    "posts": {}
+}

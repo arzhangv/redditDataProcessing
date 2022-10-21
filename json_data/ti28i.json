@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Revelo, the Javascript Deobfuscator Tool",
+        "score": 4,
+        "id": "ti28i",
+        "commsNum": 1,
+        "timeStamp": "2012/05/11-05:22:41",
+        "author_name": "vipzen",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": null,
+        "url": "http://www.kahusecurity.com/2012/revelo-javascript-deobfuscator/"
+    },
+    "posts": {}
+}

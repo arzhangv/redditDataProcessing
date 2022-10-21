@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[https://arxiv.org/abs/1801.01633](https://arxiv.org/abs/1801.01633)",
+        "title": "Understanding Android Obfuscation Techniques: A Large-Scale Investigation in the Wild",
+        "score": 1,
+        "id": "a6kl5f",
+        "commsNum": 0,
+        "timeStamp": "2018/12/15-16:39:33",
+        "author_name": "vickiearse",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/a6kl5f/understanding_android_obfuscation_techniques_a/"
+    },
+    "posts": {}
+}

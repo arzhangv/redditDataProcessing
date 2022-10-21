@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": 0.99,
+        "selftext": "Hi All,\n\nLately i came across a malicious .xls file, the file did not have any VBA Code but had a \"Very Hidden\" Sheet  with Excel 4 Macros,.... I Noticed that those are poorly documented but aside from that do Excel 4 Macros have any advantages to the attacker over straight VBA Code\n\n&amp;#x200B;\n\nThank you",
+        "title": "Excel 4 Macros Advantages over Straight VBA Code",
+        "score": 17,
+        "id": "hu5pqz",
+        "commsNum": 10,
+        "timeStamp": "2020/07/19-11:48:35",
+        "author_name": "Ali_Alnuaimi",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 10,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/hu5pqz/excel_4_macros_advantages_over_straight_vba_code/"
+    },
+    "posts": {
+        "fymj75r": {
+            "comment": "[deleted]",
+            "timeStamp": "2020/07/19-20:42:39",
+            "id": "fymj75r",
+            "is_submitter": false,
+            "link_id": "t3_hu5pqz",
+            "parent_id": "t1_fymdtvq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fymdtvq": {
+            "comment": "As I understand it AMSI doesn't hook into Excel 4 Macros at execution time, unlike VBA. This makes it slightly easier to dodge detection at runtime for behavior that would be detected from VBA. It's also why you'll see folks pivot from VBA/JScript into Excel 4 Macros with the ExecuteExcel4Macro command (https://docs.microsoft.com/en-us/office/vba/api/excel.application.executeexcel4macro). There's example attack scripts for folks doing this on Github, like https://github.com/med0x2e/genxlm.\n\nAs pointed out by dougsec, the tooling out there for Excel 4 Macros is also a bit more fragile compared to dumping VBA scripts - it's a totally different process to analyze statically. There's a lot of stupid stuff you can do to obfuscate legacy macros which hasn't made it onto the radar of olevba or similar tooling. \n\nThat being said, I think XLMMacroDeobfuscator (https://github.com/DissectMalware/XLMMacroDeobfuscator/ ) is pretty good at ripping these things apart if you need to analyze one of these documents.",
+            "timeStamp": "2020/07/19-19:43:56",
+            "id": "fymdtvq",
+            "is_submitter": false,
+            "link_id": "t3_hu5pqz",
+            "parent_id": "t3_hu5pqz",
+            "score": 5,
+            "stickied": false,
+            "author_name": "bouncyhat"
+        },
+        "fym4d83": {
+            "comment": "Well... olevba, which is the most common static analysis tool generally, cannot parse these. So a lot of automated pipelines just shove office docs through olevba and if it comes back clean, no alarms go off. Also, generally these just aren\u2019t really looked at as part of the malware triage process. Most everyone is taught to look for embedded macros and not everyone is up to speed on Excel4 macros. Even once you get the page unbidden, looking at excel4 macros are way less straightforward than standard VBA macros.",
+            "timeStamp": "2020/07/19-18:06:42",
+            "id": "fym4d83",
+            "is_submitter": false,
+            "link_id": "t3_hu5pqz",
+            "parent_id": "t1_fylsll5",
+            "score": 3,
+            "stickied": false,
+            "author_name": "dougsec"
+        },
+        "fylu48f": {
+            "comment": "[removed]",
+            "timeStamp": "2020/07/19-16:24:48",
+            "id": "fylu48f",
+            "is_submitter": false,
+            "link_id": "t3_hu5pqz",
+            "parent_id": "t3_hu5pqz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fylsll5": {
+            "comment": "How does excel 4 macros confuse and slow response time?",
+            "timeStamp": "2020/07/19-16:10:20",
+            "id": "fylsll5",
+            "is_submitter": true,
+            "link_id": "t3_hu5pqz",
+            "parent_id": "t1_fyl3ql9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Ali_Alnuaimi"
+        },
+        "fyl3ql9": {
+            "comment": "[deleted]",
+            "timeStamp": "2020/07/19-12:23:16",
+            "id": "fyl3ql9",
+            "is_submitter": false,
+            "link_id": "t3_hu5pqz",
+            "parent_id": "t3_hu5pqz",
+            "score": 2,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

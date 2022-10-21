@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "CCleaner supply chain compromised to distribute malware",
+        "score": 1,
+        "id": "70uqos",
+        "commsNum": 0,
+        "timeStamp": "2017/09/18-05:43:09",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/63148/breaking-news/ccleaner-supply-chain-malware.html"
+    },
+    "posts": {}
+}

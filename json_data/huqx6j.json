@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": 0.5,
+        "selftext": "Does anyone know what vlmcsd.exe file is?",
+        "title": "vlmcsd.exe",
+        "score": 0,
+        "id": "huqx6j",
+        "commsNum": 12,
+        "timeStamp": "2020/07/20-11:40:15",
+        "author_name": "Jerysma",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 12,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/huqx6j/vlmcsdexe/"
+    },
+    "posts": {
+        "fyql4z2": {
+            "comment": "Or fucking google for that matter. Literally type it in the search box and get a result.",
+            "timeStamp": "2020/07/20-22:23:32",
+            "id": "fyql4z2",
+            "is_submitter": false,
+            "link_id": "t3_huqx6j",
+            "parent_id": "t1_fyp6ht9",
+            "score": 5,
+            "stickied": false,
+            "author_name": "I_AM_ALWAYS_ANGRY"
+        },
+        "fyqg21f": {
+            "comment": "Thank you!",
+            "timeStamp": "2020/07/20-21:20:46",
+            "id": "fyqg21f",
+            "is_submitter": true,
+            "link_id": "t3_huqx6j",
+            "parent_id": "t1_fyorxx2",
+            "score": 0,
+            "stickied": false,
+            "author_name": "Jerysma"
+        },
+        "fyqg10n": {
+            "comment": "I'm planning to use but this file is always blocked by my antivirus software. I'm just curious what can this file do and why is this a threat to pc",
+            "timeStamp": "2020/07/20-21:20:26",
+            "id": "fyqg10n",
+            "is_submitter": true,
+            "link_id": "t3_huqx6j",
+            "parent_id": "t1_fyowq0y",
+            "score": -2,
+            "stickied": false,
+            "author_name": "Jerysma"
+        },
+        "fyp6ht9": {
+            "comment": "Use r/antivirus",
+            "timeStamp": "2020/07/20-14:11:23",
+            "id": "fyp6ht9",
+            "is_submitter": false,
+            "link_id": "t3_huqx6j",
+            "parent_id": "t3_huqx6j",
+            "score": 5,
+            "stickied": false,
+            "author_name": "hunterrocks77"
+        },
+        "fyowq0y": {
+            "comment": "So OP is using a pirated copy of Windows. :)",
+            "timeStamp": "2020/07/20-12:51:21",
+            "id": "fyowq0y",
+            "is_submitter": false,
+            "link_id": "t3_huqx6j",
+            "parent_id": "t1_fyorxx2",
+            "score": 3,
+            "stickied": false,
+            "author_name": "therein"
+        },
+        "fyorxx2": {
+            "comment": "[https://github.com/kkkgo/vlmcsd](https://github.com/kkkgo/vlmcsd) ?",
+            "timeStamp": "2020/07/20-12:12:28",
+            "id": "fyorxx2",
+            "is_submitter": false,
+            "link_id": "t3_huqx6j",
+            "parent_id": "t3_huqx6j",
+            "score": 6,
+            "stickied": false,
+            "author_name": "MrStricty"
+        }
+    }
+}

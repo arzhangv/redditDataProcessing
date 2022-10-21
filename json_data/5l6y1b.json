@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "More organizations are utilizing internet and IoT devices, but device manufacturers will sometimes \u201cnegligently avoid incorporating security-by-design into their systems.\u201d This happens because manufacturers have not been properly incentivized, and instead pass the potential risk onto the end-user.",
+        "score": 1,
+        "id": "5l6y1b",
+        "commsNum": 0,
+        "timeStamp": "2016/12/30-16:46:34",
+        "author_name": "_CastBound",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://healthitsecurity.com/news/icit-finds-healthcare-sector-at-great-risk-for-ddos-attacks"
+    },
+    "posts": {}
+}

@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[https://securityintelligence.com/news/popular-javascript-library-for-node-js-infected-with-malware-to-empty-bitcoin-wallets/](https://securityintelligence.com/news/popular-javascript-library-for-node-js-infected-with-malware-to-empty-bitcoin-wallets/)",
+        "title": "Popular JavaScript Library for Node.JS Infected With Malware to Empty Bitcoin Wallets",
+        "score": 1,
+        "id": "a67ryf",
+        "commsNum": 4,
+        "timeStamp": "2018/12/14-11:04:34",
+        "author_name": "vickiearse",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/a67ryf/popular_javascript_library_for_nodejs_infected/"
+    },
+    "posts": {
+        "ebt8xtk": {
+            "comment": "Old news",
+            "timeStamp": "2018/12/14-16:08:17",
+            "id": "ebt8xtk",
+            "is_submitter": false,
+            "link_id": "t3_a67ryf",
+            "parent_id": "t3_a67ryf",
+            "score": 5,
+            "stickied": false,
+            "author_name": "Noiwex"
+        },
+        "ebt487f": {
+            "comment": "Thank you!",
+            "timeStamp": "2018/12/14-14:55:35",
+            "id": "ebt487f",
+            "is_submitter": false,
+            "link_id": "t3_a67ryf",
+            "parent_id": "t1_ebspjkr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Cowicide"
+        },
+        "ebspjkr": {
+            "comment": "you may already be aware of these, but if not, here goes:\n\n[https://medium.com/@nodepractices/were-under-attack-23-node-js-security-best-practices-e33c146cb87d](https://medium.com/@nodepractices/were-under-attack-23-node-js-security-best-practices-e33c146cb87d)\n\n[https://www.idslogic.com/blog/2018/12/a-brief-overview-of-node-js-security-release-november-2018.html](https://www.idslogic.com/blog/2018/12/a-brief-overview-of-node-js-security-release-november-2018.html)\n\n[http://brakeingsecurity.com/2018-043-adam-baldwin-npmjs-director-of-security-event-stream-post-mortem-and-making-your-package-system-more-secure](http://brakeingsecurity.com/2018-043-adam-baldwin-npmjs-director-of-security-event-stream-post-mortem-and-making-your-package-system-more-secure)\n\n[https://checklyhq.com/blog/2018/12/node.js-api-and-web-frameworks-for-2019/](https://checklyhq.com/blog/2018/12/node.js-api-and-web-frameworks-for-2019/)\n\n&amp;#x200B;",
+            "timeStamp": "2018/12/14-11:39:16",
+            "id": "ebspjkr",
+            "is_submitter": true,
+            "link_id": "t3_a67ryf",
+            "parent_id": "t1_ebsnzfa",
+            "score": 5,
+            "stickied": false,
+            "author_name": "vickiearse"
+        },
+        "ebsnzfa": {
+            "comment": "I was JUST literally looking into node.js for security issues the other day.  WTF?!",
+            "timeStamp": "2018/12/14-11:21:06",
+            "id": "ebsnzfa",
+            "is_submitter": false,
+            "link_id": "t3_a67ryf",
+            "parent_id": "t3_a67ryf",
+            "score": -1,
+            "stickied": false,
+            "author_name": "Cowicide"
+        }
+    }
+}

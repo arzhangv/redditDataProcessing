@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "OmniRat - remote trojan for Android, Windows, Linux or Mac.",
+        "score": 23,
+        "id": "3rp7gy",
+        "commsNum": 4,
+        "timeStamp": "2015/11/05-16:25:29",
+        "author_name": "dantejones",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://blog.avast.com/2015/11/05/droidjack-isnt-the-only-spying-software-out-there-avast-discovers-that-omnirat-is-currently-being-used-and-spread-by-criminals-to-gain-full-remote-control-of-devices/"
+    },
+    "posts": {}
+}

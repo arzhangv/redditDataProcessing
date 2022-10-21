@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Recovering data from a disk encrypted by #NotPetya with Salsa20",
+        "score": 1,
+        "id": "6m0zt9",
+        "commsNum": 0,
+        "timeStamp": "2017/07/08-06:35:25",
+        "author_name": "maxxori",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://blog.ptsecurity.com/2017/07/recovering-data-from-disk-encrypted-by.html"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "My mother was complaining this morning that an app was using up lots of her data, however because she is not tech-savvy she did not know what was causing this.\n\nI took a peek at our service provider\u2019s data usage app, and \u201cUmeng.com\u201d was using gigabytes of data.\n\nWhen I searched Umeng on Google, I found Symantec documentation on it that it displays unauthorised advertisements, nags you to install random apps and sends information like your IMEI, service operator and GPS location to a remote area.\n\nI found an app called \u201cWutaCam\u201d, except the name was in Chinese and since Umeng was a Chinese-based platform, I decided to uninstall it under my suspicious.\n\nWas I correct in doing this?",
+        "title": "I identified \u201cUmeng\u201d infecting my mother\u2019s phone",
+        "score": 1,
+        "id": "9wtem1",
+        "commsNum": 0,
+        "timeStamp": "2018/11/13-13:37:00",
+        "author_name": "bb7548",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/9wtem1/i_identified_umeng_infecting_my_mothers_phone/"
+    },
+    "posts": {}
+}

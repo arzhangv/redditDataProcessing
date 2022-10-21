@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Soo my AdGuardHome instance keeps blocking a websote or smth. like that because its malware/phishing, the \"website\" is click-trk.com but i cant find any information/documentation about this website. \n\nThe query comes from my mother's windows laptop (asus).\n\nThanks in advance!",
+        "title": "click-trk.com",
+        "score": 1,
+        "id": "vjm84c",
+        "commsNum": 0,
+        "timeStamp": "2022/06/24-04:27:05",
+        "author_name": "MadeByAndWithLove",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/vjm84c/clicktrkcom/"
+    },
+    "posts": {
+        "idjqdik": {
+            "comment": "[https://otx.alienvault.com/indicator/url/http://www.trkdc.com](https://otx.alienvault.com/indicator/url/http://www.trkdc.com)\n\n&amp;#x200B;\n\n&amp;#x200B;\n\nive ran into a similar weird url",
+            "timeStamp": "2022/06/24-04:51:41",
+            "id": "idjqdik",
+            "is_submitter": false,
+            "link_id": "t3_vjm84c",
+            "parent_id": "t3_vjm84c",
+            "score": 1,
+            "stickied": false,
+            "author_name": "that-gostof-de-past"
+        }
+    }
+}

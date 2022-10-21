@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Machine Learning approach to Malware Detection.\n\nhttp://arxiv.org/ftp/arxiv/papers/1205/1205.3062.pdf\n\n This concept of coding antivirus detection software utilizing machine learning has been maturing exponentially since it's inception. The concepts behind this method are extensive and not the true direction I'd like to go with this post.\n\nI'm curious on malware coded in the same machine learning algorithms. I haven't found a single article leading to this approach to malware creation. I have very little experience with machine learning in this regard, so I'm curious if its even a feasible concept.\nCould a Malware author implement machine learning code to create malware that can recognize detection.\n\nIn theory the malware would detect reverse engineering attempts and \"Self destruct\". Malware that can detect tampering and run a \"polymorphic/metamorphic\" algorithm.  Finally, a Command and Control that can detect DNS sink holes or other take down methods and switch communication protocols.\n\nThose are just some of the ideas I've been thinking of, I'm interested if anyone can expand on this subject.\n\n",
+        "title": "Machine Learning and Malware creation",
+        "score": 1,
+        "id": "34j0nz",
+        "commsNum": 4,
+        "timeStamp": "2015/05/01-08:47:03",
+        "author_name": "sh1nu11bi",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/34j0nz/machine_learning_and_malware_creation/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Dynamic API Calls in .NET",
+        "score": 3,
+        "id": "32q0gh",
+        "commsNum": 0,
+        "timeStamp": "2015/04/15-13:01:47",
+        "author_name": "guitmz",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://vx.thomazi.me/posts/dynamic-api-calls-net"
+    },
+    "posts": {}
+}

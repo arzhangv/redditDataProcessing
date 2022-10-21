@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi everyone,\n\nAs a project I would want to incorporate this JS code in PDF. I dont really know why this isn't being executed when I open my PDF in adobe for exemple.\n\nvar file\\_path = \"[https://www.7-zip.org/a/7z1805.exe](https://www.7-zip.org/a/7z1805.exe)\"; var a=document.createElement('A'); a.href=file\\_path; a.download=file\\_path.substr(file\\_path.lastIndexOf('/'+1)); document.body.appendChild(a); [a.click](https://a.click)(); document.body.removeChild(a);\n\nThanks to you all!",
+        "title": "JS failing in PDF",
+        "score": 1,
+        "id": "a5w1p7",
+        "commsNum": 1,
+        "timeStamp": "2018/12/13-10:17:01",
+        "author_name": "jedai47",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/a5w1p7/js_failing_in_pdf/"
+    },
+    "posts": {
+        "ebpof92": {
+            "comment": "Not malware related",
+            "timeStamp": "2018/12/13-10:22:44",
+            "id": "ebpof92",
+            "is_submitter": false,
+            "link_id": "t3_a5w1p7",
+            "parent_id": "t3_a5w1p7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "edward_snowedin"
+        }
+    }
+}

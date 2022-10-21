@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "[deleted]",
+        "title": "Python script to decrypt the encrypted base64 strings present in the Avaddon binary, supports v1 and v2",
+        "score": 1,
+        "id": "hfafzi",
+        "commsNum": 0,
+        "timeStamp": "2020/06/24-14:59:41",
+        "author_name": "[deleted]",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://github.com/Securityinbits/scripts/tree/master/Avaddon%20Ransomware"
+    },
+    "posts": {}
+}

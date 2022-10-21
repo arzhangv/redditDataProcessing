@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "ClamAV and Fortinet have not fixed a false positive with my software for over 2 months after 20+ FP submissions",
+        "score": 36,
+        "id": "5fix65",
+        "commsNum": 10,
+        "timeStamp": "2016/11/29-06:30:49",
+        "author_name": "GeekAF",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 10,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.virustotal.com/en/file/61b5451350a110512d734f426a37e49721a7dea8170fd10f0a48974dedd971a5/analysis/"
+    },
+    "posts": {}
+}

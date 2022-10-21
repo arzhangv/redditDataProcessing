@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I have a VM for xp-SP3 and I have a honeypot installed on it, unfortunately I don't come across interesting stuff just your regular boring win32 worms. I was wondering how do the security companies manage to do this stuff? For instance, I read Symantec's review on the Duqu worm, how does one manage to get their system infected by such worms? Is it just hit and try? Or do they have something interesting that causes the attack vector to turn to a specific honeypot? If anyone can link to me a document or another website to read more on this, I'd much appreciate it. ",
+        "title": "Virtual Honeypot targeting for specific malware",
+        "score": 9,
+        "id": "r1hx3",
+        "commsNum": 7,
+        "timeStamp": "2012/03/17-18:29:39",
+        "author_name": "neo_smith",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": null,
+        "url": "http://www.reddit.com/r/Malware/comments/r1hx3/virtual_honeypot_targeting_for_specific_malware/"
+    },
+    "posts": {}
+}

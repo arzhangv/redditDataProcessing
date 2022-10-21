@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Paper: Unpacking &amp; Decrypting FlawedAmmyy",
+        "score": 16,
+        "id": "bh5lam",
+        "commsNum": 0,
+        "timeStamp": "2019/04/24-23:59:42",
+        "author_name": "Struppigel",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.sans.org/reading-room/whitepapers/reverseengineeringmalware/unpacking-decrypting-flawedammyy-38930"
+    },
+    "posts": {}
+}

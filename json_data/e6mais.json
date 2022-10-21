@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[removed]",
+        "title": "Suspicious Perl script running on background (cron every 5 minutes)",
+        "score": 1,
+        "id": "e6mais",
+        "commsNum": 0,
+        "timeStamp": "2019/12/05-11:36:49",
+        "author_name": "systadmin",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/e6mais/suspicious_perl_script_running_on_background_cron/"
+    },
+    "posts": {}
+}

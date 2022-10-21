@@ -1,0 +1,198 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Okay I don't know if this is the right place to post this but hopefully you guys can give me some tips. Also all this happened after someone sent me this file through Discord which I downloaded.\n\nSo my dumbass ran an infected exe file. Right away I figured something was wrong since I didn't see anything pop up and my computers fans started going crazy. However it asked for admin rights and once again. being stupid I allowed it for something called lanhost.exe\n\nThis happened for a solid 2-3 minutes before I realized I really screwed up since my desktop had gone completely black and all my icons were gone and all folders from my desktop were deleted. I instantly unplugged my Ethernet and shut down my computer. When I turned it back on (offline), I noticed I had lost all my downloads, pictures, and video recordings on my ssd and hard drive(my computer has both, a 256 GB ssd and a 2 TB hard drive) These folders along with all the folders I had on my desktop were completely deleted.\n\nFor reference, [here](https://www.virustotal.com/#/file/4db02e085975322ccae1c2b6fa5db41e0213897e8efd23a3cdc2b27e17cfd904/detection) is the VirusTotal of the infected file. Wish I had checked this beforehand but oh well.\n\nNow for some questions, what should I do? Were my photos and videos and downloads (close to 30 gb from ssd and 250 gb from hard drive) uploaded somewhere? (The big size from the hard drive is mainly video games) Is there anyway I could recover these files? How should I take care of the infected lanhost.exe?\n\nThanks in advance, I'm really worried and this is really pissing me off.",
+        "title": "Accidentally ran a Virus",
+        "score": 0,
+        "id": "95lbf3",
+        "commsNum": 15,
+        "timeStamp": "2018/08/08-04:52:02",
+        "author_name": "Itslitfam16",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 15,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/95lbf3/accidentally_ran_a_virus/"
+    },
+    "posts": {
+        "e43llcw": {
+            "comment": "[deleted]",
+            "timeStamp": "2018/08/12-22:53:34",
+            "id": "e43llcw",
+            "is_submitter": false,
+            "link_id": "t3_95lbf3",
+            "parent_id": "t1_e3tlw6n",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "e3tut8i": {
+            "comment": "Yeah I thought I was purchasing a ring0 hwid spoofer but obviously that\u2019s not what happened. I also don\u2019t know his motive.\n\nSo basically I paid him $10 first to even get it. He takes his time and asks me if I have intel or amd. I told him intel and after 10 minutes he sends me this shit. It looked super sketch but since I already paid for it, I ran it. Had this been something free I wouldn\u2019t have ran it but since i paid I just assumed everything would be okay because my main concern was receiving it. Then he tells me to turn off antivirus cuz it\u2019s a false positive blah blah. Well I finally ran it and instantly localhost.exe popped up for admin rights. My desktop went black and i didn\u2019t really notice till like a minute later since i was maximized. I messaged him telling nothing opened and he just asked if i gave admin rights. I then went to task manager to shut down the file(noVoid.exe) and it said it would shut down my pc. Well It gave me a bsod and my pc restarted. I messaged him wtf was going on and he blocked me.\n\nSo yeah I don\u2019t know what he was trying to do since if I\u2019m correct, if he deleted all those files, there\u2019s no way he uploaded them. It\u2019s like when those Tech Scammers go rogue and delete system32 or syskey.\n",
+            "timeStamp": "2018/08/08-08:23:43",
+            "id": "e3tut8i",
+            "is_submitter": false,
+            "link_id": "t3_95lbf3",
+            "parent_id": "t1_e3tti8q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Itslitfam16"
+        },
+        "e3tti8q": {
+            "comment": "I have to say this is a strange story. Nowadays most malware is motivated either financially or politically, and this seems to be neither. I mean, this rando on discord gets RCE on your computer via CVE-0 and wastes it on deleting all your files? What's in it for them? Can you maybe explain some more about how this person manipulated you to run the file?\n\nAnyway just from the vendor verdicts on VT, I would guess that the exe itself doesn't contain any core malicious functionality per se, and that it connected to a C&amp;C server to download the actual juicy parts. I will try to take a closer look at the file if I can find the time.\n\nLike others said, try to rescue your images and documents using forensic tools, and then install the OS from scratch.",
+            "timeStamp": "2018/08/08-08:05:25",
+            "id": "e3tti8q",
+            "is_submitter": false,
+            "link_id": "t3_95lbf3",
+            "parent_id": "t3_95lbf3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Triple_Elation"
+        },
+        "e3tqhqg": {
+            "comment": "SWEET MOTHER FUCK IM ON MY WAY TO DEFCON AND DONT HAVE TIME FOR YOUR SHIT",
+            "timeStamp": "2018/08/08-07:22:34",
+            "id": "e3tqhqg",
+            "is_submitter": false,
+            "link_id": "t3_95lbf3",
+            "parent_id": "t3_95lbf3",
+            "score": 1,
+            "stickied": true,
+            "author_name": "edward_snowedin"
+        },
+        "e3tlw6n": {
+            "comment": "I bet you could drop a collection of nishang scripts, dump credentials from browser and Windows, reg save some critical paths --&gt; exfil, change TCP keys or etc/hosts, and delete User data.\n\nNvm - thats just my imagination again. ",
+            "timeStamp": "2018/08/08-06:06:43",
+            "id": "e3tlw6n",
+            "is_submitter": false,
+            "link_id": "t3_95lbf3",
+            "parent_id": "t1_e3tkev6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "invest0rman"
+        },
+        "e3tky7a": {
+            "comment": "/r/techsupport ",
+            "timeStamp": "2018/08/08-05:48:53",
+            "id": "e3tky7a",
+            "is_submitter": false,
+            "link_id": "t3_95lbf3",
+            "parent_id": "t1_e3tkw1j",
+            "score": 0,
+            "stickied": false,
+            "author_name": "F3715H"
+        },
+        "e3tkw1j": {
+            "comment": "Sorry, could you tell me where I should go to then?",
+            "timeStamp": "2018/08/08-05:47:46",
+            "id": "e3tkw1j",
+            "is_submitter": false,
+            "link_id": "t3_95lbf3",
+            "parent_id": "t1_e3tkuce",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Itslitfam16"
+        },
+        "e3tkuce": {
+            "comment": "&gt; This is NOT a place for help with malware removal or various other end-user questions.\n",
+            "timeStamp": "2018/08/08-05:46:53",
+            "id": "e3tkuce",
+            "is_submitter": false,
+            "link_id": "t3_95lbf3",
+            "parent_id": "t3_95lbf3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "F3715H"
+        },
+        "e3tkjeo": {
+            "comment": "well no, but my pics and desktop folders were only 3 gb so it really depends on what was even uploaded first. And I don\u2019t think I can access it but according to virustotal it backdoors to some duckdns address.",
+            "timeStamp": "2018/08/08-05:40:59",
+            "id": "e3tkjeo",
+            "is_submitter": false,
+            "link_id": "t3_95lbf3",
+            "parent_id": "t1_e3tkev6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Itslitfam16"
+        },
+        "e3tkev6": {
+            "comment": "[deleted]",
+            "timeStamp": "2018/08/08-05:38:30",
+            "id": "e3tkev6",
+            "is_submitter": false,
+            "link_id": "t3_95lbf3",
+            "parent_id": "t1_e3tk5om",
+            "score": 2,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "e3tkcoe": {
+            "comment": "Could you explain the second part. Unfortunately for me I was basically on fiber speeds",
+            "timeStamp": "2018/08/08-05:37:19",
+            "id": "e3tkcoe",
+            "is_submitter": false,
+            "link_id": "t3_95lbf3",
+            "parent_id": "t1_e3tkb85",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Itslitfam16"
+        },
+        "e3tkb85": {
+            "comment": "doubt it if its a lot of data. think about your normal download times at your internet speed. but prob had time to set persistence and dl a second stage or open up a connection to the c2.",
+            "timeStamp": "2018/08/08-05:36:32",
+            "id": "e3tkb85",
+            "is_submitter": false,
+            "link_id": "t3_95lbf3",
+            "parent_id": "t1_e3tk5om",
+            "score": 1,
+            "stickied": false,
+            "author_name": "cybrsecurity"
+        },
+        "e3tk8kp": {
+            "comment": "So should I wipe both disks and install windows from a usb? Or would it be okay to not wipe my hard drive, since windows is installed on my ssd ",
+            "timeStamp": "2018/08/08-05:35:03",
+            "id": "e3tk8kp",
+            "is_submitter": false,
+            "link_id": "t3_95lbf3",
+            "parent_id": "t1_e3tiwgo",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Itslitfam16"
+        },
+        "e3tk5om": {
+            "comment": "Pretty much since I don\u2019t really care for what\u2019s left but do you think that within 3 minutes all that data was uploaded or was it just wiped?",
+            "timeStamp": "2018/08/08-05:33:28",
+            "id": "e3tk5om",
+            "is_submitter": false,
+            "link_id": "t3_95lbf3",
+            "parent_id": "t1_e3tk3fk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Itslitfam16"
+        },
+        "e3tk3fk": {
+            "comment": "ur fucked dude. cut the internet and burn that os",
+            "timeStamp": "2018/08/08-05:32:12",
+            "id": "e3tk3fk",
+            "is_submitter": false,
+            "link_id": "t3_95lbf3",
+            "parent_id": "t3_95lbf3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "cybrsecurity"
+        },
+        "e3tiwgo": {
+            "comment": "I would just wipe the system and start fresh. Learn from your mistake.\n\nIf you really wanted you could boot off a USB stick into a live Ubuntu session to examine the NTFS partition to see if you can copy off your photos. Even then I would be double or triple scanning all that with malwarebytes and whatever else.",
+            "timeStamp": "2018/08/08-05:07:06",
+            "id": "e3tiwgo",
+            "is_submitter": false,
+            "link_id": "t3_95lbf3",
+            "parent_id": "t3_95lbf3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ROOtheday22"
+        }
+    }
+}

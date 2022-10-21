@@ -1,0 +1,110 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "[removed]",
+        "title": "What is PEid in malware analysis ?",
+        "score": 1,
+        "id": "idepdv",
+        "commsNum": 9,
+        "timeStamp": "2020/08/20-10:29:02",
+        "author_name": "wannabeHacker3301",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 9,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/idepdv/what_is_peid_in_malware_analysis/"
+    },
+    "posts": {
+        "g2kjkhn": {
+            "comment": "&gt;PEiD is a depacker. \n\nHardly. Its mostly a PE scanner, and just a scanner (but it has sur unpacking plugins i admit). A bit like yara and Detect It Easy.\n\nFor unpacking either you do it manually with a debugger and dumping tools or you use specialised tools but PEID is none of them.",
+            "timeStamp": "2020/08/23-03:23:13",
+            "id": "g2kjkhn",
+            "is_submitter": false,
+            "link_id": "t3_idepdv",
+            "parent_id": "t1_g290gbv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RCEdude"
+        },
+        "g2a9wf7": {
+            "comment": "You know it\u2019s easy to search engine an answer like this right? There\u2019s literally no value in a discussion like this, and it\u2019s clear that OP isn\u2019t putting in the effort.\n\nIf you literally can\u2019t open a search engine and type you don\u2019t deserve to be in this industry. That\u2019s a pretty fucking low barrier of entry. \n\nYou clowns can downvote me harder though if you want.",
+            "timeStamp": "2020/08/20-19:24:27",
+            "id": "g2a9wf7",
+            "is_submitter": false,
+            "link_id": "t3_idepdv",
+            "parent_id": "t1_g2a98di",
+            "score": 1,
+            "stickied": false,
+            "author_name": "commandlineinterface"
+        },
+        "g2a98di": {
+            "comment": "You know asking other people is considered research right?",
+            "timeStamp": "2020/08/20-19:18:20",
+            "id": "g2a98di",
+            "is_submitter": false,
+            "link_id": "t3_idepdv",
+            "parent_id": "t1_g29q4ba",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TheCrowGrandfather"
+        },
+        "g29u2xe": {
+            "comment": "prince edward identification and that plug in will add signatures into your download tab",
+            "timeStamp": "2020/08/20-17:00:16",
+            "id": "g29u2xe",
+            "is_submitter": false,
+            "link_id": "t3_idepdv",
+            "parent_id": "t3_idepdv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "switchlegend"
+        },
+        "g29q4ba": {
+            "comment": "Do your own homework.",
+            "timeStamp": "2020/08/20-16:24:00",
+            "id": "g29q4ba",
+            "is_submitter": false,
+            "link_id": "t3_idepdv",
+            "parent_id": "t3_idepdv",
+            "score": 0,
+            "stickied": false,
+            "author_name": "commandlineinterface"
+        },
+        "g29fn7v": {
+            "comment": "I wouldn't say a de(un)packer, it's a handy static analysis tool to discern if/what type of packer/crypter/protector has obfuscated a binary, else what compiler signature it has (which can be handy for plotting next steps/ what tools to decompile it).\n\nIt's a popular tool for this and has some other handy features/plugins (I sometimes use it to check the strings). If you're just at it to find out the obfuscator, I'd use [ExeInfoPE](https://exeinfo-pe.en.uptodown.com/windows#:~:text=Exeinfo%20PE%20is%20a%20program,exe%2C%20or%20simply%20delete%20it.&amp;text=In%20short%2C%20you%20can%20access,edit%20any%20Windows%20executable%20file.). It's got a signature database of about 4.5k at only the cost of a decent user interface (versus about 600 for PEiD)",
+            "timeStamp": "2020/08/20-14:53:53",
+            "id": "g29fn7v",
+            "is_submitter": false,
+            "link_id": "t3_idepdv",
+            "parent_id": "t1_g290gbv",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Fizzcarzi"
+        },
+        "g290gbv": {
+            "comment": "PEiD is a depacker.  There are packers that are used to compress PE files.  They can be used to avoid detection by antivirus because they change the common types of signatures like hashes.   [https://www.aldeid.com/wiki/PEiD](https://www.aldeid.com/wiki/PEiD)\n\nUnpacking a PE file can make malware analysis much easier.",
+            "timeStamp": "2020/08/20-13:03:59",
+            "id": "g290gbv",
+            "is_submitter": false,
+            "link_id": "t3_idepdv",
+            "parent_id": "t3_idepdv",
+            "score": 2,
+            "stickied": false,
+            "author_name": "TParis00ap"
+        },
+        "g28f1kj": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2020/08/20-10:29:02",
+            "id": "g28f1kj",
+            "is_submitter": false,
+            "link_id": "t3_idepdv",
+            "parent_id": "t3_idepdv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

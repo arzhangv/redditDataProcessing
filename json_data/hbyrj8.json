@@ -1,0 +1,121 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Posted this a couple of years ago to no avail. Is there any information about it not all ready widely known?",
+        "title": "Looking for information on Trojan.Win32.Arcticbomb",
+        "score": 1,
+        "id": "hbyrj8",
+        "commsNum": 9,
+        "timeStamp": "2020/06/19-04:07:05",
+        "author_name": "LolYouPt2q",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 9,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/hbyrj8/looking_for_information_on_trojanwin32arcticbomb/"
+    },
+    "posts": {
+        "fvcps4w": {
+            "comment": "Trojan != e-mail.  A lot of these malware were usually renamed to give the appearance they were legitimate code.  USENET would be regularly seeded with code renamed to reflect PDF files, MP3 files, WAV files or similar shared files.\n\nPractical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software is a good book that covers analysis of code.  From what I found with my quick searches is that is was built around \"zip\" bomb. Purpose built archives that would overwrite your hard drive if extracted. They just added a \"quite\" section of code that gave you the \"explosion\" graphics.",
+            "timeStamp": "2020/06/19-09:45:27",
+            "id": "fvcps4w",
+            "is_submitter": false,
+            "link_id": "t3_hbyrj8",
+            "parent_id": "t1_fvc2dnw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Farstone"
+        },
+        "fvc2r8u": {
+            "comment": "So what are you asking for that you didn\u2019t get from Googling it?",
+            "timeStamp": "2020/06/19-06:22:21",
+            "id": "fvc2r8u",
+            "is_submitter": false,
+            "link_id": "t3_hbyrj8",
+            "parent_id": "t1_fvc2nqf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "grub5000"
+        },
+        "fvc2nqf": {
+            "comment": "No way. This thing was no-where near that high-profile to have a report made.",
+            "timeStamp": "2020/06/19-06:21:20",
+            "id": "fvc2nqf",
+            "is_submitter": true,
+            "link_id": "t3_hbyrj8",
+            "parent_id": "t1_fvbwq70",
+            "score": 1,
+            "stickied": false,
+            "author_name": "LolYouPt2q"
+        },
+        "fvc2dnw": {
+            "comment": "Well I reckon I knew that it was x86 but I was mainly looking for any possible information on its real damage it dealt to people and how it spread. Since it's classified as a Trojan, it had to have spread through email in that time. But I have no clue where to find sources on it.",
+            "timeStamp": "2020/06/19-06:18:28",
+            "id": "fvc2dnw",
+            "is_submitter": true,
+            "link_id": "t3_hbyrj8",
+            "parent_id": "t1_fvbzvp4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "LolYouPt2q"
+        },
+        "fvbzvp4": {
+            "comment": "What I found points to old malware.  Targeted Win9X operating systems, but didn't work on any newer OS's using the NT kernel.\n\nIs that what you are looking for?",
+            "timeStamp": "2020/06/19-05:51:40",
+            "id": "fvbzvp4",
+            "is_submitter": false,
+            "link_id": "t3_hbyrj8",
+            "parent_id": "t3_hbyrj8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Farstone"
+        },
+        "fvbwq70": {
+            "comment": "Define widely known? Are you looking for like a TLP:AMBER+ internal report or something?",
+            "timeStamp": "2020/06/19-05:14:36",
+            "id": "fvbwq70",
+            "is_submitter": false,
+            "link_id": "t3_hbyrj8",
+            "parent_id": "t3_hbyrj8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "grub5000"
+        },
+        "fvbuca0": {
+            "comment": "Got a hash?",
+            "timeStamp": "2020/06/19-04:43:22",
+            "id": "fvbuca0",
+            "is_submitter": false,
+            "link_id": "t3_hbyrj8",
+            "parent_id": "t3_hbyrj8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "gonzo_au"
+        },
+        "fvbstwn": {
+            "comment": "Whoever wrote this article is as uninformed as I am about the trojan. I'd like to know if it ever spread or how much damage it caused. Moreover, the article cites no actual sources.",
+            "timeStamp": "2020/06/19-04:22:20",
+            "id": "fvbstwn",
+            "is_submitter": true,
+            "link_id": "t3_hbyrj8",
+            "parent_id": "t1_fvbsfb5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "LolYouPt2q"
+        },
+        "fvbsfb5": {
+            "comment": "https://malware.wikia.org/wiki/Arcticbomb",
+            "timeStamp": "2020/06/19-04:16:30",
+            "id": "fvbsfb5",
+            "is_submitter": false,
+            "link_id": "t3_hbyrj8",
+            "parent_id": "t3_hbyrj8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "poezda"
+        }
+    }
+}

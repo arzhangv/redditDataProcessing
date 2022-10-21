@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Beware of 'Coronavirus Maps' - It's a malware infecting computers",
+        "score": 1,
+        "id": "fhi5y1",
+        "commsNum": 3,
+        "timeStamp": "2020/03/12-08:35:00",
+        "author_name": "DecryptMedia",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://decrypt.co/22197/a-coronavirus-map-is-infecting-computers?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=smm"
+    },
+    "posts": {
+        "fld9kvp": {
+            "comment": "[One of the best](https://www.worldometers.info/coronavirus/#countries) sources I have found on providing a picture of the world along with individual countries.",
+            "timeStamp": "2020/03/24-07:23:47",
+            "id": "fld9kvp",
+            "is_submitter": false,
+            "link_id": "t3_fhi5y1",
+            "parent_id": "t3_fhi5y1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "liesthroughhisteeth"
+        },
+        "fkdthiw": {
+            "comment": "Only if you have downloaded the map. I think you'll be fine if you're browsing the site. Correct me if I'm wrong.",
+            "timeStamp": "2020/03/13-03:14:04",
+            "id": "fkdthiw",
+            "is_submitter": false,
+            "link_id": "t3_fhi5y1",
+            "parent_id": "t3_fhi5y1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Sabiqoon"
+        },
+        "fkb6w0x": {
+            "comment": "[removed]",
+            "timeStamp": "2020/03/12-08:35:14",
+            "id": "fkb6w0x",
+            "is_submitter": false,
+            "link_id": "t3_fhi5y1",
+            "parent_id": "t3_fhi5y1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

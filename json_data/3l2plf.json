@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Anyone know any details on how to pull out config file?\nAlso looking for samples. Thanks!",
+        "title": "Looking for corebot info, samples",
+        "score": 7,
+        "id": "3l2plf",
+        "commsNum": 1,
+        "timeStamp": "2015/09/15-11:51:34",
+        "author_name": "chortlingglee",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/3l2plf/looking_for_corebot_info_samples/"
+    },
+    "posts": {}
+}

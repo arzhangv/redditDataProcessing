@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hello.  I am in the planning stage of setting up a malware zoo / automated lab.  There is a lot of information in [this Sans paper](http://www.sans.org/reading-room/whitepapers/malicious/building-malware-zoo-33543) but I was hoping on getting information from the community on your setups and implementations.  All comments are welcome whether it be high level overview or more specifics about tools you've integrated into the lab.  \n\nMy plan is to have a database to store the files and all analysis done.  Basic static analysis will be automated along with some dynamic with a sandbox such as cuckoo.  Again, any suggestions and/or thoughts are welcome.  Thank you.",
+        "title": "Malware lab / Zoo Setup for storage and automation.",
+        "score": 10,
+        "id": "2bgczq",
+        "commsNum": 7,
+        "timeStamp": "2014/07/22-18:42:09",
+        "author_name": "everythingmalware",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2bgczq/malware_lab_zoo_setup_for_storage_and_automation/"
+    },
+    "posts": {}
+}

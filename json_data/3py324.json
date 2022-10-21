@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I'm trying to gain a deeper understanding of how Windows works, and I'm trying to read through Windows Internals.\n\nBut it's *really* dry and boring. There are no code examples. There's the occasional \"experiment\". It just feels like a dump of information.\n\nHas anyone read through both of the books? Did you find that it helped you gain a deeper understanding of Windows? Do you have any recommendations when reading it?",
+        "title": "Reading Windows Internals",
+        "score": 7,
+        "id": "3py324",
+        "commsNum": 7,
+        "timeStamp": "2015/10/23-12:52:14",
+        "author_name": "quest23423",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/3py324/reading_windows_internals/"
+    },
+    "posts": {}
+}

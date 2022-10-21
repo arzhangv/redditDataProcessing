@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Cisco Talos warns that Tuto4PC installed a Backdoor on 12 Million PCs",
+        "score": 1,
+        "id": "4gugl7",
+        "commsNum": 0,
+        "timeStamp": "2016/04/28-08:21:25",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/46797/malware/tuto4pc-backdoor.html"
+    },
+    "posts": {}
+}

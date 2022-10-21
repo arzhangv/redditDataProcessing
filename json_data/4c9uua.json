@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "This nasty ransomware overwrites your PC's master boot record | PCWorld",
+        "score": 1,
+        "id": "4c9uua",
+        "commsNum": 0,
+        "timeStamp": "2016/03/28-05:03:25",
+        "author_name": "lenatschool",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.pcworld.com/article/3046626/security/petya-ransomware-overwrites-mbrs-locking-users-out-of-their-computers.html"
+    },
+    "posts": {}
+}

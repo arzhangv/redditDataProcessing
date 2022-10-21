@@ -1,0 +1,176 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Just got a new Dell computer, pre-installed with McAfee, par for the course. But this time, I don't seem to be able to uninstall. I have had pretty good luck with Defender, and and occasional scan with superspywareremoval and malwarebytes. Anyone else have this problem or know workarounds?",
+        "title": "force fed McAfee",
+        "score": 1,
+        "id": "dvc4i6",
+        "commsNum": 14,
+        "timeStamp": "2019/11/12-08:15:31",
+        "author_name": "gene789",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 14,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/dvc4i6/force_fed_mcafee/"
+    },
+    "posts": {
+        "f7eq4c4": {
+            "comment": "I'm kinda new to reddit, I should have read a little deeper before posting. Learning",
+            "timeStamp": "2019/11/13-08:42:24",
+            "id": "f7eq4c4",
+            "is_submitter": true,
+            "link_id": "t3_dvc4i6",
+            "parent_id": "t1_f7eogua",
+            "score": 1,
+            "stickied": false,
+            "author_name": "gene789"
+        },
+        "f7eogua": {
+            "comment": "No problem at all! I just like to chime in when I see a post that's been downvoted many times, but nobody has outright explained WHY it's downvoted when it's just because this isn't the place to ask to remove malware or in your case, potentially unwanted programs (often except for the ones when people with questionable motives ask something that doesn't appear aboveboard). Especially now that I cannot see the stupid sidebar, so I'm not sure if others can see it either. \n\nThe mods added a sticky to the top of the sub, but it's easy to miss.\n\n&amp;#x200B;\n\nGood luck!",
+            "timeStamp": "2019/11/13-08:24:51",
+            "id": "f7eogua",
+            "is_submitter": false,
+            "link_id": "t3_dvc4i6",
+            "parent_id": "t1_f7elq8a",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Sam-Gunn"
+        },
+        "f7elq8a": {
+            "comment": "Thanks, sorry about that!",
+            "timeStamp": "2019/11/13-07:55:28",
+            "id": "f7elq8a",
+            "is_submitter": true,
+            "link_id": "t3_dvc4i6",
+            "parent_id": "t1_f7c2qfr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "gene789"
+        },
+        "f7ekbkt": {
+            "comment": "thanks!",
+            "timeStamp": "2019/11/13-07:39:57",
+            "id": "f7ekbkt",
+            "is_submitter": true,
+            "link_id": "t3_dvc4i6",
+            "parent_id": "t1_f7clh6x",
+            "score": 1,
+            "stickied": false,
+            "author_name": "gene789"
+        },
+        "f7eiqiu": {
+            "comment": "Hence my point of \"Potentially Unwanted Programs\".",
+            "timeStamp": "2019/11/13-07:22:35",
+            "id": "f7eiqiu",
+            "is_submitter": false,
+            "link_id": "t3_dvc4i6",
+            "parent_id": "t1_f7cvync",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Sam-Gunn"
+        },
+        "f7d2dpr": {
+            "comment": "[removed]",
+            "timeStamp": "2019/11/12-16:43:53",
+            "id": "f7d2dpr",
+            "is_submitter": false,
+            "link_id": "t3_dvc4i6",
+            "parent_id": "t1_f7cvync",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "f7cvync": {
+            "comment": "He\u2019s not asking about malware....",
+            "timeStamp": "2019/11/12-15:27:44",
+            "id": "f7cvync",
+            "is_submitter": false,
+            "link_id": "t3_dvc4i6",
+            "parent_id": "t1_f7c2qfr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AlfredoVignale"
+        },
+        "f7cqt03": {
+            "comment": "I actually love my e7240, to say they are all bad is lazy and disingenuous. Maybe its because it's enterprise hw refurbed by myself, but its a great piece of hardware and the trackpad on it rivals macbooks.  Having virtualization and it actually run well is also a huge plus",
+            "timeStamp": "2019/11/12-14:33:35",
+            "id": "f7cqt03",
+            "is_submitter": false,
+            "link_id": "t3_dvc4i6",
+            "parent_id": "t1_f7btpth",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mallamike"
+        },
+        "f7clh6x": {
+            "comment": "John can help you:\nhttps://www.youtube.com/watch?v=bKgf5PaBzyg",
+            "timeStamp": "2019/11/12-13:40:43",
+            "id": "f7clh6x",
+            "is_submitter": false,
+            "link_id": "t3_dvc4i6",
+            "parent_id": "t3_dvc4i6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "BP8270"
+        },
+        "f7c3f0u": {
+            "comment": "I usually do that, was in a rush this time and now regret it. Will take a cpl hours and redo. Thanks for the reminder",
+            "timeStamp": "2019/11/12-10:32:22",
+            "id": "f7c3f0u",
+            "is_submitter": true,
+            "link_id": "t3_dvc4i6",
+            "parent_id": "t1_f7bqpob",
+            "score": 1,
+            "stickied": false,
+            "author_name": "gene789"
+        },
+        "f7c2qfr": {
+            "comment": "This sub is not for malware or in your case potentially unwanted programs/applications removal, but instead for malware analyses, discussions relating to malware analysis, etc.\n\nYou may have better luck trying /r/techsupport\n\nHmm, not sure where the sidebar went in this new Reddit GUI, but it used to give a few more good subreddits to visit for this on there. Good luck!",
+            "timeStamp": "2019/11/12-10:25:17",
+            "id": "f7c2qfr",
+            "is_submitter": false,
+            "link_id": "t3_dvc4i6",
+            "parent_id": "t3_dvc4i6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Sam-Gunn"
+        },
+        "f7c2dsw": {
+            "comment": "Not related, but I agree with the don't by dell. They tend to have a lot of bloatware and their quality is bad. Especially their budget computers such as their Inspiron series. Then, the best is the Lenovo IdeaPad. Nice and reliable with great keyboards, though the trackpads wear out eventually and become unusable, unfortunately.",
+            "timeStamp": "2019/11/12-10:21:36",
+            "id": "f7c2dsw",
+            "is_submitter": false,
+            "link_id": "t3_dvc4i6",
+            "parent_id": "t1_f7btpth",
+            "score": 1,
+            "stickied": false,
+            "author_name": "IThobby"
+        },
+        "f7btpth": {
+            "comment": "Don\u2019t by Dell, don\u2019t run Windows.",
+            "timeStamp": "2019/11/12-08:49:56",
+            "id": "f7btpth",
+            "is_submitter": false,
+            "link_id": "t3_dvc4i6",
+            "parent_id": "t3_dvc4i6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Pip_Chips"
+        },
+        "f7bqpob": {
+            "comment": "I always re-install Windows whenever I buy a new computer. I never run it off of the base image that comes loaded. Hopefully you haven't done too much personalization, because that's the route I'd go with. Best way to remove malware is to just nuke the OS ;)",
+            "timeStamp": "2019/11/12-08:17:24",
+            "id": "f7bqpob",
+            "is_submitter": false,
+            "link_id": "t3_dvc4i6",
+            "parent_id": "t3_dvc4i6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ImpressiveWordk"
+        }
+    }
+}

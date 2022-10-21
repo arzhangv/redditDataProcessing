@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Good morning,\n\nI just released a new video in the Introduction to Windows Forensics series called \u201cIntroduction to USB Detective\u201d, exploring the new USB device forensics tool written by @jasonshale. Learn how this tool stands out from others in its category.\n\nAs a side note, this is not a sponsored video. I reached out to the author of the tool after reading about it on a forensics website. He was kind enough to provide me with a professional license to use to review the tool, but there is also a free community version which incorporates most of the same functionality.\n\nVideo:\nhttps://www.youtube.com/watch?v=z98edP0ZD9o \n\nChannel:\nhttps://www.youtube.com/13cubed",
+        "title": "Introduction to USB Detective (X-Post)",
+        "score": 22,
+        "id": "88zs4l",
+        "commsNum": 4,
+        "timeStamp": "2018/04/02-07:39:22",
+        "author_name": "13Cubed",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/88zs4l/introduction_to_usb_detective_xpost/"
+    },
+    "posts": {
+        "dwp9yu8": {
+            "comment": "Thanks! Much appreciated. Please share with anyone who would be interested.",
+            "timeStamp": "2018/04/02-17:19:20",
+            "id": "dwp9yu8",
+            "is_submitter": true,
+            "link_id": "t3_88zs4l",
+            "parent_id": "t1_dwp9xgs",
+            "score": 1,
+            "stickied": false,
+            "author_name": "13Cubed"
+        },
+        "dwp9xgs": {
+            "comment": "Wow, I can't believe I haven't stumbled upon your videos before. Your channel looks awesome and very informative, thanks for the great content!",
+            "timeStamp": "2018/04/02-17:18:36",
+            "id": "dwp9xgs",
+            "is_submitter": false,
+            "link_id": "t3_88zs4l",
+            "parent_id": "t3_88zs4l",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Milkmanps3"
+        },
+        "dwp5ba0": {
+            "comment": "Thx!",
+            "timeStamp": "2018/04/02-15:41:49",
+            "id": "dwp5ba0",
+            "is_submitter": true,
+            "link_id": "t3_88zs4l",
+            "parent_id": "t1_dwp40yl",
+            "score": 1,
+            "stickied": false,
+            "author_name": "13Cubed"
+        },
+        "dwp40yl": {
+            "comment": "Big fan of your videos! Keep up the good work!",
+            "timeStamp": "2018/04/02-15:13:11",
+            "id": "dwp40yl",
+            "is_submitter": false,
+            "link_id": "t3_88zs4l",
+            "parent_id": "t3_88zs4l",
+            "score": 1,
+            "stickied": false,
+            "author_name": "pimmytrousers"
+        }
+    }
+}

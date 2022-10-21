@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hey /r/Malware\n\nIn regards to my previous post, assuming people reading this have seen my previous post, it appears quite a few people are interested in seeing me talk about it. I need to emphasize again that I am not an expert on Malware. I am just a long time hobbyist. I hope that when I talk about it I have people giving feedback in-real time, asking questions, contributing, and if I am wrong about anything- correcting me.\n\nI don't know what to talk about or where so I will let you guys decide.\n\n- What should I discuss? http://www.strawpoll.me/14059225\n\n- Where should I discuss it? http://www.strawpoll.me/14059229\n\n- When should I talk? http://www.strawpoll.me/14059245\n\n- My previous post: https://www.reddit.com/r/Malware/comments/73q1oq/thinking_about_doing_a_twitch_stream_or_something/\n\nLeave a comment if you want to add anything else / everything else. I appreciate everyone who is willing to pay attention and share info with others!",
+        "title": "Thinking about doing a twitch stream or something discussing malware (Part 2)",
+        "score": 28,
+        "id": "73uklg",
+        "commsNum": 8,
+        "timeStamp": "2017/10/02-11:16:46",
+        "author_name": "dwThread",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 8,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/73uklg/thinking_about_doing_a_twitch_stream_or_something/"
+    },
+    "posts": {
+        "dny8ga1": {
+            "comment": "[removed]",
+            "timeStamp": "2017/10/05-09:56:38",
+            "id": "dny8ga1",
+            "is_submitter": false,
+            "link_id": "t3_73uklg",
+            "parent_id": "t3_73uklg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "dnu4xgg": {
+            "comment": "I checked out. May be a good try but YouTube seems the most popular because literally everyone watches YouTube. Good link though. Never heard of it before :)",
+            "timeStamp": "2017/10/02-23:08:06",
+            "id": "dnu4xgg",
+            "is_submitter": true,
+            "link_id": "t3_73uklg",
+            "parent_id": "t1_dntmjds",
+            "score": 1,
+            "stickied": false,
+            "author_name": "dwThread"
+        },
+        "dntmjds": {
+            "comment": "Check out livecoding.tv.  Might be a better target crowd.",
+            "timeStamp": "2017/10/02-15:57:45",
+            "id": "dntmjds",
+            "is_submitter": false,
+            "link_id": "t3_73uklg",
+            "parent_id": "t3_73uklg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TParis00ap"
+        },
+        "dntm84d": {
+            "comment": "Thanks for the advice. I won't be purchasing a special mic though for the talk. I planned on sitting back in my chair and just shooting the shit with whosever hops in and spreading some knowledge, ya know?",
+            "timeStamp": "2017/10/02-15:51:17",
+            "id": "dntm84d",
+            "is_submitter": true,
+            "link_id": "t3_73uklg",
+            "parent_id": "t1_dntjqhr",
+            "score": 2,
+            "stickied": false,
+            "author_name": "dwThread"
+        },
+        "dntjqhr": {
+            "comment": "Hey, I'm working on a course right now (not-malware). So you get a nice streaming tl;dr -\n\n**Software**\n\n[OBS](https://obsproject.com/) - Free, open source, streaming and screen recording.\n\n[Camtasia](https://www.techsmith.com/video-editor.html) - Paid, a little simpler, good for screen recording (fine if you're just uploading to Youtube).\n\n**Mic** \n\nConsensus is to get a [Blue Yeti](https://www.amazon.com/Blue-Yeti-USB-Microphone-Silver/dp/B002VA464S). Get a pop filter, mic stand, and a shock mount to reduce ambient noise / vibrations coming through your desk.\n\n**Recording**\n\nRecord a lower resolution portion of your screen (e.g. 1280x720). This will make your videos way more legible. I usually set my monitor resolution (from 2560x1440) to 1920x1080, then record a 1280x720 portion of that. \n\nRemember to speak slowly, use the tone of your voice, and enunciate.",
+            "timeStamp": "2017/10/02-15:00:32",
+            "id": "dntjqhr",
+            "is_submitter": false,
+            "link_id": "t3_73uklg",
+            "parent_id": "t3_73uklg",
+            "score": 3,
+            "stickied": false,
+            "author_name": "__GG"
+        },
+        "dnt7h6g": {
+            "comment": "Ping /u/Celebrinborn /u/Tiktoor /u/Chicken_Panda /u/OkeepTooth /u/Legendofmudkip /u/yallapapi /u/CipheredBytes /u/HydraBroodmaster /u/insec99 /u/twrdosaurus /u/zushiba /u/maliciousidea /u/HereticalHermit /u/paperboy-",
+            "timeStamp": "2017/10/02-11:19:20",
+            "id": "dnt7h6g",
+            "is_submitter": true,
+            "link_id": "t3_73uklg",
+            "parent_id": "t3_73uklg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "dwThread"
+        }
+    }
+}

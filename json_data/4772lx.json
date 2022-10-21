@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Locky will seek to encrypt any files that it can find, except for core Windows operating system files. The list of files and extensions it targets is as follows",
+        "score": 14,
+        "id": "4772lx",
+        "commsNum": 10,
+        "timeStamp": "2016/02/23-07:28:36",
+        "author_name": "Deeganwa_Eden5",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 10,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://blogs.forcepoint.com/security-labs/locky-ransomware-encrypts-documents-databases-code-bitcoin-wallets-and-more"
+    },
+    "posts": {}
+}

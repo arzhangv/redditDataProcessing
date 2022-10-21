@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "My kids play a Windows game called Star Stable Online. The game is based on an older version called 'Star Stable' by Hidden Entertainment AB in Sweden. For Christmas I bought the game **Star Stable: Winter Riders** (off Ebay 2nd hand) and it came in very good condition. Since I have been gaining a knack for getting Windows games to run in Linux, I decided to test it out in Wine to see how it performed. It runs perfect with my configurations so I was ready to install it on her Windows machine. When I mounted the disc, I used Autoplay to run the setup.exe file and installed the game. After that I made a backup .iso file to play without the disc and at that point I realized that when I explore the disc file structure,  Windows prompts with a message that I can't explore the drive because it contains a virus, and when I went ahead and explored anyways through 'My Computer' AVAST greeted me with a message that the main .exe file of the game is a TROJAN! \n\nIn the game disc there is a setupe.exe and another called **PXRoute.exe** and that .exe in the disc was identified as **Win32:Agent-ATZC \\[Trj\\]** and was moved to the 'chest' (rofl)\n\nWhen the game is installed on hard drive there is no PXRoute.exe but the game is launched with PXStudioEngine.exe and not any &lt;gamename&gt;.exe , like most Windows games are.\n\nNow that this happened I see that Star Stable Online (the newer game that is actively developed) has a file in it's install directory called PXStudioRuntimeMMO.exe but the Online game is launched with StarStable.exe\n\n&amp;#x200B;\n\nMy questions are:\n\n1) Should I be concerned with this affecting my Linux system directly (since I installed it via PlayOnLinux WINE) or over the network if her Windows system is infected?\n\n2) Has anyone ever looked into the development of this game using a known Trojan .exe as a game launcher?\n\n&amp;#x200B;\n\nIf anyone can recommend a subreddit to post this to to get in touch with anyone looking into malicious game developers that would be awesome because everything about this Star Stable series really screams scam/virus. Their MMO version and their website is obviously tracking people and the whole game is ridiculously expensive and traps children into spending their parent's money frivolously. I havent noticed and 'loot boxes' yet though but My daughters and I do play as free riders so maybe we cant use them yet, if there are any. \n\nI bought the older version (which was released in 2009 I think) because my daughter is 8 and loves horses and Star Stable is the best horse riding game out there (when it comes to realistic riding physics and open world features). \n\nI'm so sad this happened.\n\nThanks for your time people. ",
+        "title": "Star Stable Winter Riders (PXRoute.exe in disc's root directory) showed as Win32:Agent-ATZC [Trj] w / AVAST",
+        "score": 1,
+        "id": "a732qo",
+        "commsNum": 1,
+        "timeStamp": "2018/12/17-11:36:53",
+        "author_name": "starseed-pl",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/a732qo/star_stable_winter_riders_pxrouteexe_in_discs/"
+    },
+    "posts": {
+        "ec085md": {
+            "comment": "Here is a document I made with the results from [VirusTotal.com](https://VirusTotal.com)\n\n[https://docs.google.com/document/d/1EaxYQrZBBoQQ6jiNnWTn1ZT42VuvLEn3sNsSNAChLrg/edit?usp=sharing](https://docs.google.com/document/d/1EaxYQrZBBoQQ6jiNnWTn1ZT42VuvLEn3sNsSNAChLrg/edit?usp=sharing)\n\n&amp;#x200B;",
+            "timeStamp": "2018/12/17-14:10:10",
+            "id": "ec085md",
+            "is_submitter": true,
+            "link_id": "t3_a732qo",
+            "parent_id": "t3_a732qo",
+            "score": 1,
+            "stickied": false,
+            "author_name": "starseed-pl"
+        }
+    }
+}

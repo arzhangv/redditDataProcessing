@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I just got the book Practical Malware Analysis in order to expand my knowledge, and find it very interesting, definitely something I could get further into. While I understand everything written, I am unfamiliar with the different services, function calls, a bunch of other stuff is just outside of my experience. What should I be reading, or doing, as a primer to getting into malware analysis? At the moment, I am no guru, A+, Net+, some programing experience. \n\nThanks for any assistance or insight. \n",
+        "title": "What are some good foundations for Malware Analysis?",
+        "score": 19,
+        "id": "3g7oqo",
+        "commsNum": 5,
+        "timeStamp": "2015/08/07-21:46:00",
+        "author_name": "Mindless_Consumer",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/3g7oqo/what_are_some_good_foundations_for_malware/"
+    },
+    "posts": {}
+}

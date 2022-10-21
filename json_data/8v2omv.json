@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hello, I'm a novice reverse engineer and I am struggling with my first malware problem. I'm trying to find out the effects of the ransomware, but no matter what I try, I cannot force the malware to execute on a VM (tried XP and Windows 7 32-bit). Basically what I've found out is that the outside layer is UPX and that it is unpacked easily. The problem comes with the inner protection layer. The program uses VirtualAlloc calls to allocate buffers in which it unloads the contents of an actual malware's executable. First several buffers are used to unload the unpacking code as well as the compressed/hidden buffer contents of the original executable. The call that should decompress this buffer is RtlDecompressBuffer that gets called with the appropriate parameters returns STATUS\\_BAD\\_COMPRESSION\\_BUFFER (0xC0000242). According to MSDN, it is returned if the output buffer is too small. Well, I've manually changed the values of VirtualAlloc and RtlDecompressBuffer to force a larger buffer, and it still returned the same value. The buffer is freed (VirtualFree) soon after the decompressing is done.\n\nIf anyone has any insights or ideas on what I can do next, I'd be happy to hear them.\n\nThank you for your time.\n\nDownload link:\n\n[https://www.dropbox.com/s/fs7ncpaka130o41/7f82c7f0ba2ce10a7ecd530c41a8a29ce52033e5.zip?dl=0](https://www.dropbox.com/s/fs7ncpaka130o41/7f82c7f0ba2ce10a7ecd530c41a8a29ce52033e5.zip?dl=0)\n\nPASSWORD: bulletproof2018\n\nAutomated analysis:\n\n[https://www.virustotal.com/#/file/ff43abd81a9a9abc8c5dd067a443fc9ff0a7510aef9debc210adfae8d2f44447](https://www.virustotal.com/#/file/ff43abd81a9a9abc8c5dd067a443fc9ff0a7510aef9debc210adfae8d2f44447)\n\n[https://www.hybrid-analysis.com/sample/ff43abd81a9a9abc8c5dd067a443fc9ff0a7510aef9debc210adfae8d2f44447](https://www.hybrid-analysis.com/sample/ff43abd81a9a9abc8c5dd067a443fc9ff0a7510aef9debc210adfae8d2f44447)\n\n[https://www.reverse.it/sample/ff43abd81a9a9abc8c5dd067a443fc9ff0a7510aef9debc210adfae8d2f44447](https://www.reverse.it/sample/ff43abd81a9a9abc8c5dd067a443fc9ff0a7510aef9debc210adfae8d2f44447)",
+        "title": "Reversing Locky with AntiVM/AntiDebugging techniques",
+        "score": 1,
+        "id": "8v2omv",
+        "commsNum": 1,
+        "timeStamp": "2018/06/30-08:47:18",
+        "author_name": "hatemycollege",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8v2omv/reversing_locky_with_antivmantidebugging/"
+    },
+    "posts": {
+        "e1o8lj7": {
+            "comment": "Solved, apparently the sample was corrupted somehow before it was sent, so it wasn't unpacking properly.",
+            "timeStamp": "2018/07/02-12:13:43",
+            "id": "e1o8lj7",
+            "is_submitter": true,
+            "link_id": "t3_8v2omv",
+            "parent_id": "t3_8v2omv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "hatemycollege"
+        }
+    }
+}

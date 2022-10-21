@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "TrickBot is a rising threat, the banking Trojan now targets Private Banking",
+        "score": 1,
+        "id": "68rjzk",
+        "commsNum": 0,
+        "timeStamp": "2017/05/01-23:35:01",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/58636/malware/trickbot-targeting-private-banking.html"
+    },
+    "posts": {}
+}

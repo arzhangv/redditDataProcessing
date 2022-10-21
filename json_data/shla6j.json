@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "How To Unpack VMProtect 3 (x64) Night Sky Ransomware (OALABS Tutorial)",
+        "score": 1,
+        "id": "shla6j",
+        "commsNum": 0,
+        "timeStamp": "2022/01/31-19:51:21",
+        "author_name": "herrcore",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://youtu.be/Yzt_zOO8pDM"
+    },
+    "posts": {
+        "hv7owif": {
+            "comment": "OALabs are great. Unpac.me is good times",
+            "timeStamp": "2022/02/01-17:09:49",
+            "id": "hv7owif",
+            "is_submitter": false,
+            "link_id": "t3_shla6j",
+            "parent_id": "t3_shla6j",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Hartescout"
+        }
+    }
+}

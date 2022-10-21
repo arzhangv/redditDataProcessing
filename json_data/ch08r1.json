@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hello,\nI'm looking for an option -ANY kind of option, actually- to get rid of a Rootkit/Bootkit hiding in the Computer's firmware (BiOS/UEFI BIOS).\nApparently it autostarts no matter what kind of system is started (Linux, Windows x86 and x64 as well as MacOS) Some systems are affected more (such Windows in any form), others less (hardened distros like Peyton less). Multiple changes of HD/SSD did not help, neither did flashing the BIOS (although I suspect that the firmware I flashed up was somehow recompiled or infected during the flashing process.\nI did make sure (most basic stuff) that my sources were clean (using only original branded DVD's or legit programs downloaded and scanned externally and transfer by means of USB stick with mechanical write protection).\nI went through McAfee, Kaspersky, AVG, Malwarebytes, Clam, ESet, Superantispyware and Hitman Pro, to no avail. I can detect the hooks - or most of them- using Goer, Process Hacker or Internals but never remove all of it, full reinfection happens at every new boot.\nThe Malware obviously wants advertise its presence which is weird enough, it will sync all my contacts and file shades of any doc, picture or vid to its C&amp;C server. Under Windows and MacOSX, that thing attaches itself to a remote Domain server and imposing restrictions which render most attempts at combating it futile. \nIt will also install a s***load of fake root certificates which also come back no matter how often I delete these both on the UEFI firmware level and OS level. \nI am aware that this sounds pretty much nuts, but there are clear telltale indicators for the presence of said Rootkit/Bootkit. Just to name a few: Both under Windows and Linux, SATA SSDs and discs (no matter if M2, mSATA or 2.5/3.5 form factor) appear as \"SCSI\" type disc. There is always some capacity missing (how much depends on the discs theoretical capacity). Resetting discs to their factor settings using hdparm or MHDD will fail, claiming \"ioctrl error\" .Under Windows the system is rebuilt into something which resembles Windows but clearly isn't, consisting of 95% dlls both signed and unsigned. Malware solutions are... I guess one could call it: \"Absorbed\" and will be used to front for spyware modules. \nPlease spare me the advice to buy new hardware and move on: I have done that, of course, but anything I use gets infected in no time, although I take great pains in securing systems , patching them and restricting access prior to bringing them online.\nI'd appreciate any advice regarding even just  theoretically viable options.\n\nThanks, Laz",
+        "title": "Get rid of virtualized Rootkit/Bootkit",
+        "score": 0,
+        "id": "ch08r1",
+        "commsNum": 4,
+        "timeStamp": "2019/07/23-16:29:54",
+        "author_name": "LazarusLong69",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ch08r1/get_rid_of_virtualized_rootkitbootkit/"
+    },
+    "posts": {
+        "eva3za6": {
+            "comment": "All he'd need is the box. You can FedEx it to the college:\n\nRochester Institute of Technology\n1 Lomb Memorial Drive\nRochester, NY 14623\nATTN: Prof. J. Weisman\n\nJust leave a note in the package identifying this thread \"Rootkit/Bootkit removal\" plus what you've found so far and we'll see what we can do.",
+            "timeStamp": "2019/07/28-11:24:16",
+            "id": "eva3za6",
+            "is_submitter": false,
+            "link_id": "t3_ch08r1",
+            "parent_id": "t1_euplq2b",
+            "score": 1,
+            "stickied": false,
+            "author_name": "CoffeeJunior"
+        },
+        "euplq2b": {
+            "comment": "Let me know what he needs. Since connections are prone to come and go I'd have to FedEx one of the machines. Yeah the infection route.... I was working on that, too, but with no result.\n\nAs for professional help: I'm no ignorant, of course I sought it. Either the professionals turned out to be loudmouths who pre-installed windows (without even wiping the disk) and declared the system clean, or they ruled out that such sophisticated thing could exist in the wild, or they reacted in a way I can only describe as 'weird\".\nSome time ago when I still used McAfee the AV wouldn't install on a freshly set up MB Pro 8.2 with High Sierra. I filed a ticket with McA's Tech support. Few hours later, some guy based in Mumbai called, asked for permission to take my Mac in remote control and worked his magic, although he really had to rain his ressources. I mentioned that I had Windows machines also infected and covered under McA's multi-device Premium AV and the guy gave one of them, a Precision 4800 with Icore7 and 32GB RAM (which needs 2 hours to boot PartedMagic) a look. Ge suggested, quote, \" that I should contact Microsoft since What I gave is an OS issue\" . Now what should I make of that? For what does one have AC if OS issues are not covered? The Win10Pro installed on that machine was recent, legit and activated.",
+            "timeStamp": "2019/07/24-02:08:32",
+            "id": "euplq2b",
+            "is_submitter": true,
+            "link_id": "t3_ch08r1",
+            "parent_id": "t1_eunmk1k",
+            "score": 1,
+            "stickied": false,
+            "author_name": "LazarusLong69"
+        },
+        "eunmk1k": {
+            "comment": "Honestly, if it's as persistent as you say, it might be worth while to examine the re-infection mechanism. Alternatively, have some professionals look at it. I have a professor who would *love* to examine it.",
+            "timeStamp": "2019/07/23-18:12:05",
+            "id": "eunmk1k",
+            "is_submitter": false,
+            "link_id": "t3_ch08r1",
+            "parent_id": "t3_ch08r1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "CoffeeJunior"
+        },
+        "eunc11z": {
+            "comment": "I am lost on what you can do here. Only thing I could recommend is to run tdss killer if you have not already. I also wonder if removing the bios battery could do anything",
+            "timeStamp": "2019/07/23-17:07:21",
+            "id": "eunc11z",
+            "is_submitter": false,
+            "link_id": "t3_ch08r1",
+            "parent_id": "t3_ch08r1",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Dotz0cat"
+        }
+    }
+}

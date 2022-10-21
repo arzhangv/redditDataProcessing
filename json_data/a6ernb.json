@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[https://blog.trendmicro.com/trendlabs-security-intelligence/cybercriminals-use-malicious-memes-that-communicate-with-malware/](https://blog.trendmicro.com/trendlabs-security-intelligence/cybercriminals-use-malicious-memes-that-communicate-with-malware/)\n\n&amp;#x200B;",
+        "title": "Cybercriminals Use Malicious Memes that Communicate with Malware",
+        "score": 1,
+        "id": "a6ernb",
+        "commsNum": 5,
+        "timeStamp": "2018/12/15-04:12:21",
+        "author_name": "vickiearse",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/a6ernb/cybercriminals_use_malicious_memes_that/"
+    },
+    "posts": {
+        "ebvu351": {
+            "comment": "Shit.\n\nThanks.",
+            "timeStamp": "2018/12/15-18:06:56",
+            "id": "ebvu351",
+            "is_submitter": false,
+            "link_id": "t3_a6ernb",
+            "parent_id": "t1_ebvr6jo",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Spajtastic"
+        },
+        "ebvr6jo": {
+            "comment": "*steganography",
+            "timeStamp": "2018/12/15-17:27:05",
+            "id": "ebvr6jo",
+            "is_submitter": false,
+            "link_id": "t3_a6ernb",
+            "parent_id": "t1_ebuhry2",
+            "score": 2,
+            "stickied": false,
+            "author_name": "DatRat"
+        },
+        "ebv9ly5": {
+            "comment": "Yeah, APT1 were doing this a decade ago. Back then we called them the jpeg group, because they always put their c&amp;c in slack after the jpeg file ending byte delimiter, and the APT1 report hadn't come out yet. \n\nThey started out putting the images on compromised web servers, then eventually started using social media, blogspot and twitter were pretty common. ",
+            "timeStamp": "2018/12/15-13:45:39",
+            "id": "ebv9ly5",
+            "is_submitter": false,
+            "link_id": "t3_a6ernb",
+            "parent_id": "t1_ebuhry2",
+            "score": 5,
+            "stickied": false,
+            "author_name": "pepe_le_shoe"
+        },
+        "ebuhry2": {
+            "comment": "Not as fantastic as it sounds, thy are just using the stenography as a method to send commands to already infected computers.",
+            "timeStamp": "2018/12/15-07:54:03",
+            "id": "ebuhry2",
+            "is_submitter": false,
+            "link_id": "t3_a6ernb",
+            "parent_id": "t1_ebu7bs6",
+            "score": 8,
+            "stickied": false,
+            "author_name": "Spajtastic"
+        },
+        "ebu7bs6": {
+            "comment": "Yikes!",
+            "timeStamp": "2018/12/15-04:57:14",
+            "id": "ebu7bs6",
+            "is_submitter": false,
+            "link_id": "t3_a6ernb",
+            "parent_id": "t3_a6ernb",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Barnezhilton"
+        }
+    }
+}

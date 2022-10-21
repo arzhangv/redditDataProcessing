@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "https://blog.coinbase.com/inverse-finance-inv-liquity-lqty-polyswarm-nct-and-propy-pro-are-launching-on-coinbase-38525cfe54d4",
+        "title": "polyswarm listing on coinbase, congrats to polyswarm malware team.",
+        "score": 1,
+        "id": "s2s0xc",
+        "commsNum": 0,
+        "timeStamp": "2022/01/12-21:54:16",
+        "author_name": "KingEverybody",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/s2s0xc/polyswarm_listing_on_coinbase_congrats_to/"
+    },
+    "posts": {
+        "hshsau8": {
+            "comment": "When will it launch on Coinbase Pro? Right now it\u2019s only available in the Wallet and there fees are high. It just got announced: https://www.cryptonewsz.com/inverse-finance-liquity-polyswarm-and-propy-are-launching-on-coinbase-pro/amp/",
+            "timeStamp": "2022/01/13-07:06:35",
+            "id": "hshsau8",
+            "is_submitter": false,
+            "link_id": "t3_s2s0xc",
+            "parent_id": "t3_s2s0xc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Crypto-Pito"
+        },
+        "hsgedkc": {
+            "comment": "[removed]",
+            "timeStamp": "2022/01/12-22:07:47",
+            "id": "hsgedkc",
+            "is_submitter": false,
+            "link_id": "t3_s2s0xc",
+            "parent_id": "t3_s2s0xc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Are there any malware or worm that might spreads to windows partitions if i try sticking the usb to dual booted pc linux? And after it has spread itself waiting till the pc to be booted into Windows os so that it can attack windows. How likely is this possible? ",
+        "title": "Malware that can spread through linux usb boot to windows partitions",
+        "score": 16,
+        "id": "5l2w5e",
+        "commsNum": 2,
+        "timeStamp": "2016/12/30-02:55:17",
+        "author_name": "HackSpirit",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5l2w5e/malware_that_can_spread_through_linux_usb_boot_to/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,143 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Recently there is a \"AI\" Picture generator that i get posted / linked in a lot of Whatsapp / Discord and other communities (even in a gamechat im playing).\n\nWhen looking at it i saw a pretty sus chunk of a string that is encoded. Since im not familar with JS i thought i would ask if someone might help me out . Cant figure out how i can deobuscate this one in JS and the string is too long to do that in C++.\n\n&amp;#x200B;\n\nThe source is here if someone would not mind giving me a hand\n\n[https://huggingface.co/spaces/dalle-mini/dalle-mini/tree/main](https://huggingface.co/spaces/dalle-mini/dalle-mini/tree/main)",
+        "title": "Deobfuscating suspicous code",
+        "score": 1,
+        "id": "vd44r4",
+        "commsNum": 0,
+        "timeStamp": "2022/06/15-13:41:08",
+        "author_name": "boonstyle_",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/vd44r4/deobfuscating_suspicous_code/"
+    },
+    "posts": {
+        "ieantjr": {
+            "comment": "At this point do people even bother with b64? \n\nAtleast use b85 for something malicious",
+            "timeStamp": "2022/06/30-01:46:32",
+            "id": "ieantjr",
+            "is_submitter": false,
+            "link_id": "t3_vd44r4",
+            "parent_id": "t1_icibgra",
+            "score": 1,
+            "stickied": false,
+            "author_name": "thehunter699"
+        },
+        "icl5wse": {
+            "comment": "I didn\u2019t look at it, but what I\u2019ve done with base64 blobs that are binaries: whip up a python script to deobfuscate it and write the binary to a binary file. Then I do static analysis (strings, and other things) and maybe dynamic analysis (run in a VM, send to a malware sandbox). Also submitting to virustotal will reveal info if it\u2019s been seen before.",
+            "timeStamp": "2022/06/16-07:45:58",
+            "id": "icl5wse",
+            "is_submitter": false,
+            "link_id": "t3_vd44r4",
+            "parent_id": "t1_ici9qxo",
+            "score": 1,
+            "stickied": false,
+            "author_name": "pyorre"
+        },
+        "icjjbzj": {
+            "comment": "It's a base64-enconded trie, which is extremely normal for this use case. If you really want to see the binary structure it decodes to just use Python or Ruby or an online decoder.",
+            "timeStamp": "2022/06/15-20:48:05",
+            "id": "icjjbzj",
+            "is_submitter": false,
+            "link_id": "t3_vd44r4",
+            "parent_id": "t3_vd44r4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "WhoTookPlasticJesus"
+        },
+        "icil4zg": {
+            "comment": "It's a base64 encoded string that decodes to some kind of binary.\n\nCopy the string from the js file, find/use your preferred base64 encoder/decoder (there is one in your proxy of choice most times) and decode the string.\n\nYou will see that it decodes to characters to a bunch of binary non-printable characters which you can possibly decode further, it may be some kind of protocol that you can figure out.\n\nThat's kind of as far as I can go!",
+            "timeStamp": "2022/06/15-16:08:45",
+            "id": "icil4zg",
+            "is_submitter": false,
+            "link_id": "t3_vd44r4",
+            "parent_id": "t1_ici987q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "goestowar"
+        },
+        "icibgra": {
+            "comment": "It is in the official release as well:\n\nhttps://html2canvas.hertzen.com/dist/html2canvas.js\n\nIt's a data structure encoded as base64. In the comment you can find reference to https://github.com/niklasvh/base64-arraybuffer.\n\nJust because base64 is used to obfuscate malicious code, it does not mean that every base64 encoded string must be malicious.",
+            "timeStamp": "2022/06/15-14:55:59",
+            "id": "icibgra",
+            "is_submitter": false,
+            "link_id": "t3_vd44r4",
+            "parent_id": "t3_vd44r4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "marvuozz"
+        },
+        "ici9z2q": {
+            "comment": "its a base64 encoded string dude",
+            "timeStamp": "2022/06/15-14:45:07",
+            "id": "ici9z2q",
+            "is_submitter": false,
+            "link_id": "t3_vd44r4",
+            "parent_id": "t1_ici9qxo",
+            "score": 1,
+            "stickied": false,
+            "author_name": "edward_snowedin"
+        },
+        "ici9qxo": {
+            "comment": "VS throws an error when using that string",
+            "timeStamp": "2022/06/15-14:43:28",
+            "id": "ici9qxo",
+            "is_submitter": true,
+            "link_id": "t3_vd44r4",
+            "parent_id": "t1_ici8uss",
+            "score": 1,
+            "stickied": false,
+            "author_name": "boonstyle_"
+        },
+        "ici987q": {
+            "comment": "its in the js file of the repo\n\n&amp;#x200B;\n\n[https://huggingface.co/spaces/dalle-mini/dalle-mini/raw/main/html2canvas.js](https://huggingface.co/spaces/dalle-mini/dalle-mini/raw/main/html2canvas.js)\n\n&amp;#x200B;\n\nits the string variable calles \"base64\" and its so huge you cant miss it (its a string of 52 888 characters) on line 406\n\n[https://i.imgur.com/1xHsvRl.png](https://i.imgur.com/1xHsvRl.png)\n\nright after comes some code that seems to decode obfuscated code from that string by rearranging and bitshifting that\n\n&amp;#x200B;\n\nline 3796\n\n    var decode = function (base64) {\r\n        var bufferLength = base64.length * 0.75, len = base64.length, i, p = 0, encoded1, encoded2, encoded3, encoded4;\r\n        if (base64[base64.length - 1] === '=') {\r\n            bufferLength--;\r\n            if (base64[base64.length - 2] === '=') {\r\n                bufferLength--;\r\n            }\r\n        }\r\n        var buffer = typeof ArrayBuffer !== 'undefined' &amp;&amp;\r\n            typeof Uint8Array !== 'undefined' &amp;&amp;\r\n            typeof Uint8Array.prototype.slice !== 'undefined'\r\n            ? new ArrayBuffer(bufferLength)\r\n            : new Array(bufferLength);\r\n        var bytes = Array.isArray(buffer) ? buffer : new Uint8Array(buffer);\r\n        for (i = 0; i &lt; len; i += 4) {\r\n            encoded1 = lookup$1[base64.charCodeAt(i)];\r\n            encoded2 = lookup$1[base64.charCodeAt(i + 1)];\r\n            encoded3 = lookup$1[base64.charCodeAt(i + 2)];\r\n            encoded4 = lookup$1[base64.charCodeAt(i + 3)];\r\n            bytes[p++] = (encoded1 &lt;&lt; 2) | (encoded2 &gt;&gt; 4);\r\n            bytes[p++] = ((encoded2 &amp; 15) &lt;&lt; 4) | (encoded3 &gt;&gt; 2);\r\n            bytes[p++] = ((encoded3 &amp; 3) &lt;&lt; 6) | (encoded4 &amp; 63);\r\n        }\r\n        return buffer;\r\n    };\n\ni cant get it to run in node.js but again im not familar with JS but this looks extremely weird having such a string of 52888 characters in a variable called base64 and doing some pondering to create new stuff out of it, seen that in c++ before in some malware.",
+            "timeStamp": "2022/06/15-14:39:45",
+            "id": "ici987q",
+            "is_submitter": true,
+            "link_id": "t3_vd44r4",
+            "parent_id": "t1_ici70kq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "boonstyle_"
+        },
+        "ici8uss": {
+            "comment": "&gt; Cant figure out how i can deobfuscate this one in JS and the string is too long to do that in C++.\n\nhuh?",
+            "timeStamp": "2022/06/15-14:37:01",
+            "id": "ici8uss",
+            "is_submitter": false,
+            "link_id": "t3_vd44r4",
+            "parent_id": "t3_vd44r4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "edward_snowedin"
+        },
+        "ici8dut": {
+            "comment": "[removed]",
+            "timeStamp": "2022/06/15-14:33:36",
+            "id": "ici8dut",
+            "is_submitter": false,
+            "link_id": "t3_vd44r4",
+            "parent_id": "t3_vd44r4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ici70kq": {
+            "comment": "Some more info? Where is the string, do you see it in a traffic proxy?",
+            "timeStamp": "2022/06/15-14:23:40",
+            "id": "ici70kq",
+            "is_submitter": false,
+            "link_id": "t3_vd44r4",
+            "parent_id": "t3_vd44r4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "goestowar"
+        }
+    }
+}

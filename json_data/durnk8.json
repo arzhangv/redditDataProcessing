@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Good morning,  \n\n\nI\u2019ve just released a new episode within the \u201cIntroduction to Malware Analysis\" series covering YARA. Borrowing from Wikipedia\u2019s description, this tool \u201cprovides a rule-based approach to create descriptions of malware families based on textual or binary patterns.\u201d Using a simple command, we can direct YARA to use a set of logic to search for strings and sets of conditions across any arbitrary data. So, imagine you suspect a particular piece of malware has infected a system and you want to quickly look for those IOCs to verify your suspicions. How would you accomplish that? Would you recursively grep every file on disk looking for a particular string? What if the string were represented in hex or binary? What if you needed to do this on a large number of endpoints running a variety of operating systems including Windows, macOS, and Linux? Well, that\u2019s exactly where YARA can help.  \n\n\nEpisode:  \n[https://www.youtube.com/watch?v=mQ-mqxOfopk](https://www.youtube.com/watch?v=mQ-mqxOfopk)  \n\n\nEpisode Guide:  \n[https://www.13cubed.com/episodes](https://www.13cubed.com/episodes)  \n\n\nChannel:  \n[https://www.youtube.com/13cubed](https://www.youtube.com/13cubed)  \n\n\nPatreon (Help support 13Cubed):  \n[https://www.patreon.com/13cubed](https://www.patreon.com/13cubed)",
+        "title": "Finding Evil with YARA (13Cubed Malware Analysis Series) (X-Post)",
+        "score": 1,
+        "id": "durnk8",
+        "commsNum": 0,
+        "timeStamp": "2019/11/11-04:21:10",
+        "author_name": "13Cubed",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/durnk8/finding_evil_with_yara_13cubed_malware_analysis/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hunting down some malware and the malware domain's NS servers are ns1.csof.net and ns4.csof.net.  I did some additional digging and it would appear that csof.net is providing dns for a lot of different malware and C2 servers out there.  Has anyone been working to shut-down CSOF.net as a provider?  They're AWS servers, surely someone is spearheading an attempt to shut them down?  Thoughts?",
+        "title": "csof.net",
+        "score": 3,
+        "id": "5u9b0g",
+        "commsNum": 7,
+        "timeStamp": "2017/02/15-10:34:36",
+        "author_name": "TossedYourCookies",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5u9b0g/csofnet/"
+    },
+    "posts": {}
+}

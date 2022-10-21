@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "TeleRAT, a new Android Trojan that uses Telegram for data exfiltration",
+        "score": 1,
+        "id": "86a2jt",
+        "commsNum": 0,
+        "timeStamp": "2018/03/22-01:56:12",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/70551/malware/telerat-android-trojan.html"
+    },
+    "posts": {}
+}

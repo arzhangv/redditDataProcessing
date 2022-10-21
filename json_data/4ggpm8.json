@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "xpost from /r/sysadmin\n\nSo today one of my clients received a fake US Bank invoice. I presume it was ransomware. I twas a word doc with a macro in the background, and the file name actually contained my clients address in the file name.\nPretty scary!\nHas anyone else seen this?",
+        "title": "Xpost - ransomware with physical address in file name.",
+        "score": 9,
+        "id": "4ggpm8",
+        "commsNum": 4,
+        "timeStamp": "2016/04/25-19:06:22",
+        "author_name": "Flippidy",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/4ggpm8/xpost_ransomware_with_physical_address_in_file/"
+    },
+    "posts": {}
+}

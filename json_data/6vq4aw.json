@@ -1,0 +1,99 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi all,\n\nThis was previously submitted to /r/computerforensics. Over the past couple of months, I've created a series of YouTube videos introducing the viewer to memory forensics and Windows forensics. Topics include Volatility, UserAssist, Shellbags, USB devices, network adapter information and Network Location Awareness (NLA), LNK files, prefetch, and numerous other common Windows forensic artifacts such as AppCompatCache, RecentFileCache.bcf, Amcache.hve, and SRUM. I'm working on another Memory Forensics video now that will cover process injection/process hollowing detection.\n\nThe videos are non-monetized, and are available here: hxxps://youtube.com/user/davisrichardg\n\nBased on feedback I've received, this has already proven beneficial to people in the DFIR community. I hope it's useful to you as well.",
+        "title": "Introduction to Memory Forensics / Introduction to Windows Forensics (X-Post)",
+        "score": 45,
+        "id": "6vq4aw",
+        "commsNum": 8,
+        "timeStamp": "2017/08/24-04:08:15",
+        "author_name": "13Cubed",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 8,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6vq4aw/introduction_to_memory_forensics_introduction_to/"
+    },
+    "posts": {
+        "dm8ak72": {
+            "comment": "Just posted a new video:\nAs a continuation of the \u201cIntroduction to Memory Forensics\u201d video, this is a walkthrough analysis of a memory image containing malware. This is also the first video I've done in 4K, and should be the standard going forward.\n\nhttps://www.youtube.com/watch?v=gHbejxlPbRQ",
+            "timeStamp": "2017/08/28-04:22:11",
+            "id": "dm8ak72",
+            "is_submitter": true,
+            "link_id": "t3_6vq4aw",
+            "parent_id": "t3_6vq4aw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "13Cubed"
+        },
+        "dm707s6": {
+            "comment": "Thanks for sharing.",
+            "timeStamp": "2017/08/27-08:22:54",
+            "id": "dm707s6",
+            "is_submitter": false,
+            "link_id": "t3_6vq4aw",
+            "parent_id": "t3_6vq4aw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "majorllama"
+        },
+        "dm3hpgg": {
+            "comment": "Saved for later. I'm very interested in forensics and plan to start studying it fairly aggressively soon. Took some courses at a technical institute in town and had a brief introduction into the field there. Exciting stuff!",
+            "timeStamp": "2017/08/24-21:44:49",
+            "id": "dm3hpgg",
+            "is_submitter": false,
+            "link_id": "t3_6vq4aw",
+            "parent_id": "t3_6vq4aw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "PrivateSlumberparty"
+        },
+        "dm2j344": {
+            "comment": "Straight to my watchlist :) Please keep doing this!",
+            "timeStamp": "2017/08/24-09:54:50",
+            "id": "dm2j344",
+            "is_submitter": false,
+            "link_id": "t3_6vq4aw",
+            "parent_id": "t3_6vq4aw",
+            "score": 2,
+            "stickied": false,
+            "author_name": "dezzadk"
+        },
+        "dm268zt": {
+            "comment": "Thanks - I appreciate that.",
+            "timeStamp": "2017/08/24-05:50:10",
+            "id": "dm268zt",
+            "is_submitter": true,
+            "link_id": "t3_6vq4aw",
+            "parent_id": "t1_dm26825",
+            "score": 3,
+            "stickied": false,
+            "author_name": "13Cubed"
+        },
+        "dm26825": {
+            "comment": "Watched  your videos. Excellent content! Thanks for sharing with the community.",
+            "timeStamp": "2017/08/24-05:49:28",
+            "id": "dm26825",
+            "is_submitter": false,
+            "link_id": "t3_6vq4aw",
+            "parent_id": "t3_6vq4aw",
+            "score": 3,
+            "stickied": false,
+            "author_name": "ntuserdat"
+        },
+        "dm25ku8": {
+            "comment": "I'll check it out. Thank you :)",
+            "timeStamp": "2017/08/24-05:32:12",
+            "id": "dm25ku8",
+            "is_submitter": false,
+            "link_id": "t3_6vq4aw",
+            "parent_id": "t3_6vq4aw",
+            "score": 3,
+            "stickied": false,
+            "author_name": "Legendofmudkip"
+        }
+    }
+}

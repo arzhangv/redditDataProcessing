@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Fairly new to malware analysis, but I am unable to find the prefetch file of the executable. I used WinPrefetchView but there was nothing.\nWhen looking at Process Monitor results, there is a CreateFile operation with the path leading to prefetch file but the result is \"NAME NOT FOUND\".\n\nAny ideas on why this might be occurring?",
+        "title": "Missing Prefetch",
+        "score": 2,
+        "id": "7y41tv",
+        "commsNum": 4,
+        "timeStamp": "2018/02/16-18:49:13",
+        "author_name": "subarb",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/7y41tv/missing_prefetch/"
+    },
+    "posts": {}
+}

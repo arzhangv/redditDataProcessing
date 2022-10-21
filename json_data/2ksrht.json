@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "python inspect rootkit tool (windbg plugin collection)",
+        "score": 6,
+        "id": "2ksrht",
+        "commsNum": 0,
+        "timeStamp": "2014/10/30-10:18:31",
+        "author_name": "sh3dow",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://github.com/pianoboysai/pyInspector"
+    },
+    "posts": {}
+}

@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "https://www.certego.net/en/news/handling-a-destributed-cryptominer-ad-worm/",
+        "title": "Handling a destributed cryptominer AD worm",
+        "score": 1,
+        "id": "kjqdhe",
+        "commsNum": 2,
+        "timeStamp": "2020/12/24-17:03:20",
+        "author_name": "jimiilfurbo",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/kjqdhe/handling_a_destributed_cryptominer_ad_worm/"
+    },
+    "posts": {
+        "ggz46ta": {
+            "comment": "Nice write up and good work",
+            "timeStamp": "2020/12/25-00:31:06",
+            "id": "ggz46ta",
+            "is_submitter": false,
+            "link_id": "t3_kjqdhe",
+            "parent_id": "t3_kjqdhe",
+            "score": 1,
+            "stickied": false,
+            "author_name": "charlievarley"
+        },
+        "ggy86qs": {
+            "comment": "Oh wow, that's pretty.",
+            "timeStamp": "2020/12/24-17:21:57",
+            "id": "ggy86qs",
+            "is_submitter": false,
+            "link_id": "t3_kjqdhe",
+            "parent_id": "t3_kjqdhe",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Draygoes"
+        }
+    }
+}

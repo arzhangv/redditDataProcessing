@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Advanced Windows Malware Analysis - Acquiring Memory Artifacts",
+        "score": 1,
+        "id": "hpvmw6",
+        "commsNum": 0,
+        "timeStamp": "2020/07/12-07:54:32",
+        "author_name": "bishnumu",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://darungrim.com/research/2020-07-10-windows-malware-analysis-process-artifacts.html"
+    },
+    "posts": {}
+}

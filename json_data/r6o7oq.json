@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "GitHub - Malware Open-source Threat Intelligence Family (MOTIF) dataset from Booz Allen Hamilton contains 3,095 disarmed PE malware samples from 454 families, labeled with ground truth confidence.",
+        "score": 1,
+        "id": "r6o7oq",
+        "commsNum": 5,
+        "timeStamp": "2021/12/01-12:24:26",
+        "author_name": "digicat",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://github.com/boozallen/MOTIF"
+    },
+    "posts": {
+        "hyahaqb": {
+            "comment": "I worked for them. They are a huge player in cyber security.",
+            "timeStamp": "2022/02/24-12:50:49",
+            "id": "hyahaqb",
+            "is_submitter": false,
+            "link_id": "t3_r6o7oq",
+            "parent_id": "t1_hmvyd9i",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Gryphon962"
+        },
+        "hmx4dmw": {
+            "comment": "[removed]",
+            "timeStamp": "2021/12/02-03:24:04",
+            "id": "hmx4dmw",
+            "is_submitter": false,
+            "link_id": "t3_r6o7oq",
+            "parent_id": "t3_r6o7oq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hmw29x7": {
+            "comment": "Snowden worked for them as well doing cybersecurity",
+            "timeStamp": "2021/12/01-20:00:06",
+            "id": "hmw29x7",
+            "is_submitter": false,
+            "link_id": "t3_r6o7oq",
+            "parent_id": "t1_hmvyd9i",
+            "score": 1,
+            "stickied": false,
+            "author_name": "_W0z"
+        },
+        "hmvyd9i": {
+            "comment": "I always thought BAH just did regular management and accounting consulting. Never even occurred to me that they\u2019d do cybersecurity too.",
+            "timeStamp": "2021/12/01-19:29:31",
+            "id": "hmvyd9i",
+            "is_submitter": false,
+            "link_id": "t3_r6o7oq",
+            "parent_id": "t3_r6o7oq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "set_null"
+        },
+        "hmuzpfs": {
+            "comment": "[removed]",
+            "timeStamp": "2021/12/01-15:16:18",
+            "id": "hmuzpfs",
+            "is_submitter": false,
+            "link_id": "t3_r6o7oq",
+            "parent_id": "t3_r6o7oq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

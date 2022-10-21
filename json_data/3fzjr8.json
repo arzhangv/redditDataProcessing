@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "No Starch Press publishing Rootkit and Bootkit Reverse Engineering book in Spring 2016.",
+        "score": 41,
+        "id": "3fzjr8",
+        "commsNum": 1,
+        "timeStamp": "2015/08/06-02:58:08",
+        "author_name": "BarkyCarnation",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.nostarch.com/rootkits"
+    },
+    "posts": {}
+}

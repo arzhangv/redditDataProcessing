@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Somebody told me about this website where I can watch anime and as usual I put the URL in virustotal and it detected these to things can someone tell me if the website is safe",
+        "score": 1,
+        "id": "hm2uoy",
+        "commsNum": 1,
+        "timeStamp": "2020/07/06-00:02:52",
+        "author_name": "EvolWhale",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://i.redd.it/tl3w548ar6951.jpg"
+    },
+    "posts": {
+        "fx2so34": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2020/07/06-00:02:53",
+            "id": "fx2so34",
+            "is_submitter": false,
+            "link_id": "t3_hm2uoy",
+            "parent_id": "t3_hm2uoy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

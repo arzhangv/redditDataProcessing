@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi guys!\n\nI'm having a presentation at collegue about Malware, but the professor wanted to make things practical so he asked us to come with, instead of a .ppt, a malware that we could place somehow in one of our PCs so we could show what does that malware does in the PC, how it does it and how to repel it.\n\nObviously getting a virus is the easy part, the complicated bit is getting one which doesn't utterly destroys my machine on purpose during the showcase, what do you recommend me in this case? What's the best course of action in this situation?\n\nThanks guys!",
+        "title": "Educational Malware?",
+        "score": 4,
+        "id": "5v2zuk",
+        "commsNum": 12,
+        "timeStamp": "2017/02/19-22:07:01",
+        "author_name": "Elegyofthenight",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 12,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5v2zuk/educational_malware/"
+    },
+    "posts": {}
+}

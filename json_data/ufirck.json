@@ -1,0 +1,99 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I believe my Moto g Android phone has caught the teabot virus malware, Trojan, whatever it is.\n\n This all started about 2 months ago when I clicked on a questionable link on Snapchat and ever since then I've been having problems with my phone.\n\n I've done a complete factory data erased three different times to no avail each time. I do this, the phone seems to be okay for a few days and then it starts going back to its problematic behavior and by problematic behavior I mean this:\n\n Settings are being changed on my phone to let  multiple users access my phone, Google Assistant has been added even though I've turned it off numerous times, commands are being added to the Google Assistant to make payments on my cash app to access my bank account to access my email to access everything on my phone there is a command under Google Assistant. The input delay has been changed on my phone, my antivirus has been turned off multiple times I've had to turn it back on numerous times.  Notifications have been turned off to where I'm only receiving email notifications when I'm on Wi-Fi once daily, files I didn't back are being backed up.  Basically every bit of data stored on my phone has been backed up to Google take out. Google pay has been set up numerous times even though I've turned it off and deleted it each time, multiple Android phones are showing up under my Google account with the same exact location as where I'm at, as soon as I noticed these I revoke access and change the password but yet they're still able to access my account. Applications are being downloaded to my phone that I did not authorize or approve after I did the factory data reset I started out with around 30 applications that I use, right now I currently have 97 applications on my phone so that is over 40 applications that I did not approve or authorize that has been added to my phone. Bank accounts are being removed from my credit monitoring applications daily just as soon as I set them up I will get a notification within 12 hours that they have been removed, they've been unlinked from the credit monitoring websites. Bluetooth and Wi-Fi are both constantly being turned on even though I'm repeatedly turning them off. I'm being added to Google groups without my permission I don't have anything with a Chromebook or anything like that I do use the Chrome browser and an extension has been added to my Chrome browser. Something has downloaded all my data through Google take out several times and I've deleted it each time. My Google account is currently showing two Moto g phones both under the same carrier so whatever I've got (I'm thinking Teabot) is storing itself in my  backup files and I don't know how to remove it. I've performed a factory data erase both through the phone and the bootloader menu 3 times. When I turn the phone on after doing a factory data erase I leave it in airplane mode and manually ad the applications I want. I've done everything I can think of to fix other then abandon all my data.",
+        "title": "Looks like Teabot.",
+        "score": 1,
+        "id": "ufirck",
+        "commsNum": 0,
+        "timeStamp": "2022/04/30-12:58:22",
+        "author_name": "BarryMacockner1",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ufirck/looks_like_teabot/"
+    },
+    "posts": {
+        "i6uv69t": {
+            "comment": "Are you jailbroken? How did you end up with a root kit on iOS?",
+            "timeStamp": "2022/04/30-18:35:03",
+            "id": "i6uv69t",
+            "is_submitter": false,
+            "link_id": "t3_ufirck",
+            "parent_id": "t1_i6tvjkl",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Large-Ad6498"
+        },
+        "i6uip27": {
+            "comment": "Will do. Thanks a bunch.. Did your phone have unprotected data transfer too catch a disease like mine did? Teabot?",
+            "timeStamp": "2022/04/30-16:44:35",
+            "id": "i6uip27",
+            "is_submitter": true,
+            "link_id": "t3_ufirck",
+            "parent_id": "t1_i6ueweh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "BarryMacockner1"
+        },
+        "i6ueweh": {
+            "comment": "We just had to do it to my gf\u2019s android. \n\nTry this: https://hardresetmyphone.com/guides/how-to-factory-reset-motorola-moto-g-stylus/",
+            "timeStamp": "2022/04/30-16:12:23",
+            "id": "i6ueweh",
+            "is_submitter": false,
+            "link_id": "t3_ufirck",
+            "parent_id": "t1_i6tvt7p",
+            "score": 1,
+            "stickied": false,
+            "author_name": "M1904Trading"
+        },
+        "i6uc4oo": {
+            "comment": "Not a support reddit",
+            "timeStamp": "2022/04/30-15:49:11",
+            "id": "i6uc4oo",
+            "is_submitter": false,
+            "link_id": "t3_ufirck",
+            "parent_id": "t3_ufirck",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Rakanisheu"
+        },
+        "i6tvvyx": {
+            "comment": "Do you think my phone has a rootkit as well? How could I check?",
+            "timeStamp": "2022/04/30-13:36:22",
+            "id": "i6tvvyx",
+            "is_submitter": true,
+            "link_id": "t3_ufirck",
+            "parent_id": "t3_ufirck",
+            "score": 1,
+            "stickied": false,
+            "author_name": "BarryMacockner1"
+        },
+        "i6tvt7p": {
+            "comment": "Ahh snap.. I'm going to have to do some research how to do this.. I'm absolutely clueless. Can you point me in the right direction?",
+            "timeStamp": "2022/04/30-13:35:45",
+            "id": "i6tvt7p",
+            "is_submitter": true,
+            "link_id": "t3_ufirck",
+            "parent_id": "t1_i6tvjkl",
+            "score": 1,
+            "stickied": false,
+            "author_name": "BarryMacockner1"
+        },
+        "i6tvjkl": {
+            "comment": "I\u2019m currently fighting off a root kit on my iphone. You have to take the resets down to the firmware. For Apple it was called a \u201crecovery\u201d wipe and you had to reinstall all the software and drivers after. If your phone can operate after the wipe, you most likely didn\u2019t touch deep enough.",
+            "timeStamp": "2022/04/30-13:33:36",
+            "id": "i6tvjkl",
+            "is_submitter": false,
+            "link_id": "t3_ufirck",
+            "parent_id": "t3_ufirck",
+            "score": 1,
+            "stickied": false,
+            "author_name": "M1904Trading"
+        }
+    }
+}

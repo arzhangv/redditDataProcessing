@@ -1,0 +1,121 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "FBI and NSA expose new Linux malware Drovorub, used by Russian state hackers",
+        "score": 1,
+        "id": "i9c6d9",
+        "commsNum": 9,
+        "timeStamp": "2020/08/13-17:52:00",
+        "author_name": "TheCreecer",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 9,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.zdnet.com/google-amp/article/fbi-and-nsa-expose-new-linux-malware-drovorub-used-by-russian-state-hackers/"
+    },
+    "posts": {
+        "g1tzmsd": {
+            "comment": "\u201cExperts\u201d",
+            "timeStamp": "2020/08/17-03:42:18",
+            "id": "g1tzmsd",
+            "is_submitter": false,
+            "link_id": "t3_i9c6d9",
+            "parent_id": "t1_g1swhvf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ivie1976"
+        },
+        "g1swhvf": {
+            "comment": "*experts*",
+            "timeStamp": "2020/08/16-20:33:47",
+            "id": "g1swhvf",
+            "is_submitter": false,
+            "link_id": "t3_i9c6d9",
+            "parent_id": "t1_g1fknsb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "alco2024"
+        },
+        "g1gmruu": {
+            "comment": "When it comes to foreign adversaries where NSA can operate.",
+            "timeStamp": "2020/08/14-10:17:46",
+            "id": "g1gmruu",
+            "is_submitter": false,
+            "link_id": "t3_i9c6d9",
+            "parent_id": "t1_g1e3zoz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "XUtYwYzz"
+        },
+        "g1gmpta": {
+            "comment": "Exploits and rootkits for linux systems are not uncommon. It's a major platform in business and target for nation states and cyber criminals.",
+            "timeStamp": "2020/08/14-10:17:20",
+            "id": "g1gmpta",
+            "is_submitter": false,
+            "link_id": "t3_i9c6d9",
+            "parent_id": "t1_g1f1ba4",
+            "score": 2,
+            "stickied": false,
+            "author_name": "XUtYwYzz"
+        },
+        "g1fknsb": {
+            "comment": "I keep hearing this from all the YouTube experts",
+            "timeStamp": "2020/08/14-04:49:45",
+            "id": "g1fknsb",
+            "is_submitter": false,
+            "link_id": "t3_i9c6d9",
+            "parent_id": "t1_g1em49d",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ivie1976"
+        },
+        "g1fcp3w": {
+            "comment": "They exist",
+            "timeStamp": "2020/08/14-02:52:15",
+            "id": "g1fcp3w",
+            "is_submitter": false,
+            "link_id": "t3_i9c6d9",
+            "parent_id": "t1_g1f1ba4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "gabboman"
+        },
+        "g1f1ba4": {
+            "comment": "&gt; virus in linux \n\nlel",
+            "timeStamp": "2020/08/13-23:46:29",
+            "id": "g1f1ba4",
+            "is_submitter": false,
+            "link_id": "t3_i9c6d9",
+            "parent_id": "t3_i9c6d9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "_-ammar-_"
+        },
+        "g1em49d": {
+            "comment": "but linux doesn't need AV - IT cavemen",
+            "timeStamp": "2020/08/13-20:40:41",
+            "id": "g1em49d",
+            "is_submitter": false,
+            "link_id": "t3_i9c6d9",
+            "parent_id": "t3_i9c6d9",
+            "score": 2,
+            "stickied": false,
+            "author_name": "nightmareuki"
+        },
+        "g1e3zoz": {
+            "comment": "Do the FBI and NSA work together very often?",
+            "timeStamp": "2020/08/13-17:52:43",
+            "id": "g1e3zoz",
+            "is_submitter": true,
+            "link_id": "t3_i9c6d9",
+            "parent_id": "t3_i9c6d9",
+            "score": 4,
+            "stickied": false,
+            "author_name": "TheCreecer"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hey guys,\n\nI have a few ESXi nodes in my homelab and I would like to convert one to a Malware Analysis lab. I don't really own any commercial networking equipment, so I am looking at setting up pfsense or sophos UTM to act as the bondary that keeps that \"bad stuff\" out of my \"good stuff\" (relatively flat network structure on 192.168.1.X).\n\nHow in the hell are you guys doing this? There are absolutely no guides on how to properly configure this within ESXi. Specifically, this is what I am looking to do:\n\n1. Configure pfsense to act as a barrier between the analysis lab and my day to day network.\n\n2. Configure esxi to utilize vswitches properly in conjunction with #1.\n\n3. Have a totally different subnet behind the pfsense \"wall\".\n\n4. Via pfsense, ensure that I have granular control over who can talk to who within the network (alongside all other ingress/egress information).\n\nThanks, really appreciate it.",
+        "title": "Malware Analysis Lab - How are you doing it?",
+        "score": 10,
+        "id": "5ikpzr",
+        "commsNum": 3,
+        "timeStamp": "2016/12/15-14:55:27",
+        "author_name": "NetsecAsshole",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5ikpzr/malware_analysis_lab_how_are_you_doing_it/"
+    },
+    "posts": {}
+}

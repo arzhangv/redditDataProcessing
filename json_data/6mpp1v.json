@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Russia has developed a cyberweapon that can disrupt power grids, according to new research",
+        "score": 6,
+        "id": "6mpp1v",
+        "commsNum": 2,
+        "timeStamp": "2017/07/11-15:20:14",
+        "author_name": "A_Lazko",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.washingtonpost.com/world/national-security/russia-has-developed-a-cyber-weapon-that-can-disrupt-power-grids-according-to-new-research/2017/06/11/b91b773e-4eed-11e7-91eb-9611861a988f_story.html?utm_term=.2655a17f73b0"
+    },
+    "posts": {
+        "dk475k2": {
+            "comment": "not sure if you are saying \"Isn't \"black energy 2\" years old... yes, before crimea. Or if you are saying isn't \"black energy\" 2 years old, no.. its quite a bit older than that through its various versions.",
+            "timeStamp": "2017/07/12-05:41:05",
+            "id": "dk475k2",
+            "is_submitter": false,
+            "link_id": "t3_6mpp1v",
+            "parent_id": "t1_dk43n5z",
+            "score": 1,
+            "stickied": false,
+            "author_name": "NinjaCheeseSlicer"
+        },
+        "dk43n5z": {
+            "comment": "Isn't BlackEnergy 2 years old news?",
+            "timeStamp": "2017/07/12-03:46:12",
+            "id": "dk43n5z",
+            "is_submitter": false,
+            "link_id": "t3_6mpp1v",
+            "parent_id": "t3_6mpp1v",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Lightning_42"
+        }
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hi All,\n\nPlease help me to understand, How we can able to recover the  shadow copy deleted by Threat Actor.",
+        "title": "Recover the deleted shadow copy",
+        "score": 1,
+        "id": "wj14vj",
+        "commsNum": 0,
+        "timeStamp": "2022/08/07-23:01:49",
+        "author_name": "vyasarvenkat",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/wj14vj/recover_the_deleted_shadow_copy/"
+    },
+    "posts": {
+        "ijhndyb": {
+            "comment": "Something I wrote up a while back: https://nullsec.us/carving-for/\n\nThat might help, but my findings indicated that it was difficult to recover even when the environment was configured in a way that would make recovery easier. You probably aren't going to be able to, but if you can, that is the only way I know of.",
+            "timeStamp": "2022/08/08-13:41:32",
+            "id": "ijhndyb",
+            "is_submitter": false,
+            "link_id": "t3_wj14vj",
+            "parent_id": "t3_wj14vj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "BeanBagKing"
+        },
+        "ijhhspf": {
+            "comment": "You can\u2019t and will not be able to. Hence why TAs delete them in the first place. It\u2019s a mechanism to ensure a victim has to pay because you are out of options in rolling back pre encryption.",
+            "timeStamp": "2022/08/08-13:03:24",
+            "id": "ijhhspf",
+            "is_submitter": false,
+            "link_id": "t3_wj14vj",
+            "parent_id": "t3_wj14vj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "bigt252002"
+        },
+        "ijfmyr0": {
+            "comment": "There is always a 1% (or less) chance of recovering the shadow copy at the cost of an entry level FTE\u2019s salary.\n\nThat\u2019s why every business needs local, remote hot and immutable (depending on use case), and offline backups, for data that simply can\u2019t be lost.",
+            "timeStamp": "2022/08/08-05:38:39",
+            "id": "ijfmyr0",
+            "is_submitter": false,
+            "link_id": "t3_wj14vj",
+            "parent_id": "t1_ijer7kk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "FOOLS_GOLD"
+        },
+        "ijfk26e": {
+            "comment": "The TA deleted them for a reason. It would be extremely difficult to recover it.",
+            "timeStamp": "2022/08/08-05:12:31",
+            "id": "ijfk26e",
+            "is_submitter": false,
+            "link_id": "t3_wj14vj",
+            "parent_id": "t3_wj14vj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Positive-Incident861"
+        },
+        "ijfbga6": {
+            "comment": "This presentation offers some extensive background on the nature and operation of VSS - together with some forensic tools which --might-- allow you to get some of your data back: [https://i.blackhat.com/us-18/Thu-August-9/us-18-Kobayashi-Reconstruct-The-World-From-Vanished-Shadow-Recovering-Deleted-VSS-Snapshots.pdf](https://i.blackhat.com/us-18/Thu-August-9/us-18-Kobayashi-Reconstruct-The-World-From-Vanished-Shadow-Recovering-Deleted-VSS-Snapshots.pdf)\n\nThe main challenge comes with reconstructing the VSS catalog -&gt; the instruction on how the backed-up binary deltas need to be blended with the live content.\n\nGood luck!",
+            "timeStamp": "2022/08/08-03:40:43",
+            "id": "ijfbga6",
+            "is_submitter": false,
+            "link_id": "t3_wj14vj",
+            "parent_id": "t3_wj14vj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "vornamemitd"
+        },
+        "ijevd69": {
+            "comment": "[removed]",
+            "timeStamp": "2022/08/08-00:04:25",
+            "id": "ijevd69",
+            "is_submitter": false,
+            "link_id": "t3_wj14vj",
+            "parent_id": "t3_wj14vj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ijer7kk": {
+            "comment": "Not sure you can.. other backups are needed",
+            "timeStamp": "2022/08/07-23:12:04",
+            "id": "ijer7kk",
+            "is_submitter": false,
+            "link_id": "t3_wj14vj",
+            "parent_id": "t3_wj14vj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Nesher86"
+        }
+    }
+}

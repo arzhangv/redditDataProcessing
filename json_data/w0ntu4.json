@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hello,\n\nA friend of mine had gotten a virus on his pc a couple of weeks ago. The hacker stole a lot of his information and data. I helped him start fresh since we were not sure how much he accessed. \n\nRecently he says some of his files changed and he suspects it's back. I highly doubt it but he sent me a text file with some info on it that he says is suspicious. He also claims his newly built pc is running at max speed on idle as if some \"bitcoin miner\" is installed on it now. His room doesn't have great airflow so I'm just assuming it's that. I'm thinking he is just paranoid but here is the info that was in the text file. Anything weird?\n\n    IP Traffic\n    [IP ADDRESS REMOVED FOR PRIVACY. NOT SURE IF ITS HIS OR AN IP CONNECTING TO HIS PC, HE DIDNT CLARIFY.] (TCP)\n    File System Actions\n    Files Deleted\n    C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERE8D9.tmp.WERInternalMetadata.xml \n    C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WEREA11.tmp.csv \n    C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WEREA70.tmp.txt \n    C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER9CE.tmp.WERInternalMetadata.xml \n    C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER9D0.tmp.csv \n    C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER9E1.tmp.txt \n    C:\\Windows\\System32\\spp\\store\\2.0\\cache\\cache.dat \n    C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERB07.tmp.WERInternalMetadata.xml \n    C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERC01.tmp.csv \n    C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERC31.tmp.txt \n    C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERD4A.tmp.WERInternalMetadata.xml \n    C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERD5B.tmp.csv \n    C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERD6B.tmp.txt \n    C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF424.tmp.WERInternalMetadata.xml \n    C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF4CF.tmp.csv \n    C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF4FF.tmp.txt \n    C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERC30.tmp.WERInternalMetadata.xml \n    C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERC32.tmp.csv \n    C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERC42.tmp.txt\n    Files Dropped\n    C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERE8D9.tmp \n    C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERE8D9.tmp.WERInternalMetadata.xml \n    C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WEREA11.tmp \n    C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WEREA11.tmp.csv \n    C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WEREA70.tmp \n    C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WEREA70.tmp.txt \n    C:\\Windows\\System32\\spp\\store\\2.0\\data.dat.tmp \n    C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER9CE.tmp \n    C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER9CE.tmp.WERInternalMetadata.xml \n    C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER9D0.tmp\n    Process And Service Actions\n    Processes Created\n    %SAMPLEPATH%\\EXPLORER.EXE \n    C:\\Windows\\System32\\wuapihost.exe\n    Shell Commands\n    \"%SAMPLEPATH%\\EXPLORER.EXE\" \n    C:\\Windows\\System32\\wuapihost.exe -Embedding\n    Processes Terminated\n    C:\\Windows\\System32\\wuapihost.exe\n    Processes Tree\n     2756 - %WINDIR%\\explorer.exe\n     8 - %SAMPLEPATH%\\EXPLORER.EXE\n     620 - C:\\Windows\\System32\\svchost.exe\n     3136 - C:\\Windows\\System32\\wuapihost.exe\n\nHe also sent me this VirusTotal link saying it was a text file on his computer and the relations have a bunch of viruses linked to it. Don't know much of what the relations section means on VirusTotal so any info will help.\n\n[https://www.virustotal.com/gui/file/455ec4f5b15557762b893388b591ca9f3e822675ab94fc6664aa4ec8c41cb295/relations](https://www.virustotal.com/gui/file/455ec4f5b15557762b893388b591ca9f3e822675ab94fc6664aa4ec8c41cb295/relations)",
+        "title": "Friend PC May Have Malware",
+        "score": 1,
+        "id": "w0ntu4",
+        "commsNum": 0,
+        "timeStamp": "2022/07/16-12:02:35",
+        "author_name": "spades135",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/w0ntu4/friend_pc_may_have_malware/"
+    },
+    "posts": {
+        "igg5638": {
+            "comment": "Gotcha, thanks for the info. Ill make sure to post what is intended in this subreddit",
+            "timeStamp": "2022/07/16-15:17:30",
+            "id": "igg5638",
+            "is_submitter": true,
+            "link_id": "t3_w0ntu4",
+            "parent_id": "t1_igfjef3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "spades135"
+        },
+        "igfjef3": {
+            "comment": "I can see the original submission has been deleted.\n\nIf the moderator whacked the submission, it's because this subreddit is intended for analyzing, reporting analysis results, and discussion of malware.\n\nWRT to your friend's concerns, these files are unimportant.\n\nThe bulk of these files are residue from executing code on the system.  The \".txt\", \".xml\", \".csv\" are typically formatted text files that represent data used or collected during the code execution.\n\nThe executable appear to be standard Windows OS files.  As the files are not available for analysis, an MD5/sha256 or similar hash should be generated for the file.  The hash value can be submitted to various malware/RE sites to see if they are legit or known malicious.\n\nThe Virustotal report does not provide any indication the code is malicious.  \n\nThe \"Detection\" section indicates there were no signature matches for malicious content.  This could indicate \"unknown\" malicious code or non-malicious files.\n\nThe \"Details\" section is typical Tier 1 info.  The file is small (276 bytes), has been \"known\" since 2018, and there are multiple hashes that can used to compare other files on the system.\n\nThe \"Relations\" section provides no usable analysis data points or indicators of compromise (IOC).",
+            "timeStamp": "2022/07/16-12:36:09",
+            "id": "igfjef3",
+            "is_submitter": false,
+            "link_id": "t3_w0ntu4",
+            "parent_id": "t3_w0ntu4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Farstone"
+        }
+    }
+}

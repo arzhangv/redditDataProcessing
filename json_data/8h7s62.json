@@ -1,0 +1,121 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Folders that have 100% chance of not having malwares. (Like games folders)?",
+        "title": "Are there folders I can exclude from my antivirus scan ?",
+        "score": 0,
+        "id": "8h7s62",
+        "commsNum": 9,
+        "timeStamp": "2018/05/05-07:16:41",
+        "author_name": "Fried_Piee",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 9,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8h7s62/are_there_folders_i_can_exclude_from_my_antivirus/"
+    },
+    "posts": {
+        "dyk1hk8": {
+            "comment": "It might be more difficult for malware to get to a system folder, but you cannot even assume that. It can be anywhere, and even come in the form of \"file\\-less\" malware, meaning, it's able to run malicious code without putting a file on your disk. ",
+            "timeStamp": "2018/05/06-15:11:05",
+            "id": "dyk1hk8",
+            "is_submitter": false,
+            "link_id": "t3_8h7s62",
+            "parent_id": "t3_8h7s62",
+            "score": 1,
+            "stickied": false,
+            "author_name": "migok"
+        },
+        "dyhv3z8": {
+            "comment": "No. Malware can be anywhere.",
+            "timeStamp": "2018/05/05-09:40:57",
+            "id": "dyhv3z8",
+            "is_submitter": false,
+            "link_id": "t3_8h7s62",
+            "parent_id": "t3_8h7s62",
+            "score": 8,
+            "stickied": false,
+            "author_name": "b1t_viper"
+        },
+        "dyhuq5b": {
+            "comment": "I know for windows defender you can. I exclude my malware samples directory from it so it doesn\u2019t get quaratines",
+            "timeStamp": "2018/05/05-09:33:19",
+            "id": "dyhuq5b",
+            "is_submitter": false,
+            "link_id": "t3_8h7s62",
+            "parent_id": "t3_8h7s62",
+            "score": 1,
+            "stickied": false,
+            "author_name": "pimmytrousers"
+        },
+        "dyhrl0g": {
+            "comment": "The answer is not really, there are some specific files you could exclude.  \n\nYou do have some large storage system that have the ability to designate folder that are read-only, and once that is set is cannot be changed.   Those you could ignore from continual scanning but you would still want to do a check new files added that got added and would still want to rescan existing files against new malware signatures.",
+            "timeStamp": "2018/05/05-08:33:27",
+            "id": "dyhrl0g",
+            "is_submitter": false,
+            "link_id": "t3_8h7s62",
+            "parent_id": "t1_dyho0p9",
+            "score": 3,
+            "stickied": false,
+            "author_name": "Kamwind"
+        },
+        "dyhral4": {
+            "comment": "Even with a database you would not want to exclude the folder.  It use to be the recommendation was to exclude the file extension now you should fully specify the path and file you want to exclude.",
+            "timeStamp": "2018/05/05-08:27:56",
+            "id": "dyhral4",
+            "is_submitter": false,
+            "link_id": "t3_8h7s62",
+            "parent_id": "t1_dyhol43",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Kamwind"
+        },
+        "dyhqq4h": {
+            "comment": "I think you can't just define a directory or files that you can exclude.\nhowever it can be a good idea to use some file integrity monitor software. And maybe you can exclude the files which are monitored by this system. You can use FIM on files which are rarely changing.\n\nHowever Im not sure what is your intention with the exclusion. If you want to make you scans faster it can help. But if you want to save resources than possibly it won't work for you.",
+            "timeStamp": "2018/05/05-08:16:55",
+            "id": "dyhqq4h",
+            "is_submitter": false,
+            "link_id": "t3_8h7s62",
+            "parent_id": "t3_8h7s62",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TokeSR"
+        },
+        "dyhol43": {
+            "comment": "You only want to do that with files you know are safe but also know will trigger a quarantine.  Or if you have a database running. \n\nEither way, ask the people who make your specific antivirus. ",
+            "timeStamp": "2018/05/05-07:33:08",
+            "id": "dyhol43",
+            "is_submitter": false,
+            "link_id": "t3_8h7s62",
+            "parent_id": "t3_8h7s62",
+            "score": 1,
+            "stickied": false,
+            "author_name": "defaultsubsarebad"
+        },
+        "dyho0p9": {
+            "comment": "I don't know I just gave a random example",
+            "timeStamp": "2018/05/05-07:20:56",
+            "id": "dyho0p9",
+            "is_submitter": true,
+            "link_id": "t3_8h7s62",
+            "parent_id": "t1_dyhnzky",
+            "score": 0,
+            "stickied": false,
+            "author_name": "Fried_Piee"
+        },
+        "dyhnzky": {
+            "comment": "why do you think game folders would not have malware?",
+            "timeStamp": "2018/05/05-07:20:13",
+            "id": "dyhnzky",
+            "is_submitter": false,
+            "link_id": "t3_8h7s62",
+            "parent_id": "t3_8h7s62",
+            "score": 3,
+            "stickied": false,
+            "author_name": "Kamwind"
+        }
+    }
+}

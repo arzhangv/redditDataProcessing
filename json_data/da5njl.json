@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "First time poster on here, I put together a short guide on how to use OLE tools and CyberChef to deobfuscate malicious macros. Hope some of you find it useful.",
+        "score": 36,
+        "id": "da5njl",
+        "commsNum": 4,
+        "timeStamp": "2019/09/27-12:57:50",
+        "author_name": "Paul_Sec",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://newtonpaul.com/static-malware-analysis-with-ole-tools-and-cyber-chef/"
+    },
+    "posts": {
+        "f1p4jr1": {
+            "comment": "I saw a post a few weeks ago using regex to clean up concated strings.\nThinking something like first occurrence of variable, rename to var_line_number.\n\n\nhappy cake day.",
+            "timeStamp": "2019/09/28-04:59:39",
+            "id": "f1p4jr1",
+            "is_submitter": false,
+            "link_id": "t3_da5njl",
+            "parent_id": "t1_f1p3luo",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TailSpinBowler"
+        },
+        "f1p3luo": {
+            "comment": "I\u2019m not sure to be honest, I\u2019d imagine there probably is a better way to clear up the variables than using atom. Perhaps using an IDE would provide better variable highlighting.",
+            "timeStamp": "2019/09/28-04:46:49",
+            "id": "f1p3luo",
+            "is_submitter": true,
+            "link_id": "t3_da5njl",
+            "parent_id": "t1_f1o42w0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Paul_Sec"
+        },
+        "f1oc2oo": {
+            "comment": "Happy cale day",
+            "timeStamp": "2019/09/27-20:14:42",
+            "id": "f1oc2oo",
+            "is_submitter": false,
+            "link_id": "t3_da5njl",
+            "parent_id": "t3_da5njl",
+            "score": 1,
+            "stickied": false,
+            "author_name": "NativityInBlack666"
+        },
+        "f1o42w0": {
+            "comment": "Are there tools to help find the single user variables, or rename the variables?",
+            "timeStamp": "2019/09/27-18:28:23",
+            "id": "f1o42w0",
+            "is_submitter": false,
+            "link_id": "t3_da5njl",
+            "parent_id": "t3_da5njl",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TailSpinBowler"
+        }
+    }
+}

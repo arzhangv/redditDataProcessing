@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Analysis report on Log4j attack patterns",
+        "score": 1,
+        "id": "v3p7l2",
+        "commsNum": 0,
+        "timeStamp": "2022/06/02-19:25:34",
+        "author_name": "Late_Ice_9288",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://blog.criminalip.io/2022/02/11/criminal-ip-analysis-report-on-log4j-attack-patterns/"
+    },
+    "posts": {
+        "ibe92yh": {
+            "comment": "[removed]",
+            "timeStamp": "2022/06/06-11:30:10",
+            "id": "ibe92yh",
+            "is_submitter": false,
+            "link_id": "t3_v3p7l2",
+            "parent_id": "t3_v3p7l2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ib0tfqw": {
+            "comment": "This from the article:\n\n&gt; servers infected with the Log4j vulnerabilities\n\nMaybe I'm old and crusty and tired, but all I saw was a poorly written \"I saw a scan\" report.",
+            "timeStamp": "2022/06/03-03:49:23",
+            "id": "ib0tfqw",
+            "is_submitter": false,
+            "link_id": "t3_v3p7l2",
+            "parent_id": "t3_v3p7l2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Farstone"
+        }
+    }
+}

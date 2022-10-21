@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I am on windows 7. Just opened Google.com today and firefox opened this instead:\n\nhttp://demo.opera-mini.net/public\n\nI tried with IE and same result. Is a malware causing this? How can I know?\n\nBut when I `ping www.google.com`, it shows the correct IP - when I put that IP in IE/ff, it goes to Google site. Also, When I went in a vm in virtualbox and browse from there, there are no issues. My AV hasn't detected anything.\n\nPlease help.",
+        "title": "Is this malware or what?",
+        "score": 0,
+        "id": "2ved1r",
+        "commsNum": 1,
+        "timeStamp": "2015/02/10-00:06:12",
+        "author_name": "[deleted]",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2ved1r/is_this_malware_or_what/"
+    },
+    "posts": {}
+}

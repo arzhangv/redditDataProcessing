@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Reversing the petya ransomware with constraint solvers [x-post from /r/reverseengineering]",
+        "score": 15,
+        "id": "4ggmcv",
+        "commsNum": 1,
+        "timeStamp": "2016/04/25-18:43:45",
+        "author_name": "mackwage",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://0xec.blogspot.com/2016/04/reversing-petya-ransomware-with.html"
+    },
+    "posts": {}
+}

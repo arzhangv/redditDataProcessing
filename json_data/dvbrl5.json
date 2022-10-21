@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi , ever since I downloaded a sketchy file and got my pc infected with malware I have been experiencing something strange. I did a virus scan with 360 ANTIvirus , but it did not remove / detect these exe's. The exe's keep popping up in task manager , one day there is about two or three of them , and the other day there is 50. They dont seem to use up much space , or bloat my computer , but I am still worried. When I open file location and delete one , it seems to make two(?) more of the same .exe's elsewhere. It also makes a weird invisible program open that keeps playing the windows 7 error sound every now and then (I have proof seeing as the program appears as \"sjakcvym\" in sound mixer\"   , other than that nothing happens. Should I be worried? What can I do to stop this? (The .exe's were named nuils.exe : notepad.exe : and now the last one that wont go away ; Slocombe.exe.",
+        "title": "Strange .exe's keep popping up.",
+        "score": 1,
+        "id": "dvbrl5",
+        "commsNum": 4,
+        "timeStamp": "2019/11/12-07:49:32",
+        "author_name": "TheOriginalMarra",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/dvbrl5/strange_exes_keep_popping_up/"
+    },
+    "posts": {
+        "f7brpeq": {
+            "comment": "Sounds pretty much like malware. Can you upload one of those files to [Virustotal.com](https://Virustotal.com) and post the link?\n\nOr maybe even the original file that infected your system?",
+            "timeStamp": "2019/11/12-08:28:04",
+            "id": "f7brpeq",
+            "is_submitter": false,
+            "link_id": "t3_dvbrl5",
+            "parent_id": "t3_dvbrl5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Struppigel"
+        },
+        "f7bp7wo": {
+            "comment": "Run file through VirusTotal",
+            "timeStamp": "2019/11/12-08:01:09",
+            "id": "f7bp7wo",
+            "is_submitter": false,
+            "link_id": "t3_dvbrl5",
+            "parent_id": "t3_dvbrl5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "uncle_damfee"
+        },
+        "f7boxeu": {
+            "comment": "Run scans with some free tools lile ESER Online Scanner, Malwarebytes, HitmanPro etc...",
+            "timeStamp": "2019/11/12-07:57:58",
+            "id": "f7boxeu",
+            "is_submitter": false,
+            "link_id": "t3_dvbrl5",
+            "parent_id": "t3_dvbrl5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "likeastar20"
+        },
+        "f7bou1p": {
+            "comment": "Read the sidebar.",
+            "timeStamp": "2019/11/12-07:56:56",
+            "id": "f7bou1p",
+            "is_submitter": false,
+            "link_id": "t3_dvbrl5",
+            "parent_id": "t3_dvbrl5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RussianToCollusion"
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Cybersecurity Firm Discovers Malware Using Bitcoin Script",
+        "score": 14,
+        "id": "d07i7p",
+        "commsNum": 2,
+        "timeStamp": "2019/09/05-14:57:51",
+        "author_name": "zuugzwang",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://beincrypto.com/cybersecurity-firm-discovers-malware-using-bitcoin-script/?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=security&amp;utm_content=ff"
+    },
+    "posts": {
+        "ez8z6t7": {
+            "comment": "Link to the full article from TrendMicro: https://blog.trendmicro.com/trendlabs-security-intelligence/glupteba-campaign-hits-network-routers-and-updates-cc-servers-with-data-from-bitcoin-transactions/",
+            "timeStamp": "2019/09/06-03:53:26",
+            "id": "ez8z6t7",
+            "is_submitter": false,
+            "link_id": "t3_d07i7p",
+            "parent_id": "t3_d07i7p",
+            "score": 1,
+            "stickied": false,
+            "author_name": "adorais"
+        },
+        "ez7htqg": {
+            "comment": "... is this article from 2012?",
+            "timeStamp": "2019/09/05-15:51:42",
+            "id": "ez7htqg",
+            "is_submitter": false,
+            "link_id": "t3_d07i7p",
+            "parent_id": "t3_d07i7p",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Crash_says"
+        }
+    }
+}

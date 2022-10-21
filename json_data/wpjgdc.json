@@ -1,0 +1,198 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Two years ago I finished reading practical malware analysis (with its labs). But after then, I no longer continued with malware analysis.\n\nNow I would like to resume my journey in malware analysis with some real world malware (of course I will read again the book to refresh my memory).\n\nAny ideas on how can I continue from here as a hobbyst? (By hobbyst I mean, no internships or expensive courses, I just like RE and in a future maybe game hacking).",
+        "title": "Gain real world experience with malware analysis and RE as a hobbyst.",
+        "score": 1,
+        "id": "wpjgdc",
+        "commsNum": 0,
+        "timeStamp": "2022/08/15-20:24:06",
+        "author_name": "Somanos",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/wpjgdc/gain_real_world_experience_with_malware_analysis/"
+    },
+    "posts": {
+        "ikmz5dz": {
+            "comment": "Thank you! I checked it out and that's a great blog with a lot of info.",
+            "timeStamp": "2022/08/17-03:14:39",
+            "id": "ikmz5dz",
+            "is_submitter": true,
+            "link_id": "t3_wpjgdc",
+            "parent_id": "t1_iklcd03",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Somanos"
+        },
+        "ikmz21y": {
+            "comment": "Thanks! Definitively I will look into CTFs",
+            "timeStamp": "2022/08/17-03:13:28",
+            "id": "ikmz21y",
+            "is_submitter": true,
+            "link_id": "t3_wpjgdc",
+            "parent_id": "t1_ikke4yn",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Somanos"
+        },
+        "ikmo16j": {
+            "comment": "Great, thank you!",
+            "timeStamp": "2022/08/17-00:43:27",
+            "id": "ikmo16j",
+            "is_submitter": false,
+            "link_id": "t3_wpjgdc",
+            "parent_id": "t1_ikkbl6g",
+            "score": 1,
+            "stickied": false,
+            "author_name": "n0p_sled"
+        },
+        "iklcd03": {
+            "comment": "[https://www.malware-traffic-analysis.net/](https://www.malware-traffic-analysis.net/)\n\nHe has live samples, packet captures, and analysis already done.\n\nDownload the binary, go nuts on it, evaluate the pcaps, do your own analysis, then compare it to his.",
+            "timeStamp": "2022/08/16-17:19:24",
+            "id": "iklcd03",
+            "is_submitter": false,
+            "link_id": "t3_wpjgdc",
+            "parent_id": "t3_wpjgdc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Ottonym"
+        },
+        "ikknvy0": {
+            "comment": "You think? I think that there will be malware that exploits vulnerabilities in those devices, also the human factor will always be exploitable so maybe they are still able to deliver malware through it (as always). But I am not involved in the IoT world so I don't know much how it works",
+            "timeStamp": "2022/08/16-14:23:45",
+            "id": "ikknvy0",
+            "is_submitter": true,
+            "link_id": "t3_wpjgdc",
+            "parent_id": "t1_ikklnqh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Somanos"
+        },
+        "ikklnqh": {
+            "comment": "Well I don\u2019t know, once iot rolls out fully everything will be so secure that will be no more malware\n\n\ud83d\ude01",
+            "timeStamp": "2022/08/16-14:08:42",
+            "id": "ikklnqh",
+            "is_submitter": false,
+            "link_id": "t3_wpjgdc",
+            "parent_id": "t3_wpjgdc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Y34rZer0"
+        },
+        "ikke4yn": {
+            "comment": "There are a few CTFs that are based upon real malware, but up the difficulty a notch. Complete those and you can do most malware. \n\nSee Mandiant's Flare-On competition. However, I just realized that their website (flare-on.com) is down ... But you can find many write-ups and likely copies of the binaries elsewhere. Unit42's Labyrenth is also a lot of fun.",
+            "timeStamp": "2022/08/16-13:19:12",
+            "id": "ikke4yn",
+            "is_submitter": false,
+            "link_id": "t3_wpjgdc",
+            "parent_id": "t3_wpjgdc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "LightningRurik"
+        },
+        "ikkbl6g": {
+            "comment": "https://twitter.com/bluesouldotnet/following is pretty tightly focused on this area.",
+            "timeStamp": "2022/08/16-13:02:30",
+            "id": "ikkbl6g",
+            "is_submitter": false,
+            "link_id": "t3_wpjgdc",
+            "parent_id": "t1_ikk90sp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "bluesoul"
+        },
+        "ikk90sp": {
+            "comment": "Would you have any suggestions as to who to follow?",
+            "timeStamp": "2022/08/16-12:45:55",
+            "id": "ikk90sp",
+            "is_submitter": false,
+            "link_id": "t3_wpjgdc",
+            "parent_id": "t1_ikicdu6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "n0p_sled"
+        },
+        "ikjbx6l": {
+            "comment": "Yeah, sure, teaming up always helps!",
+            "timeStamp": "2022/08/16-09:18:04",
+            "id": "ikjbx6l",
+            "is_submitter": true,
+            "link_id": "t3_wpjgdc",
+            "parent_id": "t1_ikix83k",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Somanos"
+        },
+        "ikjamns": {
+            "comment": "I guess I will start off with simpler and older samples, then as I feel confident move on.\nAlso rn I have a 64bit AutoIT script which is a real world crack.",
+            "timeStamp": "2022/08/16-09:09:58",
+            "id": "ikjamns",
+            "is_submitter": true,
+            "link_id": "t3_wpjgdc",
+            "parent_id": "t1_ikig2t5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Somanos"
+        },
+        "ikj97x6": {
+            "comment": "Thanks! I will look into it",
+            "timeStamp": "2022/08/16-09:01:07",
+            "id": "ikj97x6",
+            "is_submitter": true,
+            "link_id": "t3_wpjgdc",
+            "parent_id": "t1_ikicdu6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Somanos"
+        },
+        "ikix83k": {
+            "comment": "I also wanna do RE as a hobby, have done some beginner things in it till yet. Would like to partner up if that sets with you.",
+            "timeStamp": "2022/08/16-07:47:55",
+            "id": "ikix83k",
+            "is_submitter": false,
+            "link_id": "t3_wpjgdc",
+            "parent_id": "t3_wpjgdc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mur2501"
+        },
+        "ikig2t5": {
+            "comment": "TheZoo on Github has older malware in its repo\n\nURLHaus, DasMalwerk and another place (can't think of rn) have active samples, many of which have yet to be caught by AV\n\nDepends on what you wanna do, older known stuff or new and advanced/ing stuff",
+            "timeStamp": "2022/08/16-05:41:58",
+            "id": "ikig2t5",
+            "is_submitter": false,
+            "link_id": "t3_wpjgdc",
+            "parent_id": "t3_wpjgdc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Tyyphoon9"
+        },
+        "ikicdu6": {
+            "comment": "Get involved with infosec Twitter, watch for samples coming through, try to perform your own static and dynamic analyses.",
+            "timeStamp": "2022/08/16-05:09:41",
+            "id": "ikicdu6",
+            "is_submitter": false,
+            "link_id": "t3_wpjgdc",
+            "parent_id": "t3_wpjgdc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "bluesoul"
+        },
+        "ikhdvr0": {
+            "comment": "[removed]",
+            "timeStamp": "2022/08/15-22:06:40",
+            "id": "ikhdvr0",
+            "is_submitter": false,
+            "link_id": "t3_wpjgdc",
+            "parent_id": "t3_wpjgdc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

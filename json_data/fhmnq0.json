@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi. I use Bitdefender and for the past few weeks I keep getting phishing alerts from these websites in particular:\n\nhttp://xml.admidainsight .com/click?i=WoBXnQp\\*fCU\\_0\n\nhttp://xml.hueadsxml .com/click?i=bdaDThr6BFc\\_0\n\nIt happens usually in the evenings and a few alerts in the span of one to two minutes.\n\nSometimes I have the browser open and sometimes I do not.\n\nI tried googling this but I can't come up with a reason as to why this is happening.\n\nWhat's going on?",
+        "title": "phishing",
+        "score": 1,
+        "id": "fhmnq0",
+        "commsNum": 1,
+        "timeStamp": "2020/03/12-13:09:04",
+        "author_name": "the_spawn_of_satan",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/fhmnq0/phishing/"
+    },
+    "posts": {
+        "fkhgtfe": {
+            "comment": "you probably have some kind of adclicker or backdoor installed. download hitmanpro and run it to see what you have installed.",
+            "timeStamp": "2020/03/14-08:07:59",
+            "id": "fkhgtfe",
+            "is_submitter": false,
+            "link_id": "t3_fhmnq0",
+            "parent_id": "t3_fhmnq0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "evictedtomato"
+        }
+    }
+}

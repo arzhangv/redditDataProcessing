@@ -1,0 +1,121 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": " Im interested in learning malware dev. I am deciding between c++ and C#.  Which would be easier to use and which one can i do more with and learn  more from?",
+        "title": "k C# over C++ for malware dev",
+        "score": 1,
+        "id": "vfkcx6",
+        "commsNum": 0,
+        "timeStamp": "2022/06/18-18:37:33",
+        "author_name": "Astral_Parallax",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/vfkcx6/k_c_over_c_for_malware_dev/"
+    },
+    "posts": {
+        "icy5es3": {
+            "comment": "Java is so bad, minecraft lags. Yeah, the block game lags with a couple hundred thousand entities. What a joke.",
+            "timeStamp": "2022/06/19-07:39:34",
+            "id": "icy5es3",
+            "is_submitter": false,
+            "link_id": "t3_vfkcx6",
+            "parent_id": "t1_icxmala",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Null-Sanity"
+        },
+        "icxqizh": {
+            "comment": "[removed]",
+            "timeStamp": "2022/06/19-05:16:47",
+            "id": "icxqizh",
+            "is_submitter": false,
+            "link_id": "t3_vfkcx6",
+            "parent_id": "t3_vfkcx6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "icxnl2y": {
+            "comment": "Golang. Nothing more, nothing less. Everything you need is already included. Def con 29 talk about malware dev an go: https://youtu.be/3RQb05ITSyk",
+            "timeStamp": "2022/06/19-04:41:08",
+            "id": "icxnl2y",
+            "is_submitter": false,
+            "link_id": "t3_vfkcx6",
+            "parent_id": "t3_vfkcx6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "docaicdev"
+        },
+        "icxmala": {
+            "comment": "I was disappointed it took till your last paragraph to mention the abomination that is Java.",
+            "timeStamp": "2022/06/19-04:24:08",
+            "id": "icxmala",
+            "is_submitter": false,
+            "link_id": "t3_vfkcx6",
+            "parent_id": "t1_icwtqpm",
+            "score": 1,
+            "stickied": false,
+            "author_name": "itsecurityguy"
+        },
+        "icx6vyp": {
+            "comment": "You've spent the entirety of the last week posting threads in different places about what language to learn. You seem to also be interested in using Unity, C# is easier to learn, doesn't have a limit to what you can learn or do with it, and you can create 'RATs and key loggers for \"fun\"' with it. \n\nNow stop pestering everyone about what language to learn and go learn a language.",
+            "timeStamp": "2022/06/19-00:34:19",
+            "id": "icx6vyp",
+            "is_submitter": false,
+            "link_id": "t3_vfkcx6",
+            "parent_id": "t3_vfkcx6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Krombuchar2"
+        },
+        "icwtqpm": {
+            "comment": "Sorry, I edited that out so fast, I didn't think anyone would see it. \n\nIts an old bit of programmer humor that programmers who learn C# or Visual Basic as their first languages are effectively crippling themselves to learn other languages as they become accustomed to the awful design decisions in the language.\n\nC# and VBasic are awful languages in terms of language design, code readability and code maintainability, mostly due to microsofts awful decisions.",
+            "timeStamp": "2022/06/18-21:40:01",
+            "id": "icwtqpm",
+            "is_submitter": false,
+            "link_id": "t3_vfkcx6",
+            "parent_id": "t1_icwt7fi",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Null-Sanity"
+        },
+        "icwt7fi": {
+            "comment": "Why cant you learn other languages if you learn c#?",
+            "timeStamp": "2022/06/18-21:33:51",
+            "id": "icwt7fi",
+            "is_submitter": true,
+            "link_id": "t3_vfkcx6",
+            "parent_id": "t1_icwsr79",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Astral_Parallax"
+        },
+        "icwsr79": {
+            "comment": "Rust.\n\nYour malware will be memory safe.",
+            "timeStamp": "2022/06/18-21:28:36",
+            "id": "icwsr79",
+            "is_submitter": false,
+            "link_id": "t3_vfkcx6",
+            "parent_id": "t3_vfkcx6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Null-Sanity"
+        },
+        "icwotcl": {
+            "comment": "[removed]",
+            "timeStamp": "2022/06/18-20:44:53",
+            "id": "icwotcl",
+            "is_submitter": false,
+            "link_id": "t3_vfkcx6",
+            "parent_id": "t3_vfkcx6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

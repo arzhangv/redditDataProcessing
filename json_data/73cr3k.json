@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi there, i'm having a cpl file and i don't know how to dynamic analysis it. I used OllyDbg, loaded control.exe and set an argument is path to the that cpl file, then i set pause on new module. But that cpl was not loaded. Any suggestion?",
+        "title": "Debugging a .CPL file",
+        "score": 7,
+        "id": "73cr3k",
+        "commsNum": 4,
+        "timeStamp": "2017/09/29-20:27:12",
+        "author_name": "naulmahp",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/73cr3k/debugging_a_cpl_file/"
+    },
+    "posts": {
+        "dnw03vz": {
+            "comment": "thanks, that worked.",
+            "timeStamp": "2017/10/04-03:26:55",
+            "id": "dnw03vz",
+            "is_submitter": true,
+            "link_id": "t3_73cr3k",
+            "parent_id": "t1_dns3ip5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "naulmahp"
+        },
+        "dnum3ne": {
+            "comment": "[deleted]",
+            "timeStamp": "2017/10/03-08:20:41",
+            "id": "dnum3ne",
+            "is_submitter": false,
+            "link_id": "t3_73cr3k",
+            "parent_id": "t1_dns3ip5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "dns3ip5": {
+            "comment": "If the cpl is legit it should be working loaded by control.exe, if it is a malware you may want to try to run it as per you run any DLL file.",
+            "timeStamp": "2017/10/01-17:28:49",
+            "id": "dns3ip5",
+            "is_submitter": false,
+            "link_id": "t3_73cr3k",
+            "parent_id": "t1_dnpjld3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mmd0xFF"
+        }
+    }
+}

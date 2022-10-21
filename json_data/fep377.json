@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Acer laptop (~4months old) randomly crashing... is this normal looking?",
+        "score": 1,
+        "id": "fep377",
+        "commsNum": 1,
+        "timeStamp": "2020/03/06-19:03:20",
+        "author_name": "drugz4low",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://i.redd.it/zsm9cwe826l41.jpg"
+    },
+    "posts": {
+        "fjpgo5i": {
+            "comment": "Only has a couple games like WoW and warframe. I updated amd the other day and it started crashing during WoW with the light blue screen with the :(\nI plan to just restart to factory settings but I want to see if there\u2019s anything else to do or what the issue might be beforehand",
+            "timeStamp": "2020/03/06-19:05:12",
+            "id": "fjpgo5i",
+            "is_submitter": true,
+            "link_id": "t3_fep377",
+            "parent_id": "t3_fep377",
+            "score": 1,
+            "stickied": false,
+            "author_name": "drugz4low"
+        }
+    }
+}

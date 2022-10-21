@@ -1,0 +1,231 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Through torrential I've contracted this malware onto my PC and thankfully my antivirus caught it and quarantined it. Being curious I immensely went to search online what it does but most of the stuff I found is just people explaining how you get it, how to get rid of it and saying very vaguely that it \"enables the attacker to do a multitude of malicious things to your computer from inside\".\n\nAs the title says, I want to know *exactly* what that multitude of things are. Not necessarily every single thing, just how dangerous that specific Trojan is and how much damage could have already been caused by it being undetected for over a month of having the software installed and how much damage it can cause if I don't get rid of it and the software. (I already uninstalled and deleted any files connected I could find but I want to know in the future if the same thing happens)\n\nThanks in advance",
+        "title": "What does \"Trojan:Win32/Tiggre!plock\" *exactly* do?",
+        "score": 1,
+        "id": "dxniej",
+        "commsNum": 16,
+        "timeStamp": "2019/11/17-07:01:39",
+        "author_name": "triggeredrat",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 16,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/dxniej/what_does_trojanwin32tiggreplock_exactly_do/"
+    },
+    "posts": {
+        "iny5enh": {
+            "comment": "[removed]",
+            "timeStamp": "2022/09/10-21:30:48",
+            "id": "iny5enh",
+            "is_submitter": false,
+            "link_id": "t3_dxniej",
+            "parent_id": "t3_dxniej",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "i8sr753": {
+            "comment": "im sorry but im dumb.. is it dangerous or not",
+            "timeStamp": "2022/05/16-01:50:29",
+            "id": "i8sr753",
+            "is_submitter": false,
+            "link_id": "t3_dxniej",
+            "parent_id": "t1_f7uf1sq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "bboringperson"
+        },
+        "hp6gvtr": {
+            "comment": "I think Trojan:Win32/Tiggre!plock come from JJsploit a cheat engine for the known game roblox",
+            "timeStamp": "2021/12/19-07:59:50",
+            "id": "hp6gvtr",
+            "is_submitter": false,
+            "link_id": "t3_dxniej",
+            "parent_id": "t3_dxniej",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ratgammeur"
+        },
+        "fdjss9e": {
+            "comment": "[removed]",
+            "timeStamp": "2020/01/08-04:23:27",
+            "id": "fdjss9e",
+            "is_submitter": false,
+            "link_id": "t3_dxniej",
+            "parent_id": "t3_dxniej",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fc3wox2": {
+            "comment": "Anybody downloaded the debug version of no$gba 3.00 from this page? https://problemkaputt.de/gba.htm\n\nMicrosoft Security Essentials is detecting it as being Trojan:Win32/Tiggre!plock, which I'm sure must be a false positive as older versions of this software haven't had that problem.",
+            "timeStamp": "2019/12/26-14:49:25",
+            "id": "fc3wox2",
+            "is_submitter": false,
+            "link_id": "t3_dxniej",
+            "parent_id": "t3_dxniej",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Digifiend84"
+        },
+        "f8wsu15": {
+            "comment": "This is what I typically see, but not always.  Infection starts with PUA (some inauthentic/bundled VLC/WinRAR/Chrome, etc installer) and Tiggre shows up a little later after persistence is gained.\n\nThe PUA typically brings with it some .dat files that aren't detected because they're truncated, but the PUA executable runs cmd.exe with command-line to combine the .dat files into a new executable (thus evading download protection/file scans) then self-deletes while the new executable remains and adds itself to ASEP registry, etc.\n\nVery low-tech but end users keep falling for junk versions of popular apps, so it keeps working.",
+            "timeStamp": "2019/11/27-15:56:22",
+            "id": "f8wsu15",
+            "is_submitter": false,
+            "link_id": "t3_dxniej",
+            "parent_id": "t1_f7yxt26",
+            "score": 1,
+            "stickied": false,
+            "author_name": "JustMakeSomeShitUp1"
+        },
+        "f8wsdoq": {
+            "comment": "While FPs for this are very possible, they're unlikely to fire on something that's already been on the machine for a month.  Possible, just very unlikely.",
+            "timeStamp": "2019/11/27-15:50:31",
+            "id": "f8wsdoq",
+            "is_submitter": false,
+            "link_id": "t3_dxniej",
+            "parent_id": "t1_f7vsqo2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "JustMakeSomeShitUp1"
+        },
+        "f8ws81y": {
+            "comment": "Save yourself the time. i gave him a hash to look up in Hybrid Analysis:\n\n049c24daa8a1c033085a1dc8caab3deb02af706c668dc787baf49112df6e82a2\n\nDoing an in-depth write up on this stuff is kind of a waste anyway.  These kinds of malware all share somewhat common, generic behaviors but those behaviors manifest in a lot of different ways. So if you map out a kill chain for a novice, it probably won't help much because the next instance of the same/similar threat will be using different filenames/registry key names, C2 IP/domain, etc.  That's my 2 cents, anyway.  It's probably why most malware signatures/definitions in malware encyclopedias don't bother detailing the activity, either.",
+            "timeStamp": "2019/11/27-15:48:33",
+            "id": "f8ws81y",
+            "is_submitter": false,
+            "link_id": "t3_dxniej",
+            "parent_id": "t1_f7xplv8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "JustMakeSomeShitUp1"
+        },
+        "f8wrm21": {
+            "comment": "Roughly the same shit lots of malware does. As others pointed out this is a fairly generic threat category.\n\nBut I'm nice, so I dug up a sample hash of Tiggre from a machine I investigated recently, so you can review the hybrid analysis report and get an idea.\n\n Sha256: 049c24daa8a1c033085a1dc8caab3deb02af706c668dc787baf49112df6e82a2 \n\nhttps://www.hybrid-analysis.com/sample/049c24daa8a1c033085a1dc8caab3deb02af706c668dc787baf49112df6e82a2?environmentId=100\n\nThis particular instance appears to have bern introduced on the machine I investigated via \"steam_api.dll\" which indicates some moron was trying to access copyrighted steam games without paying for them and installed malware in the process.",
+            "timeStamp": "2019/11/27-15:40:45",
+            "id": "f8wrm21",
+            "is_submitter": false,
+            "link_id": "t3_dxniej",
+            "parent_id": "t3_dxniej",
+            "score": 1,
+            "stickied": false,
+            "author_name": "JustMakeSomeShitUp1"
+        },
+        "f800ad0": {
+            "comment": "[removed]",
+            "timeStamp": "2019/11/18-15:14:52",
+            "id": "f800ad0",
+            "is_submitter": false,
+            "link_id": "t3_dxniej",
+            "parent_id": "t3_dxniej",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "f7yxt26": {
+            "comment": "Trigger!plock appears to be a Microsoft specific naming convention for a very generic malware family or even perhaps a specific indicator common to multiple malware families. When I queried the Malware Analysis Center, I found hundreds of files that Microsoft had classified as 'Tiggre!plock' and there was a lot of diversity among Packers and Yara signatures that fired. This leads me to believe it is a very generic signature.\n\nI also read a blog post that suggested 'tiggre!plock' may be downloaded onto am already compromised host.\n\nhttps://www.trendmicro.com/vinfo/hk/threat-encyclopedia/malware/BKDR_COBEACON.QNA",
+            "timeStamp": "2019/11/18-10:38:35",
+            "id": "f7yxt26",
+            "is_submitter": false,
+            "link_id": "t3_dxniej",
+            "parent_id": "t3_dxniej",
+            "score": 1,
+            "stickied": false,
+            "author_name": "FusionCarcass"
+        },
+        "f7xx47o": {
+            "comment": "This is most likely a generic detection, we can't really answer without ewactly knowing the malware type.\n\nWe need more informations like a hash of the file, a VT scan (sometimes some AV gives more helpful names) or the file itself (so we can manually analyse it)\n\nYou may want to submit it to some sandboxes websites like HybridAnalysis so we can have some clues about its behaviour.",
+            "timeStamp": "2019/11/18-04:14:10",
+            "id": "f7xx47o",
+            "is_submitter": false,
+            "link_id": "t3_dxniej",
+            "parent_id": "t3_dxniej",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RCEdude"
+        },
+        "f7xplv8": {
+            "comment": "I'd be down for end user questions like this, but only if they share the file.\n\nI can spend the 30 minutes needed for a quick look, and probably other 20 to write something here. That's only possible if I have something to analyse.",
+            "timeStamp": "2019/11/18-01:16:53",
+            "id": "f7xplv8",
+            "is_submitter": false,
+            "link_id": "t3_dxniej",
+            "parent_id": "t1_f7u1vt9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "NotAFinnishLawyer"
+        },
+        "f7vsqo2": {
+            "comment": "As other people have mentioned the information given is a generic Microsoft name. Usually when malware of identified by heuristics it means that the executable is doing something in a way similar to how malware does something.\n\nSo though the file may not actually be malicious, the way it was downloaded, where it was downloaded to, how it was executed, and what its doing now that its executed, is sketchy enough that defender decided to remove to be safe.",
+            "timeStamp": "2019/11/17-13:39:06",
+            "id": "f7vsqo2",
+            "is_submitter": false,
+            "link_id": "t3_dxniej",
+            "parent_id": "t3_dxniej",
+            "score": 7,
+            "stickied": false,
+            "author_name": "pastastical"
+        },
+        "f7up7gd": {
+            "comment": "It's hard for us to say for sure with just a generic malware name. The first thing you need to do to investigate is exactly what it does is to obtain a copy of it (hopefully you kept one around). I will typically use 7zip to encrypt a sample with the password \"infected\" which renders it inert, but allows me to analyze it further if I need too.\n\nOnce you have a sample, you should upload it to VirusTotal or HybridAnalysis. If you upload to HybridAnalysis, then you get some dynamic analysis results and it's easy to share the malware with the community.",
+            "timeStamp": "2019/11/17-10:52:09",
+            "id": "f7up7gd",
+            "is_submitter": false,
+            "link_id": "t3_dxniej",
+            "parent_id": "t3_dxniej",
+            "score": 1,
+            "stickied": false,
+            "author_name": "FusionCarcass"
+        },
+        "f7uluxa": {
+            "comment": "I\u2019d recommend running the file on Hybrid Analysis and Any.Run. That\u2019s should give you an idea of what it does.",
+            "timeStamp": "2019/11/17-10:39:07",
+            "id": "f7uluxa",
+            "is_submitter": false,
+            "link_id": "t3_dxniej",
+            "parent_id": "t3_dxniej",
+            "score": 2,
+            "stickied": false,
+            "author_name": "AlfredoVignale"
+        },
+        "f7uf1sq": {
+            "comment": "Judging by the large number of samples on VirusTotal matching this signature name it's likely a heuristic so not meaningful. If you want to know what your specific sample does you'll need to provide a hash or the file itself.",
+            "timeStamp": "2019/11/17-10:10:40",
+            "id": "f7uf1sq",
+            "is_submitter": false,
+            "link_id": "t3_dxniej",
+            "parent_id": "t3_dxniej",
+            "score": 3,
+            "stickied": false,
+            "author_name": "atlantajerk"
+        },
+        "f7u1vt9": {
+            "comment": "I\u2019m not sure about this post. On one hand it feels like end user support but on the other it could generate some good discussion on the malware piece itself which does align with the goal of this subreddit.\n\nI\u2019ll leave it up to our readers if you want these types of posts to be approved or removed. I\u2019ll remove it if it receives 50% downvoted in the next few hours",
+            "timeStamp": "2019/11/17-08:55:42",
+            "id": "f7u1vt9",
+            "is_submitter": false,
+            "link_id": "t3_dxniej",
+            "parent_id": "t3_dxniej",
+            "score": 1,
+            "stickied": true,
+            "author_name": "edward_snowedin"
+        },
+        "f7tbcp8": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2019/11/17-07:01:40",
+            "id": "f7tbcp8",
+            "is_submitter": false,
+            "link_id": "t3_dxniej",
+            "parent_id": "t3_dxniej",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

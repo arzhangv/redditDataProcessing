@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Just released the Practical Malware Analysis Starter Kit, a collection of pretty much every binary mentioned in the book.",
+        "score": 87,
+        "id": "4jcrq7",
+        "commsNum": 7,
+        "timeStamp": "2016/05/14-12:29:21",
+        "author_name": "bluesoul",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://bluesoul.me/practical-malware-analysis-starter-kit/"
+    },
+    "posts": {}
+}

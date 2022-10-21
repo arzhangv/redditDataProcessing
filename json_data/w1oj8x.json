@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Default configuration should be more secure, but less. There are so many neglected and expoased open source automation CI/CD tool like Jenkins without any authentication process.",
+        "score": 1,
+        "id": "w1oj8x",
+        "commsNum": 0,
+        "timeStamp": "2022/07/17-19:47:30",
+        "author_name": "alicia30765",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://blog.criminalip.io/2022/07/12/open-source-server/"
+    },
+    "posts": {}
+}

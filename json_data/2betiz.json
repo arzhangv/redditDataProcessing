@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "This has probably been answered a million times here, but I couldn't find the answer via search. What is the best place to get relatively up to date virus samples for analysis? I read VX Heaven from time to time, but it seems very slow. \n\nWhere do you get samples to test our your chops? \n\nEdit: Also, would setting up a basic honeypot be advisable? \n\n",
+        "title": "Best source for Malware for recreational analysis?",
+        "score": 20,
+        "id": "2betiz",
+        "commsNum": 10,
+        "timeStamp": "2014/07/22-10:18:51",
+        "author_name": "baordog",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 10,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2betiz/best_source_for_malware_for_recreational_analysis/"
+    },
+    "posts": {}
+}

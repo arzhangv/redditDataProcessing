@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "The extension itself:  \n[https://chrome.google.com/webstore/detail/night-mode-instagram/fnelbbfoppifhaenladmfjcpkkpfaogm](https://chrome.google.com/webstore/detail/night-mode-instagram/fnelbbfoppifhaenladmfjcpkkpfaogm)\n\n&amp;#x200B;\n\nIf you click on \"Add To Chrome\" you'll get a popup warning you that the add-on can \"Read and change your data on a number of websites\".\n\nIf you click \"Show Details\" you see the list with the extra sites.\n\nHow is that allowed?",
+        "title": "This Chrome extension for Instagram also needs permission to read data in aliexpress, banggood and gearbest.",
+        "score": 1,
+        "id": "j1mo6s",
+        "commsNum": 3,
+        "timeStamp": "2020/09/28-15:39:04",
+        "author_name": "MerylStreeper",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/j1mo6s/this_chrome_extension_for_instagram_also_needs/"
+    },
+    "posts": {
+        "gdrcut8": {
+            "comment": "How shady.",
+            "timeStamp": "2020/11/27-04:29:22",
+            "id": "gdrcut8",
+            "is_submitter": false,
+            "link_id": "t3_j1mo6s",
+            "parent_id": "t1_g73uzmo",
+            "score": 1,
+            "stickied": false,
+            "author_name": "yuki93920noirnoggat"
+        },
+        "g748q0m": {
+            "comment": "That's still shady. I already reported it. Thanks!",
+            "timeStamp": "2020/09/29-16:18:07",
+            "id": "g748q0m",
+            "is_submitter": true,
+            "link_id": "t3_j1mo6s",
+            "parent_id": "t1_g73uzmo",
+            "score": 2,
+            "stickied": false,
+            "author_name": "MerylStreeper"
+        },
+        "g73uzmo": {
+            "comment": "I checked the source code for that chrome extension - it looks like it injects referral links into aliexpress.com, banggood.com and gearbest.com links. [Here is the source in question](https://pastebin.com/9bQXas7P)",
+            "timeStamp": "2020/09/29-14:14:56",
+            "id": "g73uzmo",
+            "is_submitter": false,
+            "link_id": "t3_j1mo6s",
+            "parent_id": "t3_j1mo6s",
+            "score": 1,
+            "stickied": false,
+            "author_name": "UnacceptableUse"
+        },
+        "g708qrt": {
+            "comment": "[removed]",
+            "timeStamp": "2020/09/28-16:24:53",
+            "id": "g708qrt",
+            "is_submitter": false,
+            "link_id": "t3_j1mo6s",
+            "parent_id": "t3_j1mo6s",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

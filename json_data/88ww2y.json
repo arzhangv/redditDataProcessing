@@ -1,0 +1,187 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I have 2 years work as a REer in a corporation's Blue team. And now I want to get a Reverse or malware analysis certificate. But I just saw only the GREM of SANS that got this certificate type. \nWho did get this certificate?\nShould get GREM certification?\nI saw price of this cert is $1,699\twith timframe 4 months, did this price included trainning cost or only tests cost?\nand please  give me some experiences?\n\nThanks alot.\n",
+        "title": "Should get GREM certification?",
+        "score": 6,
+        "id": "88ww2y",
+        "commsNum": 14,
+        "timeStamp": "2018/04/01-21:46:53",
+        "author_name": "tavadu",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 14,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/88ww2y/should_get_grem_certification/"
+    },
+    "posts": {
+        "e1y8ap7": {
+            "comment": "I checked after cimmenting here.. its $1899. Thanks. ",
+            "timeStamp": "2018/07/07-07:23:09",
+            "id": "e1y8ap7",
+            "is_submitter": false,
+            "link_id": "t3_88ww2y",
+            "parent_id": "t1_e1y8808",
+            "score": 2,
+            "stickied": false,
+            "author_name": "anuraggawande"
+        },
+        "e1y8808": {
+            "comment": "You can check at the giac site.",
+            "timeStamp": "2018/07/07-07:21:41",
+            "id": "e1y8808",
+            "is_submitter": false,
+            "link_id": "t3_88ww2y",
+            "parent_id": "t1_e1xtdx4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sephstorm"
+        },
+        "e1xtdx4": {
+            "comment": "do you know what will be the cost just for exam? without traning?",
+            "timeStamp": "2018/07/06-23:52:03",
+            "id": "e1xtdx4",
+            "is_submitter": false,
+            "link_id": "t3_88ww2y",
+            "parent_id": "t1_dwnw2qa",
+            "score": 1,
+            "stickied": false,
+            "author_name": "anuraggawande"
+        },
+        "dxa53k9": {
+            "comment": "Thanks so much @sephstorm",
+            "timeStamp": "2018/04/12-20:18:35",
+            "id": "dxa53k9",
+            "is_submitter": true,
+            "link_id": "t3_88ww2y",
+            "parent_id": "t1_dwnw2qa",
+            "score": 2,
+            "stickied": false,
+            "author_name": "tavadu"
+        },
+        "dwsgds5": {
+            "comment": "GREM is totally worth it. Highly recommended. ",
+            "timeStamp": "2018/04/04-05:57:01",
+            "id": "dwsgds5",
+            "is_submitter": false,
+            "link_id": "t3_88ww2y",
+            "parent_id": "t3_88ww2y",
+            "score": 1,
+            "stickied": false,
+            "author_name": "iHeartMalware"
+        },
+        "dwpntoj": {
+            "comment": "As others have mentioned, that cost is just for the exam without the discount for training. The price includes 2 practice exams that are just like the actual exam. The best way that I have found to use them are to take the first practice exam pretty quickly, see what areas you are weak in, and then go back and spend time preparing. use the second practice exam to confirm before taking the actual test.\n\nIn my opinion, if you have practical experience, day in and day out, for 2-3 years or more in a subject area then you should go ahead and just do the certification. However, if you have a good information security background and are looking to expand to new areas or do your current job better, the training is a great experience. I learned a lot in a course rather than just taking an exam. The course materials that you walk away with are purposefully not even close to the whole experience.",
+            "timeStamp": "2018/04/02-21:17:15",
+            "id": "dwpntoj",
+            "is_submitter": false,
+            "link_id": "t3_88ww2y",
+            "parent_id": "t3_88ww2y",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Marine_Mustang"
+        },
+        "dwpinww": {
+            "comment": "Sure thing good luck",
+            "timeStamp": "2018/04/02-19:52:04",
+            "id": "dwpinww",
+            "is_submitter": false,
+            "link_id": "t3_88ww2y",
+            "parent_id": "t1_dwpi1ff",
+            "score": 1,
+            "stickied": false,
+            "author_name": "icon0clast6"
+        },
+        "dwpi1ff": {
+            "comment": "Oh yes, thank you so much!",
+            "timeStamp": "2018/04/02-19:42:31",
+            "id": "dwpi1ff",
+            "is_submitter": true,
+            "link_id": "t3_88ww2y",
+            "parent_id": "t1_dwpghwd",
+            "score": 1,
+            "stickied": false,
+            "author_name": "tavadu"
+        },
+        "dwpghwd": {
+            "comment": "The books are from the course, SANS FOR610 Reverse Engineering Malware.  Practical malware analysis is a good start but the course covers more than just that including word and macro viruses and the like.  It\u2019s updated all the time so even the books I have are out of date.\n\nLike I said it\u2019s hard to complete a GIAC exam without the source materials because they\u2019re dense exams but it is do able.",
+            "timeStamp": "2018/04/02-19:18:43",
+            "id": "dwpghwd",
+            "is_submitter": false,
+            "link_id": "t3_88ww2y",
+            "parent_id": "t1_dwpejyl",
+            "score": 1,
+            "stickied": false,
+            "author_name": "icon0clast6"
+        },
+        "dwpewqj": {
+            "comment": "Yes, I known that. I had some experience with two years, but as I said, this cost is a big expense for me and I'm not sure how to pass this exam because the content that I read on SANS's site of the test is only general and broad.",
+            "timeStamp": "2018/04/02-18:53:05",
+            "id": "dwpewqj",
+            "is_submitter": true,
+            "link_id": "t3_88ww2y",
+            "parent_id": "t1_dwoashf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "tavadu"
+        },
+        "dwpejyl": {
+            "comment": "Hi icon0clast6, as you said what are \"those exams are written from the course material and are open books\"?\nIs it \"practical malware analysis\" and the same?",
+            "timeStamp": "2018/04/02-18:46:48",
+            "id": "dwpejyl",
+            "is_submitter": true,
+            "link_id": "t3_88ww2y",
+            "parent_id": "t1_dwo23wr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "tavadu"
+        },
+        "dwoashf": {
+            "comment": "[deleted]",
+            "timeStamp": "2018/04/02-07:25:05",
+            "id": "dwoashf",
+            "is_submitter": false,
+            "link_id": "t3_88ww2y",
+            "parent_id": "t3_88ww2y",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "dwo23wr": {
+            "comment": "I hold the GREM, mostly because my work said I needed to take a forensics cert and that was the only one that appealed to me.  I went into it with limited assembly experience and walked away with a bunch of useful knowledge.  Granted I took the course that goes with the cert.  challenging a SANS cert isn\u2019t easy because those exams are written from the course material and are open book.\n\nI don\u2019t know your situation but I found it to be helpful in my career development (now on a full time internal red team)  being able to take apart your own malware helps you bypass controls easier.",
+            "timeStamp": "2018/04/02-03:29:20",
+            "id": "dwo23wr",
+            "is_submitter": false,
+            "link_id": "t3_88ww2y",
+            "parent_id": "t3_88ww2y",
+            "score": 1,
+            "stickied": false,
+            "author_name": "icon0clast6"
+        },
+        "dwnxs1z": {
+            "comment": "Thank sephstorm,\nI have never had the same test exams and that is a big expense for me. So I would like to know in advance some examples of GREM test before deciding. So I would like to know in advance a few examples of GREM test or information specific to this test content as well as the advice of those who have taken the test before deciding?",
+            "timeStamp": "2018/04/02-00:11:59",
+            "id": "dwnxs1z",
+            "is_submitter": true,
+            "link_id": "t3_88ww2y",
+            "parent_id": "t1_dwnw2qa",
+            "score": 2,
+            "stickied": false,
+            "author_name": "tavadu"
+        },
+        "dwnw2qa": {
+            "comment": "There's also the CREA, but the GREM is likely to be better for you career wise. The cost is only for the exam, if you want the training cost is closer to $7000. SANS is good stuff. If I were you (and if you are paying out of pocket) since you have experience, consider just getting the exam which should I think come with some practice exams. That will give you a baseline.\n\nThere are a few people out there who have achieved the certificate, check over at techexams.net.",
+            "timeStamp": "2018/04/01-23:05:46",
+            "id": "dwnw2qa",
+            "is_submitter": false,
+            "link_id": "t3_88ww2y",
+            "parent_id": "t3_88ww2y",
+            "score": 3,
+            "stickied": false,
+            "author_name": "sephstorm"
+        }
+    }
+}

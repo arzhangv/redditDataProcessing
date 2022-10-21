@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Pentester's NTFS Tricks Collection (CVE-2018-1036, NTFS Elevation of Privileges)",
+        "score": 4,
+        "id": "8qrffz",
+        "commsNum": 1,
+        "timeStamp": "2018/06/13-03:41:44",
+        "author_name": "SecABC",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://sec-consult.com/en/blog/2018/06/pentesters-windows-ntfs-tricks-collection/"
+    },
+    "posts": {
+        "e0np3mo": {
+            "comment": "This got stuck in spam filter. Not directly malware related but I thought it was a great read",
+            "timeStamp": "2018/06/14-06:18:10",
+            "id": "e0np3mo",
+            "is_submitter": false,
+            "link_id": "t3_8qrffz",
+            "parent_id": "t3_8qrffz",
+            "score": 2,
+            "stickied": false,
+            "author_name": "edward_snowedin"
+        }
+    }
+}

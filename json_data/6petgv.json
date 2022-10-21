@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "why trickbot malware targeting financial sectors?",
+        "title": "what is trickbot malware?",
+        "score": 8,
+        "id": "6petgv",
+        "commsNum": 4,
+        "timeStamp": "2017/07/25-01:22:07",
+        "author_name": "securitysavy",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6petgv/what_is_trickbot_malware/"
+    },
+    "posts": {
+        "dktvu6u": {
+            "comment": "Trickbot 101 \nhttps://f5.com/labs/articles/threat-intelligence/malware/trickbot-focuses-on-wealth-management-services-from-its-dyre-core",
+            "timeStamp": "2017/07/27-22:20:46",
+            "id": "dktvu6u",
+            "is_submitter": false,
+            "link_id": "t3_6petgv",
+            "parent_id": "t3_6petgv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "dunsany"
+        },
+        "dkpb5mu": {
+            "comment": "Because it is a banker. That's what bankers do.\n\nWhat is your real question?",
+            "timeStamp": "2017/07/25-09:56:00",
+            "id": "dkpb5mu",
+            "is_submitter": false,
+            "link_id": "t3_6petgv",
+            "parent_id": "t3_6petgv",
+            "score": 0,
+            "stickied": false,
+            "author_name": "hypervis0r"
+        },
+        "dkp0q40": {
+            "comment": "Thanks for the info!",
+            "timeStamp": "2017/07/25-06:45:35",
+            "id": "dkp0q40",
+            "is_submitter": false,
+            "link_id": "t3_6petgv",
+            "parent_id": "t1_dkottui",
+            "score": 1,
+            "stickied": false,
+            "author_name": "trader_j0es"
+        },
+        "dkottui": {
+            "comment": "IBM researchers suggest that the malware is \"undoubtedly\" the work of professional cybercriminals who have been involved in banking Trojan attacks for some time. Due to the experienced nature of the actors behind it, researchers warn that TrickBot will only become more sophisticated and harder for banks to spot.\nSource: http://www.zdnet.com/article/trickbot-banking-trojan-steps-up-attacks-against-uk-targets/",
+            "timeStamp": "2017/07/25-03:14:46",
+            "id": "dkottui",
+            "is_submitter": false,
+            "link_id": "t3_6petgv",
+            "parent_id": "t3_6petgv",
+            "score": 2,
+            "stickied": false,
+            "author_name": "nickhudsonincs"
+        }
+    }
+}

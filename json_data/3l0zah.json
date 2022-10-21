@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Recent Linux/XOR.DDOS attack info for mitigation",
+        "score": 10,
+        "id": "3l0zah",
+        "commsNum": 4,
+        "timeStamp": "2015/09/15-03:37:34",
+        "author_name": "mmd0xFF",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.linuxquestions.org/questions/linux-security-4/if-you-infected-by-any-of-these-recent-elf-malware-cases-please-contact-us-4175546925/#post5420579"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Web Exploit Detector: now available as an NPM module",
+        "score": 1,
+        "id": "66vzzt",
+        "commsNum": 0,
+        "timeStamp": "2017/04/22-06:40:27",
+        "author_name": "polaris64",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.polaris64.net/blog/cyber-security/2017/web-exploit-detector-npm-module"
+    },
+    "posts": {}
+}

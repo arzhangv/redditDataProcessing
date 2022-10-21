@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Analysis of Uroburos, using WinDbg",
+        "score": 8,
+        "id": "27djif",
+        "commsNum": 2,
+        "timeStamp": "2014/06/05-05:10:13",
+        "author_name": "N3mes1s",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://blog.gdatasoftware.com/blog/article/analysis-of-uroburos-using-windbg.html"
+    },
+    "posts": {}
+}

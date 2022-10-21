@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "New Novel Exploit Using REBOL for Malicious Purposes",
+        "score": 1,
+        "id": "q2ldpf",
+        "commsNum": 0,
+        "timeStamp": "2021/10/06-07:17:04",
+        "author_name": "FRSecure",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://frsecure.com/blog/the-rebol-yell-new-rebol-exploit/"
+    },
+    "posts": {}
+}

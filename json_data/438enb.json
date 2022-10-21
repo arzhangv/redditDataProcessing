@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Introduction to DFIR",
+        "score": 24,
+        "id": "438enb",
+        "commsNum": 1,
+        "timeStamp": "2016/01/29-03:20:38",
+        "author_name": "meirwah",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://sroberts.github.io/2016/01/11/introduction-to-dfir-the-beginning/"
+    },
+    "posts": {}
+}

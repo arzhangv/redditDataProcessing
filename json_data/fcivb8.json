@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hey guys, I have to do a research paper on BOTNETS but I am not an expert in this field, I'm still exploring. So I want to basically create a BOTNET that can stealth itself against the antivirus and other things which a good BOTNET should have. Like I said I'm a beginner, so any help regarding this topic would do, I've watched videos on BOTNETS, read some research papers. But still couldn't get the hold of it. So if anyone suggest me how to approach this or any sources , that'd be great.\n\nThanks",
+        "title": "BOTNET establishment",
+        "score": 1,
+        "id": "fcivb8",
+        "commsNum": 4,
+        "timeStamp": "2020/03/02-12:58:54",
+        "author_name": "blank1993",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/fcivb8/botnet_establishment/"
+    },
+    "posts": {
+        "fjiyvc1": {
+            "comment": "Thanks man, really appreciate it and believe me this is only for my research paper and nothing else.",
+            "timeStamp": "2020/03/04-19:29:30",
+            "id": "fjiyvc1",
+            "is_submitter": true,
+            "link_id": "t3_fcivb8",
+            "parent_id": "t1_fjid837",
+            "score": 1,
+            "stickied": false,
+            "author_name": "blank1993"
+        },
+        "fjid837": {
+            "comment": "Not gonna lie, the research paper sounds like a cover story for what you want to do here. Avoiding anti-viruses is sometimes an easy task but takes a good bit of research. If you wish to get a decent idea of how they work I would recommend building the following in C#  \n\n\nCreate a TCP Server (I would use SimpleTCP but you can make your own, use other libraries like LiteCode or NotLiteCode but that is all up to you)\n\nCreate a TCP Client\n\nAdd functionality to the TCP client such as re positioning the mouse, changing clipboard data, returning clipboard data back to the server etc.\n\nAdd functionality to the TCP server that will allow you to either mass control the clients or select individual clients for actions\n\nIf this is truly for research then this project will give you a great idea into it, if you intend on something malicious the above stated will be quite useless  \n\n\nThe other thing I could recommend is setting up a VM for virus testing (google VMWare Malware Analysis lab setup) and run some known botnets and watch the packets they send out with tools like Wireshark and inspect them thoroughly",
+            "timeStamp": "2020/03/04-15:38:43",
+            "id": "fjid837",
+            "is_submitter": false,
+            "link_id": "t3_fcivb8",
+            "parent_id": "t3_fcivb8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Thaisen__"
+        },
+        "fjb57qm": {
+            "comment": "Thanks buddy, I'll definitely look into it.",
+            "timeStamp": "2020/03/02-14:05:14",
+            "id": "fjb57qm",
+            "is_submitter": true,
+            "link_id": "t3_fcivb8",
+            "parent_id": "t1_fjb4r27",
+            "score": 1,
+            "stickied": false,
+            "author_name": "blank1993"
+        },
+        "fjb4r27": {
+            "comment": "There's a good DarknetDiaries episode on the /first/ botnet. I honestly can't remember which one it was, but it gives good insight in how they function, and their purpose.\n\nI'm sorry I couldn't be more help",
+            "timeStamp": "2020/03/02-14:00:50",
+            "id": "fjb4r27",
+            "is_submitter": false,
+            "link_id": "t3_fcivb8",
+            "parent_id": "t3_fcivb8",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Midborgh"
+        }
+    }
+}

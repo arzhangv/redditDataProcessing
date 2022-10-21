@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hey everyone! My name is Joshua and I'm a game dev.\n\nI recently got interested into malwares and gave it a try. You can check out my 3 malwares here [https://github.com/JoshuaKasa](https://github.com/JoshuaKasa)\n\nWhat do you think? Thanks in advance!",
+        "title": "First Malwares",
+        "score": 1,
+        "id": "wq58a4",
+        "commsNum": 0,
+        "timeStamp": "2022/08/16-13:50:32",
+        "author_name": "JizosKasa",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/wq58a4/first_malwares/"
+    },
+    "posts": {
+        "iktp016": {
+            "comment": "GitHub link and and way to get to it. \nThis is how you get yourself in a bind, but don't listen to me, I only been flagged on Aol and banned..",
+            "timeStamp": "2022/08/18-10:59:14",
+            "id": "iktp016",
+            "is_submitter": false,
+            "link_id": "t3_wq58a4",
+            "parent_id": "t1_iksxrl8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Xybercrime"
+        },
+        "iksxrl8": {
+            "comment": "i don't influence nobody, im not giving this crap to \"anyone\" if you would've have at least gave it a read you would've notice that it is not configured to work, and that i do it for myself and for learning something new. Funny thing is that you're talking about moral while you posted a girl giving you a blowjob in 2 different subreddits.",
+            "timeStamp": "2022/08/18-08:00:30",
+            "id": "iksxrl8",
+            "is_submitter": true,
+            "link_id": "t3_wq58a4",
+            "parent_id": "t1_ikr21m5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "JizosKasa"
+        },
+        "ikr21m5": {
+            "comment": "Wish folks like you would stop influencing kids and giving them this crap. Tired of the script kiddies and now you probably just created issues from that kid and his parents for getting in shit for this thing.. I see it to much",
+            "timeStamp": "2022/08/17-20:38:43",
+            "id": "ikr21m5",
+            "is_submitter": false,
+            "link_id": "t3_wq58a4",
+            "parent_id": "t3_wq58a4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Xybercrime"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "TM is using malware called Midas made by Nervesis, a Malaysian malware vendor. Midas is used for dns-spoofing. If dns does not find an address, it will redirect customer to fake Midas page feeding spam. Users will be confused about the attack that looks like typical malware infection and may be re-installing their systems to get rid of the malware. It is very irresponsible, especially for an ISP, to use dns-spoofing for selling adds, and it will also give a bad name to the advertisers buying such service. TM is running adds of for example Lazada Malaysia, Yellow Pages Malaysia, iflix and ShopBack Malaysia.",
+        "title": "Telekom Malaysia dns-spoofing attack against their customers",
+        "score": 19,
+        "id": "4b5xch",
+        "commsNum": 16,
+        "timeStamp": "2016/03/19-19:16:25",
+        "author_name": "2globalnomads",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 16,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/4b5xch/telekom_malaysia_dnsspoofing_attack_against_their/"
+    },
+    "posts": {}
+}

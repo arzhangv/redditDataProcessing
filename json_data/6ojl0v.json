@@ -1,0 +1,154 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi,\nCan anybody recommend the best bloggers/tweeters for the latest malware news. I have always liked the Talos blog from Cisco and bleeping computer gives a decent technical write-up for most posts. but i'm sure you lot wont let me down in recommending some more. I am interested in all types of malware (spam, compromised sites, malicious files, exploits kits, etc etc etc). And i don't want crappy news sites that have just copied the content from someone else, i want the bloggers that are consistently posting stuff first. No alarmist news hype that doesn't even contain a single hash.\n\nThanks!",
+        "title": "Blog/Twitter recommendations for the latest malware news?",
+        "score": 14,
+        "id": "6ojl0v",
+        "commsNum": 11,
+        "timeStamp": "2017/07/20-14:54:27",
+        "author_name": "peter_mack",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 11,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6ojl0v/blogtwitter_recommendations_for_the_latest/"
+    },
+    "posts": {
+        "dl2gkmr": {
+            "comment": "@actionfrauduk @cyberprotectuk",
+            "timeStamp": "2017/08/02-10:05:29",
+            "id": "dl2gkmr",
+            "is_submitter": false,
+            "link_id": "t3_6ojl0v",
+            "parent_id": "t3_6ojl0v",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sm_024"
+        },
+        "dks14y3": {
+            "comment": "honestly he was better before he thought everyone was spying on him, now he doesnt post anything regularly ",
+            "timeStamp": "2017/07/26-20:30:08",
+            "id": "dks14y3",
+            "is_submitter": false,
+            "link_id": "t3_6ojl0v",
+            "parent_id": "t1_dki3s52",
+            "score": 2,
+            "stickied": false,
+            "author_name": "mikesxrs"
+        },
+        "dkp7jes": {
+            "comment": "Badcyber.com.  Twitter: @badcybercom\nA One stop shop for all your malware knowledge needs\n\nBleepingcomputer.com.   @bleepincomputer\n",
+            "timeStamp": "2017/07/25-08:54:14",
+            "id": "dkp7jes",
+            "is_submitter": false,
+            "link_id": "t3_6ojl0v",
+            "parent_id": "t3_6ojl0v",
+            "score": 1,
+            "stickied": false,
+            "author_name": "aznhunc"
+        },
+        "dkkqs3h": {
+            "comment": "this is somewhat self-serving but my team's Twitter @Gate_15_Analyst and our free daily http://paper.li/Gate_15_Analyst/1427557773#/ cover a lot of general, some technical, and all-hazards content.",
+            "timeStamp": "2017/07/22-11:35:22",
+            "id": "dkkqs3h",
+            "is_submitter": false,
+            "link_id": "t3_6ojl0v",
+            "parent_id": "t3_6ojl0v",
+            "score": 1,
+            "stickied": false,
+            "author_name": "cloud_1"
+        },
+        "dkils99": {
+            "comment": "Blogs: Darkreading, nakedsecurity, threatpost, readwrite, light reading, securityaffairs",
+            "timeStamp": "2017/07/21-04:00:04",
+            "id": "dkils99",
+            "is_submitter": false,
+            "link_id": "t3_6ojl0v",
+            "parent_id": "t3_6ojl0v",
+            "score": 2,
+            "stickied": false,
+            "author_name": "nickhudsonincs"
+        },
+        "dkiik2s": {
+            "comment": "In a case you are interested in Android/Mobile malware: @LukasStefanko, @virqdroid, @Mobile_Sec, @SfyLabs, @JAMESWT_MHT, @timstrazz, @collinrm ",
+            "timeStamp": "2017/07/21-01:35:18",
+            "id": "dkiik2s",
+            "is_submitter": false,
+            "link_id": "t3_6ojl0v",
+            "parent_id": "t3_6ojl0v",
+            "score": 1,
+            "stickied": false,
+            "author_name": "lukasstefanko"
+        },
+        "dkih3xh": {
+            "comment": "Thanks everyone, plenty to read on all of those.",
+            "timeStamp": "2017/07/21-00:30:45",
+            "id": "dkih3xh",
+            "is_submitter": true,
+            "link_id": "t3_6ojl0v",
+            "parent_id": "t3_6ojl0v",
+            "score": 1,
+            "stickied": false,
+            "author_name": "peter_mack"
+        },
+        "dkih31t": {
+            "comment": "[deleted]",
+            "timeStamp": "2017/07/21-00:29:46",
+            "id": "dkih31t",
+            "is_submitter": false,
+            "link_id": "t3_6ojl0v",
+            "parent_id": "t3_6ojl0v",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "dki3s5i": {
+            "comment": "This is a good one  http://blog.malwaremustdie.org",
+            "timeStamp": "2017/07/20-18:19:37",
+            "id": "dki3s5i",
+            "is_submitter": false,
+            "link_id": "t3_6ojl0v",
+            "parent_id": "t3_6ojl0v",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Jigoku1337"
+        },
+        "dki3s52": {
+            "comment": "This is a good one  http://blog.malwaremustdie.org",
+            "timeStamp": "2017/07/20-18:19:37",
+            "id": "dki3s52",
+            "is_submitter": false,
+            "link_id": "t3_6ojl0v",
+            "parent_id": "t3_6ojl0v",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Jigoku1337"
+        },
+        "dkhxpcx": {
+            "comment": "\u202a@malwrhunterteam \u202c\n\u202a@MalwareTechBlog \u202c\n\u202a@rootkovska \u202c\n\u202a@malwarelu \u202c\n\u202a@Forensication \u202c\n\u202a@VXShare \u202c\n\u202a@AccentureSecure \u202c\n\u202a@thegrugq \u202c\n\u202a@hal_pomeranz \u202c\n\u202a@sans_isc \u202c\n\u202a@USCERT_gov \u202c\n\u202a@msftsecresponse \u202c\n\u202a@msftsecurity \u202c\n\u202a@threatpost \u202c\n\u202a@TripwireInc \u202c\n\u202a@exploitdb \u202c\n\u202a@DarkReading \u202c\n\u202a@SecurityWeek \u202c\n\u202a@CompuSecure \u202c\n\u202a@virusbtn \u202c",
+            "timeStamp": "2017/07/20-16:04:59",
+            "id": "dkhxpcx",
+            "is_submitter": false,
+            "link_id": "t3_6ojl0v",
+            "parent_id": "t3_6ojl0v",
+            "score": 3,
+            "stickied": false,
+            "author_name": "iamaforinvg"
+        },
+        "dkhwxh5": {
+            "comment": "https://twitter.com/psaranto/lists/infosec",
+            "timeStamp": "2017/07/20-15:48:41",
+            "id": "dkhwxh5",
+            "is_submitter": false,
+            "link_id": "t3_6ojl0v",
+            "parent_id": "t3_6ojl0v",
+            "score": 3,
+            "stickied": false,
+            "author_name": "DigiAngelX"
+        }
+    }
+}

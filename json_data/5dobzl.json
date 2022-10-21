@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Analysis of HackingTeam Android malware",
+        "score": 26,
+        "id": "5dobzl",
+        "commsNum": 4,
+        "timeStamp": "2016/11/18-11:31:16",
+        "author_name": "ZugNachPankow",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://rednaga.io/2016/11/14/hackingteam_back_for_your_androids/"
+    },
+    "posts": {}
+}

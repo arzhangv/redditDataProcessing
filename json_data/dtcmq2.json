@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi guys, I was looking for a way to stream magnet file and I stumped upon this website called VLC Torrent Streamer.\n\n [http://vlcstreamer.com/](http://vlcstreamer.com/) \n\nI downloaded the file from the site and executed it, but then I found that it didn't do anything and after a while the .exe file went away.\n\nCan anyone help me out here? Is this some sort of a malware? Please help.",
+        "title": "VLC Torrent Streamer safe?",
+        "score": 1,
+        "id": "dtcmq2",
+        "commsNum": 2,
+        "timeStamp": "2019/11/08-00:43:13",
+        "author_name": "borderline_2228",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/dtcmq2/vlc_torrent_streamer_safe/"
+    },
+    "posts": {
+        "fex7h4d": {
+            "comment": "[removed]",
+            "timeStamp": "2020/01/19-01:27:12",
+            "id": "fex7h4d",
+            "is_submitter": false,
+            "link_id": "t3_dtcmq2",
+            "parent_id": "t3_dtcmq2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "f6vvcuq": {
+            "comment": "[removed]",
+            "timeStamp": "2019/11/08-00:44:00",
+            "id": "f6vvcuq",
+            "is_submitter": false,
+            "link_id": "t3_dtcmq2",
+            "parent_id": "t3_dtcmq2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

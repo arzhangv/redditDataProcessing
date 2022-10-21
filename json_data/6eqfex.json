@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I am planning to run a cuckoo environment on a physical machine. I am not able to decide if the host should run directly on the physical machine or as a VM. I can see pros and cons with both methods but was interested to know what others have done.\n\nFor eg. Host on the physical machine can then run Virtualbox to manage guests vs host on a VM should be run in \"physical machine\" mode but easier to manage the host (backups, snapshots, etc)",
+        "title": "Cuckoo Sandbox host on baremetal vs VM",
+        "score": 12,
+        "id": "6eqfex",
+        "commsNum": 11,
+        "timeStamp": "2017/06/01-15:43:35",
+        "author_name": "rajiv2790",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 11,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6eqfex/cuckoo_sandbox_host_on_baremetal_vs_vm/"
+    },
+    "posts": {}
+}

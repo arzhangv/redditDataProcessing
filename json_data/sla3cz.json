@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Is it possible to study malware reverse engineering and acquire that skill only if I have good experience and knowledge in reverse engineering? I do not understand many aspects of malware reverse. Because I only play a few of the reversing challenges.  Can I acquire this skill if I constantly reverse malware?",
+        "title": "MALWARE REVERSE ENGINEERING",
+        "score": 1,
+        "id": "sla3cz",
+        "commsNum": 0,
+        "timeStamp": "2022/02/05-07:54:33",
+        "author_name": "NANDUZZZZZ",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/sla3cz/malware_reverse_engineering/"
+    },
+    "posts": {
+        "hvy881l": {
+            "comment": "[removed]",
+            "timeStamp": "2022/02/07-06:53:48",
+            "id": "hvy881l",
+            "is_submitter": false,
+            "link_id": "t3_sla3cz",
+            "parent_id": "t3_sla3cz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hvrpbyj": {
+            "comment": "You can try a \"malvare reverse engeneering handbook\". Also you need to use a dynamic analyse in sandbox more then static. It gives a lot of hidden info like comand and cobtrol server ip or malware actions on target machine",
+            "timeStamp": "2022/02/05-17:51:21",
+            "id": "hvrpbyj",
+            "is_submitter": false,
+            "link_id": "t3_sla3cz",
+            "parent_id": "t3_sla3cz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "gorinich28"
+        },
+        "hvqqsqf": {
+            "comment": "If you have a background in RE, what aspects of malware RE are confusing? It's usually straight forward until you get into forms of code obfuscation, anti-analysis, or compiler optimization.",
+            "timeStamp": "2022/02/05-13:28:27",
+            "id": "hvqqsqf",
+            "is_submitter": false,
+            "link_id": "t3_sla3cz",
+            "parent_id": "t3_sla3cz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "LightningRurik"
+        },
+        "hvqbctv": {
+            "comment": "[removed]",
+            "timeStamp": "2022/02/05-11:11:31",
+            "id": "hvqbctv",
+            "is_submitter": false,
+            "link_id": "t3_sla3cz",
+            "parent_id": "t3_sla3cz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hvq6wuu": {
+            "comment": "[removed]",
+            "timeStamp": "2022/02/05-10:35:43",
+            "id": "hvq6wuu",
+            "is_submitter": false,
+            "link_id": "t3_sla3cz",
+            "parent_id": "t3_sla3cz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

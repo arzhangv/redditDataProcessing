@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "*I am researching on how criminals conduct Cyber criminal Operations and have highlighted a proposal below to get profit on which I need feedback*\n\n**Proposed Operation Summary:**\nHire a botnet to send authentic emails to perform multipurpose phishing. Once you get the credentials for a wide variety of services use them to sell them on the black market, conduct financial fraud, serve ads, command Ransomware or conduct paid targeting denial of service attacks as suited.  \n\nI have a few questions regarding this proposal:\n1) Is this plan practical in terms of conducting a successfully profitable cyber criminal operation? \n2) How do criminals hire botnet services and affiliate programs? How do they compare and contrast and choose the best? Is there a market for it? Can everyone access? \n3)What do users fall for in a phishing scheme, I am thinking some Single Sign On service that would offer them a way to login using multiple credentials? \n4) If criminals planned to use stolen credential for a variety of ways how would they make sure the money gets to them always and still ensure they can avoid authorities?",
+        "title": "Feasibility of a phishing scheme using botnets!",
+        "score": 3,
+        "id": "5wfbqh",
+        "commsNum": 4,
+        "timeStamp": "2017/02/26-22:52:48",
+        "author_name": "Izac_Stark",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5wfbqh/feasibility_of_a_phishing_scheme_using_botnets/"
+    },
+    "posts": {}
+}

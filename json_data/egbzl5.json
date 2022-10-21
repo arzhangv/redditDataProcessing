@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Pcap and malware for an ISC diary (ICEDID)",
+        "score": 1,
+        "id": "egbzl5",
+        "commsNum": 2,
+        "timeStamp": "2019/12/27-06:47:46",
+        "author_name": "n0SiS",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.malware-traffic-analysis.net/2019/12/23/index.html"
+    },
+    "posts": {
+        "fc73ga7": {
+            "comment": "Thanks",
+            "timeStamp": "2019/12/27-17:28:31",
+            "id": "fc73ga7",
+            "is_submitter": false,
+            "link_id": "t3_egbzl5",
+            "parent_id": "t3_egbzl5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "nishan8583"
+        },
+        "fc6g6v0": {
+            "comment": "Btw the zip password is: infected",
+            "timeStamp": "2019/12/27-12:50:13",
+            "id": "fc6g6v0",
+            "is_submitter": true,
+            "link_id": "t3_egbzl5",
+            "parent_id": "t3_egbzl5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "n0SiS"
+        }
+    }
+}

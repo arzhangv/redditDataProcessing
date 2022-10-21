@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Poweliks seems to be getting a lot of attention lately, and I am seeing it more and more commonly in my customer base. If you haven't heard of it- or just need a refresher- [G Data](https://blog.gdatasoftware.com/blog/article/poweliks-the-persistent-malware-without-a-file.html) has a nice write-up on it and you can find a [handy removal guide here](http://malwaretips.com/blogs/remove-poweliks-virus/).  \n\nI've found the most common symptom of the infection to be multiple instances of **dllhost.exe *32 \"COM Surrogate\"** processes running and eating up all the system resources. It's possible that these are signs of a much more mundane [thumbnail caching issue](http://blogs.technet.com/b/markrussinovich/archive/2008/09/24/3126858.aspx), but I have found that not to be the case.\n\nIf you are not in a position to remove the meat of the infection in a sterile environment (eg disk offline on a Live OS) then it is important that you remove the infection quickly. Poweliks is known to download CryptoWall 2.0 (among other things) so getting rid of it or at least disabling it should be your priority.\n\nNow, here comes the fun part! I have not yet found a reliable way to suppress the resource-hogging prior to removal. My best attempts have been as such:\n\n* Boot into safe mode- this will stop some other malware from getting in your way, but poweliks can still run in safe mode.\n\n* Sysinternals autoruns- disable **everything**. When you've removed the infection you may re-enable the items you need for startup.\n\n* Sysinternals regdelnull- run from the command prompt \"regdelnull.exe -s\" to look for null-encoded keys and delete them.\n\n* Adlice RogueKiller- If regdelnull didn't get it, Roguekiller will.\n\nEven after killing the infection, it is possible that the initial payload that installed poweliks is still active on the system and will reinfect. Once poweliks has been stopped, you should proceed to your normal virus-removal routine to catch anything it downloaded and whatever downloaded it.\n\nMy question is, **has anyone found a reliable method to removing this in a live environment**? I head up the remote tech support for my company so it is not feasible to take systems offline and boot to other media. I will be crossposting this to /r/techsupport as well. If anything, I hope someone can benefit from this brief explanation and the articles linked within.",
+        "title": "Removing Poweliks - my findings",
+        "score": 12,
+        "id": "2lfj1z",
+        "commsNum": 19,
+        "timeStamp": "2014/11/05-17:55:16",
+        "author_name": "SleeperSec",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 19,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2lfj1z/removing_poweliks_my_findings/"
+    },
+    "posts": {}
+}

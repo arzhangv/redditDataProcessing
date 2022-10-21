@@ -1,0 +1,143 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "looking for malware sample sites with no register",
+        "score": 1,
+        "id": "eqld9s",
+        "commsNum": 11,
+        "timeStamp": "2020/01/18-11:53:02",
+        "author_name": "Nzxkee",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 11,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/eqld9s/looking_for_malware_sample_sites_with_no_register/"
+    },
+    "posts": {
+        "fg51j1w": {
+            "comment": "https://github.com/NTFS123/MalwareDatabase\nOpen Malware.",
+            "timeStamp": "2020/01/31-16:13:23",
+            "id": "fg51j1w",
+            "is_submitter": false,
+            "link_id": "t3_eqld9s",
+            "parent_id": "t3_eqld9s",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Sasser39a"
+        },
+        "feyl36r": {
+            "comment": "[deleted]",
+            "timeStamp": "2020/01/19-07:17:01",
+            "id": "feyl36r",
+            "is_submitter": false,
+            "link_id": "t3_eqld9s",
+            "parent_id": "t1_feygq5s",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "feyjui5": {
+            "comment": "[removed]",
+            "timeStamp": "2020/01/19-07:07:59",
+            "id": "feyjui5",
+            "is_submitter": false,
+            "link_id": "t3_eqld9s",
+            "parent_id": "t3_eqld9s",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "feygq5s": {
+            "comment": "but y tho",
+            "timeStamp": "2020/01/19-06:48:22",
+            "id": "feygq5s",
+            "is_submitter": false,
+            "link_id": "t3_eqld9s",
+            "parent_id": "t3_eqld9s",
+            "score": 1,
+            "stickied": false,
+            "author_name": "d4rkm0de"
+        },
+        "fexywe5": {
+            "comment": "https://github.com/ytisf/theZoo",
+            "timeStamp": "2020/01/19-04:55:13",
+            "id": "fexywe5",
+            "is_submitter": false,
+            "link_id": "t3_eqld9s",
+            "parent_id": "t3_eqld9s",
+            "score": 1,
+            "stickied": false,
+            "author_name": "kalden31"
+        },
+        "fextsli": {
+            "comment": "https://github.com/Tlgyt/The-Collection\n\n\nhttps://github.com/vduddu/Malware\n\nBoth don t need to login, all you have to do is clone it.",
+            "timeStamp": "2020/01/19-04:14:12",
+            "id": "fextsli",
+            "is_submitter": false,
+            "link_id": "t3_eqld9s",
+            "parent_id": "t3_eqld9s",
+            "score": 1,
+            "stickied": false,
+            "author_name": "bergeno"
+        },
+        "fevl3bj": {
+            "comment": "Lookup malware zoo on github",
+            "timeStamp": "2020/01/18-17:51:37",
+            "id": "fevl3bj",
+            "is_submitter": false,
+            "link_id": "t3_eqld9s",
+            "parent_id": "t3_eqld9s",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TacticalCheerio"
+        },
+        "fevc2xj": {
+            "comment": "Why do you not want to register? You could use a temporary email so it doesn't tie back to you directly.\n\nOr are you looking for sites with free downloads (registered or not)?",
+            "timeStamp": "2020/01/18-17:00:37",
+            "id": "fevc2xj",
+            "is_submitter": false,
+            "link_id": "t3_eqld9s",
+            "parent_id": "t3_eqld9s",
+            "score": 1,
+            "stickied": false,
+            "author_name": "FusionCarcass"
+        },
+        "feu96ef": {
+            "comment": "[https://zeltser.com/malware-sample-sources/](https://zeltser.com/malware-sample-sources/)  \n\n\nMost require you to register but the link could help others. Plus, I'm too lazy to copy and paste just the ones that don't require the registration. Hope this helps.",
+            "timeStamp": "2020/01/18-13:52:09",
+            "id": "feu96ef",
+            "is_submitter": false,
+            "link_id": "t3_eqld9s",
+            "parent_id": "t3_eqld9s",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ismaelvazquezjr"
+        },
+        "fetrcym": {
+            "comment": "https://www.malware-traffic-analysis.net/",
+            "timeStamp": "2020/01/18-12:20:46",
+            "id": "fetrcym",
+            "is_submitter": false,
+            "link_id": "t3_eqld9s",
+            "parent_id": "t3_eqld9s",
+            "score": 1,
+            "stickied": false,
+            "author_name": "knock_on_wood_yall"
+        },
+        "fetol0u": {
+            "comment": "Google \"indicators ofcompromise domains\" and just start browsing to them lol",
+            "timeStamp": "2020/01/18-12:01:03",
+            "id": "fetol0u",
+            "is_submitter": false,
+            "link_id": "t3_eqld9s",
+            "parent_id": "t3_eqld9s",
+            "score": 2,
+            "stickied": false,
+            "author_name": "concmap"
+        }
+    }
+}

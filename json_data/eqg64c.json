@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi I am researching into the Nemty Ransomware, and I am unable to find a sample of it. I have checked the different forums and github pages, however I was not able to find a sample. Does anyone know where I would be able to get a copy of the Nemty ransomware",
+        "title": "Looking to download Nemty Ransomware for analysis",
+        "score": 1,
+        "id": "eqg64c",
+        "commsNum": 5,
+        "timeStamp": "2020/01/18-05:06:35",
+        "author_name": "LMJR500Army",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/eqg64c/looking_to_download_nemty_ransomware_for_analysis/"
+    },
+    "posts": {
+        "ffcm38m": {
+            "comment": "No problem. I work at ReversingLabs and have access to pretty much any malware sample. So let me know if there are any other samples. Just need a hash.",
+            "timeStamp": "2020/01/23-09:59:09",
+            "id": "ffcm38m",
+            "is_submitter": false,
+            "link_id": "t3_eqg64c",
+            "parent_id": "t1_fevt293",
+            "score": 1,
+            "stickied": false,
+            "author_name": "organized_mayhem89"
+        },
+        "fevt293": {
+            "comment": "Thanks you so much for the help! I have gotten the file. Thanks for your help and the file.",
+            "timeStamp": "2020/01/18-18:31:54",
+            "id": "fevt293",
+            "is_submitter": true,
+            "link_id": "t3_eqg64c",
+            "parent_id": "t1_feujll7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "LMJR500Army"
+        },
+        "feujll7": {
+            "comment": "[https://github.com/OrganizedMayhem/Malware\\_Samples](https://github.com/OrganizedMayhem/Malware_Samples)/\n\nSHA1\u00a07340eb8afdf37a2ae524a794f8b2a93a4771b54c",
+            "timeStamp": "2020/01/18-14:39:14",
+            "id": "feujll7",
+            "is_submitter": false,
+            "link_id": "t3_eqg64c",
+            "parent_id": "t3_eqg64c",
+            "score": 1,
+            "stickied": false,
+            "author_name": "organized_mayhem89"
+        },
+        "ferwq9z": {
+            "comment": "I host a repository of malware with a couple hundred thousand samples. You can download them via a tool called the Malware Analysis Center. You can read about it more at the link below.\n\nThe following search should returns 4 samples; however it is difficult to say that those samples are for sure from the nemty malware family as some of the AV signatures are relatively generic:\n\nname contains \"nemty\"\n\nhttps://practicalsecurityanalytics.com/malware-analysis-center/about/",
+            "timeStamp": "2020/01/18-06:51:41",
+            "id": "ferwq9z",
+            "is_submitter": false,
+            "link_id": "t3_eqg64c",
+            "parent_id": "t3_eqg64c",
+            "score": 1,
+            "stickied": false,
+            "author_name": "FusionCarcass"
+        },
+        "fereblv": {
+            "comment": "You can try asking on Twitter.",
+            "timeStamp": "2020/01/18-05:08:19",
+            "id": "fereblv",
+            "is_submitter": false,
+            "link_id": "t3_eqg64c",
+            "parent_id": "t3_eqg64c",
+            "score": 1,
+            "stickied": false,
+            "author_name": "poezda"
+        }
+    }
+}

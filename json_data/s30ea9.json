@@ -1,0 +1,143 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "U.S Government Actively Releases Malware to Defend the Nation",
+        "score": 1,
+        "id": "s30ea9",
+        "commsNum": 0,
+        "timeStamp": "2022/01/13-06:15:00",
+        "author_name": "Rebel_Ye11",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://i.redd.it/b312e294rgb81.png"
+    },
+    "posts": {
+        "hskifg1": {
+            "comment": "The government has been in cybersecurity for far longer than there has been a cybersecurity industry, it just wasn't public knowledge.\n\nThat said, I agree that this is a really great move and has been a long time coming.",
+            "timeStamp": "2022/01/13-17:35:57",
+            "id": "hskifg1",
+            "is_submitter": false,
+            "link_id": "t3_s30ea9",
+            "parent_id": "t1_hskgmzq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "koei19"
+        },
+        "hskgmzq": {
+            "comment": "Which, it should be noted, has been standard practice in the private sector long, *long* before the government started to dip its toes into the Cybersecurity arena.\n\nThat the government would share back to the public has been a long time coming.",
+            "timeStamp": "2022/01/13-17:23:11",
+            "id": "hskgmzq",
+            "is_submitter": false,
+            "link_id": "t3_s30ea9",
+            "parent_id": "t1_hsig7ft",
+            "score": 1,
+            "stickied": false,
+            "author_name": "nspectre"
+        },
+        "hskdbrh": {
+            "comment": "[removed]",
+            "timeStamp": "2022/01/13-16:59:30",
+            "id": "hskdbrh",
+            "is_submitter": false,
+            "link_id": "t3_s30ea9",
+            "parent_id": "t3_s30ea9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hsjeql1": {
+            "comment": "LMAO what the fuck",
+            "timeStamp": "2022/01/13-13:11:52",
+            "id": "hsjeql1",
+            "is_submitter": false,
+            "link_id": "t3_s30ea9",
+            "parent_id": "t1_hsjc5ir",
+            "score": 1,
+            "stickied": false,
+            "author_name": "koei19"
+        },
+        "hsjeihl": {
+            "comment": "I'd be surprised if they weren't doing it. \nPrivate and public have to combine their efforts to thwart cyberattacks, it is just that simple. This is not suspicious at all, it is more like \"I HOPE you have been doing this all along, guys\".",
+            "timeStamp": "2022/01/13-13:10:26",
+            "id": "hsjeihl",
+            "is_submitter": false,
+            "link_id": "t3_s30ea9",
+            "parent_id": "t3_s30ea9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "rienjabura"
+        },
+        "hsjc5ir": {
+            "comment": "https://www.youtube.com/watch?v=oHC1230OpOg",
+            "timeStamp": "2022/01/13-12:54:08",
+            "id": "hsjc5ir",
+            "is_submitter": false,
+            "link_id": "t3_s30ea9",
+            "parent_id": "t1_hsig7ft",
+            "score": 1,
+            "stickied": false,
+            "author_name": "magnus3s"
+        },
+        "hsiggkz": {
+            "comment": "Read the article.  They're sharing malware samples with private sector researchers.",
+            "timeStamp": "2022/01/13-09:38:46",
+            "id": "hsiggkz",
+            "is_submitter": false,
+            "link_id": "t3_s30ea9",
+            "parent_id": "t1_hshly7g",
+            "score": 1,
+            "stickied": false,
+            "author_name": "koei19"
+        },
+        "hsig7ft": {
+            "comment": "FYI, this isn't about releasing malware \"into the wild,\" as they headline implies.  It's about sharing malware samples that they collect with private sector researchers.",
+            "timeStamp": "2022/01/13-09:37:13",
+            "id": "hsig7ft",
+            "is_submitter": false,
+            "link_id": "t3_s30ea9",
+            "parent_id": "t1_hshmmdb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "koei19"
+        },
+        "hsht3hg": {
+            "comment": "Here is some context without the tin foil hat clickbait title:\n\n*The CNMF\\_CyberAlert\r releases malware samples as part of CYBERCOM's persistent engagement efforts, sharing malicious cyber activity we assess has the greatest impact on improving global cybersecurity. #MuddyWater* [*https://cybercom.mil/Media/News/Article/2897570/iranian-intel-cyber-suite-of-malware-uses-open-source-tools/*](https://cybercom.mil/Media/News/Article/2897570/iranian-intel-cyber-suite-of-malware-uses-open-source-tools/)\n\n\r\n\nhttps://twitter.com/US\\_CYBERCOM/status/1481381542106644480",
+            "timeStamp": "2022/01/13-07:12:03",
+            "id": "hsht3hg",
+            "is_submitter": false,
+            "link_id": "t3_s30ea9",
+            "parent_id": "t3_s30ea9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "GoranLind"
+        },
+        "hshmmdb": {
+            "comment": "The bigger scandal would be if they weren't do that.",
+            "timeStamp": "2022/01/13-06:25:57",
+            "id": "hshmmdb",
+            "is_submitter": false,
+            "link_id": "t3_s30ea9",
+            "parent_id": "t3_s30ea9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TParis00ap"
+        },
+        "hshly7g": {
+            "comment": "Not new to my expectations but the admission is too funny.",
+            "timeStamp": "2022/01/13-06:21:00",
+            "id": "hshly7g",
+            "is_submitter": false,
+            "link_id": "t3_s30ea9",
+            "parent_id": "t3_s30ea9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ISJ-117"
+        }
+    }
+}

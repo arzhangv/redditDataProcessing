@@ -1,0 +1,143 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hello everyone !\nI'm a student and for my thesis I will have to do malware analysis. The first step is to learn manual process of malware analysis and I have to find a sample to test it. By any chance do you have an interesting malware sample for a newbie in malware analysis ? \n(Sorry for typos baguette is my native language)",
+        "title": "Very first malware analysis for thesis",
+        "score": 1,
+        "id": "smm50z",
+        "commsNum": 0,
+        "timeStamp": "2022/02/07-01:28:17",
+        "author_name": "Glacons",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/smm50z/very_first_malware_analysis_for_thesis/"
+    },
+    "posts": {
+        "hw2z8z0": {
+            "comment": "APT1 samples are pretty beginner friendly. My first analysis was a webc2 greencat sample. Shouldn\u2019t be hard to find on one of the malware sharing sites. \n\nAPT 28/29 samples are also pretty interesting, but are less friendly to beginners. \n\nI think the standard for learning is samples from \u201cPractical Malware Analysis\u201d",
+            "timeStamp": "2022/02/08-06:03:55",
+            "id": "hw2z8z0",
+            "is_submitter": false,
+            "link_id": "t3_smm50z",
+            "parent_id": "t3_smm50z",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Stressed-Dingo"
+        },
+        "hvz6fpq": {
+            "comment": "Modern Dridex and Emotet come to mind for interesting and challenging samples for a thesis. Idk if you're willing to look at EKs but Angler had a long run with multiple stages to analyze.",
+            "timeStamp": "2022/02/07-10:40:26",
+            "id": "hvz6fpq",
+            "is_submitter": false,
+            "link_id": "t3_smm50z",
+            "parent_id": "t1_hvxems5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Fleischwulf"
+        },
+        "hvz50a5": {
+            "comment": "[removed]",
+            "timeStamp": "2022/02/07-10:31:08",
+            "id": "hvz50a5",
+            "is_submitter": false,
+            "link_id": "t3_smm50z",
+            "parent_id": "t3_smm50z",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hvz1tg6": {
+            "comment": "vxug",
+            "timeStamp": "2022/02/07-10:10:27",
+            "id": "hvz1tg6",
+            "is_submitter": false,
+            "link_id": "t3_smm50z",
+            "parent_id": "t3_smm50z",
+            "score": 1,
+            "stickied": false,
+            "author_name": "kizzie1337"
+        },
+        "hvylkwn": {
+            "comment": "Thanks i'll have a look!",
+            "timeStamp": "2022/02/07-08:24:19",
+            "id": "hvylkwn",
+            "is_submitter": true,
+            "link_id": "t3_smm50z",
+            "parent_id": "t1_hvycin1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Glacons"
+        },
+        "hvycin1": {
+            "comment": "https://github.com/ytisf/theZoo",
+            "timeStamp": "2022/02/07-07:23:58",
+            "id": "hvycin1",
+            "is_submitter": false,
+            "link_id": "t3_smm50z",
+            "parent_id": "t3_smm50z",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Orio_n"
+        },
+        "hvxj5bp": {
+            "comment": "[removed]",
+            "timeStamp": "2022/02/07-02:59:50",
+            "id": "hvxj5bp",
+            "is_submitter": false,
+            "link_id": "t3_smm50z",
+            "parent_id": "t1_hvxe359",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hvxems5": {
+            "comment": "Thanks i didn't knew that, i was wondering if peoples knew, even if only by names, of known malware samples to test.\nI already have a sandbox to setup but it will mostly depend on which sample im testing to be sure it wont spread.\nAgain thanks for tips it's help a lot!",
+            "timeStamp": "2022/02/07-01:58:49",
+            "id": "hvxems5",
+            "is_submitter": true,
+            "link_id": "t3_smm50z",
+            "parent_id": "t1_hvxdpgd",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Glacons"
+        },
+        "hvxe359": {
+            "comment": "Thanks, this look great!\nI want to do very common stuff like static and dynamic analysis without automatic process.\nThe main goal is to setup a sandbox and doing malware analysis with it, later i'll test demos of automatic sandbox and malware analysis tools. I don't know that much im at the very beginning.",
+            "timeStamp": "2022/02/07-01:51:20",
+            "id": "hvxe359",
+            "is_submitter": true,
+            "link_id": "t3_smm50z",
+            "parent_id": "t1_hvxdb78",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Glacons"
+        },
+        "hvxdpgd": {
+            "comment": "Distributing malware samples can still get you into some trouble. So tread with care. \n\nVirusTotal lets you download virus samples but you have to have a paid membership.\n\nMalwareBazaar is free and only has malware samples. As always, be careful and rmember to sandbox.",
+            "timeStamp": "2022/02/07-01:46:08",
+            "id": "hvxdpgd",
+            "is_submitter": false,
+            "link_id": "t3_smm50z",
+            "parent_id": "t3_smm50z",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TheAxZim"
+        },
+        "hvxdb78": {
+            "comment": "Depends on what you want to do exactly, but for exemple the Stuxnet source code is entirely available and well documented \n\nhttps://github.com/micrictor/stuxnet/tree/master/Rootkit\n\nAnalysis : https://www.codeproject.com/Articles/246545/Stuxnet-Malware-Analysis-Paper\n\nMake sure to switch to another decompile version if something doesn\u2019t make sense. \n\nWhen you are familiar with it you could try to reverse it yourself.",
+            "timeStamp": "2022/02/07-01:40:43",
+            "id": "hvxdb78",
+            "is_submitter": false,
+            "link_id": "t3_smm50z",
+            "parent_id": "t3_smm50z",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Demostho"
+        }
+    }
+}

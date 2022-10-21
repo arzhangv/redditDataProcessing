@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Irish energy company \u2018hacked by Russians\u2019",
+        "score": 7,
+        "id": "6ngpp0",
+        "commsNum": 1,
+        "timeStamp": "2017/07/15-09:09:43",
+        "author_name": "A_Lazko",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.thetimes.co.uk/edition/ireland/irish-energy-company-hacked-by-russians-nxltcp85l"
+    },
+    "posts": {
+        "dkdcstn": {
+            "comment": "What a bloody awful news site",
+            "timeStamp": "2017/07/18-00:04:04",
+            "id": "dkdcstn",
+            "is_submitter": false,
+            "link_id": "t3_6ngpp0",
+            "parent_id": "t3_6ngpp0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "swizzledudeftw"
+        }
+    }
+}

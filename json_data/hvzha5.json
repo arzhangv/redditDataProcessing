@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 0.84,
+        "selftext": "",
+        "title": "Man in the Middle Attacks via JavaScript Service Workers",
+        "score": 11,
+        "id": "hvzha5",
+        "commsNum": 0,
+        "timeStamp": "2020/07/22-11:45:38",
+        "author_name": "BigMrX",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://medium.com/better-programming/man-in-the-middle-attacks-via-javascript-service-workers-52647ac929a2"
+    },
+    "posts": {}
+}

@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "(MY SLIDES FROM DEFCON USA 2018) RING 0/-2 ROOKITS: COMPROMISING DEFENSES",
+        "score": 1,
+        "id": "973qq0",
+        "commsNum": 2,
+        "timeStamp": "2018/08/13-17:28:36",
+        "author_name": "alexandreborges",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.blackstormsecurity.com/docs/DEFCON2018.pdf"
+    },
+    "posts": {
+        "e4ql634": {
+            "comment": "It's nice to know that! \n\nHonestly, the DEFCON presentation had about 200 slides, but I had to fit it to the time slot. I hope that something has been useful. Please, let's have a conversation in the next time. \n\nI hope you have an excellent day and thank you for the message.\n\nAB.",
+            "timeStamp": "2018/08/23-22:25:45",
+            "id": "e4ql634",
+            "is_submitter": true,
+            "link_id": "t3_973qq0",
+            "parent_id": "t1_e4nomw7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "alexandreborges"
+        },
+        "e4nomw7": {
+            "comment": "I was there! There were some good takeaways that I didn't know about, specifically the registry editor kernel callback. Thanks!",
+            "timeStamp": "2018/08/22-14:47:20",
+            "id": "e4nomw7",
+            "is_submitter": false,
+            "link_id": "t3_973qq0",
+            "parent_id": "t3_973qq0",
+            "score": 0,
+            "stickied": false,
+            "author_name": "edward_snowedin"
+        }
+    }
+}

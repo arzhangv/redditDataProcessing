@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[removed]",
+        "title": "I have some javascript malware, and I'd like to really understand what it's doing.",
+        "score": 1,
+        "id": "7xtaew",
+        "commsNum": 0,
+        "timeStamp": "2018/02/15-12:29:41",
+        "author_name": "captainrv",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/7xtaew/i_have_some_javascript_malware_and_id_like_to/"
+    },
+    "posts": {}
+}

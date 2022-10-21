@@ -1,0 +1,231 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I downloaded some stupid torrent of a game and it installed a ton of stuff like popups and programs and I ran a scan with malware bytes and a full scan of avast and it seems to be back to normal. Is there anything else I should worry about or just go on with my day?\nI'm so stressed right now and a some words of relief will do wonderfully. Thanks",
+        "title": "After a storm of malware",
+        "score": 4,
+        "id": "8i0lf9",
+        "commsNum": 17,
+        "timeStamp": "2018/05/08-14:43:17",
+        "author_name": "heyven",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 17,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8i0lf9/after_a_storm_of_malware/"
+    },
+    "posts": {
+        "dyox36i": {
+            "comment": "That\u2019s personally what I would do. Make sure you account for any programs that may be installed on there too. Make sure you extract your license keys so your bases are covered.",
+            "timeStamp": "2018/05/09-04:00:22",
+            "id": "dyox36i",
+            "is_submitter": false,
+            "link_id": "t3_8i0lf9",
+            "parent_id": "t1_dyoltsw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TheCreamyGentleman"
+        },
+        "dyop7ri": {
+            "comment": "So what more can I do to be sure? I ran all the anti viruses I know including Malwarebytes and wiped my os clean. Am I in the clear?",
+            "timeStamp": "2018/05/08-23:16:32",
+            "id": "dyop7ri",
+            "is_submitter": false,
+            "link_id": "t3_8i0lf9",
+            "parent_id": "t1_dyo2gq7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "heyven"
+        },
+        "dyomsu4": {
+            "comment": "So you're saying it's the end of the world and not even a format could save my life?",
+            "timeStamp": "2018/05/08-22:11:18",
+            "id": "dyomsu4",
+            "is_submitter": false,
+            "link_id": "t3_8i0lf9",
+            "parent_id": "t1_dyomb8c",
+            "score": 1,
+            "stickied": false,
+            "author_name": "heyven"
+        },
+        "dyomb8c": {
+            "comment": "you should definitely worry, and worry about yourself. promiscuous behavior usually leads to all kind of hells, least of is reinstall of the OS.",
+            "timeStamp": "2018/05/08-21:59:41",
+            "id": "dyomb8c",
+            "is_submitter": false,
+            "link_id": "t3_8i0lf9",
+            "parent_id": "t3_8i0lf9",
+            "score": 3,
+            "stickied": false,
+            "author_name": "apatrid"
+        },
+        "dyolxfj": {
+            "comment": "Well idk if it's an efficient way to do it but I looked it up and I ran cmd and looked through netstat -ano and all of the established connections we're alright so I hope I'm in the clear with key loggers",
+            "timeStamp": "2018/05/08-21:50:51",
+            "id": "dyolxfj",
+            "is_submitter": false,
+            "link_id": "t3_8i0lf9",
+            "parent_id": "t1_dyoa2ur",
+            "score": 1,
+            "stickied": false,
+            "author_name": "heyven"
+        },
+        "dyoltsw": {
+            "comment": "Actually that's exactly what I have :) I have a an SSD that the os is installed on.\nSo if I format it I should be good?",
+            "timeStamp": "2018/05/08-21:48:35",
+            "id": "dyoltsw",
+            "is_submitter": false,
+            "link_id": "t3_8i0lf9",
+            "parent_id": "t1_dyo5ai8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "heyven"
+        },
+        "dyoa2ur": {
+            "comment": "Change credentials for everything, preferably on a different device.  Don't forget keyloggers are a thing.",
+            "timeStamp": "2018/05/08-18:02:20",
+            "id": "dyoa2ur",
+            "is_submitter": false,
+            "link_id": "t3_8i0lf9",
+            "parent_id": "t3_8i0lf9",
+            "score": 5,
+            "stickied": false,
+            "author_name": "kaligeek"
+        },
+        "dyo82sp": {
+            "comment": "mostly a joke, but you could still probably reinstall. ",
+            "timeStamp": "2018/05/08-17:27:36",
+            "id": "dyo82sp",
+            "is_submitter": false,
+            "link_id": "t3_8i0lf9",
+            "parent_id": "t1_dyo0377",
+            "score": 2,
+            "stickied": false,
+            "author_name": "SplishSplashVS"
+        },
+        "dyo5ai8": {
+            "comment": "Hey man, take a look at this malware removal guide. For future measures, if possible, it\u2019s a great idea to have one drive on your computer that your OS runs on, and another drive just for all your personal files. That way if you do have to wipe, it\u2019s not a total loss.\n\n[Windows Malware Removal Guide](https://www.crusec.com/single-post/2018/01/20/Advanced-Malware-Removal-on-Windows-Devices) ",
+            "timeStamp": "2018/05/08-16:38:12",
+            "id": "dyo5ai8",
+            "is_submitter": false,
+            "link_id": "t3_8i0lf9",
+            "parent_id": "t3_8i0lf9",
+            "score": 2,
+            "stickied": false,
+            "author_name": "TheCreamyGentleman"
+        },
+        "dyo3a2g": {
+            "comment": "[removed]",
+            "timeStamp": "2018/05/08-16:02:34",
+            "id": "dyo3a2g",
+            "is_submitter": false,
+            "link_id": "t3_8i0lf9",
+            "parent_id": "t3_8i0lf9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "dyo2gq7": {
+            "comment": "Yes, cleaning malware out of Windows can be very difficult and it's difficult to tell if you've been completely thorough.",
+            "timeStamp": "2018/05/08-15:48:33",
+            "id": "dyo2gq7",
+            "is_submitter": false,
+            "link_id": "t3_8i0lf9",
+            "parent_id": "t1_dynzgtn",
+            "score": 7,
+            "stickied": false,
+            "author_name": "mikeargo"
+        },
+        "dyo0g4a": {
+            "comment": "Alright, thanks a bunch man &lt;3",
+            "timeStamp": "2018/05/08-15:14:31",
+            "id": "dyo0g4a",
+            "is_submitter": false,
+            "link_id": "t3_8i0lf9",
+            "parent_id": "t1_dyo0cw5",
+            "score": 3,
+            "stickied": false,
+            "author_name": "heyven"
+        },
+        "dyo0cw5": {
+            "comment": "[deleted]",
+            "timeStamp": "2018/05/08-15:13:03",
+            "id": "dyo0cw5",
+            "is_submitter": false,
+            "link_id": "t3_8i0lf9",
+            "parent_id": "t1_dynzzxg",
+            "score": 4,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "dyo0377": {
+            "comment": "is this a joke? now i feel way worse.... thanks",
+            "timeStamp": "2018/05/08-15:08:40",
+            "id": "dyo0377",
+            "is_submitter": false,
+            "link_id": "t3_8i0lf9",
+            "parent_id": "t1_dyo00yn",
+            "score": 3,
+            "stickied": false,
+            "author_name": "heyven"
+        },
+        "dyo00yn": {
+            "comment": "RIP Win10 :( see you after the reincarnation, old friend. ",
+            "timeStamp": "2018/05/08-15:07:40",
+            "id": "dyo00yn",
+            "is_submitter": false,
+            "link_id": "t3_8i0lf9",
+            "parent_id": "t3_8i0lf9",
+            "score": 4,
+            "stickied": false,
+            "author_name": "SplishSplashVS"
+        },
+        "dynzzxg": {
+            "comment": "how do i wipe everything clean?\na simple format?",
+            "timeStamp": "2018/05/08-15:07:13",
+            "id": "dynzzxg",
+            "is_submitter": false,
+            "link_id": "t3_8i0lf9",
+            "parent_id": "t1_dynzpaq",
+            "score": 5,
+            "stickied": false,
+            "author_name": "heyven"
+        },
+        "dynzpaq": {
+            "comment": "[deleted]",
+            "timeStamp": "2018/05/08-15:02:23",
+            "id": "dynzpaq",
+            "is_submitter": false,
+            "link_id": "t3_8i0lf9",
+            "parent_id": "t3_8i0lf9",
+            "score": 11,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "dynzgtn": {
+            "comment": "do you mean to format the drive that windows is installed on?\ni checked to find the same torrent but for some reason it was gone.\nit was a torrent for the new south park game and it had something to do with codepunks",
+            "timeStamp": "2018/05/08-14:58:35",
+            "id": "dynzgtn",
+            "is_submitter": false,
+            "link_id": "t3_8i0lf9",
+            "parent_id": "t1_dynyvmr",
+            "score": 6,
+            "stickied": false,
+            "author_name": "heyven"
+        },
+        "dynyvmr": {
+            "comment": "There's really no way to guarantee that your system is clean without reloading the operating system. Do you have a link to the torrent?",
+            "timeStamp": "2018/05/08-14:49:22",
+            "id": "dynyvmr",
+            "is_submitter": false,
+            "link_id": "t3_8i0lf9",
+            "parent_id": "t3_8i0lf9",
+            "score": 10,
+            "stickied": false,
+            "author_name": "mikeargo"
+        }
+    }
+}

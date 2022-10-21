@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hey guys, here I am to ask you help. In the last day Bitdefender (I have the free edition) constantly notifies me that it has relevated a potentially dangerous item which is called as the title of the thread: Gen:Variant.Mikey.61261, which is located on C:\\\\Windows\\\\Temp\\\\tmp0000026b\\\\tmp0000\\*\\*\\*\\* (last four lecters/numbers are walways different). Now it even notifies me that the same item is located on \\\\Device\\\\HarddiskVolume3\\\\WINDOWS\\\\TEMP\\\\tmp0000026b\\\\tmp0000\\*\\*\\*\\*. Every file's size is 616KB.   \n\n\nI'll be honest: I have a very little experience with those things and I've tried things that sounded pretty ok to me but that may not be that ok: first of all I've tried to delete those files manually but the system didn't let me to do it. Then I launched Malwarebytes, which actually spotted some threats that I eliminated BUT that didn't stop the notifications' shooting. Later I tried to launch Windows 10 in Safe Mode. When I was in it I didn't receive ANY notification and I was able to simply delete all those files. I launched Windows once again and everything was ok: no more notifications. One hour later those files appeared again and it all started again. I decided to try to restore the pc by using a system image, but the operation was non completed with two different images.   \n\n\nAt the moment I'm not really sure about what I could do, I don't even know what I'm dealing with. I've tried to find on the Internet something, but everything similar I've found implied the presence of some softwares working in the pc, which I've not found in mine.   \n\n\nThanks for the help!",
+        "title": "Gen:Variant.Mikey.61261",
+        "score": 1,
+        "id": "escaj6",
+        "commsNum": 0,
+        "timeStamp": "2020/01/22-05:59:47",
+        "author_name": "Applessaregood",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/escaj6/genvariantmikey61261/"
+    },
+    "posts": {}
+}

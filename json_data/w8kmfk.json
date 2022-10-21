@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "How to analyze Linux malware \u2013 A case study of Symbiote",
+        "score": 1,
+        "id": "w8kmfk",
+        "commsNum": 0,
+        "timeStamp": "2022/07/26-07:03:12",
+        "author_name": "CyberMasterV",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://cybergeeks.tech/how-to-analyze-linux-malware-a-case-study-of-symbiote/"
+    },
+    "posts": {
+        "ihxmett": {
+            "comment": "[removed]",
+            "timeStamp": "2022/07/27-18:29:23",
+            "id": "ihxmett",
+            "is_submitter": false,
+            "link_id": "t3_w8kmfk",
+            "parent_id": "t3_w8kmfk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

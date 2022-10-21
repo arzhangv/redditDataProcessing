@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Trying to grep this sdlt vm check here.\n\n&amp;#x200B;\n\n`var_8           = dword ptr -8`\n\n`var_4           = byte ptr -4`\n\n&amp;#x200B;\n\n`push    ebp`\n\n`mov     ebp, esp`\n\n`sub     esp, 8`\n\n`mov     eax, ds:dword_100020C8`\n\n`mov     cl, ds:byte_100020CC`\n\n`mov     [ebp+var_8], eax`\n\n`mov     [ebp+var_4], cl`\n\n`sldt    word ptr [ebp+var_8]`\n\n`xor     eax, eax`\n\n`cmp     [ebp+var_8], 0DEAD0000h`\n\n`setnz   al`\n\n`xor     edx, edx`\n\n`cmp     eax, 1`\n\n`setz    al`\n\n`mov     esp, ebp`\n\n`pop     ebp`\n\n`retn`\n\n&amp;#x200B;\n\nIm wondering why this bit of code does a cmp against 0DEAD00h, sets the lower register to the value.  (so say a vm is active and it non-zero thusly al is set to 1). \n\nWhy does it later `cmp eax, 1` then. this would mean 1 - 0 equals 1 thus ZF =0, but a CF=1. So then when `setz al` is called then al is equal to 0.\n\nIs this interpretation correct? If so what was the point of this? Shouldnt it have been finished after the first cmp\n\nCheers",
+        "title": "Virtual Machine",
+        "score": 1,
+        "id": "ka3kul",
+        "commsNum": 4,
+        "timeStamp": "2020/12/09-15:40:15",
+        "author_name": "blabbities",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ka3kul/virtual_machine/"
+    },
+    "posts": {
+        "gf9scpg": {
+            "comment": "You can use pushf/pushfd and a cmp/test/bt to check the zero flag alone, but I agree it does seem like an odd/roundabout way of doing things.",
+            "timeStamp": "2020/12/10-04:37:55",
+            "id": "gf9scpg",
+            "is_submitter": false,
+            "link_id": "t3_ka3kul",
+            "parent_id": "t1_gf9p19c",
+            "score": 1,
+            "stickied": false,
+            "author_name": "0xFF0F"
+        },
+        "gf9p19c": {
+            "comment": "No i dont have any follow ups yet. The antivm is actually in a func that id exported to the main program. The main program keeps crashing tho so i cant run it yet.\n\nYoy could be right because it uses NoPill And Redpill and they all have a similar weird effect in it.",
+            "timeStamp": "2020/12/10-03:48:00",
+            "id": "gf9p19c",
+            "is_submitter": true,
+            "link_id": "t3_ka3kul",
+            "parent_id": "t1_gf8x2jy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "blabbities"
+        },
+        "gf8x2jy": {
+            "comment": "Your interpretation appears correct; The only thing I can think of is if that zero flag is used later as a check (like after this snippet is called). \n\nDo you have any snippets of what occurs after this is run?",
+            "timeStamp": "2020/12/09-20:42:40",
+            "id": "gf8x2jy",
+            "is_submitter": false,
+            "link_id": "t3_ka3kul",
+            "parent_id": "t3_ka3kul",
+            "score": 1,
+            "stickied": false,
+            "author_name": "0xFF0F"
+        },
+        "gf84ku3": {
+            "comment": "[removed]",
+            "timeStamp": "2020/12/09-16:11:24",
+            "id": "gf84ku3",
+            "is_submitter": false,
+            "link_id": "t3_ka3kul",
+            "parent_id": "t3_ka3kul",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

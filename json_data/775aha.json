@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "The Necurs botnet is back spreading a downloader with new interesting features",
+        "score": 1,
+        "id": "775aha",
+        "commsNum": 0,
+        "timeStamp": "2017/10/18-01:38:45",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/64463/malware/necurs-botnet-downloader.html"
+    },
+    "posts": {}
+}

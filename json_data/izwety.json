@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Windows 10 Laptop, two months old\n\nI opened my laptop today and was greeted with a yellow error window that said something like \"S1 Host error\" I'm not sure because the screen went black and restarted within a few seconds. Windows opened normally after that but I noticed my Avast Antivirus shortcut icon was blank and sure enough the avast folder in my programs folder was totally empty. Avast was installed a couple weeks ago when the McAfee trial on the laptop ran out.\n\nThe only risk factors I can think of are   \n1- a few PC games I've downloaded via torrent, but mostly from legit looking sources as far as that goes   \n2- my step daughter does online classes and downloads docs via google, i dont know what might be connected to those docs either\n\nI'm reinstalling avast but I want to get some kind of PC cleaner. I've use Spybot S&amp;D back in the day and CCleaner but I wanted to see if either or any other is most recommendable today.",
+        "title": "Avast folder suddenly empty,",
+        "score": 1,
+        "id": "izwety",
+        "commsNum": 2,
+        "timeStamp": "2020/09/25-18:22:13",
+        "author_name": "Well-oh-well",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/izwety/avast_folder_suddenly_empty/"
+    },
+    "posts": {
+        "g6lzq8d": {
+            "comment": "Alright, my first time trying to use reddit for this kind of help. Thanks for the redirect!\n\nHappy cake day too :)",
+            "timeStamp": "2020/09/25-20:22:49",
+            "id": "g6lzq8d",
+            "is_submitter": true,
+            "link_id": "t3_izwety",
+            "parent_id": "t1_g6lt4l2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Well-oh-well"
+        },
+        "g6lt4l2": {
+            "comment": "This is an r/techsupport question, not an r/malware or r/cybersecurity question. Sorry mate! Looks like you got started on a solution though, nice work.",
+            "timeStamp": "2020/09/25-19:49:18",
+            "id": "g6lt4l2",
+            "is_submitter": false,
+            "link_id": "t3_izwety",
+            "parent_id": "t3_izwety",
+            "score": 1,
+            "stickied": false,
+            "author_name": "tweedge"
+        }
+    }
+}

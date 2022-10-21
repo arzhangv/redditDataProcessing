@@ -1,0 +1,132 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "for known clean windows system files.  anyone know where i can find them?  i thought surely ms must have them somewhere, but have been looking for about an hour now with no luck.",
+        "title": "looking for a list of hashes",
+        "score": 1,
+        "id": "v13zes",
+        "commsNum": 0,
+        "timeStamp": "2022/05/30-09:29:01",
+        "author_name": "sfzombie13",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/v13zes/looking_for_a_list_of_hashes/"
+    },
+    "posts": {
+        "ianvx5z": {
+            "comment": "Thank you! And you\u2019re right hashes are fool proof, but with detection and alerting I aim to have many hits for similar suspicious behavior",
+            "timeStamp": "2022/05/31-06:57:35",
+            "id": "ianvx5z",
+            "is_submitter": false,
+            "link_id": "t3_v13zes",
+            "parent_id": "t1_ianlfko",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Sweaty_Ad_1332"
+        },
+        "ianlfko": {
+            "comment": "i found this link to a blog post from the winbindex link above that may help you get what you're looking for if you still need it.\n\nhttps://m417z.com/Introducing-Winbindex-the-Windows-Binaries-Index/",
+            "timeStamp": "2022/05/31-05:26:18",
+            "id": "ianlfko",
+            "is_submitter": true,
+            "link_id": "t3_v13zes",
+            "parent_id": "t1_ialolfc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sfzombie13"
+        },
+        "iankt84": {
+            "comment": "i did use it to find 2 corrupted files, took a while since i did it manually, but it worked.  overall great resource.",
+            "timeStamp": "2022/05/31-05:20:19",
+            "id": "iankt84",
+            "is_submitter": true,
+            "link_id": "t3_v13zes",
+            "parent_id": "t1_ialvy8g",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sfzombie13"
+        },
+        "ianbokk": {
+            "comment": "why would you if you could just check the hash of each file and compare it to a known good file?  it seems like an extra unnecessary step that wouldn't be as good of an indicator of compromise.  say you add 100 bytes to a file, then you would just take out 100 bytes of something else like comments or something.  comparing hashes is much better than comparing file sizes to see if it has been tampered with.",
+            "timeStamp": "2022/05/31-03:36:41",
+            "id": "ianbokk",
+            "is_submitter": true,
+            "link_id": "t3_v13zes",
+            "parent_id": "t1_ialolfc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sfzombie13"
+        },
+        "ialvy8g": {
+            "comment": "Basically it extracts SHA2 hashes from Microsoft update packages and query VT to retrieve other information. For the question how quick, i don\u2019t know\u2026",
+            "timeStamp": "2022/05/30-17:40:36",
+            "id": "ialvy8g",
+            "is_submitter": false,
+            "link_id": "t3_v13zes",
+            "parent_id": "t1_ialdnml",
+            "score": 1,
+            "stickied": false,
+            "author_name": "nyx_o"
+        },
+        "ialolfc": {
+            "comment": "What I want is sizes of these files so you could possibly detect binary padding, but with all the versions it\u2019s extremely challenging anyone ever had that idea?",
+            "timeStamp": "2022/05/30-16:37:06",
+            "id": "ialolfc",
+            "is_submitter": false,
+            "link_id": "t3_v13zes",
+            "parent_id": "t3_v13zes",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Sweaty_Ad_1332"
+        },
+        "ialj1bh": {
+            "comment": "yes, that is exactly what i was looking for.  thanx.",
+            "timeStamp": "2022/05/30-15:49:21",
+            "id": "ialj1bh",
+            "is_submitter": true,
+            "link_id": "t3_v13zes",
+            "parent_id": "t1_ialf8zn",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sfzombie13"
+        },
+        "ialf8zn": {
+            "comment": "What you are looking for is the National Software Reference Library (NSRL).\n\nhttps://www.nist.gov/itl/ssd/software-quality-group/national-software-reference-library-nsrl",
+            "timeStamp": "2022/05/30-15:17:37",
+            "id": "ialf8zn",
+            "is_submitter": false,
+            "link_id": "t3_v13zes",
+            "parent_id": "t3_v13zes",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Th3_Pr0f3ss0r"
+        },
+        "ialdnml": {
+            "comment": "that does help.  not exactly the format i was looking for but it works.  do you know where it gets the information from and how quickly it's updated?  it looks like a great reference.  thanx a lot.",
+            "timeStamp": "2022/05/30-15:04:25",
+            "id": "ialdnml",
+            "is_submitter": true,
+            "link_id": "t3_v13zes",
+            "parent_id": "t1_ial437b",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sfzombie13"
+        },
+        "ial437b": {
+            "comment": "Maybe this https://winbindex.m417z.com could help?",
+            "timeStamp": "2022/05/30-13:46:32",
+            "id": "ial437b",
+            "is_submitter": false,
+            "link_id": "t3_v13zes",
+            "parent_id": "t3_v13zes",
+            "score": 1,
+            "stickied": false,
+            "author_name": "nyx_o"
+        }
+    }
+}

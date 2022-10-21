@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Just got hit with this one today. Out of nowhere, my Chrome browser shuts down and restarts. Then I start seeing obnoxious ads in YouTube, with a little message under it that says Worldwide Coupon. \n\nThis thing is pretty nasty. I tried to do a Google search about it and it hijacked a lot of the links. Tried to get Malwarebytes and it popped a realistic-looking warning saying it was a site known to have spyware.\n\nFinally got through to [a site](http://www.safebro.com/worldwide-coupon-virus-remove) and it made me realize it was a Chrome extension causing it. Removed it and restarted the browser and all seems well. Was able to go get Malwarebytes.\n\nMy question though: How was it able to install itself into Chrome? I am the sole user of this computer and I had no warning or any notice of this. I count myself as fairly savvy with the internets.\n\nI can only imagine how many users out there are stuck with this crippling piece of crap malware.",
+        "title": "Worldwide Coupon Extension",
+        "score": 2,
+        "id": "2us0wv",
+        "commsNum": 0,
+        "timeStamp": "2015/02/04-10:15:15",
+        "author_name": "[deleted]",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2us0wv/worldwide_coupon_extension/"
+    },
+    "posts": {}
+}

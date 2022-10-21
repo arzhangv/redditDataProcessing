@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "ChinaZ gangs made new ELF malware: Linux/BillGates.Lite",
+        "score": 8,
+        "id": "3hyz08",
+        "commsNum": 1,
+        "timeStamp": "2015/08/22-07:25:35",
+        "author_name": "mmd0xFF",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://blog.malwaremustdie.org/2015/08/mmd-0039-2015-chinaz-made-new-malware.html"
+    },
+    "posts": {}
+}

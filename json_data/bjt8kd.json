@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[removed]",
+        "title": "[Question] Reversing GandCrab 5.0.4",
+        "score": 2,
+        "id": "bjt8kd",
+        "commsNum": 4,
+        "timeStamp": "2019/05/02-03:13:31",
+        "author_name": "Nathan3xplosion",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/bjt8kd/question_reversing_gandcrab_504/"
+    },
+    "posts": {
+        "emr5u6h": {
+            "comment": "I\u2018ll edit this later and post the hash of the sample, I\u2018m analysing :) Got so far that I unpacked the actual payload, but there seems to be some external stuff. Maybe some ressources are missing. Will do further analysis.",
+            "timeStamp": "2019/05/07-10:04:22",
+            "id": "emr5u6h",
+            "is_submitter": true,
+            "link_id": "t3_bjt8kd",
+            "parent_id": "t1_emq6jr1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Nathan3xplosion"
+        },
+        "emq6jr1": {
+            "comment": "Using [@cyb3rops' CSE, there are not many results](https://cse.google.com/cse?cx=003248445720253387346:turlh5vi4xc).",
+            "timeStamp": "2019/05/07-03:36:05",
+            "id": "emq6jr1",
+            "is_submitter": false,
+            "link_id": "t3_bjt8kd",
+            "parent_id": "t3_bjt8kd",
+            "score": 1,
+            "stickied": false,
+            "author_name": "pe3zx"
+        },
+        "emay1dp": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2019/05/02-03:13:32",
+            "id": "emay1dp",
+            "is_submitter": false,
+            "link_id": "t3_bjt8kd",
+            "parent_id": "t3_bjt8kd",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

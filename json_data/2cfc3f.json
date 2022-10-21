@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Ansible playbook to deploy Kippo on multiple hosts with central logging [X-post from /r/netsec]",
+        "score": 1,
+        "id": "2cfc3f",
+        "commsNum": 0,
+        "timeStamp": "2014/08/02-07:39:45",
+        "author_name": "Erethon",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://github.com/Erethon/Kippo-ansible"
+    },
+    "posts": {}
+}

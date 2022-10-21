@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Tracking a P2P network related to TA505 - new capability attributed to the authors of Grace etc.",
+        "score": 1,
+        "id": "r6b217",
+        "commsNum": 0,
+        "timeStamp": "2021/12/01-01:37:50",
+        "author_name": "digicat",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://research.nccgroup.com/2021/12/01/tracking-a-p2p-network-related-with-ta505/"
+    },
+    "posts": {}
+}

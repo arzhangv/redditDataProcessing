@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "New ransomware actor uses password-protected archives to bypass encryption protection",
+        "score": 1,
+        "id": "qximhv",
+        "commsNum": 6,
+        "timeStamp": "2021/11/19-07:29:55",
+        "author_name": "ksr_malware",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://news.sophos.com/en-us/2021/11/18/new-ransomware-actor-uses-password-protected-archives-to-bypass-encryption-protection/"
+    },
+    "posts": {
+        "ho180vz": {
+            "comment": "[removed]",
+            "timeStamp": "2021/12/10-12:49:58",
+            "id": "ho180vz",
+            "is_submitter": false,
+            "link_id": "t3_qximhv",
+            "parent_id": "t3_qximhv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hmeemhz": {
+            "comment": "[removed]",
+            "timeStamp": "2021/11/28-05:50:08",
+            "id": "hmeemhz",
+            "is_submitter": false,
+            "link_id": "t3_qximhv",
+            "parent_id": "t1_hlc0j76",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hmeelwn": {
+            "comment": "[removed]",
+            "timeStamp": "2021/11/28-05:49:59",
+            "id": "hmeelwn",
+            "is_submitter": false,
+            "link_id": "t3_qximhv",
+            "parent_id": "t1_hlauedw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hmeel4f": {
+            "comment": "[removed]",
+            "timeStamp": "2021/11/28-05:49:47",
+            "id": "hmeel4f",
+            "is_submitter": false,
+            "link_id": "t3_qximhv",
+            "parent_id": "t3_qximhv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hlc0j76": {
+            "comment": "Not exactly news....",
+            "timeStamp": "2021/11/19-17:29:07",
+            "id": "hlc0j76",
+            "is_submitter": false,
+            "link_id": "t3_qximhv",
+            "parent_id": "t3_qximhv",
+            "score": 5,
+            "stickied": false,
+            "author_name": "sfvbritguy"
+        },
+        "hlauedw": {
+            "comment": "Really ? A threat actor using password-protected zips with an SE ploy?  \n\nWOOOWWWWW!\n\n/s",
+            "timeStamp": "2021/11/19-12:32:56",
+            "id": "hlauedw",
+            "is_submitter": false,
+            "link_id": "t3_qximhv",
+            "parent_id": "t3_qximhv",
+            "score": 12,
+            "stickied": false,
+            "author_name": "morphinan"
+        }
+    }
+}

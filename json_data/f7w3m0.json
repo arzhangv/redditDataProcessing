@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I'm working on reversing a piece of malware that was written in Go. After doing some research on the compilation of the language, I've learned that API calls don't get linked, they actually have the code statically included in the binary. This results in a large size, and essentially making the IAT nearly useless. It also makes reversing incredibly tedious, as I am having to go through each subfunction to figure out if it's an API, and if so, which API, or if it's user written code. I imagine that if there wasn't a way to make this easier, then every malware author in the world would be writing in Go.\n\nHas anyone else run into this? If so, how did you end up reversing the file?\n\nDoes anyone have any IDA or Ghidra plugins/scripts that can reduce the time needed for Go malware?",
+        "title": "Reversing Golang Malware",
+        "score": 1,
+        "id": "f7w3m0",
+        "commsNum": 5,
+        "timeStamp": "2020/02/22-09:59:15",
+        "author_name": "JulienneDelphiki",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/f7w3m0/reversing_golang_malware/"
+    },
+    "posts": {
+        "fiqd6ej": {
+            "comment": "Shameless plug: [https://go-re.tk/redress/](https://go-re.tk/redress/)",
+            "timeStamp": "2020/02/25-06:39:59",
+            "id": "fiqd6ej",
+            "is_submitter": false,
+            "link_id": "t3_f7w3m0",
+            "parent_id": "t3_f7w3m0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TcM1911"
+        },
+        "fik9d4w": {
+            "comment": "Here, there's a script that recovers all function names etc.\nSo, actual user code is the one with names starting with `main_main`, or just `main_` (can't recall atm)  \nhttps://github.com/sibears/IDAGolangHelper",
+            "timeStamp": "2020/02/23-08:35:58",
+            "id": "fik9d4w",
+            "is_submitter": false,
+            "link_id": "t3_f7w3m0",
+            "parent_id": "t3_f7w3m0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "jesterret"
+        },
+        "fihox0v": {
+            "comment": "What are you trying to accomplish here? If you're trying to reverse the binary to figure out how it works, then yeah, it's incredibly tedious. I haven't figured out a way to get around that. But if you're just trying to get an idea of what kind of functionality the binary has, there's some prior steps that might help target your search.\n\nFirst thing I'd recommend you do is do a strings on the binary and filter the strings for anything that might be useful. Possibly malicious WinAPI calls, URLs, Base64, possibly malicious Go functions, strings that appear in already known malware, etc. This should give you a few starting points to dig through it in IDA or Ghidra.\n\nI'd also highly recommend learning how to use a tool called yara. Even though it's designed for threat hunting, it can be incredibly useful for reverse engineering too. Create a bunch of yara rules with signatures, strings, and regex's (only if it's an absolute must) and run them against the binary. There's heaps of yara rules online for you to check out too.",
+            "timeStamp": "2020/02/22-15:03:52",
+            "id": "fihox0v",
+            "is_submitter": false,
+            "link_id": "t3_f7w3m0",
+            "parent_id": "t3_f7w3m0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TimeLoad"
+        },
+        "fih0g9w": {
+            "comment": "I'm not an expert but I am a go developer and have reversed some of my custom written binaries in Ghidra and commonly Ghidra is very good at determining the name of the function names so things weren't too hard to figure out like fmt functions all started at the same memory address higher up in the memory than the custom written functions, and their names were clear (Sprintf, Sscanf, etc). But if it\u2019s obfuscated then suddenly this becomes much harder... I\u2019ve not come across a good ghidra or IDA plugin/script to help myself.",
+            "timeStamp": "2020/02/22-13:00:19",
+            "id": "fih0g9w",
+            "is_submitter": false,
+            "link_id": "t3_f7w3m0",
+            "parent_id": "t3_f7w3m0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "_-rootkid-_"
+        },
+        "fig3g7t": {
+            "comment": "https://www.hex-rays.com/products/ida/tech/flirt/in_depth/\n\nida flirt is used for this for c/c++ binaries. I linked the explanation of how it works, but in general it has a map of patterns -&gt; library functions and it checks each byte of the program to see if it has a pattern that matches. I'm not aware of any flirt databases/tools for golang, nor am I aware of a go binary's structure, but I imagine the solution would be to go try to find a flirt database for golang libraries. You might also try out /r/ReverseEngineering for more exposure.",
+            "timeStamp": "2020/02/22-10:21:47",
+            "id": "fig3g7t",
+            "is_submitter": false,
+            "link_id": "t3_f7w3m0",
+            "parent_id": "t3_f7w3m0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "OrangeAndaHalf"
+        }
+    }
+}

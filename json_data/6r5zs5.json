@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Let me start by saying I haven't made any serious investigations as I deleted Chrome altogether now just to be safe. So I can't be entirely sure but from my search results it looks like my theory is applicable. \n\nI was just starting to play around with vue.js and reading their documentation. They suggests loading vue.js through unpkg, so I did. Started coding, playing with their examples...\n\n...when suddenly a chrome prompt pops up with this message: \"your computer is infected. You need to search it with antivirus.\" \n\nAnd on every website I visit, Russian ads are injected in the page.\n\nRead about exactly the same problems by other people loading stuff from unpkg. Anyway, uninstalled Chrome and will get it back later. It does not seem to have affected anything else than Chrome. \n\nAnyone else with similar problems? \n\nBe careful, stay safe. ",
+        "title": "Malware from unpkg vue.js? Russian ads injection",
+        "score": 4,
+        "id": "6r5zs5",
+        "commsNum": 0,
+        "timeStamp": "2017/08/02-10:56:49",
+        "author_name": "ajohnwik",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6r5zs5/malware_from_unpkg_vuejs_russian_ads_injection/"
+    },
+    "posts": {}
+}

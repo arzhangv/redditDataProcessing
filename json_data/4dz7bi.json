@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I'm looking for a research honeynet project that is currently maintained, that I could run on a VPS. I have found a couple of options via google, however it seems that most are no longer maintained.\n\nThe goal is to be able to capture and analyse new attack methods. I also would like to be able to capture malware samples for analysis.",
+        "title": "Research honeynet that could be run on a VPS?",
+        "score": 13,
+        "id": "4dz7bi",
+        "commsNum": 6,
+        "timeStamp": "2016/04/08-17:23:13",
+        "author_name": "marisec",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/4dz7bi/research_honeynet_that_could_be_run_on_a_vps/"
+    },
+    "posts": {}
+}

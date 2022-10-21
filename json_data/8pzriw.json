@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "This is an article I wrote a while back for a friend's blog.\n\nI am posting here to discover if anyone else has been keeping up with YouTube distribution and answer any questions that you may have regarding such a topic\n\nArticle: https://krabsonsecurity.com/2017/11/02/the-dangers-of-youtube-malware-campaigns-and-how-to-help-prevent-further-distribution/\n\nI may even update this article if it gets a little attention.",
+        "title": "YouTube Malware Distribution Campaigns &amp; Basic Operation Analysis (Article)",
+        "score": 33,
+        "id": "8pzriw",
+        "commsNum": 4,
+        "timeStamp": "2018/06/10-02:31:04",
+        "author_name": "Pagan_Pigeon",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8pzriw/youtube_malware_distribution_campaigns_basic/"
+    },
+    "posts": {
+        "e0gs762": {
+            "comment": "HF (at the time) was the prominent forum for YouTube distribution, hence the aura of the article.\n\nAt the time of the artice I was indeed a teen; however, I didn't feel \"cool\" nor was I a part of any malware distribution(assuming \"reads like someone who is part of the scene is writing about themselves\" meant I was speaking of my own spreading expieriences)\n\nThank you for the reply, though.\n\nUpdate: The blog is not mine, only that specific article was written by me.",
+            "timeStamp": "2018/06/10-20:03:36",
+            "id": "e0gs762",
+            "is_submitter": true,
+            "link_id": "t3_8pzriw",
+            "parent_id": "t1_e0frw4o",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Pagan_Pigeon"
+        },
+        "e0grxp6": {
+            "comment": "Thank you for the reply. I will get to updating the article later today once I've woken up a little.\n\nEdit: Could you point out some other errors? I'm looking myself but may miss some.\n\nThanks",
+            "timeStamp": "2018/06/10-19:59:18",
+            "id": "e0grxp6",
+            "is_submitter": true,
+            "link_id": "t3_8pzriw",
+            "parent_id": "t1_e0g22xv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Pagan_Pigeon"
+        },
+        "e0g22xv": {
+            "comment": "I think you should update the article, in order to get more attention. There are some errors in the article, which makes reading it more difficult. Secondly, you could stop putting newlines after each sentence and use paragraphs for sections of texts that are related. You could also use proper formatting, since HTML provides list elements, etc. Things like these make it more easy to read through long articles, which could help you in receiving more attention for you writing.",
+            "timeStamp": "2018/06/10-12:17:24",
+            "id": "e0g22xv",
+            "is_submitter": false,
+            "link_id": "t3_8pzriw",
+            "parent_id": "t3_8pzriw",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Men_Of_Spoons"
+        },
+        "e0frw4o": {
+            "comment": "yes",
+            "timeStamp": "2018/06/10-09:25:08",
+            "id": "e0frw4o",
+            "is_submitter": false,
+            "link_id": "t3_8pzriw",
+            "parent_id": "t1_e0fjkox",
+            "score": 1,
+            "stickied": false,
+            "author_name": "edward_snowedin"
+        },
+        "e0fjkox": {
+            "comment": "[deleted]",
+            "timeStamp": "2018/06/10-06:45:06",
+            "id": "e0fjkox",
+            "is_submitter": false,
+            "link_id": "t3_8pzriw",
+            "parent_id": "t3_8pzriw",
+            "score": 7,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

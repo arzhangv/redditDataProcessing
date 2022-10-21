@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi, I am searching for the Mischa Ransomware sample for analysis. I have searche github, hybrid-analysis and other sites, however I am able to get a hold of the sample. If someone would be able to send me a link to the ransomware, I would be really grateful.",
+        "title": "Searching for Sample of Mischa Ransomware for analysis",
+        "score": 1,
+        "id": "ewi552",
+        "commsNum": 2,
+        "timeStamp": "2020/01/30-19:35:49",
+        "author_name": "LMJR500Army",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ewi552/searching_for_sample_of_mischa_ransomware_for/"
+    },
+    "posts": {
+        "fg5gjm8": {
+            "comment": "thank you so much",
+            "timeStamp": "2020/01/31-19:14:32",
+            "id": "fg5gjm8",
+            "is_submitter": true,
+            "link_id": "t3_ewi552",
+            "parent_id": "t1_fg513dr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "LMJR500Army"
+        },
+        "fg513dr": {
+            "comment": "https://github.com/NTFS123/MalwareDatabase/tree/master/Ransomware\nNot only Mischa, there is a big pool of malware there.",
+            "timeStamp": "2020/01/31-16:08:27",
+            "id": "fg513dr",
+            "is_submitter": false,
+            "link_id": "t3_ewi552",
+            "parent_id": "t3_ewi552",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Sasser39a"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Malware Must Die!: MMD-0051-2016 - Debunking a tiny ELF remote backdoor",
+        "score": 7,
+        "id": "43zmxe",
+        "commsNum": 1,
+        "timeStamp": "2016/02/03-04:45:02",
+        "author_name": "mmd0xFF",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://blog.malwaremustdie.org/2016/02/mmd-0051-2016-debungking-tiny-elf.html"
+    },
+    "posts": {}
+}

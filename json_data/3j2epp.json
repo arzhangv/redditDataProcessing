@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Corebot is the new data Stealer discovered by IBm\u2019s X-Force",
+        "score": 1,
+        "id": "3j2epp",
+        "commsNum": 0,
+        "timeStamp": "2015/08/31-02:38:36",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/39737/cyber-crime/corebot-data-stealer.html"
+    },
+    "posts": {}
+}

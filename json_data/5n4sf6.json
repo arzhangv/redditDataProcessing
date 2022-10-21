@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi all, sorry if this isn't an appropriate subreddit to be asking - but have any of you managed to get Cuckoo running on an AWS EC2 instance? Preferably on Ubuntu.\n\nIf yes, could you advise how?  (I'll gladly gild anyone that sends me in the right direction)",
+        "title": "Cuckoo Malware Setup in EC2",
+        "score": 3,
+        "id": "5n4sf6",
+        "commsNum": 5,
+        "timeStamp": "2017/01/10-04:37:42",
+        "author_name": "myfacelookslike",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5n4sf6/cuckoo_malware_setup_in_ec2/"
+    },
+    "posts": {}
+}

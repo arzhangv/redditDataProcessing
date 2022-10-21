@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Just got a malicious email that used spoofed headers and senders from our organization lead. A link in the body leads to the following site which downloads a .js payload:\n    \n    malicious link below\n    http://rowingsport.com/Payment-on-Invoices-JQWZDI-627-853287-7689356346/\n\nVirustotal's only hits a single match as a generic `Trojan.Script.Heuristic-js.iacgm`, the rest of the scanning engines don't see it as a threat. It's all obfuscated as well, here's a pastebin of the payload:\n\nhttps://pastebin.com/ncqFrxrh\n\nAnyone have an idea if the single match is accurate, and which resources the payload contacts?\n\nThank you!",
+        "title": "Javascript Trojan - Not flagged by most AVs, new?",
+        "score": 26,
+        "id": "6anpt4",
+        "commsNum": 3,
+        "timeStamp": "2017/05/11-16:11:41",
+        "author_name": "cawfee",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6anpt4/javascript_trojan_not_flagged_by_most_avs_new/"
+    },
+    "posts": {}
+}

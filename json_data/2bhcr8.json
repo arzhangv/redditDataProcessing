@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi,\n\nI just wanted to get an idea of the current state-of-play for dealing with PHP files and stuff like deobfuscation ?\n\nPerusing the wonders of Google, I've found references to tools such as evalHook, but I'm weary of their security because they seem to rely on running the code to deobfuscate it ?\n\nSo.... how do *you* poke around with your malicious PHP files ?",
+        "title": "Working with PHP files",
+        "score": 0,
+        "id": "2bhcr8",
+        "commsNum": 4,
+        "timeStamp": "2014/07/23-02:40:34",
+        "author_name": "VectorTracker",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2bhcr8/working_with_php_files/"
+    },
+    "posts": {}
+}

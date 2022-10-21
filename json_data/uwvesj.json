@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "How can i decrypt the .agho file . i have already use EMSISOFT tool but it will not working . please guide on this.",
+        "score": 1,
+        "id": "uwvesj",
+        "commsNum": 0,
+        "timeStamp": "2022/05/24-09:55:29",
+        "author_name": "Rohan-kar",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/uwvesj/how_can_i_decrypt_the_agho_file_i_have_already/"
+    },
+    "posts": {
+        "i9ugoof": {
+            "comment": "i dont think so",
+            "timeStamp": "2022/05/24-12:45:52",
+            "id": "i9ugoof",
+            "is_submitter": false,
+            "link_id": "t3_uwvesj",
+            "parent_id": "t1_i9ue905",
+            "score": 1,
+            "stickied": false,
+            "author_name": "myredac"
+        },
+        "i9ue905": {
+            "comment": "is there any salutation",
+            "timeStamp": "2022/05/24-12:28:46",
+            "id": "i9ue905",
+            "is_submitter": true,
+            "link_id": "t3_uwvesj",
+            "parent_id": "t1_i9ue6lh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Rohan-kar"
+        },
+        "i9ue6lh": {
+            "comment": "no one of my friend laptop",
+            "timeStamp": "2022/05/24-12:28:19",
+            "id": "i9ue6lh",
+            "is_submitter": true,
+            "link_id": "t3_uwvesj",
+            "parent_id": "t1_i9tz7nh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Rohan-kar"
+        },
+        "i9u6w8w": {
+            "comment": "Not a support subreddit",
+            "timeStamp": "2022/05/24-11:37:07",
+            "id": "i9u6w8w",
+            "is_submitter": false,
+            "link_id": "t3_uwvesj",
+            "parent_id": "t3_uwvesj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Rakanisheu"
+        },
+        "i9tz7nh": {
+            "comment": "its your personal computer the one afected by ransomware?",
+            "timeStamp": "2022/05/24-10:43:45",
+            "id": "i9tz7nh",
+            "is_submitter": false,
+            "link_id": "t3_uwvesj",
+            "parent_id": "t3_uwvesj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "myredac"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I was working with a client who has a single file share on from the file server and they have a folder called \"!!!!Lolz!!!!\" and then the rest of their normal folders.\n\nThey specifically wanted me to monitor that folder for write changes.  I configured that root directory of the share with Windows File Auditing.  I asked about why that folder was there and why they wanted alerts when anything got written to it.\n\nThe CIO told me that it is filled with 10GB worth of large MP3 files, but all the extensions are named to .docx, doc, xlsx, etc.  Her idea is that if some kind of cryptoware hits that file share it will see that folder first and start encrypting those files.  If that happens to any of the files there their log aggregation tool (my company's product) then sends out the email alert with the username, hostname, process, src_ip and then runs a script to terminate the file share, shut down the host system that is running the malware (from the alert/report) and then removes that host from the domain.  She figured that while the malware is busy encrypting junk files (MP3 files) they have enough time to shut down the share to prevent further damage.  \n\nThat is a brilliant idea IMO, but I wanted to believe that that type of malware may not always start at the first folder it sees and goes through recursively.  If I was a lazy malware author, then I can see that being the easiest method.\n\nI did ask if they tested the speed at which those 10GB of files would take to be fully encrypted and they noted 8 minutes with the fastest workstation they have.  The fastest CPU they had as a low-end 5th gen Intel i5.",
+        "title": "Does Crypto/Ransomware work by encrypting files recursively?",
+        "score": 11,
+        "id": "75amuz",
+        "commsNum": 6,
+        "timeStamp": "2017/10/09-10:26:13",
+        "author_name": "shifty21",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/75amuz/does_cryptoransomware_work_by_encrypting_files/"
+    },
+    "posts": {}
+}

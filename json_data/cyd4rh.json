@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Possible virus? Inside borderlands pre-sequel files. I think I got the game from g2a, possible torrent I paid for?",
+        "score": 1,
+        "id": "cyd4rh",
+        "commsNum": 2,
+        "timeStamp": "2019/09/01-10:52:46",
+        "author_name": "612helios",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://i.redd.it/suc963pjt0k31.jpg"
+    },
+    "posts": {
+        "eyr3voh": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2019/09/01-10:52:47",
+            "id": "eyr3voh",
+            "is_submitter": false,
+            "link_id": "t3_cyd4rh",
+            "parent_id": "t3_cyd4rh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

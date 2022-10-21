@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Malware discovered on Google Play with over 5,000 installs was available to download for almost a year",
+        "score": 1,
+        "id": "9wc30q",
+        "commsNum": 6,
+        "timeStamp": "2018/11/11-23:51:20",
+        "author_name": "barakadua131",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://lukasstefanko.com/2018/11/malware-discovered-on-google-play-with-over-5000-installs-was-available-to-download-for-almost-a-year.html"
+    },
+    "posts": {
+        "e9kxw5y": {
+            "comment": "Monopoly does whatever it want",
+            "timeStamp": "2018/11/12-14:20:33",
+            "id": "e9kxw5y",
+            "is_submitter": true,
+            "link_id": "t3_9wc30q",
+            "parent_id": "t1_e9kr50d",
+            "score": 1,
+            "stickied": false,
+            "author_name": "barakadua131"
+        },
+        "e9kr50d": {
+            "comment": "On the side they are blocking many legitimate app by trusted developers as soon as an update push something they didn't like (but perfectly safe for user and legal) or if the screenshot has 2 pixels of IP image in it as an example.",
+            "timeStamp": "2018/11/12-12:51:16",
+            "id": "e9kr50d",
+            "is_submitter": false,
+            "link_id": "t3_9wc30q",
+            "parent_id": "t3_9wc30q",
+            "score": 2,
+            "stickied": false,
+            "author_name": "ElucTheG33K"
+        },
+        "e9juo2h": {
+            "comment": "google is a disgrace just thinks about making money",
+            "timeStamp": "2018/11/12-05:22:08",
+            "id": "e9juo2h",
+            "is_submitter": false,
+            "link_id": "t3_9wc30q",
+            "parent_id": "t3_9wc30q",
+            "score": 3,
+            "stickied": false,
+            "author_name": "felipekirby94"
+        },
+        "e9jmlhf": {
+            "comment": "Since it is the official AppStore, Google should definitely be more careful when accepting apps for it",
+            "timeStamp": "2018/11/12-01:51:47",
+            "id": "e9jmlhf",
+            "is_submitter": false,
+            "link_id": "t3_9wc30q",
+            "parent_id": "t1_e9jkcp0",
+            "score": 6,
+            "stickied": false,
+            "author_name": "n-three"
+        },
+        "e9jkcp0": {
+            "comment": "It is okay, they didn't know about it. ;)",
+            "timeStamp": "2018/11/12-00:34:32",
+            "id": "e9jkcp0",
+            "is_submitter": true,
+            "link_id": "t3_9wc30q",
+            "parent_id": "t1_e9jj4dz",
+            "score": 8,
+            "stickied": false,
+            "author_name": "barakadua131"
+        },
+        "e9jj4dz": {
+            "comment": "Wow thanks google",
+            "timeStamp": "2018/11/11-23:56:14",
+            "id": "e9jj4dz",
+            "is_submitter": false,
+            "link_id": "t3_9wc30q",
+            "parent_id": "t3_9wc30q",
+            "score": 11,
+            "stickied": false,
+            "author_name": "NenshisConscience"
+        }
+    }
+}

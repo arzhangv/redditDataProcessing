@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[deleted]",
+        "title": "Analyzing Furtim: Malware that Avoids Mass-Infection",
+        "score": 12,
+        "id": "4jqbgd",
+        "commsNum": 6,
+        "timeStamp": "2016/05/17-03:55:26",
+        "author_name": "[deleted]",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://breakingmalware.com/malware/furtim-malware-avoids-mass-infection/"
+    },
+    "posts": {}
+}

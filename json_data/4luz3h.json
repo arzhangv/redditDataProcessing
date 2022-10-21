@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Self-propagating ransomware spreading in the wild",
+        "score": 1,
+        "id": "4luz3h",
+        "commsNum": 0,
+        "timeStamp": "2016/05/31-05:31:48",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/47890/malware/self-propagating-ransomware.html"
+    },
+    "posts": {}
+}

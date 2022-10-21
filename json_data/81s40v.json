@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Recieved the usual FedEx attempted delivery message with a zipped attachment so decided to see what they were trying to attempt. A quick view of the zipped file shows a bat file. Seeing as I am on a MacBook Pro, I was too worried about it. Viewing the bat file in an editor, all it was a link to FedEx's tracking website. Thinking there has to be more to it, I open the bat file in a hex editor and sure enough, there was a bunch of hidden links which would have attempted to download a file called WinHelperKB. Does anyone know what the purpose of this file is? ",
+        "title": "FedEx Tracking?",
+        "score": 7,
+        "id": "81s40v",
+        "commsNum": 9,
+        "timeStamp": "2018/03/03-10:51:53",
+        "author_name": "Calgary_PI",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 9,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/81s40v/fedex_tracking/"
+    },
+    "posts": {}
+}

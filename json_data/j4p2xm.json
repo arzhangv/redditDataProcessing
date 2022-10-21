@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "So I downloaded uTorrent on my newly-restored PC today, and immediately it was flagged up by Windows Defender. It was then that I also met this 'PUA:Win32/Presenoker' fellow, and I naturally opted to remove it as it was an unknown, weird-sounding application.\n\nBut over the course of the day, Windows Defender kept popping up saying that this same application was a threat, and I needed to take action. Eventually there were 10+ of these on my action list, and each time I clicked 'remove,' more would pop up. Worryingly, some of the ones I removed came up as, 'status: failed,' and, 'this threat may not have been remediated.'\n\nI downloaded a free trial of Avast, Malwarebytes and the freewares rkill and Microsoft Safety Scanner. None of these could detect Win32/Presenoker, it was just Windows Defender. \n\nIn the meantime, I decided to uninstall uTorrent, too, but the uninstaller wouldn't come up at all! I downloaded Revo uninstaller but even that couldn't uninstall uTorrent. I even tried to reinstall uTorrent in the hopes that it would detect it's already installed and I would be given the option to uninstall but nothing happened.\n\nSo, without further ado, here is what I did.\n\nFirst off - if you can't uninstall uTorrent, it's likely that quarantining or removing Win32/Presenoker made the entire uTorrent folder, including the installer/uninstaller inaccessible to you. It also flags up uTorrent in general, which is why I couldn't reinstall. So, on a hunch, I disabled Windows Defender, which worked and I was able to reinstall uTorrent.\n\nOnce cleanly reinstalled, I was finally able to uninstall it. I then immediately re-enabled Windows Defender. I then used CC cleaner to clean up my registry.\n\nSo, as for Win32/Presenoker itself. Microsoft has actually said that the 2004 update causes this issue with Windows Defender. It is currently detecting its own logs of *previously* removed threats, and tells the user it is an active threat. You can read about this here: [https://answers.microsoft.com/en-us/protect/forum/all/windows-defender-identifies-the-same-pup-as-a/63f17794-3815-4784-b9cd-c6059c8e0828](https://answers.microsoft.com/en-us/protect/forum/all/windows-defender-identifies-the-same-pup-as-a/63f17794-3815-4784-b9cd-c6059c8e0828)\n\nI basically followed the instructions from that page.\n\nAfter doing one more round of clicking 'remove' on all the threats I was able to in my actions list, I went onto  **C:\\\\ProgramData\\\\Microsoft\\\\Windows Defender\\\\Scans\\\\History\\\\Service,** though  it will likely bar you from going into that folder initially as you need permission. I had to go to  **C:\\\\ProgramData\\\\Microsoft\\\\Windows Defender\\\\** first, then from there went on to \\\\Scans\\\\, and a pop-up asked me if I wanted access. I said yes, and from there I was able to go into \\\\History\\\\Service.\n\nThe article above tells you to delete just the 'Detection History' folder but I also deleted the two .txt files in that Service folder, emptying it completely.\n\nI restarted my PC and all seemed well, no threat warnings whatsoever. But I decided to do another full scan, just to be safe. And.... IT CAME UP AGAIN! \n\nI think I am one of the few this has happened to as a lot of people's problems end after deleting the service history, but if it does happen to you, here is the final thing I did.\n\nI clicked on 'details' on the threat, and I noticed the affected files were located in the 'temp' folder. So I went in there and I saw that the entirety of uTorrent was still in these temp folders! So I deleted all the temp folders and files dated today, when I installed uTorrent. You probably could just delete the temp folders that are indicated in the details section, but I wanted to be sure.\n\nIt will tell you exactly where to go under 'details' of that threat, but, for your reference, the path is: **C:\\\\Users\\\\\\[PCNAME\\]\\\\AppData\\\\Local\\\\Temp.**\n\nAfter that, I restarted, did another full scan and...... AT LAST! It was no longer detected by Windows Defender at all! Hurray! :)\n\nI really hope someone finds this useful. Feel free to message me if you have any questions. :)",
+        "title": "Ran into every problem trying to get rid of Win32/Presenoker but I managed to do it! (Windows Defender issue, Windows 10 latest build. 'Can't uninstall uTorrent' issue also resolved)",
+        "score": 1,
+        "id": "j4p2xm",
+        "commsNum": 4,
+        "timeStamp": "2020/10/03-16:33:31",
+        "author_name": "freshlybakedpoo",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/j4p2xm/ran_into_every_problem_trying_to_get_rid_of/"
+    },
+    "posts": {
+        "g7mbeea": {
+            "comment": "I mean it's a rule in the sidebar even. It's more of a post for /r/antivirus or /r/techsupport.",
+            "timeStamp": "2020/10/03-21:53:26",
+            "id": "g7mbeea",
+            "is_submitter": false,
+            "link_id": "t3_j4p2xm",
+            "parent_id": "t1_g7mawkj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DrinkMoreCodeMore"
+        },
+        "g7mawkj": {
+            "comment": "When did the post claim to be asking for help?",
+            "timeStamp": "2020/10/03-21:50:20",
+            "id": "g7mawkj",
+            "is_submitter": false,
+            "link_id": "t3_j4p2xm",
+            "parent_id": "t1_g7lz1qj",
+            "score": 0,
+            "stickied": false,
+            "author_name": "bruh-man0"
+        },
+        "g7lz1qj": {
+            "comment": "This is not a tech support sub",
+            "timeStamp": "2020/10/03-20:38:25",
+            "id": "g7lz1qj",
+            "is_submitter": false,
+            "link_id": "t3_j4p2xm",
+            "parent_id": "t3_j4p2xm",
+            "score": -2,
+            "stickied": false,
+            "author_name": "DrinkMoreCodeMore"
+        }
+    }
+}

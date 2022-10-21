@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[https://www.amazon.com/Learning-Malware-Analysis-techniques-investigate-ebook/dp/B073D49Q6W](https://www.amazon.com/Learning-Malware-Analysis-techniques-investigate-ebook/dp/B073D49Q6W)",
+        "title": "New Book Alert: Learning Malware Analysis: Explore the concepts, tools, and techniques to analyze and investigate Windows malware",
+        "score": 1,
+        "id": "a6g8m4",
+        "commsNum": 1,
+        "timeStamp": "2018/12/15-08:00:13",
+        "author_name": "vickiearse",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/a6g8m4/new_book_alert_learning_malware_analysis_explore/"
+    },
+    "posts": {
+        "ebumw3t": {
+            "comment": "Packt. No thanks. ",
+            "timeStamp": "2018/12/15-09:01:21",
+            "id": "ebumw3t",
+            "is_submitter": false,
+            "link_id": "t3_a6g8m4",
+            "parent_id": "t3_a6g8m4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "xelman"
+        }
+    }
+}

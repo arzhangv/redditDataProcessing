@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": " [https://www.virustotal.com/gui/file/61b4d6453622dc5b30a7684d8533a60bf51306467389b592398bd1c18abd3903/detection](https://www.virustotal.com/gui/file/61b4d6453622dc5b30a7684d8533a60bf51306467389b592398bd1c18abd3903/detection) \n\nI was checking out a game before extracting the Zip file and found the Worm.Bereb.i on it.\n\nWhat does this malware do? is this scan accurate?\n\nYou can find the Game here:\n\n&gt;! https://gitgud.io/pregmodfan/fc-pregmod !&lt;\n\n**NSFW**",
+        "title": "Worm.Bereb.i",
+        "score": 1,
+        "id": "j17xfj",
+        "commsNum": 1,
+        "timeStamp": "2020/09/28-00:55:00",
+        "author_name": "NutbarApple",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/j17xfj/wormberebi/"
+    },
+    "posts": {
+        "g6xzkha": {
+            "comment": "Doing a quick search, Bereb is an old worm that spreads peer-to-peer over a network.\n\nAs for the scan being accurate, that's hard to say. Doing a VirusTotal check is a proactive step on your part and it never hurts to take a look when downloading something from an entity you don't trust. That said it's definitely not the be all end all. Perfectly safe programs can throw up flags depending on how it was compiled (amongst other things), and malicious programs can return with few if any detections. For this reason, other things like context are important when considering if you're dealing with something malicious.\n\nAll that said, do I think it's malicious? Probably not. It's detecting a rather old worm from a single engine, and depending on how this program operates that engine could be confusing legitimate network activity with malicious activity. It would also be rather unusual for a malware author to be releasing a super low detection virus into a niche FOSS game like this.\n\nNow do I think you should run it? That's entirely up to you. I'm in no way advocating you run a piece of software or not. That all depends on how open to risk you feel.",
+            "timeStamp": "2020/09/28-04:57:09",
+            "id": "g6xzkha",
+            "is_submitter": false,
+            "link_id": "t3_j17xfj",
+            "parent_id": "t3_j17xfj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "muCephei"
+        }
+    }
+}

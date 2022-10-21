@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Looking into LocPOS Malware? Here is howto easily dump and auto-resolve its API calls.",
+        "score": 17,
+        "id": "99urtq",
+        "commsNum": 2,
+        "timeStamp": "2018/08/23-22:28:23",
+        "author_name": "ynvb",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://research.checkpoint.com/19558-2/"
+    },
+    "posts": {
+        "e4r16h0": {
+            "comment": "Glad you liked it!\nKeep following us (@_cpresearch_), the next parts will be released soon.",
+            "timeStamp": "2018/08/24-06:06:05",
+            "id": "e4r16h0",
+            "is_submitter": true,
+            "link_id": "t3_99urtq",
+            "parent_id": "t1_e4qzzpv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ynvb"
+        },
+        "e4qzzpv": {
+            "comment": "Awesome writeup, thanks u/ynvb",
+            "timeStamp": "2018/08/24-05:43:23",
+            "id": "e4qzzpv",
+            "is_submitter": false,
+            "link_id": "t3_99urtq",
+            "parent_id": "t3_99urtq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "edward_snowedin"
+        }
+    }
+}

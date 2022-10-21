@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[Here](http://www.theregister.co.uk/2016/03/29/petya_ransomware/) is a really high level write up, [here](http://blog.trendmicro.com/trendlabs-security-intelligence/petya-crypto-ransomware-overwrites-mbr-lock-users-computers/) is a lower-level write up, and [here](http://www.kernelmode.info/forum/viewtopic.php?f=16&amp;t=4293) is the Kernel Mode thread. Unfortunately it looks like the people over at Kernel Mode haven't done an exhaustive dive into it.",
+        "title": "Anybody have or know of a write up on Petya?",
+        "score": 4,
+        "id": "4cf0kg",
+        "commsNum": 6,
+        "timeStamp": "2016/03/29-04:27:01",
+        "author_name": "Pandemic21",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/4cf0kg/anybody_have_or_know_of_a_write_up_on_petya/"
+    },
+    "posts": {}
+}

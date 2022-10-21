@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Having fun with ELF files and GoLang",
+        "score": 6,
+        "id": "36ilr6",
+        "commsNum": 4,
+        "timeStamp": "2015/05/19-10:37:30",
+        "author_name": "guitmz",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://vx.thomazi.me/posts/having-fun-with-elf-files-and-golang/"
+    },
+    "posts": {}
+}

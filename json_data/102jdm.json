@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi,\n\nI came across this bash script that will download malware samples from cleanmx.\n\n[](http://www.offensivecomputing.net/?q=node/1870)\n\n    rootdir=\"/usr/share/malware\"\n    day=`date +%Y%m%d`\n    \n    url=`echo \"wget -qO - http://lists.clean-mx.com/pipermail/viruswatch/$day/thread.html |\\\n    awk '/\\[Virus/'|tail -n 1|sed 's:\\\": :g' |\\\n    awk '{print \\\"http://lists.clean-mx.com/pipermail/viruswatch/$day/\\\"$3}'\"|sh`\n    \n    filename=`wget -qO - http://lists.clean-mx.com/pipermail/viruswatch/$day/thread.html |\\\n    awk '/\\[Virus/'|tail -n 1|sed 's:\": :g' |awk '{print $3}'`\n    \n    links -dump $url$filename | awk '/Up/'|grep \"TR\\|exe\" | awk '{print $2,$8,$10,$11,$12\"\\n\"}' &gt; $rootdir/$filename\n    \n    dirname=`wget -qO - http://lists.clean-mx.com/pipermail/viruswatch/$day/thread.html |\\\n    awk '/\\[Virus/'|tail -n 1|sed 's:\": :g' |awk '{print $3}'|sed 's:.html::g'`\n    \n    rm -rf $rootdir/$dirname\n    mkdir $rootdir/$dirname\n    \n    cd $rootdir\n    \n    grep \"exe$\" $filename |awk '{print \"wget \\\"\"$5\"\\\"\"}' | sh \n    ls *.exe | xargs md5 &gt;&gt; checksums\n    mv *.exe $dirname\n    \n    rm -r $rootdir/*exe*\n    mv checksums $rootdir/$dirname\n    mv $filename $rootdir/$dirname\n\nUnfortunately i am not able to get it to work. I should also mention that I am not very good with Linux. Would appreciate if anyone could help me out with this..\n\nEdit: I am able to get it to work sometimes, without changing anything, and sometimes it doesn't work. Not able to figure out why it is so temperamental,\n\nEdit2: Figured out the problem. Timezone. Issue fixed and the script is working as it should.",
+        "title": "Need help with Bash",
+        "score": 5,
+        "id": "102jdm",
+        "commsNum": 5,
+        "timeStamp": "2012/09/18-00:56:00",
+        "author_name": "suniljoseph",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/102jdm/need_help_with_bash/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Days ago I faced a pop up that tried to force install fake firefox addon under the false pretense that it is an update. It used a domain like flrefox.win gooqle.win and most recently qooqle.download. All reported and suspended. But can the experts in this sub please analyze what the js scripts is trying to do to the victim?\n\nI extracted the temporary xpi file into a folder and the most important file are two js scripts. I uploaded them here for your consideration: https://bpa.st/WUQA",
+        "title": "A malware written in javascript. Please inspect it.",
+        "score": 1,
+        "id": "r72m0m",
+        "commsNum": 5,
+        "timeStamp": "2021/12/02-00:14:23",
+        "author_name": "Ammar__",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/r72m0m/a_malware_written_in_javascript_please_inspect_it/"
+    },
+    "posts": {
+        "hntwhwp": {
+            "comment": "[removed]",
+            "timeStamp": "2021/12/09-00:23:04",
+            "id": "hntwhwp",
+            "is_submitter": false,
+            "link_id": "t3_r72m0m",
+            "parent_id": "t3_r72m0m",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hn3vr7g": {
+            "comment": "Maybe there is another script or exploit that grabs the file. Separating the functions might make it less likely for AVs to pick it up.",
+            "timeStamp": "2021/12/03-11:54:33",
+            "id": "hn3vr7g",
+            "is_submitter": false,
+            "link_id": "t3_r72m0m",
+            "parent_id": "t1_hmx5hza",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Foreign_Addendum"
+        },
+        "hmx5hza": {
+            "comment": "I'm back, did some quick analysis even if I don't know much of js. Honestly, the script itself doesn't make any sense, maybe it needs some external help to work.\nWhat I understand is that it steals cookies from every tab you open and then saves them as a JSON, but it doesn't seem to send that JSON anywhere, so I don't understand what is its purpose.\n\nHopefully, someone else will help and give this a look. Be safe!",
+            "timeStamp": "2021/12/02-03:38:16",
+            "id": "hmx5hza",
+            "is_submitter": false,
+            "link_id": "t3_r72m0m",
+            "parent_id": "t1_hmx1u3k",
+            "score": 2,
+            "stickied": false,
+            "author_name": "mattiaricciard"
+        },
+        "hmx4yrf": {
+            "comment": "Not in hurry at all. Thank you for considering to help. Whenever they pop up I report the new domain to namecheap. So I hope people are safe for now.",
+            "timeStamp": "2021/12/02-03:31:39",
+            "id": "hmx4yrf",
+            "is_submitter": true,
+            "link_id": "t3_r72m0m",
+            "parent_id": "t1_hmx1u3k",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Ammar__"
+        },
+        "hmx1u3k": {
+            "comment": "If you're not in a hurry I'll analyze it in some time!",
+            "timeStamp": "2021/12/02-02:50:31",
+            "id": "hmx1u3k",
+            "is_submitter": false,
+            "link_id": "t3_r72m0m",
+            "parent_id": "t3_r72m0m",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mattiaricciard"
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I'm so worried, is this a virus, I've never gotten a notification from ibb.co, also i use android.\n\nI have the adblocker app and i use that for google stuff. What should I do????",
+        "title": "I just got an ibb.co notification, it's some random ad",
+        "score": 1,
+        "id": "vywuu5",
+        "commsNum": 0,
+        "timeStamp": "2022/07/14-07:12:23",
+        "author_name": "Xelinigrad",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/vywuu5/i_just_got_an_ibbco_notification_its_some_random/"
+    },
+    "posts": {
+        "ig9cmpv": {
+            "comment": "Did you accidently click \"Allow\" when Chrome mobile asked you if you want to allow push notifications from that website?",
+            "timeStamp": "2022/07/15-06:07:51",
+            "id": "ig9cmpv",
+            "is_submitter": false,
+            "link_id": "t3_vywuu5",
+            "parent_id": "t3_vywuu5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ImproperEatenKitKat"
+        },
+        "ig4txhd": {
+            "comment": "Download an antivirus in your phone and scan it.",
+            "timeStamp": "2022/07/14-07:48:46",
+            "id": "ig4txhd",
+            "is_submitter": false,
+            "link_id": "t3_vywuu5",
+            "parent_id": "t3_vywuu5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "GoodGooseThingit"
+        }
+    }
+}

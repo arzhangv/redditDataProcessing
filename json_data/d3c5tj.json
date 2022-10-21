@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi, there. I'm searching Chrome extensions with malicious and suspicious behavior. Have no access to private VT.  I would be grateful for any links to repositories or services. Thanks!",
+        "title": "Need chrome malware samples for research purposes",
+        "score": 3,
+        "id": "d3c5tj",
+        "commsNum": 4,
+        "timeStamp": "2019/09/12-11:29:33",
+        "author_name": "g0relics",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/d3c5tj/need_chrome_malware_samples_for_research_purposes/"
+    },
+    "posts": {
+        "f03i4aa": {
+            "comment": "I'll check, thx",
+            "timeStamp": "2019/09/12-23:27:44",
+            "id": "f03i4aa",
+            "is_submitter": true,
+            "link_id": "t3_d3c5tj",
+            "parent_id": "t1_f02cu6b",
+            "score": 1,
+            "stickied": false,
+            "author_name": "g0relics"
+        },
+        "f02cu6b": {
+            "comment": "Try a YouTube extension that changes the site to add download, dark mode etc, can't remember the name but there were lots of maleware versions of it around.",
+            "timeStamp": "2019/09/12-15:39:57",
+            "id": "f02cu6b",
+            "is_submitter": false,
+            "link_id": "t3_d3c5tj",
+            "parent_id": "t3_d3c5tj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Tony1697"
+        },
+        "f01wjpq": {
+            "comment": "My goal to build cli extension analyzer, like [Tarnish](https://github.com/mandatoryprogrammer/tarnish) or [CRXcavator](https://crxcavator.io/) but improve static code analysis. I need any kind of samples. Currently I've download several k extensions from webstore using  [Chrome Extensions Archive](https://github.com/mdamien/chrome-extensions-archive) tools, to make some initial functionality.",
+            "timeStamp": "2019/09/12-13:24:24",
+            "id": "f01wjpq",
+            "is_submitter": true,
+            "link_id": "t3_d3c5tj",
+            "parent_id": "t1_f01kosp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "g0relics"
+        },
+        "f01kosp": {
+            "comment": "if you have a specific strain, I may be able to help but I don't know any specific strains off hand",
+            "timeStamp": "2019/09/12-12:16:16",
+            "id": "f01kosp",
+            "is_submitter": false,
+            "link_id": "t3_d3c5tj",
+            "parent_id": "t3_d3c5tj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "trobotham"
+        }
+    }
+}

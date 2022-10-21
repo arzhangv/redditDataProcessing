@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "New Lastline Report Finds that 90 Percent of Malware it Analyzes is Given Generic, Unhelpful Labels by AV Tools, Among Additional Actionable Malware Insights",
+        "score": 4,
+        "id": "d0dl7q",
+        "commsNum": 1,
+        "timeStamp": "2019/09/06-00:51:14",
+        "author_name": "Alexrider046",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.lastline.com/press/behavioral_intelligence_q42017_malscape_monitor/"
+    },
+    "posts": {
+        "ez9f07v": {
+            "comment": "**April 24, 2018........**",
+            "timeStamp": "2019/09/06-07:38:32",
+            "id": "ez9f07v",
+            "is_submitter": false,
+            "link_id": "t3_d0dl7q",
+            "parent_id": "t3_d0dl7q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "nightmareuki"
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "InstallCapital - When AdWare Becomes Pay-per-Install Cyber-Crime.",
+        "score": 1,
+        "id": "f0b34n",
+        "commsNum": 1,
+        "timeStamp": "2020/02/07-06:19:12",
+        "author_name": "benkow_",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://medium.com/csis-techblog/installcapital-when-adware-becomes-pay-per-install-cyber-crime-15516249a451"
+    },
+    "posts": {
+        "i833syp": {
+            "comment": "[removed]",
+            "timeStamp": "2022/05/10-11:59:36",
+            "id": "i833syp",
+            "is_submitter": false,
+            "link_id": "t3_f0b34n",
+            "parent_id": "t3_f0b34n",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fgt9omm": {
+            "comment": "Such a really good writeup!\n\nThose PPI guys are clocking some serious $ numbers.",
+            "timeStamp": "2020/02/07-10:50:32",
+            "id": "fgt9omm",
+            "is_submitter": false,
+            "link_id": "t3_f0b34n",
+            "parent_id": "t3_f0b34n",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DrinkMoreCodeMore"
+        }
+    }
+}

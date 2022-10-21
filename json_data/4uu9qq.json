@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I stumbled upon an interesting article that stated something about a TeslaCrypt master key made public. I know this is an relatively old topic, but I am wondering how this master key works.\n\nAs far as I know, ransomware (at least the recent variants) encrypt files using AES and then encrypts the AES key with RSA. \n\nCan someone explain me how the decryption using the master key works or point me to some relevant articles/books that address this issue?\n\nThanks!",
+        "title": "TeslaCrypt master key",
+        "score": 12,
+        "id": "4uu9qq",
+        "commsNum": 4,
+        "timeStamp": "2016/07/27-05:08:26",
+        "author_name": "i_like_trains_a_lot1",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/4uu9qq/teslacrypt_master_key/"
+    },
+    "posts": {}
+}

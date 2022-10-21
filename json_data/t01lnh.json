@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "AP News: Ukraine hit by more cyberattacks, destructive malware",
+        "score": 1,
+        "id": "t01lnh",
+        "commsNum": 1,
+        "timeStamp": "2022/02/23-20:20:06",
+        "author_name": "Motor-Ad-8858",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://apnews.com/article/russia-ukraine-technology-business-europe-russia-9e9f9e9b52eaf53cf9d8ade0588b661b"
+    },
+    "posts": {
+        "hynzzwh": {
+            "comment": "[removed]",
+            "timeStamp": "2022/02/27-09:24:10",
+            "id": "hynzzwh",
+            "is_submitter": false,
+            "link_id": "t3_t01lnh",
+            "parent_id": "t3_t01lnh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

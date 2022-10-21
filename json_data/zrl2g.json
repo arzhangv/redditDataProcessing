@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Analysisi of W32.Tinba (Tinybanker) [PDF]",
+        "score": 1,
+        "id": "zrl2g",
+        "commsNum": 0,
+        "timeStamp": "2012/09/12-07:09:10",
+        "author_name": "[deleted]",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.csis.dk/downloads/Tinba_White_Paper.pdf"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Comprehensive malware research can be a difficult task. Before reversing and constructing the timeline, the reverser needs a significant set of samples of the malware from multiple stages of its development",
+        "score": 2,
+        "id": "471c1s",
+        "commsNum": 0,
+        "timeStamp": "2016/02/22-07:37:04",
+        "author_name": "Deeganwa_Eden5",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://blog.cylance.com/hunting-for-malware-with-machine-learning"
+    },
+    "posts": {}
+}

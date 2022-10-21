@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Quimitchin, a Mac backdoor that includes antiquated code",
+        "score": 1,
+        "id": "5ov51k",
+        "commsNum": 0,
+        "timeStamp": "2017/01/18-22:50:16",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/55447/malware/quimitchin-spyware.html"
+    },
+    "posts": {}
+}

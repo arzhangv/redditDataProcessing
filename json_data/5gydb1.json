@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Detecting Malware Pre-execution with Static Analysis and Machine Learning",
+        "score": 18,
+        "id": "5gydb1",
+        "commsNum": 3,
+        "timeStamp": "2016/12/06-22:17:23",
+        "author_name": "secaggr",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://sentinelone.com/blogs/detecting-malware-pre-execution-static-analysis-machine-learning/"
+    },
+    "posts": {}
+}

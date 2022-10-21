@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I created a mind map of some ideas on how to reduce the amount of malware infections.  A few ideas were my own.  It's not complete so if you want to contribute, I'll update the mind map.\n\n[Mind Map of Malware Mitigations](https://atlas.mindmup.com/kinstonian/cybersecurity/index.html)\n\nYou can use the [SCAMPER technique](https://www.youtube.com/watch?v=ToRl9dp0MXA), along with my mind map to create your own ideas.  Maybe together we can come up with something new and I'll keep the mind map updated.",
+        "title": "Mind Map of Malware Mitigations",
+        "score": 1,
+        "id": "v4vc7a",
+        "commsNum": 0,
+        "timeStamp": "2022/06/04-11:53:52",
+        "author_name": "greyyit",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/v4vc7a/mind_map_of_malware_mitigations/"
+    },
+    "posts": {
+        "ibe5442": {
+            "comment": "[removed]",
+            "timeStamp": "2022/06/06-11:01:49",
+            "id": "ibe5442",
+            "is_submitter": false,
+            "link_id": "t3_v4vc7a",
+            "parent_id": "t1_ib7k69e",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ib7ofvo": {
+            "comment": "Here's the more malware focused version of the \\[Mind Map\\]([https://atlas.mindmup.com/kinstonian/malware\\_mitigations/index.html](https://atlas.mindmup.com/kinstonian/malware_mitigations/index.html)) for those who want it.",
+            "timeStamp": "2022/06/04-20:00:10",
+            "id": "ib7ofvo",
+            "is_submitter": true,
+            "link_id": "t3_v4vc7a",
+            "parent_id": "t1_ib7k69e",
+            "score": 1,
+            "stickied": false,
+            "author_name": "greyyit"
+        },
+        "ib7k69e": {
+            "comment": "You're right, there's a lot of overlap with malware, but this mind map could still be more focused.  I'll see what I can do and link to a more focused one.\n\nThanks for your suggestion!",
+            "timeStamp": "2022/06/04-19:18:47",
+            "id": "ib7k69e",
+            "is_submitter": true,
+            "link_id": "t3_v4vc7a",
+            "parent_id": "t1_ib7ib8b",
+            "score": 1,
+            "stickied": false,
+            "author_name": "greyyit"
+        },
+        "ib7ib8b": {
+            "comment": "Is this really malware mitigations? Seems like a map of info sec in general. Best mitigations imo is application whitelisting and disabling wscript association to js vbs etc. phishing is unconquerable",
+            "timeStamp": "2022/06/04-19:00:53",
+            "id": "ib7ib8b",
+            "is_submitter": false,
+            "link_id": "t3_v4vc7a",
+            "parent_id": "t3_v4vc7a",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Sweaty_Ad_1332"
+        }
+    }
+}

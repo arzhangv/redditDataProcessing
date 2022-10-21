@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Basically the title. Its published in 2012, does it still keep up? ",
+        "title": "Does practical malware analysis book still keep up?",
+        "score": 14,
+        "id": "84dwxg",
+        "commsNum": 12,
+        "timeStamp": "2018/03/14-07:45:34",
+        "author_name": "singed1337",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 12,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/84dwxg/does_practical_malware_analysis_book_still_keep_up/"
+    },
+    "posts": {
+        "e2tmdkm": {
+            "comment": "[removed]",
+            "timeStamp": "2018/07/22-00:59:07",
+            "id": "e2tmdkm",
+            "is_submitter": false,
+            "link_id": "t3_84dwxg",
+            "parent_id": "t3_84dwxg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

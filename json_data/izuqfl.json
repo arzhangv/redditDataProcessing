@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Mount Locker Stealing Files, Encrypting &amp; Demanding Ransom",
+        "score": 1,
+        "id": "izuqfl",
+        "commsNum": 3,
+        "timeStamp": "2020/09/25-16:37:07",
+        "author_name": "micheal015",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.bleepingcomputer.com/news/security/mount-locker-ransomware-joins-the-multi-million-dollar-ransom-game/"
+    },
+    "posts": {
+        "g6pgx01": {
+            "comment": "With crypto, it's fairly easy. Split it up into chunks and send it to Bitcoin washing services, for extra you could then get it exchanged for monero and it's basically gone at that point.",
+            "timeStamp": "2020/09/26-11:38:57",
+            "id": "g6pgx01",
+            "is_submitter": false,
+            "link_id": "t3_izuqfl",
+            "parent_id": "t1_g6ore5p",
+            "score": 1,
+            "stickied": false,
+            "author_name": "The_White_Light"
+        },
+        "g6p4989": {
+            "comment": "From what I've seen, any major bank is happy to help for a fee.  Hit up JP Morgan.",
+            "timeStamp": "2020/09/26-09:36:27",
+            "id": "g6p4989",
+            "is_submitter": false,
+            "link_id": "t3_izuqfl",
+            "parent_id": "t1_g6ore5p",
+            "score": 1,
+            "stickied": false,
+            "author_name": "KingstonBailey"
+        },
+        "g6ore5p": {
+            "comment": "How the fuck can they even launder 2M $ ransoms ?",
+            "timeStamp": "2020/09/26-07:42:46",
+            "id": "g6ore5p",
+            "is_submitter": false,
+            "link_id": "t3_izuqfl",
+            "parent_id": "t3_izuqfl",
+            "score": 1,
+            "stickied": false,
+            "author_name": "BaGamman"
+        }
+    }
+}

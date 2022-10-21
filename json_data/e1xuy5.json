@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Thousands of QNAP NAS devices infected by QSnatch credential stealing malware - CSO",
+        "score": 1,
+        "id": "e1xuy5",
+        "commsNum": 0,
+        "timeStamp": "2019/11/26-05:20:30",
+        "author_name": "radfordfeinstein",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.cso.com.au/article/668125/thousands-qnap-nas-devices-infected-by-qsnatch-credential-stealing-malware/"
+    },
+    "posts": {}
+}

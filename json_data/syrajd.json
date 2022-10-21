@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Xenomorph - how smoothly it creates malicious overlay once targeted app is launched by user",
+        "score": 1,
+        "id": "syrajd",
+        "commsNum": 5,
+        "timeStamp": "2022/02/22-08:12:35",
+        "author_name": "barakadua131",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://youtu.be/7-yT65lVBf8"
+    },
+    "posts": {
+        "hyctacf": {
+            "comment": "Xenomorph looks there so sad because of this, I feel bad for him now \ud83d\ude22",
+            "timeStamp": "2022/02/24-23:50:06",
+            "id": "hyctacf",
+            "is_submitter": true,
+            "link_id": "t3_syrajd",
+            "parent_id": "t1_hycm8os",
+            "score": 1,
+            "stickied": false,
+            "author_name": "barakadua131"
+        },
+        "hycm8os": {
+            "comment": "Just for fun, check out the \"bonus\" Xenomorph news in this article, and don't miss the redic image! https://www.cybertalk.org/2022/02/22/new-xenomorph-malware-affects-customers-of-56-banks/",
+            "timeStamp": "2022/02/24-22:27:12",
+            "id": "hycm8os",
+            "is_submitter": false,
+            "link_id": "t3_syrajd",
+            "parent_id": "t3_syrajd",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Admirable_Baker"
+        },
+        "hy3k39m": {
+            "comment": "Link to report is also mentioned with kudos in the video description \u270c\ud83d\udcaa",
+            "timeStamp": "2022/02/23-05:43:40",
+            "id": "hy3k39m",
+            "is_submitter": true,
+            "link_id": "t3_syrajd",
+            "parent_id": "t1_hy3b3ef",
+            "score": 1,
+            "stickied": false,
+            "author_name": "barakadua131"
+        },
+        "hy3b3ef": {
+            "comment": "report: https://www.threatfabric.com/blogs/xenomorph-a-newly-hatched-banking-trojan.html",
+            "timeStamp": "2022/02/23-04:19:43",
+            "id": "hy3b3ef",
+            "is_submitter": false,
+            "link_id": "t3_syrajd",
+            "parent_id": "t3_syrajd",
+            "score": 3,
+            "stickied": false,
+            "author_name": "YioUio"
+        },
+        "hy3015s": {
+            "comment": "[removed]",
+            "timeStamp": "2022/02/23-01:58:02",
+            "id": "hy3015s",
+            "is_submitter": false,
+            "link_id": "t3_syrajd",
+            "parent_id": "t3_syrajd",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

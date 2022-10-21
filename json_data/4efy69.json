@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Rokku Ransomware shows possible link with Chimera",
+        "score": 7,
+        "id": "4efy69",
+        "commsNum": 0,
+        "timeStamp": "2016/04/12-05:54:42",
+        "author_name": "sh3dow",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://blog.malwarebytes.org/threat-analysis/2016/04/rokku-ransomware/"
+    },
+    "posts": {}
+}

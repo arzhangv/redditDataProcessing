@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "[https://github.com/Jaysmito101/Malwares/blob/main/SimpleKeylogger/keylogger.c](https://github.com/Jaysmito101/Malwares/blob/main/SimpleKeylogger/keylogger.c)\n\n&amp;#x200B;\n\nHere is the source i am not linking any binary.",
+        "title": "I tried making a small keylogger in c to try to analyse it. Any thoughts?",
+        "score": 1,
+        "id": "qv6xts",
+        "commsNum": 3,
+        "timeStamp": "2021/11/16-04:41:58",
+        "author_name": "Beginning-Safe4282",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/qv6xts/i_tried_making_a_small_keylogger_in_c_to_try_to/"
+    },
+    "posts": {
+        "hmeep8r": {
+            "comment": "[removed]",
+            "timeStamp": "2021/11/28-05:50:48",
+            "id": "hmeep8r",
+            "is_submitter": false,
+            "link_id": "t3_qv6xts",
+            "parent_id": "t3_qv6xts",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hkv5z44": {
+            "comment": "Just some suggestions....\n\n* In get\\_timestamp() lines 34 - 51.  You do the same 3 operations a bunch of times with just the variable being different.  Make that a function, pass the variable you want to the function.\n* In get\\_timestamp() lines 25-30.  You already have a struct (lt), why would you break that out into variables?  Use the struct for what it's meant for.  Don't waste memory by mallocing more variables.\n* create\\_file().  Your signature is easily...signaturable?  It'd take a whole 30 seconds to create a YARA rule to detect it.  Try using some kind of obfuscation technique with a rolling key.\n* persist() and save\\_logs() Just make all the string concats one line.\n* Same advice for mouse\\_hook() and keyboard\\_hook() as above.  Use the struct, make smaller functions out of repeating logic.",
+            "timeStamp": "2021/11/16-07:52:32",
+            "id": "hkv5z44",
+            "is_submitter": false,
+            "link_id": "t3_qv6xts",
+            "parent_id": "t3_qv6xts",
+            "score": 6,
+            "stickied": false,
+            "author_name": "TParis00ap"
+        },
+        "hkuhqwi": {
+            "comment": "[removed]",
+            "timeStamp": "2021/11/16-04:42:13",
+            "id": "hkuhqwi",
+            "is_submitter": false,
+            "link_id": "t3_qv6xts",
+            "parent_id": "t3_qv6xts",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I've been set the task to create a report for the various versions of Tescrypt.\n\nIn particular Ransom:HTML/Tescrypt.D, Ransom:HTML/Tescrypt.E and Ransom:HTML/Tescrypt.C\n\nI need to find out the common ways of infection, what it does on the device once executed and in addition to all that the best way to prevent such attacks.\n\nAny good resources for not just this type of malware but anything else will be great.\n\nThanks in advance",
+        "title": "Best way to create a report for Tescrypt?",
+        "score": 6,
+        "id": "4ew4tv",
+        "commsNum": 2,
+        "timeStamp": "2016/04/15-03:37:18",
+        "author_name": "MikeHunt99",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/4ew4tv/best_way_to_create_a_report_for_tescrypt/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I'm wishing to perform some individual analysis of this family of malware in PseudoCode and IDA Pro. Anyone know of a good resource for pulling a sample? I've looked on Contagio and Malware Channel, but no hits.\n\nThanks.",
+        "title": "Wipall / DESTOVER",
+        "score": 5,
+        "id": "2p3xoa",
+        "commsNum": 1,
+        "timeStamp": "2014/12/12-12:15:30",
+        "author_name": "pkelley_hyp",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2p3xoa/wipall_destover/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,110 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Perhaps to capture packets or something? I'm not really sure on they why part, but curious if its ever been seen. I hear about malware changing router dns settings, has there been any malware that changes the firmware at all?\n\n",
+        "title": "Has there ever been any malware in the wild that tried to change your routers firmware?",
+        "score": 9,
+        "id": "6rqfrw",
+        "commsNum": 8,
+        "timeStamp": "2017/08/05-00:01:06",
+        "author_name": "Kurt2121",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 8,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6rqfrw/has_there_ever_been_any_malware_in_the_wild_that/"
+    },
+    "posts": {
+        "dlbtu5h": {
+            "comment": "Hey Kurt,\n\n\nI leave for work in 30 minutes. I'm also on mobile again.\n\n\nAnyway, I had a chance just now to review some literature on this subject. First it should be noted that this is an incredibly niche subject. It isn't discussed very often and when it is it is typically censored in one way or another. [Michael Lynn 2005 Cisco IOS Shellcode].\n\n\nTargeting a network device would be an interesting concept but may lack necessary components. Depending on the documented (or undocumented) API of the device it may be incredibly difficult to achieve your end goal without some trickery. It isn't uncommon for network devices to have limited hardware resources. An example of this is that (if I recall correctly) heap usage is limited and in some instances you are not allowed to create additional threads.\n\n\nMy initial thoughts are: Where is your entry point (how do you execute your malware on the network device); What is your end goal? Is the API available / documented well enough to achieve this?\n\n\nIt appears reverse engineers have done a great job reverse engineering some of the internal structures of Cisco devices though. It appears modifying system configuration is all stored in memory hence any modification requires an API call to \"cold-start\". Newer Cisco devices have implemented features though- in memory configurations may be read only so the attacker must first programmatically determine R/W/X attributes and modify them accordingly then make an further changes.\n\n\nI'm only referencing a small segment by the way from the Shellcoders Handbook. Check it out when you can.",
+            "timeStamp": "2017/08/08-06:15:24",
+            "id": "dlbtu5h",
+            "is_submitter": false,
+            "link_id": "t3_6rqfrw",
+            "parent_id": "t3_6rqfrw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "dwThread"
+        },
+        "dl82ogz": {
+            "comment": "THE CIA?",
+            "timeStamp": "2017/08/05-18:37:26",
+            "id": "dl82ogz",
+            "is_submitter": false,
+            "link_id": "t3_6rqfrw",
+            "parent_id": "t3_6rqfrw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ruskeeblue"
+        },
+        "dl7mlrn": {
+            "comment": "Could you explain a bit? What firmware did you have and what was it changed to? Do you remember what the infection was?",
+            "timeStamp": "2017/08/05-12:10:42",
+            "id": "dl7mlrn",
+            "is_submitter": true,
+            "link_id": "t3_6rqfrw",
+            "parent_id": "t1_dl7jbtf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Kurt2121"
+        },
+        "dl7ktue": {
+            "comment": "I've heard of them, but they infect PC's on your network first, and then compromise the router.  Nothing as complex as ddwrt.  Usually just torrent redirects and botnet creation.",
+            "timeStamp": "2017/08/05-11:30:20",
+            "id": "dl7ktue",
+            "is_submitter": false,
+            "link_id": "t3_6rqfrw",
+            "parent_id": "t1_dl7frs1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "LeakySkylight"
+        },
+        "dl7jbtf": {
+            "comment": "[deleted]",
+            "timeStamp": "2017/08/05-10:56:57",
+            "id": "dl7jbtf",
+            "is_submitter": false,
+            "link_id": "t3_6rqfrw",
+            "parent_id": "t3_6rqfrw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "dl7g7ep": {
+            "comment": "Would reflashing the router get rid of it? Or is it persistent? Would it just be better to get a new router or would the ISP be to stupid to check if their routers are already compromised?",
+            "timeStamp": "2017/08/05-09:49:04",
+            "id": "dl7g7ep",
+            "is_submitter": false,
+            "link_id": "t3_6rqfrw",
+            "parent_id": "t3_6rqfrw",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Squidassassin7"
+        },
+        "dl7frs1": {
+            "comment": "DNS changers were the only ones I ever heard of. What about malware that tries to add functionality to the router, maybe changing firmware to DD-WRT or something? \n\nOr maybe not even flashing the entire OS, would there have been any cases of malware that would just add the ability for your router to assign a proxy, for example? Then they could filter all packets through them?",
+            "timeStamp": "2017/08/05-09:39:39",
+            "id": "dl7frs1",
+            "is_submitter": true,
+            "link_id": "t3_6rqfrw",
+            "parent_id": "t1_dl72fo7",
+            "score": 3,
+            "stickied": false,
+            "author_name": "Kurt2121"
+        },
+        "dl72fo7": {
+            "comment": "Yes.  Usually they mess with the router DNS entries and redirect users to malware sites.  Sometimes they also spread to all the PCs on the network, and after you reflash your router, re-infect as soon as your PC connects back.\n\nNot sure of names, but they are 6-8 years old already.\n\nRouters are pretty easy to hack.",
+            "timeStamp": "2017/08/05-02:21:18",
+            "id": "dl72fo7",
+            "is_submitter": false,
+            "link_id": "t3_6rqfrw",
+            "parent_id": "t3_6rqfrw",
+            "score": 12,
+            "stickied": false,
+            "author_name": "LeakySkylight"
+        }
+    }
+}

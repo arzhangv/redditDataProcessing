@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "**TL;DR** How do I permanently get rid of this and ensure no trace remains?\n\nMy rig:  \n* Windows 7 Home 64-bit  \n* Avast! antivirus  \n* Chrome v35.0  \n* Self-made PC in 2012  \n\nI noticed this Chrome extension in my browser, and definitely did not install it intentionally. So I removed it in Chrome, a few instances of web browsing later, it reinstalled itself!  \n\nAfter some googling, it seems that you must uninstall it like a program. So I did the usual Control Panel &gt; Uninstall - nowhere was either \"\u03bcTorrentControl\" or \"Conduit\" to be found. I checked with Revo Uninstaller (great freeware btw), still nothing found. Ran full system scan with Avast! Nothing found.\n\nAfter uninstalling the extension in Chrome, I will open the browser a few instances later and receive this Avast! popup (from the software on my machine): [screen shot](http://i.imgur.com/lHQWccu.jpg)\n\nInteresting that the title is in some Europeon language (Polish? idk) but this is probably just because avast is developed by primarily non-English speakers. Not a concern, I believe.\n\nAdditional info:  \n* I use \u03bcTorrent and will continue to. I am smart with my downloads (99% of the time) and \u03bcTorrent is a great client  \n* Each time I uninstall the extension, and it reinstalls itself (along with receiving this antivirus prompt) the malicious extension renders useless the extension \"DoNotTrackMe: Online Privacy Protection\"  \n* Reinstalling DoNotTrackMe makes it work again, but this will be reset 2-3 Chrome restarts from now when the malicious extension is reinstalled  \n\nOptions I have not yet tried (and hopefully won't have to):  \n* Reinstalling Chrome entirely (wouldn't want to lose the bookmarks, settings, other extensions I have)  \n* Reinstalling \u03bcTorrent (not so bad, just haven't done it yet - also not even sure it's related despite the name of the extension)  \n* Using Internet Explorer (ok, that one's a joke XD)",
+        "title": "\u03bcTorrentControl_v6 - Chrome Extension that WILL NOT go away!",
+        "score": 0,
+        "id": "271uod",
+        "commsNum": 4,
+        "timeStamp": "2014/06/01-12:40:37",
+        "author_name": "BeTripleG",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/271uod/\u03bctorrentcontrol_v6_chrome_extension_that_will_not/"
+    },
+    "posts": {}
+}

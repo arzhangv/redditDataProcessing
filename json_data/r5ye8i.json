@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "hi i installed userbenchmark and did the bench and stuff later I got some stuff for my PC and I wanted to look if my PC has gotten better or worse from it so I installed it again and I check it and I saw this I I don't know what to do im I good or im I in danger pls help \n\nhttps://preview.redd.it/s8utqgq50t281.png?width=1608&amp;format=png&amp;auto=webp&amp;s=b23f8f7f824f8d8cfac0621a5c9ec6b87ee9fe88",
+        "title": "userbenchmark",
+        "score": 1,
+        "id": "r5ye8i",
+        "commsNum": 2,
+        "timeStamp": "2021/11/30-13:49:41",
+        "author_name": "lclawm",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/r5ye8i/userbenchmark/"
+    },
+    "posts": {
+        "hmpuols": {
+            "comment": "Oki thx",
+            "timeStamp": "2021/11/30-14:05:38",
+            "id": "hmpuols",
+            "is_submitter": false,
+            "link_id": "t3_r5ye8i",
+            "parent_id": "t3_r5ye8i",
+            "score": 1,
+            "stickied": false,
+            "author_name": "lclawm"
+        },
+        "hmpujsg": {
+            "comment": "Just a heads up, this isn't the right subreddit for this type of question.  From the sidebar:\n\n&gt; A place for malware reports and information. This is NOT a place for help with malware removal or various other end-user questions.\n\n&gt; Please redirect questions related to malware removal to /r/antivirus or /r/techsupport.",
+            "timeStamp": "2021/11/30-14:04:43",
+            "id": "hmpujsg",
+            "is_submitter": false,
+            "link_id": "t3_r5ye8i",
+            "parent_id": "t3_r5ye8i",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Browsing_From_Work"
+        }
+    }
+}

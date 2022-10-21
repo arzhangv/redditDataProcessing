@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Malware samples that uses memory based DLL injection?",
+        "score": 10,
+        "id": "8jjt0z",
+        "commsNum": 1,
+        "timeStamp": "2018/05/15-00:45:38",
+        "author_name": "Waffles2g",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8jjt0z/malware_samples_that_uses_memory_based_dll/"
+    },
+    "posts": {
+        "dz0r4bw": {
+            "comment": "Zeus, Shylock, Gozi and probably Tilon have DLL variants",
+            "timeStamp": "2018/05/15-08:50:16",
+            "id": "dz0r4bw",
+            "is_submitter": false,
+            "link_id": "t3_8jjt0z",
+            "parent_id": "t3_8jjt0z",
+            "score": 1,
+            "stickied": false,
+            "author_name": "tommib"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hey,\n\nI was looking through my Task Manager and I saw this gear symbol without any name running and I was a bit concerned, since it was using 5,3mb of my RAM, which isn't much, but the value wasn't changing, it just always stayed at 5,3. I opened it's file location and it showed me a file called svchost.exe in this trajectory: Program Files (x86) &gt; ASUS &gt; ASUS Business Manager &gt; DeviceLock. I tried to run a fast Windows Defender test on it which said it was safe, but then again this was a fast one. When I go into the properties of the running program and navigate to details, it states the copyright as Copyright 2014 and program description as Windows Services. Could this be malware or is it common for svchost.exe files to have no name in the Task Manager and have a stable RAM usage? Any way to find out whether it's legit or a virus?\n\nThanks in advance.",
+        "title": "svchost.exe",
+        "score": 1,
+        "id": "rn0wid",
+        "commsNum": 0,
+        "timeStamp": "2021/12/23-09:39:54",
+        "author_name": "HardoWan",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/rn0wid/svchostexe/"
+    },
+    "posts": {
+        "hppjd66": {
+            "comment": "It's a very legitimate process. Here's some additional information you can check out.\n\nhttps://www.howtogeek.com/howto/windows-vista/what-is-svchostexe-and-why-is-it-running/",
+            "timeStamp": "2021/12/23-10:06:32",
+            "id": "hppjd66",
+            "is_submitter": false,
+            "link_id": "t3_rn0wid",
+            "parent_id": "t3_rn0wid",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Osric250"
+        }
+    }
+}

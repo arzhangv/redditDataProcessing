@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "The anatomy of a Distributed Denial of Service Attack (DDoS) including details on Constructing Botnets, Conventional vs. IoT Botnets, Launching a DDoS Attack, and DDoS-as-a-Service",
+        "score": 5,
+        "id": "5gnjyb",
+        "commsNum": 0,
+        "timeStamp": "2016/12/05-10:31:52",
+        "author_name": "Millerr5Bentlee2_",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://icitech.org/icit-publication-the-rise-of-the-machines-the-dyn-attack-was-just-a-practice-run/"
+    },
+    "posts": {}
+}

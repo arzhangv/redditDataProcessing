@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Out of 7 powerpoints my teacher posted, 2 are detected as a virus. Is there a way to confirm if these files are really viruses?\n\nhttps://www.virustotal.com/gui/file/fa0b3ab556cd5b709978c89adeb43fef7ca74541cb9a91c5b6f0a26f8843fd02/detection\n\nhttps://www.virustotal.com/gui/file/077747e2b220b772b1a2dec351b9b872552a4f8c9119381d8c28a79f44f6a45e/detection",
+        "title": "2 powerpoints my teacher posted are detected as a virus",
+        "score": 1,
+        "id": "ie96qt",
+        "commsNum": 1,
+        "timeStamp": "2020/08/21-17:56:55",
+        "author_name": "blacklambo78",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ie96qt/2_powerpoints_my_teacher_posted_are_detected_as_a/"
+    },
+    "posts": {
+        "g2dxyjx": {
+            "comment": "They\u2019re probably not viruses.",
+            "timeStamp": "2020/08/21-18:05:54",
+            "id": "g2dxyjx",
+            "is_submitter": false,
+            "link_id": "t3_ie96qt",
+            "parent_id": "t3_ie96qt",
+            "score": 2,
+            "stickied": false,
+            "author_name": "bunby_heli"
+        }
+    }
+}

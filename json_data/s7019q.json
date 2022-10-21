@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Trojan Detected",
+        "score": 1,
+        "id": "s7019q",
+        "commsNum": 0,
+        "timeStamp": "2022/01/18-07:26:08",
+        "author_name": "KinPaladin",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://i.redd.it/7ib5la1gsgc81.png"
+    },
+    "posts": {}
+}

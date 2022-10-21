@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Extensive list of malware analysis tools and resources",
+        "score": 23,
+        "id": "360lyk",
+        "commsNum": 9,
+        "timeStamp": "2015/05/14-19:15:13",
+        "author_name": "rshipp42",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 9,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://github.com/rshipp/awesome-malware-analysis"
+    },
+    "posts": {}
+}

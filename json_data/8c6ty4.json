@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "im freaking out.I recieved a message from a hacked friend on messenger 2 days ago containing a link which i accidentally clicked on. i closed it and reset my phone. ive been extremely paranoid, checking CPU usage, virus scans, constasntly. i was paranoid so i logged out of my facebook. I forgot my password so i requested a SMS code. Heres where im freaking out. My phone automatically entered the code BEFORE i got the SMS. not only this, but it kept spamming the same code (e.g 12345) every second. 12345, 12345, 12345 and my facebook app kept flashing it was the wrong code. Please tell me if this is normal or not. Please explain? im seriously losing it since i clicked that link. Anti malware showed as nothing. \n\n\nALSO: the link was from a website called storage.googleapis.com\ncan someone please tell me what that is.",
+        "title": "(URGENT) Please explain. I think my Samsung phone has malware.",
+        "score": 0,
+        "id": "8c6ty4",
+        "commsNum": 6,
+        "timeStamp": "2018/04/14-03:51:19",
+        "author_name": "aa2051",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8c6ty4/urgent_please_explain_i_think_my_samsung_phone/"
+    },
+    "posts": {
+        "dxcuurq": {
+            "comment": "Alright. Unless you executed something, I think your safe. Just don\u2019t click on any suspicious links in the meantime. ",
+            "timeStamp": "2018/04/14-08:44:48",
+            "id": "dxcuurq",
+            "is_submitter": false,
+            "link_id": "t3_8c6ty4",
+            "parent_id": "t1_dxcusa1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "CbearKing"
+        },
+        "dxcusa1": {
+            "comment": "No downloads from the day it happened, latest download called 2811fb90a1302h however googling it says its generated from SnapChat, so nothing, really.\n\nAlso is 14 percent cpu usage normal? When i have apps open and when idle.",
+            "timeStamp": "2018/04/14-08:43:30",
+            "id": "dxcusa1",
+            "is_submitter": false,
+            "link_id": "t3_8c6ty4",
+            "parent_id": "t1_dxcsk3n",
+            "score": 1,
+            "stickied": false,
+            "author_name": "aa2051"
+        },
+        "dxctz4q": {
+            "comment": "This is probably more suited for /r/techsupport/",
+            "timeStamp": "2018/04/14-08:27:51",
+            "id": "dxctz4q",
+            "is_submitter": false,
+            "link_id": "t3_8c6ty4",
+            "parent_id": "t3_8c6ty4",
+            "score": 3,
+            "stickied": false,
+            "author_name": "okmokmz"
+        },
+        "dxcsk3n": {
+            "comment": "Use a file manager to find what\u2019s in your downloads. Tell me what you see ",
+            "timeStamp": "2018/04/14-07:59:22",
+            "id": "dxcsk3n",
+            "is_submitter": false,
+            "link_id": "t3_8c6ty4",
+            "parent_id": "t1_dxcsj2g",
+            "score": 1,
+            "stickied": false,
+            "author_name": "CbearKing"
+        },
+        "dxcsj2g": {
+            "comment": "i dont know, i clicked out before it had time to load. Im worried something could have started downloading.",
+            "timeStamp": "2018/04/14-07:58:46",
+            "id": "dxcsj2g",
+            "is_submitter": false,
+            "link_id": "t3_8c6ty4",
+            "parent_id": "t1_dxcsh24",
+            "score": 1,
+            "stickied": false,
+            "author_name": "aa2051"
+        },
+        "dxcsh24": {
+            "comment": "Well, what did the link take you to?",
+            "timeStamp": "2018/04/14-07:57:40",
+            "id": "dxcsh24",
+            "is_submitter": false,
+            "link_id": "t3_8c6ty4",
+            "parent_id": "t3_8c6ty4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "CbearKing"
+        }
+    }
+}

@@ -1,0 +1,176 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": null,
+        "title": "Question: are we allowed to post our malware code here? (Proof of concept code, no payload)",
+        "score": 24,
+        "id": "6se8b0",
+        "commsNum": 14,
+        "timeStamp": "2017/08/08-08:30:28",
+        "author_name": "dwThread",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 14,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6se8b0/question_are_we_allowed_to_post_our_malware_code/"
+    },
+    "posts": {
+        "dld3zu7": {
+            "comment": "I don't want to live in a world where hackers steal information and money from people but here we are :)",
+            "timeStamp": "2017/08/08-20:48:44",
+            "id": "dld3zu7",
+            "is_submitter": false,
+            "link_id": "t3_6se8b0",
+            "parent_id": "t1_dld1z7h",
+            "score": -1,
+            "stickied": false,
+            "author_name": "Volkrisse"
+        },
+        "dld1z7h": {
+            "comment": "I don't want to live in a world where sharing code can have legal ramifications. =(",
+            "timeStamp": "2017/08/08-20:02:22",
+            "id": "dld1z7h",
+            "is_submitter": false,
+            "link_id": "t3_6se8b0",
+            "parent_id": "t1_dlc275r",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Hateblade"
+        },
+        "dlcao5s": {
+            "comment": "Not a Lawyer, Do not deal with legal repercussions on a business or personal level.  \n  \nThat said, I believe the general consensus on posting a POC to the internet is that you're pulling a Daiquiri Hut. They can serve you the drink (alcohol), they can hand you a straw, but the moment they put the straw IN the cup and hand it to you at the drive up window, it becomes drinking and driving, because they gave it to you ready to serve.  *edit: stuff*\n  \nThat ready to serve is the distinction. If you for instance, include the code and instructions right down to the (insert payload here) then you're contributing too much. If instead, you post it with an echo statement instead of payload message or indicator, you're leaving it to the reader to view the POC and identify the lines to omit/modify/replace.  \n  \nI would recommend looking at POCs posted by US based bug hunters or larger organizations that specialize in security that maintain blogs. Sophos for instance, was one of the vendors at the forefront of WannaCry as a result of being deployed at several large institutions that were affected. They posted POC documentation for WannaCry but it was not in its entirety. I think they omitted compile steps (would be akin to demonstrating to a customer inserting the straw.. I know) as well as either assumed knowledge gaps or did not include full portions of the payload, just the segments.  \n  \nYou're not responsible for someone using something in a dangerous manner, but you're responsible for leaving the keys in the ignition, putting a sign on the car saying \"keys inside, please take\", and then painting the bumper orange to indicate hunting colors, as the malicious actor proceeds to mow people down on a sidewalk.",
+            "timeStamp": "2017/08/08-11:25:23",
+            "id": "dlcao5s",
+            "is_submitter": false,
+            "link_id": "t3_6se8b0",
+            "parent_id": "t1_dlc3kt5",
+            "score": 3,
+            "stickied": false,
+            "author_name": "omogai"
+        },
+        "dlc3kt5": {
+            "comment": "My code doesn't have a payload. It sets the stage for everything but needs an extra tidbit for reassemble. ",
+            "timeStamp": "2017/08/08-09:20:19",
+            "id": "dlc3kt5",
+            "is_submitter": true,
+            "link_id": "t3_6se8b0",
+            "parent_id": "t1_dlc275r",
+            "score": 1,
+            "stickied": false,
+            "author_name": "dwThread"
+        },
+        "dlc275r": {
+            "comment": "Honestly though it mainly depends on your local laws. I'd research the laws for malicious code distribution before posting anything. In most of the US sharing malicious code isn't illegal in itself, but showing intent to use for illegal purposes or selling it to someone who uses it for illegal purposes can be illegal. Take that with a grain of salt though, I'm not a lawyer.",
+            "timeStamp": "2017/08/08-08:56:22",
+            "id": "dlc275r",
+            "is_submitter": false,
+            "link_id": "t3_6se8b0",
+            "parent_id": "t3_6se8b0",
+            "score": 3,
+            "stickied": false,
+            "author_name": "cybers3c"
+        },
+        "dlc14qk": {
+            "comment": "Ah, then yes if it's been around since '98, it's ancient! ",
+            "timeStamp": "2017/08/08-08:37:51",
+            "id": "dlc14qk",
+            "is_submitter": false,
+            "link_id": "t3_6se8b0",
+            "parent_id": "t1_dlc12xn",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Sam-Gunn"
+        },
+        "dlc12xn": {
+            "comment": "Well I considered it old- it's been around since 98 and I remember referencing them a lot in 2006. PacketStorm and Milw0rm",
+            "timeStamp": "2017/08/08-08:37:00",
+            "id": "dlc12xn",
+            "is_submitter": true,
+            "link_id": "t3_6se8b0",
+            "parent_id": "t1_dlc0yrh",
+            "score": 8,
+            "stickied": false,
+            "author_name": "dwThread"
+        },
+        "dlc0yrl": {
+            "comment": "**Packet Storm**\n\nPacket Storm Security is a popular information security website offering current and historical computer security tools, exploits, and security advisories. It is operated by a group of security enthusiasts that publish new security information and offer tools for educational and testing purposes.\n\n***\n\n^[ [^PM](https://www.reddit.com/message/compose?to=kittens_from_space) ^| [^Exclude ^me](https://reddit.com/message/compose?to=WikiTextBot&amp;message=Excludeme&amp;subject=Excludeme) ^| [^Exclude ^from ^subreddit](https://np.reddit.com/r/Malware/about/banned) ^| [^FAQ ^/ ^Information](https://np.reddit.com/r/WikiTextBot/wiki/index) ^| [^Source](https://github.com/kittenswolf/WikiTextBot)   ^]\n^Downvote ^to ^remove ^| ^v0.24",
+            "timeStamp": "2017/08/08-08:34:59",
+            "id": "dlc0yrl",
+            "is_submitter": false,
+            "link_id": "t3_6se8b0",
+            "parent_id": "t1_dlc0yko",
+            "score": 2,
+            "stickied": false,
+            "author_name": "WikiTextBot"
+        },
+        "dlc0yrh": {
+            "comment": "Old? I thought it's still widely in use? Or is that the new one?",
+            "timeStamp": "2017/08/08-08:34:59",
+            "id": "dlc0yrh",
+            "is_submitter": false,
+            "link_id": "t3_6se8b0",
+            "parent_id": "t1_dlc0tme",
+            "score": 3,
+            "stickied": false,
+            "author_name": "Sam-Gunn"
+        },
+        "dlc0yqx": {
+            "comment": "Non-Mobile link: https://en.wikipedia.org/wiki/Packet_Storm\n***\n^HelperBot ^v1.1 ^/r/HelperBot_ ^I ^am ^a ^bot. ^Please ^message ^/u/swim1929 ^with ^any ^feedback ^and/or ^hate. ^Counter: ^98917",
+            "timeStamp": "2017/08/08-08:34:59",
+            "id": "dlc0yqx",
+            "is_submitter": false,
+            "link_id": "t3_6se8b0",
+            "parent_id": "t1_dlc0yko",
+            "score": 1,
+            "stickied": false,
+            "author_name": "HelperBot_"
+        },
+        "dlc0yko": {
+            "comment": "https://en.m.wikipedia.org/wiki/Packet_Storm\n\n\nThey changed their name and what they do it appears",
+            "timeStamp": "2017/08/08-08:34:54",
+            "id": "dlc0yko",
+            "is_submitter": true,
+            "link_id": "t3_6se8b0",
+            "parent_id": "t1_dlc0whw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "dwThread"
+        },
+        "dlc0whw": {
+            "comment": "[deleted]",
+            "timeStamp": "2017/08/08-08:33:54",
+            "id": "dlc0whw",
+            "is_submitter": false,
+            "link_id": "t3_6se8b0",
+            "parent_id": "t1_dlc0tme",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "dlc0tme": {
+            "comment": "Is your username a reference to the old packetstorm website? Lol",
+            "timeStamp": "2017/08/08-08:32:30",
+            "id": "dlc0tme",
+            "is_submitter": true,
+            "link_id": "t3_6se8b0",
+            "parent_id": "t1_dlc0rv1",
+            "score": 2,
+            "stickied": false,
+            "author_name": "dwThread"
+        },
+        "dlc0rv1": {
+            "comment": "[deleted]",
+            "timeStamp": "2017/08/08-08:31:38",
+            "id": "dlc0rv1",
+            "is_submitter": false,
+            "link_id": "t3_6se8b0",
+            "parent_id": "t3_6se8b0",
+            "score": 24,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

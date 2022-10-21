@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Yet another family of Ransomware \u2013 AlphaLocker",
+        "score": 19,
+        "id": "4iafs7",
+        "commsNum": 1,
+        "timeStamp": "2016/05/07-08:41:25",
+        "author_name": "Deeganwa_Eden5",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://blog.cylance.com/an-introduction-to-alphalocker"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "CVE-2014-4113 Detailed Vulnerability and Patch Analysis",
+        "score": 9,
+        "id": "2k67ij",
+        "commsNum": 0,
+        "timeStamp": "2014/10/23-22:29:37",
+        "author_name": "CodeAndSec",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.codeandsec.com/CVE-2014-4113-Detailed-Vulnerability-and-Patch-Analysis"
+    },
+    "posts": {}
+}

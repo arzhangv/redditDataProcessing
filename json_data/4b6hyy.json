@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I recently ordered the proxy.sh service and installed their Safejumber openvpn client. When I launched it, LittleSnitch alerted me of its attempts to access multiple sites, and more specifically, \"stun.\" subdomains on these sites. \n\nKnowing that Safejumper is opensource, I searched the repository and found the list of sites. \n\nHere's a link to the file containing the list: \nhttps://github.com/proxysh/Safejumper-for-Desktop/blob/master/safejumper/stun.cpp\n\nMy attempts to get answers from the proxy.sh team have been unsuccessful. Can anyone comment on this? Is accessing these a normal behavior for a vpn client?\n\nThank you!",
+        "title": "Safejumper, the proxy.sh vpn client, makes attempt to access a list of public sites' stun.* subdomains. Should I be worried?",
+        "score": 11,
+        "id": "4b6hyy",
+        "commsNum": 6,
+        "timeStamp": "2016/03/19-22:18:03",
+        "author_name": "obviousoctopus",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/4b6hyy/safejumper_the_proxysh_vpn_client_makes_attempt/"
+    },
+    "posts": {}
+}

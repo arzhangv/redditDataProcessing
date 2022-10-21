@@ -1,0 +1,110 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Was doing some malware removals at work and noticed that KVRT had a Bitcoin miner attached to it. I figured it may have been from a clients PC so i  downloaded it from the link below and as soon as it finished downloading, windows defender and Malwarebytes went nuts and quarantined it immediately. \n\nWondering if any of yall have seen or heard about this. We checked all our toolkits and every one of them that had KVRT had  Trojan:Win32/CoinMiner.QM!bit\n\n[I downloaded it from KAS directly from this link,](https://support.kaspersky.com/viruses/kvrt2015) and chrome and defender flag it immediately. Wondering if its the same for you, and if Kaspersky knows about this. ",
+        "title": "KVRT Infected with Bitcoin Miner",
+        "score": 19,
+        "id": "8fltlx",
+        "commsNum": 6,
+        "timeStamp": "2018/04/28-11:39:31",
+        "author_name": "NoticesMemesOwO",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8fltlx/kvrt_infected_with_bitcoin_miner/"
+    },
+    "posts": {
+        "dyk5o4a": {
+            "comment": "Til that there are viruses that use your computer's processing power to generate money. Shit. ",
+            "timeStamp": "2018/05/06-16:34:09",
+            "id": "dyk5o4a",
+            "is_submitter": false,
+            "link_id": "t3_8fltlx",
+            "parent_id": "t3_8fltlx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MhikeiMPC12"
+        },
+        "dy6bf0g": {
+            "comment": "Yeah, I tried that right off the bat and was upsetti",
+            "timeStamp": "2018/04/29-12:10:36",
+            "id": "dy6bf0g",
+            "is_submitter": false,
+            "link_id": "t3_8fltlx",
+            "parent_id": "t1_dy5dqoj",
+            "score": 2,
+            "stickied": false,
+            "author_name": "NoticesMemesOwO"
+        },
+        "dy6be8m": {
+            "comment": "Have done so. Thank you for the reply.",
+            "timeStamp": "2018/04/29-12:10:15",
+            "id": "dy6be8m",
+            "is_submitter": false,
+            "link_id": "t3_8fltlx",
+            "parent_id": "t1_dy5htkd",
+            "score": 2,
+            "stickied": false,
+            "author_name": "NoticesMemesOwO"
+        },
+        "dy5s70f": {
+            "comment": "Yes, me too. My screenshot: [Windows Defender!](https://i.imgur.com/kAlse9B.png)",
+            "timeStamp": "2018/04/29-06:12:56",
+            "id": "dy5s70f",
+            "is_submitter": false,
+            "link_id": "t3_8fltlx",
+            "parent_id": "t3_8fltlx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Xikul"
+        },
+        "dy5htkd": {
+            "comment": "Hello,\n\nDetection is now down to 1:63 on VT: https://www.virustotal.com/#/file/2a1bc217db24be020b40f02030060b8b886106a86b419e2a6fcd0dc6048c92df/detection\n\nProbably a false positive alarm.  Report to Microsoft and Malwarebytes so they can investigate and fix.\n\nRegards,\n\nAryeh Goretsky\n",
+            "timeStamp": "2018/04/28-23:47:11",
+            "id": "dy5htkd",
+            "is_submitter": false,
+            "link_id": "t3_8fltlx",
+            "parent_id": "t3_8fltlx",
+            "score": -1,
+            "stickied": false,
+            "author_name": "goretsky"
+        },
+        "dy5dqoj": {
+            "comment": "Russia needs dat money.\n\n**Edit**\n\nDamn it, why is it 136MB... Can't upload to hybrid :/",
+            "timeStamp": "2018/04/28-21:44:43",
+            "id": "dy5dqoj",
+            "is_submitter": false,
+            "link_id": "t3_8fltlx",
+            "parent_id": "t3_8fltlx",
+            "score": 2,
+            "stickied": false,
+            "author_name": "TheHeffNerr"
+        },
+        "dy4tkk0": {
+            "comment": "https://www.virustotal.com/#/file/2a1bc217db24be020b40f02030060b8b886106a86b419e2a6fcd0dc6048c92df/detection\n\n2/63\nMicrosoft - Trojan:Win32/CoinMiner.QM!bit\n\nSymantec - Trojan.Gen.NPE.2\n\n",
+            "timeStamp": "2018/04/28-14:51:31",
+            "id": "dy4tkk0",
+            "is_submitter": false,
+            "link_id": "t3_8fltlx",
+            "parent_id": "t3_8fltlx",
+            "score": 5,
+            "stickied": false,
+            "author_name": "lickyhippy"
+        },
+        "dy4mjza": {
+            "comment": "Oh wow, can someone else confirm? ",
+            "timeStamp": "2018/04/28-12:40:59",
+            "id": "dy4mjza",
+            "is_submitter": false,
+            "link_id": "t3_8fltlx",
+            "parent_id": "t3_8fltlx",
+            "score": 4,
+            "stickied": false,
+            "author_name": "afschuld"
+        }
+    }
+}

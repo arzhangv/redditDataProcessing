@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Blue screen on login help (win7)",
+        "score": 1,
+        "id": "imyceb",
+        "commsNum": 1,
+        "timeStamp": "2020/09/05-02:34:58",
+        "author_name": "696buddy",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://i.redd.it/garc61p0ual51.jpg"
+    },
+    "posts": {
+        "g43qs1b": {
+            "comment": "[removed]",
+            "timeStamp": "2020/09/05-02:36:39",
+            "id": "g43qs1b",
+            "is_submitter": false,
+            "link_id": "t3_imyceb",
+            "parent_id": "t3_imyceb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

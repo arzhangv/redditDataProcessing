@@ -1,0 +1,165 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": " Hello  \nA time ago I found a virus called memz on the site '12kbps.xyz', now for some reason I can't reach the site anymore.  \nSo my question was, do any of you guys have a copy of it or know where i can get it, I've seen a lot of variations with fancy buttons and stuff but the one from the site was just run and done.\n\n  \nKind regards ",
+        "title": "Memz virus from 12kbps.xyz",
+        "score": 2,
+        "id": "9b31xw",
+        "commsNum": 16,
+        "timeStamp": "2018/08/28-14:34:47",
+        "author_name": "randomgamerz99",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 16,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/9b31xw/memz_virus_from_12kbpsxyz/"
+    },
+    "posts": {
+        "ikq9y1l": {
+            "comment": "[removed]",
+            "timeStamp": "2022/08/17-17:05:17",
+            "id": "ikq9y1l",
+            "is_submitter": false,
+            "link_id": "t3_9b31xw",
+            "parent_id": "t3_9b31xw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "e5wgusy": {
+            "comment": "I have found a functioning server. Here it is: itzdrk.xyz/repo/vir/Trojan",
+            "timeStamp": "2018/09/13-05:52:57",
+            "id": "e5wgusy",
+            "is_submitter": false,
+            "link_id": "t3_9b31xw",
+            "parent_id": "t1_e5379wf",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Sasser39a"
+        },
+        "e5379wf": {
+            "comment": "That would be kind, I just need the memz virus for now.",
+            "timeStamp": "2018/08/30-03:38:47",
+            "id": "e5379wf",
+            "is_submitter": true,
+            "link_id": "t3_9b31xw",
+            "parent_id": "t1_e52czte",
+            "score": 1,
+            "stickied": false,
+            "author_name": "randomgamerz99"
+        },
+        "e52dbnl": {
+            "comment": "Android 8.0, dutch galaxy s9+, without rooting",
+            "timeStamp": "2018/08/29-16:14:19",
+            "id": "e52dbnl",
+            "is_submitter": true,
+            "link_id": "t3_9b31xw",
+            "parent_id": "t1_e52d6v4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "randomgamerz99"
+        },
+        "e52db5g": {
+            "comment": "Is so strange.",
+            "timeStamp": "2018/08/29-16:14:05",
+            "id": "e52db5g",
+            "is_submitter": false,
+            "link_id": "t3_9b31xw",
+            "parent_id": "t1_e52d8s5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Sasser39a"
+        },
+        "e52d8s5": {
+            "comment": "Also on android I get the error",
+            "timeStamp": "2018/08/29-16:12:59",
+            "id": "e52d8s5",
+            "is_submitter": true,
+            "link_id": "t3_9b31xw",
+            "parent_id": "t1_e52cwvx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "randomgamerz99"
+        },
+        "e52d6v4": {
+            "comment": "Has Android 7.0, is a Italian Vodafone Smart N8, without rooting.",
+            "timeStamp": "2018/08/29-16:12:08",
+            "id": "e52d6v4",
+            "is_submitter": false,
+            "link_id": "t3_9b31xw",
+            "parent_id": "t1_e52cwds",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Sasser39a"
+        },
+        "e52d4zn": {
+            "comment": "On my Android device, i can download anything from it.",
+            "timeStamp": "2018/08/29-16:11:18",
+            "id": "e52d4zn",
+            "is_submitter": false,
+            "link_id": "t3_9b31xw",
+            "parent_id": "t1_e52cwds",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Sasser39a"
+        },
+        "e52czte": {
+            "comment": "If you can't download from there, i can send you some samples that i have compressed in a RAR.",
+            "timeStamp": "2018/08/29-16:09:01",
+            "id": "e52czte",
+            "is_submitter": false,
+            "link_id": "t3_9b31xw",
+            "parent_id": "t1_e52cwds",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Sasser39a"
+        },
+        "e52cwvx": {
+            "comment": "Download files from an Android device. On PC, shows a error.",
+            "timeStamp": "2018/08/29-16:07:43",
+            "id": "e52cwvx",
+            "is_submitter": false,
+            "link_id": "t3_9b31xw",
+            "parent_id": "t1_e52cqre",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Sasser39a"
+        },
+        "e52cwds": {
+            "comment": "I get the error 'DNS_PROBE_FINISHED_NXDOMAIN' with every device, also while using a VPN or proxy",
+            "timeStamp": "2018/08/29-16:07:30",
+            "id": "e52cwds",
+            "is_submitter": true,
+            "link_id": "t3_9b31xw",
+            "parent_id": "t1_e52cqre",
+            "score": 1,
+            "stickied": false,
+            "author_name": "randomgamerz99"
+        },
+        "e52cqre": {
+            "comment": "I know that server. Is always in my bookmarks. And it works. https://12kbps.xyz/repo/vir/Trojan/",
+            "timeStamp": "2018/08/29-16:04:58",
+            "id": "e52cqre",
+            "is_submitter": false,
+            "link_id": "t3_9b31xw",
+            "parent_id": "t3_9b31xw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Sasser39a"
+        },
+        "e50gf2t": {
+            "comment": "The Leurak/MEMZ repository appears to have it on GitHub. I will not link it here, but you appear to need to build from source.\n\nMaybe also check some of the other malware sample sites used for analysis samples. If I can find the list of ones I use I will add them in the morning.",
+            "timeStamp": "2018/08/28-19:07:57",
+            "id": "e50gf2t",
+            "is_submitter": false,
+            "link_id": "t3_9b31xw",
+            "parent_id": "t3_9b31xw",
+            "score": 2,
+            "stickied": false,
+            "author_name": "AbsoZed"
+        }
+    }
+}

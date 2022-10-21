@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hey guys,\n\nI'm a cybersecurity student at Oxford university and i'm developing a malware sandboxing tool, for analysing network traces of malware programs, with a web interface and command line. \n\nIt uses virtualised windows and linux boxes and i'd love input as i've started development but am still refining the requirements and design. :)\n\nI'd love to hear your input regarding this.\n\n(will take sub 5 minutes to fill out survey, guaranteed)\n\nhttps://www.surveymonkey.co.uk/r/ZBDLXJK\n\n\n",
+        "title": "Malware Analysis - Network Forensics Toolkit - Please help!",
+        "score": 20,
+        "id": "6m707s",
+        "commsNum": 6,
+        "timeStamp": "2017/07/09-04:38:36",
+        "author_name": "thickofits",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6m707s/malware_analysis_network_forensics_toolkit_please/"
+    },
+    "posts": {
+        "dk7zqh0": {
+            "comment": "you should look into cuckoo sandbox, does things very similar",
+            "timeStamp": "2017/07/14-10:48:41",
+            "id": "dk7zqh0",
+            "is_submitter": false,
+            "link_id": "t3_6m707s",
+            "parent_id": "t3_6m707s",
+            "score": 1,
+            "stickied": false,
+            "author_name": "gbdavidx"
+        },
+        "dk0uzfn": {
+            "comment": "whew thanks, honestly really really appreciated",
+            "timeStamp": "2017/07/10-05:49:00",
+            "id": "dk0uzfn",
+            "is_submitter": true,
+            "link_id": "t3_6m707s",
+            "parent_id": "t1_dk081hr",
+            "score": 2,
+            "stickied": false,
+            "author_name": "thickofits"
+        },
+        "dk081hr": {
+            "comment": "All done, goodluck :)",
+            "timeStamp": "2017/07/09-17:20:50",
+            "id": "dk081hr",
+            "is_submitter": false,
+            "link_id": "t3_6m707s",
+            "parent_id": "t3_6m707s",
+            "score": 2,
+            "stickied": false,
+            "author_name": "osinttom"
+        },
+        "djzfdqt": {
+            "comment": "Also thanks to CapacitorSet for filling this out, i've starred your linked repo :) - https://github.com/CapacitorSet/box-js ",
+            "timeStamp": "2017/07/09-06:15:43",
+            "id": "djzfdqt",
+            "is_submitter": true,
+            "link_id": "t3_6m707s",
+            "parent_id": "t3_6m707s",
+            "score": 1,
+            "stickied": false,
+            "author_name": "thickofits"
+        },
+        "djzekwa": {
+            "comment": "thank you soooo much x",
+            "timeStamp": "2017/07/09-05:48:19",
+            "id": "djzekwa",
+            "is_submitter": true,
+            "link_id": "t3_6m707s",
+            "parent_id": "t1_djzefcf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "thickofits"
+        },
+        "djzefcf": {
+            "comment": "Done.  Good luck with your project.",
+            "timeStamp": "2017/07/09-05:42:31",
+            "id": "djzefcf",
+            "is_submitter": false,
+            "link_id": "t3_6m707s",
+            "parent_id": "t3_6m707s",
+            "score": 3,
+            "stickied": false,
+            "author_name": "BadMoles"
+        }
+    }
+}

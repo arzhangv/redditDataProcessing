@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Highly Evasive Attacker Leverages SolarWinds Supply Chain to Compromise Multiple Global Victims With SUNBURST Backdoor",
+        "score": 1,
+        "id": "kcq7uu",
+        "commsNum": 3,
+        "timeStamp": "2020/12/13-20:07:19",
+        "author_name": "levelworm",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.fireeye.com/blog/threat-research/2020/12/evasive-attacker-leverages-solarwinds-supply-chain-compromises-with-sunburst-backdoor.html"
+    },
+    "posts": {
+        "gfx4j5w": {
+            "comment": "link? which ones?",
+            "timeStamp": "2020/12/15-05:41:28",
+            "id": "gfx4j5w",
+            "is_submitter": false,
+            "link_id": "t3_kcq7uu",
+            "parent_id": "t1_gftghw7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "IambadatIT"
+        },
+        "gftghw7": {
+            "comment": "Anyone got a sample?",
+            "timeStamp": "2020/12/14-07:19:47",
+            "id": "gftghw7",
+            "is_submitter": false,
+            "link_id": "t3_kcq7uu",
+            "parent_id": "t3_kcq7uu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "twat_muncher"
+        },
+        "gfsrbq1": {
+            "comment": "[removed]",
+            "timeStamp": "2020/12/14-02:01:49",
+            "id": "gfsrbq1",
+            "is_submitter": false,
+            "link_id": "t3_kcq7uu",
+            "parent_id": "t3_kcq7uu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

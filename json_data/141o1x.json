@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Crisis: The Advanced Malware by Symantec",
+        "score": 2,
+        "id": "141o1x",
+        "commsNum": 0,
+        "timeStamp": "2012/11/30-01:48:54",
+        "author_name": "N3mes1s",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/crisis_the_advanced_malware.pdf"
+    },
+    "posts": {}
+}

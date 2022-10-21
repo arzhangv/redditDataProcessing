@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hello,\n\nBrowsing the web this morning I randomly opened a local store site and at the same time got a notification that my virusscanner removed a exploit kit from my local appdata folder.\n\nI've had virusses in the past but randomly booting a site and infecting me never happened before. Did this exploit kit actually got to work or insta- deleted without harm? Anything I can do to further secure?\n\nThanks",
+        "title": "F secure removed exploitkit",
+        "score": 0,
+        "id": "di3oi0",
+        "commsNum": 5,
+        "timeStamp": "2019/10/14-23:17:50",
+        "author_name": "Horzine",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/di3oi0/f_secure_removed_exploitkit/"
+    },
+    "posts": {
+        "f3v7n9n": {
+            "comment": "I think so too, F secure intercepted it for sure. Thanks!",
+            "timeStamp": "2019/10/15-13:50:16",
+            "id": "f3v7n9n",
+            "is_submitter": true,
+            "link_id": "t3_di3oi0",
+            "parent_id": "t1_f3ti9gj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Horzine"
+        },
+        "f3ti9gj": {
+            "comment": "Not sure precisely, but it's probably likely that it was intercepted before it could get to anything important, I would think. Otherwise what would be the point of antiviruses if they were literally too slow to intercept malware. Oh yeah watch out guys there's a malware that's so fast to download it will bypass every permission because it's so fast. I wouldn't be too worried if there's nothing too obvious like deleted/encrypted files but you can always get some extra chrome extensions to make sure your site is secure like https everywhere or ublock origin or unshorten link. Also would reccomend virus total",
+            "timeStamp": "2019/10/15-03:28:41",
+            "id": "f3ti9gj",
+            "is_submitter": false,
+            "link_id": "t3_di3oi0",
+            "parent_id": "t3_di3oi0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Kriifrux"
+        },
+        "f3tdji5": {
+            "comment": "[removed]",
+            "timeStamp": "2019/10/15-01:45:38",
+            "id": "f3tdji5",
+            "is_submitter": false,
+            "link_id": "t3_di3oi0",
+            "parent_id": "t3_di3oi0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "f3tabsd": {
+            "comment": "[removed]",
+            "timeStamp": "2019/10/15-00:33:40",
+            "id": "f3tabsd",
+            "is_submitter": false,
+            "link_id": "t3_di3oi0",
+            "parent_id": "t3_di3oi0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "f3t70x7": {
+            "comment": "Q",
+            "timeStamp": "2019/10/14-23:26:55",
+            "id": "f3t70x7",
+            "is_submitter": true,
+            "link_id": "t3_di3oi0",
+            "parent_id": "t3_di3oi0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Horzine"
+        }
+    }
+}

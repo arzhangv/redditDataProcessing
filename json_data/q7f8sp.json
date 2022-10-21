@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "HashDB - Malware API Hashing Obfuscation Solved Forever (OALabs Tutorial)",
+        "score": 1,
+        "id": "q7f8sp",
+        "commsNum": 1,
+        "timeStamp": "2021/10/13-09:45:38",
+        "author_name": "herrcore",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://youtu.be/3FPY4cLaELU"
+    },
+    "posts": {
+        "hgl7cyi": {
+            "comment": "Will check out.",
+            "timeStamp": "2021/10/14-01:21:25",
+            "id": "hgl7cyi",
+            "is_submitter": false,
+            "link_id": "t3_q7f8sp",
+            "parent_id": "t3_q7f8sp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "redditversiontwo"
+        }
+    }
+}

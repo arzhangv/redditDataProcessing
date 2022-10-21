@@ -1,0 +1,187 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I got it mainly for the Kali Linux content and there's also some other topics covered such as learning malware analysis, ethical hacking and other interesting stuff I haven't had the time to check on just yet. \n\n&amp;#x200B;\n\nThought to myself some would appreciate the friendly reminder to grab [the bundle](https://twitter.com/CyberAfterSometimes/status/1067147638708015107) before it ends.",
+        "title": "Cybersecurity resource bundle ends in 2 days",
+        "score": 1,
+        "id": "a4cefq",
+        "commsNum": 15,
+        "timeStamp": "2018/12/08-09:05:57",
+        "author_name": "LocDeMty",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 15,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/a4cefq/cybersecurity_resource_bundle_ends_in_2_days/"
+    },
+    "posts": {
+        "ebhdhh1": {
+            "comment": "Very questionable quality. It seems like they just publish anything that anyone writes with no quality control. ",
+            "timeStamp": "2018/12/09-22:21:17",
+            "id": "ebhdhh1",
+            "is_submitter": false,
+            "link_id": "t3_a4cefq",
+            "parent_id": "t1_ebetvxe",
+            "score": 1,
+            "stickied": false,
+            "author_name": "xelman"
+        },
+        "ebfrnto": {
+            "comment": "Okay. Thanks!",
+            "timeStamp": "2018/12/09-09:17:13",
+            "id": "ebfrnto",
+            "is_submitter": false,
+            "link_id": "t3_a4cefq",
+            "parent_id": "t1_ebfr6ng",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DavidB-TPW"
+        },
+        "ebfr6ng": {
+            "comment": "Yes. There are some videos with this bundle as well.",
+            "timeStamp": "2018/12/09-09:11:50",
+            "id": "ebfr6ng",
+            "is_submitter": false,
+            "link_id": "t3_a4cefq",
+            "parent_id": "t1_ebelg6e",
+            "score": 2,
+            "stickied": false,
+            "author_name": "tylers13"
+        },
+        "ebfqwrq": {
+            "comment": "Genuine question, is there anything other than eBook formatting that is wrong with them? I'm more concerned about actual content than eBook formatting. Last time I bought a cyber security bundle I just downloaded them as PDFs since I don't have a Kindle or anything.",
+            "timeStamp": "2018/12/09-09:08:44",
+            "id": "ebfqwrq",
+            "is_submitter": false,
+            "link_id": "t3_a4cefq",
+            "parent_id": "t1_ebf8not",
+            "score": 2,
+            "stickied": false,
+            "author_name": "tylers13"
+        },
+        "ebfeozw": {
+            "comment": "Steaming pile of shit without exception",
+            "timeStamp": "2018/12/09-06:14:21",
+            "id": "ebfeozw",
+            "is_submitter": false,
+            "link_id": "t3_a4cefq",
+            "parent_id": "t1_ebf3wec",
+            "score": 1,
+            "stickied": false,
+            "author_name": "GFandango"
+        },
+        "ebf8not": {
+            "comment": "[Here](http://kozmic.net/2011/02/18/rant-avoid-ebooks-from-packt-publishing/) is a rant about them.",
+            "timeStamp": "2018/12/09-04:03:19",
+            "id": "ebf8not",
+            "is_submitter": false,
+            "link_id": "t3_a4cefq",
+            "parent_id": "t1_ebf3wec",
+            "score": 2,
+            "stickied": false,
+            "author_name": "canadasleftnut"
+        },
+        "ebf3wec": {
+            "comment": "Why is that?!",
+            "timeStamp": "2018/12/09-02:04:32",
+            "id": "ebf3wec",
+            "is_submitter": false,
+            "link_id": "t3_a4cefq",
+            "parent_id": "t1_ebevrv3",
+            "score": 2,
+            "stickied": false,
+            "author_name": "kovyakov"
+        },
+        "ebevrv3": {
+            "comment": "I'm a simple man i see Packt i will NOT by",
+            "timeStamp": "2018/12/08-23:23:47",
+            "id": "ebevrv3",
+            "is_submitter": false,
+            "link_id": "t3_a4cefq",
+            "parent_id": "t3_a4cefq",
+            "score": 5,
+            "stickied": false,
+            "author_name": "GFandango"
+        },
+        "ebetvxe": {
+            "comment": "Whats the issue with Packt?",
+            "timeStamp": "2018/12/08-22:50:20",
+            "id": "ebetvxe",
+            "is_submitter": false,
+            "link_id": "t3_a4cefq",
+            "parent_id": "t1_eben6hj",
+            "score": 6,
+            "stickied": false,
+            "author_name": "StealthyRemington"
+        },
+        "eben6hj": {
+            "comment": "Packt. Do not buy. ",
+            "timeStamp": "2018/12/08-20:48:48",
+            "id": "eben6hj",
+            "is_submitter": false,
+            "link_id": "t3_a4cefq",
+            "parent_id": "t3_a4cefq",
+            "score": 8,
+            "stickied": false,
+            "author_name": "xelman"
+        },
+        "ebelg6e": {
+            "comment": "How does Humble Bundle work? I've never used it. Is it just an e-book collection?",
+            "timeStamp": "2018/12/08-20:18:25",
+            "id": "ebelg6e",
+            "is_submitter": false,
+            "link_id": "t3_a4cefq",
+            "parent_id": "t3_a4cefq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DavidB-TPW"
+        },
+        "ebec3kz": {
+            "comment": "Good looking out!",
+            "timeStamp": "2018/12/08-17:56:46",
+            "id": "ebec3kz",
+            "is_submitter": false,
+            "link_id": "t3_a4cefq",
+            "parent_id": "t3_a4cefq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Bitch_Checker"
+        },
+        "ebdgnxd": {
+            "comment": "[deleted]",
+            "timeStamp": "2018/12/08-11:09:19",
+            "id": "ebdgnxd",
+            "is_submitter": false,
+            "link_id": "t3_a4cefq",
+            "parent_id": "t3_a4cefq",
+            "score": -1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ebddhee": {
+            "comment": "[Humble Bundle: Cybersecurity Bundle](https://www.humblebundle.com/books/cybersecurity-packt-books?hmb_source=humble_home&amp;hmb_medium=product_tile&amp;hmb_campaign=mosaic_section_1_layout_index_2_layout_type_threes_tile_index_2)",
+            "timeStamp": "2018/12/08-10:30:42",
+            "id": "ebddhee",
+            "is_submitter": false,
+            "link_id": "t3_a4cefq",
+            "parent_id": "t1_ebdd1jn",
+            "score": 7,
+            "stickied": false,
+            "author_name": "FOOLS_GOLD"
+        },
+        "ebdd1jn": {
+            "comment": "Don\u2019t link to the tweet please link to the bundle itself",
+            "timeStamp": "2018/12/08-10:25:40",
+            "id": "ebdd1jn",
+            "is_submitter": false,
+            "link_id": "t3_a4cefq",
+            "parent_id": "t3_a4cefq",
+            "score": 8,
+            "stickied": false,
+            "author_name": "kevinq"
+        }
+    }
+}

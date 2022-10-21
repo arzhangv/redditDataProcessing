@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": null,
+        "title": "Malware Analysis - Bypassing Initial Infection Vector Anti-Sandbox Technique for URSNIF Banking Trojan",
+        "score": 24,
+        "id": "6tx02q",
+        "commsNum": 4,
+        "timeStamp": "2017/08/15-13:38:47",
+        "author_name": "majorllama",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.ringzerolabs.com/2017/07/the-multi-faceted-ursnif-trojan.html"
+    },
+    "posts": {
+        "dlp9hb2": {
+            "comment": "Yes, education is paramount for businesses nowadays. People remain the weakest link in the vast majority of breaches. Gotta stay vigilant :)",
+            "timeStamp": "2017/08/16-06:37:42",
+            "id": "dlp9hb2",
+            "is_submitter": true,
+            "link_id": "t3_6tx02q",
+            "parent_id": "t1_dlp7yua",
+            "score": 2,
+            "stickied": false,
+            "author_name": "majorllama"
+        },
+        "dlp7yua": {
+            "comment": "True, with people trying to gain access to higher level places, banks, governmental places and even management websites of such places, it becomes infinitely more important to have both competent security staff and competent protection of your work.",
+            "timeStamp": "2017/08/16-06:05:06",
+            "id": "dlp7yua",
+            "is_submitter": false,
+            "link_id": "t3_6tx02q",
+            "parent_id": "t1_dlp7tw0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "JoshRosserino"
+        },
+        "dlp7tw0": {
+            "comment": "Ya it's pretty nasty stuff. The ever growing presence of banking Trojans will inevitably adopt more sophisticated anti-analysis techniques as time goes on.",
+            "timeStamp": "2017/08/16-06:01:49",
+            "id": "dlp7tw0",
+            "is_submitter": true,
+            "link_id": "t3_6tx02q",
+            "parent_id": "t1_dlp75aa",
+            "score": 2,
+            "stickied": false,
+            "author_name": "majorllama"
+        },
+        "dlp75aa": {
+            "comment": "Yup... That's pretty scary... Even anti-sandboxing is quite advanced for it and considering it has pretty much any tool for spyware, data theft and probably further spread.... Wouldn't want to get infected by this one.",
+            "timeStamp": "2017/08/16-05:45:23",
+            "id": "dlp75aa",
+            "is_submitter": false,
+            "link_id": "t3_6tx02q",
+            "parent_id": "t3_6tx02q",
+            "score": 2,
+            "stickied": false,
+            "author_name": "JoshRosserino"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hey everyone, we've been hit by a new malware campaign. I've managed to see where it gets the payload from: it.com.pk/08j78h65e block this! IP: 5.10.105.38 (United Kingdom London Softlayer Dutch Holdings Bv). VirusTotal: 3 / 54 (https://virustotal.com/nl/file/aa1dd80a04f92f5b6c7b0e8850a1ca1bca6848cd6d479a5249c39ea9be36dc3d/analysis/1461923578/). Probably Locky trojan, still investigating ... it's a JS file which has a new obfuscation (at least for me, I've been analysing these for a few months now) that downloads 08j78h65e and starts it as 1D.TMP once decrypted or decoded (base64?), it generates a bat file, 1.bat in Local Setting\\TEMP and 1D.TMP seems to start a 12character randomized .exe, based on itself. It also spawns a 1E.TMP of which i'm not sure what it does.\n\n\nThe reason why I'm posting this now is because of a unique way of intrusion. I've setup quite a lot of filters to prevent this kind of stuff being processed by our mailserver. 1. Blocking scanner@companyname.com (which has been abused many times for Locky in the past, this time again but it came through anyway) 2. We block all .JS files in .ZIP files. However, even though these rules are active, this one slipped through.",
+        "title": "New Locky being spammed to our mailserver",
+        "score": 27,
+        "id": "4gypyh",
+        "commsNum": 21,
+        "timeStamp": "2016/04/29-03:04:08",
+        "author_name": "lrgame1983",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 21,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/4gypyh/new_locky_being_spammed_to_our_mailserver/"
+    },
+    "posts": {}
+}

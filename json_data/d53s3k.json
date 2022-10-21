@@ -1,0 +1,99 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "is memez virus clean actually safe as i am unsure but my friend is telling me to download on my old pc \n\nis it safe",
+        "title": "memez virus clean",
+        "score": 1,
+        "id": "d53s3k",
+        "commsNum": 7,
+        "timeStamp": "2019/09/16-10:18:56",
+        "author_name": "Cookie_Bow",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/d53s3k/memez_virus_clean/"
+    },
+    "posts": {
+        "f0jzchw": {
+            "comment": "But it replaces the MBR with nyan cat, no? That's pretty destructive",
+            "timeStamp": "2019/09/16-13:42:38",
+            "id": "f0jzchw",
+            "is_submitter": false,
+            "link_id": "t3_d53s3k",
+            "parent_id": "t1_f0jtzbd",
+            "score": 1,
+            "stickied": false,
+            "author_name": "G4B33"
+        },
+        "f0jtzbd": {
+            "comment": "the only damage i am aware of is the reverse text function as it may mess with system services, other then that, its completely clean",
+            "timeStamp": "2019/09/16-12:43:13",
+            "id": "f0jtzbd",
+            "is_submitter": false,
+            "link_id": "t3_d53s3k",
+            "parent_id": "t1_f0jra4x",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AssWaterr"
+        },
+        "f0jtn5o": {
+            "comment": "got it thanks",
+            "timeStamp": "2019/09/16-12:39:24",
+            "id": "f0jtn5o",
+            "is_submitter": true,
+            "link_id": "t3_d53s3k",
+            "parent_id": "t1_f0jra4x",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Cookie_Bow"
+        },
+        "f0jra4x": {
+            "comment": "Basically all the stuff the normal memz virus does except it doesnt destroy your computer in the end, but it can, very rarely, leave some damage.",
+            "timeStamp": "2019/09/16-12:12:46",
+            "id": "f0jra4x",
+            "is_submitter": false,
+            "link_id": "t3_d53s3k",
+            "parent_id": "t1_f0jqse9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "EndangeredPootis"
+        },
+        "f0jqse9": {
+            "comment": "so what does it do",
+            "timeStamp": "2019/09/16-12:07:06",
+            "id": "f0jqse9",
+            "is_submitter": true,
+            "link_id": "t3_d53s3k",
+            "parent_id": "t1_f0jemgv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Cookie_Bow"
+        },
+        "f0jemgv": {
+            "comment": "Nope it isnt, but it wont leave permament damage unlile the real one, still, dont run it on your main pc",
+            "timeStamp": "2019/09/16-10:29:17",
+            "id": "f0jemgv",
+            "is_submitter": false,
+            "link_id": "t3_d53s3k",
+            "parent_id": "t3_d53s3k",
+            "score": 1,
+            "stickied": false,
+            "author_name": "EndangeredPootis"
+        },
+        "f0je2fl": {
+            "comment": "[removed]",
+            "timeStamp": "2019/09/16-10:25:42",
+            "id": "f0je2fl",
+            "is_submitter": false,
+            "link_id": "t3_d53s3k",
+            "parent_id": "t3_d53s3k",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

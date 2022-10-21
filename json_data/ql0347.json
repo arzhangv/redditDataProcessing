@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Was going through https://www.sciencedirect.com/science/article/pii/S1742287606000764 paper. I am having difficulty in understanding the below phrase\nThe spamsum algorithm generates signatures for each input based on block sizes b and 2b, so it is possible to compare two signatures if the block sizes given in the signatures are within a power of two.\n\nWhy do we compare signatures only if they are powers of 2?",
+        "title": "Spamsum Signature Comparison",
+        "score": 1,
+        "id": "ql0347",
+        "commsNum": 2,
+        "timeStamp": "2021/11/02-01:59:52",
+        "author_name": "Arun92591",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ql0347/spamsum_signature_comparison/"
+    },
+    "posts": {
+        "hj8e9yh": {
+            "comment": "Yeah. Makes sense. \nAlso in the paper it is mentioned that if we change a character that change the trigger value position, then there would be change in at max 2 places.\nHow it can be possible?",
+            "timeStamp": "2021/11/03-19:12:37",
+            "id": "hj8e9yh",
+            "is_submitter": true,
+            "link_id": "t3_ql0347",
+            "parent_id": "t1_hj02r6s",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Arun92591"
+        },
+        "hj02r6s": {
+            "comment": "The spamsum hash consists actually out of two hashes/signatures.\n\nOne with the original blocksize (either guessed by the algorithm based on the filesize or manually set by the user), and one with the next higher blocksize, which is `blocksize * 2`.\n\nYou can see it in the original spamsum implementation:\n\nhttps://github.com/tridge/junkcode/blob/master/spamsum/spamsum.c#L152\n\nThere are two hashes (`h2` and `h3`) and h3 uses `blocksize * 2` as a reset point ([line 193](https://github.com/tridge/junkcode/blob/master/spamsum/spamsum.c#L193)).\n\nI once rewrote the [spamsum generation algorithm in Rust](https://github.com/dubbl/spamsum-rs/blob/main/src/lib.rs#L143), in case that is easier to read for you, and I called them `left_hash` and `right_hash` (I think like the Go version).\n\nLooking at a spamsum hash you can see both hashes separated by `:`, with the first number indicating the blocksize. \n\n`3:kEvyc/sFIKwYclQY4MKLFE4Igu0uLzIKygn:kE6Ai3KQ/MKOgDKZn`\n\nThe algorithm to compare two spamsums basically checks first if there is an overlap between the four blocksizes of the hashes - if there isn't then it is assumed that the files are very different, because the files are likely very different in size.\n\nSo, you can compare a spamsum starting with `3` with a spamsum starting with `6`, because the second part of the `3` spamsum hash will be computed with a blocksize of 6.\n\nYou cannot compare a spamsum hash starting with `3` with a spamsum hash starting with `12`. Well, you can compare them, but the result will be 0, because they are deemed very different.\n\nThe reason to have different blocksizes is that the smaller blocksizes are more exact, but would require a waay too long hash for bigger files, so to keep the hash-length down if the file is big a bigger blocksize is chosen.",
+            "timeStamp": "2021/11/02-05:08:39",
+            "id": "hj02r6s",
+            "is_submitter": false,
+            "link_id": "t3_ql0347",
+            "parent_id": "t3_ql0347",
+            "score": 2,
+            "stickied": false,
+            "author_name": "streamlin3d"
+        }
+    }
+}

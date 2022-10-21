@@ -1,0 +1,132 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I know a file can be signed by a company and the file could be malware but what is the process of signing a file? If you are doing malware analysis and see that the file is not signed is that immediately a red flag or is there a legitimate purpose for a file not being signed?",
+        "title": "Reality of signed files",
+        "score": 9,
+        "id": "c34z2q",
+        "commsNum": 10,
+        "timeStamp": "2019/06/20-19:32:25",
+        "author_name": "dkaye_mal_anst18",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 10,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/c34z2q/reality_of_signed_files/"
+    },
+    "posts": {
+        "errf4wx": {
+            "comment": "It's not necessarily a red flag. I've come across small publishers (usually sharewares) that do not want to pay for a cert to sign their software.",
+            "timeStamp": "2019/06/21-18:57:54",
+            "id": "errf4wx",
+            "is_submitter": false,
+            "link_id": "t3_c34z2q",
+            "parent_id": "t3_c34z2q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "nyxx88"
+        },
+        "erqvufc": {
+            "comment": "Good to know, thank you for your knowledge.",
+            "timeStamp": "2019/06/21-14:42:37",
+            "id": "erqvufc",
+            "is_submitter": true,
+            "link_id": "t3_c34z2q",
+            "parent_id": "t1_erqvfre",
+            "score": 1,
+            "stickied": false,
+            "author_name": "dkaye_mal_anst18"
+        },
+        "erqvfre": {
+            "comment": "Unfortunately missing signature is very common.\n\nAlso there are lazy vendors that sign only the installer, not application files.",
+            "timeStamp": "2019/06/21-14:37:42",
+            "id": "erqvfre",
+            "is_submitter": false,
+            "link_id": "t3_c34z2q",
+            "parent_id": "t1_erqqexh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "4745454B"
+        },
+        "erqqexh": {
+            "comment": "So if an application is not signed at all wouldnt that be an immediate red flag? I mean is there a legitimate reason for a digital signature not to be present?",
+            "timeStamp": "2019/06/21-13:38:38",
+            "id": "erqqexh",
+            "is_submitter": true,
+            "link_id": "t3_c34z2q",
+            "parent_id": "t1_erqdji7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "dkaye_mal_anst18"
+        },
+        "erqdji7": {
+            "comment": "Not quite. With enough data you can verify certificate and what binaries signed with that certificate do. \n\nDigital signing is raw material for data miners, rather than proof of trust it was intended to be.",
+            "timeStamp": "2019/06/21-11:14:08",
+            "id": "erqdji7",
+            "is_submitter": false,
+            "link_id": "t3_c34z2q",
+            "parent_id": "t1_erq3mr0",
+            "score": 2,
+            "stickied": false,
+            "author_name": "4745454B"
+        },
+        "erq3mr0": {
+            "comment": "So its about as useful as an md5 hash because if an attacker compromises the website and put there malware on the site they can easily change the md5 hash",
+            "timeStamp": "2019/06/21-09:27:17",
+            "id": "erq3mr0",
+            "is_submitter": true,
+            "link_id": "t3_c34z2q",
+            "parent_id": "t1_erp72zp",
+            "score": 3,
+            "stickied": false,
+            "author_name": "dkaye_mal_anst18"
+        },
+        "erp72zp": {
+            "comment": "Signature alone is worthless, you always need to verify the company or independent developer  that has the certificate.",
+            "timeStamp": "2019/06/21-00:40:20",
+            "id": "erp72zp",
+            "is_submitter": false,
+            "link_id": "t3_c34z2q",
+            "parent_id": "t3_c34z2q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "4745454B"
+        },
+        "erp71fy": {
+            "comment": "Microsoft uses catalog signatures a lot. So actual file is unsigned but with a correct catalog you can still verify it.",
+            "timeStamp": "2019/06/21-00:39:20",
+            "id": "erp71fy",
+            "is_submitter": false,
+            "link_id": "t3_c34z2q",
+            "parent_id": "t1_erov4cf",
+            "score": 5,
+            "stickied": false,
+            "author_name": "4745454B"
+        },
+        "erov4cf": {
+            "comment": "While being an admin for an application whitelisting solution, we came across a lot of legitimate Microsoft Windows files which were not signed. Not sure what warrants a file to be signed or not.",
+            "timeStamp": "2019/06/20-21:00:05",
+            "id": "erov4cf",
+            "is_submitter": false,
+            "link_id": "t3_c34z2q",
+            "parent_id": "t3_c34z2q",
+            "score": 3,
+            "stickied": false,
+            "author_name": "BreadSpread"
+        },
+        "erorqtq": {
+            "comment": "Taking an excerpt from \u201cAdvanced Penetration Testing\u201d by Wil Allsopp, \u201ccode signing was something that probably sounded like a good idea back in the 90s when the process of acquiring a certificate was much harder... these days the code signing business is, well, big business. It\u2019s very competitive and they want your trade(money)\u201d \n\nIt goes on to say they\u2019ll do the bare minimum they need to in order to sell you the certificate.",
+            "timeStamp": "2019/06/20-20:15:01",
+            "id": "erorqtq",
+            "is_submitter": false,
+            "link_id": "t3_c34z2q",
+            "parent_id": "t3_c34z2q",
+            "score": 8,
+            "stickied": false,
+            "author_name": "PoorManJack"
+        }
+    }
+}

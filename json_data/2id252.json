@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "What is the best method to find malware for malware analysis? Yes, I know you are probobly thinking, \"Go to some shady site and download a .exe\". See I'm talking about the popular malware such CryptoLocker or something along those lines. I can never find just the raw piece of malware in the execution format.",
+        "title": "How to find malware?",
+        "score": 6,
+        "id": "2id252",
+        "commsNum": 7,
+        "timeStamp": "2014/10/05-08:34:59",
+        "author_name": "Deciama",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2id252/how_to_find_malware/"
+    },
+    "posts": {}
+}

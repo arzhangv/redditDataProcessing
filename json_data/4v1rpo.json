@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I hope that this is the right subreddit, if not please let me know where I should post this. I work at a computer repair shop and recently had a customer come in with a seemingly new version of the cryptolocker virus, I found that the virus came from an email on her outlook in a zip file, I took it off and put it in a dummy computer to see it in action. However It appears that you must be connected to the internet for it to run, either that or it has a delay when it starts encypting files. I copied the program to a text file and included it here. If anyone is able to read the code and tell me what exactly it does please let me know what you find!\nhttp://textuploader.com/5ezqc",
+        "title": "Help reading new cryptolocker virus file",
+        "score": 3,
+        "id": "4v1rpo",
+        "commsNum": 6,
+        "timeStamp": "2016/07/28-10:04:55",
+        "author_name": "mrjman3465",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/4v1rpo/help_reading_new_cryptolocker_virus_file/"
+    },
+    "posts": {}
+}

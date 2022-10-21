@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": 0.92,
+        "selftext": "",
+        "title": "Know Evil",
+        "score": 11,
+        "id": "hhh07s",
+        "commsNum": 6,
+        "timeStamp": "2020/06/28-09:08:39",
+        "author_name": "infosecleader",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://i.redd.it/zzjvoe2ddo751.jpg"
+    },
+    "posts": {
+        "fwnzie6": {
+            "comment": "That's fine. I just commented on the original comment because he was attacking the poster by just shitting on him over explaining why he didn't want it here.",
+            "timeStamp": "2020/07/01-22:20:41",
+            "id": "fwnzie6",
+            "is_submitter": false,
+            "link_id": "t3_hhh07s",
+            "parent_id": "t1_fwnks5l",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Nesaa"
+        },
+        "fwnks5l": {
+            "comment": "I mean he could at least quit spamming all these subreddits with these posters. /r/malware got his twice with this same poster. Seems like a place for /r/computerforensics",
+            "timeStamp": "2020/07/01-19:35:39",
+            "id": "fwnks5l",
+            "is_submitter": false,
+            "link_id": "t3_hhh07s",
+            "parent_id": "t1_fwcwa8n",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ooglesandboogles"
+        },
+        "fwcwa8n": {
+            "comment": "Go ahead and make an informative post yourself. It's readable and that's the main purpose",
+            "timeStamp": "2020/06/29-04:32:43",
+            "id": "fwcwa8n",
+            "is_submitter": false,
+            "link_id": "t3_hhh07s",
+            "parent_id": "t1_fwcv5xr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Nesaa"
+        },
+        "fwcv5xr": {
+            "comment": "still difficult to read... thats why I said \"shit quality\" How about a higher resolution",
+            "timeStamp": "2020/06/29-04:15:53",
+            "id": "fwcv5xr",
+            "is_submitter": false,
+            "link_id": "t3_hhh07s",
+            "parent_id": "t1_fwcut07",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Flyingfishfusealt"
+        },
+        "fwcut07": {
+            "comment": "I don't know if this is a joke or not. If you click in on the picture you can zoom to each section",
+            "timeStamp": "2020/06/29-04:10:18",
+            "id": "fwcut07",
+            "is_submitter": false,
+            "link_id": "t3_hhh07s",
+            "parent_id": "t1_fwcl0cw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Nesaa"
+        },
+        "fwcl0cw": {
+            "comment": "know how to select a fucking resolution  \n\n\nSome shit tier quality for something you have to read",
+            "timeStamp": "2020/06/29-01:25:40",
+            "id": "fwcl0cw",
+            "is_submitter": false,
+            "link_id": "t3_hhh07s",
+            "parent_id": "t3_hhh07s",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Flyingfishfusealt"
+        }
+    }
+}

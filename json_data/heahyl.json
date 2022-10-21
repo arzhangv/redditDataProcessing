@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "i dont know any other subreddit to post this to,but the problem is this  \n\\-Randoms programs like a alt google chrome window opens,along with microsoft store and dropbox  \n\\-chromium virus is on my laptop  \n\\-downloaded malwarebytes but its a scam one because theres 2 fucking malwarebytes sites apparently and i ran both through virus total,both said fine  \n\\-mouse moves sometimes on its own\n\nThis is my parents laptop and they have photos saved on it,either i get a non scam antivirus or i factory reset and save the files so they dont delete  \n\n\nplease help",
+        "title": "Weird Laptop Problems",
+        "score": 1,
+        "id": "heahyl",
+        "commsNum": 1,
+        "timeStamp": "2020/06/23-00:58:56",
+        "author_name": "xXxPUSSYDESTROYER900",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/heahyl/weird_laptop_problems/"
+    },
+    "posts": {
+        "fvq7j5l": {
+            "comment": "Its possible that the malware is blocking malwarebytes from running. Make sure you downloaded it directly from [malwarebytes.com](https://malwarebytes.com). If you did and it still isn't working try the solutions listed on this ([https://forums.malwarebytes.com/topic/235804-malwarebytes-wont-open-or-run/](https://forums.malwarebytes.com/topic/235804-malwarebytes-wont-open-or-run/)) forum page. If that doesn't work then run malwarebytes chameleon which you can find here ([https://forums.malwarebytes.com/topic/85715-faq-malwarebytes-wont-run-or-failed-to-resolve-my-issues/](https://forums.malwarebytes.com/topic/85715-faq-malwarebytes-wont-run-or-failed-to-resolve-my-issues/))",
+            "timeStamp": "2020/06/23-02:31:23",
+            "id": "fvq7j5l",
+            "is_submitter": false,
+            "link_id": "t3_heahyl",
+            "parent_id": "t3_heahyl",
+            "score": 1,
+            "stickied": false,
+            "author_name": "HarryPython"
+        }
+    }
+}

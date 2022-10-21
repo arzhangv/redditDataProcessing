@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": null,
+        "title": "A Look at JS_POWMET, a Completely Fileless Malware",
+        "score": 21,
+        "id": "6rxvad",
+        "commsNum": 1,
+        "timeStamp": "2017/08/06-04:25:11",
+        "author_name": "fireh7nter",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://blog.trendmicro.com/trendlabs-security-intelligence/look-js_powmet-completely-fileless-malware/"
+    },
+    "posts": {
+        "dlbspqr": {
+            "comment": "I'm going to be a bit picky on this.\n\n\nThat's an interesting technique. I've heard of in memory persistence with malware but I've never heard of one quite like this. Although the article is slightly misleading because  this is not genuinely fileless. At the kernel level it's path is:\n\n\n\\??\\Registry\\User\\{User SID}\\...\\...\\...\\...\\Script\n\n\nSo, the stub is still technically present. The payload in itself is memory persistent.\n\n\nGood find :)",
+            "timeStamp": "2017/08/08-05:48:02",
+            "id": "dlbspqr",
+            "is_submitter": false,
+            "link_id": "t3_6rxvad",
+            "parent_id": "t3_6rxvad",
+            "score": 2,
+            "stickied": false,
+            "author_name": "dwThread"
+        }
+    }
+}

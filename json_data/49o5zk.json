@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "my first yara rule &gt;&gt;&gt;&gt; review please",
+        "score": 1,
+        "id": "49o5zk",
+        "commsNum": 0,
+        "timeStamp": "2016/03/09-06:01:37",
+        "author_name": "73mp74710n",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://github.com/zombieleet/yara-rules/"
+    },
+    "posts": {}
+}

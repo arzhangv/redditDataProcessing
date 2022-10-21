@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I found a large list of DNS queries for legit looking domains -- actual words, domains that I can't imagine being created by a DGA. I was wondering are all DGA random by nature, random characters that don't form words, etc? Or are there any DGA that produce legitimate sounding domains, if so what malware family uses it?\n\nEdit: Found Nivdort uses a dictionary as part of DGA. I'm just used to seeing the random domains. Any Zeus variants with a dictionary? If 10 domains are queried and over 60% return NXDOMAIN is that a positive infection indicator?",
+        "title": "Malware DGA always random, any using word lists?",
+        "score": 3,
+        "id": "64e696",
+        "commsNum": 3,
+        "timeStamp": "2017/04/09-10:19:43",
+        "author_name": "Opinion_Unpopulares",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/64e696/malware_dga_always_random_any_using_word_lists/"
+    },
+    "posts": {}
+}

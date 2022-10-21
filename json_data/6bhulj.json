@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I want to get into analyzing malware and stuff. I know how to decompile .NET executables (I use Jetbrains dotPeek), but I can't find any good decompilers for (for example) C. I tried snowman, but it generates total spaghetti code and it's just a pain in the ass to read. [This](https://ghostbin.com/paste/untcn) is the decompiled output of a hello world script I wrote in C (yeah, I know, the output is in C++).\n\nThanks in advance.",
+        "title": "Decompile non-.NET Windows executables?",
+        "score": 0,
+        "id": "6bhulj",
+        "commsNum": 11,
+        "timeStamp": "2017/05/16-07:39:05",
+        "author_name": "ThePixelCoder",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 11,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6bhulj/decompile_nonnet_windows_executables/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,209 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Last Friday, 7 of our employees' office365 email accounts were hacked simultaneously. We saw successful logins from random US addresses. The virus went through emails and basically does a reply-all with a virus called `request.zip`.\n\nThey all have eset running and a scan shows to be clean. They do not use the same password for other things and there's no shared software they all use as there's always one person that eliminates that possibility that that's how they got hacked.\n\nWhat I find most interesting, is that out of those 7 people, one is a person who hasn't worked in the company for years. His account is managed by another one of the victims. This almost certainly tells me it's malware.\n\nOf course, because of this we enabled 2FA for everyone and made them change their passwords but everyone is super worried about not knowing how that happened and the very likely possibility that those people are still vulnerable (We started reinstalling the OS with clean installation just to be safe but for now, we still have some not reformatted for tests). To get things worse, lots of our customers downloaded the malware that the breached accounts sent but that's a different issue.\n\nDoes anyone know how that might've happened? Did anyone experience anything similar? Is there anything I should look for?\n\nThanks ahaed.",
+        "title": "We were hacked and have no idea how",
+        "score": 1,
+        "id": "jf9kt1",
+        "commsNum": 17,
+        "timeStamp": "2020/10/21-02:21:59",
+        "author_name": "HeadTea",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 17,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/jf9kt1/we_were_hacked_and_have_no_idea_how/"
+    },
+    "posts": {
+        "g9jmhki": {
+            "comment": "Also check the ip's the log ons came from here [https://pulsedive.com/](https://pulsedive.com/) or in \n\n[virustotal.com](https://virustotal.com) if they are malicious or if they are not look at what organisation they belong to. This can give you a direction if specific product is responsible for the breach.",
+            "timeStamp": "2020/10/21-07:43:09",
+            "id": "g9jmhki",
+            "is_submitter": false,
+            "link_id": "t3_jf9kt1",
+            "parent_id": "t1_g9jm2ab",
+            "score": 1,
+            "stickied": false,
+            "author_name": "infosecdude_eu"
+        },
+        "g9jm2ab": {
+            "comment": "Ok cool. Get one of the problematic boxes and run this https://www.nirsoft.net/utils/computer_activity_view.html. It can give you a quick win as to what was started on the computer. Needless to say be careful as to not to compromise your own account when you log on to the machine.",
+            "timeStamp": "2020/10/21-07:39:27",
+            "id": "g9jm2ab",
+            "is_submitter": false,
+            "link_id": "t3_jf9kt1",
+            "parent_id": "t1_g9jiz5s",
+            "score": 1,
+            "stickied": false,
+            "author_name": "infosecdude_eu"
+        },
+        "g9jj0zi": {
+            "comment": "In the grand scheme of things it seems to be something simple since no bad guys in their right mind will send out mass email in the middle of a network compromise. Check account permissions and user activity logs.",
+            "timeStamp": "2020/10/21-07:12:44",
+            "id": "g9jj0zi",
+            "is_submitter": false,
+            "link_id": "t3_jf9kt1",
+            "parent_id": "t1_g9jhsux",
+            "score": 1,
+            "stickied": false,
+            "author_name": "infosecdude_eu"
+        },
+        "g9jiz5s": {
+            "comment": "Thanks for the response!\n\nLooking at online activity from the cloud admin showed successful login attempts to the breached accounts in the US. Other than sending out a million emails there was nothing else interesting. If the succesful login wasn't local - I assume the credentials were stolen. the only thing I could think of is a phishing attempt. I had access to one of the employees' mailboxes but it feels impossible as there are so many emails and I'm not sure what to look for.. because the breached accounts were microsoft so i search some similar keywords but there were just too many emails to go through.\n\nIt's also possible it's a PC on the malware but the ESET scan and Malwarebytes showed to be clean (maybe its not a file but rather a powershell script that runs once and leaves no trace?). I plan on looking into logins to the machines but different timezones make it hard. \n\nProfessionals are definitely needed. I'm just trying to figure things out until they take over.",
+            "timeStamp": "2020/10/21-07:12:17",
+            "id": "g9jiz5s",
+            "is_submitter": true,
+            "link_id": "t3_jf9kt1",
+            "parent_id": "t1_g9jhsux",
+            "score": 1,
+            "stickied": false,
+            "author_name": "HeadTea"
+        },
+        "g9jhsux": {
+            "comment": "That is a 200-400$ an hour question. Joking aside foothold is a compromised user account, vpn credential, malware installed on endpoint etc. Basically allowing the bad guys a way in to your environment being cloud or on premises. Get Some IT involved generating random theories on the internet ain't the best use of your time. Figure out what logs you have and start digging. I would recommend starting  with the cloud admin activity logs and event logs from the endpoints of your compromised users. I posted a triage procedure for the cloud system in my first reply. Figure out did malware persist on the user computers and if so wha the hell was it.  This video provides a workable process to triage malware for an average sys admin [https://www.youtube.com/watch?v=vW8eAqZyWeo](https://www.youtube.com/watch?v=vW8eAqZyWeo).  \n\nIf you come to the conclusion that indeed you have been compromised on a deeper level call in professionals. I have seen companies botch response spectacularry and I am getting the same vibes now.",
+            "timeStamp": "2020/10/21-07:01:27",
+            "id": "g9jhsux",
+            "is_submitter": false,
+            "link_id": "t3_jf9kt1",
+            "parent_id": "t1_g9j7b5d",
+            "score": 1,
+            "stickied": false,
+            "author_name": "infosecdude_eu"
+        },
+        "g9j7b5d": {
+            "comment": "Thank you so much for the insight. May I ask how do I know if they have local foothold?",
+            "timeStamp": "2020/10/21-05:10:57",
+            "id": "g9j7b5d",
+            "is_submitter": true,
+            "link_id": "t3_jf9kt1",
+            "parent_id": "t1_g9j3xby",
+            "score": 1,
+            "stickied": false,
+            "author_name": "HeadTea"
+        },
+        "g9j70pe": {
+            "comment": "may i ask how it may be AD?",
+            "timeStamp": "2020/10/21-05:07:17",
+            "id": "g9j70pe",
+            "is_submitter": true,
+            "link_id": "t3_jf9kt1",
+            "parent_id": "t1_g9j43ro",
+            "score": 1,
+            "stickied": false,
+            "author_name": "HeadTea"
+        },
+        "g9j43ro": {
+            "comment": "This smells like compromised AD/o365 rather than malware (though malware could be how they got in).",
+            "timeStamp": "2020/10/21-04:27:29",
+            "id": "g9j43ro",
+            "is_submitter": false,
+            "link_id": "t3_jf9kt1",
+            "parent_id": "t1_g9j175s",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Slateclean"
+        },
+        "g9j3xby": {
+            "comment": "Ok AD is a single source of authentication. This makes \"internal pivoting\" basically the bad guys moving from box to box much easier if they have a compromised admin credential. They can use WINRM, powershell remoting, smb, wmi to basically send remote commands to other computers from a compromised host. If they have managed to obtain access and administrator credentials rebuilding of computers basically turns in to whack a mole. Untill you evict them from the enviroment  any recovery efforts take second priority. What you have to ask yourself now is do they have a local foothold. I do have access to malware classification utility and I will be happy to take a look at your particular sample of malware - this is what I do for a living. Looking at said malware will give us better idea of what where they trying to achieve. The logs off a a compromised host will hold the information on how did it get compromised so don't kill all of the computers that presumably got infected.",
+            "timeStamp": "2020/10/21-04:24:47",
+            "id": "g9j3xby",
+            "is_submitter": false,
+            "link_id": "t3_jf9kt1",
+            "parent_id": "t1_g9j2oxy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "infosecdude_eu"
+        },
+        "g9j2oxy": {
+            "comment": "Thank you SO MUCH for the response,\n\nAll the endpoints run windows 10. \n\nUsers use a different browser (each his own though mostly chrome).\n\n All the users are managed through Active Directory\n\nThere is a shared local admin among these laptops\n\nFor network structure &amp; VPN - I work in a different country so I'm not the one who manages it but they have laptops and work from home sometimes. They barely use the VPN to connect to the domain. They are the only ones who use the Windows VPN. Most their work doesn't require VPN. They're marking - they use outlook for mail and have an app called \"Hubspot\" which has rw privileges for their inboxes (learned about it now) \n\nThe zip is a trojan, I haven't opened that, not sure what it is. probably emotet. management is more consider about how they got access to the mailboxes to send the .zip in the first place.\n\nWe did look for the o365 audit logs and did see logins from the us \n\nmay i ask about the AD complication, I don't see yet how it's related.\n\nHuge thanks again.",
+            "timeStamp": "2020/10/21-04:05:40",
+            "id": "g9j2oxy",
+            "is_submitter": true,
+            "link_id": "t3_jf9kt1",
+            "parent_id": "t1_g9j0h7p",
+            "score": 1,
+            "stickied": false,
+            "author_name": "HeadTea"
+        },
+        "g9j1mz3": {
+            "comment": "I understand the deduction, but by your use of O365  it'd be more likely a comp'd admin account on your cloud platform.\n\nFor instance, if you have EWS enabled with basic auth (since you only just turned on 2FA), you can have unlimited attempts at bruteforcing passwords for admin accounts.\n\nYou need to check your logs. Get someone else who's IT competent to check the hosts to see IF there are any anomalous inbound/outbound connections.\n\nAre you the IT or general tech guy of the office? We'd need a bunch more detail in order to accurately advise you. You mentioned the email being sent was [requests.zip](https://requests.zip)? You said it was a virus? What was in the zip? What did the body of the email sending it read. All of this is necessary context. \n\nYou could dump everything you DO know, instead of having back and forths over a thread with individual questions. But I think someone who isn't as busy as me has offered to chat to you about it below.",
+            "timeStamp": "2020/10/21-03:47:57",
+            "id": "g9j1mz3",
+            "is_submitter": false,
+            "link_id": "t3_jf9kt1",
+            "parent_id": "t1_g9j0lwp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TheCraziestOfHorses"
+        },
+        "g9j17wm": {
+            "comment": "[removed]",
+            "timeStamp": "2020/10/21-03:40:46",
+            "id": "g9j17wm",
+            "is_submitter": false,
+            "link_id": "t3_jf9kt1",
+            "parent_id": "t1_g9j175s",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "g9j175s": {
+            "comment": "Thanks for the response. \n\nIt's very possible that `request.zip` is emotet. But I don't think that is the thing that was used to hack into the victim's mail because even the victims got alerts for `request.zip`.",
+            "timeStamp": "2020/10/21-03:40:24",
+            "id": "g9j175s",
+            "is_submitter": true,
+            "link_id": "t3_jf9kt1",
+            "parent_id": "t1_g9iyo85",
+            "score": 1,
+            "stickied": false,
+            "author_name": "HeadTea"
+        },
+        "g9j0lwp": {
+            "comment": "I'm saying that because if person A manages person B, why would person B get infected? it seems more logical that something on the computer got access to both those accounts",
+            "timeStamp": "2020/10/21-03:30:10",
+            "id": "g9j0lwp",
+            "is_submitter": true,
+            "link_id": "t3_jf9kt1",
+            "parent_id": "t1_g9iyog6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "HeadTea"
+        },
+        "g9j0h7p": {
+            "comment": "What you are describing smells like a compromised admin credential.\n\nIf I was coordinating response on this one I would ask the following questions.\n\nWhat is the operating system of your endpoints ?\n\nWhat browser is in use and are there any extensions installed ?\n\nDo you use centralised active directory to managed them ?\n\nIs there a shared local admin accounts on the workstations ?\n\nWhat is your network structure ?\n\nIs there any VPN access provided and how does it work ?\n\n&amp;#x200B;\n\nWhat I would look for is indicators of compromise and footholds.\n\n&amp;#x200B;\n\nFor O365\n\nFootholds are not only on onsite infrastructure however. I would suspect that there is compromise in your O365 instance I would activate office 365 audit logs and watch them like a hawk. \n\n[https://docs.microsoft.com/en-us/microsoft-365/compliance/turn-audit-log-search-on-or-off?view=o365-worldwide](https://docs.microsoft.com/en-us/microsoft-365/compliance/turn-audit-log-search-on-or-off?view=o365-worldwide)\n\n&amp;#x200B;\n\nI would check the O365 instance for forwarding rules, Strange admin accounts, and rogue enterprise apps.  Get real familiar with this.\n\n[https://www.fireeye.com/blog/threat-research/2020/07/insights-into-office-365-attacks-and-how-managed-defense-investigates.html](https://www.fireeye.com/blog/threat-research/2020/07/insights-into-office-365-attacks-and-how-managed-defense-investigates.html)\n\n&amp;#x200B;\n\nAnd use this as a guidline.\n\n[https://dragonadvancetech.com/reports/O365-IR%20Playbook\\_v1.0.pdf](https://dragonadvancetech.com/reports/O365-IR%20Playbook_v1.0.pdf)\n\n&amp;#x200B;\n\n \n\nIf you have an AD - this complicates things somewhat but it also gives you more data to sift for.\n\nLook for compromised accounts and recently reset passwords.\n\nAD accounts have an attribute - last changed so make sure you look at any \"changes\" tha you are not aware of accounts created group changes etc.\n\n&amp;#x200B;\n\nPing me on DM. Without details I am shooting in the dark.",
+            "timeStamp": "2020/10/21-03:27:50",
+            "id": "g9j0h7p",
+            "is_submitter": false,
+            "link_id": "t3_jf9kt1",
+            "parent_id": "t3_jf9kt1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "infosecdude_eu"
+        },
+        "g9iyog6": {
+            "comment": "I have too many questions bud. I think I'll start with the easiest. \n\nHow do you know its malware? \n\n&gt; His account is managed by another one of the victims. This almost certainly tells me it's malware. \n\nWhy? How? I don't see the relation between these two.",
+            "timeStamp": "2020/10/21-02:54:58",
+            "id": "g9iyog6",
+            "is_submitter": false,
+            "link_id": "t3_jf9kt1",
+            "parent_id": "t3_jf9kt1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TheCraziestOfHorses"
+        },
+        "g9iyo85": {
+            "comment": "Emotet (the malware) has a feature which if a system is compromised by it, it replies to emails attaching malware. Hard to tell if this is Emotet though. Upload [request.zip](https://request.zip) to Virustotal and drop the link here.",
+            "timeStamp": "2020/10/21-02:54:52",
+            "id": "g9iyo85",
+            "is_submitter": false,
+            "link_id": "t3_jf9kt1",
+            "parent_id": "t3_jf9kt1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mc_markus"
+        }
+    }
+}

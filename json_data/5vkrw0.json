@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "About to try my hand at reversing malware; reading PMA and some other stuff. Unfortunately, my secondary (Linux) computer is too slow/old to effectively run it in a VM (it doesnt even have hardware virtualization; it took 2 hrs to install win XP lol), so my *only choice* is to run a VM on my main machine. I know there's no 100% guarantee of safety but this is what I've come up with. Please let me know if I've missed anything:\n\n1. Always keep VirtualBox up to date.\n\n2. Analyze malware that is already well-known and isn't totally destructive in the first place (start with spyware and adware, for example).\n\n3. Analyze malware that my main machine's anti-malware software recognizes so that if it were to get out somehow, at least it would be picked up by the software and I could promptly remove it.\n\n4. If I do decide to work on a bigger threat such as a ransomeware or a mbr virus or something, make sure that the host machine is completely backed up first by a completely isolated/un-networked backup.\n\n5. Perhaps apply some of the concepts and/or experiment with non-malware binaries as well.\n\nAlso, does anyone know if there's a guide to networking for malware analysis? I've heard that I should isolate my device if possible but I'm not sure what that really means as I'm just on a wi-fi router but otherwise I don't share files or anything between computers. Thanks for your tips.. and sorry for long post, sensitive subject!",
+        "title": "Malware in a VM",
+        "score": 15,
+        "id": "5vkrw0",
+        "commsNum": 18,
+        "timeStamp": "2017/02/22-11:25:22",
+        "author_name": "null_endian",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 18,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5vkrw0/malware_in_a_vm/"
+    },
+    "posts": {}
+}

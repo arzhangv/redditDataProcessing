@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I was running a boot time scan on a brand new laptop I've only  had for a few weeks and have very little on except a few LibreOffice  files and some MP3 audiobooks and some videos that are saved in WEBM  format. Today when I ran it twice, each time when it started up the  \"boot time scan\" was about 3 seconds and then a yellow triangle pop up  would appear saying \"AV boot time scan create file\" and you have to  click OK and then seemingly it starts up but does not appear to do any  scan at all.\n\nCan anybody help with what's going on? I update Avast daily in the settings, so it is current.",
+        "title": "Why is Avast showing this alert",
+        "score": 1,
+        "id": "wc6n68",
+        "commsNum": 0,
+        "timeStamp": "2022/07/30-13:30:07",
+        "author_name": "47952",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/wc6n68/why_is_avast_showing_this_alert/"
+    },
+    "posts": {
+        "iib0l0a": {
+            "comment": "first and foremost you really should stop using avast. it's bloated, used as adware, and most importantly have confirmed cases of selling user data. there's a lot of much less shady free antiviruses, and truth be told Windows Defender does a decent job on itself if you aren't stupid.",
+            "timeStamp": "2022/07/30-14:32:59",
+            "id": "iib0l0a",
+            "is_submitter": false,
+            "link_id": "t3_wc6n68",
+            "parent_id": "t3_wc6n68",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Bezimienny4325"
+        }
+    }
+}

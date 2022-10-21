@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi, does anybody know anything about the new facebook malware being reported as targeting new Zealand this morning. I haven't been able to find anything useful (ie hashes/samples/urls) yet.\nnon technical description here: https://www.tvnz.co.nz/one-news/new-zealand/warning-nz-facebook-users-cautioned-new-malware-attack-targets-passwords",
+        "title": "New Facebook malware seen in NZ",
+        "score": 4,
+        "id": "6vpjv5",
+        "commsNum": 5,
+        "timeStamp": "2017/08/24-01:43:13",
+        "author_name": "peter_mack",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6vpjv5/new_facebook_malware_seen_in_nz/"
+    },
+    "posts": {
+        "dm308vi": {
+            "comment": "This is also currently being Tweeted about by [@fransrosen](https://twitter.com/fransrosen) who has a link to the third stage JS file, which is executed in each tab. Frans details other legitimate extensions which are being cloned to add the malicious background.js file.\n\nIt's also been covered by @JacobyDavid [here](https://securelist.com/new-multi-platform-malwareadware-spreading-via-facebook-messenger/81590/) who notes that, as expected, it varies to target the user's specific environment.",
+            "timeStamp": "2017/08/24-15:01:13",
+            "id": "dm308vi",
+            "is_submitter": false,
+            "link_id": "t3_6vpjv5",
+            "parent_id": "t1_dm20asc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "JoshBrodieNZ"
+        },
+        "dm2dvyt": {
+            "comment": "This is also happening in denmark and is spreading like crazy.  \n\nIt's a Chrome extension called \"Wiki It\" by mt2strom.com\n\n",
+            "timeStamp": "2017/08/24-08:26:02",
+            "id": "dm2dvyt",
+            "is_submitter": false,
+            "link_id": "t3_6vpjv5",
+            "parent_id": "t3_6vpjv5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AdamUllstrom"
+        },
+        "dm20asc": {
+            "comment": "Haven't chucked it up on VT, just spent a minute pulling the thing down for a quick look. The JavaScript in the extension is [here](https://pastebin.com/q9urFHQu) and a lazy, shallow deobfuscation suggests it's going to make callouts to hxxp://jsdo[.]bid/avomazuzehisaj.json (edit: with a URL parameter which I'm yet to deobfuscate but is generated through a function so maybe dynamic) which in turn supplies the URL hxxp://jsdo].]bid/&lt;random_id&gt;.bg\n\nEDIT:\nOther domains hit in the process are what the link first resolves to:\nhxxps://drive[.]google[.]com/file/d/0B57QgBWLVO-WSFFDQWtkUUxkWjA/preview\n\nWhere clicking the video leads:\nhxxps://docs[.]mt2strom[.]com/video/profile.php?u=1073237158\n\nThe extension it triggers an installation request for:\nhxxps://chrome[.]google[.]com/webstore/detail/wiki-it/iclfdnhdchmifbokddeceofadeikmmai\n\nNote, this is all my experience and may vary between users.\n\nEDIT EDIT: Okay, deobfuscated by hand for practice and [this](https://pastebin.com/dcH1ZmYi) is all the array references swapped out for strings. This still contains a lot of junk code but is included here for completeness. I resolved every junk reference in case there was extra functionality pretending to be junk. TextEdit did some smartquote stuff, because it's a jerk, so this may not run.\n\n[This](https://pastebin.com/K50YQLAC) seems to be the relevant JS from this file which fetches the next stage by inserting a script element on the page with a src property of hxxp://jsdo[.]bid/&lt;GUID&gt;\n\n[This](https://pastebin.com/aMekEekw) is the second obfuscated stage.\n\nMORE EDITS:\n\n[This](https://pastebin.com/3EWgqKth) is the relevant parts of the second stage, which seems to call out to hxxp://jsdo.bid/sc.php, resolve that into a URL and call out to the URL, then execute the response to that inside each tab as it is updated. Also reads like it closes the tab if you open the Chrome extensions manager to try and remove it.\n",
+            "timeStamp": "2017/08/24-02:12:25",
+            "id": "dm20asc",
+            "is_submitter": false,
+            "link_id": "t3_6vpjv5",
+            "parent_id": "t1_dm205c7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "JoshBrodieNZ"
+        },
+        "dm205c7": {
+            "comment": "do you have this sample? link to it on VT?",
+            "timeStamp": "2017/08/24-02:05:07",
+            "id": "dm205c7",
+            "is_submitter": true,
+            "link_id": "t3_6vpjv5",
+            "parent_id": "t1_dm2031m",
+            "score": 1,
+            "stickied": false,
+            "author_name": "peter_mack"
+        },
+        "dm2031m": {
+            "comment": "The URL in the screenshot links to a Google Drive page with a fake video. The video links to a fake YouTube which triggers the installation of a Chrome extension. Downloading the extension as a zip and unpacking it, there's a large block of obfuscated JavaScript in background.js which is as far as I've gone so far but is a sample which can be further investigated.",
+            "timeStamp": "2017/08/24-02:02:01",
+            "id": "dm2031m",
+            "is_submitter": false,
+            "link_id": "t3_6vpjv5",
+            "parent_id": "t3_6vpjv5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "JoshBrodieNZ"
+        }
+    }
+}

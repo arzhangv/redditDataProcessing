@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[removed]",
+        "title": "MAC Filtering is unsecure?!",
+        "score": 0,
+        "id": "6qnaiv",
+        "commsNum": 5,
+        "timeStamp": "2017/07/31-02:19:02",
+        "author_name": "[deleted]",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6qnaiv/mac_filtering_is_unsecure/"
+    },
+    "posts": {
+        "dkytruw": {
+            "comment": "[removed]",
+            "timeStamp": "2017/07/31-07:54:54",
+            "id": "dkytruw",
+            "is_submitter": false,
+            "link_id": "t3_6qnaiv",
+            "parent_id": "t3_6qnaiv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "dkynaa7": {
+            "comment": "It's a layer that is valid to use in defense, but it is not at all a strong layer. \n\nSo long as you are aware of its limitations, you can decide for yourself if it is worth the attendant management hassle in your environment, or not. \n\n(Personally I think it is useful in that you can assume anyone caught spoofing MAC addresses to get on your network does not mean well. You will, of course, need to be able to detect that for it to do you any good.)",
+            "timeStamp": "2017/07/31-05:17:16",
+            "id": "dkynaa7",
+            "is_submitter": false,
+            "link_id": "t3_6qnaiv",
+            "parent_id": "t3_6qnaiv",
+            "score": 2,
+            "stickied": false,
+            "author_name": "peacefinder"
+        },
+        "dkylwy7": {
+            "comment": "Good analogy ",
+            "timeStamp": "2017/07/31-04:29:14",
+            "id": "dkylwy7",
+            "is_submitter": false,
+            "link_id": "t3_6qnaiv",
+            "parent_id": "t1_dkyjk2v",
+            "score": 2,
+            "stickied": false,
+            "author_name": "ragnar_graybeard87"
+        },
+        "dkyjk2v": {
+            "comment": "Clients control their mac address, ~ *don't trust the client*.   \n\nI treat it like a bozo filter.  It won't stop bullets with your name on them, but it will stop those addressed generically to *\"To whom it may concern...\"*",
+            "timeStamp": "2017/07/31-02:45:00",
+            "id": "dkyjk2v",
+            "is_submitter": false,
+            "link_id": "t3_6qnaiv",
+            "parent_id": "t3_6qnaiv",
+            "score": 10,
+            "stickied": false,
+            "author_name": "ImSoGoingToHell"
+        },
+        "dkyje0v": {
+            "comment": "MAC addresses can be spoofed. The only time you would maybe use it is for xbox &amp; printers which dont have have a native 802.1x client. \n\nNot sure why you posted in this subreddit though.",
+            "timeStamp": "2017/07/31-02:36:52",
+            "id": "dkyje0v",
+            "is_submitter": false,
+            "link_id": "t3_6qnaiv",
+            "parent_id": "t3_6qnaiv",
+            "score": 9,
+            "stickied": false,
+            "author_name": "TailSpinBowler"
+        }
+    }
+}

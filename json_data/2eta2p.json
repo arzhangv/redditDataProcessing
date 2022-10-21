@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Forensics Tidbits of the Mayhem Botnet",
+        "score": 1,
+        "id": "2eta2p",
+        "commsNum": 0,
+        "timeStamp": "2014/08/28-04:15:15",
+        "author_name": "J-Cruize",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.techiehow.com/content/forensics-tidbits-mayhem-botnet"
+    },
+    "posts": {}
+}

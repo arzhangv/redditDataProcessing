@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Recovering custom hashes for the Petya/Notpetya malware",
+        "score": 1,
+        "id": "6kf1bo",
+        "commsNum": 0,
+        "timeStamp": "2017/06/30-03:12:18",
+        "author_name": "daanraman",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://blog.nviso.be/2017/06/30/recovering-custom-hashes-for-the-petyanotpetya-malware/"
+    },
+    "posts": {}
+}

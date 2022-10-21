@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Malcat: a binary editor / disassembler / decompiler / scanner for malware analysis on Linux and Windows",
+        "score": 1,
+        "id": "sanvvv",
+        "commsNum": 0,
+        "timeStamp": "2022/01/22-23:14:23",
+        "author_name": "kaze0mx",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://malcat.fr"
+    },
+    "posts": {
+        "htxtnfa": {
+            "comment": "[removed]",
+            "timeStamp": "2022/01/23-14:32:26",
+            "id": "htxtnfa",
+            "is_submitter": false,
+            "link_id": "t3_sanvvv",
+            "parent_id": "t3_sanvvv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "htxs3vs": {
+            "comment": "seems like it could be decent. Ill wait to see some reviews on it before spending money",
+            "timeStamp": "2022/01/23-14:22:28",
+            "id": "htxs3vs",
+            "is_submitter": false,
+            "link_id": "t3_sanvvv",
+            "parent_id": "t3_sanvvv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "naptown21403"
+        },
+        "htuxz0r": {
+            "comment": "I like the implementation of YARA rules.",
+            "timeStamp": "2022/01/23-00:40:51",
+            "id": "htuxz0r",
+            "is_submitter": false,
+            "link_id": "t3_sanvvv",
+            "parent_id": "t3_sanvvv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Za_Inat"
+        },
+        "htuxjbx": {
+            "comment": "It's a GUI, there is inline help (Ctrl+H)",
+            "timeStamp": "2022/01/23-00:35:18",
+            "id": "htuxjbx",
+            "is_submitter": true,
+            "link_id": "t3_sanvvv",
+            "parent_id": "t1_htuu0nf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "kaze0mx"
+        },
+        "htuu0nf": {
+            "comment": "How it work ?",
+            "timeStamp": "2022/01/22-23:51:32",
+            "id": "htuu0nf",
+            "is_submitter": false,
+            "link_id": "t3_sanvvv",
+            "parent_id": "t3_sanvvv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "BIG_SM0KE3"
+        }
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[removed]",
+        "title": "Good source for ransomware samples with word search?",
+        "score": 1,
+        "id": "bai4ga",
+        "commsNum": 3,
+        "timeStamp": "2019/04/07-09:37:17",
+        "author_name": "ScumbagRedditGuy",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/bai4ga/good_source_for_ransomware_samples_with_word/"
+    },
+    "posts": {
+        "elmc63m": {
+            "comment": "Oh thanks!",
+            "timeStamp": "2019/04/23-18:01:50",
+            "id": "elmc63m",
+            "is_submitter": true,
+            "link_id": "t3_bai4ga",
+            "parent_id": "t1_ellr6is",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ScumbagRedditGuy"
+        },
+        "ellr6is": {
+            "comment": "I would check out this site:  [https://app.any.run/submissions](https://app.any.run/submissions) \n\nYou can search for basically any type of malware by querying for it. If you go to the filter icon (to the right of \"Type hash to search\") and if you go to the verdict section there is a hashtag # bar. In there you can type \"ransomware\" and it will look for all the submissions where the verdict was ransomware. Then you can pick and go through the submission and can download the samples. I am not responsible for anything you do with the ransomware though just so we are clear just for research purposes only.",
+            "timeStamp": "2019/04/23-13:54:59",
+            "id": "ellr6is",
+            "is_submitter": false,
+            "link_id": "t3_bai4ga",
+            "parent_id": "t3_bai4ga",
+            "score": 1,
+            "stickied": false,
+            "author_name": "dkaye_mal_anst18"
+        },
+        "ekbmo1q": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2019/04/07-09:37:18",
+            "id": "ekbmo1q",
+            "is_submitter": false,
+            "link_id": "t3_bai4ga",
+            "parent_id": "t3_bai4ga",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

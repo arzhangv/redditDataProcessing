@@ -1,0 +1,143 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "This started to happen only a few hours ago, I have not entered any suspicious or downloaded any software that wasn't scanned and legitimated by Kaspersky itself. I'm already going nuts with this notification spamming, please help me\n\nEvent: Access denied\n\nUser: \\*censored\\*\n\nUser type: Active user\n\nApplication name: svchost.exe\n\nApplication path: C:\\\\Windows\\\\System32\n\nComponent: Web Anti-Virus\n\nResult description: Blocked\n\nType: Malicious link\n\nName: [http://wpad.domain.name/wpad.dat](http://wpad.domain.name/wpad.dat) &lt; please don't click this\n\nPrecision: Exactly\n\nThreat level: High\n\nObject type: Web page\n\nObject name: wpad.dat\n\nObject path: [http://wpad.domain.name](http://wpad.domain.name) &lt; please don't click this\n\nReason: Databases\n\nDatabases release date: Yesterday, 9/16/2021 6:40:00 AM",
+        "title": "Kaspersky constantly spamming \"Access Denied\" reports on svchost.exe process.",
+        "score": 1,
+        "id": "pptmbb",
+        "commsNum": 11,
+        "timeStamp": "2021/09/16-21:52:17",
+        "author_name": "obiwanbestboi",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 11,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/pptmbb/kaspersky_constantly_spamming_access_denied/"
+    },
+    "posts": {
+        "hdag3q2": {
+            "comment": "It\u2019s soo annoying I\u2019m getting a notification every few minutes",
+            "timeStamp": "2021/09/17-20:18:52",
+            "id": "hdag3q2",
+            "is_submitter": false,
+            "link_id": "t3_pptmbb",
+            "parent_id": "t1_hdaeekh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sumtg"
+        },
+        "hdaeekh": {
+            "comment": "I'm seeing a lot of people share from the same problem and they all started recently and randomly, I'm thinking the wrong is in Kaspersky's  side",
+            "timeStamp": "2021/09/17-20:03:33",
+            "id": "hdaeekh",
+            "is_submitter": true,
+            "link_id": "t3_pptmbb",
+            "parent_id": "t1_hd6m6tu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "obiwanbestboi"
+        },
+        "hd94ulv": {
+            "comment": "Classic. Reminds me of Xmas day a couple of years ago where Twitter fell into X-Force Premium Malware URL list. And over half of our customers (MSSP) subscribed to that feed. \n\nIt was not the chill holiday shift I was expecting :(",
+            "timeStamp": "2021/09/17-13:55:07",
+            "id": "hd94ulv",
+            "is_submitter": false,
+            "link_id": "t3_pptmbb",
+            "parent_id": "t1_hd6uj8u",
+            "score": 1,
+            "stickied": false,
+            "author_name": "1-2-switch"
+        },
+        "hd8s6jx": {
+            "comment": "same here bro",
+            "timeStamp": "2021/09/17-12:25:14",
+            "id": "hd8s6jx",
+            "is_submitter": false,
+            "link_id": "t3_pptmbb",
+            "parent_id": "t1_hd6m6tu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "hicksyko"
+        },
+        "hd6uj8u": {
+            "comment": "Sounds like they made a mistake and mis-categorized a very common automated URL.  I imagine it will be noticed and fixed.  Unless someone is actually pulling a proxy PAC attack, which seems unlikely",
+            "timeStamp": "2021/09/17-03:09:20",
+            "id": "hd6uj8u",
+            "is_submitter": false,
+            "link_id": "t3_pptmbb",
+            "parent_id": "t3_pptmbb",
+            "score": 0,
+            "stickied": false,
+            "author_name": "venerable4bede"
+        },
+        "hd6n1m7": {
+            "comment": "[removed]",
+            "timeStamp": "2021/09/17-01:13:22",
+            "id": "hd6n1m7",
+            "is_submitter": false,
+            "link_id": "t3_pptmbb",
+            "parent_id": "t3_pptmbb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hd6mzxg": {
+            "comment": "[removed]",
+            "timeStamp": "2021/09/17-01:12:38",
+            "id": "hd6mzxg",
+            "is_submitter": false,
+            "link_id": "t3_pptmbb",
+            "parent_id": "t1_hd6m6tu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hd6m6tu": {
+            "comment": "I\u2019m having the same problem that started today",
+            "timeStamp": "2021/09/17-01:00:00",
+            "id": "hd6m6tu",
+            "is_submitter": false,
+            "link_id": "t3_pptmbb",
+            "parent_id": "t3_pptmbb",
+            "score": 0,
+            "stickied": false,
+            "author_name": "sumtg"
+        },
+        "hd6ffv7": {
+            "comment": "Desktop version of /u/marvuozz's link: &lt;https://en.wikipedia.org/wiki/Web_Proxy_Auto-Discovery_Protocol&gt;\n\n --- \n\n ^([)[^(opt out)](https://reddit.com/message/compose?to=WikiMobileLinkBot&amp;message=OptOut&amp;subject=OptOut)^(]) ^(Beep Boop.  Downvote to delete)",
+            "timeStamp": "2021/09/16-23:24:07",
+            "id": "hd6ffv7",
+            "is_submitter": false,
+            "link_id": "t3_pptmbb",
+            "parent_id": "t1_hd6fey6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "WikiMobileLinkBot"
+        },
+        "hd6ffs6": {
+            "comment": "[removed]",
+            "timeStamp": "2021/09/16-23:24:05",
+            "id": "hd6ffs6",
+            "is_submitter": false,
+            "link_id": "t3_pptmbb",
+            "parent_id": "t1_hd6fey6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hd6fey6": {
+            "comment": "https://en.m.wikipedia.org/wiki/Web_Proxy_Auto-Discovery_Protocol   \n\nGet rid of karspersky.",
+            "timeStamp": "2021/09/16-23:23:47",
+            "id": "hd6fey6",
+            "is_submitter": false,
+            "link_id": "t3_pptmbb",
+            "parent_id": "t3_pptmbb",
+            "score": 0,
+            "stickied": false,
+            "author_name": "marvuozz"
+        }
+    }
+}

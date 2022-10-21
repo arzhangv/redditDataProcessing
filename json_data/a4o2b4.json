@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Getting Intimate with Emotet: Dissecting the Emotet Loader",
+        "score": 1,
+        "id": "a4o2b4",
+        "commsNum": 1,
+        "timeStamp": "2018/12/09-11:52:02",
+        "author_name": "crudd_re",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://crudd.re/intimateWithEmotetPart1"
+    },
+    "posts": {
+        "ebnqqsu": {
+            "comment": "Hi!  any eta on part 2? I am interested to read further details. ",
+            "timeStamp": "2018/12/12-14:00:12",
+            "id": "ebnqqsu",
+            "is_submitter": false,
+            "link_id": "t3_a4o2b4",
+            "parent_id": "t3_a4o2b4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "fengkalis"
+        }
+    }
+}

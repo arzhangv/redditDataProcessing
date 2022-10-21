@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Conti ransomware targeted Intel firmware for stealthy attacks",
+        "score": 1,
+        "id": "v6ogir",
+        "commsNum": 0,
+        "timeStamp": "2022/06/06-23:31:11",
+        "author_name": "wolfcod",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.bleepingcomputer.com/news/security/conti-ransomware-targeted-intel-firmware-for-stealthy-attacks/"
+    },
+    "posts": {}
+}

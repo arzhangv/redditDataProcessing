@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Ryuk ransomware is now deliberately excluding common Linux file paths.",
+        "score": 1,
+        "id": "eg0h1v",
+        "commsNum": 2,
+        "timeStamp": "2019/12/26-12:26:32",
+        "author_name": "netsec1355",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-stops-encrypting-linux-folders/"
+    },
+    "posts": {
+        "fc4iskn": {
+            "comment": "I guess the Guy is a fan of death note",
+            "timeStamp": "2019/12/26-19:37:57",
+            "id": "fc4iskn",
+            "is_submitter": false,
+            "link_id": "t3_eg0h1v",
+            "parent_id": "t3_eg0h1v",
+            "score": 1,
+            "stickied": false,
+            "author_name": "YoDentist"
+        },
+        "fc48cr8": {
+            "comment": "For paying customers?\n\nLook, if you haven't learned to properly backup your crap by now, in 3 or 4 different locations, well, as the Joker says... \"You get what you F&amp;\\*king deserve!\"\n\nDon't pay these people anything. \n\nIf anything, blame yourself, for not doing proper backups.  If you're too cheap to own a backup solution, then your files should be considered worthless to start with. \n\nBut, it's not too late!\n\nBefore you get infected, invest in an external hard drive, and backup your machine. Unplug it. Store in near your pc, but never connect it again, other than to do another backup. \n\nNow, invest in a service like backblaze. 60 bucks a year or so, most of the time. A great service to backup your stuff and push it to the cloud. \n\nAll the stuff you want to keep forever, backup on 3 or 4 different types of media, with different lifespans... Cloud, Hard Drive, Tape, DVD, Blu Ray, etc. Keep a copy in a fireproof safe, and one in a safety deposit box.",
+            "timeStamp": "2019/12/26-17:16:13",
+            "id": "fc48cr8",
+            "is_submitter": false,
+            "link_id": "t3_eg0h1v",
+            "parent_id": "t3_eg0h1v",
+            "score": 1,
+            "stickied": false,
+            "author_name": "cpupro"
+        }
+    }
+}

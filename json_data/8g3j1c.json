@@ -1,0 +1,187 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Contains malware (possibly miners)\nPretty sure. Endorsement welcome",
+        "title": "iplocation.net",
+        "score": 0,
+        "id": "8g3j1c",
+        "commsNum": 14,
+        "timeStamp": "2018/04/30-15:28:58",
+        "author_name": "claudioSMRun",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 14,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8g3j1c/iplocationnet/"
+    },
+    "posts": {
+        "dykymeb": {
+            "comment": "You having an old machine means your PC has to work harder to load modern websites. It has everything to do with your old PC. ",
+            "timeStamp": "2018/05/07-05:26:57",
+            "id": "dykymeb",
+            "is_submitter": false,
+            "link_id": "t3_8g3j1c",
+            "parent_id": "t1_dykqz6g",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MhikeiMPC12"
+        },
+        "dykqz6g": {
+            "comment": "You kidding me?\nYeah, i have a old pc, you have a point Kojak.\n\nThe site has a problem, still. I dont see who cares about i got an old machine",
+            "timeStamp": "2018/05/07-00:52:51",
+            "id": "dykqz6g",
+            "is_submitter": true,
+            "link_id": "t3_8g3j1c",
+            "parent_id": "t1_dyk5e58",
+            "score": 1,
+            "stickied": false,
+            "author_name": "claudioSMRun"
+        },
+        "dyk5e58": {
+            "comment": "Percentage of cpu occupancy depends on your cpu model and your computer/browser configuration. ",
+            "timeStamp": "2018/05/06-16:28:33",
+            "id": "dyk5e58",
+            "is_submitter": false,
+            "link_id": "t3_8g3j1c",
+            "parent_id": "t1_dy9bguc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MhikeiMPC12"
+        },
+        "dyblhev": {
+            "comment": "That's true, which is why I went on to the site on my computer (not just my phone) and looked at the networking resources (I also have a cryptominer blocking plugin anf it didn't detect anything). What I did notice was a decent amount of ads being constantly loaded, which is why I recommended an ad blocker (I didn't see the same traffic when mine was on, only when I turned it off did I start getting more cpu usage). \n\nFrankly 53% for ads isn't the worst. You should've seen wowhead ~4 or 5 years ago. I used to accidentally leave it open while in game and I'd come back to it eating up around 80% of my cpu. I think for that case I decided it was a lot of flash based ads.",
+            "timeStamp": "2018/05/02-06:08:25",
+            "id": "dyblhev",
+            "is_submitter": false,
+            "link_id": "t3_8g3j1c",
+            "parent_id": "t1_dybkzc3",
+            "score": 2,
+            "stickied": false,
+            "author_name": "DeathByHugz"
+        },
+        "dybkzc3": {
+            "comment": "Miners have the ability to throttle CPU usage so 100% CPU usage isnt always guaranteed.",
+            "timeStamp": "2018/05/02-05:58:32",
+            "id": "dybkzc3",
+            "is_submitter": false,
+            "link_id": "t3_8g3j1c",
+            "parent_id": "t1_dy9o2e1",
+            "score": 5,
+            "stickied": false,
+            "author_name": "trevlix"
+        },
+        "dy9pfo3": {
+            "comment": "If you don't have one already, use an adblocker and reconnect to that site. You'll see the cpu usage drastically decrease.",
+            "timeStamp": "2018/05/01-07:44:18",
+            "id": "dy9pfo3",
+            "is_submitter": false,
+            "link_id": "t3_8g3j1c",
+            "parent_id": "t1_dy9oalq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DeathByHugz"
+        },
+        "dy9ocjb": {
+            "comment": "I can show you the cpu usage of a miner if you don't believe me. \n\nEdit: I went on the site on my analysis machine. There are no coinhive miners. The thing generating all of cpu usage is all of the ads being constantly loaded. I'd recommend getting an adblocker like uBlock or adblock plus.",
+            "timeStamp": "2018/05/01-07:26:16",
+            "id": "dy9ocjb",
+            "is_submitter": false,
+            "link_id": "t3_8g3j1c",
+            "parent_id": "t1_dy9oalq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DeathByHugz"
+        },
+        "dy9oalq": {
+            "comment": "You cant be seriuous\nYkes. I am guyrush threepwood.\nOh this is not a party? ",
+            "timeStamp": "2018/05/01-07:25:22",
+            "id": "dy9oalq",
+            "is_submitter": true,
+            "link_id": "t3_8g3j1c",
+            "parent_id": "t1_dy9o2e1",
+            "score": -4,
+            "stickied": false,
+            "author_name": "claudioSMRun"
+        },
+        "dy9o2e1": {
+            "comment": "53% CPU isn't too bad. If it was a miner, you'd be seeing 100% cpu. Sometimes sites will use a large amount of cpu for no reason, but that's not always indicative of a malware infection. \n\nEdit: try using noscript or something of the like (anti-scripting plugins) and try reconnecting to that site. Most likely the highish CPU usage is from all the scripts running in the background (ads, css, etc)",
+            "timeStamp": "2018/05/01-07:21:29",
+            "id": "dy9o2e1",
+            "is_submitter": false,
+            "link_id": "t3_8g3j1c",
+            "parent_id": "t1_dy9bguc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DeathByHugz"
+        },
+        "dy9bguc": {
+            "comment": "I am not a sec pro.\n\nI opened the site 5 minutes ago and this is the result\n\ncpu usage over 53&amp;#37; constant\n\nram usage by FF with no NETFLIX opened :\\): over 1 GB\n\neven a child would say : WTF\n\nthis is all normal to you? what are we talking about?\n\n[https://imgur.com/zVdrgwi](https://imgur.com/zVdrgwi)\n\nOh and I also got bothered by the net value of iplocation\n\n[here](https://www.worthofweb.com/website-value/iplocation.net/)\n\nso A site 2MILLIONS worth, maybe used by millions people, maybe is turning evil,\n\nand nobody check this?\n\nI reported them and I am the evil?\n\nLMAO",
+            "timeStamp": "2018/05/01-01:40:01",
+            "id": "dy9bguc",
+            "is_submitter": true,
+            "link_id": "t3_8g3j1c",
+            "parent_id": "t1_dy9albm",
+            "score": -4,
+            "stickied": false,
+            "author_name": "claudioSMRun"
+        },
+        "dy9albm": {
+            "comment": "Where is the malware located specifically on iplocation.net? The site you've linked doesn't appear to have any malware on it whatsoever. \n\nNow, if you'd like to post a link to the samples that you used to find this site (Iplocation.net), I'd be more than willing to look at them.",
+            "timeStamp": "2018/05/01-01:06:22",
+            "id": "dy9albm",
+            "is_submitter": false,
+            "link_id": "t3_8g3j1c",
+            "parent_id": "t1_dy97aa9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DeathByHugz"
+        },
+        "dy97aa9": {
+            "comment": "The tab grows in size to 1.9 GB. Firefox.\nI came here to post something useful to investigate to, to find some collaborative and got only idiots downvoters bother me.",
+            "timeStamp": "2018/04/30-23:08:46",
+            "id": "dy97aa9",
+            "is_submitter": true,
+            "link_id": "t3_8g3j1c",
+            "parent_id": "t1_dy8rt2v",
+            "score": -1,
+            "stickied": false,
+            "author_name": "claudioSMRun"
+        },
+        "dy8rt2v": {
+            "comment": "How did you get this url? Did you happen to see a malware sample making calls to this website? \n\nThe reason I ask is because iplocation.net appears to be a ip lookup site. It could be that your malware sample used iplocation.net to grab the host's ip.",
+            "timeStamp": "2018/04/30-17:55:28",
+            "id": "dy8rt2v",
+            "is_submitter": false,
+            "link_id": "t3_8g3j1c",
+            "parent_id": "t3_8g3j1c",
+            "score": 3,
+            "stickied": false,
+            "author_name": "DeathByHugz"
+        },
+        "dy8m4xc": {
+            "comment": "[deleted]",
+            "timeStamp": "2018/04/30-16:17:57",
+            "id": "dy8m4xc",
+            "is_submitter": false,
+            "link_id": "t3_8g3j1c",
+            "parent_id": "t1_dy8l3sr",
+            "score": -3,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "dy8l3sr": {
+            "comment": "Bro vx-arch.iv is great for older samples. They also have some new stuff too. ",
+            "timeStamp": "2018/04/30-15:59:48",
+            "id": "dy8l3sr",
+            "is_submitter": false,
+            "link_id": "t3_8g3j1c",
+            "parent_id": "t3_8g3j1c",
+            "score": 1,
+            "stickied": false,
+            "author_name": "CbearKing"
+        }
+    }
+}

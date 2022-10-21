@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "So basically what is Ex\u00b5s? I just recently saw this on my Desktop after installing Sony Vegas from Amazon... When I right click on the file, and then open it's file location, and enabled the \"Show hidden files\" it just shows it's icon along with a a Google Chrome icon which when you open it it directs me to a \"suspicious\" site called ( http://piratexus.webs.com/) where it has a front cover of a guy holding a gun...Not sure what the internet explorer icon is but I do not want to open it.  I proceeded and delete those files but I am pretty sure there are more hidden items scatter elsewhere.  (Screenshots below)\n\nI have uploaded the Ex\u00b5s desktop file onto Virustotal and it has came out clean EXCEPT, Tencent has said this file is dangerous (Screenshots below)\nCan someone please help me out? I am unsure what to do now? As stated above, I have deleted the files. \n\nAlso, I have proceed and scanned with Malwarebytes, Junkware tool, Windows Defender and Adwcleaner and no issues found....\n\nHere are the screenshots: \n\nScreenshot 1: https://ibb.co/dbGQOS\n\nScreenshot 2: https://ibb.co/j3rs3S\n\nScreenshot 3: https://ibb.co/eJ7X3S\n\nUpdate: So I typed in the \"Ex\u00b5s\" word on Google and I saw that there is a page called virustracker where it tracks virus I think. Anyways, it had a virus listed here https://virustracker.net/files?filter=I&amp;page=33. If you can't see it, please use the find method. ",
+        "title": "What is Ex\u00b5s? urgent",
+        "score": 1,
+        "id": "840ykd",
+        "commsNum": 1,
+        "timeStamp": "2018/03/12-19:53:00",
+        "author_name": "AyZapMike",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/840ykd/what_is_ex\u00b5s_urgent/"
+    },
+    "posts": {}
+}

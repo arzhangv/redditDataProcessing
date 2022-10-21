@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Linux.Liora: a Go binary infector",
+        "score": 4,
+        "id": "353s96",
+        "commsNum": 2,
+        "timeStamp": "2015/05/06-14:29:47",
+        "author_name": "guitmz",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://vx.thomazi.me/posts/linux-liora"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Part 2! Malware sandbox evasion in x64 assembly by checking ram size",
+        "score": 1,
+        "id": "wp4ag5",
+        "commsNum": 0,
+        "timeStamp": "2022/08/15-09:40:44",
+        "author_name": "AccidentalRebel",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.accidentalrebel.com/malware-sandbox-evasion-in-x64-assembly-by-checking-ram-size-part-2.html"
+    },
+    "posts": {}
+}

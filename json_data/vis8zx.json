@@ -1,0 +1,187 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hi all,\n\nI have to test few malware analysis tools for my organisation.\n\n1st - Soc radar \n\n2nd - any.run \n\n3rd - Joe sandbox \n\nHow do I compare them ? I suspect I should run few malware files and then compare the results. Is that right approach ? \n\nIf yes, how do I get some sample malicious executable files to test.\n\nSome of the parameters to test them. Please let me know if I missed some.\n\na) Ease of use \nb) TTP and Mitre mapping correctness \nc) Static analysis capabilities \nd) Dynamic execution capabilities \ne) IOC collection \n\nAppreciate any input.\n\nThanks",
+        "title": "Malware samples",
+        "score": 1,
+        "id": "vis8zx",
+        "commsNum": 0,
+        "timeStamp": "2022/06/23-01:43:31",
+        "author_name": "Illustrious_Value765",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/vis8zx/malware_samples/"
+    },
+    "posts": {
+        "if7hy5c": {
+            "comment": "[removed]",
+            "timeStamp": "2022/07/07-07:01:11",
+            "id": "if7hy5c",
+            "is_submitter": false,
+            "link_id": "t3_vis8zx",
+            "parent_id": "t3_vis8zx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "iess7ei": {
+            "comment": "Hi There, maybe give [tria.ge](https://tria.ge) a shot :)",
+            "timeStamp": "2022/07/04-02:19:48",
+            "id": "iess7ei",
+            "is_submitter": false,
+            "link_id": "t3_vis8zx",
+            "parent_id": "t3_vis8zx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "flessendop"
+        },
+        "ie7a24t": {
+            "comment": "[removed]",
+            "timeStamp": "2022/06/29-09:17:22",
+            "id": "ie7a24t",
+            "is_submitter": false,
+            "link_id": "t3_vis8zx",
+            "parent_id": "t3_vis8zx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "idip5hn": {
+            "comment": "Thank you",
+            "timeStamp": "2022/06/23-20:55:51",
+            "id": "idip5hn",
+            "is_submitter": true,
+            "link_id": "t3_vis8zx",
+            "parent_id": "t1_idet5rf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Illustrious_Value765"
+        },
+        "idip45j": {
+            "comment": "[removed]",
+            "timeStamp": "2022/06/23-20:55:29",
+            "id": "idip45j",
+            "is_submitter": false,
+            "link_id": "t3_vis8zx",
+            "parent_id": "t3_vis8zx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "idhv5gr": {
+            "comment": "Probably the best option short of spending a lot of money.",
+            "timeStamp": "2022/06/23-16:46:29",
+            "id": "idhv5gr",
+            "is_submitter": false,
+            "link_id": "t3_vis8zx",
+            "parent_id": "t1_idf8hm4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ogtfo"
+        },
+        "idhfu0c": {
+            "comment": "[removed]",
+            "timeStamp": "2022/06/23-14:49:41",
+            "id": "idhfu0c",
+            "is_submitter": false,
+            "link_id": "t3_vis8zx",
+            "parent_id": "t1_idf8hm4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "idgvt96": {
+            "comment": "My 2 cents... shamelessly building on an already good reply. \n\nI think I would start a little higher in the decision chain than even this... I would ask the question of \"why do we need this?\"  I have worked in places that bought a buzzword and then found that they didn't know what they really wanted to do with it.  Honestly, not every organization will know what to do with a sandbox or be mature enough to fulfill their vision for it.  For that reason I would define the \"why\" before I created a testing structure.  It will save you pain.  For example: \n\n* \rIf you are looking for something to run sketchy files against to validate your internal tool results then you need accuracy based measures. \n* If you know something is bad, but want to try to learn what to call it, you will may want some good behavioral analysis and good correlation with what malware is trending right now.\n* If you are using them to feed other intel or skilled technical efforts in prevention and/or remediation then you want to consider everything mentioned in above in dragonakai's post.\n\n\rI would  also consider report generation features and who the results will go to.  If  you are sending it to skilled technicians then you need a different report than you would send to the c-suite.   \n\nFinally, I would echo the importance of actionable results.",
+            "timeStamp": "2022/06/23-12:30:22",
+            "id": "idgvt96",
+            "is_submitter": false,
+            "link_id": "t3_vis8zx",
+            "parent_id": "t1_idfbsqb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "badmonkey82009"
+        },
+        "idfbsqb": {
+            "comment": "If I had this task, I'd take some recent samples of malware that was actually used against my organization, and ask a third party security firm to do an in depth analysis of it. It's important to use actual attacks against you, because that's the best threat intelligence you have. So grab malware from malicious emails your org received, or in your A/V quarantine. These attacks are the most relevant to your org, by definition. For completeness, perhaps grab some samples from virustotal or bazaar.abuse.ch associated with an APT you are particularly worried about. Also, a good third party will have expert reverse engineers who can provide a comprehensive baseline so that you can compare the sandboxes together.\n\nIn particular you are looking for these attributes:\n\n1. Evidence of execution - what are artifacts and/or residue left behind if and only if the malware actually ran. Sometimes, it lands but doesn't run due to other security controls. When the SOC is busy, it's nice to be able to close out the investigation quickly by saying there's no evidence of execution. Conversely, it's really good to know when it has executed.\n2. Persistence techniques - has the malware leveraged any techniques to survive a reboot? If you aren't allowed to rebuild an infected asset, you need to \"cure\" it. Most often that involves removing all the persistence techniques with a scalpel like approach. Things like scheduled tasks, installed services, wmic subscriptions.\n3. Network connections - what communications has the malware leveraged.\n4. Indicators of Compromise - This category is a summation of the previous three, with potentially other attributes.  In short, you need your sandbox to give you attributes to which you can scan the rest of your environment to see if other assets are compromised. Sometimes A/V was disabled on a few developer machines. Sometimes you detected the first stage of this attack, but you aren't detecting the second stage. A previous, undetected attack is using the same second stage. By exploding the malware in a sandbox, watching the full infection chain, and scanning for any and all indicators of compromise, you can find a lot of evil.\n\nWith #4 in particular, I'd measure the IoCs of the sandbox against your SIEM/EDR's visibility. The sandbox isn't going to help you if you can't action the data it gives you.\n\nI like your list. And lord knows I'm a MITRE fan, but the output of the sandbox MUST BE ACTIONABLE. Just associating the activity with the ATT&amp;CK matrix won't help you if you can't use it to innoculate your environment. Lastly, I recommend considering ease of API integration. At some point you will want to automate submissions, and automate scanning your environment for the output IoCs.",
+            "timeStamp": "2022/06/23-05:58:10",
+            "id": "idfbsqb",
+            "is_submitter": false,
+            "link_id": "t3_vis8zx",
+            "parent_id": "t3_vis8zx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "dragonakai"
+        },
+        "idfab07": {
+            "comment": "+1 for vx-underground",
+            "timeStamp": "2022/06/23-05:45:05",
+            "id": "idfab07",
+            "is_submitter": false,
+            "link_id": "t3_vis8zx",
+            "parent_id": "t1_idet5rf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Mister_Pibbs"
+        },
+        "idf8hm4": {
+            "comment": "[https://bazaar.abuse.ch/browse/](https://bazaar.abuse.ch/browse/) for a curated list of recent malware",
+            "timeStamp": "2022/06/23-05:28:25",
+            "id": "idf8hm4",
+            "is_submitter": false,
+            "link_id": "t3_vis8zx",
+            "parent_id": "t3_vis8zx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "kaze0mx"
+        },
+        "idf6bb7": {
+            "comment": "You have to compare them to each other, but also against a baseline for accuracy.  So you'll either need to run them against well-documented malware, or you'll need to do your own manual analysis first and see if the tools can match your results.\n\nFor samples, I like virusshare.com. you can also download straight from virustotal with a premium account.",
+            "timeStamp": "2022/06/23-05:07:33",
+            "id": "idf6bb7",
+            "is_submitter": false,
+            "link_id": "t3_vis8zx",
+            "parent_id": "t3_vis8zx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Nonner_Party"
+        },
+        "idf41cw": {
+            "comment": "[removed]",
+            "timeStamp": "2022/06/23-04:44:14",
+            "id": "idf41cw",
+            "is_submitter": false,
+            "link_id": "t3_vis8zx",
+            "parent_id": "t3_vis8zx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "idf3y9z": {
+            "comment": "[removed]",
+            "timeStamp": "2022/06/23-04:43:20",
+            "id": "idf3y9z",
+            "is_submitter": false,
+            "link_id": "t3_vis8zx",
+            "parent_id": "t3_vis8zx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "idet5rf": {
+            "comment": "Don't know if attends all the parameters, by take a look at vx-underground",
+            "timeStamp": "2022/06/23-02:25:39",
+            "id": "idet5rf",
+            "is_submitter": false,
+            "link_id": "t3_vis8zx",
+            "parent_id": "t3_vis8zx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MrPeck15"
+        }
+    }
+}

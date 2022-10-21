@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Does anyone recognise these websites? I suddenly got these notifications and I think I may have malware on my phone but is anyone able to provide me with more info about these addresses?",
+        "score": 1,
+        "id": "ror6eb",
+        "commsNum": 1,
+        "timeStamp": "2021/12/25-22:29:34",
+        "author_name": "MonnnClaaare",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://i.redd.it/jv5qg22rzt781.jpg"
+    },
+    "posts": {
+        "hq019uy": {
+            "comment": "I\u2019m planning on removing apps and photos from my phone to give me more space to update my phone, as I\u2019ve heard that can remove malware. I think I may have accidentally clicked on a pop up ad a couple of days ago which led me to a suspicious looking url, I closed the page before it completely loaded but that may have caused this. My apps are suddenly acting really strange too. I\u2019ve cleared my cache and added an Apple ID recovery key just in case. If anyone can help that would be much appreciated lol.",
+            "timeStamp": "2021/12/25-22:33:02",
+            "id": "hq019uy",
+            "is_submitter": true,
+            "link_id": "t3_ror6eb",
+            "parent_id": "t3_ror6eb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MonnnClaaare"
+        },
+        "hq0101x": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators **and be sure to include the link to the post** - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2021/12/25-22:29:36",
+            "id": "hq0101x",
+            "is_submitter": false,
+            "link_id": "t3_ror6eb",
+            "parent_id": "t3_ror6eb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

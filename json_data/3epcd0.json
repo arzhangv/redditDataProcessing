@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "What's preventing the very sites/people we're tying to block from simply linking to the ip address of their servers instead of the domain address? This way, instead of my computer seeing \n::1 knowntrackerormalware.com\nand the resource being blocked, it's simply sent straight to the resource. My hosts file won't be checked for 31.13.93.3 (since the IP is already known) like it will for facebook.com - correct?\n",
+        "title": "Why does the HOSTS file still work to block ads and trackers?",
+        "score": 1,
+        "id": "3epcd0",
+        "commsNum": 3,
+        "timeStamp": "2015/07/26-15:18:39",
+        "author_name": "GruePineapple",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/3epcd0/why_does_the_hosts_file_still_work_to_block_ads/"
+    },
+    "posts": {}
+}

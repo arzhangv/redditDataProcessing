@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": 0.57,
+        "selftext": "Hello all. I am working on making a custom reverse shell in C++ forwhatever reason I can open a socket connection but when I redirect my cmd.exe process std input/output/error to my socket nothing happens after the connection is made. I can share the source code and screen shots if someone would care to help me out! Thanks. I am using visual studio so i don't know if there is execution protection or something like that. Anyways let me know guys!",
+        "title": "Windows Reverse Shell not working.",
+        "score": 1,
+        "id": "gzeb3i",
+        "commsNum": 4,
+        "timeStamp": "2020/06/08-19:45:04",
+        "author_name": "Allevon-602",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/gzeb3i/windows_reverse_shell_not_working/"
+    },
+    "posts": {
+        "ftfshwm": {
+            "comment": "you have discord? Maybe we can collab on some stuff",
+            "timeStamp": "2020/06/08-19:57:13",
+            "id": "ftfshwm",
+            "is_submitter": true,
+            "link_id": "t3_gzeb3i",
+            "parent_id": "t1_ftfs10e",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Allevon-602"
+        },
+        "ftfs4ng": {
+            "comment": "I will send it to you right now. Give me one second!",
+            "timeStamp": "2020/06/08-19:53:32",
+            "id": "ftfs4ng",
+            "is_submitter": true,
+            "link_id": "t3_gzeb3i",
+            "parent_id": "t1_ftfs1q5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Allevon-602"
+        },
+        "ftfs1q5": {
+            "comment": "If you want to dm me source code i can take a look.",
+            "timeStamp": "2020/06/08-19:52:42",
+            "id": "ftfs1q5",
+            "is_submitter": false,
+            "link_id": "t3_gzeb3i",
+            "parent_id": "t3_gzeb3i",
+            "score": 1,
+            "stickied": false,
+            "author_name": "agski"
+        },
+        "ftfs10e": {
+            "comment": "Same here.",
+            "timeStamp": "2020/06/08-19:52:29",
+            "id": "ftfs10e",
+            "is_submitter": false,
+            "link_id": "t3_gzeb3i",
+            "parent_id": "t3_gzeb3i",
+            "score": 1,
+            "stickied": false,
+            "author_name": "FakeRolex000"
+        }
+    }
+}

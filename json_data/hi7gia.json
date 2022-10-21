@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": " I'm currently sniffing through some samples, and I found two viruses bundled together. It appears to be a combined and encrypted copy of NJRat and Nanocore.  \nThe executable decrypts in memory and runs, how do I dump its content?  \nSorry if this is too newbie of a question; it's rather complicated when I look up other posts; if someone has a link to a more straightforward guide, I'd greatly appreciate it.",
+        "title": "Dump a decrypted executable from memory.",
+        "score": 1,
+        "id": "hi7gia",
+        "commsNum": 9,
+        "timeStamp": "2020/06/29-13:01:03",
+        "author_name": "MikePinceLikeKids",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 9,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/hi7gia/dump_a_decrypted_executable_from_memory/"
+    },
+    "posts": {
+        "fwt0vab": {
+            "comment": "Gotcha, appreciate it.",
+            "timeStamp": "2020/07/03-07:06:25",
+            "id": "fwt0vab",
+            "is_submitter": true,
+            "link_id": "t3_hi7gia",
+            "parent_id": "t1_fwsf1qv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MikePinceLikeKids"
+        },
+        "fwsf1qv": {
+            "comment": "You can also potentially take a memory dump once the executable is decrypted in memory, use volatility's [memdump](https://github.com/volatilityfoundation/volatility/wiki/Command-Reference#memdump) command to dump the process memory and carve out the executable using something like binwalk. There are likely other ways to do it with Volatility, feel free to PM if needed.",
+            "timeStamp": "2020/07/03-02:09:54",
+            "id": "fwsf1qv",
+            "is_submitter": false,
+            "link_id": "t3_hi7gia",
+            "parent_id": "t3_hi7gia",
+            "score": 1,
+            "stickied": false,
+            "author_name": "thorn42"
+        },
+        "fwglnix": {
+            "comment": "&gt; NJRat and Nanocore\n\nFor DotNet binaries, use either Megadumper or ExtremeDumper.\n\nI wonder why someone would bundle two similar rats .",
+            "timeStamp": "2020/06/30-02:58:45",
+            "id": "fwglnix",
+            "is_submitter": false,
+            "link_id": "t3_hi7gia",
+            "parent_id": "t3_hi7gia",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RCEdude"
+        },
+        "fwejkm5": {
+            "comment": "Thanks, that seems really simple, and I could look at its details in visual studio, but do you know how I could extract the process on the DMP file?",
+            "timeStamp": "2020/06/29-13:25:08",
+            "id": "fwejkm5",
+            "is_submitter": true,
+            "link_id": "t3_hi7gia",
+            "parent_id": "t1_fwej88m",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MikePinceLikeKids"
+        },
+        "fwej88m": {
+            "comment": "At its most basic you can just right click a process in the windows task manager and click create a dump file",
+            "timeStamp": "2020/06/29-13:22:24",
+            "id": "fwej88m",
+            "is_submitter": false,
+            "link_id": "t3_hi7gia",
+            "parent_id": "t3_hi7gia",
+            "score": 1,
+            "stickied": false,
+            "author_name": "nre_graphico"
+        },
+        "fweiavj": {
+            "comment": "Pe-sieve is able to do this\n\nhttps://github.com/hasherezade/pe-sieve",
+            "timeStamp": "2020/06/29-13:14:54",
+            "id": "fweiavj",
+            "is_submitter": false,
+            "link_id": "t3_hi7gia",
+            "parent_id": "t3_hi7gia",
+            "score": 1,
+            "stickied": false,
+            "author_name": "PhisherPrice"
+        }
+    }
+}

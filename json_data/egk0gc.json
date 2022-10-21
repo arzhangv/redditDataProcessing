@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi,\n\nI am having trouble getting rid of some malware. It plays Japanese music that (from personal experience) would be played as an anime OP. It starts after I wake the laptop up from sleep mode and plays the music when certain things are open (e.g. alt-tab menu, volume bar). I have scanned with Norton 360 and Malwarebytes and have gotten no results. Happy to record footage if needed.\n\nThanks :D!",
+        "title": "Need help getting rid of malware",
+        "score": 1,
+        "id": "egk0gc",
+        "commsNum": 1,
+        "timeStamp": "2019/12/27-17:17:05",
+        "author_name": "GeekestFoxYT",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/egk0gc/need_help_getting_rid_of_malware/"
+    },
+    "posts": {
+        "fc72jsd": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2019/12/27-17:17:06",
+            "id": "fc72jsd",
+            "is_submitter": false,
+            "link_id": "t3_egk0gc",
+            "parent_id": "t3_egk0gc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

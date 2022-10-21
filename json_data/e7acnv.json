@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I got ransomware which converted all exe files to righ and all other documents to jpeg what do I do",
+        "title": "Ransomware",
+        "score": 1,
+        "id": "e7acnv",
+        "commsNum": 5,
+        "timeStamp": "2019/12/06-21:23:57",
+        "author_name": "Flameznix",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/e7acnv/ransomware/"
+    },
+    "posts": {
+        "fahqiav": {
+            "comment": "That last one is dope!",
+            "timeStamp": "2019/12/11-11:09:20",
+            "id": "fahqiav",
+            "is_submitter": false,
+            "link_id": "t3_e7acnv",
+            "parent_id": "t1_faaojuz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "shinramyun247"
+        },
+        "faaojuz": {
+            "comment": "How to prevent ransomware... [Stolen from a vendor]\n\nThere are a number of defensive steps you can take to prevent ransomware infection. These steps are a of course good security practices in general, so following them improves your defenses from all sorts of attacks:\n\nPatching \u2013 Keep your operating system patched and up-to-date to ensure you have fewer vulnerabilities to exploit.\n\nApplication White listing \u2013 Don\u2019t install software or give it administrative privileges unless you know exactly what it is and what it does. Makes sure you maintain an approved application list for the entire organization.\n\nAnti-virus/Malware Service, use a service which detects malicious programs like ransomware as they arrive. Some include whitelisting capabilities which prevent unauthorized applications from executing in the first place.\n\nExtend your Perimeter, use an email and social media filtering service preferably cloud based. This will detect malicious attachments, files and many \u2018like Spambrella\u2019 also scan URL\u2019s for malicious actors.\n\nAdopt the 3:2:1 approach - Create three backup copies, on two different types of media, and store one copy securely off site on an air-gapped device \u2013 One that is not networked or accessible over the internet",
+            "timeStamp": "2019/12/09-09:11:53",
+            "id": "faaojuz",
+            "is_submitter": false,
+            "link_id": "t3_e7acnv",
+            "parent_id": "t3_e7acnv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Jibu80"
+        },
+        "f9xklb5": {
+            "comment": "Check nomoreransom to see if there's a decryptor available",
+            "timeStamp": "2019/12/07-02:08:14",
+            "id": "f9xklb5",
+            "is_submitter": false,
+            "link_id": "t3_e7acnv",
+            "parent_id": "t3_e7acnv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "jyggorath"
+        },
+        "f9xjaax": {
+            "comment": "If there is a ransom note you can try to Google it and see if you can ID the ransom ware. If you're lucky you might be able to find a decryptor",
+            "timeStamp": "2019/12/07-01:56:58",
+            "id": "f9xjaax",
+            "is_submitter": false,
+            "link_id": "t3_e7acnv",
+            "parent_id": "t3_e7acnv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "lordand"
+        },
+        "f9x4x5c": {
+            "comment": "Restore from backup.",
+            "timeStamp": "2019/12/06-23:45:34",
+            "id": "f9x4x5c",
+            "is_submitter": false,
+            "link_id": "t3_e7acnv",
+            "parent_id": "t3_e7acnv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Aglenday"
+        }
+    }
+}

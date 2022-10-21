@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Qsearch Virus/Malware\n\nHi. Running macOS Catalina on 2015 MacBook Air. Anybody with experience with the qsearch malware? Popping up multiple sites in browser repeatedly. Charged with 451 in credit cars the other day - maybe would already be counted as phishing incident since certain did not use that for Grab ride. \n\nTried to remove with malware bytes - detected 4k items, quarantined, deleted. Tried to follow tutorials on looking for suspicious apps in finder and deleting, deleting extensions in chrome, removing profiles. Deleted the 4k quarantined items. Problem is still w occasional pop up of random site in chrome. Computer has been restarted Now trying to install avast. \n\nAny help would be greatly appreciated. \nThank you so much.",
+        "title": "Qsearch Virus/Malware on Mac",
+        "score": 1,
+        "id": "k8fppj",
+        "commsNum": 1,
+        "timeStamp": "2020/12/07-04:24:38",
+        "author_name": "roadtofire1",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/k8fppj/qsearch_virusmalware_on_mac/"
+    },
+    "posts": {
+        "gexpsjj": {
+            "comment": "[removed]",
+            "timeStamp": "2020/12/07-04:37:52",
+            "id": "gexpsjj",
+            "is_submitter": false,
+            "link_id": "t3_k8fppj",
+            "parent_id": "t3_k8fppj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

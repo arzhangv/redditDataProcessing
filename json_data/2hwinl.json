@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Can anyone point me to the right direction as to how I can compile carberp I am trying to analyze the code. I have tried with VS 2012 and VS 2005. 2012 has to convert the project. When I try to compile it, I get many errors. All being syntax etc. anyone have an idea or a link where someone compiled it?",
+        "title": "Carberp Botnet Compilation?",
+        "score": 1,
+        "id": "2hwinl",
+        "commsNum": 2,
+        "timeStamp": "2014/09/30-09:39:52",
+        "author_name": "klop2031",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2hwinl/carberp_botnet_compilation/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,121 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "So I'm testing some various scenarios and trying to do the following with some samples to see if I get results. \nI need to have a machine on the Internet (Public IP) and for it to get probed with a Malicious IP from a malicious bot or malware.\u00a0 \nIve tested this by exposing a machine (isolated from your others) for a short while to prove the capability is working but not getting any results whatsoever.  What am I missing? Thanks.",
+        "title": "Malware with malicious IP Addresses that probe machine",
+        "score": 1,
+        "id": "scuy8d",
+        "commsNum": 0,
+        "timeStamp": "2022/01/25-18:31:56",
+        "author_name": "johnb_e350",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/scuy8d/malware_with_malicious_ip_addresses_that_probe/"
+    },
+    "posts": {
+        "huc856p": {
+            "comment": "Exactly you want to monitor outgoing requests to the C2 IP. But if the traffic is encrypted you'll need to use burpsuite to perform SSL decryption etc...",
+            "timeStamp": "2022/01/26-12:02:27",
+            "id": "huc856p",
+            "is_submitter": false,
+            "link_id": "t3_scuy8d",
+            "parent_id": "t1_huc5xtn",
+            "score": 1,
+            "stickied": false,
+            "author_name": "micropeenandproud"
+        },
+        "huc5xtn": {
+            "comment": "Or just get the machines in my lab and put the IPs in burpsuite? Or try some RATs I have in conjunction?",
+            "timeStamp": "2022/01/26-11:49:36",
+            "id": "huc5xtn",
+            "is_submitter": true,
+            "link_id": "t3_scuy8d",
+            "parent_id": "t1_hubf23e",
+            "score": 1,
+            "stickied": false,
+            "author_name": "johnb_e350"
+        },
+        "hubf23e": {
+            "comment": "Ah I see. Well in that case you shouldn't really expect inbound probing from those CC servers. After all, they're already \"in your network\" via reverse connection. So the malware is reaching out for \"instructions\" from the cc server.\n\nAny probing an attacker will be doing will be internal, from the malware to the rest of the network if anything.",
+            "timeStamp": "2022/01/26-09:10:39",
+            "id": "hubf23e",
+            "is_submitter": false,
+            "link_id": "t3_scuy8d",
+            "parent_id": "t1_hubdu7b",
+            "score": 1,
+            "stickied": false,
+            "author_name": "micropeenandproud"
+        },
+        "hubdu7b": {
+            "comment": "I'm just running real malware in my lab and seeing if it sends anything to CC server and it responds back and tries to probe my firewall. Any other way?",
+            "timeStamp": "2022/01/26-09:03:27",
+            "id": "hubdu7b",
+            "is_submitter": true,
+            "link_id": "t3_scuy8d",
+            "parent_id": "t1_huajbei",
+            "score": 1,
+            "stickied": false,
+            "author_name": "johnb_e350"
+        },
+        "huajbei": {
+            "comment": "What services have you exposed to the web, and how are you logging whether they get \"probed\".\n\nIt's not clear exactly what you're trying to do but you may want to Google \"cyber honeypot\" and see where that takes you.",
+            "timeStamp": "2022/01/26-05:43:02",
+            "id": "huajbei",
+            "is_submitter": false,
+            "link_id": "t3_scuy8d",
+            "parent_id": "t3_scuy8d",
+            "score": 1,
+            "stickied": false,
+            "author_name": "micropeenandproud"
+        },
+        "hu9glup": {
+            "comment": "Wait longer, it's just a matter of time",
+            "timeStamp": "2022/01/25-22:15:25",
+            "id": "hu9glup",
+            "is_submitter": false,
+            "link_id": "t3_scuy8d",
+            "parent_id": "t3_scuy8d",
+            "score": 1,
+            "stickied": false,
+            "author_name": "_millsy"
+        },
+        "hu8yvvb": {
+            "comment": "you're just using the malware you made as a walkie talke then just probe your alexa..... or your reddit",
+            "timeStamp": "2022/01/25-19:40:43",
+            "id": "hu8yvvb",
+            "is_submitter": false,
+            "link_id": "t3_scuy8d",
+            "parent_id": "t3_scuy8d",
+            "score": 1,
+            "stickied": false,
+            "author_name": "scryblackwren"
+        },
+        "hu8wd5f": {
+            "comment": "All ports are open in firewall.",
+            "timeStamp": "2022/01/25-19:22:03",
+            "id": "hu8wd5f",
+            "is_submitter": true,
+            "link_id": "t3_scuy8d",
+            "parent_id": "t1_hu8qhvy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "johnb_e350"
+        },
+        "hu8qhvy": {
+            "comment": "NAT issue",
+            "timeStamp": "2022/01/25-18:39:42",
+            "id": "hu8qhvy",
+            "is_submitter": false,
+            "link_id": "t3_scuy8d",
+            "parent_id": "t3_scuy8d",
+            "score": 1,
+            "stickied": false,
+            "author_name": "edward_snowedin"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Linux Shishiga malware using LUA scripts",
+        "score": 19,
+        "id": "67u1s2",
+        "commsNum": 1,
+        "timeStamp": "2017/04/27-00:04:40",
+        "author_name": "goretsky",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.welivesecurity.com/2017/04/25/linux-shishiga-malware-using-lua-scripts/"
+    },
+    "posts": {}
+}

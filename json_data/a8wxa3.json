@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Just posted another article on macro based malware (Lazarus APT Group). This one injects function addresses like VirtualAlloc into shellcode within the VBA Macro. I describe a short an easy way to get to the actual shellcode.\n https://www.cyberfox.blog/macro-malware-again/ ",
+        "title": "Macro based Malware",
+        "score": 1,
+        "id": "a8wxa3",
+        "commsNum": 1,
+        "timeStamp": "2018/12/23-10:18:41",
+        "author_name": "l_k_th",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/a8wxa3/macro_based_malware/"
+    },
+    "posts": {
+        "ecvjsiv": {
+            "comment": "Great write up! ",
+            "timeStamp": "2018/12/30-07:21:54",
+            "id": "ecvjsiv",
+            "is_submitter": false,
+            "link_id": "t3_a8wxa3",
+            "parent_id": "t3_a8wxa3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "FOOLS_GOLD"
+        }
+    }
+}

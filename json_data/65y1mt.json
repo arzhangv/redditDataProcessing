@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Computer starts running with high processing (i3 so I know when there's something going on on the system because of the fan and speed).\n\nWhen I restart, I see programs keeping the computer from restarting. Among them:\n\nrtc pnp listener\n\nNo evidence of this thing running anywhere on my computer. No program installed like this. Doesn't show up in task manager processes (which I monitor all the time). \n\nGoogle search: some people have had it, but no answers. Some people who've posted the question (Google search results find them) lead to pages that say \"user has been banned\" or \"account closed\" or \"page not found\".\n\nMalware bites and AVG find nothing.\n\nI had the same thing happen one or two times last week. I did a couple virus scans, found a few minor things which I quarantined, and didn't see the thing again for a while. Then I see it again today.\n\nAnyone know about this thing? ",
+        "title": "RTC PnP listener - anyone know about this possible malware?",
+        "score": 7,
+        "id": "65y1mt",
+        "commsNum": 3,
+        "timeStamp": "2017/04/17-13:15:15",
+        "author_name": "candelalgebra",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/65y1mt/rtc_pnp_listener_anyone_know_about_this_possible/"
+    },
+    "posts": {}
+}

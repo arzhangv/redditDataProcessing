@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "URSNIF, EMOTET, DRIDEX and BitPaymer Gangs Linked by a Similar Loader",
+        "score": 1,
+        "id": "a7ghra",
+        "commsNum": 0,
+        "timeStamp": "2018/12/18-15:18:25",
+        "author_name": "mjuad",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://blog.trendmicro.com/trendlabs-security-intelligence/ursnif-emotet-dridex-and-bitpaymer-gangs-linked-by-a-similar-loader/"
+    },
+    "posts": {}
+}

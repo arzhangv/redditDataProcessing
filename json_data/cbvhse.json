@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Stuxnet, or how to destroy a centrifuge with a small piece of code",
+        "score": 36,
+        "id": "cbvhse",
+        "commsNum": 5,
+        "timeStamp": "2019/07/11-06:03:33",
+        "author_name": "LowerBrick",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://medium.com/@gershwin.aaron/stuxnet-or-how-to-destroy-a-centrifuge-with-a-small-piece-of-code-3ac0409a120e"
+    },
+    "posts": {
+        "eu9vmmx": {
+            "comment": "Piece of code? I could do the same with a hammer...",
+            "timeStamp": "2019/07/19-20:08:55",
+            "id": "eu9vmmx",
+            "is_submitter": false,
+            "link_id": "t3_cbvhse",
+            "parent_id": "t3_cbvhse",
+            "score": 1,
+            "stickied": false,
+            "author_name": "peoplearesleeping"
+        },
+        "etjuv1b": {
+            "comment": "Came here to say this, it was massive compared to just about anything else.",
+            "timeStamp": "2019/07/11-14:53:30",
+            "id": "etjuv1b",
+            "is_submitter": false,
+            "link_id": "t3_cbvhse",
+            "parent_id": "t1_etit0o4",
+            "score": 3,
+            "stickied": false,
+            "author_name": "pyryoer"
+        },
+        "etj8cje": {
+            "comment": "Heard my name being called....",
+            "timeStamp": "2019/07/11-11:03:38",
+            "id": "etj8cje",
+            "is_submitter": false,
+            "link_id": "t3_cbvhse",
+            "parent_id": "t3_cbvhse",
+            "score": 7,
+            "stickied": false,
+            "author_name": "_stuxnet"
+        },
+        "etj0k6g": {
+            "comment": "\\&gt;small",
+            "timeStamp": "2019/07/11-09:49:53",
+            "id": "etj0k6g",
+            "is_submitter": false,
+            "link_id": "t3_cbvhse",
+            "parent_id": "t3_cbvhse",
+            "score": 9,
+            "stickied": false,
+            "author_name": "Yapoz"
+        },
+        "etit0o4": {
+            "comment": "Small? Stuxnet was considered large for malware.",
+            "timeStamp": "2019/07/11-08:32:44",
+            "id": "etit0o4",
+            "is_submitter": false,
+            "link_id": "t3_cbvhse",
+            "parent_id": "t3_cbvhse",
+            "score": 19,
+            "stickied": false,
+            "author_name": "payne747"
+        }
+    }
+}

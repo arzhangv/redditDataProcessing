@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Smart DLL execution for Malware Analysis in Sandbox Systems",
+        "score": 10,
+        "id": "2j4g9f",
+        "commsNum": 0,
+        "timeStamp": "2014/10/13-08:41:17",
+        "author_name": "NattyBroh",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.bsk-consulting.de/2014/10/04/smart-dll-execution-malware-analysis-sandbox-systems/"
+    },
+    "posts": {}
+}

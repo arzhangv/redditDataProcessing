@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "(see comments, this post keeps getting deleted)",
+        "title": "About support.clean-mx",
+        "score": 1,
+        "id": "sq7mve",
+        "commsNum": 4,
+        "timeStamp": "2022/02/11-11:37:21",
+        "author_name": "RainbowIsRainbow",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/sq7mve/about_supportcleanmx/"
+    },
+    "posts": {
+        "hy1c0ev": {
+            "comment": "clean-mx is a scam site run by an idiot named Gerhard W Recher.\n\nhttps://virtuallyfun.com/wordpress/2014/04/23/dumbass-of-the-year-award-goes-to-gerhard-recher/",
+            "timeStamp": "2022/02/22-16:23:44",
+            "id": "hy1c0ev",
+            "is_submitter": false,
+            "link_id": "t3_sq7mve",
+            "parent_id": "t1_hwjnmvf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sunneyjim"
+        },
+        "hwwaexh": {
+            "comment": "[removed]",
+            "timeStamp": "2022/02/14-03:11:14",
+            "id": "hwwaexh",
+            "is_submitter": false,
+            "link_id": "t3_sq7mve",
+            "parent_id": "t3_sq7mve",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hwjnmvf": {
+            "comment": "Correct me if I am on the wrong subreddit, I have seen some people talk   \nabout this site in here, but how do you get access on clean-mx? I tried   \ncreating an account in there(registration form), but I haven't got a   \nresponse back, unless I am being impatient. I also tried contacting the   \nemail, but it is dead as stated in the site. There is multiple sites to   \nregister accounts, xlogin.php, xregister.php, etc etc. I can see it's   \nalive because when I search the site up, I see the dates from right now.",
+            "timeStamp": "2022/02/11-11:38:05",
+            "id": "hwjnmvf",
+            "is_submitter": true,
+            "link_id": "t3_sq7mve",
+            "parent_id": "t3_sq7mve",
+            "score": -1,
+            "stickied": false,
+            "author_name": "RainbowIsRainbow"
+        },
+        "hwjnl2e": {
+            "comment": "[deleted]",
+            "timeStamp": "2022/02/11-11:37:46",
+            "id": "hwjnl2e",
+            "is_submitter": false,
+            "link_id": "t3_sq7mve",
+            "parent_id": "t3_sq7mve",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

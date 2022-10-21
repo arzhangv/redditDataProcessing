@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": " \n\nI'm  just about completely new to hacking and would like to learn about  malware, mainly Trojan horses and specifically those that plant  cryptocurrency miners or perhaps ransomware. How do these work, where  can they be found, how are they implemented and is it legal to possess  them? If possible, please explain in simple terms.\n\nThank you for your help!",
+        "title": "Would like to learn about malware and how it is implemented",
+        "score": 1,
+        "id": "vzuzd2",
+        "commsNum": 0,
+        "timeStamp": "2022/07/15-11:00:10",
+        "author_name": "Antique__throwaway",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/vzuzd2/would_like_to_learn_about_malware_and_how_it_is/"
+    },
+    "posts": {
+        "igatn7b": {
+            "comment": "By looking at your previous posts, i think it might be.",
+            "timeStamp": "2022/07/15-12:07:48",
+            "id": "igatn7b",
+            "is_submitter": false,
+            "link_id": "t3_vzuzd2",
+            "parent_id": "t1_igapbfa",
+            "score": 1,
+            "stickied": false,
+            "author_name": "enonone"
+        },
+        "igari6z": {
+            "comment": "why do you want to learn these things?\n\n&amp;#x200B;\n\nAsking these questions, the way you asked them, is often done by people with nefarious intent. It is why the top response is \"google\"",
+            "timeStamp": "2022/07/15-11:53:30",
+            "id": "igari6z",
+            "is_submitter": false,
+            "link_id": "t3_vzuzd2",
+            "parent_id": "t3_vzuzd2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "moopthepoop"
+        },
+        "igaq97m": {
+            "comment": "This is a great book with a great set of exercises.\n\nhttps://nostarch.com/malware",
+            "timeStamp": "2022/07/15-11:45:13",
+            "id": "igaq97m",
+            "is_submitter": false,
+            "link_id": "t3_vzuzd2",
+            "parent_id": "t3_vzuzd2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "clarkb7"
+        },
+        "igapbfa": {
+            "comment": "Not that hard to search google",
+            "timeStamp": "2022/07/15-11:38:58",
+            "id": "igapbfa",
+            "is_submitter": false,
+            "link_id": "t3_vzuzd2",
+            "parent_id": "t3_vzuzd2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "gbdavidx"
+        },
+        "igak63x": {
+            "comment": "Search YouTube for malware analysis.",
+            "timeStamp": "2022/07/15-11:04:22",
+            "id": "igak63x",
+            "is_submitter": false,
+            "link_id": "t3_vzuzd2",
+            "parent_id": "t3_vzuzd2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "minicoop78"
+        }
+    }
+}

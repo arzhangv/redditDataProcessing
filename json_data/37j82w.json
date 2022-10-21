@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hey guys\n\nStarted fiddling around with Cuckoo Sandbox for automating malware analysis a few months back. It can be a very finicky/delicate installation process. I ran into lots of problems and errors when i was first trying to set it up, going mostly off of other people's blogs on setting it up as well that were from at least a year or two ago. Decided to write a post/tutorial for setting it up as well, hopefully making it a bit more noob-friendly. Let me know what you think.\n\nhttp://www.mal-content.org/blog/automating-malware-analysis-with-cuckoo-sandbox-part-2-setup",
+        "title": "Cuckoo Sandbox Setup/Configuration Tutorial",
+        "score": 26,
+        "id": "37j82w",
+        "commsNum": 15,
+        "timeStamp": "2015/05/27-17:51:07",
+        "author_name": "Index_Dot_Zach",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 15,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/37j82w/cuckoo_sandbox_setupconfiguration_tutorial/"
+    },
+    "posts": {}
+}

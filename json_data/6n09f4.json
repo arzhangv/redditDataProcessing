@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Whenever I try to find information about data stealing malware, its only ever on the big botnet malware like TDSS etc. What are some examples of data stealing malware that are not part of a botnet, but still steal browsing history/ credit card info etc\n",
+        "title": "What are examples of data stealing malware that are not part of a big botnet?",
+        "score": 3,
+        "id": "6n09f4",
+        "commsNum": 2,
+        "timeStamp": "2017/07/13-01:08:47",
+        "author_name": "Thrones33",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6n09f4/what_are_examples_of_data_stealing_malware_that/"
+    },
+    "posts": {
+        "dk5xguk": {
+            "comment": "You could try anything related to POS/retail breaches (fin7 comes to mind) for credit card stuff. I don't really hear about malware that steals browser history though, maybe because it's not half as valuable. ",
+            "timeStamp": "2017/07/13-05:58:06",
+            "id": "dk5xguk",
+            "is_submitter": false,
+            "link_id": "t3_6n09f4",
+            "parent_id": "t3_6n09f4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "dodland"
+        },
+        "dk5t7et": {
+            "comment": "[removed]",
+            "timeStamp": "2017/07/13-03:47:39",
+            "id": "dk5t7et",
+            "is_submitter": false,
+            "link_id": "t3_6n09f4",
+            "parent_id": "t3_6n09f4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

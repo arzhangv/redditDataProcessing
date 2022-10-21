@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I noticed pop up keeps showing on my chrome browser i found out that they all came from pixel.adsafeprotected.com\n\nBut i can't find or remove it, any help ?",
+        "title": "pixel.adsafeprotected.com browser malware, can't find any traces of it.",
+        "score": 1,
+        "id": "jkeyjq",
+        "commsNum": 3,
+        "timeStamp": "2020/10/29-10:53:47",
+        "author_name": "George_82",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/jkeyjq/pixeladsafeprotectedcom_browser_malware_cant_find/"
+    },
+    "posts": {
+        "gak0tdm": {
+            "comment": "&gt;software you recently installed,\n\nOn Google Chrome the websites that keeps popping up are [socurrent.com](https://socurrent.com) and  [externale.com](https://externale.com) i checked both extensions and recent softwares but i couldn't find anything new",
+            "timeStamp": "2020/10/29-18:16:23",
+            "id": "gak0tdm",
+            "is_submitter": true,
+            "link_id": "t3_jkeyjq",
+            "parent_id": "t1_gaipk08",
+            "score": 1,
+            "stickied": false,
+            "author_name": "George_82"
+        },
+        "gajtzon": {
+            "comment": " \\&gt; A place for malware reports and information\n\ntry r/techsupport",
+            "timeStamp": "2020/10/29-17:13:43",
+            "id": "gajtzon",
+            "is_submitter": false,
+            "link_id": "t3_jkeyjq",
+            "parent_id": "t3_jkeyjq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sneezec4t"
+        }
+    }
+}

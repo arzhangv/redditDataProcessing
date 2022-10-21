@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "How To Sinkhole A Botnet",
+        "score": 1,
+        "id": "hqemq0",
+        "commsNum": 4,
+        "timeStamp": "2020/07/13-05:46:42",
+        "author_name": "herrcore",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://youtu.be/FAFuSO9oAl0"
+    },
+    "posts": {
+        "fy0mga5": {
+            "comment": "waste 20 minutes of my time to watch video that could be comprised in five sentences? lol right.",
+            "timeStamp": "2020/07/14-01:02:31",
+            "id": "fy0mga5",
+            "is_submitter": false,
+            "link_id": "t3_hqemq0",
+            "parent_id": "t3_hqemq0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "apatrid"
+        },
+        "fxzvxzc": {
+            "comment": "Wait... \n\nMuTex or \n\nMute x \n\n???\n\nI've always heard and said the former, and hearing the latter hurt me in ways. :p\n\nIt's always funny how spoken language is like that.",
+            "timeStamp": "2020/07/13-19:23:19",
+            "id": "fxzvxzc",
+            "is_submitter": false,
+            "link_id": "t3_hqemq0",
+            "parent_id": "t3_hqemq0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "prozacgod"
+        },
+        "fxz4v48": {
+            "comment": "Perfecto",
+            "timeStamp": "2020/07/13-15:10:20",
+            "id": "fxz4v48",
+            "is_submitter": false,
+            "link_id": "t3_hqemq0",
+            "parent_id": "t3_hqemq0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "JKJOKERKODEWUB"
+        },
+        "fxxdrd9": {
+            "comment": "Dude just finished watching it minutes ago after it popped up in my YouTube notification \ud83d\udd14 \n\nVery informative and recommended watch \ud83d\udcfa \ud83d\udc4c",
+            "timeStamp": "2020/07/13-06:25:34",
+            "id": "fxxdrd9",
+            "is_submitter": false,
+            "link_id": "t3_hqemq0",
+            "parent_id": "t3_hqemq0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AchwaqKhalid"
+        }
+    }
+}

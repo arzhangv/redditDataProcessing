@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "CISO &amp; SOC guide: Detecting and stopping data exfiltration via DNS",
+        "score": 11,
+        "id": "d9ks5c",
+        "commsNum": 2,
+        "timeStamp": "2019/09/26-07:58:59",
+        "author_name": "Z3r0s3c4",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.peerlyst.com/posts/ciso-and-soc-guide-detecting-and-stopping-data-exfiltration-via-dns-s-delano?trk=search_page_search_result"
+    },
+    "posts": {
+        "f2erdkb": {
+            "comment": "Requires sign up, \ud83d\udc4e",
+            "timeStamp": "2019/10/04-08:21:27",
+            "id": "f2erdkb",
+            "is_submitter": false,
+            "link_id": "t3_d9ks5c",
+            "parent_id": "t3_d9ks5c",
+            "score": 1,
+            "stickied": false,
+            "author_name": "bong-rips-for-jesus"
+        },
+        "f1iplvw": {
+            "comment": "lol how can you monitor  data in motion without DPI on https traffic?",
+            "timeStamp": "2019/09/26-08:57:09",
+            "id": "f1iplvw",
+            "is_submitter": false,
+            "link_id": "t3_d9ks5c",
+            "parent_id": "t3_d9ks5c",
+            "score": 1,
+            "stickied": false,
+            "author_name": "fr0ng"
+        }
+    }
+}

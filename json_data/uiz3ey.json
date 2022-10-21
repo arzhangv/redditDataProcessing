@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "A Deep Dive into AvosLocker Ransomware",
+        "score": 1,
+        "id": "uiz3ey",
+        "commsNum": 0,
+        "timeStamp": "2022/05/05-07:47:22",
+        "author_name": "CyberMasterV",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://securityscorecard.com/resources/a-deep-dive-into-avos-locker-ransomware"
+    },
+    "posts": {
+        "i7g5b9x": {
+            "comment": "[removed]",
+            "timeStamp": "2022/05/05-10:13:37",
+            "id": "i7g5b9x",
+            "is_submitter": false,
+            "link_id": "t3_uiz3ey",
+            "parent_id": "t3_uiz3ey",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

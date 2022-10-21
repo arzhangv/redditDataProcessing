@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hello everyone, I was just wondering if anyone had some particularly good resources (general or in-depth on a specific idea/concept) for learning the tricks and tools of the malware development game (for educational purposes only of course).\n\nI'm already familiar with the blog posts of 0xPat as well as with the Shellcoder's Handbook and The Rootkit Arsenal. Any other resources that anyone could recommend?",
+        "title": "Best Books/Resources - Malware Development",
+        "score": 1,
+        "id": "rw8wcp",
+        "commsNum": 0,
+        "timeStamp": "2022/01/04-16:15:30",
+        "author_name": "Grickites",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/rw8wcp/best_booksresources_malware_development/"
+    },
+    "posts": {
+        "hrccat9": {
+            "comment": "Rootkits: Subverting the Windows Kernel is great! But I don't know how relevant it is to this day",
+            "timeStamp": "2022/01/05-03:41:03",
+            "id": "hrccat9",
+            "is_submitter": false,
+            "link_id": "t3_rw8wcp",
+            "parent_id": "t3_rw8wcp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "dendisuhubdy"
+        },
+        "hrbqx26": {
+            "comment": "Would recommend after some introductory material that you dive into looking at source code for malware, looking up terms and techniques they use as you go: https://github.com/vxunderground/MalwareSourceCode\nToo many books without application and the information might be irrelevant or hard for you to retain.",
+            "timeStamp": "2022/01/04-23:16:33",
+            "id": "hrbqx26",
+            "is_submitter": false,
+            "link_id": "t3_rw8wcp",
+            "parent_id": "t3_rw8wcp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "lakitustanfield"
+        },
+        "hrbbbm1": {
+            "comment": "Whenever someone ask a question regarding writing malware, instead of providing books, articles, etc answer like this are provided. He's asking for resources and you're saying do such and such, where they probably don't know how to , which is why they're asking the question in the first place.  \n\nOP , here are some books you may find helpful. [https://nostarch.com/networkprotocols](https://nostarch.com/networkprotocols)\n\n[https://nostarch.com/rootkits.htm](https://nostarch.com/rootkits.htm)\n\n[https://nostarch.com/binaryanalysis](https://nostarch.com/binaryanalysis)",
+            "timeStamp": "2022/01/04-20:44:33",
+            "id": "hrbbbm1",
+            "is_submitter": false,
+            "link_id": "t3_rw8wcp",
+            "parent_id": "t1_hrayhe6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "_W0z"
+        },
+        "hrayhe6": {
+            "comment": "Write an LD_PRELOAD rootkit, if you don't know what that is, learn to hook syscalls and learn the Linux authentication system",
+            "timeStamp": "2022/01/04-19:05:17",
+            "id": "hrayhe6",
+            "is_submitter": false,
+            "link_id": "t3_rw8wcp",
+            "parent_id": "t3_rw8wcp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "bambiibunnii"
+        },
+        "hrajxeh": {
+            "comment": "Have you read the Shellcoder's Handbook and the Rootkit Arsenal? I was wondering if they are still relevant today. I might give them a try this year.",
+            "timeStamp": "2022/01/04-17:22:53",
+            "id": "hrajxeh",
+            "is_submitter": false,
+            "link_id": "t3_rw8wcp",
+            "parent_id": "t3_rw8wcp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "EONRaider"
+        }
+    }
+}

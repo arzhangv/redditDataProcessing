@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Is this not like any other anti malware program? It seems like I have to install it every single time to use it, am I using it wrong?",
+        "title": "Hitman Pro",
+        "score": 1,
+        "id": "dxadrv",
+        "commsNum": 1,
+        "timeStamp": "2019/11/16-10:14:56",
+        "author_name": "tortos",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/dxadrv/hitman_pro/"
+    },
+    "posts": {
+        "f7oj19e": {
+            "comment": "Does it not stay installed, I\u2019d love to use this rather then Malwarebytes. Thanks.",
+            "timeStamp": "2019/11/16-10:17:41",
+            "id": "f7oj19e",
+            "is_submitter": true,
+            "link_id": "t3_dxadrv",
+            "parent_id": "t3_dxadrv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "tortos"
+        }
+    }
+}

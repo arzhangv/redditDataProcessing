@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "This was in my documents folder, i have no idea what it is , please help?",
+        "score": 1,
+        "id": "rwxr9j",
+        "commsNum": 1,
+        "timeStamp": "2022/01/05-13:52:15",
+        "author_name": "SPARKY358gaming",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://i.redd.it/nqv5p9igxx981.png"
+    },
+    "posts": {
+        "hrerj05": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators **and be sure to include the link to the post** - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2022/01/05-13:52:16",
+            "id": "hrerj05",
+            "is_submitter": false,
+            "link_id": "t3_rwxr9j",
+            "parent_id": "t3_rwxr9j",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

@@ -1,0 +1,154 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I can't get rid of this \"Campaign Notifier\" Virus. It keeps playing ads in the background, but I don't see the ad. Any suggestion. I run my antivirus, but it doesn't pick it up.\nhttps://imgur.com/a/GnFDw5m\n",
+        "title": "Google Chrome Extension Malware",
+        "score": 6,
+        "id": "8ocwpr",
+        "commsNum": 12,
+        "timeStamp": "2018/06/03-17:04:22",
+        "author_name": "lightbringer7788",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 12,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8ocwpr/google_chrome_extension_malware/"
+    },
+    "posts": {
+        "e02y9gt": {
+            "comment": "Who upvotes this? Gtfo.",
+            "timeStamp": "2018/06/04-00:36:00",
+            "id": "e02y9gt",
+            "is_submitter": false,
+            "link_id": "t3_8ocwpr",
+            "parent_id": "t3_8ocwpr",
+            "score": -1,
+            "stickied": false,
+            "author_name": "baron1703"
+        },
+        "e02k2ep": {
+            "comment": "PM sent. [Here's a shortcut to the reddit chat page.](https://www.reddit.com/chat)",
+            "timeStamp": "2018/06/03-18:56:42",
+            "id": "e02k2ep",
+            "is_submitter": false,
+            "link_id": "t3_8ocwpr",
+            "parent_id": "t1_e02jluo",
+            "score": 1,
+            "stickied": false,
+            "author_name": "FlashDaggerX"
+        },
+        "e02jluo": {
+            "comment": "yeah sure. No i didnt get from storefront",
+            "timeStamp": "2018/06/03-18:48:49",
+            "id": "e02jluo",
+            "is_submitter": true,
+            "link_id": "t3_8ocwpr",
+            "parent_id": "t1_e02ixai",
+            "score": 2,
+            "stickied": false,
+            "author_name": "lightbringer7788"
+        },
+        "e02ixai": {
+            "comment": "I can help. Can we do it via PM though?\n\nWait, before we even do that, can you tell me if you got it from the webstore or not?",
+            "timeStamp": "2018/06/03-18:36:29",
+            "id": "e02ixai",
+            "is_submitter": false,
+            "link_id": "t3_8ocwpr",
+            "parent_id": "t3_8ocwpr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "FlashDaggerX"
+        },
+        "e02icb8": {
+            "comment": "Download new Chrome installer, uninstall current Chrome, run [CCleaner](https://www.ccleaner.com/ccleaner/download/standard).\n\nWhen running CCleaner, make sure under the 'Cleaner' tab you have everything for the 'Application' Google Chrome checked if it shows up (it may not since you just uninstalled it). Still under the 'Cleaner' tab, I'd suggest making sure 'Temporary Files' under System is checked and 'Environment Path' under Advanced checked. After you 'Run Cleaner' go to the 'Registry' tab. Press 'Scan for Issues' then 'Fix selected Issues'. You can save a backup of the registry if you want (I do even though I've never needed to restore the registry). You have to 'Scan for Issues' and 'Fix selected Issues' up to 3 times (erasing pointers).\n\nReinstall Chrome. If the plug-in reinstalls itself after that, that's when you know you're in for some fun :)\n\nHope this helps.",
+            "timeStamp": "2018/06/03-18:25:48",
+            "id": "e02icb8",
+            "is_submitter": false,
+            "link_id": "t3_8ocwpr",
+            "parent_id": "t3_8ocwpr",
+            "score": 5,
+            "stickied": false,
+            "author_name": "Kidnap"
+        },
+        "e02gv7n": {
+            "comment": "ugh i still hear the ads play... ",
+            "timeStamp": "2018/06/03-17:59:49",
+            "id": "e02gv7n",
+            "is_submitter": true,
+            "link_id": "t3_8ocwpr",
+            "parent_id": "t1_e02gcpw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "lightbringer7788"
+        },
+        "e02gcpw": {
+            "comment": "I think it worked. I don't see it popping up ! Thanks !",
+            "timeStamp": "2018/06/03-17:50:52",
+            "id": "e02gcpw",
+            "is_submitter": true,
+            "link_id": "t3_8ocwpr",
+            "parent_id": "t1_e02esm0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "lightbringer7788"
+        },
+        "e02g440": {
+            "comment": "/r/techsupport",
+            "timeStamp": "2018/06/03-17:46:41",
+            "id": "e02g440",
+            "is_submitter": false,
+            "link_id": "t3_8ocwpr",
+            "parent_id": "t3_8ocwpr",
+            "score": 6,
+            "stickied": false,
+            "author_name": "trunksbomb"
+        },
+        "e02etl5": {
+            "comment": "Go to chrome setting search for reset and hit that button\n\n\nLame as*o'es upvotes this kind of shitposts",
+            "timeStamp": "2018/06/03-17:23:30",
+            "id": "e02etl5",
+            "is_submitter": false,
+            "link_id": "t3_8ocwpr",
+            "parent_id": "t3_8ocwpr",
+            "score": -2,
+            "stickied": false,
+            "author_name": "ragupal"
+        },
+        "e02esm0": {
+            "comment": "try this\nhttps://productforums.google.com/forum/#!topic/chrome/NwWyxq2axrI",
+            "timeStamp": "2018/06/03-17:23:02",
+            "id": "e02esm0",
+            "is_submitter": false,
+            "link_id": "t3_8ocwpr",
+            "parent_id": "t1_e02efga",
+            "score": 0,
+            "stickied": false,
+            "author_name": "outerlimtz"
+        },
+        "e02efga": {
+            "comment": "I can't uninstall the extension.",
+            "timeStamp": "2018/06/03-17:16:28",
+            "id": "e02efga",
+            "is_submitter": true,
+            "link_id": "t3_8ocwpr",
+            "parent_id": "t1_e02e8pb",
+            "score": 0,
+            "stickied": false,
+            "author_name": "lightbringer7788"
+        },
+        "e02e8pb": {
+            "comment": "uninstall the extensions from chrome then close it. make sure all chrome processes are stopped. run a full mbam scan",
+            "timeStamp": "2018/06/03-17:13:01",
+            "id": "e02e8pb",
+            "is_submitter": false,
+            "link_id": "t3_8ocwpr",
+            "parent_id": "t3_8ocwpr",
+            "score": -1,
+            "stickied": false,
+            "author_name": "outerlimtz"
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "US disrupts Russian Cyclops Blink botnet before being used in attacks",
+        "score": 1,
+        "id": "txth3h",
+        "commsNum": 0,
+        "timeStamp": "2022/04/06-12:00:13",
+        "author_name": "homothebrave",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.bleepingcomputer.com/news/security/us-disrupts-russian-cyclops-blink-botnet-before-being-used-in-attacks/"
+    },
+    "posts": {
+        "i423dvx": {
+            "comment": "It seems Russia \"blinked\" in this staring contest.",
+            "timeStamp": "2022/04/09-10:23:33",
+            "id": "i423dvx",
+            "is_submitter": false,
+            "link_id": "t3_txth3h",
+            "parent_id": "t3_txth3h",
+            "score": 1,
+            "stickied": false,
+            "author_name": "coconut_dot_jpg"
+        },
+        "i3odw9f": {
+            "comment": "wink",
+            "timeStamp": "2022/04/06-13:52:05",
+            "id": "i3odw9f",
+            "is_submitter": false,
+            "link_id": "t3_txth3h",
+            "parent_id": "t3_txth3h",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Drutski"
+        }
+    }
+}

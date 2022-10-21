@@ -1,0 +1,209 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "GandCrab ransomware hacker arrested in Belarus",
+        "score": 1,
+        "id": "i4c0lf",
+        "commsNum": 17,
+        "timeStamp": "2020/08/05-12:29:38",
+        "author_name": "DrinkMoreCodeMore",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 17,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://nakedsecurity.sophos.com/2020/08/04/gandcrab-ransomware-hacker-arrested-in-belarus/"
+    },
+    "posts": {
+        "g0l5wle": {
+            "comment": "haha, that's great. I love non-English speaking hacker translated stuff.\n\nOne of my favorites is this ATM malware that said \"[Let's make some cutlets today!](https://www.bleepstatic.com/images/news/u/986406/Malware/ATM/Cutlet.PNG)\"\n\nAnd has buttons for CHECK HEAT and then Start Cooking!",
+            "timeStamp": "2020/08/06-11:04:33",
+            "id": "g0l5wle",
+            "is_submitter": true,
+            "link_id": "t3_i4c0lf",
+            "parent_id": "t1_g0l2ken",
+            "score": 2,
+            "stickied": false,
+            "author_name": "DrinkMoreCodeMore"
+        },
+        "g0l2ken": {
+            "comment": "My favorite advertising line from one of their marketplace posts - \"The crab penetrates deeper\" or something to that effect. Classic.",
+            "timeStamp": "2020/08/06-10:41:07",
+            "id": "g0l2ken",
+            "is_submitter": false,
+            "link_id": "t3_i4c0lf",
+            "parent_id": "t3_i4c0lf",
+            "score": 2,
+            "stickied": false,
+            "author_name": "lolsrsly00"
+        },
+        "g0kw7wl": {
+            "comment": "Arete's a great company to work for in DFIR, smaller but their consultants are really competent.",
+            "timeStamp": "2020/08/06-09:52:38",
+            "id": "g0kw7wl",
+            "is_submitter": false,
+            "link_id": "t3_i4c0lf",
+            "parent_id": "t1_g0j5lcg",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Rayotap"
+        },
+        "g0jb4qw": {
+            "comment": "you're right",
+            "timeStamp": "2020/08/06-00:23:21",
+            "id": "g0jb4qw",
+            "is_submitter": false,
+            "link_id": "t3_i4c0lf",
+            "parent_id": "t1_g0i3yp2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DieBlackfisk"
+        },
+        "g0j6440": {
+            "comment": "Ban crabs!",
+            "timeStamp": "2020/08/05-23:08:17",
+            "id": "g0j6440",
+            "is_submitter": false,
+            "link_id": "t3_i4c0lf",
+            "parent_id": "t1_g0i9ew4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "gabboman"
+        },
+        "g0j5rgq": {
+            "comment": "I have read that some ransomware attacks want money for the key and then want money to not publicly release the data.",
+            "timeStamp": "2020/08/05-23:03:25",
+            "id": "g0j5rgq",
+            "is_submitter": false,
+            "link_id": "t3_i4c0lf",
+            "parent_id": "t1_g0j5lcg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "posco12"
+        },
+        "g0j5lcg": {
+            "comment": "Yeah seems they used a 3rd party company called Arete IR to pay it so not directly",
+            "timeStamp": "2020/08/05-23:01:05",
+            "id": "g0j5lcg",
+            "is_submitter": true,
+            "link_id": "t3_i4c0lf",
+            "parent_id": "t1_g0j5ilc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DrinkMoreCodeMore"
+        },
+        "g0j5ilc": {
+            "comment": "Not saying they didn\u2019t, but as an insider I know for sure they haven\u2019t admitted it.",
+            "timeStamp": "2020/08/05-23:00:03",
+            "id": "g0j5ilc",
+            "is_submitter": false,
+            "link_id": "t3_i4c0lf",
+            "parent_id": "t1_g0i487u",
+            "score": 2,
+            "stickied": false,
+            "author_name": "posco12"
+        },
+        "g0ijsg5": {
+            "comment": "When it comes to corporate ransomware, crime does indeed payout huge.",
+            "timeStamp": "2020/08/05-19:05:16",
+            "id": "g0ijsg5",
+            "is_submitter": true,
+            "link_id": "t3_i4c0lf",
+            "parent_id": "t1_g0i4k0v",
+            "score": 2,
+            "stickied": false,
+            "author_name": "DrinkMoreCodeMore"
+        },
+        "g0i9ew4": {
+            "comment": "Time for crab",
+            "timeStamp": "2020/08/05-17:31:37",
+            "id": "g0i9ew4",
+            "is_submitter": false,
+            "link_id": "t3_i4c0lf",
+            "parent_id": "t3_i4c0lf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "deggialcfr"
+        },
+        "g0i4k0v": {
+            "comment": "God damn. 10 mil payout",
+            "timeStamp": "2020/08/05-16:48:21",
+            "id": "g0i4k0v",
+            "is_submitter": false,
+            "link_id": "t3_i4c0lf",
+            "parent_id": "t1_g0i4d9d",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Allevon-602"
+        },
+        "g0i4d9d": {
+            "comment": "https://www.theverge.com/2020/8/4/21353842/garmin-ransomware-attack-wearables-wastedlocker-evil-corp",
+            "timeStamp": "2020/08/05-16:46:43",
+            "id": "g0i4d9d",
+            "is_submitter": true,
+            "link_id": "t3_i4c0lf",
+            "parent_id": "t1_g0i49x5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DrinkMoreCodeMore"
+        },
+        "g0i49x5": {
+            "comment": "What\u2019s Garmin?",
+            "timeStamp": "2020/08/05-16:45:54",
+            "id": "g0i49x5",
+            "is_submitter": false,
+            "link_id": "t3_i4c0lf",
+            "parent_id": "t1_g0i487u",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Allevon-602"
+        },
+        "g0i487u": {
+            "comment": "Agreed. It's a billion dollar industry now. Garmin just paid $10M last month.",
+            "timeStamp": "2020/08/05-16:45:29",
+            "id": "g0i487u",
+            "is_submitter": true,
+            "link_id": "t3_i4c0lf",
+            "parent_id": "t1_g0hxi59",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DrinkMoreCodeMore"
+        },
+        "g0i3yp2": {
+            "comment": "This guy arrested was just an affiliate pushing gandcrab, not the actual creator behind it. They moved onto REevil.",
+            "timeStamp": "2020/08/05-16:43:09",
+            "id": "g0i3yp2",
+            "is_submitter": true,
+            "link_id": "t3_i4c0lf",
+            "parent_id": "t1_g0i23lc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DrinkMoreCodeMore"
+        },
+        "g0i23lc": {
+            "comment": "Bah, if you're going to stop operations and enjoy life, actually do it. They knew what could happen, and they continued anyways.",
+            "timeStamp": "2020/08/05-16:26:51",
+            "id": "g0i23lc",
+            "is_submitter": false,
+            "link_id": "t3_i4c0lf",
+            "parent_id": "t3_i4c0lf",
+            "score": 2,
+            "stickied": false,
+            "author_name": "DieBlackfisk"
+        },
+        "g0hxi59": {
+            "comment": "I thought this business model was so cool when I first heard about it. I mean it\u2019s shitty what they\u2019re doing it but, leave it to hackers to innovate and create an easy to use business model like apples app store lol.",
+            "timeStamp": "2020/08/05-15:47:02",
+            "id": "g0hxi59",
+            "is_submitter": false,
+            "link_id": "t3_i4c0lf",
+            "parent_id": "t3_i4c0lf",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Allevon-602"
+        }
+    }
+}

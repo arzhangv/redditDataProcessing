@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi,\nI was wondering if there's any way to detect code injections (like Volatility's malfind that finds writable-executable pages) but if after the injection the VirtualProtectEx function was called again to change it back to normal ?\n\nThank you very much",
+        "title": "Is there any way to detect code injections if the malware called VirtualProtectEx back to un-writable?",
+        "score": 7,
+        "id": "2snfp6",
+        "commsNum": 4,
+        "timeStamp": "2015/01/16-10:10:11",
+        "author_name": "desegel",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2snfp6/is_there_any_way_to_detect_code_injections_if_the/"
+    },
+    "posts": {}
+}

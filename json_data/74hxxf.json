@@ -1,0 +1,110 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hello,\nDoing some research atm as part of my Master's and i wanted some resources from the community of network traffic that is not malicious in one pcap and another pcap from the same network that is only mallicious.\n\nI have found doing some googling some resources like http://www.netresec.com/?page=PcapFiles\n\nbut unfortunately the data is mixed and much harder to classify.\n\nOfc if there are no alternative i will do it manually but having pcaps seperate will save me a lot of time.\n\nI know that i could setup a lab but atm the only machine i have access to is a laptop and i don't want to risk it infecting it.\n\nBtw any kind of malware traffic is ok. If it multiple its even better but it has to be from the same network.\n\nIf you have any question feel free to message me or post a comment below.\n\n",
+        "title": "Doing research in Malware Traffic.Any help for resources greatly appreciated.",
+        "score": 9,
+        "id": "74hxxf",
+        "commsNum": 5,
+        "timeStamp": "2017/10/05-11:32:16",
+        "author_name": "LalafellRulez",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/74hxxf/doing_research_in_malware_trafficany_help_for/"
+    },
+    "posts": {
+        "do29ddl": {
+            "comment": "I screwed around with this a while back  and found that I had to change some logging settings to get it to work right. ",
+            "timeStamp": "2017/10/07-20:12:33",
+            "id": "do29ddl",
+            "is_submitter": false,
+            "link_id": "t3_74hxxf",
+            "parent_id": "t1_do10ftg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DurokAmerikanski"
+        },
+        "do10ftg": {
+            "comment": "Funny cause the snort files i work on atm are from a Security Onion installation. Nonetheless ty for your response.",
+            "timeStamp": "2017/10/07-00:25:31",
+            "id": "do10ftg",
+            "is_submitter": true,
+            "link_id": "t3_74hxxf",
+            "parent_id": "t1_do0u9sz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "LalafellRulez"
+        },
+        "do0u9sz": {
+            "comment": "The MADCC stuff from Netresec's site is pretty legit, as is the Malware Traffic Analysis stuff.\n\nYou could get yourself a Security Onion VM, update it, them run your PCAPs through snort. Snort will alert you to any traffic that matches your rules.  Unfortunately complexity is normal for this stuff.",
+            "timeStamp": "2017/10/06-20:44:25",
+            "id": "do0u9sz",
+            "is_submitter": false,
+            "link_id": "t3_74hxxf",
+            "parent_id": "t3_74hxxf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DurokAmerikanski"
+        },
+        "dnyok30": {
+            "comment": "Unfortunately not exactly i need precaptured data since atm i can not produce my own(lack of a equipment and lab).By thanks for the link it may help speed up the manual labor ever so slightly",
+            "timeStamp": "2017/10/05-14:35:51",
+            "id": "dnyok30",
+            "is_submitter": true,
+            "link_id": "t3_74hxxf",
+            "parent_id": "t1_dnymhmb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "LalafellRulez"
+        },
+        "dnymhmb": {
+            "comment": "[PacketTotal](https://packettotal.com) is what you're looking for.",
+            "timeStamp": "2017/10/05-13:57:28",
+            "id": "dnymhmb",
+            "is_submitter": false,
+            "link_id": "t3_74hxxf",
+            "parent_id": "t3_74hxxf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "arvanaghi"
+        },
+        "dnyk2u6": {
+            "comment": "First of all ty for your time to reply. I am looking for more specific data in .pcap or .snort format.\n\nSomething akin to the data provided here\nhttps://www.first.org/_assets/conf2015/networkforensics_virtualbox.zip\n\nBut already separated into normal traffic and malware traffic from the same network. \n\nI have an idea to propose to professor and i wanted to avoid as much manual labor since i just want to classify the traffic. \n\nThanks again for taking the time to reply.",
+            "timeStamp": "2017/10/05-13:16:15",
+            "id": "dnyk2u6",
+            "is_submitter": true,
+            "link_id": "t3_74hxxf",
+            "parent_id": "t1_dnyj96x",
+            "score": 1,
+            "stickied": false,
+            "author_name": "LalafellRulez"
+        },
+        "dnyj96x": {
+            "comment": "http://map.norsecorp.com/",
+            "timeStamp": "2017/10/05-13:02:07",
+            "id": "dnyj96x",
+            "is_submitter": false,
+            "link_id": "t3_74hxxf",
+            "parent_id": "t3_74hxxf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DarthKane1978"
+        },
+        "dnyggqq": {
+            "comment": "This site is good: http://malware-traffic-analysis.net\n\nI think it's in this list, along with tons of other stuff: \nhttps://www.peerlyst.com/posts/resource-learning-how-to-reverse-malware-a-guide",
+            "timeStamp": "2017/10/05-12:14:08",
+            "id": "dnyggqq",
+            "is_submitter": false,
+            "link_id": "t3_74hxxf",
+            "parent_id": "t3_74hxxf",
+            "score": 2,
+            "stickied": false,
+            "author_name": "enigmatism"
+        }
+    }
+}

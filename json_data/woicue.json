@@ -1,0 +1,132 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Recently through youtube/twitter I found out about malware analysis. My background is mostly in programming with some basic network knowledge. However most tutorials kind of go from 0 to 100, which I wouldn't mind too much, but I'm lowkey scared of destroying my host machine :p.\n\nSo I have some questions:\n\n* My host machine is windows 10 and I'm planning to use VirtualBox since I'm more familiar with that . Is this safe enough ? From my understanding the Virtual Windows environment must not have access to the internet and I also need a virtual system running remnux.\n* Do I need a VPN ? \n* I've also heard that I should isolate my network as much as possible. However I'm not exactly sure how to do that ? \n* Is it worth looking into online courses ? Stuff like Udemy, Coursera etc...\n* Any other tips would be appreciated. \n\nThanks for the time. Have a nice one !",
+        "title": "Just starting out",
+        "score": 1,
+        "id": "woicue",
+        "commsNum": 0,
+        "timeStamp": "2022/08/14-15:16:56",
+        "author_name": "GoldenNugget133",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/woicue/just_starting_out/"
+    },
+    "posts": {
+        "ikert50": {
+            "comment": "[removed]",
+            "timeStamp": "2022/08/15-10:49:15",
+            "id": "ikert50",
+            "is_submitter": false,
+            "link_id": "t3_woicue",
+            "parent_id": "t1_ikbtyif",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ikeapmj": {
+            "comment": "Pmat course is $1. Pair that with the book practical malware analysis. After that, you would be ready for GREM. The course is all you need as you get taught everything to start out a lab\n\nhttps://twitter.com/huskyhacksmk/status/1559144316454543360?s=21&amp;t=Qh7XMAwqxUwEvrXaOyQgpA",
+            "timeStamp": "2022/08/15-08:58:42",
+            "id": "ikeapmj",
+            "is_submitter": false,
+            "link_id": "t3_woicue",
+            "parent_id": "t3_woicue",
+            "score": 1,
+            "stickied": false,
+            "author_name": "canofspam2020"
+        },
+        "ikcwxss": {
+            "comment": "Talking about VPNs, I think you will be interested in OpenZiti. It's an open source private overlay network solution built on zero trust principles and high performance - e.g., get e2e encryption, private DNS, and outbound-only connections (see more on superpowers - [https://www.youtube.com/playlist?list=PLMUj\\_5fklasKF1oisSSuLwSzLVxuL9JbC](https://www.youtube.com/playlist?list=PLMUj_5fklasKF1oisSSuLwSzLVxuL9JbC)). \n\nEven better, it's built for developers like yourself and has a suite of SDKs allowing you to build private networking into the application stack. Not only is this awesome for developers, but it also means we extend zero trust across the local and host OS. A couple of examples below:\n\n* [https://openziti.github.io/articles/zitification/prometheus/part1.html](https://openziti.github.io/articles/zitification/prometheus/part1.html)\n* [https://github.com/openziti-test-kitchen/ansible-paramikoz-demo](https://github.com/openziti-test-kitchen/ansible-paramikoz-demo)",
+            "timeStamp": "2022/08/15-01:19:41",
+            "id": "ikcwxss",
+            "is_submitter": false,
+            "link_id": "t3_woicue",
+            "parent_id": "t3_woicue",
+            "score": 1,
+            "stickied": false,
+            "author_name": "PhilipLGriffiths88"
+        },
+        "ikcvl8c": {
+            "comment": "[removed]",
+            "timeStamp": "2022/08/15-01:01:00",
+            "id": "ikcvl8c",
+            "is_submitter": false,
+            "link_id": "t3_woicue",
+            "parent_id": "t3_woicue",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ikc0jor": {
+            "comment": "Same! It actually helped me with comprehending GREM better and eventually passing the exam!",
+            "timeStamp": "2022/08/14-19:28:06",
+            "id": "ikc0jor",
+            "is_submitter": false,
+            "link_id": "t3_woicue",
+            "parent_id": "t1_ikbzae7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "its_sizzle"
+        },
+        "ikbzae7": {
+            "comment": "Agreed. Did this before the GREM and it was a fantastic starter.",
+            "timeStamp": "2022/08/14-19:17:58",
+            "id": "ikbzae7",
+            "is_submitter": false,
+            "link_id": "t3_woicue",
+            "parent_id": "t1_ikbtyif",
+            "score": 1,
+            "stickied": false,
+            "author_name": "blue_Kazoo82"
+        },
+        "ikbtyif": {
+            "comment": "If you want a relatively cheap course that will help you from ground zero to at least feeling comfortable doing malware analysis I highly recommend Practical Malware Analysis by TCM-Security.\n\nIt\u2019s like $30 and has videos and an active discord for assistance. If you want a referral link lmk and I can message you one. \n\nI\u2019ve taken the course and it helped me a lot!",
+            "timeStamp": "2022/08/14-18:35:31",
+            "id": "ikbtyif",
+            "is_submitter": false,
+            "link_id": "t3_woicue",
+            "parent_id": "t3_woicue",
+            "score": 1,
+            "stickied": false,
+            "author_name": "its_sizzle"
+        },
+        "ikbalrw": {
+            "comment": "Setting up Windows VMs is easy. Remnux is one option, as is FLARE-VM, OALabs VM, etc. There are many pre-built solutions. MalwareUnicorn has a set of images for one type of malware analysis (https://malwareunicorn.org/workshops/re101.html#2). \n\nHer method is one of many. Two VMs, each within the same VirtualBox private network, so that they can only talk to each other. One to run malware on, the other to be a fake internet server it can communicate to.\n\nI wouldn't stress about sandbox escapes, or hard core isolation. I don't use VPNs for any of my analysis, but I also don't regularly let malware beacon out to the internet unless I'm monitoring it directly.\n\nThere are various levels of paranoia to judge how much you should segregate. If it's standard malware, and it's contained within a VM, there's little risk to letting the VM connect to the Internet. Worst case, whoever is on the other end will see your IP (and sometimes geo location).\n\nPick up the book Learning Malware Analysis by Monnappa K A. There are many great books out there, but this is one of the most recent and updated ones. \n\nMalware analysis starts with building out your arsenal of tools, and knowing when to use what tool :) That book, and others, will walk you through it. I also recommend a tool I wrote, Noriben, that helps for beginners to understand what malware is doing in a very clear way: https://github.com/Rurik/Noriben",
+            "timeStamp": "2022/08/14-16:04:09",
+            "id": "ikbalrw",
+            "is_submitter": false,
+            "link_id": "t3_woicue",
+            "parent_id": "t3_woicue",
+            "score": 1,
+            "stickied": false,
+            "author_name": "LightningRurik"
+        },
+        "ikb5ba6": {
+            "comment": "It\u2019s best to have a dedicated machine you don\u2019t care about and that is not connected to your network. The chances some malware will breach your VM and infect your host machine is very low, but not zero.\n\nYes, you need a VPN. \n\nDon\u2019t ever run a malicious script while connected to your network (wifi or ethernet).\n\nI don\u2019t know of any analysis courses, besides looking into binaries with IDA Pro you just kind of learn it by doing. I started with finding malicious scripts people post online and deobfuscating them on a dedicated air tight machine, but TBH I had more experience than you in networking and programming so it\u2019s hard for me to point you in the right direction. Check out John Hammond on YT, he has a bunch of analysis videos you can learn from.",
+            "timeStamp": "2022/08/14-15:24:46",
+            "id": "ikb5ba6",
+            "is_submitter": false,
+            "link_id": "t3_woicue",
+            "parent_id": "t3_woicue",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TheScriptDude"
+        },
+        "ikb58vb": {
+            "comment": "For Sandbox use the Windows Sandbox feature setting up a windows virtual machine is pain. if you want to use linux, there special docker images for isolating/analysing malware (remnux as example). \nFor isolating network you could buy a cheap router and set it up with internet from the wan side so you made a own network only with the router and your pc\nBuying courses is not necessary",
+            "timeStamp": "2022/08/14-15:24:17",
+            "id": "ikb58vb",
+            "is_submitter": false,
+            "link_id": "t3_woicue",
+            "parent_id": "t3_woicue",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Matse_304"
+        }
+    }
+}

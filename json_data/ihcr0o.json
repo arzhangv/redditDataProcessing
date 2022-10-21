@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Themida Version 3 API Wrapping Analyzed!",
+        "score": 1,
+        "id": "ihcr0o",
+        "commsNum": 0,
+        "timeStamp": "2020/08/26-19:24:51",
+        "author_name": "DamageThink",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://github.com/quosego/analysis.oreans/tree/master/Documentations/Version%203/Themida/x32/3.0.8.0/Advanced%20API-Wrapping"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Doki: Undetectable Linux Malware Targeting Docker Servers With Exposed APIs",
+        "score": 1,
+        "id": "hzz2cv",
+        "commsNum": 0,
+        "timeStamp": "2020/07/29-04:28:49",
+        "author_name": "difki",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://thehackernews.com/2020/07/docker-linux-malware.html"
+    },
+    "posts": {}
+}

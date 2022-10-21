@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "So malware hunters what are the methods you employ when hunting malware? What are some tell tale signs?\n\n\nReason:\n\n\nI notice my firewall sinkholing requests from my computers when users are visiting some websites like pandora.com and the ad-block plus plugin is not enabled. I'm assuming these are malvertising domains being served on the legit website and asking the web browser to download content from these URLs. Unfortunately my firewall vendor threat information page contains very little information on the source on the info that a domain is bad. I want to verify these are indeed malvertising requests being blocked and not some other malicious software calling home.\n\n\nSo far I've been able to link the sinkhole requests to the iexplore.exe process with a quick remote console netstat -a -o -n and a tasklist.\n\nEDIT: So I've launched Internet Explorer with ad block plus disabled and inspect elements enabled to view the network connections. All the aborted connections are the ad content being blocked by the firewall. I'm assuming something in here will eventually call up a malware/malvertising domain and get bocked by the dns sinkhole when the PC attempts to resolve the hostname. \n\nhttp://i.imgur.com/0SgBo5K.png\n",
+        "title": "What do you look for?",
+        "score": 8,
+        "id": "421wan",
+        "commsNum": 6,
+        "timeStamp": "2016/01/21-12:37:13",
+        "author_name": "duh045duh",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/421wan/what_do_you_look_for/"
+    },
+    "posts": {}
+}

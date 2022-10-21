@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Benefits of Binary Static Analysis",
+        "score": 0,
+        "id": "263ped",
+        "commsNum": 0,
+        "timeStamp": "2014/05/21-00:27:18",
+        "author_name": "paran0ide",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://blog.veracode.com/2014/05/benefits-of-binary-static-analysis/"
+    },
+    "posts": {}
+}

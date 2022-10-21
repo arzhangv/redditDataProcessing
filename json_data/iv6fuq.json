@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hi All,\n\nI am interested to learn threat hunting but not to know how to start it.\n\nI have checked from certification course like SANS , e learn security. I am unable to afford that much amount. Is there any tutorial available to study the Threat hunting . Please suggest .\n\nThank you",
+        "title": "Threat Hunting",
+        "score": 1,
+        "id": "iv6fuq",
+        "commsNum": 2,
+        "timeStamp": "2020/09/18-06:51:08",
+        "author_name": "vyasarvenkat",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/iv6fuq/threat_hunting/"
+    },
+    "posts": {
+        "g5u66ig": {
+            "comment": "Thank you very much",
+            "timeStamp": "2020/09/19-10:44:42",
+            "id": "g5u66ig",
+            "is_submitter": true,
+            "link_id": "t3_iv6fuq",
+            "parent_id": "t1_g5qgj3g",
+            "score": 2,
+            "stickied": false,
+            "author_name": "vyasarvenkat"
+        },
+        "g5qgj3g": {
+            "comment": "There aren't a lot of courses or books specifically on Threat Hunting, and to different people and places it can mean different things.\n\nSome places see it as e.g. IDS/ Splunk/ EDR review, while others see it as post-discovery investigation, etc.\n\nI'd recommend looking for resources (books and trainings) on Blue Teaming, Network Defense, and other defensive security courses. This will largely get you where the Threat Hunter moniker usually sits.",
+            "timeStamp": "2020/09/18-12:42:16",
+            "id": "g5qgj3g",
+            "is_submitter": false,
+            "link_id": "t3_iv6fuq",
+            "parent_id": "t3_iv6fuq",
+            "score": 2,
+            "stickied": false,
+            "author_name": "dont_ban_me_bruh"
+        }
+    }
+}

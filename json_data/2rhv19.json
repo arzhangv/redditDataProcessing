@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I am struggling to overcome the amount of random packers that are being thrown at me in a malware triage environment.\n\nUsually I try to breakpoint on WriteProcessMemory or follow the execution path through with funcap or light tracing, but I usually lose it and go to my next path...\n\nCurrently I have a two step approach to unpacking malware that I find.  First I try to capture it while it is running with Scylla (ChimpREC improved) and fix its import table.  If that does not work I attempt to capture it with volatility by pausing the VM and then trying to recover imports with Scylla.\n\nI want to be able to unpack the malware back to as close as original as I can, and although these two methods do work most of the time I  am often left with a non debuggable binary where my only option is to perform static analysis.\n\nI have looked at tuts4you and the opensecuritytraining.info website but am still lost on a place to start.  Does anyone have any good recommendations on how to become a better malware unpacker?",
+        "title": "Manual Unpacking",
+        "score": 4,
+        "id": "2rhv19",
+        "commsNum": 3,
+        "timeStamp": "2015/01/06-00:05:29",
+        "author_name": "wantstounpack",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2rhv19/manual_unpacking/"
+    },
+    "posts": {}
+}

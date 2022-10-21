@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Don't know if this is appropriate here, but I figured it was worth a shot.\n\nI just got a recommendation and was interested reading the writeup. However reading the review on the book changed my view. Thanks to Amazon reviewer Jim Bartels for the review below:\n\nThis book is in no regard about \"Advanced\" malware analysis like the title suggests. It is not even an introductory malware analysis book. All the book covers is how to install various tools that you would need to start with malware analysis 101. The books doesn't show disassembly of malware, it doesn't discuss any Windows API calls or any other Windows internals. The book doesn't even teach you what malware really is.\n\nThe first chapter (page 6) contains the following gem: \"Static analysis is the easiest [...] malware analysis process. [...] It is as easy as clicking some buttons or using a command line\". This sums up the book pretty well: according to the author, malware analysis is mostly about installing tools and clicking some buttons. That might be part of it, but I don't consider that \"Advanced Malware Analysis\" or even \"Malware Analysis\".\n\nWhat does the book tackle then? The book is mostly filled with screenshots and very detailled tutorials how to install tools.\n\nYou got screenshots of the Windows update settings, the Windows 7 security settings, the user account settings, the word option setting. You even got a full page dedicated to a screenshot of xcopy.exe copying some files.\n\nAn then you have tutorials. There are 25 pages dedicated how to install and use gpg to encrypt malware for moving it from source to analysis machine. Or tutorials how to install InstallRite. Of course accompanied by four screenshots of the install wizard with the options to click Next or Cancel.\n\nChapter 11, \"Inspecting Static Malware\", is finally dedicated to analysing malware. It is only 19 pages long and contains the following tutorials: how to identify the file type with \"file\" for PEid\", how to upload the file to Virustotal (of course we get to see two pages of Virustotal screenshots), and how to use \"strings\" to extract the strings. THAT'S IT!\n\nMalware Analysis is not about installing tools and you certainly don't need pages and pages of screenshots and step by step instructions on how to install zip or wireshark. If you need help with that, you can easily find better tutorials online. If you really want to learn about Malware Analysis, I highly recommend the book \"Practical Malware Analysis\". If you like the idea of step-by-step instructions, then get the \"Malware Analyst's Cookbook and DVD\".",
+        "title": "PSA: Advanced Malware Analysis by Christopher Elisan not worth your time",
+        "score": 64,
+        "id": "3h80sg",
+        "commsNum": 8,
+        "timeStamp": "2015/08/16-11:18:06",
+        "author_name": "BlastedInTheFace",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 8,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/3h80sg/psa_advanced_malware_analysis_by_christopher/"
+    },
+    "posts": {}
+}

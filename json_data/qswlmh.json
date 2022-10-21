@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Video, blog and sample code for RE of malware using syscalls",
+        "score": 1,
+        "id": "qswlmh",
+        "commsNum": 0,
+        "timeStamp": "2021/11/13-00:06:30",
+        "author_name": "m0rv4i",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://jmpesp.me/malware-analysis-syscalls-example/"
+    },
+    "posts": {}
+}

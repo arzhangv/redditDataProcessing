@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hey guys,  \nI know there's probably a post like this everyday asking how to become a Virus/Malware, ReverseEngineer Analyst, so if nobody replies I wont be too offended.  \n&amp;nbsp;  \n\nI have done some researches on this subredit, and If anyone have the time to read through this and can help steer me in the right direction or perhaps let me know of something I may have missed while researching, please let me know!  \n&amp;nbsp;  \n\nMy Background:  \nNot really a Programmer, but have learned a ltitle bit of Java back in the days in college.  \nHave studied a little bit of Python through the book Automate the Boring Stuff (first half of the book)  \nHave attempted to study some C++ a while back, but only gone through a few chapters.  \nOverall, I'm not completely new to programming concepts, but at the same time I have never stuck long enough to really learn any language extensively or put them into a lot of practice.  \n&amp;nbsp;  \n\n**Q1**. What Programming Language should I focus on? (ASM) Assembly? C? C++? I think one of the books below even teaches by using Python? The most important is probably Assembly right? But when do C or C++ come into play? Which should I start learning now? I actually don't mind learning Assembly as I've always been fascinatinted with it (especially after seeing how people from demoscene use it to create size-restrictive yet mindblowing visuals.) But should I also learn C or C++ too? How should I Prioritize these programming language? Which should be the primary, secondary,etc?  \n&amp;nbsp;  \n\nAlso, when it comes to these languages, what's the level of expertise that's required? I mean for something so complex and encompassing as C++, people can literally spend a lifetime and still discover new things about it everyday :D I'm guessing I should have a solid understanding of how programming works, its concepts, understanding memory usage, things such as buffer overflow, etc. Basically have a firm grasp of how programming works?  \n&amp;nbsp;  \n\n**Q2**. From googling and searching this subredit, I've gathered and listed some of the resources people have been recommending. Books, Forums, IRC Chatrooms. Does anyone have any other recommendations by any chance?  \n  \nAre there any Virus/Malware researchers, groups,twitters, blogs that you follow religiously?  \nAre there any Virus/Malware news,  tracking sites taht you check for keeping yourself informed?  \n&amp;nbsp;  \n\n**Books:**  \nPractical Malware Analysis  \nMalware Analyst's CookbookThe IDA Pro Book  \nThe Art of Memory Forensics  \nPractical Reverse Engineering  \nReversing: Secrets of Reverse Engineering  \nMetasploit  \nThe Rootkit Arsenal  \nReverse Engineering for Beginners  \n&amp;nbsp;  \n\n**Forums:**  \n/r/Malware  \n/r/ReverseEngineering  \ntuts4you  \nkernelmode forum  \nwoodmann forum  \n&amp;nbsp;  \n\nsome don't seem very active though, and kernelmode's forum allows you to register, but never replies back with the account activation email :(   \n&amp;nbsp;  \n\n**IRC Chat:**  \nfreenode: ##re, #openrce, #osxre, #radare, #droidsec, #r_netsec  \nefnet: #cracking4newbies  \nmalwaretech: #malwaretech  ",
+        "title": "Passionate Beginner with some questions.",
+        "score": 29,
+        "id": "6c9f9a",
+        "commsNum": 10,
+        "timeStamp": "2017/05/20-01:51:18",
+        "author_name": "curiousdoggo",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 10,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6c9f9a/passionate_beginner_with_some_questions/"
+    },
+    "posts": {}
+}

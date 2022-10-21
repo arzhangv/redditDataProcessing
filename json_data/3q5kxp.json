@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I have a Samsung Galaxy S6 64GB.\n\nI was using the app named MTG Tracker Free: Life Counter. It has an ad placed at the bottom. I was going to press the life counter icon in the app, when all of a sudden - Opera launched with the following:\n\nhttps://dl.dropboxusercontent.com/u/4130839/Screenshot_2015-10-24-18-49-57.png\n\nNotice \"geogle\" in the URL. Google turns up nothing (search using quotation marks.) I know ovsev298.com is the domain.\n\nClicking \"OK\" Then loads the Google Play Store, and display an antivirus app named 360 something.\n\nThe full URL is:\nhttps://dl.dropboxusercontent.com/u/4130839/Screenshot_2015-10-24-21-50-48.png\n\nAnyone else had this happen? I scanned my device with every conceivable antivirus and antimalware app I could find, but nothing malicious was found.\n\nAny ideas?",
+        "title": "Is this malware (Android)?",
+        "score": 0,
+        "id": "3q5kxp",
+        "commsNum": 3,
+        "timeStamp": "2015/10/25-08:02:06",
+        "author_name": "pslind69",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/3q5kxp/is_this_malware_android/"
+    },
+    "posts": {}
+}

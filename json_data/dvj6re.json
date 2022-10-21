@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I'm doing a school project on malware analysis. This is the malware we have to analyze. [https://app.any.run/tasks/eda9d4a5-9117-4b06-8d2b-7618305c7d26](https://app.any.run/tasks/eda9d4a5-9117-4b06-8d2b-7618305c7d26) \n\nWe figured out how it works but can't figure out how it got on the system. I think it's a vulnerability in the netBIOS protocol(please see the pcap file in the link)\n\n&amp;#x200B;\n\nIf anyone has any feedback let me know.\n\n&amp;#x200B;\n\nThanks!",
+        "title": "Malware Analysis - Coinminer",
+        "score": 1,
+        "id": "dvj6re",
+        "commsNum": 3,
+        "timeStamp": "2019/11/12-16:11:52",
+        "author_name": "Linux_marketer",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/dvj6re/malware_analysis_coinminer/"
+    },
+    "posts": {
+        "f7vus8y": {
+            "comment": "[removed]",
+            "timeStamp": "2019/11/17-13:46:48",
+            "id": "f7vus8y",
+            "is_submitter": false,
+            "link_id": "t3_dvj6re",
+            "parent_id": "t3_dvj6re",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "f7h8ft5": {
+            "comment": "[removed]",
+            "timeStamp": "2019/11/14-04:36:29",
+            "id": "f7h8ft5",
+            "is_submitter": false,
+            "link_id": "t3_dvj6re",
+            "parent_id": "t1_f7d4max",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "f7d4max": {
+            "comment": "I don't think this is being spread via exploit. This appears to be distributed with a maldoc, which means likely malspam. Some community comments for that hash show it being labeled as a PS3 custom firmware. The infection vector in that case was a .scr file, which kicked off the miner and contacted a pool at mine[.]moneropool[.]com. One of the domains it tries to reach out to (jobtests[.]ru) is listed as possibly being related to a NeksMiner campaign a while ago, but that intel is sorta old. AlienVault is hit or miss with a lot of this stuff.\n\nMy guess? Generic miner. Came in through malspam with a link to the payload. It's a fairly common infection vector. Occam's razor states this is more likely than a NetBios exploit.",
+            "timeStamp": "2019/11/12-17:11:23",
+            "id": "f7d4max",
+            "is_submitter": false,
+            "link_id": "t3_dvj6re",
+            "parent_id": "t3_dvj6re",
+            "score": 1,
+            "stickied": false,
+            "author_name": "BestKorea4Ever"
+        }
+    }
+}

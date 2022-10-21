@@ -1,0 +1,132 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I was wondering if anyone has any insight into fileless malware works , I could not find much information .    I would like to create something very simple and non malicious that I can mess around with to gain a better understanding on it",
+        "title": "Fileless malware",
+        "score": 1,
+        "id": "uwhz6k",
+        "commsNum": 0,
+        "timeStamp": "2022/05/23-20:47:59",
+        "author_name": "No_Silver_979",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/uwhz6k/fileless_malware/"
+    },
+    "posts": {
+        "iabcupx": {
+            "comment": "[removed]",
+            "timeStamp": "2022/05/28-07:17:37",
+            "id": "iabcupx",
+            "is_submitter": false,
+            "link_id": "t3_uwhz6k",
+            "parent_id": "t1_i9uu7b6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ia5qod2": {
+            "comment": "Like it or not, unfortunately this is one of the most efficient and effective ways of writing fileless malware.",
+            "timeStamp": "2022/05/26-22:09:05",
+            "id": "ia5qod2",
+            "is_submitter": false,
+            "link_id": "t3_uwhz6k",
+            "parent_id": "t1_ia5opks",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Turkishmemer07"
+        },
+        "ia5opks": {
+            "comment": "Sir I'm not going to lie, the use of powershell makes me hate it already",
+            "timeStamp": "2022/05/26-21:47:36",
+            "id": "ia5opks",
+            "is_submitter": true,
+            "link_id": "t3_uwhz6k",
+            "parent_id": "t1_i9uu7b6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "No_Silver_979"
+        },
+        "ia18q41": {
+            "comment": "First place to learn is the simple stuff. They didn\u2019t ask for FUD technique.",
+            "timeStamp": "2022/05/25-23:00:50",
+            "id": "ia18q41",
+            "is_submitter": false,
+            "link_id": "t3_uwhz6k",
+            "parent_id": "t1_i9wvqh0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "cuntpeddler"
+        },
+        "i9wvqh0": {
+            "comment": "To be honest, process hollowing binaries is very often detected and classified as malware thingie by scanners. So the \"fileless\" part is a bit exaggerated.",
+            "timeStamp": "2022/05/25-01:43:08",
+            "id": "i9wvqh0",
+            "is_submitter": false,
+            "link_id": "t3_uwhz6k",
+            "parent_id": "t1_i9twg1a",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RCEdude"
+        },
+        "i9uu7b6": {
+            "comment": "I have actually written a fileless malware. It's written in PowerShell. It uses a scheduled task as a method of persistence. That scheduled task gets all the code from a webserver and executes it in the memory. It also uses some external binaries written in CSharp because sometimes PowerShell itself is not enough and you can reflectively load .NET binaries into memory using PowerShell.",
+            "timeStamp": "2022/05/24-14:21:28",
+            "id": "i9uu7b6",
+            "is_submitter": false,
+            "link_id": "t3_uwhz6k",
+            "parent_id": "t3_uwhz6k",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Turkishmemer07"
+        },
+        "i9twg1a": {
+            "comment": "look into runtime encryption concepts.\n\nhere's a simple process hollowing example:\n\n[https://github.com/m0n0ph1/Process-Hollowing](https://github.com/m0n0ph1/Process-Hollowing)\n\nPE file structure, to cross reference what the above code actually does: \n\n[http://thumbnails.visually.netdna-cdn.com/portable-executable-101\\_50291c3a2263d.png](pe file structure)",
+            "timeStamp": "2022/05/24-10:24:43",
+            "id": "i9twg1a",
+            "is_submitter": false,
+            "link_id": "t3_uwhz6k",
+            "parent_id": "t3_uwhz6k",
+            "score": 1,
+            "stickied": false,
+            "author_name": "cuntpeddler"
+        },
+        "i9t0wfo": {
+            "comment": "Get a Rubber Ducky. I've heard it's something that runs in memory.",
+            "timeStamp": "2022/05/24-06:42:27",
+            "id": "i9t0wfo",
+            "is_submitter": false,
+            "link_id": "t3_uwhz6k",
+            "parent_id": "t3_uwhz6k",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ockoph"
+        },
+        "i9s7gwt": {
+            "comment": "Generally it will look like this:\n\n \n\nMalicious document (most common) or other exploit -&gt; script contained within grabs PowerShell or other script from a remote host -&gt; executed in memory only -&gt; does whatever malicious things it needs to, normally they will use lolbins though some will load a binary into memory  -&gt; persistence in many different ways, usually scheduled tasks or registry, I have seen some cool ones in browsers. \n\n\n\n\n\n\nIt really just means there's no binary on that machine that you would say is malware.\n\n\n\n\n\nMicrosoft has a good writeup that I usually recommend:\n\nhttps://docs.microsoft.com/en-us/microsoft-365/security/intelligence/fileless-threats?view=o365-worldwide",
+            "timeStamp": "2022/05/24-00:53:39",
+            "id": "i9s7gwt",
+            "is_submitter": false,
+            "link_id": "t3_uwhz6k",
+            "parent_id": "t3_uwhz6k",
+            "score": 1,
+            "stickied": false,
+            "author_name": "_Porb"
+        },
+        "i9rwip1": {
+            "comment": "[removed]",
+            "timeStamp": "2022/05/23-22:23:25",
+            "id": "i9rwip1",
+            "is_submitter": false,
+            "link_id": "t3_uwhz6k",
+            "parent_id": "t3_uwhz6k",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

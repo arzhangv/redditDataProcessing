@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Blog: QR codes on Twitter deliver malicious Chrome extension",
+        "score": 1,
+        "id": "sk7i1p",
+        "commsNum": 0,
+        "timeStamp": "2022/02/03-23:36:53",
+        "author_name": "Struppigel",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.gdatasoftware.com/blog/2022/01/37236-qr-codes-on-twitter-deliver-malicious-chrome-extension"
+    },
+    "posts": {
+        "hvkf710": {
+            "comment": "Surprisingly clicking suspicious and unknown links is still dangerous. Even if they come in barcode form.",
+            "timeStamp": "2022/02/04-06:52:25",
+            "id": "hvkf710",
+            "is_submitter": false,
+            "link_id": "t3_sk7i1p",
+            "parent_id": "t3_sk7i1p",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Osric250"
+        }
+    }
+}

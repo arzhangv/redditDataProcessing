@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I've long run my own testing setup at home however, as I would like to scale up and share access with a few friends, I'm looking for a VPS provider that avidly supports this kind of activity.\n\nHas anyone had any success with any providers before? Did you get explicit permission or did you just go ahead and do it anyway? I'd like to do things above the board (obviously!).\n\nThanks for any/all advice you can share.",
+        "title": "Are there any VPS providers that support malware analysis on their platform?",
+        "score": 13,
+        "id": "5r01kn",
+        "commsNum": 12,
+        "timeStamp": "2017/01/30-03:04:25",
+        "author_name": "TheSecurityBug",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 12,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5r01kn/are_there_any_vps_providers_that_support_malware/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hello, I've been wanting to better understand this particular piece of malware but I'm having trouble finding the binary. More specifically I want to get a better idea of the PRNG which may have been used for generating the ECC keys.\n\nCurrently researching:\nhttps://github.com/Googulator/TeslaCrack\n\nThis is a tool for decrypting files that were crypted with the latest version (variously known as \"v8\" or \"v2.2.0\") of the TeslaCrypt ransomware. \n\n\nAny helps/tips on where I can find this particular malware would be appreciated.",
+        "title": "looking for Teslacrypt v8/2.2.0 malware sample for Analysis",
+        "score": 6,
+        "id": "4jf3q5",
+        "commsNum": 2,
+        "timeStamp": "2016/05/15-00:07:40",
+        "author_name": "jkd22",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/4jf3q5/looking_for_teslacrypt_v8220_malware_sample_for/"
+    },
+    "posts": {}
+}

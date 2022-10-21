@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Anchor trickbot gives trickbot an \u201cAnchor\u201d into the network",
+        "score": 1,
+        "id": "e9fwad",
+        "commsNum": 0,
+        "timeStamp": "2019/12/11-16:26:32",
+        "author_name": "sysopfb",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://labs.sentinelone.com/the-deadly-planeswalker-how-the-trickbot-group-united-high-tech-crimeware-apt/"
+    },
+    "posts": {}
+}

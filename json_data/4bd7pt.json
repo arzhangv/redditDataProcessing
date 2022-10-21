@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Cylance have observed several long and sustained ransomware campaigns by Locky from early February 2016 onward. Early estimates state that Locky is currently infecting over 90,000 machines a day, with the attackers asking between 0.5 to 1 Bitcoin (around $450) to unlock each machine.",
+        "score": 1,
+        "id": "4bd7pt",
+        "commsNum": 0,
+        "timeStamp": "2016/03/21-10:20:08",
+        "author_name": "ChandleraaCurtis1",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://blog.cylance.com/locky-holds-worlds-critical-systems-to-ransom"
+    },
+    "posts": {}
+}

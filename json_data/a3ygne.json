@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "PHP Malware Examination Part 2",
+        "score": 1,
+        "id": "a3ygne",
+        "commsNum": 3,
+        "timeStamp": "2018/12/07-01:47:36",
+        "author_name": "phpsystems",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://blog.manchestergreyhats.co.uk/2018/11/27/php-malware-examination-part-2/"
+    },
+    "posts": {
+        "eba5x2l": {
+            "comment": "Oh I mean an easier, less arduous way.\nRather than guessing what something is, and then fixing it.  \nedit:similar to malzilla.\n\n",
+            "timeStamp": "2018/12/07-03:43:07",
+            "id": "eba5x2l",
+            "is_submitter": false,
+            "link_id": "t3_a3ygne",
+            "parent_id": "t1_eba4gl3",
+            "score": 2,
+            "stickied": false,
+            "author_name": "TailSpinBowler"
+        },
+        "eba4gl3": {
+            "comment": "Would you gain much from renaming them to var1, etc? \n\nI used sed, as it was readily available, and made the file more readable as I went on.",
+            "timeStamp": "2018/12/07-02:58:52",
+            "id": "eba4gl3",
+            "is_submitter": true,
+            "link_id": "t3_a3ygne",
+            "parent_id": "t1_eba3mhn",
+            "score": 1,
+            "stickied": false,
+            "author_name": "phpsystems"
+        },
+        "eba3mhn": {
+            "comment": "Anyone know a better way to tokenize variables, rather than the SED he used?\n\neg, $IIIIII1 var1 etc.",
+            "timeStamp": "2018/12/07-02:35:35",
+            "id": "eba3mhn",
+            "is_submitter": false,
+            "link_id": "t3_a3ygne",
+            "parent_id": "t3_a3ygne",
+            "score": 2,
+            "stickied": false,
+            "author_name": "TailSpinBowler"
+        }
+    }
+}

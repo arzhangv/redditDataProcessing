@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "New Version of Qbot Trojan Can Hijack Email Threads",
+        "score": 1,
+        "id": "ilbd0w",
+        "commsNum": 1,
+        "timeStamp": "2020/09/02-10:34:01",
+        "author_name": "sujal456",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.netsec.news/new-version-of-qbot-trojan-can-hijack-email-threads/"
+    },
+    "posts": {
+        "g5fwz02": {
+            "comment": "Fun times... any ideas on a solution? Even now, most variants are not detected by Sophos or malwarebytes,  ESET does find it. But, it appears the data is stolen and used on another remote system, so cleaning up the local system does not stop the email threads being used by the remote system\n\nToo late to shut the door after the horse has bolted :(",
+            "timeStamp": "2020/09/15-21:37:15",
+            "id": "g5fwz02",
+            "is_submitter": false,
+            "link_id": "t3_ilbd0w",
+            "parent_id": "t3_ilbd0w",
+            "score": 1,
+            "stickied": false,
+            "author_name": "dr_snapid"
+        }
+    }
+}

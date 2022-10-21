@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "So a co-worker asked me to look at their personal computer, saying it was loaded with viruses.  I just assumed that this was not the case, and it probably just needed more RAM or something.  Buttttt nope.  It's definitely loaded up.  I uninstalled as many programs as I could using Windows 8.1 built in un-installer.  I then downloaded MalwareBytes, Spybot Search &amp; Destroy, and Avast free antivirus (their subscription to Mcafee had expired).\n\nAfter finding 5000+ infections using MalwareBytes, I ran scans using Spybot (Found like 5 major infections) and Avast (something like 20 infections).  I then set Avast to do a boot-time scan.  Doing this, it found another 30 infections.  So now, all of the shady programs are gone, but it still has traffic being routed through the 127.0.0.1 proxy.  I've tried everything to get rid of this.  Unchecked the box, click OK, and it comes back.  Tried deleting the proxy values, and modifying to value 0 in the registry under HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\Current Version\\Internet Settings, and they came back.  Tried booting to safe mode to delete them, but the proxy settings don't even show up in the registry in safe mode!\n\nI downloaded Hijackthis, ran a scan, and had it delete the proxy values, but they come right back.  Subsequent scans with all these programs turn up nothing.  This is some seriously persistent malware I'm dealing with here.  \n\nI'm open to any and all suggestions.  Safe mode is usually the tried and tested option to get rid of things like this, but as I said, the proxy values do NOT show up in the registry while in Safe Mode.  It's like it's self aware that you are trying to remove it, so it hides itself even further.  ",
+        "title": "Can't get rid of 127.0.0.1 proxy. Help!",
+        "score": 1,
+        "id": "2ypemz",
+        "commsNum": 1,
+        "timeStamp": "2015/03/11-11:38:39",
+        "author_name": "[deleted]",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2ypemz/cant_get_rid_of_127001_proxy_help/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi!\n\n&amp;#x200B;\n\nI am new to malware analysis and I need help examining this exe.\n\nI just need to know that if I run this, will I be infected?\n\n&amp;#x200B;\n\nVirustotal Results:\n\n    https://www.virustotal.com/#/file/53d3485003ba6140123eae85e36c048f79ff87a93e392965e0000de7fe801054/detection\n\nDownload Link:\n\n [https://www.sendspace.com/file/7sird4](https://www.youtube.com/redirect?redir_token=mp-llpI_orqmXnWF9XgBaP4zr898MTU0MTgxNDQzMUAxNTQxNzI4MDMx&amp;q=https%3A%2F%2Fwww.sendspace.com%2Ffile%2F7sird4&amp;event=video_description&amp;v=PR48c1Vas0A) ",
+        "title": "Need help examining this executable...",
+        "score": 1,
+        "id": "9vgah7",
+        "commsNum": 1,
+        "timeStamp": "2018/11/08-17:55:12",
+        "author_name": "x_LizardWizard_x",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/9vgah7/need_help_examining_this_executable/"
+    },
+    "posts": {
+        "e9bxgmr": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2018/11/08-17:55:12",
+            "id": "e9bxgmr",
+            "is_submitter": false,
+            "link_id": "t3_9vgah7",
+            "parent_id": "t3_9vgah7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

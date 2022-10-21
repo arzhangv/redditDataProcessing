@@ -1,0 +1,99 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hello Guys,\n\nRecently we received an alert from our Threat Intelligence subscription warning us that our brand was mentioned in a non-mainstream media source, after looking at it I found that 2 pieces of malware are trying to connect to our corporate mail server.\nNow I don't know why or what these malware are trying to achieve yet, so I need to download and run them in my sandbox to inspect their traffic further, can anybody with a premium VirusTotal account help me in downloading them? I searched in several free malware repositories but i didn't find them.\nTheir SHA256 hashs are:\n\n\n07812a4f0bfa313e86ee95d61a32fbbe01905113768ebaef12cf2d4d67592a92\n\nb0d7afb1c51d21ccf7c85caae049f05f616d80bb6cfd6aa816eeb13b2c5874e5\n\nThank you in advance!",
+        "title": "Download sample from VirusTotal",
+        "score": 4,
+        "id": "d0w1k6",
+        "commsNum": 7,
+        "timeStamp": "2019/09/07-06:35:33",
+        "author_name": "varmentos",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/d0w1k6/download_sample_from_virustotal/"
+    },
+    "posts": {
+        "ezk3fgb": {
+            "comment": "Will do, thanks for the good info.",
+            "timeStamp": "2019/09/08-07:51:36",
+            "id": "ezk3fgb",
+            "is_submitter": true,
+            "link_id": "t3_d0w1k6",
+            "parent_id": "t1_ezk1kuz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "varmentos"
+        },
+        "ezk1kuz": {
+            "comment": "Outside of your firewall you\u2019ll see LOTS of crap hitting you all day. Check the logs and see if it makes it through. Most firewalls have a feed from the vendor that auto blocks known crap and bots. I\u2019d suggest watching allowed traffic first. Then look at volumes of external traffic (allowed or blocked) to mKe sure you don\u2019t get DDoS\u2019ed. Some vendors fail open when they can\u2019t deal with the volume...and won\u2019t log it sometimes. Also if you don\u2019t use a cloud WAF/DDoS service, such as CloudFlare, talk to your ISP about blocking options including ports.",
+            "timeStamp": "2019/09/08-07:38:14",
+            "id": "ezk1kuz",
+            "is_submitter": false,
+            "link_id": "t3_d0w1k6",
+            "parent_id": "t1_ezk0sv7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AlfredoVignale"
+        },
+        "ezk0sv7": {
+            "comment": "That's \"kinda\" good news :D i think i'm just too new to the Threat Intel world.\nThank you!",
+            "timeStamp": "2019/09/08-07:32:45",
+            "id": "ezk0sv7",
+            "is_submitter": true,
+            "link_id": "t3_d0w1k6",
+            "parent_id": "t1_ezjp3wa",
+            "score": 1,
+            "stickied": false,
+            "author_name": "varmentos"
+        },
+        "ezjp3wa": {
+            "comment": "Yep, welcome to the internet. Greynoise.io does a good job tracking all those bots. We see this all day, everyday.",
+            "timeStamp": "2019/09/08-06:06:57",
+            "id": "ezjp3wa",
+            "is_submitter": false,
+            "link_id": "t3_d0w1k6",
+            "parent_id": "t1_ezi1wnp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AlfredoVignale"
+        },
+        "ezi1wnp": {
+            "comment": "&gt; It most likely just known malware looking for open SMTP servers to send spam\n\nI thought so too, but this is the third time in 2 months, so till now 3 different malwares are doing the same thing, and each time I go back to our mail server and make sure that it is not an open relay, so it got me curious.",
+            "timeStamp": "2019/09/07-22:19:47",
+            "id": "ezi1wnp",
+            "is_submitter": true,
+            "link_id": "t3_d0w1k6",
+            "parent_id": "t1_ezgrelo",
+            "score": 1,
+            "stickied": false,
+            "author_name": "varmentos"
+        },
+        "ezhm1o5": {
+            "comment": "&gt; It most likely just known malware looking for open SMTP servers to send spam\n\nThis is probably it.",
+            "timeStamp": "2019/09/07-20:12:33",
+            "id": "ezhm1o5",
+            "is_submitter": false,
+            "link_id": "t3_d0w1k6",
+            "parent_id": "t1_ezgrelo",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Manifest122"
+        },
+        "ezgrelo": {
+            "comment": "Did your threat intel find IP addresses and/or domains know to host those two pieces of malware trying to connect or did they say that those two pieces of malware have code that is trying to connect to your mail server? If it\u2019s IP\u2019s/domains I\u2019d throw those into maltiverse.com, greynoise.io, or AlienVault OTX and see what pops up. It most likely just known malware looking for open SMTP servers to send spam.",
+            "timeStamp": "2019/09/07-16:54:54",
+            "id": "ezgrelo",
+            "is_submitter": false,
+            "link_id": "t3_d0w1k6",
+            "parent_id": "t3_d0w1k6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AlfredoVignale"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hello! I'm looking for to get the hashes or the samples themselves of ICS malware. I'm looking for lots of them. Have you come across such a collection in your adventures on the internet?",
+        "title": "ICS Malware Samples/Hashes",
+        "score": 1,
+        "id": "sy2lo1",
+        "commsNum": 1,
+        "timeStamp": "2022/02/21-11:51:07",
+        "author_name": "grovelinghorse",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/sy2lo1/ics_malware_sampleshashes/"
+    },
+    "posts": {
+        "hyh2m9w": {
+            "comment": "[removed]",
+            "timeStamp": "2022/02/25-20:02:47",
+            "id": "hyh2m9w",
+            "is_submitter": false,
+            "link_id": "t3_sy2lo1",
+            "parent_id": "t3_sy2lo1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

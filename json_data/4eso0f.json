@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Neutrino Exploit Kit Analysis and Threat Indicators [pdf]",
+        "score": 11,
+        "id": "4eso0f",
+        "commsNum": 0,
+        "timeStamp": "2016/04/14-11:51:48",
+        "author_name": "sh3dow",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.sans.org/reading-room/whitepapers/detection/neutrino-exploit-kit-analysis-threat-indicators-36892"
+    },
+    "posts": {}
+}

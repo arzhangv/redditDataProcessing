@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Linux ELF Runtime Crypter",
+        "score": 4,
+        "id": "bhlalx",
+        "commsNum": 1,
+        "timeStamp": "2019/04/26-04:36:13",
+        "author_name": "guitmz",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.guitmz.com/linux-elf-runtime-crypter/"
+    },
+    "posts": {
+        "ewuanoh": {
+            "comment": "Free course on ELF files format:\n\n[https://www.youtube.com/watch?v=OBDuoqyZ4UA&amp;list=PLMB3ddm5Yvh3gf\\_iev78YP5EPzkA3nPdL&amp;index=12&amp;t=0s](https://www.youtube.com/watch?v=OBDuoqyZ4UA&amp;list=PLMB3ddm5Yvh3gf_iev78YP5EPzkA3nPdL&amp;index=12&amp;t=0s)",
+            "timeStamp": "2019/08/14-01:45:52",
+            "id": "ewuanoh",
+            "is_submitter": false,
+            "link_id": "t3_bhlalx",
+            "parent_id": "t3_bhlalx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "CoolCamera"
+        }
+    }
+}

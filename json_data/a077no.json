@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi all,\n\nHope everyone is having a great day/night. \n\nWith regards to malware that targets banking [ie Gozi, Dyre], is the log-in done, or made to look like it is done, off the victim's IP/browser OR is the fraudster logging in and making the payment through their own IP/browser? Or could it be either one? How would it work exactly? This is excluding man-in-the-middle attacks or when the fraudster tries to manipulate an existing payment. It is relating to when the fraudster logs in to create a brand new payment/recipient. From the bank's perspective, would it look like it is the customer's actual IP/browser OR would it look like it is a brand new log in/data? \n\nI have tried to find this by reading articles regarding banking trojans, but they only state how the compromise/virus would function from an overhead view.\n\nThanks and I appreciate all replies. :)\n\n",
+        "title": "Question regarding Malware that targets banking?",
+        "score": 1,
+        "id": "a077no",
+        "commsNum": 3,
+        "timeStamp": "2018/11/25-01:21:26",
+        "author_name": "ColdHeartedSleuth",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/a077no/question_regarding_malware_that_targets_banking/"
+    },
+    "posts": {
+        "ebfj4go": {
+            "comment": "Typically, cards and account data is gathered in bulk and sold in packs on \"carder\" forums. I doubt anyone is individually making small purchases through malware, but I've only seen a few methods used.\n\nWeb injects is the new-age tech, where malicious extra fields like pins and stuff is injected into the received HTML client end by hooking browser functions. ",
+            "timeStamp": "2018/12/09-07:22:45",
+            "id": "ebfj4go",
+            "is_submitter": false,
+            "link_id": "t3_a077no",
+            "parent_id": "t3_a077no",
+            "score": 1,
+            "stickied": false,
+            "author_name": "spicy_meat_sauces"
+        },
+        "eak761b": {
+            "comment": "they can use VNC module for remote connection and log in from victim's computer",
+            "timeStamp": "2018/11/27-01:51:58",
+            "id": "eak761b",
+            "is_submitter": false,
+            "link_id": "t3_a077no",
+            "parent_id": "t3_a077no",
+            "score": 2,
+            "stickied": false,
+            "author_name": "troto44"
+        },
+        "eaf4jx6": {
+            "comment": "[removed]",
+            "timeStamp": "2018/11/25-01:21:27",
+            "id": "eaf4jx6",
+            "is_submitter": false,
+            "link_id": "t3_a077no",
+            "parent_id": "t3_a077no",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I have tried 3 different anti virus systems and nothing can seem to get this off. I don\u2019t know where my friend downloaded it from but i can\u2019t find out where it\u2019s hidden to get rid of it. I am on the newest version of Catalina!",
+        "title": "Safe Finder on Mac",
+        "score": 1,
+        "id": "f3xnij",
+        "commsNum": 2,
+        "timeStamp": "2020/02/14-11:50:27",
+        "author_name": "CAJ_10",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/f3xnij/safe_finder_on_mac/"
+    },
+    "posts": {
+        "fia29dn": {
+            "comment": "hitmanpro.com",
+            "timeStamp": "2020/02/21-05:16:49",
+            "id": "fia29dn",
+            "is_submitter": false,
+            "link_id": "t3_f3xnij",
+            "parent_id": "t3_f3xnij",
+            "score": 1,
+            "stickied": false,
+            "author_name": "evictedtomato"
+        },
+        "fi9f2qe": {
+            "comment": "[removed]",
+            "timeStamp": "2020/02/20-21:41:55",
+            "id": "fi9f2qe",
+            "is_submitter": false,
+            "link_id": "t3_f3xnij",
+            "parent_id": "t3_f3xnij",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

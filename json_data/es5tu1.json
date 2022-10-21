@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi, I have been looking for NotPetya, and I finally found this source. I have tried running this on a Windows 7 &amp; Windows 10 VM, however it's not running. When I downloaded this on Ubuntu and extracted it using 7z, the properties mentioned that it was a Windows executable program. However, when I ran this on Windows 7 or Windows 10, it came up with that it is not a a valid Windows application. Would someone be able to take a look at this\n\n [https://github.com/fabrimagic72/malware-samples/tree/master/Ransomware/NotPetya](https://github.com/fabrimagic72/malware-samples/tree/master/Ransomware/NotPetya)",
+        "title": "Not able to run NotPetya",
+        "score": 1,
+        "id": "es5tu1",
+        "commsNum": 4,
+        "timeStamp": "2020/01/21-19:02:36",
+        "author_name": "LMJR500Army",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/es5tu1/not_able_to_run_notpetya/"
+    },
+    "posts": {
+        "fg5gld3": {
+            "comment": "thank you so much",
+            "timeStamp": "2020/01/31-19:15:09",
+            "id": "fg5gld3",
+            "is_submitter": true,
+            "link_id": "t3_es5tu1",
+            "parent_id": "t1_fg51bz8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "LMJR500Army"
+        },
+        "fg51bz8": {
+            "comment": "https://github.com/NTFS123/MalwareDatabase/tree/master/Ransomware\nTry with these samples. For me these worked.",
+            "timeStamp": "2020/01/31-16:11:08",
+            "id": "fg51bz8",
+            "is_submitter": false,
+            "link_id": "t3_es5tu1",
+            "parent_id": "t3_es5tu1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Sasser39a"
+        },
+        "fff56eq": {
+            "comment": "I removed the signature and it still wouldn't run, so that wasn't the issue. It could be that the file is actually a DLL and needs to be run with rundll32.exe. looking at the PE header, it claims to be a DLL.",
+            "timeStamp": "2020/01/24-06:26:20",
+            "id": "fff56eq",
+            "is_submitter": false,
+            "link_id": "t3_es5tu1",
+            "parent_id": "t1_ffdutwk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "FusionCarcass"
+        },
+        "ffdutwk": {
+            "comment": "The file has an invalid digital signature. That could be causing the OS to refuse to run it, believing that it may have been corrupted due to a \"hash mismatch\"; however, it appears to have a valid PE header upon initial inspection.",
+            "timeStamp": "2020/01/23-17:31:17",
+            "id": "ffdutwk",
+            "is_submitter": false,
+            "link_id": "t3_es5tu1",
+            "parent_id": "t3_es5tu1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "FusionCarcass"
+        }
+    }
+}

@@ -1,0 +1,132 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hello,\n\nSaving everyone the semantics of how; i came across a library or toolkit of a large number of files that someone who was exploiting me was using. I for the longest time was trying to get a hit on any of them until this past week, i did. \n\nI only had time to upload about 1/3 of what i had and when i first dropped them they came up clean. Looking 30 mins later from my phone, about 75% of them hit. They were:\n\nTrojan.Win32\n Trojan.Win32 Jobutyve\nTrojan.Win32.Aie\nTrojan.Win32 ibyj\nTrojan.Win32 Fsysna.ibrm\nTrojan.Win32 Icuc\nTrojan.Win32 Cobalt\nTrojan.Win32 hzr\n\nTrojan. Win64 Agentb.byo\nTrojan. Win64 byn\nTrojan. Win64 Byp\nTrojan. Win64 Cobalt\nTrojan. Win64 Lk\nTrojan. Win64 Lj\nTrojan. Win64 Gis\nTrojan. Win64 Hab\nTrojan. Win64 Gwx\nTrojan. Win64 Ggy\nTrojan. Win64 Agent\nTrojan. Win64 Qwhzba\nTrojan. Win64 Agentb\nTrojan. Win64 Byo\nTrojan. Win64 Byn\nTrojan. Win64 byp\n\nSome of these have been known for a year or two under diff names. Others just recorded a month ago. And again, about 25% still did not hit. My question is how do i and who do i give these to for research??",
+        "title": "Places to deposit samples of both known new, and unknow malware\u2019s.",
+        "score": 1,
+        "id": "ulfyut",
+        "commsNum": 0,
+        "timeStamp": "2022/05/08-18:19:15",
+        "author_name": "M1904Trading",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ulfyut/places_to_deposit_samples_of_both_known_new_and/"
+    },
+    "posts": {
+        "i8e8417": {
+            "comment": "I finally got enough space to do it. Annnnnnnd virus tota, and hybrid analysis were dry holes. \n\nThe files literally say \"gcry\". I dumped a shit ton of volume starting at about 0:00:00 UTC. CHeck it out if you'd like.",
+            "timeStamp": "2022/05/12-18:16:21",
+            "id": "i8e8417",
+            "is_submitter": true,
+            "link_id": "t3_ulfyut",
+            "parent_id": "t1_i7va3au",
+            "score": 1,
+            "stickied": false,
+            "author_name": "M1904Trading"
+        },
+        "i7x6bfr": {
+            "comment": "[removed]",
+            "timeStamp": "2022/05/09-07:10:13",
+            "id": "i7x6bfr",
+            "is_submitter": false,
+            "link_id": "t3_ulfyut",
+            "parent_id": "t3_ulfyut",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "i7w4iay": {
+            "comment": "Read a bit about malware naming conventions. Here is a link to get you started: https://docs.microsoft.com/en-us/microsoft-365/security/intelligence/malware-naming?view=o365-worldwide",
+            "timeStamp": "2022/05/08-23:52:12",
+            "id": "i7w4iay",
+            "is_submitter": false,
+            "link_id": "t3_ulfyut",
+            "parent_id": "t3_ulfyut",
+            "score": 1,
+            "stickied": false,
+            "author_name": "soutsos"
+        },
+        "i7w4h8h": {
+            "comment": "Read a bit about malware naming conventions",
+            "timeStamp": "2022/05/08-23:51:48",
+            "id": "i7w4h8h",
+            "is_submitter": false,
+            "link_id": "t3_ulfyut",
+            "parent_id": "t3_ulfyut",
+            "score": 1,
+            "stickied": false,
+            "author_name": "soutsos"
+        },
+        "i7vv8f8": {
+            "comment": "I you want to help researchers: https://bazaar.abuse.ch/upload/",
+            "timeStamp": "2022/05/08-21:55:39",
+            "id": "i7vv8f8",
+            "is_submitter": false,
+            "link_id": "t3_ulfyut",
+            "parent_id": "t3_ulfyut",
+            "score": 1,
+            "stickied": false,
+            "author_name": "kaze0mx"
+        },
+        "i7vaezp": {
+            "comment": "I\u2019m trying a diff way, will report back.",
+            "timeStamp": "2022/05/08-18:41:25",
+            "id": "i7vaezp",
+            "is_submitter": true,
+            "link_id": "t3_ulfyut",
+            "parent_id": "t1_i7va3au",
+            "score": 1,
+            "stickied": false,
+            "author_name": "M1904Trading"
+        },
+        "i7va3au": {
+            "comment": "Didn\u2019t work for you?\n\nUploading the files, even if it gives you nothing back helps to get the sample out there.",
+            "timeStamp": "2022/05/08-18:38:48",
+            "id": "i7va3au",
+            "is_submitter": false,
+            "link_id": "t3_ulfyut",
+            "parent_id": "t1_i7v9e1o",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TastyRobot21"
+        },
+        "i7v9e1o": {
+            "comment": "Edit: virus total was a dry hole.",
+            "timeStamp": "2022/05/08-18:33:03",
+            "id": "i7v9e1o",
+            "is_submitter": true,
+            "link_id": "t3_ulfyut",
+            "parent_id": "t1_i7v98f2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "M1904Trading"
+        },
+        "i7v98f2": {
+            "comment": "Thanks buddy, cheers to you as well. I\u2019ll give it a look.",
+            "timeStamp": "2022/05/08-18:31:47",
+            "id": "i7v98f2",
+            "is_submitter": true,
+            "link_id": "t3_ulfyut",
+            "parent_id": "t1_i7v93mc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "M1904Trading"
+        },
+        "i7v93mc": {
+            "comment": "Hey bud. \n\nFirst off, thanks for being interested in giving back, I think it\u2019s important to acknowledge it. \n\nSecond, the community of malware research is distributed and decentralized. So it\u2019s not as easy as \u201cupload it here\u201d. That being said, many of these systems are integrated one way or another such that if you upload it to a popular spot it will show up on multiple places.\n\nLet me recommend the following:\nhttps://www.virustotal.com\nhttps://www.hybrid-analysis.com\nhttps://any.run\n\nCheers :)",
+            "timeStamp": "2022/05/08-18:30:39",
+            "id": "i7v93mc",
+            "is_submitter": false,
+            "link_id": "t3_ulfyut",
+            "parent_id": "t3_ulfyut",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TastyRobot21"
+        }
+    }
+}

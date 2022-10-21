@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "If I get a list of ioc's hashed in sha256, is there a way to convert those hashes to md5, without the file the hash is based on?",
+        "title": "SHA256 hash converted to md5",
+        "score": 0,
+        "id": "6kzty6",
+        "commsNum": 6,
+        "timeStamp": "2017/07/03-06:17:58",
+        "author_name": "rogueit",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6kzty6/sha256_hash_converted_to_md5/"
+    },
+    "posts": {
+        "djsykg9": {
+            "comment": "thank you...",
+            "timeStamp": "2017/07/05-04:48:32",
+            "id": "djsykg9",
+            "is_submitter": true,
+            "link_id": "t3_6kzty6",
+            "parent_id": "t1_djrk8dr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "rogueit"
+        },
+        "djsyjsr": {
+            "comment": "that is a great idea...thank you",
+            "timeStamp": "2017/07/05-04:47:54",
+            "id": "djsyjsr",
+            "is_submitter": true,
+            "link_id": "t3_6kzty6",
+            "parent_id": "t1_djrk8dr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "rogueit"
+        }
+    }
+}

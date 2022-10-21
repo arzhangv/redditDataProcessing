@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "A bad Shellshock &amp; Linux/XOR.DDoS CNC \"under the hood\" &lt; cnc tool+rootkit source code disclosure",
+        "score": 9,
+        "id": "3dhx8c",
+        "commsNum": 0,
+        "timeStamp": "2015/07/16-05:24:07",
+        "author_name": "mmd0xFF",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://blog.malwaremustdie.org/2015/07/mmd-0037-2015-bad-shellshock.html"
+    },
+    "posts": {}
+}

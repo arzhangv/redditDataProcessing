@@ -1,0 +1,132 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I'm carrying out some malware analysis on a file that has an extension of .virus (or .virobj) in its name, but when scanned in VirusTotal, the file type is EXE. \n\nCould someone explain this to me? Is it as simple as just editing the name of the exe file to have an extension of .virus? \n\nI'm a beginner regarding malware analysis and apologies if this is a silly question.",
+        "title": ".virus vs .exe",
+        "score": 0,
+        "id": "dlgwe3",
+        "commsNum": 10,
+        "timeStamp": "2019/10/22-05:01:25",
+        "author_name": "gothnazbolgf",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 10,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/dlgwe3/virus_vs_exe/"
+    },
+    "posts": {
+        "f543ysl": {
+            "comment": "[removed]",
+            "timeStamp": "2019/10/24-19:29:35",
+            "id": "f543ysl",
+            "is_submitter": false,
+            "link_id": "t3_dlgwe3",
+            "parent_id": "t1_f4q0t3p",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "f4r66ov": {
+            "comment": "It's sort of neat that Mark Zbikowski immortalized himself by putting his initials in the exe header. Fun fact, DLLs (and all DOS executables, to include the .com files) also have the same magic number of MZ, so you can't rely on just that to determine if the file is actually an exe or dll, you have to look at the COFF header after the PE signature.",
+            "timeStamp": "2019/10/22-09:55:32",
+            "id": "f4r66ov",
+            "is_submitter": false,
+            "link_id": "t3_dlgwe3",
+            "parent_id": "t1_f4q2qiv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TungstenCLXI"
+        },
+        "f4qqlc9": {
+            "comment": "[removed]",
+            "timeStamp": "2019/10/22-08:09:21",
+            "id": "f4qqlc9",
+            "is_submitter": false,
+            "link_id": "t3_dlgwe3",
+            "parent_id": "t3_dlgwe3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "f4qc3iw": {
+            "comment": "wow thank you!",
+            "timeStamp": "2019/10/22-06:32:45",
+            "id": "f4qc3iw",
+            "is_submitter": true,
+            "link_id": "t3_dlgwe3",
+            "parent_id": "t1_f4q4g19",
+            "score": 1,
+            "stickied": false,
+            "author_name": "gothnazbolgf"
+        },
+        "f4q4g19": {
+            "comment": "[Here's a great resource](https://imgur.com/a/MtQZv#VhqazdP) to help understand magic bytes for different file types.",
+            "timeStamp": "2019/10/22-05:36:46",
+            "id": "f4q4g19",
+            "is_submitter": false,
+            "link_id": "t3_dlgwe3",
+            "parent_id": "t1_f4q32pb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "YmFzZTY0dXNlcm5hbWU_"
+        },
+        "f4q453i": {
+            "comment": "I workerd for a little while for an antivirus company, and learning and knowing about the MZPE file format is a must for the while industry. It's a good starting point to understand the underlyings of the Windows operating system and how you can extract information from a file and determine if it is malware or not (for example, storing another .exe in it's body, and during runtime it opens a file, writes the executable code in it, and then executes it).\n\nHope it helps you if you want to pursue a career in malware analysis :)",
+            "timeStamp": "2019/10/22-05:34:38",
+            "id": "f4q453i",
+            "is_submitter": false,
+            "link_id": "t3_dlgwe3",
+            "parent_id": "t1_f4q32pb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "i_like_trains_a_lot1"
+        },
+        "f4q32pb": {
+            "comment": "oh yes! Thank you, this helps a lot.",
+            "timeStamp": "2019/10/22-05:26:36",
+            "id": "f4q32pb",
+            "is_submitter": true,
+            "link_id": "t3_dlgwe3",
+            "parent_id": "t1_f4q2qiv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "gothnazbolgf"
+        },
+        "f4q2qiv": {
+            "comment": "the extension can be whatever you change it to and will in windows just change what program is used to open a file. changing a exe into a .whatever will not change the file contents but will make sure that windows dosnt execute it by accident. next thing is magic bytes ie the first few bytes of a file. every fileformat has a signature that can be used to determine what format the file has regardless of what extension is on it, for example .exe has MZ. you can check this easily by opening files in a hex editor or by running head. https://en.wikipedia.org/wiki/List_of_file_signatures",
+            "timeStamp": "2019/10/22-05:24:08",
+            "id": "f4q2qiv",
+            "is_submitter": false,
+            "link_id": "t3_dlgwe3",
+            "parent_id": "t3_dlgwe3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Neruomute"
+        },
+        "f4q0t3p": {
+            "comment": "the name for it in my system is the SHA256 hash. When uploaded to VirusTotal, is displays the name as \"thisistheMD5hash.virobj\"\n\nSo, the .virojb is just part of the name, and doesnt really have a function?",
+            "timeStamp": "2019/10/22-05:09:25",
+            "id": "f4q0t3p",
+            "is_submitter": true,
+            "link_id": "t3_dlgwe3",
+            "parent_id": "t1_f4q0ewv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "gothnazbolgf"
+        },
+        "f4q0ewv": {
+            "comment": "Do you display file extensions? Otherwise.exe is not shown and the file name simply is \u201cthisisafilename.virobj\u201d\n\nDo you see other file extensions on your system like .txt, .docx etc?",
+            "timeStamp": "2019/10/22-05:06:13",
+            "id": "f4q0ewv",
+            "is_submitter": false,
+            "link_id": "t3_dlgwe3",
+            "parent_id": "t3_dlgwe3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ckin-"
+        }
+    }
+}

@@ -1,0 +1,121 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[removed]",
+        "title": "Why do virus scanners offer a \"no distribute\" option?",
+        "score": 1,
+        "id": "a7iezy",
+        "commsNum": 10,
+        "timeStamp": "2018/12/18-19:05:35",
+        "author_name": "jockcel",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 10,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/a7iezy/why_do_virus_scanners_offer_a_no_distribute_option/"
+    },
+    "posts": {
+        "ec6tf9a": {
+            "comment": "https://nodistribute.com/",
+            "timeStamp": "2018/12/20-08:27:31",
+            "id": "ec6tf9a",
+            "is_submitter": false,
+            "link_id": "t3_a7iezy",
+            "parent_id": "t3_a7iezy",
+            "score": 2,
+            "stickied": false,
+            "author_name": "pentester_123"
+        },
+        "ec4dqee": {
+            "comment": "APT = Advanced Persistent Threat. [https://en.wikipedia.org/wiki/Advanced\\_persistent\\_threat](https://en.wikipedia.org/wiki/Advanced_persistent_threat)\n\nC2 = C&amp;C = Command and Control. Traffic between a compromised host and a malware server to either direct the malware or exfiltrate data. [https://en.wikipedia.org/wiki/Command\\_and\\_control](https://en.wikipedia.org/wiki/Command_and_control)",
+            "timeStamp": "2018/12/19-08:44:04",
+            "id": "ec4dqee",
+            "is_submitter": false,
+            "link_id": "t3_a7iezy",
+            "parent_id": "t1_ec3gwr4",
+            "score": 3,
+            "stickied": false,
+            "author_name": "skinnyNerdB"
+        },
+        "ec43fli": {
+            "comment": "Good point.",
+            "timeStamp": "2018/12/19-06:27:17",
+            "id": "ec43fli",
+            "is_submitter": false,
+            "link_id": "t3_a7iezy",
+            "parent_id": "t1_ec3qhv0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "flipmode_squad"
+        },
+        "ec426cn": {
+            "comment": "This does not answer *why* the AVs offer this service. These are potential use cases for people who want to disable the sharing of samples.\n\nI'd say that it is offered for privacy reasons in case a sample that is submitted isn't meant for the AV. Think of a false positive which is submitted automatically. Otherwise I cant think of much. The above mentioned two things are directly against the purpose of the AV, so I doubt that the AVs keep this in mind. It isn't likely either that a lot of machines have AVs installed on which an APT is developed.",
+            "timeStamp": "2018/12/19-06:07:52",
+            "id": "ec426cn",
+            "is_submitter": false,
+            "link_id": "t3_a7iezy",
+            "parent_id": "t1_ec39yx0",
+            "score": 2,
+            "stickied": false,
+            "author_name": "ThisIsLibra"
+        },
+        "ec3qhv0": {
+            "comment": "Scanning internal and potentially sensitive documents.",
+            "timeStamp": "2018/12/19-01:26:54",
+            "id": "ec3qhv0",
+            "is_submitter": false,
+            "link_id": "t3_a7iezy",
+            "parent_id": "t1_ec39yx0",
+            "score": 6,
+            "stickied": false,
+            "author_name": "f00l"
+        },
+        "ec3gwr4": {
+            "comment": "What is APT hunting and a C2?",
+            "timeStamp": "2018/12/18-21:37:39",
+            "id": "ec3gwr4",
+            "is_submitter": true,
+            "link_id": "t3_a7iezy",
+            "parent_id": "t1_ec39yx0",
+            "score": 2,
+            "stickied": false,
+            "author_name": "jockcel"
+        },
+        "ec3abs4": {
+            "comment": "Primarily the second. AV companies likely don't care about how malware authors feel about distributing their stuff in beta.",
+            "timeStamp": "2018/12/18-19:47:16",
+            "id": "ec3abs4",
+            "is_submitter": false,
+            "link_id": "t3_a7iezy",
+            "parent_id": "t1_ec39yx0",
+            "score": 5,
+            "stickied": false,
+            "author_name": "AbsoZed"
+        },
+        "ec39yx0": {
+            "comment": "1.) Virus authors want to test their new code without alerting the public.  \n2.) APT hunting, for opsec reasons sometimes you want to keep the C2 or sample from becoming public too early.  \n\nPossibly other reasons?",
+            "timeStamp": "2018/12/18-19:41:27",
+            "id": "ec39yx0",
+            "is_submitter": false,
+            "link_id": "t3_a7iezy",
+            "parent_id": "t3_a7iezy",
+            "score": 3,
+            "stickied": false,
+            "author_name": "flipmode_squad"
+        },
+        "ec37njn": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2018/12/18-19:05:36",
+            "id": "ec37njn",
+            "is_submitter": false,
+            "link_id": "t3_a7iezy",
+            "parent_id": "t3_a7iezy",
+            "score": 0,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

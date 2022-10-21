@@ -1,0 +1,99 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hey everyone, planning on taking the exam next week or so. Currently working on indexing the books and notes. Took the exams without using notes or references and got a 70 both times. Any recommendations before taking? Are the practice exams anything like the actual exam?  \nThanks",
+        "title": "GREM Exam",
+        "score": 1,
+        "id": "uo72a9",
+        "commsNum": 0,
+        "timeStamp": "2022/05/12-11:01:27",
+        "author_name": "blue_Kazoo82",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/uo72a9/grem_exam/"
+    },
+    "posts": {
+        "i8e6060": {
+            "comment": "If you got 70s on the practice exams you will be fine (especially if you don't have an index to reference).\n\nJust in case it's helpful for anyone taking the exam but here are some links I'd recommend in addition to the course books:\n\nhttps://zeltser.com/cheat-sheets/ (&lt;- official authors website) \n\nhttps://cyberlab.pacific.edu/resources/reverse-engineering-cheat-sheets (specific ones for FOR610)\n\nhttps://0x00sec.org/t/reverse-engineering-cheat-sheet/29167\n\nI'm not gonna post any links or specific search terms here, but you can find indexes built by other individuals who have taken the course before by simply searching the internet. \n\nBut the best advice I can absolutely give is to use the above cheatsheets to help build out indices and notes specific to YOU. (Don't trust or just use the ones in the book, those are not sufficient enough)",
+            "timeStamp": "2022/05/12-18:00:07",
+            "id": "i8e6060",
+            "is_submitter": false,
+            "link_id": "t3_uo72a9",
+            "parent_id": "t3_uo72a9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "isaacchristensen"
+        },
+        "i8e4v4v": {
+            "comment": "Not sure if the test has changed much since last year but they definitely underemphasized the advanced binary RE stuff. They still had you recognize the PEB header usage (mov eax, fs:0x30) malicious SEH registration and triggering malicious handlers in assembly but other than that I should have focused more on JavaScript and other malware. That said I self-studied with no books and just took the practice exams before. Definitely a bit harder than the practice, so keep studying.",
+            "timeStamp": "2022/05/12-17:51:17",
+            "id": "i8e4v4v",
+            "is_submitter": false,
+            "link_id": "t3_uo72a9",
+            "parent_id": "t3_uo72a9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "lakitustanfield"
+        },
+        "i8dyzh9": {
+            "comment": "Ill have to look into Obsidian, thanks!",
+            "timeStamp": "2022/05/12-17:06:05",
+            "id": "i8dyzh9",
+            "is_submitter": false,
+            "link_id": "t3_uo72a9",
+            "parent_id": "t1_i8dx7r0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "naptown21403"
+        },
+        "i8dx7r0": {
+            "comment": "I would say take it piece by piece for sure. There is a lot of information to everything. In which I regret not starting to index/think about possible test questions until completion. So watch the video lessons, do the labs, then index things that happened in the chapter. Like definitions or tools, etc.\n\nOne thing that helped me the most was constructing run books on how to approach things as well.",
+            "timeStamp": "2022/05/12-16:52:03",
+            "id": "i8dx7r0",
+            "is_submitter": true,
+            "link_id": "t3_uo72a9",
+            "parent_id": "t1_i8dw8b4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "blue_Kazoo82"
+        },
+        "i8dw8b4": {
+            "comment": "interested also, just got enrolled in the class and books showed up yesterday. plan on starting the class/lectures Sunday",
+            "timeStamp": "2022/05/12-16:44:20",
+            "id": "i8dw8b4",
+            "is_submitter": false,
+            "link_id": "t3_uo72a9",
+            "parent_id": "t3_uo72a9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "naptown21403"
+        },
+        "i8cvsq2": {
+            "comment": "Thanks for commenting, shot you a Dm",
+            "timeStamp": "2022/05/12-12:30:15",
+            "id": "i8cvsq2",
+            "is_submitter": true,
+            "link_id": "t3_uo72a9",
+            "parent_id": "t1_i8cuiwc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "blue_Kazoo82"
+        },
+        "i8cuiwc": {
+            "comment": "I took it a few months ago and passed with a 90. \n\nIt was probably test day jitters but I did feel like the test questions were harder than the practice questions and the practical questions are 1:1 with the labs so be very familiar with them.",
+            "timeStamp": "2022/05/12-12:22:14",
+            "id": "i8cuiwc",
+            "is_submitter": false,
+            "link_id": "t3_uo72a9",
+            "parent_id": "t3_uo72a9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "KennethsFreq"
+        }
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Thanks in advance. My questions will be a little \"dumb\", so, feel free to let me know.\n\nI have the sample of a famous trojan, DSBrick; basically, an trojan who used to overwrite important portions of the Nintendo DS firmware, causing it to not boot the system at next boot, but, to boot the malware code, that used to display a brick wall. Is a NDS file, for homebrew Nintendo(s). I would want to analyze it, i just wanted to ask two questions.\n\n1.  Is possible to emulate Nintendo firmware enough closer to a real Nintendo to let the payload of the trojan work without having a real Nintendo to destroy?\n2. There are debuggers or decompilers that can retrieve from the file code? C code would be wanted, even if i think that what i will get is Assembly.\n\nSymantec page:  [https://www.symantec.com/security-center/writeup/2005-101111-3913-99](https://www.symantec.com/security-center/writeup/2005-101111-3913-99) \n\nTrend Micro page:  [https://www.trendmicro.com/vinfo/us/threat-encyclopedia/archive/malware/troj\\_dsbrick.a](https://www.trendmicro.com/vinfo/us/threat-encyclopedia/archive/malware/troj_dsbrick.a) \n\nI know is not really advanced, but, i'm talking about a console trojan, old one, but still a console trojan. I am deeply interested.",
+        "title": "DSBrick trojan: how to emulate.",
+        "score": 3,
+        "id": "byzz3j",
+        "commsNum": 3,
+        "timeStamp": "2019/06/10-09:33:03",
+        "author_name": "Sasser39a",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/byzz3j/dsbrick_trojan_how_to_emulate/"
+    },
+    "posts": {
+        "eqoi75j": {
+            "comment": "No problem, hope some people can give you more specific assistance! Good luck!",
+            "timeStamp": "2019/06/10-10:47:35",
+            "id": "eqoi75j",
+            "is_submitter": false,
+            "link_id": "t3_byzz3j",
+            "parent_id": "t1_eqohrhx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Sam-Gunn"
+        },
+        "eqohrhx": {
+            "comment": "Thanks for the help.",
+            "timeStamp": "2019/06/10-10:45:03",
+            "id": "eqohrhx",
+            "is_submitter": true,
+            "link_id": "t3_byzz3j",
+            "parent_id": "t1_eqo75qb",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Sasser39a"
+        },
+        "eqo75qb": {
+            "comment": "All disassemblers will output into assembly, it's due to how code is compiled. The high level notations that humans use to write code is usually stripped out, and the instructions are converted to machine readable code. Hence why, when you disassemble an exe or similar, it just outputs that machine level code, not the original code and language that the humans wrote it in.\n\nThere are tools that'll then convert it into something like C code, but definitely not close to emulate how a human would've written said C code.\n\nFor instance I had an ELF i wanted to disassemble. I did, and it was too complex for me to do anything with. So I used a tool that would output it into C+ code.\n\nIt did, but except for some code structures all I got were 2 giant arrays with hex that provided the pointers. \n\n&gt;Is possible to emulate Nintendo firmware enough closer to a real Nintendo to let the payload of the trojan work without having a real Nintendo to destroy?\n\nDepends on what you have. If you write an emulator, sure, theoretically the sky is the limit if you're writing it off of read nintendo code.\n\nBut if you don't write it yourself, you need to find one that emulates the firmware, not just what is required to play the video game, unless the nature of the DS means that the emulator has to be a fully fledged digital version of the DS and firmware. \n\nSo I'd recommend looking at DS emulators first, and see if you can find what amount of the firmware they are built to emulate.",
+            "timeStamp": "2019/06/10-09:43:07",
+            "id": "eqo75qb",
+            "is_submitter": false,
+            "link_id": "t3_byzz3j",
+            "parent_id": "t3_byzz3j",
+            "score": 3,
+            "stickied": false,
+            "author_name": "Sam-Gunn"
+        }
+    }
+}

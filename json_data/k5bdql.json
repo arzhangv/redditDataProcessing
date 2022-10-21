@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I'm thrilled to announce  [Fibratus](https://github.com/rabbitstack/fibratus/) \\- a modern tool for the Windows kernel tracing and observability.\n\nTo discover more about Fibratus, head to the documentation site: [https://www.fibratus.io](https://www.fibratus.io)\n\nSome prominent **features**:\n\n* blazing fast\n* collects a wide spectrum of kernel [events](https://www.fibratus.io/#/kevents/anatomy) \\- from process to network observability signals\n* powerful [filtering](https://www.fibratus.io/#/filters/introduction) engine\n* running [Python code](https://www.fibratus.io/#/filaments/introduction) (filaments) on top of kernel event flow. Fibratus interacts with the low-level **CPython** API to spin up fully-fledged Python interpreters\n* [capturing](https://www.fibratus.io/#/captures/introduction) event flux to capture files and replaying anywhere\n* transporting events to a wide array of [output sinks](https://www.fibratus.io/#/outputs/introduction), including Elasticsearch, RabbitMQ, or console\n* [transforming](https://www.fibratus.io/#/transformers/introduction) kernel events\n* out of the box [alerting](https://www.fibratus.io/#/alerts/introduction)\n* [scanning](https://www.fibratus.io/#/yara/introduction) malicious processes and files with **libyara**\n* **PE** (Portable Executable) [introspection](https://www.fibratus.io/#/pe/introduction)",
+        "title": "fibratus - A modern tool for the Windows kernel exploration and observability",
+        "score": 1,
+        "id": "k5bdql",
+        "commsNum": 1,
+        "timeStamp": "2020/12/02-07:33:58",
+        "author_name": "rabbitstack",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/k5bdql/fibratus_a_modern_tool_for_the_windows_kernel/"
+    },
+    "posts": {
+        "gefzm1f": {
+            "comment": "Looks slick",
+            "timeStamp": "2020/12/02-18:05:23",
+            "id": "gefzm1f",
+            "is_submitter": false,
+            "link_id": "t3_k5bdql",
+            "parent_id": "t3_k5bdql",
+            "score": 1,
+            "stickied": false,
+            "author_name": "og_m4"
+        }
+    }
+}

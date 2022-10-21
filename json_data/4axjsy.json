@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi,\n\nI'm looking for any samples of the actual ransomware that encrypts files and changes them to names like &lt;filename&gt;.id-2388951881453869-paycrypt@aol\n\nThe name differs and from what I have read this is used by a variety of people with the names being specific to them.\n\nHoping for some VT links if anybody has any.\n\nThanks.",
+        "title": "Anybody got any samples of '@' ransomware e.g. &lt;filename&gt;.id-2388951881453869-paycrypt@aol",
+        "score": 9,
+        "id": "4axjsy",
+        "commsNum": 2,
+        "timeStamp": "2016/03/18-02:25:08",
+        "author_name": "peter_mack",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/4axjsy/anybody_got_any_samples_of_ransomware_eg/"
+    },
+    "posts": {}
+}

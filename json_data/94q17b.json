@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi Guys, \n\nMy search engine got hijacked by Ad-Aware SecureSearch. Does anyone knows how to remove this?\n\nHave run several cleaners but still unable to remove this malware.",
+        "title": "Ad-Aware SecureSearch",
+        "score": 0,
+        "id": "94q17b",
+        "commsNum": 1,
+        "timeStamp": "2018/08/04-23:50:05",
+        "author_name": "hatsunemiku598",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/94q17b/adaware_securesearch/"
+    },
+    "posts": {
+        "e3n0eqj": {
+            "comment": "First thing you should do is full reset the browser and be sure there is not extension or something like that left. Next scan with some program until you see fine like:AdwCleaner, Zemana Anti-Malware, HitmanPro, Emsisoft Emergency Kit, Trend Micro housecall. Make sure scanning for potentially unwanted programs is turned on. You can also install a free av like Bitdefender Free, Kaspersky Free, Avast Free... ",
+            "timeStamp": "2018/08/05-02:05:21",
+            "id": "e3n0eqj",
+            "is_submitter": false,
+            "link_id": "t3_94q17b",
+            "parent_id": "t3_94q17b",
+            "score": 1,
+            "stickied": false,
+            "author_name": "likeastar20"
+        }
+    }
+}

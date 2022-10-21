@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": 0.89,
+        "selftext": "Hi guys, I'm here basically to seek out any ideas or advice for an assignment of mine, which I need to create a software/tool that is an improvement over the current tools that is available on the market currently or even a completely new software/tool that is not currently available. With regards to any tools like Wireshark, autopsy, or even software like Dirb, gobuster. Do you guys have any issue/complaints with the current software/tool you guys are using ?\n\nThanks",
+        "title": "Seeking ideas/advice for new forensics tools",
+        "score": 17,
+        "id": "irvup1",
+        "commsNum": 8,
+        "timeStamp": "2020/09/13-03:23:14",
+        "author_name": "JesterTheGhost",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 8,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/irvup1/seeking_ideasadvice_for_new_forensics_tools/"
+    },
+    "posts": {
+        "g5ug0pz": {
+            "comment": "[removed]",
+            "timeStamp": "2020/09/19-11:41:50",
+            "id": "g5ug0pz",
+            "is_submitter": false,
+            "link_id": "t3_irvup1",
+            "parent_id": "t3_irvup1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "g57a2v3": {
+            "comment": "More automation. Our guys are either too busy or too inexperienced to get a lot of the tasks done correctly or in a timely fashion.  I hear thats common.",
+            "timeStamp": "2020/09/13-21:37:40",
+            "id": "g57a2v3",
+            "is_submitter": false,
+            "link_id": "t3_irvup1",
+            "parent_id": "t3_irvup1",
+            "score": 2,
+            "stickied": false,
+            "author_name": "NAVD"
+        },
+        "g53k9tr": {
+            "comment": "[removed]",
+            "timeStamp": "2020/09/13-05:28:20",
+            "id": "g53k9tr",
+            "is_submitter": false,
+            "link_id": "t3_irvup1",
+            "parent_id": "t3_irvup1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "g53g93x": {
+            "comment": "[removed]",
+            "timeStamp": "2020/09/13-05:06:57",
+            "id": "g53g93x",
+            "is_submitter": false,
+            "link_id": "t3_irvup1",
+            "parent_id": "t3_irvup1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "g53c5bj": {
+            "comment": "Try recreating Pineapple's firmware. Try adding own modules too. Basically make the best possible network pentesting framework you can.",
+            "timeStamp": "2020/09/13-04:40:02",
+            "id": "g53c5bj",
+            "is_submitter": false,
+            "link_id": "t3_irvup1",
+            "parent_id": "t3_irvup1",
+            "score": 6,
+            "stickied": false,
+            "author_name": "maga_ot_oz"
+        }
+    }
+}

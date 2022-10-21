@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "What is needed is to have a HARD \"Force this tab/web page to close\" option despite open dialog boxes from the web site.\n\nThere should be no way Javascript should be able to hijack a browser and prevent users from exiting a hostile site or the browser itself.\n\nThe problem with allowing this flaw to exist is it will be used for nefarious purposes, perhaps even done on a wide scale basis through a hack of a ad network or something, causing considerable damage to browsers reputation and market share if it occurs.\n\n\n\n",
+        "title": "FBI Moneypack browser hijack now a NSA version. Chromes \"Prevent this site from making more dialogs\" fails",
+        "score": 18,
+        "id": "2tah2b",
+        "commsNum": 18,
+        "timeStamp": "2015/01/22-06:34:43",
+        "author_name": "pirates-running-amok",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 18,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2tah2b/fbi_moneypack_browser_hijack_now_a_nsa_version/"
+    },
+    "posts": {}
+}

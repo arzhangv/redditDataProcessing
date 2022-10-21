@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I have an **DENVER ACK-8058W** action camera. Yesterday I tried to capture live stream footage from it, to my computer. But I noticed something strange while scanning for open ports.\nPort number 6666 (IRC) is open. My question is why would an action camera have that port open?\nHere is the screenshot: https://imgur.com/a/Womn3",
+        "title": "Action camera has IRC port open",
+        "score": 12,
+        "id": "7xyzb3",
+        "commsNum": 12,
+        "timeStamp": "2018/02/16-06:15:19",
+        "author_name": "Ostap_95",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 12,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/7xyzb3/action_camera_has_irc_port_open/"
+    },
+    "posts": {}
+}

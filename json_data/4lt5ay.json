@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Have you ever encountered a piece of malware that made you laugh? Whether it was poorly programmed, had text written in broken English, or just had a laughable way of dooping the user (I.e. Tells you you have illegal content and need to pay a fine) my personal picks for this category are between a PUP that promises to remove porn from your PC, then proceeds to pull up pictures from the Internet (some not even being porn) and saying \"look what we found!\" Then asking the user to pay to have it removed. My second pick is the FBI ransomware. This one accuses users of owning/ distributing illegal porn and snuff films and sending out messages to terrorist organizations, then saying that they only need to pay a fee around 100-400 dollars to get out of the trouble they're in ( like any of those offenses could be \"payed off\") ",
+        "title": "Funniest malware you've encountered?",
+        "score": 15,
+        "id": "4lt5ay",
+        "commsNum": 11,
+        "timeStamp": "2016/05/30-20:06:57",
+        "author_name": "maliciouspayload",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 11,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/4lt5ay/funniest_malware_youve_encountered/"
+    },
+    "posts": {
+        "hz84qfr": {
+            "comment": "[removed]",
+            "timeStamp": "2022/03/03-12:04:38",
+            "id": "hz84qfr",
+            "is_submitter": false,
+            "link_id": "t3_4lt5ay",
+            "parent_id": "t3_4lt5ay",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hjeyyg1": {
+            "comment": "Lol",
+            "timeStamp": "2021/11/05-06:59:23",
+            "id": "hjeyyg1",
+            "is_submitter": false,
+            "link_id": "t3_4lt5ay",
+            "parent_id": "t1_d3q2ezq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "vkhjudfxm"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Fareit malware avoids detection using a different file hash for each attack",
+        "score": 1,
+        "id": "3njr68",
+        "commsNum": 0,
+        "timeStamp": "2015/10/05-00:10:18",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/40720/cyber-crime/fareit-malware-multiple-haches.html"
+    },
+    "posts": {}
+}

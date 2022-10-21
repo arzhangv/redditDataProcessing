@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hello guys,\n  \n  \nFor my study I'm going to look at malicious repackaged Android apps and try to look at if you can identify certain malware by looking at their power consumption. To do this I need to have a malicious repackaged Android app and also its original version. \n  \n  \nShould this be done by downloading the original app from the Google Play Store or is there a better way to do this? I'm having trouble with this, because the repackaged apks in data sets do not contain any reference apks. The data set I was using is [this](http://www.malgenomeproject.org/) one, however, it is very old and the apps that I saw were not available in the Play Store anymore.",
+        "title": "Looking at malicious repackaged Android apps and the original Android app",
+        "score": 4,
+        "id": "87dhe6",
+        "commsNum": 3,
+        "timeStamp": "2018/03/26-15:50:07",
+        "author_name": "Men_Of_Spoons",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/87dhe6/looking_at_malicious_repackaged_android_apps_and/"
+    },
+    "posts": {}
+}

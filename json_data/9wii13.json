@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Hacking the hackers \u2013 IOT botnet author adds his own backdoor on top of a ZTE router backdoor",
+        "score": 1,
+        "id": "9wii13",
+        "commsNum": 0,
+        "timeStamp": "2018/11/12-13:43:53",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://securityaffairs.co/wordpress/77951/malware/iot-botnet-backdoored.html"
+    },
+    "posts": {}
+}

@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hello there\n\nI am looking for resources/websites/repositories where i can find malwares, ordered by the time/year of their **first appearance**.\n\nfor example, if malware A first surfaced in 2010, malware B in 2013 and Malware C in 2019 ... then the dataset should have this information regarding the year of their release/appearance.\n\nI am open to all sorts of approaches and suggestions. \n\n**Any other Chronological information, apart from the Release Date,** would also be quite helpful !\n\nThanks for any help or guidance you can give regarding this !",
+        "title": "Where can i find Malware samples or Datasets ordered by their release dates ?",
+        "score": 1,
+        "id": "d4wehp",
+        "commsNum": 1,
+        "timeStamp": "2019/09/15-22:40:12",
+        "author_name": "yaxir",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/d4wehp/where_can_i_find_malware_samples_or_datasets/"
+    },
+    "posts": {
+        "f0h3zek": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2019/09/15-22:40:13",
+            "id": "f0h3zek",
+            "is_submitter": false,
+            "link_id": "t3_d4wehp",
+            "parent_id": "t3_d4wehp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

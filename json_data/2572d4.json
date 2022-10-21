@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hey guys,\r\rSo I am the CEO and co-founder of cybersecurity site malwareZero ( http://malwarezero.org/ ) and we have just completed a fair deal of work on our new malwareCentral antimalware centre. Would be great if you could check it out and give feedback :) It's basically a monitoring centre for internet threats with maps, the ISC ThreatCon, McAfee malware DB etc.\r\rLink is http://malwarezero.org/malwarecentral (it requires registration which might not be working as we've had a problem with sending emails recently, if it doesn't work just PM me and I'll get you set up)\r\rCurtis\r\rEdit: Until email sending is reopened, accounts should automatically activate.\r\rEdit 2: There is an issue with our registration system which means you must reset your password before first login. Please do this in order to login.",
+        "title": "malwareCentral Anti Malware Centre",
+        "score": 7,
+        "id": "2572d4",
+        "commsNum": 16,
+        "timeStamp": "2014/05/10-01:33:03",
+        "author_name": "cyborg4",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 16,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2572d4/malwarecentral_anti_malware_centre/"
+    },
+    "posts": {}
+}

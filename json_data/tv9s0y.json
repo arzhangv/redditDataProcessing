@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "So I got a notification that a program was a suspected trojan? the program was called Trojan:Win32/Racealer.AD!MTB. I tried googling but I could only find posts about malware with similar names but not the same as this one. What is it, I would appreciate any feedback.",
+        "title": "Win32/Racealer.AD!MTB",
+        "score": 1,
+        "id": "tv9s0y",
+        "commsNum": 0,
+        "timeStamp": "2022/04/03-06:53:29",
+        "author_name": "JoeBob_123",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/tv9s0y/win32racealeradmtb/"
+    },
+    "posts": {}
+}

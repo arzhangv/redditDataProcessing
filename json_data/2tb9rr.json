@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Symantec report on Turla Trojan",
+        "score": 1,
+        "id": "2tb9rr",
+        "commsNum": 0,
+        "timeStamp": "2015/01/22-10:30:37",
+        "author_name": "nyx_o",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/waterbug-attack-group.pdf"
+    },
+    "posts": {}
+}

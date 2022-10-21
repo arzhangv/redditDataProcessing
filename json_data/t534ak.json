@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "While researching I came across a sample that has encrypted strings within the source.\n\nBut no decryption key to be found.  Obfuscation? Nope.\n\n\nThe program brute forces its own decryption key at startup. It must be a short one, because it\u2019s almost instant.\n\nWhat would the point of this be?",
+        "title": "Interesting Technique.",
+        "score": 1,
+        "id": "t534ak",
+        "commsNum": 0,
+        "timeStamp": "2022/03/02-07:53:43",
+        "author_name": "MysticalTeamMember",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/t534ak/interesting_technique/"
+    },
+    "posts": {}
+}

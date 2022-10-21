@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Angler Exploit Kit Using Flash 0-Day",
+        "score": 1,
+        "id": "2undcx",
+        "commsNum": 0,
+        "timeStamp": "2015/02/03-08:26:16",
+        "author_name": "[deleted]",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://blogs.cisco.com/talos/angler-variants"
+    },
+    "posts": {}
+}

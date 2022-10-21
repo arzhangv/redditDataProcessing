@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": " \n\nSo i wanted to download a torrent for a game from IGG games but my bitdefender anti virus always said that there was a bitcoin miner wanting to start up the process.\u00a0I doubt it has started the process because my anti virus always blocked it fast when dedected. It blocks it but this warning always keeps coming back when i start up my pc. \n\nI tried manually to delete those files but it just creates a new folder that is similar with these contents. I delete it but it comes back under a new name in a hidden folder of windows. (there where some .htm files in it)\n\nHere's pictures with the warning + the proces of my pc monitored by Process Hacker software:\n\n*-&gt;*\u00a0[*https://imgur.com/a/tfe1DEQ*](https://imgur.com/a/tfe1DEQ)\n\n*I did this tutorial video:* [*youtube.com/watch?v=zedALn7hZ4o*](https://youtube.com/watch?v=zedALn7hZ4o)\n\n*where the guy, a local repair shop guy runs \u00a0the pc trough with a bunch of anti virus programs:*\u00a0\n\n*Nothing dedected, except some PUP's with adwcleaner.*\n\n&amp;#x200B;\n\n\\---\n\nNOW... after all that bitdefender doesn't give me warnings anymore...\n\nbut i can still see cpu process spikes when afk and when i open task manager for the first time it goes from 90-100% to 40. Or from 80\u00a8% to 20.\u00a0\n\nSee here a gif of what happens: [https://gyazo.com/b8afa4e4cfffb8c6924f4974ed0b6287](https://gyazo.com/b8afa4e4cfffb8c6924f4974ed0b6287) \n\nI just want to know if that's normal or that means there's still something in the system?\u00a0\n\n(Google chrome proces has 17 processes but only 2 tabs are open?)\n\nThanks for your help already!",
+        "title": "Is this spike in % CPU normal in task manager. /Help me get rid of Bitcoin miners and malware",
+        "score": 1,
+        "id": "f1b65m",
+        "commsNum": 1,
+        "timeStamp": "2020/02/09-08:45:15",
+        "author_name": "thomasd4140",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/f1b65m/is_this_spike_in_cpu_normal_in_task_manager_help/"
+    },
+    "posts": {
+        "fh3afdy": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2020/02/09-08:45:16",
+            "id": "fh3afdy",
+            "is_submitter": false,
+            "link_id": "t3_f1b65m",
+            "parent_id": "t3_f1b65m",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

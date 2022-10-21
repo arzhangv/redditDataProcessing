@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "So I was playing the PC game Fallout 4 with third-party software \"Fallout 4 Script Extender\". Everything was fine until Windows Defender discovered a malware/trojan in the F4SE installer which I've had on my pc for couple of days. \n\nThe installer was not running during gameplay though, nor have I ran it but only once couple of days ago and everything has been fine. Can I expect this to be a recent false positive for Windows Defender security update?\n\nI have Malwarebytes Premium with realtime protection, MWB doesn't detect anything on the specific file. Searching the internet this malware has recently been found in NiceHash BitCoin mining software today. It was also suspected as False Positive by NiceHash users. I however don't do BitCoin mining or use NiceHash either.\n\nAny thoughts, similar experiences?",
+        "title": "[Windows Defender] Trojan: Win32/Vagger!rfn [False Positive?]",
+        "score": 8,
+        "id": "72wh2q",
+        "commsNum": 9,
+        "timeStamp": "2017/09/27-17:14:48",
+        "author_name": "PontiffiSulivaan",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 9,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/72wh2q/windows_defender_trojan_win32vaggerrfn_false/"
+    },
+    "posts": {}
+}

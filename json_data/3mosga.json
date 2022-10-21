@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "SSL Malvertising Campaign Targets Top Adult Sites",
+        "score": 11,
+        "id": "3mosga",
+        "commsNum": 1,
+        "timeStamp": "2015/09/28-04:35:04",
+        "author_name": "oselotti",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://blog.malwarebytes.org/malvertising-2/2015/09/ssl-malvertising-campaign-targets-top-adult-sites/"
+    },
+    "posts": {}
+}

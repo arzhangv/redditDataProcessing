@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Introductory Guide into Malware Analysis",
+        "score": 66,
+        "id": "6dk5r7",
+        "commsNum": 0,
+        "timeStamp": "2017/05/26-15:32:43",
+        "author_name": "Evil1337",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://0x00sec.org/t/an-introductory-guide-into-malware-analysis/2056"
+    },
+    "posts": {}
+}

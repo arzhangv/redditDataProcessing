@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I was just in a skype call where i had my camera on. After the call i shut skype down and after a couple minutes, noticed that the camera led light was still on.\n\nI went into my camera settings and disabled the \u201dapps that require camera\u201d and the light turned off. Ofc this made me paranoid as usual and i was wondering if this is just a false alarm or if my camera has actually been hacked.",
+        "title": "Need clarification please",
+        "score": 1,
+        "id": "j56edz",
+        "commsNum": 3,
+        "timeStamp": "2020/10/04-13:54:34",
+        "author_name": "Dankus-memecus69",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/j56edz/need_clarification_please/"
+    },
+    "posts": {
+        "g7ry5ba": {
+            "comment": "[removed]",
+            "timeStamp": "2020/10/05-04:06:23",
+            "id": "g7ry5ba",
+            "is_submitter": false,
+            "link_id": "t3_j56edz",
+            "parent_id": "t3_j56edz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "g7q31tg": {
+            "comment": "[removed]",
+            "timeStamp": "2020/10/04-14:19:56",
+            "id": "g7q31tg",
+            "is_submitter": false,
+            "link_id": "t3_j56edz",
+            "parent_id": "t3_j56edz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "g7q0rp1": {
+            "comment": "R/techsupport",
+            "timeStamp": "2020/10/04-13:59:55",
+            "id": "g7q0rp1",
+            "is_submitter": false,
+            "link_id": "t3_j56edz",
+            "parent_id": "t3_j56edz",
+            "score": 0,
+            "stickied": false,
+            "author_name": "Wouldratherplaymtg"
+        }
+    }
+}

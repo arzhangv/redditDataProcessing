@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "A step-by-step analysis of the Corona DDoS bot with Ghidra",
+        "score": 40,
+        "id": "dq5egt",
+        "commsNum": 3,
+        "timeStamp": "2019/11/01-08:02:00",
+        "author_name": "ThisIsLibra",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://maxkersten.nl/binary-analysis-course/malware-analysis/corona-ddos-bot/"
+    },
+    "posts": {
+        "f6cvxe2": {
+            "comment": "Thank you!",
+            "timeStamp": "2019/11/03-05:51:20",
+            "id": "f6cvxe2",
+            "is_submitter": true,
+            "link_id": "t3_dq5egt",
+            "parent_id": "t1_f65c995",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ThisIsLibra"
+        },
+        "f65c995": {
+            "comment": "Great writeup.",
+            "timeStamp": "2019/11/02-06:22:48",
+            "id": "f65c995",
+            "is_submitter": false,
+            "link_id": "t3_dq5egt",
+            "parent_id": "t3_dq5egt",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ygprodigy"
+        },
+        "f63ha3o": {
+            "comment": "[removed]",
+            "timeStamp": "2019/11/01-23:48:38",
+            "id": "f63ha3o",
+            "is_submitter": false,
+            "link_id": "t3_dq5egt",
+            "parent_id": "t3_dq5egt",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

@@ -1,0 +1,154 @@
+{
+    "op": {
+        "upvote_ratio": 0.61,
+        "selftext": "[removed]",
+        "title": "What is 52.232.222.105:https",
+        "score": 3,
+        "id": "hwzzft",
+        "commsNum": 20,
+        "timeStamp": "2020/07/24-04:20:28",
+        "author_name": "mar0808",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 20,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/hwzzft/what_is_52232222105https/"
+    },
+    "posts": {
+        "fz6yjoc": {
+            "comment": "Thank you!",
+            "timeStamp": "2020/07/25-06:04:59",
+            "id": "fz6yjoc",
+            "is_submitter": true,
+            "link_id": "t3_hwzzft",
+            "parent_id": "t1_fz6y2gs",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mar0808"
+        },
+        "fz6y2gs": {
+            "comment": "Given that its microsoft, its fair to say that it's a network connection spun up by any number of official Microsoft products. Onedrive, office 365, windows updates, etc. \n\nI wouldn't stress about it, network connections are normally just viewed through netstat anyway, not the task manager.",
+            "timeStamp": "2020/07/25-05:58:54",
+            "id": "fz6y2gs",
+            "is_submitter": false,
+            "link_id": "t3_hwzzft",
+            "parent_id": "t1_fz6hdfo",
+            "score": 2,
+            "stickied": false,
+            "author_name": "MrStricty"
+        },
+        "fz6hgpa": {
+            "comment": "Do you know why it doesn't show in my task manager? And how do i k ow if its legit or not?",
+            "timeStamp": "2020/07/25-01:30:46",
+            "id": "fz6hgpa",
+            "is_submitter": true,
+            "link_id": "t3_hwzzft",
+            "parent_id": "t1_fz2zbik",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mar0808"
+        },
+        "fz6hdfo": {
+            "comment": "Thanks for the info. Do you have idea why it doesn't exist in my task manager?",
+            "timeStamp": "2020/07/25-01:29:13",
+            "id": "fz6hdfo",
+            "is_submitter": true,
+            "link_id": "t3_hwzzft",
+            "parent_id": "t1_fz3amzj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mar0808"
+        },
+        "fz3gqaz": {
+            "comment": "Shodan as MrStricty said, or any other IP WHOIS tool. \n\nMy initial comment was downvoted though so maybe someone has some other opinion about who owns the IP Address.",
+            "timeStamp": "2020/07/24-07:56:37",
+            "id": "fz3gqaz",
+            "is_submitter": false,
+            "link_id": "t3_hwzzft",
+            "parent_id": "t1_fz3ae6c",
+            "score": 1,
+            "stickied": false,
+            "author_name": "r0nnybums"
+        },
+        "fz3bazo": {
+            "comment": "[VirusTotal, that IP is clean](https://www.virustotal.com/gui/ip-address/52.232.222.105/detection)",
+            "timeStamp": "2020/07/24-07:09:39",
+            "id": "fz3bazo",
+            "is_submitter": false,
+            "link_id": "t3_hwzzft",
+            "parent_id": "t3_hwzzft",
+            "score": 1,
+            "stickied": false,
+            "author_name": "trollinDC"
+        },
+        "fz3amzj": {
+            "comment": "Shodan. Check it out.\n\nhttps://www.shodan.io/host/52.232.222.105",
+            "timeStamp": "2020/07/24-07:03:39",
+            "id": "fz3amzj",
+            "is_submitter": false,
+            "link_id": "t3_hwzzft",
+            "parent_id": "t1_fz3ae6c",
+            "score": 3,
+            "stickied": false,
+            "author_name": "MrStricty"
+        },
+        "fz3ae6c": {
+            "comment": "noob question: How did you know that it's owned by Microsoft?",
+            "timeStamp": "2020/07/24-07:01:26",
+            "id": "fz3ae6c",
+            "is_submitter": false,
+            "link_id": "t3_hwzzft",
+            "parent_id": "t1_fz2zbik",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MaliciouSSymbol"
+        },
+        "fz2zbik": {
+            "comment": "IP is owned by Microsoft so chances are it is legit. The :https bit probably just indicates that it is using port 443.",
+            "timeStamp": "2020/07/24-05:03:05",
+            "id": "fz2zbik",
+            "is_submitter": false,
+            "link_id": "t3_hwzzft",
+            "parent_id": "t3_hwzzft",
+            "score": 1,
+            "stickied": false,
+            "author_name": "r0nnybums"
+        },
+        "fz2z2ud": {
+            "comment": "[removed]",
+            "timeStamp": "2020/07/24-04:59:56",
+            "id": "fz2z2ud",
+            "is_submitter": false,
+            "link_id": "t3_hwzzft",
+            "parent_id": "t3_hwzzft",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fz2xvqp": {
+            "comment": "try with *-b*  , which will display the program involved i.e,\n\n&amp;#x200B;\n\n`netstat -ob` (needs elevated privilege )",
+            "timeStamp": "2020/07/24-04:43:59",
+            "id": "fz2xvqp",
+            "is_submitter": false,
+            "link_id": "t3_hwzzft",
+            "parent_id": "t3_hwzzft",
+            "score": 3,
+            "stickied": false,
+            "author_name": "vinumsv"
+        },
+        "fz2wyxf": {
+            "comment": "[removed]",
+            "timeStamp": "2020/07/24-04:31:34",
+            "id": "fz2wyxf",
+            "is_submitter": false,
+            "link_id": "t3_hwzzft",
+            "parent_id": "t3_hwzzft",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

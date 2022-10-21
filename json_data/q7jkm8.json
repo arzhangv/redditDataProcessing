@@ -1,0 +1,165 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I have been trying to reverse several samples but they're all packed. Looks like most of these are using process injection. What are some resources|techniques you found successful in helping you become good at unpacking Malware?",
+        "title": "Unpacking Malware Techniques",
+        "score": 1,
+        "id": "q7jkm8",
+        "commsNum": 13,
+        "timeStamp": "2021/10/13-13:10:29",
+        "author_name": "Avinbihari",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 13,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/q7jkm8/unpacking_malware_techniques/"
+    },
+    "posts": {
+        "hgldn6b": {
+            "comment": "You could start by reading manual unpacking tutorials. Basics are the same : find OEP, dump, fix dump, restore imports.\n\nNow if you want to dump process hollowed stuff, its often as easy as put a breakpoint on WriteProcessMemory (or the Zw/Nt equivalent), check if the buffer looks like an exe / dll and dump the relevant memory page.\n\nOfc you may want to do that on a VM.",
+            "timeStamp": "2021/10/14-02:58:21",
+            "id": "hgldn6b",
+            "is_submitter": false,
+            "link_id": "t3_q7jkm8",
+            "parent_id": "t3_q7jkm8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RCEdude"
+        },
+        "hgk44xf": {
+            "comment": "This looks promising. Thanks!",
+            "timeStamp": "2021/10/13-18:25:09",
+            "id": "hgk44xf",
+            "is_submitter": true,
+            "link_id": "t3_q7jkm8",
+            "parent_id": "t1_hgjzk1g",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Avinbihari"
+        },
+        "hgjzk1g": {
+            "comment": "if you wanna go the super easy route: [unpac.me](https://www.unpac.me/)   \n  \nfor a walkthrough on unpacking different samples, and tons of other absolutely stellar tutorials, the guy(s?) that made that website also have a YT channel, [OALabs](https://www.youtube.com/c/OALabs)",
+            "timeStamp": "2021/10/13-17:48:27",
+            "id": "hgjzk1g",
+            "is_submitter": false,
+            "link_id": "t3_q7jkm8",
+            "parent_id": "t3_q7jkm8",
+            "score": 5,
+            "stickied": false,
+            "author_name": "SplishSplashVS"
+        },
+        "hgj30r1": {
+            "comment": "Thanks!",
+            "timeStamp": "2021/10/13-13:44:07",
+            "id": "hgj30r1",
+            "is_submitter": true,
+            "link_id": "t3_q7jkm8",
+            "parent_id": "t1_hgj2xo6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Avinbihari"
+        },
+        "hgj2xo6": {
+            "comment": "Sounds good.\nGood luck",
+            "timeStamp": "2021/10/13-13:43:32",
+            "id": "hgj2xo6",
+            "is_submitter": false,
+            "link_id": "t3_q7jkm8",
+            "parent_id": "t1_hgj2uyt",
+            "score": 1,
+            "stickied": false,
+            "author_name": "0X900"
+        },
+        "hgj2uyt": {
+            "comment": "Good idea. I'll try a little more and see how far I get. I'll post it tonight if I don't get anywhere",
+            "timeStamp": "2021/10/13-13:43:02",
+            "id": "hgj2uyt",
+            "is_submitter": true,
+            "link_id": "t3_q7jkm8",
+            "parent_id": "t1_hgj1y5s",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Avinbihari"
+        },
+        "hgj1y5s": {
+            "comment": "Take a screenshot and create another thread asking about this exception. That is more valuable to learn from.",
+            "timeStamp": "2021/10/13-13:36:45",
+            "id": "hgj1y5s",
+            "is_submitter": false,
+            "link_id": "t3_q7jkm8",
+            "parent_id": "t1_hgj1s0f",
+            "score": 1,
+            "stickied": false,
+            "author_name": "0X900"
+        },
+        "hgj1s0f": {
+            "comment": "It's what I've been using. Looks like x64 keeps throwing a EXCEPTION_ACCESS_VIOLATION and stopping. I'll keep digging.",
+            "timeStamp": "2021/10/13-13:35:34",
+            "id": "hgj1s0f",
+            "is_submitter": true,
+            "link_id": "t3_q7jkm8",
+            "parent_id": "t1_hgj151z",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Avinbihari"
+        },
+        "hgj151z": {
+            "comment": "My bad I meant x64. It is similar to ollydbg . You can use either. \n\n\nhttps://x64dbg.com/",
+            "timeStamp": "2021/10/13-13:31:00",
+            "id": "hgj151z",
+            "is_submitter": false,
+            "link_id": "t3_q7jkm8",
+            "parent_id": "t1_hgj0srf",
+            "score": 2,
+            "stickied": false,
+            "author_name": "0X900"
+        },
+        "hgj0srf": {
+            "comment": "I appreciate your help. Can you link the x68 tool? This is the first time I'm hearing of it.",
+            "timeStamp": "2021/10/13-13:28:37",
+            "id": "hgj0srf",
+            "is_submitter": true,
+            "link_id": "t3_q7jkm8",
+            "parent_id": "t1_hgj01z1",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Avinbihari"
+        },
+        "hgj01z1": {
+            "comment": "Good luck. \nFor me I would first see the packing technique.  For example it is upx then search online how to unpack it.\n\nAnother way is to run it with x68 and try to follow the actual binary in the mem and dump it.\n\nThere are various techniques  I donot want to make it difficult on you especially if you are still learning. But man this is the fun part.",
+            "timeStamp": "2021/10/13-13:23:26",
+            "id": "hgj01z1",
+            "is_submitter": false,
+            "link_id": "t3_q7jkm8",
+            "parent_id": "t1_hgizlhr",
+            "score": 2,
+            "stickied": false,
+            "author_name": "0X900"
+        },
+        "hgizlhr": {
+            "comment": "That's a good suggestion!",
+            "timeStamp": "2021/10/13-13:20:21",
+            "id": "hgizlhr",
+            "is_submitter": true,
+            "link_id": "t3_q7jkm8",
+            "parent_id": "t1_hgiyued",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Avinbihari"
+        },
+        "hgiyued": {
+            "comment": "Google similar samples writes up if they are old. And see how folks could unpack them.",
+            "timeStamp": "2021/10/13-13:15:17",
+            "id": "hgiyued",
+            "is_submitter": false,
+            "link_id": "t3_q7jkm8",
+            "parent_id": "t3_q7jkm8",
+            "score": 3,
+            "stickied": false,
+            "author_name": "0X900"
+        }
+    }
+}

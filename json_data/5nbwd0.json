@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "So, im kinda sure ive got a mallware that is hiding in my pc (not 100%) but im a little paranoid too. \n\nSo my thought is, if i download linux -&gt; reformat computer -&gt; run linux, how do i know that no virus followed in my USB(linux iso) or is anywhere in my pc still?\n\nTl:d is it possible for viruses to jump between harddrives, even usbs? If so how can i detect it, if i try to make a clean Linux USB?",
+        "title": "Question ive always wounderd",
+        "score": 0,
+        "id": "5nbwd0",
+        "commsNum": 3,
+        "timeStamp": "2017/01/11-04:26:57",
+        "author_name": "jiggsawpuzzles",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5nbwd0/question_ive_always_wounderd/"
+    },
+    "posts": {}
+}

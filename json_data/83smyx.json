@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Asking for help: While testing various features of an IPS/Firewall device, I want to see how it responds to botnet (C2) traffic.\n\nWould like to replay packets which are captures of communication from botnets to C2 servers. My last option is to add some malicious bots in a Sandbox environment and do the packet captures. Want to know if someone already has such samples or if they can point me to a better solution?",
+        "title": "Help: Need C2-botnet traffic pcaps.",
+        "score": 4,
+        "id": "83smyx",
+        "commsNum": 10,
+        "timeStamp": "2018/03/11-22:25:53",
+        "author_name": "kaizen_kid",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 10,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/83smyx/help_need_c2botnet_traffic_pcaps/"
+    },
+    "posts": {}
+}

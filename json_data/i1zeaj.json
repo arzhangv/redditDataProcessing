@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Thought I would get a freeware book keeping software package and play around with it today...  After I while I noticed my chunking pretty heavy and I went to process monitor - was CPU pegged, heavy hdd access read/writes, and heavy network usage.  \n\n\nDid three reboots, a scan with a couple AVs, opened taskmgr - same thing - heavy usage, ODD program names I've never seen in windows previous?  \"YourPhone\", \"Calculator\".. Heavy CPU usage in these apps, heavy file, heavy net.\n\nRecovered from a system restore point, removed the above software, not seeing anything now.  This all happened after I installed this software.  Checked boot services and startup programs to make sure I don't have anything from this starting when I boot my PC.  After doing this, it starts and I have no crazy usage anymore of my resources.  \nI scanned this file at VirusTotal - shows nothing is going on with it... I however am super suspect.  I have had a total of 1 virus in the last 15 yrs hit me, and I think this may have been my second.  \n\n\n\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*DANGER\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\n\nThis is the link to the sourceforge page for this software :  \n[https://sourceforge.net/projects/gnucash/files/gnucash%20%28stable%29/4.1/gnucash-4.1.setup.exe/download](https://sourceforge.net/projects/gnucash/files/gnucash%20%28stable%29/4.1/gnucash-4.1.setup.exe/download)",
+        "title": "GNUCash-4.1.setup.exe",
+        "score": 1,
+        "id": "i1zeaj",
+        "commsNum": 0,
+        "timeStamp": "2020/08/01-13:41:27",
+        "author_name": "humbleoverlord",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/i1zeaj/gnucash41setupexe/"
+    },
+    "posts": {}
+}

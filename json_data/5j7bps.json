@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "There have been a variety of sources (linked below) that have written up good analysis on the supposedly russian-based \"Dukes\" malware campaign,.. but I can't help but feeling I'm missing the bigger picture. Wondering if anyone knows of any better sources or more thorough/technical dissection of the code-samples and C&amp;C / network traffic. \n\nSources I've read already:... \n\nThe NYTimes article has some great detailed technical info: http://www.nytimes.com/2016/12/13/us/politics/russia-hack-election-dnc.html?_r=0\n\nRecordedFuture has done some good analysis here: https://www.recordedfuture.com/russian-apt-toolkits/\n\nF-Secure paper is here: https://labsblog.f-secure.com/2015/09/17/the-dukes-7-years-of-russian-cyber-espionage/\u2028\n\nSymantec analysis: https://www.symantec.com/connect/blogs/forkmeiamfamous-seaduke-latest-weapon-duke-armory\u2028\n\nDetailed code-anaylsis by SecureList: https://securelist.com/blog/research/69731/the-cozyduke-apt/\u2028\n\nWikipedia entry on the \"CozyBear\" APT: https://en.wikipedia.org/wiki/Cozy_Bear",
+        "title": "Where can I find thorough/good analysis of the supposed Russian \"Dukes\" (APT, CozyBear, etc) malware campaign ?",
+        "score": 20,
+        "id": "5j7bps",
+        "commsNum": 12,
+        "timeStamp": "2016/12/19-08:36:27",
+        "author_name": "jmnugent",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 12,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5j7bps/where_can_i_find_thoroughgood_analysis_of_the/"
+    },
+    "posts": {}
+}

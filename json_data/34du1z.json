@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Analysis of a MICROSOFT WORD INTRUDER sample: execution, check-in and payload delivery (x-Post from /r/netsec)",
+        "score": 8,
+        "id": "34du1z",
+        "commsNum": 0,
+        "timeStamp": "2015/04/30-03:09:52",
+        "author_name": "_0x3a_",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://blog.0x3a.com/post/117760824504/analysis-of-a-microsoft-word-intruder-sample"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Malware Samples and Decompiled Code of Destructive Attack against Ukraine",
+        "score": 1,
+        "id": "s63oir",
+        "commsNum": 0,
+        "timeStamp": "2022/01/17-05:09:18",
+        "author_name": "0x636f6f6c",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://github.com/cado-security/DFIR_Resources_Whispergate"
+    },
+    "posts": {}
+}

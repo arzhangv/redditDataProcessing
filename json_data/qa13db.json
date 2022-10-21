@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hi all, just a quick question. Not sure if I am in right location for this? \n\nWas looking for software to flash a microsd and went to a website that wasn't the \"real\" website. Downloaded the portable, which led to a URL shortener then an amazon server. I ran the software thinking it was the correct one (I am stupid) was \"Etcher\\_94570\" which spawned another service called \"HANGiBit.tmp\". It finally left me with a lnk file that pointed to nothing. It deleted itself as well after leaving the .lnk \n\nI did see that there was a lot of outbound TCP connections from the program but  I am still not entirely sure what the software did. I ran a full Windows Defender scan but nothing came up. Not sure if anyone has dealt with this before or if I should just do a clean install of Windows? Was it just a scan to see if I was vulnerable? \n\n&amp;#x200B;\n\nSome procmon screengrabs  \n\n[https://imgur.com/a/euMQf3P](https://imgur.com/a/euMQf3P)",
+        "title": "Etcher.net download",
+        "score": 1,
+        "id": "qa13db",
+        "commsNum": 0,
+        "timeStamp": "2021/10/17-08:36:13",
+        "author_name": "thehoodchef24",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/qa13db/etchernet_download/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "CryptoWall 4.0 being installed through a NSIS installer via Exploit Kits",
+        "score": 25,
+        "id": "3u9sy4",
+        "commsNum": 4,
+        "timeStamp": "2015/11/25-14:15:16",
+        "author_name": "lawrenceabrams",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.bleepingcomputer.com/news/security/cryptowall-4-0-discovered-being-installed-by-exploit-kits-using-a-nsis-installer/"
+    },
+    "posts": {}
+}

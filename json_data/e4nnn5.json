@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I shared the link pagaldaily .com to a groupme as a troll, but i tried to get back in to the app, and the groupme feed was blank.  I deleted groupme from my phone but now what do i do to make sure i am not infected?!  To clarify, I never actually visited the site, just sent a link to it.",
+        "title": "pagaldaily .com trojan virus",
+        "score": 1,
+        "id": "e4nnn5",
+        "commsNum": 1,
+        "timeStamp": "2019/12/01-13:01:19",
+        "author_name": "_h4ndshake",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/e4nnn5/pagaldaily_com_trojan_virus/"
+    },
+    "posts": {
+        "f9dpbks": {
+            "comment": "In my experience, GroupMe is glitchy as hell. Notifications don't always arrive on time or not at all, on the Windows desktop app, the UI just glitches and turns blank/white. \n\nTry the `web.groupme.com` site and see if it works. Could just be that GroupMe is glitchy as usual.",
+            "timeStamp": "2019/12/01-13:26:54",
+            "id": "f9dpbks",
+            "is_submitter": false,
+            "link_id": "t3_e4nnn5",
+            "parent_id": "t3_e4nnn5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Schnitzel725"
+        }
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "UC San Francisco pays $1.14 million for ransomware decryptor",
+        "score": 1,
+        "id": "hi9s3f",
+        "commsNum": 3,
+        "timeStamp": "2020/06/29-14:54:56",
+        "author_name": "DrinkMoreCodeMore",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.bleepingcomputer.com/news/security/uc-san-francisco-pays-114-million-for-ransomware-decryptor/"
+    },
+    "posts": {
+        "fx84hnm": {
+            "comment": "[removed]",
+            "timeStamp": "2020/07/07-10:37:15",
+            "id": "fx84hnm",
+            "is_submitter": false,
+            "link_id": "t3_hi9s3f",
+            "parent_id": "t3_hi9s3f",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fwgt2fk": {
+            "comment": "And the sad part is:\n1. a well implemented application white listing (or even a poorly configured one) can prevent many if not all RW from running.\n2. an off-site cloud based backup (think Code42's Crash Plan which supports encryption where they can't access the data) can allow an organisation from catching a Ransomware (by setting a sudden increase in file backup to the cloud) and recover easily from it.\n\nYes those two solutions are not cheap but definitely cheaper than 1.14 millions of dollars, the fines, the cost of Equifax protection (who got badly hacked btw) or the death of your business in the case of SMB.",
+            "timeStamp": "2020/06/30-04:52:56",
+            "id": "fwgt2fk",
+            "is_submitter": false,
+            "link_id": "t3_hi9s3f",
+            "parent_id": "t3_hi9s3f",
+            "score": 1,
+            "stickied": false,
+            "author_name": "d3vk47"
+        },
+        "fwfu0nu": {
+            "comment": "$1.14 million paid but how much money was lost in restoration efforts and downtime? I'm sure they probably offered a year or so of \"credit monitoring\" for students, too. \n\nThat's a serious price tag.",
+            "timeStamp": "2020/06/29-20:28:05",
+            "id": "fwfu0nu",
+            "is_submitter": false,
+            "link_id": "t3_hi9s3f",
+            "parent_id": "t3_hi9s3f",
+            "score": 3,
+            "stickied": false,
+            "author_name": "WadeEffingWilson"
+        }
+    }
+}

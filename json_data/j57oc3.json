@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "\n\n\nHi I got a question about auto renewal for avast, if I don\u2019t cancel the auto renewal are they going to charge me. But if the card low balance are they going to kept retry the card? If I cancel the subscription are they going to kept trying the card also?",
+        "title": "About auto renewal for avast",
+        "score": 1,
+        "id": "j57oc3",
+        "commsNum": 1,
+        "timeStamp": "2020/10/04-15:11:20",
+        "author_name": "Regular-Expensive",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/j57oc3/about_auto_renewal_for_avast/"
+    },
+    "posts": {
+        "g7qbkkl": {
+            "comment": "We're not a support forum mate, you should try r/techsupport . This sub is about Malware and research into malware itself.",
+            "timeStamp": "2020/10/04-15:38:41",
+            "id": "g7qbkkl",
+            "is_submitter": false,
+            "link_id": "t3_j57oc3",
+            "parent_id": "t3_j57oc3",
+            "score": 2,
+            "stickied": false,
+            "author_name": "MaatjeBroccoli"
+        }
+    }
+}

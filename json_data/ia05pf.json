@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "[removed]",
+        "title": "Does anyone know of any book length code analyses on some of the more well known malware?",
+        "score": 1,
+        "id": "ia05pf",
+        "commsNum": 7,
+        "timeStamp": "2020/08/14-20:12:29",
+        "author_name": "Grickites",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ia05pf/does_anyone_know_of_any_book_length_code_analyses/"
+    },
+    "posts": {
+        "g325a9a": {
+            "comment": "Many security companies publish reports of their analyses on more advanced malware - APTs, here are some examples:\n\n[[FireEye]APT38: Un-usual Suspects](https://app.cdn.lookbookhq.com/lbhq-production/10427/content/original/5de5022e-bbc4-4175-af8d-6bf8d4e48630/rpt-apt38-2018-web_v5.pdf)\n\n[[Mandiant]APT1:Exposing One of China\u2019s Cyber Espionage Units](https://www.fireeye.com/content/dam/fireeye-www/services/pdfs/mandiant-apt1-report.pdf)\n\nSince almost all malware in the wild is poorly designed, you'll find many different analyses from independent researchers - reverse engineers on various blogs or on YouTube, like [this guy](https://www.youtube.com/watch?v=Sv8yu12y5zM) who walks you through the REing of WannaCry using NSA's Ghidra.",
+            "timeStamp": "2020/08/27-13:05:45",
+            "id": "g325a9a",
+            "is_submitter": false,
+            "link_id": "t3_ia05pf",
+            "parent_id": "t3_ia05pf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "FF6B9EAD"
+        },
+        "g29jspp": {
+            "comment": "Do you mean assembly code or via the higher-level language (C like)? Unfortunately for analysts (and the morbidly curious) the source code for most malware is usually inaccessible, so we have to make do with disassembling it (using IDA or Ghidra for example) to get a better idea of how it works. For Wannacry, the best (I can imagine) you'll find is the publicly available Fuzzbunch exploits it implements [(all of which are available on GitHub)](https://github.com/fuzzbunch/fuzzbunch)\n\nOtherwise, there are a few studies out there that look into the assembly code of some high profile campaign binaries and what it means (the bigger picture of what that translates to at a higher level).",
+            "timeStamp": "2020/08/20-15:28:00",
+            "id": "g29jspp",
+            "is_submitter": false,
+            "link_id": "t3_ia05pf",
+            "parent_id": "t3_ia05pf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Fizzcarzi"
+        },
+        "g22q8co": {
+            "comment": "[removed]",
+            "timeStamp": "2020/08/18-23:02:20",
+            "id": "g22q8co",
+            "is_submitter": false,
+            "link_id": "t3_ia05pf",
+            "parent_id": "t3_ia05pf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "g1vqvdt": {
+            "comment": "I would love to see something like this!",
+            "timeStamp": "2020/08/17-09:59:13",
+            "id": "g1vqvdt",
+            "is_submitter": false,
+            "link_id": "t3_ia05pf",
+            "parent_id": "t3_ia05pf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "SyRex1013"
+        },
+        "g1pcccf": {
+            "comment": "Id be interested too.",
+            "timeStamp": "2020/08/15-20:48:07",
+            "id": "g1pcccf",
+            "is_submitter": false,
+            "link_id": "t3_ia05pf",
+            "parent_id": "t3_ia05pf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Sirjon8"
+        },
+        "g1ilrq0": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2020/08/14-20:12:30",
+            "id": "g1ilrq0",
+            "is_submitter": false,
+            "link_id": "t3_ia05pf",
+            "parent_id": "t3_ia05pf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

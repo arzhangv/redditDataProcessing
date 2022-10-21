@@ -1,0 +1,176 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "[removed]",
+        "title": "Solutions to running x86 OS VMs on the new M1X Macbook Pro?",
+        "score": 1,
+        "id": "qbpmn8",
+        "commsNum": 15,
+        "timeStamp": "2021/10/19-18:12:56",
+        "author_name": "explosiva",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 15,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/qbpmn8/solutions_to_running_x86_os_vms_on_the_new_m1x/"
+    },
+    "posts": {
+        "hlg9yjp": {
+            "comment": "Qemu\n\nUTM (qemu frontend thing)\n\nLima (qemu frontend thing too https://github.com/lima-vm/lima)",
+            "timeStamp": "2021/11/20-16:44:13",
+            "id": "hlg9yjp",
+            "is_submitter": false,
+            "link_id": "t3_qbpmn8",
+            "parent_id": "t3_qbpmn8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "guitmz"
+        },
+        "hhdwpcd": {
+            "comment": "Downvotes for this? In my home lab, I run VMs on an old iMAC a mbp 2019, a dell xps desktop and a surface pro 4 is in the mix for certain testing. That is all in a isolated lab I can jump into remotely. I require windows 7 to 11 and Unix and Linux variants. The power a single laptop might offer is not viable once I get into advanced testing including network attacks etc. \nAt my job, we do everything in the cloud.",
+            "timeStamp": "2021/10/20-10:30:28",
+            "id": "hhdwpcd",
+            "is_submitter": false,
+            "link_id": "t3_qbpmn8",
+            "parent_id": "t1_hhbdlza",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TEOsix"
+        },
+        "hhdf7ad": {
+            "comment": "Nice. Until /u/15charisnoteno mentioned it, I've never heard of UTM. QEMU, yes a long time ago. Thanks for the pointer!",
+            "timeStamp": "2021/10/20-08:35:06",
+            "id": "hhdf7ad",
+            "is_submitter": true,
+            "link_id": "t3_qbpmn8",
+            "parent_id": "t1_hhcjj8g",
+            "score": 2,
+            "stickied": false,
+            "author_name": "explosiva"
+        },
+        "hhdf1wq": {
+            "comment": "First time hearing of libvert. Thanks for the idea!",
+            "timeStamp": "2021/10/20-08:34:04",
+            "id": "hhdf1wq",
+            "is_submitter": true,
+            "link_id": "t3_qbpmn8",
+            "parent_id": "t1_hhcpy6j",
+            "score": 1,
+            "stickied": false,
+            "author_name": "explosiva"
+        },
+        "hhdeyux": {
+            "comment": "Prior to learning about UTM here, this was the solution I was considering. I may still go this route. Coincidentally, it's what I do with my work assigned laptop: hardwired and RDP from Mac.",
+            "timeStamp": "2021/10/20-08:33:29",
+            "id": "hhdeyux",
+            "is_submitter": true,
+            "link_id": "t3_qbpmn8",
+            "parent_id": "t1_hhdcx9m",
+            "score": 1,
+            "stickied": false,
+            "author_name": "explosiva"
+        },
+        "hhdeu5d": {
+            "comment": "I have never heard of this. I will try out on my current Mac and see if it's an acceptable solution. Thank you!",
+            "timeStamp": "2021/10/20-08:32:38",
+            "id": "hhdeu5d",
+            "is_submitter": true,
+            "link_id": "t3_qbpmn8",
+            "parent_id": "t1_hhbjpnj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "explosiva"
+        },
+        "hhdcx9m": {
+            "comment": "Can you put your lab on an old pc and rdp to it from your Mac ?",
+            "timeStamp": "2021/10/20-08:19:45",
+            "id": "hhdcx9m",
+            "is_submitter": false,
+            "link_id": "t3_qbpmn8",
+            "parent_id": "t3_qbpmn8",
+            "score": 3,
+            "stickied": false,
+            "author_name": "MajorUrsa2"
+        },
+        "hhcpy6j": {
+            "comment": "in addition to UTM that the other person mentioned, there is also libvert if you prefer a more daemonized system. it is more complicated, but once you get it set up you can just feed it XML files that describe the kind of VM you want to set up. combine that with something like cloud init which windows supports now and you can very easily spin up VMs without any user interaction.\n\nEDIT: My bad, it does not support cloud init it supports EC2 init. I knew that it had automated startup scripts, so I just assumed it was cloud init.",
+            "timeStamp": "2021/10/20-05:21:38",
+            "id": "hhcpy6j",
+            "is_submitter": false,
+            "link_id": "t3_qbpmn8",
+            "parent_id": "t1_hhbiddl",
+            "score": 2,
+            "stickied": false,
+            "author_name": "hi117"
+        },
+        "hhcjj8g": {
+            "comment": "Someone else posted the link but UTM can emulate x86 VMs. It basically provides a nice GUI for qemu because qemu is a pain with tons of cli flags and configurations. Super powerful but not beginner friendly.",
+            "timeStamp": "2021/10/20-04:13:50",
+            "id": "hhcjj8g",
+            "is_submitter": false,
+            "link_id": "t3_qbpmn8",
+            "parent_id": "t1_hhbiddl",
+            "score": 3,
+            "stickied": false,
+            "author_name": "hummelm10"
+        },
+        "hhbjpnj": {
+            "comment": "https://mac.getutm.app",
+            "timeStamp": "2021/10/19-20:35:45",
+            "id": "hhbjpnj",
+            "is_submitter": false,
+            "link_id": "t3_qbpmn8",
+            "parent_id": "t3_qbpmn8",
+            "score": 4,
+            "stickied": false,
+            "author_name": "15charisnoteno"
+        },
+        "hhbiddl": {
+            "comment": "Is this a solution you\u2019ve tried yourself? How would you rate the experience?",
+            "timeStamp": "2021/10/19-20:23:28",
+            "id": "hhbiddl",
+            "is_submitter": true,
+            "link_id": "t3_qbpmn8",
+            "parent_id": "t1_hhbgds1",
+            "score": 2,
+            "stickied": false,
+            "author_name": "explosiva"
+        },
+        "hhbgds1": {
+            "comment": "qemu",
+            "timeStamp": "2021/10/19-20:05:59",
+            "id": "hhbgds1",
+            "is_submitter": false,
+            "link_id": "t3_qbpmn8",
+            "parent_id": "t3_qbpmn8",
+            "score": 6,
+            "stickied": false,
+            "author_name": "kizzie1337"
+        },
+        "hhbdlza": {
+            "comment": "Just use a didferent mwchine from your mac.  Machines are cheap.  Birtual machines on clouds are cheap.  No reason you have to do jt from the device.",
+            "timeStamp": "2021/10/19-19:42:17",
+            "id": "hhbdlza",
+            "is_submitter": false,
+            "link_id": "t3_qbpmn8",
+            "parent_id": "t3_qbpmn8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Slateclean"
+        },
+        "hhb2byn": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators **and be sure to include the link to the post** - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2021/10/19-18:12:57",
+            "id": "hhb2byn",
+            "is_submitter": false,
+            "link_id": "t3_qbpmn8",
+            "parent_id": "t3_qbpmn8",
+            "score": -4,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

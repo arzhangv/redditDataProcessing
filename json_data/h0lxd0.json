@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": 0.67,
+        "selftext": "Hey there, I\u2019m not sure if this is the right place to ask, excuse me if not.\n\nI\u2019m doing some private research on malware infected website. Most interesting are infected WordPress Sites, but I\u2019m looking into everything I can get my hands on. \n\nSo if you have any infected files/cms or other good resources it would be very much appreciated if I could get my hands on them. Thx!",
+        "title": "Looking for Malware examples, specifically infected websites",
+        "score": 2,
+        "id": "h0lxd0",
+        "commsNum": 3,
+        "timeStamp": "2020/06/10-15:28:51",
+        "author_name": "theKuke",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/h0lxd0/looking_for_malware_examples_specifically/"
+    },
+    "posts": {
+        "gdrcsu3": {
+            "comment": "IDK if this is a website, but this weird-looking link I found on Google brings you to malicious ads, be it the \"Your Computer is Infected\" scams, porn ads, survey scams, dating scams, etc. (**malware warning: do not click**) : \n\n[http://rftech.custhelp.com/app/answers/detail/a\\_id/63/\\~/how-do-speakers-get-blown%3F-why-do-they-sound-distorted%3F](http://rftech.custhelp.com/app/answers/detail/a_id/63/~/how-do-speakers-get-blown%3F-why-do-they-sound-distorted%3F)\n\nIDK why they think it's a good idea to make a random infected website and make sure the redirect works. Sounds like malicious adware.",
+            "timeStamp": "2020/11/27-04:28:30",
+            "id": "gdrcsu3",
+            "is_submitter": false,
+            "link_id": "t3_h0lxd0",
+            "parent_id": "t3_h0lxd0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "yuki93920noirnoggat"
+        },
+        "fupkvrj": {
+            "comment": "[https://zeltser.com/malicious-ip-blocklists/](https://zeltser.com/malicious-ip-blocklists/)",
+            "timeStamp": "2020/06/13-08:38:19",
+            "id": "fupkvrj",
+            "is_submitter": false,
+            "link_id": "t3_h0lxd0",
+            "parent_id": "t3_h0lxd0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "packmad"
+        },
+        "ftolgua": {
+            "comment": "GitHub tends to be a good place for this, many researchers post their stuff on their.",
+            "timeStamp": "2020/06/11-03:42:31",
+            "id": "ftolgua",
+            "is_submitter": false,
+            "link_id": "t3_h0lxd0",
+            "parent_id": "t3_h0lxd0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "CGKL25"
+        },
+        "ftnt7x2": {
+            "comment": "[deleted]",
+            "timeStamp": "2020/06/10-20:55:24",
+            "id": "ftnt7x2",
+            "is_submitter": false,
+            "link_id": "t3_h0lxd0",
+            "parent_id": "t3_h0lxd0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ftn63e2": {
+            "comment": "[removed]",
+            "timeStamp": "2020/06/10-17:18:40",
+            "id": "ftn63e2",
+            "is_submitter": false,
+            "link_id": "t3_h0lxd0",
+            "parent_id": "t3_h0lxd0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

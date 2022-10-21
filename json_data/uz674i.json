@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "A detailed analysis of Chinese ELMER backdoor",
+        "score": 1,
+        "id": "uz674i",
+        "commsNum": 0,
+        "timeStamp": "2022/05/27-12:47:21",
+        "author_name": "CyberMasterV",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://cybergeeks.tech/a-detailed-analysis-of-elmer-backdoor-used-by-apt16/"
+    },
+    "posts": {
+        "iaacclo": {
+            "comment": "OP didn't have enough karma to post it at that time. I make 0$ out of this blog, it's my personal research which I wanted to share with the community. Thanks for your \"kind\" words.",
+            "timeStamp": "2022/05/27-23:41:53",
+            "id": "iaacclo",
+            "is_submitter": true,
+            "link_id": "t3_uz674i",
+            "parent_id": "t1_ia8yc19",
+            "score": 1,
+            "stickied": false,
+            "author_name": "CyberMasterV"
+        },
+        "ia9qhf8": {
+            "comment": "No clue. Op just reposting old shit like this to many subs. Seems like a bot.",
+            "timeStamp": "2022/05/27-19:40:43",
+            "id": "ia9qhf8",
+            "is_submitter": false,
+            "link_id": "t3_uz674i",
+            "parent_id": "t1_ia8yc19",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Bisping"
+        },
+        "ia8yc19": {
+            "comment": "Why 1.5 year old post being reshared? Is this what they call marketing these days, probably branded as \"content repurposing\" or some bs ...",
+            "timeStamp": "2022/05/27-15:36:06",
+            "id": "ia8yc19",
+            "is_submitter": false,
+            "link_id": "t3_uz674i",
+            "parent_id": "t3_uz674i",
+            "score": 1,
+            "stickied": false,
+            "author_name": "chillfactor0"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "This guy from the same email address keeps emailing me links, that very obviously look like a link to some page running an exploit kit of some kind. Here is a virustotal report of the full url. Any idea why this is being sent to me and what is on this page?\nHere is the virustotal link: https://www.virustotal.com/en/url/f85d409799c500ea628e41eee8ba7f5eae1bac405bf0b46a27fe88a337a93710/analysis/1468855533/",
+        "title": "What are these links I keep getting via email? Possible link to site running exploit kit.",
+        "score": 2,
+        "id": "4tjnr2",
+        "commsNum": 2,
+        "timeStamp": "2016/07/18-23:06:32",
+        "author_name": "netscape101",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/4tjnr2/what_are_these_links_i_keep_getting_via_email/"
+    },
+    "posts": {}
+}

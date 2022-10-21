@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I heard it was complied using Visual C++ 6.0. Is there a reason behind this",
+        "title": "Wannacry",
+        "score": 0,
+        "id": "cc9cby",
+        "commsNum": 2,
+        "timeStamp": "2019/07/12-03:54:01",
+        "author_name": "poezda",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/cc9cby/wannacry/"
+    },
+    "posts": {
+        "ev66up6": {
+            "comment": "[removed]",
+            "timeStamp": "2019/07/27-09:00:40",
+            "id": "ev66up6",
+            "is_submitter": false,
+            "link_id": "t3_cc9cby",
+            "parent_id": "t3_cc9cby",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "etle7at": {
+            "comment": "It works.",
+            "timeStamp": "2019/07/12-05:13:44",
+            "id": "etle7at",
+            "is_submitter": false,
+            "link_id": "t3_cc9cby",
+            "parent_id": "t3_cc9cby",
+            "score": 8,
+            "stickied": false,
+            "author_name": "cym13"
+        }
+    }
+}

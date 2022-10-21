@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "How to understand and exploit Linux kernel to make malware?",
+        "score": 1,
+        "id": "ha7gpm",
+        "commsNum": 1,
+        "timeStamp": "2020/06/16-09:36:35",
+        "author_name": "opcoderx90",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "/r/LiveOverflow/comments/ha79of/how_to_understand_and_exploit_linux_kernel_to/"
+    },
+    "posts": {
+        "fv0zru0": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2020/06/16-09:36:36",
+            "id": "fv0zru0",
+            "is_submitter": false,
+            "link_id": "t3_ha7gpm",
+            "parent_id": "t3_ha7gpm",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

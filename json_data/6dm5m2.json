@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Just earlier I started seeing a chrome alert appear on some chrome tabs, saying \"Your computer is infected.  You have to check it with antivirus.\"\n\nI tracked down the source, and it's coming from a script named \"alert10.js\" or something within the Infinity New Tab chrome extension.  It also appears to be sending possibly sensitive information such as cookies and url history, though at this point I decided to stop and kill the extension before it got ahold of any other information, so I couldn't confirm the payloads it was sending.\n\nDisable it immediately, and kill the Chrome process (just quit the app safely if you can) and then open it again.  This is to make sure there are no other threads running in the background that still have the code loaded up.\n\nAppears the latest update to it was 25 minutes ago since posting this, and hopefully it's already shut down by the Chrome team.",
+        "title": "The \"Infinity New Tab\" Chrome Extension appears to have been compromised and is apparently running a malware script",
+        "score": 47,
+        "id": "6dm5m2",
+        "commsNum": 19,
+        "timeStamp": "2017/05/26-22:55:43",
+        "author_name": "IHeartMustard",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 19,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6dm5m2/the_infinity_new_tab_chrome_extension_appears_to/"
+    },
+    "posts": {}
+}

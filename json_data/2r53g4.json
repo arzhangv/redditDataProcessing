@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "EDIT: Software for Automated Spam/Malware Campaign Analysis\n\nI have been searching around the net for the last couple of days... Looking to setup some email addresses that are automatically monitored and the emails dissected and stored.  I am thinking of importing the data with Logstash and visualizing in Kibana. Over time, I would like to setup a network of addresses with different TLDs that are fed into the system.  Would like to hash or do high level analysis of attachments, obviously header information, and store any links/IPs in the address.\n\nLooking for any direction on software or ideas from the masses. I have multiple OS' running in my homelab, so that will not be an issue. Thanks!",
+        "title": "Software for Automated Spam Analysis",
+        "score": 6,
+        "id": "2r53g4",
+        "commsNum": 2,
+        "timeStamp": "2015/01/02-13:58:25",
+        "author_name": "apt64",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2r53g4/software_for_automated_spam_analysis/"
+    },
+    "posts": {}
+}

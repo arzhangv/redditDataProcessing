@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Part of my job requires me to ensure that a system is not compromised, and if it is, to what extent.  Recently I had several workstations get some malware, mostly adware, and I need to find out what information these pieces of malware usually report back.  Is there a site that has a repository of malware and their usual MO?",
+        "title": "Malware information site?",
+        "score": 6,
+        "id": "39xhz6",
+        "commsNum": 7,
+        "timeStamp": "2015/06/15-09:33:56",
+        "author_name": "UndeniablyRexer",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/39xhz6/malware_information_site/"
+    },
+    "posts": {}
+}

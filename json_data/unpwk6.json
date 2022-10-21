@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "How do I remove this Properties extension on my google chrome. I bieleve it is the main cause to why my chrome redirects my searches to bing and everytime I remove the extension, it restarts chrome and reinstalls itself. Please help me",
+        "title": "Properties extension malware on google chrome",
+        "score": 1,
+        "id": "unpwk6",
+        "commsNum": 0,
+        "timeStamp": "2022/05/11-18:58:31",
+        "author_name": "xdasianbou",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/unpwk6/properties_extension_malware_on_google_chrome/"
+    },
+    "posts": {
+        "i8d66sm": {
+            "comment": "[removed]",
+            "timeStamp": "2022/05/12-13:37:16",
+            "id": "i8d66sm",
+            "is_submitter": false,
+            "link_id": "t3_unpwk6",
+            "parent_id": "t1_i8aleqr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "i8aleqr": {
+            "comment": "Not a support subreddit",
+            "timeStamp": "2022/05/12-01:18:48",
+            "id": "i8aleqr",
+            "is_submitter": false,
+            "link_id": "t3_unpwk6",
+            "parent_id": "t3_unpwk6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Rakanisheu"
+        }
+    }
+}

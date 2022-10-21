@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Since 25 January 2022, a QNAP NAS operating system vulnerability has been leveraged to spread the Deadbolt ransomware to internet connected devices, with affected devices likely in the thousands. The attack itself is fairly conventional, but does have one interesting quirk - on payment of the bitcoin ransom to an address (unique to each victim), the ransomers will distribute a 32 character hex string back to the same address by using the OP\\_RETURN transaction field.  \n\n\nThe result of this methodology is that all of the decryption keys released in relation to the ransomware are publicly available. I am fairly confident that the level of competence exhibited in the rest of the campaign would not be paired with a fundamental mistake like having a predictable keygen method, but this did cause me to realise I know so little about this topic I don't even know where to go to start reading up on it. I remember old software often being pirated through someone reverse engineering a license key and then generating future valid keys, and that's the idea I'm interested in. \n\n&amp;#x200B;\n\nCan anyone point me towards are resources, terminology or tools that are relevant to this type of analysis?",
+        "title": "DeadBolt Ransomware - How to identify bad RNG in key generation",
+        "score": 1,
+        "id": "so6d2n",
+        "commsNum": 1,
+        "timeStamp": "2022/02/08-22:06:51",
+        "author_name": "oliver_-_-_",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/so6d2n/deadbolt_ransomware_how_to_identify_bad_rng_in/"
+    },
+    "posts": {
+        "hwctg29": {
+            "comment": "Thanks for the link, unfortunately keygen isn't client side, so can't RE the algorithm directly",
+            "timeStamp": "2022/02/10-03:46:56",
+            "id": "hwctg29",
+            "is_submitter": true,
+            "link_id": "t3_so6d2n",
+            "parent_id": "t1_hw8f5m9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "oliver_-_-_"
+        },
+        "hwa57fa": {
+            "comment": "[removed]",
+            "timeStamp": "2022/02/09-13:43:39",
+            "id": "hwa57fa",
+            "is_submitter": false,
+            "link_id": "t3_so6d2n",
+            "parent_id": "t3_so6d2n",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hw8f5m9": {
+            "comment": "https://www.c-sharpcorner.com/article/how-to-reverse-engineering-using-ollydbg/",
+            "timeStamp": "2022/02/09-07:19:50",
+            "id": "hw8f5m9",
+            "is_submitter": false,
+            "link_id": "t3_so6d2n",
+            "parent_id": "t3_so6d2n",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Brydart"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": null,
+        "title": "LeakerLocker Mobile Ransomware Threatens to Expose User Information",
+        "score": 31,
+        "id": "6qy8jc",
+        "commsNum": 1,
+        "timeStamp": "2017/08/01-11:31:21",
+        "author_name": "brokercx",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://blog.trendmicro.com/trendlabs-security-intelligence/leakerlocker-mobile-ransomware-threatens-expose-user-information/"
+    },
+    "posts": {
+        "dl247sq": {
+            "comment": "I was afraid of something like this happening on Android. People are very clumsy when it comes to rights and app checking. Allowing simple text or news applications full access to their mobile, leading to these issues. Personal information leak is obviously not fun at all, but awareness for these issues need to be raised to a majority of the public.",
+            "timeStamp": "2017/08/02-06:20:10",
+            "id": "dl247sq",
+            "is_submitter": false,
+            "link_id": "t3_6qy8jc",
+            "parent_id": "t3_6qy8jc",
+            "score": 2,
+            "stickied": false,
+            "author_name": "JoshRosserino"
+        }
+    }
+}

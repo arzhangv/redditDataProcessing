@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Cyber Attacks and their Importance in the US-Russia New Cold War",
+        "score": 10,
+        "id": "ba2gm1",
+        "commsNum": 1,
+        "timeStamp": "2019/04/06-01:56:11",
+        "author_name": "carloscancab",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://medium.com/@cybersecurecentral/from-our-forums-russian-cyber-attacks-and-the-new-cold-war-5cc20ed7923c"
+    },
+    "posts": {
+        "ek9nco3": {
+            "comment": "\"The Russian are in my teeth!\"",
+            "timeStamp": "2019/04/06-12:47:59",
+            "id": "ek9nco3",
+            "is_submitter": false,
+            "link_id": "t3_ba2gm1",
+            "parent_id": "t3_ba2gm1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Fraidnot"
+        }
+    }
+}

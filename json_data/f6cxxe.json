@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Antivirus software could be made to detect malware without ever opening a file and humans could see it too which is important and could change all computers to safe if a size stamp when a file description is generated for the first time, this would allow any users to see if the file has been altered. there also should be total of each byte added together and added to the file description. these two prperties would give a good indication the file has no malware etc... the stamps could be added to the end of a filename and ommited from display unless you choose to see them. then if the file size is differrent or the total is differrent you can see before you run it.",
+        "title": "malware detection",
+        "score": 1,
+        "id": "f6cxxe",
+        "commsNum": 6,
+        "timeStamp": "2020/02/19-08:16:27",
+        "author_name": "ironsnow9",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/f6cxxe/malware_detection/"
+    },
+    "posts": {
+        "fi452fl": {
+            "comment": "It's good to look at time stamps for possibly changed files, but because metadata like filenames and timestamps can be tampered it's not enough.",
+            "timeStamp": "2020/02/19-09:42:10",
+            "id": "fi452fl",
+            "is_submitter": false,
+            "link_id": "t3_f6cxxe",
+            "parent_id": "t3_f6cxxe",
+            "score": 1,
+            "stickied": false,
+            "author_name": "plinking_zombies"
+        },
+        "fi43mh4": {
+            "comment": "As others mentioned, this is somewhat similar to the concept of file hashing to verify file integrity, but it\u2019s not malware detection and mitigation. But keep working on it, reading, studying, and thinking about malware, analysis and related and your knowledge will increase!",
+            "timeStamp": "2020/02/19-09:28:20",
+            "id": "fi43mh4",
+            "is_submitter": false,
+            "link_id": "t3_f6cxxe",
+            "parent_id": "t3_f6cxxe",
+            "score": 1,
+            "stickied": false,
+            "author_name": "pyorre"
+        },
+        "fi3yryi": {
+            "comment": "&gt;  software could be made to detect malware without ever opening a file \n\nSo, just by meta data on that file? No, no it couldnt.",
+            "timeStamp": "2020/02/19-08:41:10",
+            "id": "fi3yryi",
+            "is_submitter": false,
+            "link_id": "t3_f6cxxe",
+            "parent_id": "t3_f6cxxe",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ptchinster"
+        },
+        "fi3y824": {
+            "comment": "[removed]",
+            "timeStamp": "2020/02/19-08:35:46",
+            "id": "fi3y824",
+            "is_submitter": false,
+            "link_id": "t3_f6cxxe",
+            "parent_id": "t3_f6cxxe",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fi3xz1x": {
+            "comment": "Sir this is a Wendy\u2019s",
+            "timeStamp": "2020/02/19-08:33:19",
+            "id": "fi3xz1x",
+            "is_submitter": false,
+            "link_id": "t3_f6cxxe",
+            "parent_id": "t3_f6cxxe",
+            "score": 1,
+            "stickied": false,
+            "author_name": "bunby_heli"
+        },
+        "fi3wtf9": {
+            "comment": "Wut?",
+            "timeStamp": "2020/02/19-08:21:54",
+            "id": "fi3wtf9",
+            "is_submitter": false,
+            "link_id": "t3_f6cxxe",
+            "parent_id": "t3_f6cxxe",
+            "score": 1,
+            "stickied": false,
+            "author_name": "me_me_me"
+        }
+    }
+}

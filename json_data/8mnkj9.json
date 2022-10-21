@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Experts noticed an ongoing activity involving the RIG Exploit Kit to deliver the Grobios Trojan",
+        "score": 1,
+        "id": "8mnkj9",
+        "commsNum": 0,
+        "timeStamp": "2018/05/27-22:00:19",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://securityaffairs.co/wordpress/72954/malware/rig-exploit-kit-grobios-campaign.html"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Malware attack starts with a fake customer-service call",
+        "score": 26,
+        "id": "5d0umh",
+        "commsNum": 3,
+        "timeStamp": "2016/11/14-21:16:55",
+        "author_name": "jimmyradola",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.computerworld.com/article/3141735/security/malware-attack-starts-with-a-fake-customer-service-call.html"
+    },
+    "posts": {}
+}

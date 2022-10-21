@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Karius - A new banking Trojan under development",
+        "score": 2,
+        "id": "8p96ih",
+        "commsNum": 1,
+        "timeStamp": "2018/06/07-03:21:31",
+        "author_name": "ynvb",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://research.checkpoint.com/banking-trojans-development/"
+    },
+    "posts": {
+        "e2xve88": {
+            "comment": "It really looks as a traditional banking trojan. It is so unfortunate, but these trojans can make big money and people behind them are not easily trackable",
+            "timeStamp": "2018/07/24-05:21:40",
+            "id": "e2xve88",
+            "is_submitter": false,
+            "link_id": "t3_8p96ih",
+            "parent_id": "t3_8p96ih",
+            "score": 1,
+            "stickied": false,
+            "author_name": "JoshRosserino"
+        }
+    }
+}

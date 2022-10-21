@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Cryptojacking Macs: 'mshelper' cryptominer malware targeting macOS",
+        "score": 2,
+        "id": "8nthdu",
+        "commsNum": 0,
+        "timeStamp": "2018/06/01-09:54:05",
+        "author_name": "NetworkMeUp",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.macobserver.com/news/psa-mshelper-cryptominer-malware-targets-macs/"
+    },
+    "posts": {}
+}

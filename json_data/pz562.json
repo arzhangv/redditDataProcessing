@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Decrypting embedded encrypted executables",
+        "score": 5,
+        "id": "pz562",
+        "commsNum": 0,
+        "timeStamp": "2012/02/21-01:34:31",
+        "author_name": "pwnwaffe",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": null,
+        "url": "http://blog.malwaretracker.com/2012/02/decrypting-embedded-encrypted.html"
+    },
+    "posts": {}
+}

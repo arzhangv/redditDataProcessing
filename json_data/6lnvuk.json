@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I've only analysed a handful of malware samples, but in many of them, I'm seeing the 4 characters SXPF.  The malware samples are completely different and obtained from different sources, except for SXPF.  \n\n",
+        "title": "Noob Question, what is SXPF?",
+        "score": 11,
+        "id": "6lnvuk",
+        "commsNum": 6,
+        "timeStamp": "2017/07/06-11:48:50",
+        "author_name": "DeathByHugz",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6lnvuk/noob_question_what_is_sxpf/"
+    },
+    "posts": {
+        "dk9gqxu": {
+            "comment": "FYI that's not an address but just the hex representation of that string.",
+            "timeStamp": "2017/07/15-11:28:40",
+            "id": "dk9gqxu",
+            "is_submitter": false,
+            "link_id": "t3_6lnvuk",
+            "parent_id": "t1_dk4uygp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "hypervis0r"
+        },
+        "dk4uygp": {
+            "comment": "The malware in the screenshot above's md5 is cd120cc2a69c922f97ed2a55a967e910.  \n\nI don't think the Ascii \"SXPF\" is very important, but the hex address 0x46505853 is.  When I plugged the address into google, I started seeing searches similar to SXPF.  ",
+            "timeStamp": "2017/07/12-12:54:46",
+            "id": "dk4uygp",
+            "is_submitter": true,
+            "link_id": "t3_6lnvuk",
+            "parent_id": "t1_dk39tc4",
+            "score": 2,
+            "stickied": false,
+            "author_name": "DeathByHugz"
+        },
+        "dk39tc4": {
+            "comment": "Odd, do you have hashes or names/family names of the different malware you've found with it? \n\nNothing stands out to me in your picture, but I'm no expert either!",
+            "timeStamp": "2017/07/11-14:08:59",
+            "id": "dk39tc4",
+            "is_submitter": false,
+            "link_id": "t3_6lnvuk",
+            "parent_id": "t1_djw34h0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Sam-Gunn"
+        },
+        "djw34h0": {
+            "comment": "See, that was my initial guess.  But the characters don't appear unless it is being disassembled.  [example](http://imgur.com/5PxfhaW)",
+            "timeStamp": "2017/07/06-22:47:12",
+            "id": "djw34h0",
+            "is_submitter": true,
+            "link_id": "t3_6lnvuk",
+            "parent_id": "t1_djvvzqs",
+            "score": 2,
+            "stickied": false,
+            "author_name": "DeathByHugz"
+        },
+        "djvvzva": {
+            "comment": "**XML Shareable Playlist Format**\n\nXML Shareable Playlist Format (XSPF), pronounced spiff, is an XML-based playlist format for digital media, sponsored by the Xiph.Org Foundation.\n\nXSPF is a file format for sharing the kind of playlist that can be played on a personal computer or portable device. In the same way that any user on any computer can open any Web page, XSPF is intended to provide portability for playlists.\n\n***\n\n^[ [^PM](https://www.reddit.com/message/compose?to=kittens_from_space) ^| [^Exclude ^me](https://reddit.com/message/compose?to=WikiTextBot&amp;message=Excludeme&amp;subject=Excludeme) ^| [^Exclude ^from ^subreddit](https://np.reddit.com/r/Malware/about/banned) ^| [^FAQ ^/ ^Information](https://np.reddit.com/r/WikiTextBot/wiki/index) ^| [^Source](https://github.com/kittenswolf/WikiTextBot)   ^]\n^Downvote ^to ^remove ^| ^v0.24",
+            "timeStamp": "2017/07/06-19:48:54",
+            "id": "djvvzva",
+            "is_submitter": false,
+            "link_id": "t3_6lnvuk",
+            "parent_id": "t1_djvvzqs",
+            "score": 3,
+            "stickied": false,
+            "author_name": "WikiTextBot"
+        },
+        "djvvzqs": {
+            "comment": "https://en.wikipedia.org/wiki/XML_Shareable_Playlist_Format",
+            "timeStamp": "2017/07/06-19:48:49",
+            "id": "djvvzqs",
+            "is_submitter": false,
+            "link_id": "t3_6lnvuk",
+            "parent_id": "t3_6lnvuk",
+            "score": 2,
+            "stickied": false,
+            "author_name": "PirateGrievous"
+        }
+    }
+}

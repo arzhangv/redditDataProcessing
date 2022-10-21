@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I open a lot of malware/potential malware every day. For me, the quickest way to make a determination on a file is often to simply watch it run with my dynamic tools. This is also what tools like Cuckoo and VxStream do. However, as you probably know, problems occur when a file won't load. This is quite a common occurrence due to dependancies and such (xyz.dll is missing or some other reason like wrong lab OS). My question is, what other suggestions do you have to make a quick determination (\"is it malware or not\"; no classification into category needed) on a file that won't load but which is obviously a functioning file *in some cases on some systems*?\n\nIn other words, if a file won't load at all *on any system ever*, then it can't be malware because it will never actually run unless it's a library exporting malicious code ofc. However, just because the lab comp doesnt have the dependancies doesn't mean that this isn't malware. So thus, as an analyst, we have to be able to overcome this but not take all day to do so. So far I use meta info and strings usually. If it's very stubborn or I get suspicious, I'll open it in IDA, dnSpy, or HxD or something too.",
+        "title": "Quick dynamic analysis alternatives?",
+        "score": 12,
+        "id": "6mw9ye",
+        "commsNum": 2,
+        "timeStamp": "2017/07/12-12:25:16",
+        "author_name": "null_endian",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6mw9ye/quick_dynamic_analysis_alternatives/"
+    },
+    "posts": {
+        "dk6domg": {
+            "comment": "Got it, thanks man!",
+            "timeStamp": "2017/07/13-10:57:07",
+            "id": "dk6domg",
+            "is_submitter": true,
+            "link_id": "t3_6mw9ye",
+            "parent_id": "t1_dk5a049",
+            "score": 1,
+            "stickied": false,
+            "author_name": "null_endian"
+        },
+        "dk5a049": {
+            "comment": "Write a script that watches cuckoo output for failed runs then run that file against signature based tools like yara, oioc, etc. We made something proprietary to do this. Took about a month to get it all setup and now we use a few different signature repos that can be loaded to run based on attributes of the file like header, etc. I'll ask if I can opensource any of the code but I think I'll be stuck in legal purgatory.",
+            "timeStamp": "2017/07/12-17:52:16",
+            "id": "dk5a049",
+            "is_submitter": false,
+            "link_id": "t3_6mw9ye",
+            "parent_id": "t3_6mw9ye",
+            "score": 2,
+            "stickied": false,
+            "author_name": "toosweetnitemare"
+        }
+    }
+}

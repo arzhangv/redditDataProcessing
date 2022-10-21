@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Malware often incorporates rootkits for persistent presence, encryption to prevent reverse engineering, and code to mask the presence of malware from the system user",
+        "score": 6,
+        "id": "413xo8",
+        "commsNum": 0,
+        "timeStamp": "2016/01/15-08:59:16",
+        "author_name": "Damian1Alejandro5_",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://icitech.org/hackinghealth16/"
+    },
+    "posts": {}
+}

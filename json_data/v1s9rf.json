@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Warning: Chrome Loader Targets Browser With Malicious ISO Files",
+        "score": 1,
+        "id": "v1s9rf",
+        "commsNum": 0,
+        "timeStamp": "2022/05/31-08:01:35",
+        "author_name": "Dip14099",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.theinsaneapp.com/2022/05/chrome-loader-targets-browser-with-malicious-iso-files.html"
+    },
+    "posts": {
+        "iaq3n4s": {
+            "comment": "[removed]",
+            "timeStamp": "2022/05/31-16:51:17",
+            "id": "iaq3n4s",
+            "is_submitter": false,
+            "link_id": "t3_v1s9rf",
+            "parent_id": "t3_v1s9rf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

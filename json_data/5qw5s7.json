@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi everyone,\n\nI have heard several people recently refer to the use of \"Phishing\" emails to spread ransomware, they are referring to the use of malicious attachments on emails (eg you have missed a delivery, so here is parcel.doc.js with the details).\n\nI am having a \"discussion\" with them to highlight that this is the wrong use of the word, as these emails are not trying to phish any information/details from you. Instead they are actually giving you something, a malicious attachment.\n\nWhat do you lot think, should we refer to these type of emails as \"Phishing\", \"Malicious Spam (MalSpam)\" or something else?\n\nI am probably overthinking this but i have had to correct so many people when they call something a \"virus\" when they mean malware. i don't want us to be correcting these people in 20 years time as well.",
+        "title": "Phishing or MalSpam - help settle an argument",
+        "score": 1,
+        "id": "5qw5s7",
+        "commsNum": 6,
+        "timeStamp": "2017/01/29-13:09:33",
+        "author_name": "peter_mack",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5qw5s7/phishing_or_malspam_help_settle_an_argument/"
+    },
+    "posts": {}
+}

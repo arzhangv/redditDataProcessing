@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Interesting tactic by Ratty &amp; Adwind for distribution of JAR appended to signed MSI - Securityinbits",
+        "score": 9,
+        "id": "hrg6bv",
+        "commsNum": 0,
+        "timeStamp": "2020/07/14-20:26:31",
+        "author_name": "anuraggawande",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.securityinbits.com/malware-analysis/interesting-tactic-by-ratty-adwind-distribution-of-jar-appended-to-signed-msi/"
+    },
+    "posts": {}
+}

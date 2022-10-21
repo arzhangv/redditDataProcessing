@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "The badness installer script: https://pastebin.com/Zwq0KxFA\n\nThe perl decoded, to their IRC channel of botnet c2:\n\nadm=modem,city \n\nchan=##lols \n\nchanpass=CCDNJcndjk556 \n\nnick=modem|$num \n\nircname=linux \n\nrealnam=linux.root \n\nhost=modems.pw:58602",
+        "title": "Multi platform modems/routers infected nodes in ddoser IRC channel CNC",
+        "score": 2,
+        "id": "452z32",
+        "commsNum": 6,
+        "timeStamp": "2016/02/10-06:36:10",
+        "author_name": "mmd0xFF",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/452z32/multi_platform_modemsrouters_infected_nodes_in/"
+    },
+    "posts": {}
+}

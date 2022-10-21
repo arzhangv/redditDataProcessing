@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Apk Downloader from CNET.com containing malware",
+        "score": 33,
+        "id": "6noga3",
+        "commsNum": 5,
+        "timeStamp": "2017/07/16-13:28:20",
+        "author_name": "brokercx",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://vulnerablelife.wordpress.com/2017/07/16/apk-downloader-from-cnet-com-containing-malware/"
+    },
+    "posts": {
+        "dkc6jo0": {
+            "comment": "Every user in Germany seems to download crap from chip{dot}de and not the real site.\n\nThey bundle so much adware and malware with their \"custom\" downloads.",
+            "timeStamp": "2017/07/17-09:20:47",
+            "id": "dkc6jo0",
+            "is_submitter": false,
+            "link_id": "t3_6noga3",
+            "parent_id": "t1_dkbwin8",
+            "score": 2,
+            "stickied": false,
+            "author_name": "WOLF3D_exe"
+        },
+        "dkbwin8": {
+            "comment": "There is a reason why no sane person will ever recommend anything from CNET. It's a massive malware host site. Sure, some files are legitimate and maybe even useful, but in the grand scheme of things, it's just ridiculous that it still exists and people still download the software or fall for malware traps from this provider.",
+            "timeStamp": "2017/07/17-05:52:17",
+            "id": "dkbwin8",
+            "is_submitter": false,
+            "link_id": "t3_6noga3",
+            "parent_id": "t3_6noga3",
+            "score": 2,
+            "stickied": false,
+            "author_name": "JoshRosserino"
+        },
+        "dkbup3t": {
+            "comment": "Lastline score 80/100... wow",
+            "timeStamp": "2017/07/17-04:56:16",
+            "id": "dkbup3t",
+            "is_submitter": false,
+            "link_id": "t3_6noga3",
+            "parent_id": "t3_6noga3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "raistmaj"
+        },
+        "dkb8qbu": {
+            "comment": "For future reference, it's helpful to add in plain text the md5 or sha256 hash so we can copy them into the tooling, rather than from an image, or having to download a live sample.",
+            "timeStamp": "2017/07/16-17:06:04",
+            "id": "dkb8qbu",
+            "is_submitter": false,
+            "link_id": "t3_6noga3",
+            "parent_id": "t3_6noga3",
+            "score": 9,
+            "stickied": false,
+            "author_name": "aydiosmio"
+        },
+        "dkazbh2": {
+            "comment": "[deleted]",
+            "timeStamp": "2017/07/16-13:38:29",
+            "id": "dkazbh2",
+            "is_submitter": false,
+            "link_id": "t3_6noga3",
+            "parent_id": "t1_dkaywgg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "dkaywgg": {
+            "comment": "cnet has been distributing malware for quite a long time now.",
+            "timeStamp": "2017/07/16-13:29:29",
+            "id": "dkaywgg",
+            "is_submitter": false,
+            "link_id": "t3_6noga3",
+            "parent_id": "t3_6noga3",
+            "score": 27,
+            "stickied": false,
+            "author_name": "newscode"
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "All the icons changed just recently after I installed paragon mod menu",
+        "score": 1,
+        "id": "hfj4xr",
+        "commsNum": 2,
+        "timeStamp": "2020/06/25-02:27:37",
+        "author_name": "Lucky12503",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://i.redd.it/uaftgat2z0751.jpg"
+    },
+    "posts": {
+        "fwj5g1x": {
+            "comment": "Paragons not adware \ud83e\udd2a\ud83d\ude02",
+            "timeStamp": "2020/06/30-16:53:59",
+            "id": "fwj5g1x",
+            "is_submitter": true,
+            "link_id": "t3_hfj4xr",
+            "parent_id": "t3_hfj4xr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Lucky12503"
+        },
+        "fvxw97s": {
+            "comment": "This is not the subreddit you are looking for:\n\nIt looks like you have voluntarily loaded adware to your system.  It is hard to validate/analyze your situation as you have no supporting information.  Good Luck.",
+            "timeStamp": "2020/06/25-03:23:34",
+            "id": "fvxw97s",
+            "is_submitter": false,
+            "link_id": "t3_hfj4xr",
+            "parent_id": "t3_hfj4xr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Farstone"
+        }
+    }
+}

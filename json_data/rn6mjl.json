@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I have Google Chrome and the default search is for Google. For about a 5-10 minute window the search engine changed to Yahoo. I didn't change it back to Google as I was searching for information on viruses etc. and also have two pieces of software doing a scan (Antivirus Zap - Virus Scanner + Antivirus One).\n\n&amp;#x200B;\n\nNo viruses have been found by the one which has finished, the other is still scanning but no viruses.\n\n  \nWorried about potential virus / spyware. Anyone have any advice on this?",
+        "title": "Browser search engine changed to yahoo then changed back",
+        "score": 1,
+        "id": "rn6mjl",
+        "commsNum": 0,
+        "timeStamp": "2021/12/23-14:06:07",
+        "author_name": "EntireSpell",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/rn6mjl/browser_search_engine_changed_to_yahoo_then/"
+    },
+    "posts": {
+        "hpqq8h3": {
+            "comment": "This isn\u2019t tech support",
+            "timeStamp": "2021/12/23-15:17:33",
+            "id": "hpqq8h3",
+            "is_submitter": false,
+            "link_id": "t3_rn6mjl",
+            "parent_id": "t3_rn6mjl",
+            "score": 1,
+            "stickied": false,
+            "author_name": "canofspam2020"
+        },
+        "hpql51n": {
+            "comment": "what browser extensions do you have?",
+            "timeStamp": "2021/12/23-14:38:30",
+            "id": "hpql51n",
+            "is_submitter": false,
+            "link_id": "t3_rn6mjl",
+            "parent_id": "t3_rn6mjl",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DM-ME-UR-GORE"
+        },
+        "hpqki7o": {
+            "comment": "This isnt a support sub-reddit. Please post in tech support",
+            "timeStamp": "2021/12/23-14:33:48",
+            "id": "hpqki7o",
+            "is_submitter": false,
+            "link_id": "t3_rn6mjl",
+            "parent_id": "t3_rn6mjl",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Rakanisheu"
+        }
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Dumpulator - Using Binary Emulation To Automate Reverse Engineering (OALABS Tutorial)",
+        "score": 1,
+        "id": "rhufyy",
+        "commsNum": 0,
+        "timeStamp": "2021/12/16-08:35:23",
+        "author_name": "herrcore",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://youtu.be/4Pfu98Xx9Yo"
+    },
+    "posts": {
+        "hs62vwp": {
+            "comment": "[removed]",
+            "timeStamp": "2022/01/10-20:56:51",
+            "id": "hs62vwp",
+            "is_submitter": false,
+            "link_id": "t3_rhufyy",
+            "parent_id": "t3_rhufyy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hox6yki": {
+            "comment": "I've been wanting  to learn stuff like this. Is reverse engineering only useful when using Windows tools? It's because most of my machines are linux and mac. Thank you for sharing!",
+            "timeStamp": "2021/12/17-06:34:01",
+            "id": "hox6yki",
+            "is_submitter": false,
+            "link_id": "t3_rhufyy",
+            "parent_id": "t3_rhufyy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Oxffff0000"
+        },
+        "hosw2z6": {
+            "comment": "[removed]",
+            "timeStamp": "2021/12/16-09:12:57",
+            "id": "hosw2z6",
+            "is_submitter": false,
+            "link_id": "t3_rhufyy",
+            "parent_id": "t3_rhufyy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

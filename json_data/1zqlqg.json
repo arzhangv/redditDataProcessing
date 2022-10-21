@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "First off, I'm a 2nd year networking student in The Netherlands. The first half of next college year I'm supposed to do an internship.\nI have contacts that can get me into a cloud provider company.\nHowever, I would first want to look for a possible malware related internship.\n\nThe past year I've been doing analysis on malware (mostly using Ollydbg) and following many blogs. Before that I spent probably half a year looking at non-malware.\nThe mistake I've made was that I've only worked on random malware I got from malware packs I found around the internet instead of going through the most famous and interesting samples that are listed on kernelmode.info.\n\nSo finally my questions: \n\n1)What skills will I need to have to get an internship and actually be useful?\n\n2)Are there even internships for these positions?\n\n3)What malware would you say are most important and I definitely need to understand?\n\n4)How important is knowledge of advanced math/cryptography?\n\n\nI also would like to know about the average work day of a malware analyst:\n\n5)How many samples do you look at per day?\n\n6)Do you do deep analysis on them (Ollydbg,IDA Pro,etc) or do you mostly just run dynamic analysis tools?\n\n7)What do you do once you have analyzed a sample? Do you look for signatures and send that to the developers or do you do some developing yourself?\n\n\nI know there are quite some questions, so I won't blame you if don't have time :)",
+        "title": "A few questions about getting a malware analysis related internship",
+        "score": 6,
+        "id": "1zqlqg",
+        "commsNum": 4,
+        "timeStamp": "2014/03/06-10:32:00",
+        "author_name": "Websly",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/1zqlqg/a_few_questions_about_getting_a_malware_analysis/"
+    },
+    "posts": {}
+}

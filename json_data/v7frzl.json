@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Scanning statistics of vulnerable Atlassian Confluence Server(CVE-2022-26134).",
+        "score": 1,
+        "id": "v7frzl",
+        "commsNum": 0,
+        "timeStamp": "2022/06/07-20:29:03",
+        "author_name": "Late_Ice_9288",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://blog.criminalip.io/2022/06/05/criminal-ip-analysis-report-on-zero-day-vulnerability-in-atlassian-confluence/"
+    },
+    "posts": {}
+}

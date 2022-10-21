@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "The Hill: FBI issues formal warning on massive malware network linked to Russia | TheHill.\nhttp://thehill.com/policy/cybersecurity/389366-fbi-issues-formal-warning-of-massive-malware-network-linked-to-russia\n\nShared via Google News",
+        "title": "The Hill: FBI issues formal warning on massive malware network linked to Russia",
+        "score": 20,
+        "id": "8marbp",
+        "commsNum": 1,
+        "timeStamp": "2018/05/26-08:11:15",
+        "author_name": "ExtensionOfGod",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8marbp/the_hill_fbi_issues_formal_warning_on_massive/"
+    },
+    "posts": {
+        "dzmzmnx": {
+            "comment": "Crazy! Who knows what crapware from whatever agency lurks in the bowels of the devices we use. We only know about this because they got caught and there was incentive to expose them.\n\nInteresting times.",
+            "timeStamp": "2018/05/26-18:48:36",
+            "id": "dzmzmnx",
+            "is_submitter": false,
+            "link_id": "t3_8marbp",
+            "parent_id": "t3_8marbp",
+            "score": 2,
+            "stickied": false,
+            "author_name": "jughandle"
+        }
+    }
+}

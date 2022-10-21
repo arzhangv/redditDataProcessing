@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "How the Trickbot C2 uses rDNS to disguise as a legitimate Australian government service",
+        "score": 1,
+        "id": "ixyx00",
+        "commsNum": 0,
+        "timeStamp": "2020/09/22-16:33:37",
+        "author_name": "gszathmari",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://osint.fans/service-nsw-russia-association"
+    },
+    "posts": {}
+}

@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "How I found the hacker behind a 850,000 computers botnet",
+        "score": 1,
+        "id": "f4atqg",
+        "commsNum": 1,
+        "timeStamp": "2020/02/15-07:26:25",
+        "author_name": "underthebreach",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://medium.com/@underthebreach/how-i-found-the-hacker-behind-a-850-000-computers-botnet-1bd37dc4de74"
+    },
+    "posts": {
+        "fhp28gi": {
+            "comment": "[removed]",
+            "timeStamp": "2020/02/15-07:27:28",
+            "id": "fhp28gi",
+            "is_submitter": false,
+            "link_id": "t3_f4atqg",
+            "parent_id": "t3_f4atqg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

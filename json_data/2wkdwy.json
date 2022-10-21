@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "this is what i got as an email and i clicked play for some reason. http://i.imgur.com/4qzYJWV.png\n\nit redirected me to a weird url that showed nothing which was then redirected to a fake BBC article about diet.\n\nI still got the email, here is the link it takes me to at first, of course dont go to it:\n\n//ad.btly.org/lnk/?ugdq=LJkhMKAmMJIgDTqgLJyfYzAioD==&amp;xz=40f742be3ffb9ff4472cd93e9d0be27c&amp;hide=1&amp;tc4=&amp;ekd=1.9.9430&amp;ok=175904\n\nwhich then redirects to this fake BBC website:\n\n//health.bbc.co.uk.i3599501f057ac91ed8d11e7254da24c.irnews.net/au-xde/health/index.php?article-id=234944417&amp;id=YWxuZXNzZWVtQGdtYWlsLmNvbQ%3D%3D.AU&amp;top_shared_weekly=true_j3599501f057ac91ed8d11e7254da24c\n\nIt didnt ask for anything at all. Is there anyway to know what it did so i know if im in trouble? i just changed password for that specific account. This person had similar problem: https://productforums.google.com/forum/#!topic/gmail/UzRIQuQqfjE where they gained access to his email which is odd since they dont ask for log in information. So how could it happen?\n\n\nedit: it wasnt mere spam, WhatsApp email was sent by using a friend's address. Thats why i didnt think twice, thought it was really WhatsApp.\n\nedit: The fake BBC article is discussed in length by security experts here: http://www.threattracksecurity.com/it-blog/garcinia-cambogia-spam-a-timeline-and-new-outbreaks/\n",
+        "title": "How do these suspicious links infect computers?",
+        "score": 6,
+        "id": "2wkdwy",
+        "commsNum": 17,
+        "timeStamp": "2015/02/20-09:24:14",
+        "author_name": "vgsgpz2",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 17,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2wkdwy/how_do_these_suspicious_links_infect_computers/"
+    },
+    "posts": {}
+}

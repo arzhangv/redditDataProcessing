@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "How Offensive Actors Use AppleScript For Attacking macOS | SentinelOne",
+        "score": 2,
+        "id": "fjr8p9",
+        "commsNum": 0,
+        "timeStamp": "2020/03/16-12:55:38",
+        "author_name": "Cyberthere",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.sentinelone.com/blog/how-offensive-actors-use-applescript-for-attacking-macos/"
+    },
+    "posts": {}
+}

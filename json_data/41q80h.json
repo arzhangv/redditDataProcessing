@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I'm looking for similar Open Source multi virus scan platforms to IRMA (http://irma.quarkslab.com/). So where user uploads a suspicious file to web-interface and multiple AVscanners analyze it.\n\nVirusTotal (https://www.virustotal.com/) is very good example what I'm towards, but it's not Open Source.\n\n\nIf you know platforms similar to these, help me out, thank you!",
+        "title": "Similar platforms to IRMA?",
+        "score": 3,
+        "id": "41q80h",
+        "commsNum": 4,
+        "timeStamp": "2016/01/19-11:14:53",
+        "author_name": "Greenhattie",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/41q80h/similar_platforms_to_irma/"
+    },
+    "posts": {}
+}

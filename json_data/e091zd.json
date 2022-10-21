@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[removed]",
+        "title": "Can a malware exhibit the traits of both a Virus and a Worm?",
+        "score": 1,
+        "id": "e091zd",
+        "commsNum": 1,
+        "timeStamp": "2019/11/22-15:07:46",
+        "author_name": "madmaxx2",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/e091zd/can_a_malware_exhibit_the_traits_of_both_a_virus/"
+    },
+    "posts": {
+        "f8cn7ga": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2019/11/22-15:07:47",
+            "id": "f8cn7ga",
+            "is_submitter": false,
+            "link_id": "t3_e091zd",
+            "parent_id": "t3_e091zd",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

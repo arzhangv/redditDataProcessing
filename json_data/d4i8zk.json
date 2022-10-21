@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I'm reading the book specified above, but unfortunately I can't manage to find some of the additional files mentioned in it. For example, in chapter 11, a VMware image infected by Rovnix.D is said to be amongst the files.\n\nhttps://i.redd.it/7otccfcp5qm31.png\n\nThe given link on nostarch refers to their website [https://bootkits.io/](https://bootkits.io/) which in turn refers to this github account: [https://github.com/bootkitsbook](https://github.com/bootkitsbook/bootkits/tree/master/bootkits_infectors). Within the encrypted archives provided under Rovnix, no such vmware image can be found. Other files mentioned in the book are missing as well.\n\nIs there another location the files are stored at or does anyone have a local copy of the files in question?",
+        "title": "Additional files for \"Rootkits and Bootkits\" by Matrosov and Rodionov",
+        "score": 16,
+        "id": "d4i8zk",
+        "commsNum": 3,
+        "timeStamp": "2019/09/15-02:19:37",
+        "author_name": "Throoowawaaaaaiiii",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/d4i8zk/additional_files_for_rootkits_and_bootkits_by/"
+    },
+    "posts": {
+        "f0fn6of": {
+            "comment": "Did you reach out on Twitter to anyone? For a publication everyone waited so patiently for, and considering it's still fairly new, it's a bummer you hit dead links for reference material already.",
+            "timeStamp": "2019/09/15-15:21:31",
+            "id": "f0fn6of",
+            "is_submitter": false,
+            "link_id": "t3_d4i8zk",
+            "parent_id": "t3_d4i8zk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "g0dmoney"
+        },
+        "f0ez9pe": {
+            "comment": "It seems like they had a bundle of files either self-hosted or hosted by nostarch, but for some reason moved their files onto github, with a completely different structure because of the limits of gh. Still, if someone has the original files, if they existed, that would be a great help. They also contained stuff like bochs configuration files that are missing from the repo.",
+            "timeStamp": "2019/09/15-12:28:13",
+            "id": "f0ez9pe",
+            "is_submitter": true,
+            "link_id": "t3_d4i8zk",
+            "parent_id": "t1_f0d3h7r",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Throoowawaaaaaiiii"
+        },
+        "f0d3h7r": {
+            "comment": "They provide appropriate files to infect a system but not the vm image itself. This is almost definitely because github limits file size limits to &lt;500MB (last I checked) and splitting a virtual machine into many files is not exactly appropriate either. There is also the whole issue of distributing microsoft stuff thats a big no no. If you need a free windows VM to use, check out [https://developer.microsoft.com/en-us/microsoft-edge/](https://developer.microsoft.com/en-us/microsoft-edge/) you should be able to infect these just fine!",
+            "timeStamp": "2019/09/15-05:01:20",
+            "id": "f0d3h7r",
+            "is_submitter": false,
+            "link_id": "t3_d4i8zk",
+            "parent_id": "t3_d4i8zk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "commie-work"
+        }
+    }
+}

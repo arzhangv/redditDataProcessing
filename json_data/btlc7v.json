@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "A laptop installed with worlds 6 most dangerous virus is on sale for more than $1 Million",
+        "score": 0,
+        "id": "btlc7v",
+        "commsNum": 1,
+        "timeStamp": "2019/05/27-05:15:26",
+        "author_name": "coopersnack",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://gimtae.com/a-laptop-installed-with-worlds-6-most-dangerous-virus-is-on-sale-for-more-than-1-million/"
+    },
+    "posts": {
+        "eozof3b": {
+            "comment": "Wow, I could become a millionaire just by using my virustotal account? Good to know.",
+            "timeStamp": "2019/05/27-06:32:28",
+            "id": "eozof3b",
+            "is_submitter": false,
+            "link_id": "t3_btlc7v",
+            "parent_id": "t3_btlc7v",
+            "score": 2,
+            "stickied": false,
+            "author_name": "JulienneDelphiki"
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "AT&amp;T Alien Labs finds new Golang malware (BotenaGo) targeting millions of routers and IoT devices with more than 30 exploits",
+        "score": 1,
+        "id": "qrjzcr",
+        "commsNum": 2,
+        "timeStamp": "2021/11/11-04:13:31",
+        "author_name": "c0r3dump3d",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://cybersecurity.att.com/blogs/labs-research/att-alien-labs-finds-new-golang-malwarebotenago-targeting-millions-of-routers-and-iot-devices-with-more-than-30-exploits"
+    },
+    "posts": {
+        "hk9y9mq": {
+            "comment": "ye",
+            "timeStamp": "2021/11/11-17:19:41",
+            "id": "hk9y9mq",
+            "is_submitter": false,
+            "link_id": "t3_qrjzcr",
+            "parent_id": "t1_hk9g7io",
+            "score": 2,
+            "stickied": false,
+            "author_name": "unseen247"
+        },
+        "hk9g7io": {
+            "comment": "So if I use one of those routers/modem combos as a bridge to my auctual router am I in danger still?",
+            "timeStamp": "2021/11/11-14:55:36",
+            "id": "hk9g7io",
+            "is_submitter": false,
+            "link_id": "t3_qrjzcr",
+            "parent_id": "t3_qrjzcr",
+            "score": 3,
+            "stickied": false,
+            "author_name": "Wacey166"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I want to have a bootable USB drive that is capable of running a shell outside the OS (but still mounting the OS in order to access it) with various anti-malware tools, hardware diagnostic and monitoring tools, etc. Kind of like Kaspersky's Rescue Disk, Hiren's Boot CD, etc. but I'd prefer to create my own with a bunch of freeware like MBAM, CCleaner, etc. and a custom interface. There are tons of new tools I'm coming across nowadays that I'd love to throw together to create an UglyStru's rescue disk. Thanks in advance.",
+        "title": "How difficult is it to make a custom anti-malware/diagnostic boot disk?",
+        "score": 7,
+        "id": "30vemd",
+        "commsNum": 7,
+        "timeStamp": "2015/03/30-17:40:57",
+        "author_name": "UglyStru",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/30vemd/how_difficult_is_it_to_make_a_custom/"
+    },
+    "posts": {}
+}

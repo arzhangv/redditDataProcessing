@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "CARBANAK GROUP USES GOOGLE FOR MALWARE COMMAND-AND-CONTROL.Forcepoint Security Labs\u2122 recently investigated a trojanized RTF document which we tied to the Carbank criminal gang",
+        "score": 2,
+        "id": "5otejn",
+        "commsNum": 0,
+        "timeStamp": "2017/01/18-16:45:05",
+        "author_name": "poke_pop",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://blogs.forcepoint.com/security-labs/carbanak-group-uses-google-malware-command-and-control"
+    },
+    "posts": {}
+}

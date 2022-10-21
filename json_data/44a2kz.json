@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Someone has pwned the Dridex botnet serving the Avira Antivirus",
+        "score": 1,
+        "id": "44a2kz",
+        "commsNum": 0,
+        "timeStamp": "2016/02/05-01:06:43",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/44245/cyber-crime/dridex-botnet-hacked.html"
+    },
+    "posts": {}
+}

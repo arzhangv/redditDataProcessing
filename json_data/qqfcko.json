@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Step by step to building a Blackmatter ESXi payload config extractor",
+        "score": 1,
+        "id": "qqfcko",
+        "commsNum": 1,
+        "timeStamp": "2021/11/09-14:42:19",
+        "author_name": "micropeenandproud",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://michaelgoodman.co.uk/extracting-the-config-from-blackmatter-esxi-elf-encryptors"
+    },
+    "posts": {
+        "hk3dccw": {
+            "comment": "Very impressive work",
+            "timeStamp": "2021/11/10-09:40:47",
+            "id": "hk3dccw",
+            "is_submitter": false,
+            "link_id": "t3_qqfcko",
+            "parent_id": "t3_qqfcko",
+            "score": 2,
+            "stickied": false,
+            "author_name": "rundgren"
+        }
+    }
+}

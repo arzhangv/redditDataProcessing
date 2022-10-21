@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "The Path to CISO: There are many levels to walk if one wants to be a CISO",
+        "score": 16,
+        "id": "dowe4i",
+        "commsNum": 1,
+        "timeStamp": "2019/10/29-14:14:58",
+        "author_name": "Z3r0s3c4",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.peerlyst.com/posts/the-path-to-ciso-there-are-many-levels-to-walk-if-one-wants-to-be-a-ciso-gary-hayslip-cissp-cisa-crisc-ccsk?trk=search_page_search_result"
+    },
+    "posts": {
+        "f5r3xk2": {
+            "comment": "Being a CISO is not a job for everyone.  For example, it's not a job for me.  I'm not a CISO, but I've seen many and I have some idea how the job works.  It SUCKS!\n\nThere is one, and I mean only ONE redeeming feature.  You get paid well.  That's it.\n\nHere are just some of the many reasons it sucks to be a CISO:\n\n* You are relentlessly pressured to improve or fix organizational security and OFTEN you aren't given the budget or proper time to do it.\n\n* Most of your most important initiatives to fix that security will involve substantial lift from other Tech departments, who will not prioritize you unless they have also been funded for it or you have some sort of pull.\n\n* You will have 6 months of grace and 2 years to make a substantial impact.  If an organization has 30+ years of Security debt then making a significant impact in just 2 years is daunting.\n\n* As you put things in place you gradually discover that shit is worse than you ever imagined, so the scope gets bigger while your budget stays the same.\n\n* You need good talent in some positions.  For that, you need HR to approve the money.  HR almost always tries their hardest to low ball people.  So... its hard to get the good talent.\n\n* You are expected to be married to your job.  Working 14 hours a day 6 days a week is the norm.\n\n* After 2 years if the board, who knows nothing about security, decides you weren't fast enough they fire you and then you search around the country for another job... rinse and repeat.  You live your life 2 to 4 years at a time in different cities.  Hopefully you aren't raising a family like that.\n\n* If there is a major security event you will be fired either immediately or 6 months after the problem is resolved.\n\nSo... yeah... nice money but I just don't want to live like that.",
+            "timeStamp": "2019/10/29-15:21:16",
+            "id": "f5r3xk2",
+            "is_submitter": false,
+            "link_id": "t3_dowe4i",
+            "parent_id": "t3_dowe4i",
+            "score": 1,
+            "stickied": false,
+            "author_name": "necropantser"
+        }
+    }
+}

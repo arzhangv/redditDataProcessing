@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I am analyzing a binary that has plenty of unique strings but very few return google matches. Are there other places you guys search to try and find string meanings/possible connections to other malware? Is the dark web worth searching? And advice is helpful!",
+        "title": "When google fails to turn up results during simple string analysis, where do you turn?",
+        "score": 8,
+        "id": "7vi1q4",
+        "commsNum": 6,
+        "timeStamp": "2018/02/05-13:14:29",
+        "author_name": "umnr",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/7vi1q4/when_google_fails_to_turn_up_results_during/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "ClipboardWalletHijacker Malware Campaign Infects 300,000 Computers",
+        "score": 13,
+        "id": "8sc969",
+        "commsNum": 2,
+        "timeStamp": "2018/06/19-13:36:43",
+        "author_name": "Alex_thetechlover",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://latesthackingnews.com/2018/06/17/clipboardwallethijacker-malware-campaign-infects-300000-computers/"
+    },
+    "posts": {
+        "e0zfv95": {
+            "comment": "Well, that's just a link to share info. Do a quick search and you will find a number of websites covering this news. That's how news sites work. It's not about copy pasting at all. What made you think that? When an event happens, it's naturally covered by all.  \n\n\nP.S. the original source that put up this news is [https://blog.360totalsecurity.com/en/new-cryptominer-hijacks-your-bitcoin-transaction-over-300000-computers-have-been-attacked/](https://blog.360totalsecurity.com/en/new-cryptominer-hijacks-your-bitcoin-transaction-over-300000-computers-have-been-attacked/)",
+            "timeStamp": "2018/06/20-05:06:44",
+            "id": "e0zfv95",
+            "is_submitter": true,
+            "link_id": "t3_8sc969",
+            "parent_id": "t1_e0yh0f7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Alex_thetechlover"
+        },
+        "e0yvbt7": {
+            "comment": "op is just advertising his blog on reddit for some adsense revenue",
+            "timeStamp": "2018/06/19-19:49:44",
+            "id": "e0yvbt7",
+            "is_submitter": false,
+            "link_id": "t3_8sc969",
+            "parent_id": "t1_e0yh0f7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "prodota2player"
+        },
+        "e0yh0f7": {
+            "comment": "[deleted]",
+            "timeStamp": "2018/06/19-15:43:55",
+            "id": "e0yh0f7",
+            "is_submitter": false,
+            "link_id": "t3_8sc969",
+            "parent_id": "t3_8sc969",
+            "score": 8,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

@@ -1,0 +1,165 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Cylance fooled into thinking malware is just fine! (Aka a harmless file)",
+        "score": 34,
+        "id": "cf22sw",
+        "commsNum": 13,
+        "timeStamp": "2019/07/18-19:51:22",
+        "author_name": "zork212",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 13,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.vice.com/en_us/article/9kxp83/researchers-easily-trick-cylances-ai-based-antivirus-into-thinking-malware-is-goodware"
+    },
+    "posts": {
+        "ew77vcf": {
+            "comment": "Crowdstrike and Carbon Black are looking better and better to me each day.",
+            "timeStamp": "2019/08/07-07:19:27",
+            "id": "ew77vcf",
+            "is_submitter": false,
+            "link_id": "t3_cf22sw",
+            "parent_id": "t1_ew4bu5v",
+            "score": 1,
+            "stickied": false,
+            "author_name": "yankeesfan01x"
+        },
+        "ew4bu5v": {
+            "comment": "Yes",
+            "timeStamp": "2019/08/06-09:01:23",
+            "id": "ew4bu5v",
+            "is_submitter": false,
+            "link_id": "t3_cf22sw",
+            "parent_id": "t1_ew4203e",
+            "score": 1,
+            "stickied": false,
+            "author_name": "4745454B"
+        },
+        "ew4203e": {
+            "comment": "https://attackevals.mitre.org/ would be the spot right?",
+            "timeStamp": "2019/08/06-07:15:43",
+            "id": "ew4203e",
+            "is_submitter": false,
+            "link_id": "t3_cf22sw",
+            "parent_id": "t1_ew40qfi",
+            "score": 1,
+            "stickied": false,
+            "author_name": "yankeesfan01x"
+        },
+        "ew40qfi": {
+            "comment": "First of all forget the word next-gen, age of the company does not matter. All good solutions are \u201cnext-gen\u201d. \n\nLook for reviews from trusted sources AV-test and MITRE are good. AV-test tests automatic attack prevention and MITRE human assisted operations.",
+            "timeStamp": "2019/08/06-07:00:53",
+            "id": "ew40qfi",
+            "is_submitter": false,
+            "link_id": "t3_cf22sw",
+            "parent_id": "t1_ew1e866",
+            "score": 1,
+            "stickied": false,
+            "author_name": "4745454B"
+        },
+        "ew1e866": {
+            "comment": "What would you recommend going with if not Cylance when looking at the next-gen antimalware technologies?",
+            "timeStamp": "2019/08/05-09:11:38",
+            "id": "ew1e866",
+            "is_submitter": false,
+            "link_id": "t3_cf22sw",
+            "parent_id": "t1_eu84oqi",
+            "score": 1,
+            "stickied": false,
+            "author_name": "yankeesfan01x"
+        },
+        "eu98rwt": {
+            "comment": "Isn\u2019t that the idea of AV evasion? \n\nIt\u2019s like you guys found something groundbreaking lol",
+            "timeStamp": "2019/07/19-15:12:34",
+            "id": "eu98rwt",
+            "is_submitter": false,
+            "link_id": "t3_cf22sw",
+            "parent_id": "t3_cf22sw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Installous"
+        },
+        "eu84oqi": {
+            "comment": "Their root problem is that they seem to use very naive approach in ML, that is to generate a huge training set of clean and known malicious, and then run their ML until it can tell the difference between the two with good enough precision and recall.\n\nAnd what makes this approach naive, is that the ML does not really know anything about the files, it just blindly seeks correlations that place them in one or another group. And then when attacker mixes indicators of cleanliness into their malware, they can evade naive ML approach.\n\nCylance does not exactly have a sterling reputation in the industry to begin with. \n\n[https://www.snapmunk.com/cyber-security-cylance-cotroversy-fraud-layoffs/](https://www.snapmunk.com/cyber-security-cylance-cotroversy-fraud-layoffs/) \n\nGoogle Cylance controvercy and you find also other cases.",
+            "timeStamp": "2019/07/19-08:20:39",
+            "id": "eu84oqi",
+            "is_submitter": false,
+            "link_id": "t3_cf22sw",
+            "parent_id": "t1_eu7g384",
+            "score": 5,
+            "stickied": false,
+            "author_name": "4745454B"
+        },
+        "eu7mi1d": {
+            "comment": "&gt; Why'd you change the title?\n\nOP obviously thinks they are really creative and wanted to editorialize the title.",
+            "timeStamp": "2019/07/19-04:45:26",
+            "id": "eu7mi1d",
+            "is_submitter": false,
+            "link_id": "t3_cf22sw",
+            "parent_id": "t1_eu77vmf",
+            "score": 6,
+            "stickied": false,
+            "author_name": "_rock_farmer"
+        },
+        "eu7g384": {
+            "comment": "Seems they stated they have a fix. Why couldn't they find this bypass by themselves? One would think they would be constantly testing their stuff?\n\nhttps://threatvector.cylance.com/en_us/home/blackberry-cylance-guidance-on-potential-bypass.html",
+            "timeStamp": "2019/07/19-02:58:25",
+            "id": "eu7g384",
+            "is_submitter": true,
+            "link_id": "t3_cf22sw",
+            "parent_id": "t1_eu7a46s",
+            "score": 1,
+            "stickied": false,
+            "author_name": "zork212"
+        },
+        "eu7cwre": {
+            "comment": "Great commentary! Thanks for the insight and now you have my mind thinking of digging deeper into how all this works.",
+            "timeStamp": "2019/07/19-01:57:29",
+            "id": "eu7cwre",
+            "is_submitter": true,
+            "link_id": "t3_cf22sw",
+            "parent_id": "t1_eu7a46s",
+            "score": 2,
+            "stickied": false,
+            "author_name": "zork212"
+        },
+        "eu7a46s": {
+            "comment": "Well, what do you expect. \n\nCylance is openly very proud of their \"AI\" based solution.\n\nWhat they fail to mention is that since they are filly machine learning based, or at least claim to be, they have no clue on what their engine is actually doing. So anyone who actually knows how ML works can trick it by crafting input.\n\nAvoid any company that focuses only on AI, they work well only in various tests and lab conditions.",
+            "timeStamp": "2019/07/19-01:04:50",
+            "id": "eu7a46s",
+            "is_submitter": false,
+            "link_id": "t3_cf22sw",
+            "parent_id": "t3_cf22sw",
+            "score": 8,
+            "stickied": false,
+            "author_name": "4745454B"
+        },
+        "eu77vmf": {
+            "comment": "Why'd you change the title?\n\nThe original one is infinitely more descriptive:\n\n\"Researchers Easily Trick Cylance's AI-Based Antivirus Into Thinking Malware Is 'Goodware'\"",
+            "timeStamp": "2019/07/19-00:24:48",
+            "id": "eu77vmf",
+            "is_submitter": false,
+            "link_id": "t3_cf22sw",
+            "parent_id": "t3_cf22sw",
+            "score": 13,
+            "stickied": false,
+            "author_name": "majestic_blueberry"
+        },
+        "eu6ykzr": {
+            "comment": "This is the best tl;dr I could make, [original](https://www.vice.com/en_us/article/9kxp83/researchers-easily-trick-cylances-ai-based-antivirus-into-thinking-malware-is-goodware) reduced by 95%. (I'm a bot)\n*****\n&gt; To determine if a file is malicious or benign, the Cylance engine looks at 4 million different features or data points, according to Ryan Permeh, founder and chief scientist of Cylance.\n\n&gt; The system also examines the files for patterns to see how malware variants evolve over time to anticipate how new malware might look-essentially &amp;quot;Predicting&amp;quot; what malware authors will do before they do it.\n\n&gt; The Cylance system analyzes each file based on these data points, and assigns a score to the file that ranges between -1,000 to 1,000.\n\n\n*****\n[**Extended Summary**](http://np.reddit.com/r/autotldr/comments/cf3b7t/cylance_fooled_into_thinking_malware_is_just_fine/) | [FAQ](http://np.reddit.com/r/autotldr/comments/31b9fm/faq_autotldr_bot/ \"Version 2.02, ~413891 tl;drs so far.\") | [Feedback](http://np.reddit.com/message/compose?to=%23autotldr \"PM's and comments are monitored, constructive feedback is welcome.\") | *Top* *keywords*: **file**^#1 **Cylance**^#2 **malicious**^#3 **program**^#4 **benign**^#5",
+            "timeStamp": "2019/07/18-22:01:22",
+            "id": "eu6ykzr",
+            "is_submitter": false,
+            "link_id": "t3_cf22sw",
+            "parent_id": "t3_cf22sw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "autotldr"
+        }
+    }
+}

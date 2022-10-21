@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I installed the Better History extension to do an extended search through my Chrome history. However, this previous Reddit thread still applies\n\nhttps://www.reddit.com/r/Malware/comments/4cw9fz/lnkrus_redirect_malware_report/\n\nOriginal developer posted there too.\n\nCountless people have reported this to the Chrome store, they do nothing.\n\nI am leaving this post on Reddit in order to alert anyone who spots the \"bonvoyage.today\" URL in their location bar",
+        "title": "Better History Chrome extension is still hosting malware, now directs through \"bonvoyage.today\"",
+        "score": 49,
+        "id": "5pvqqd",
+        "commsNum": 0,
+        "timeStamp": "2017/01/24-04:04:14",
+        "author_name": "[deleted]",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5pvqqd/better_history_chrome_extension_is_still_hosting/"
+    },
+    "posts": {}
+}

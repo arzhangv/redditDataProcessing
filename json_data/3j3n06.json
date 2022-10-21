@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Again I come with great news:\nIn my last post I shared a torrent with 63 gb of malware, this time I found, in the same website 376 source codes of vintage malware, most coded in C,ASM,Basic and VB.\n\nhttp://vxheaven.org/src.php\n\nYou can indeed download directly the sources instead of looking for some collection on their forum - no registartion is needed. You can also click on the malwares author name and check what other malware the author created, clicking on info will provide you some info about the malware, each download contains the source code and the malware itself.\n\nOn the buttom there is also a nice filter which allows you to filter the malware name, the year it was created, authors name, the system it targets and the langauge is coded in.  Dont forget the website on defualt just displays 10 items per page, you can change that also in the buttom of the page.",
+        "title": "376 malware source codes.",
+        "score": 75,
+        "id": "3j3n06",
+        "commsNum": 4,
+        "timeStamp": "2015/08/31-09:18:15",
+        "author_name": "Good-Hearted",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/3j3n06/376_malware_source_codes/"
+    },
+    "posts": {}
+}

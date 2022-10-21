@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[removed]",
+        "title": "Help! Malware Identification",
+        "score": 0,
+        "id": "6qfrcx",
+        "commsNum": 2,
+        "timeStamp": "2017/07/29-22:26:24",
+        "author_name": "dmoran442",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6qfrcx/help_malware_identification/"
+    },
+    "posts": {
+        "dkyc6xd": {
+            "comment": "Yep, removing this post.",
+            "timeStamp": "2017/07/30-21:50:54",
+            "id": "dkyc6xd",
+            "is_submitter": false,
+            "link_id": "t3_6qfrcx",
+            "parent_id": "t1_dkxemyh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mjuad"
+        },
+        "dkxemyh": {
+            "comment": "If you're looking for ways to remove it, this is the wrong sub. \n\nIf you're curious about what it is, how it got onto a system, and how it possibly works:\n\nCheck to see if you have another extension enabled that could be causing it. Check creation dates in ~/Library/Safari/Extensions to see when it was created. Check for Mac Startups items as well to find any app installed in X most recent days. Usually a combination of those two. \n\nIf it's an extension, use xar to extract out the contents and you can likely find the downloader code within one of the js/*.js files (safari-browser.js), etc.\n\n",
+            "timeStamp": "2017/07/30-08:50:27",
+            "id": "dkxemyh",
+            "is_submitter": false,
+            "link_id": "t3_6qfrcx",
+            "parent_id": "t3_6qfrcx",
+            "score": 2,
+            "stickied": false,
+            "author_name": "LightningRurik"
+        },
+        "dkx36zk": {
+            "comment": "[deleted]",
+            "timeStamp": "2017/07/30-02:15:04",
+            "id": "dkx36zk",
+            "is_submitter": false,
+            "link_id": "t3_6qfrcx",
+            "parent_id": "t3_6qfrcx",
+            "score": -3,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": 0.94,
+        "selftext": "",
+        "title": "Analysing Fileless Malware: Cobalt Strike Beacon",
+        "score": 22,
+        "id": "hvssm3",
+        "commsNum": 7,
+        "timeStamp": "2020/07/22-05:21:47",
+        "author_name": "Paul_Sec",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://newtonpaul.com/analysing-fileless-malware-cobalt-strike-beacon/"
+    },
+    "posts": {
+        "fyyn5nn": {
+            "comment": "That makes a lot of sense! Thanks!",
+            "timeStamp": "2020/07/23-01:35:16",
+            "id": "fyyn5nn",
+            "is_submitter": true,
+            "link_id": "t3_hvssm3",
+            "parent_id": "t1_fyw687l",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Paul_Sec"
+        },
+        "fyw687l": {
+            "comment": "The shellode is the stager, the main CS beacon is actually downloaded by that shellcode stager",
+            "timeStamp": "2020/07/22-10:43:53",
+            "id": "fyw687l",
+            "is_submitter": false,
+            "link_id": "t3_hvssm3",
+            "parent_id": "t3_hvssm3",
+            "score": 2,
+            "stickied": false,
+            "author_name": "sysopfb"
+        },
+        "fyvs2g1": {
+            "comment": "Thanks! Yeah it\u2019s a really quick and easy way to get an idea of what the shellcode is doing.",
+            "timeStamp": "2020/07/22-08:50:22",
+            "id": "fyvs2g1",
+            "is_submitter": true,
+            "link_id": "t3_hvssm3",
+            "parent_id": "t1_fyvjycu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Paul_Sec"
+        },
+        "fyvjycu": {
+            "comment": "Great write-up, the section on quick shellcode analysis is extra useful!",
+            "timeStamp": "2020/07/22-07:42:19",
+            "id": "fyvjycu",
+            "is_submitter": false,
+            "link_id": "t3_hvssm3",
+            "parent_id": "t3_hvssm3",
+            "score": 2,
+            "stickied": false,
+            "author_name": "ComputerPizza"
+        }
+    }
+}

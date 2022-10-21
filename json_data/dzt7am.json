@@ -1,0 +1,110 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "so my teacher's shitty website gave me an adware and now i get bestiality porn sites popups all the time, malwarebytes says i got nothing, uninstalling and reinstalling chrome did nothing tf am i supposed to do\n\nthx",
+        "title": "Got an adware from my teacher's website",
+        "score": 1,
+        "id": "dzt7am",
+        "commsNum": 8,
+        "timeStamp": "2019/11/21-16:54:10",
+        "author_name": "will3104",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 8,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/dzt7am/got_an_adware_from_my_teachers_website/"
+    },
+    "posts": {
+        "f8a77h0": {
+            "comment": "Ill check it out tm. I over did my number of free any.run account scans today",
+            "timeStamp": "2019/11/21-18:25:44",
+            "id": "f8a77h0",
+            "is_submitter": false,
+            "link_id": "t3_dzt7am",
+            "parent_id": "t1_f8a5704",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Surpentstone"
+        },
+        "f8a5704": {
+            "comment": " [https://edu.simpletic.ca/stepnodes/index.php](https://edu.simpletic.ca/stepnodes/index.php)",
+            "timeStamp": "2019/11/21-18:00:38",
+            "id": "f8a5704",
+            "is_submitter": true,
+            "link_id": "t3_dzt7am",
+            "parent_id": "t1_f8a2p2c",
+            "score": 1,
+            "stickied": false,
+            "author_name": "will3104"
+        },
+        "f8a55bd": {
+            "comment": "So i used the rootkit scanner, said i had 4 malwares, did the cleanup and for the moment i havent seen any popups",
+            "timeStamp": "2019/11/21-18:00:02",
+            "id": "f8a55bd",
+            "is_submitter": true,
+            "link_id": "t3_dzt7am",
+            "parent_id": "t1_f8a0mw2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "will3104"
+        },
+        "f8a2p2c": {
+            "comment": "what is the website? can use [any.run](https://any.run) to see what goes down",
+            "timeStamp": "2019/11/21-17:28:52",
+            "id": "f8a2p2c",
+            "is_submitter": false,
+            "link_id": "t3_dzt7am",
+            "parent_id": "t3_dzt7am",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Surpentstone"
+        },
+        "f8a2b88": {
+            "comment": "[removed]",
+            "timeStamp": "2019/11/21-17:24:02",
+            "id": "f8a2b88",
+            "is_submitter": false,
+            "link_id": "t3_dzt7am",
+            "parent_id": "t1_f8a1hlq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "f8a1hlq": {
+            "comment": "Back up your files, slick it clean, reinstall os and software, scan your files, go about your life - update your computer regularly and stop using absurd plugins and bad browsers that make you vulnerable. Stop going to beastiality sites. Lol",
+            "timeStamp": "2019/11/21-17:13:32",
+            "id": "f8a1hlq",
+            "is_submitter": false,
+            "link_id": "t3_dzt7am",
+            "parent_id": "t3_dzt7am",
+            "score": 1,
+            "stickied": false,
+            "author_name": "recviking"
+        },
+        "f8a1dz0": {
+            "comment": "Reformat your pc",
+            "timeStamp": "2019/11/21-17:12:14",
+            "id": "f8a1dz0",
+            "is_submitter": false,
+            "link_id": "t3_dzt7am",
+            "parent_id": "t3_dzt7am",
+            "score": 1,
+            "stickied": false,
+            "author_name": "gbdavidx"
+        },
+        "f8a0mw2": {
+            "comment": "try a rootkit scanner?\n\n[https://www.malwarebytes.com/antirootkit/](https://www.malwarebytes.com/antirootkit/)\n\n&amp;#x200B;\n\nHijackthis might help as well as autoruns.\n\nProcess explorer can help you look inside of the processes to see what the threads are.",
+            "timeStamp": "2019/11/21-17:02:25",
+            "id": "f8a0mw2",
+            "is_submitter": false,
+            "link_id": "t3_dzt7am",
+            "parent_id": "t3_dzt7am",
+            "score": 1,
+            "stickied": false,
+            "author_name": "outerlimtz"
+        }
+    }
+}

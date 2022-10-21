@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "all Petya Ransomware write-up that i know about it  \n1- http://www.theregister.co.uk/2016/03/29/petya_ransomware/  \n2- http://blog.trendmicro.com/trendlabs-security-intelligence/petya-crypto-ransomware-overwrites-mbr-lock-users-computers/  \n3- http://www.kernelmode.info/forum/viewtopic.php?f=16&amp;t=4293   \n4- https://labsblog.f-secure.com/2016/04/01/petya-disk-encrypting-ransomware/  \n5- https://blog.malwarebytes.org/threat-analysis/2016/04/petya-ransomware/  \n6- https://hshrzd.wordpress.com/2016/03/31/petya-key-decoder/   \n7- https://blog.gdatasoftware.com/2016/03/28226-ransomware-petya-a-technical-review   \n8- [Petya Ransomware X-Rayed !!!](http://www.tgsoft.it/english/news_archivio_eng.asp?id=712#)   \n9- [video how Debugging Petya bootloader with IDA by Jarkko Turkulainen from F-Secure](https://www.youtube.com/watch?v=7rtMX9zS55I)  \n10- [Petya ECDH key exchange by Jarkko Turkulainen from F-Secure](https://www.youtube.com/watch?v=nAx9QROI1h4)  \n--edit--   \n[ search key to restore petya encrypted mft |github| ](https://github.com/leo-stone/hack-petya)  \n[Petya Ransomware Key Generator |website|](https://petya-pay-no-ransom-mirror1.herokuapp.com/)  \n[Petya Ransomware's Encryption Defeated and Password Generator Released](http://www.bleepingcomputer.com/news/security/petya-ransomwares-encryption-defeated-and-password-generator-released/)\n\n\n\n",
+        "title": "all Petya Ransomware write-up",
+        "score": 24,
+        "id": "4dqnml",
+        "commsNum": 2,
+        "timeStamp": "2016/04/07-04:43:37",
+        "author_name": "sh3dow",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/4dqnml/all_petya_ransomware_writeup/"
+    },
+    "posts": {}
+}

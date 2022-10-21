@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": " I've been asked to secure our PDF viewer for employees.\n\nSo far I've:\n\n\\- blacklisted the \"dangerous\" API's\n\n\\- Disabled JavaScript\n\n\\- Enabled Protected View\n\n\\- Enabled Protected Mode\n\n\\- Disabled Multimedia\n\n\\- Disabled opening of non-PDF file attachments with external applications.\n\nWhat else can I do to make sure we are not at risk to malware/ransomware attacks? If I understand correctly, when a PDF attempts to launch a macro/script it will alert the user first, is there a way to remove this step and just quit the launch. I don't want to give my employees a chance to launch a dangerous application.",
+        "title": "PDF Malware Security",
+        "score": 1,
+        "id": "hzgyjx",
+        "commsNum": 1,
+        "timeStamp": "2020/07/28-08:44:18",
+        "author_name": "ObseenKarma",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/hzgyjx/pdf_malware_security/"
+    },
+    "posts": {
+        "fziyxyd": {
+            "comment": "You might wanna ask on stack overflow's security forum. It's not only more likely you'll get thorough, vettable answers,b but it's more likely to show up in search results for others.\n\nI believe windows allows aditional configurations via group policy, but I don't know enough to tell you how or where.",
+            "timeStamp": "2020/07/28-09:31:55",
+            "id": "fziyxyd",
+            "is_submitter": false,
+            "link_id": "t3_hzgyjx",
+            "parent_id": "t3_hzgyjx",
+            "score": 2,
+            "stickied": false,
+            "author_name": "trichofobia"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "be on the lookout for a new variant of win32/upatre circulating. Email subject is \"Payment from Chase Ban\". Attachment contains a zip file titled \"payment-0113-809.pdf.zip\" the payload is an infected SCR file named \"payment-0113-809.pdf.scr\" \n\nFull analysis can be found here: https://malwr.com/analysis/NWFiYjZlMWI3NWZhNDU1YWExZjlhNWJhYTQxY2M2OGM/\n\nAnyone else see this today?",
+        "title": "New variant of win32/updatre circulating",
+        "score": 8,
+        "id": "2saib5",
+        "commsNum": 4,
+        "timeStamp": "2015/01/13-08:08:18",
+        "author_name": "c00per17",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2saib5/new_variant_of_win32updatre_circulating/"
+    },
+    "posts": {}
+}

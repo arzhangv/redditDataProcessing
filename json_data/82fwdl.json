@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I downloaded PDFEscape desktop from their website. During or after the installation C:\\windows\\system32\\xbox-service.exe was created which is detected as a trojan coin miner by malwarebytes. Others are finding the same thing on their system https://www.reddit.com/r/techsupport/comments/7s3t29/rundll332exe_using_up_to_20_of_cpu_windows_10/ , though it seems not everyone realized where it came from. Tried it again in a new virtual machine and it was definitely the problem. I'd steer clear of Red Software / PDFEscape.",
+        "title": "Warning: PDFEscape contains malware",
+        "score": 40,
+        "id": "82fwdl",
+        "commsNum": 5,
+        "timeStamp": "2018/03/06-07:32:04",
+        "author_name": "aorolecall",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/82fwdl/warning_pdfescape_contains_malware/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I accidentally opened totmania.net not knowing it was a virus, help me please",
+        "title": "Totmania.net DO NOT OPEN",
+        "score": 1,
+        "id": "vw4lg8",
+        "commsNum": 0,
+        "timeStamp": "2022/07/10-16:53:09",
+        "author_name": "Berk_Loves_Ramen",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/vw4lg8/totmanianet_do_not_open/"
+    },
+    "posts": {
+        "ifsybks": {
+            "comment": "Okay",
+            "timeStamp": "2022/07/11-18:55:38",
+            "id": "ifsybks",
+            "is_submitter": true,
+            "link_id": "t3_vw4lg8",
+            "parent_id": "t1_ifnysfw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Berk_Loves_Ramen"
+        },
+        "ifo84h0": {
+            "comment": "It's a URL. It may or may not be a URL for a domain that does or has hosted malware, but it is not, itself, \"a virus\".  \n\n\nhttps://app.any.run/tasks/ffe580ce-0d69-48ac-b833-f1f6f96f782d",
+            "timeStamp": "2022/07/10-19:15:26",
+            "id": "ifo84h0",
+            "is_submitter": false,
+            "link_id": "t3_vw4lg8",
+            "parent_id": "t3_vw4lg8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "SodinokibiSeppuku"
+        },
+        "ifnysfw": {
+            "comment": "Go here! &gt;&gt;&gt; r/techsupport",
+            "timeStamp": "2022/07/10-17:59:41",
+            "id": "ifnysfw",
+            "is_submitter": false,
+            "link_id": "t3_vw4lg8",
+            "parent_id": "t3_vw4lg8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "URLcrazy"
+        },
+        "ifnyk9l": {
+            "comment": "This isn\u2019t a tech support page.",
+            "timeStamp": "2022/07/10-17:57:49",
+            "id": "ifnyk9l",
+            "is_submitter": false,
+            "link_id": "t3_vw4lg8",
+            "parent_id": "t3_vw4lg8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "canofspam2020"
+        }
+    }
+}

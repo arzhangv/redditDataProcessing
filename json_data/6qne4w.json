@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "New Variant of Emotet Trojan that Spreads Malware over Internal Networks",
+        "score": 1,
+        "id": "6qne4w",
+        "commsNum": 0,
+        "timeStamp": "2017/07/31-02:46:12",
+        "author_name": "HackerCombat",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://hackercombat.com/new-variant-of-emotet-trojan-that-spreads-malware-over-internal-networks/"
+    },
+    "posts": {}
+}

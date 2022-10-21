@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "A more in-depth analysis of HDRoot, and problems with Kaspersky's report",
+        "score": 24,
+        "id": "4lujyi",
+        "commsNum": 2,
+        "timeStamp": "2016/05/31-03:24:17",
+        "author_name": "williamshowalter",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://williamshowalter.com/a-universal-windows-bootkit/"
+    },
+    "posts": {}
+}

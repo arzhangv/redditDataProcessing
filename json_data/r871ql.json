@@ -1,0 +1,143 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "  \n\nThis is sort of an FYI. I am still not sure this is the right place but I wanted to put it somewhere as I did not find much info online.\n\nTwo days my phone crashed while browsing and restarted.  \nYesterday NetGuard reported that Samsung Pay Framework tried to connect to [188.40.142.18](https://otx.alienvault.com/indicator/ip/188.40.142.18) on port 123. I can't think of a good explanation for it.\n\nIf anyone is interested and wants to find more or get file samples before I wipe the phone I should be able to get select data via adb. If I don't hear back I will wipe the phone in a few days.\n\nThe apps we reasonably up-to-date (update about once a day when the device charges) but the phone itself is old, S8+ on the latest Android 9 OS available, from spring 2021. I was using either Firefox or DuckDuckGo Browser and I am not sure of the site I was browsing either. I had developer mode on before the crash, probably one more vulnerability that was exploited.",
+        "title": "Smells like malware",
+        "score": 1,
+        "id": "r871ql",
+        "commsNum": 13,
+        "timeStamp": "2021/12/03-11:29:25",
+        "author_name": "Foreign_Addendum",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 13,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/r871ql/smells_like_malware/"
+    },
+    "posts": {
+        "hn7dzft": {
+            "comment": "Maybe but wouldn't a DNS query precede the NTP attempt? And other services that are blocked are querying FQDNs, this one is going for the IP. \n\nIt is sketchy as hell for a disabled service to attempt an NTP connection when the host device has a perfectly good time, update-able via NTP or even without internet via the cell towers.\n\nI thought it after uploading the file, this is probably not the culprit as the last modified time is old.\n\n\\-rw-r--r--   1 root root 78106 **2017**\\-01-05 22:39 PaymentFramework.apk\n\nEither there a service that is running files that were in the .apk or another executable might have attempted the connection.",
+            "timeStamp": "2021/12/04-07:45:54",
+            "id": "hn7dzft",
+            "is_submitter": true,
+            "link_id": "t3_r871ql",
+            "parent_id": "t1_hn52zou",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Foreign_Addendum"
+        },
+        "hn737n5": {
+            "comment": "[removed]",
+            "timeStamp": "2021/12/04-06:17:58",
+            "id": "hn737n5",
+            "is_submitter": false,
+            "link_id": "t3_r871ql",
+            "parent_id": "t1_hn46stu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hn60ycg": {
+            "comment": "All three of your points don't matter....\n\n&amp;#x200B;\n\nDNS round robin - it'll hit any server it gets served first regardless.\n\n&amp;#x200B;\n\nDHCP options - applications can happily ignore those and often WILL for their own configurations.\n\n&amp;#x200B;\n\nPay framework requesting time one-off while initializing or doing something else - sounds like stuff we do for applications used in other scenarios. You'd probably think some of the mobile platform software we write for the federal government is malware with these qualifications... (hint: it's not. )",
+            "timeStamp": "2021/12/03-22:19:32",
+            "id": "hn60ycg",
+            "is_submitter": false,
+            "link_id": "t3_r871ql",
+            "parent_id": "t1_hn4tm5b",
+            "score": 1,
+            "stickied": false,
+            "author_name": "hunterkll"
+        },
+        "hn5wxsn": {
+            "comment": "[deleted]",
+            "timeStamp": "2021/12/03-21:37:31",
+            "id": "hn5wxsn",
+            "is_submitter": false,
+            "link_id": "t3_r871ql",
+            "parent_id": "t3_r871ql",
+            "score": 4,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hn51z3u": {
+            "comment": "Oh, that makes a LOT of sense. You can tell that this is not my area.\n\nadb pull /system/priv-app/PaymentFramework/PaymentFramework.apk \n\n/system/priv-app/PaymentFramework/PaymentFramework.apk: 1 file pulled, 0 skipped. 4.1 MB/s (78106 bytes in 0.018s)\n\nif PaymentFramework.apk is the right file:\n\nSHA-1: 23e1798824ce184eff95f94223442dde18a3911c\n\nSHA-256: bcb2573d699240ec3d67227697576f74fa4c2799ab89525664cfb263daa36aaa\n\nSHA-512: fa07f487964eea2f21b9d5e2c7a4d9037f6a280059012bbdbd81b2265e9d4861447f126a5dfb11b8c5854d3aebcd3a51b4dd85f01e27998980dc499f8b3790a7",
+            "timeStamp": "2021/12/03-17:14:16",
+            "id": "hn51z3u",
+            "is_submitter": true,
+            "link_id": "t3_r871ql",
+            "parent_id": "t1_hn4z7n7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Foreign_Addendum"
+        },
+        "hn4w3g6": {
+            "comment": "Where would I find the file?\n\nI did a \"find -iname .sus\" but I get a *long* list of denies for locations such as /proc that I don't have access due to using adb shell as a regular user. The phone is not rooted.\n\nFYI, I had most of the Samsung stuff disabled via Package Disabler Pro few years ago. Allegedly the installed and disabled version is 3.1.65 / 316501000\n\ncom.samsung.android.spayfw\n\n    dream2qltesq:/system/app $ service list | grep pay\n    88      mobile_payment: [android.spay.IPaymentManager]",
+            "timeStamp": "2021/12/03-16:26:42",
+            "id": "hn4w3g6",
+            "is_submitter": true,
+            "link_id": "t3_r871ql",
+            "parent_id": "t1_hn46stu",
+            "score": -2,
+            "stickied": false,
+            "author_name": "Foreign_Addendum"
+        },
+        "hn4ufe2": {
+            "comment": "I went down this rabbit hole before. 100% just checking the time.",
+            "timeStamp": "2021/12/03-16:13:32",
+            "id": "hn4ufe2",
+            "is_submitter": false,
+            "link_id": "t3_r871ql",
+            "parent_id": "t1_hn4fyp6",
+            "score": 6,
+            "stickied": false,
+            "author_name": "sturmblast"
+        },
+        "hn4tm5b": {
+            "comment": "Yes to the NTP on UDP 123 and thank you for looking for a good explanation but I ruled that out because:\n\n* I am in US and that IP is for Europe\n* I have a local NTP server and it's IP is provided to clients via DHCP\n* The Samsung Pay Framework has only asked for *that one* IP and there is no other traffic (at least logged) from it. Other apps are trying the usual stuff.\n\nThere must have been other traffic from the browser but unfortunately I don't have that logged or captured anywhere.",
+            "timeStamp": "2021/12/03-16:07:04",
+            "id": "hn4tm5b",
+            "is_submitter": true,
+            "link_id": "t3_r871ql",
+            "parent_id": "t1_hn4fyp6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Foreign_Addendum"
+        },
+        "hn4gjoe": {
+            "comment": "solid",
+            "timeStamp": "2021/12/03-14:27:40",
+            "id": "hn4gjoe",
+            "is_submitter": false,
+            "link_id": "t3_r871ql",
+            "parent_id": "t1_hn4fyp6",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Blankcoffers"
+        },
+        "hn4fyp6": {
+            "comment": "&gt; I can't think of a good explanation for it.\n\nI know you're not looking for help, but port 123 is NTP, and your link shows that the IP was reporting itself as part of an NTP.org pool for a while.  Recent port probes by shodan.io shows the NTP port reporting like an NTP server should.  Modern security (especially certificates) is often time based to avoid replay attacks, so I could see the program reaching out to an NTP pool to get the current time for authentication purposes.\n\nI'm not saying that it's not malware, but there seems to be good reason to believe that this might be legit.",
+            "timeStamp": "2021/12/03-14:23:22",
+            "id": "hn4fyp6",
+            "is_submitter": false,
+            "link_id": "t3_r871ql",
+            "parent_id": "t3_r871ql",
+            "score": 18,
+            "stickied": false,
+            "author_name": "godlyfrog"
+        },
+        "hn46stu": {
+            "comment": "[deleted]",
+            "timeStamp": "2021/12/03-13:09:18",
+            "id": "hn46stu",
+            "is_submitter": false,
+            "link_id": "t3_r871ql",
+            "parent_id": "t3_r871ql",
+            "score": 2,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

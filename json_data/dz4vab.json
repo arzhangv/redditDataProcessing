@@ -1,0 +1,165 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Evening/Morning fellow redditors \n\nI've a uni project in which I have perform basic static and dynamic analysis on some sample malwares the category I can choose from is as follow\n\n1. Ransomware \n2. Key logger\n3. Trojan\n4. Miners\n5. Worms\n\nI need 3 malwares of any of the above listed targeting windows operating system, Windows XP if possible as I have a virtual machine ready with windows XP. I just need to get the sample malware along with some basic info like their names, targeted OS etc.  Can anyone show me the website to get the sample malware? Any help will be highly appreciated. \n\nThanks in advance.",
+        "title": "Malware analysis project",
+        "score": 1,
+        "id": "dz4vab",
+        "commsNum": 13,
+        "timeStamp": "2019/11/20-09:03:11",
+        "author_name": "Kiyani1",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 13,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/dz4vab/malware_analysis_project/"
+    },
+    "posts": {
+        "f96fczp": {
+            "comment": "The only way to do that is to search by file type. If you search for \"exe\" then, the OS is implicitly Windows. There is no way to be more specific that Windows, Linux, Mac at this point.",
+            "timeStamp": "2019/11/30-12:03:55",
+            "id": "f96fczp",
+            "is_submitter": false,
+            "link_id": "t3_dz4vab",
+            "parent_id": "t1_f870zol",
+            "score": 1,
+            "stickied": false,
+            "author_name": "FusionCarcass"
+        },
+        "f87xk32": {
+            "comment": "Any chance of getting a reply from admin in case my access is not authorized? Still haven't gotten any source of reply from the admin.",
+            "timeStamp": "2019/11/21-05:56:46",
+            "id": "f87xk32",
+            "is_submitter": true,
+            "link_id": "t3_dz4vab",
+            "parent_id": "t1_f85jf1e",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Kiyani1"
+        },
+        "f870zol": {
+            "comment": "Thank you for your help, any chance I can search by targeted OS of the malware?",
+            "timeStamp": "2019/11/20-20:59:36",
+            "id": "f870zol",
+            "is_submitter": true,
+            "link_id": "t3_dz4vab",
+            "parent_id": "t1_f869axu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Kiyani1"
+        },
+        "f870xyx": {
+            "comment": "thanks you for your help",
+            "timeStamp": "2019/11/20-20:58:52",
+            "id": "f870xyx",
+            "is_submitter": true,
+            "link_id": "t3_dz4vab",
+            "parent_id": "t1_f85xsgu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Kiyani1"
+        },
+        "f869axu": {
+            "comment": "I wrote a tool for searching and downloading malware called the Malware Analysis Center. You can download it using the link below. It allows you to search by name and Yara signature name among other things.\n\nhttps://practicalsecurityanalytics.com/malware-analysis-center/about/\n\nhttps://practicalsecurityanalytics.com/searching/",
+            "timeStamp": "2019/11/20-15:34:36",
+            "id": "f869axu",
+            "is_submitter": false,
+            "link_id": "t3_dz4vab",
+            "parent_id": "t3_dz4vab",
+            "score": 1,
+            "stickied": false,
+            "author_name": "FusionCarcass"
+        },
+        "f85xsgu": {
+            "comment": "https://github.com/ytisf/theZoo",
+            "timeStamp": "2019/11/20-13:32:34",
+            "id": "f85xsgu",
+            "is_submitter": false,
+            "link_id": "t3_dz4vab",
+            "parent_id": "t3_dz4vab",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Thisismy15thusername"
+        },
+        "f85kzwi": {
+            "comment": "Thank you for your help.",
+            "timeStamp": "2019/11/20-11:18:17",
+            "id": "f85kzwi",
+            "is_submitter": true,
+            "link_id": "t3_dz4vab",
+            "parent_id": "t1_f85jf1e",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Kiyani1"
+        },
+        "f85jf1e": {
+            "comment": "[virusshare.com](https://virusshare.com)   \n\n\nSign up and tell them you're a uni student. You should get access within 24 hours.",
+            "timeStamp": "2019/11/20-11:02:00",
+            "id": "f85jf1e",
+            "is_submitter": false,
+            "link_id": "t3_dz4vab",
+            "parent_id": "t3_dz4vab",
+            "score": 1,
+            "stickied": false,
+            "author_name": "m0lware"
+        },
+        "f85g2oq": {
+            "comment": "Ahh I see thanks for the suggestion.",
+            "timeStamp": "2019/11/20-10:28:05",
+            "id": "f85g2oq",
+            "is_submitter": true,
+            "link_id": "t3_dz4vab",
+            "parent_id": "t1_f85dru0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Kiyani1"
+        },
+        "f85dru0": {
+            "comment": "Yeah I would go with nothing digital would be 100% protected there will always be a flaw in the system whether it\u2019s a human or computer. Check out Some of Kevin Mitnick\u2019s books called \u201cGhost in the wire\u201d and his others. They don\u2019t teach you how to write but gives you an idea of how weak the chain can be.",
+            "timeStamp": "2019/11/20-10:04:49",
+            "id": "f85dru0",
+            "is_submitter": false,
+            "link_id": "t3_dz4vab",
+            "parent_id": "t3_dz4vab",
+            "score": 1,
+            "stickied": false,
+            "author_name": "polybiusKai"
+        },
+        "f85bmmu": {
+            "comment": "[removed]",
+            "timeStamp": "2019/11/20-09:43:27",
+            "id": "f85bmmu",
+            "is_submitter": false,
+            "link_id": "t3_dz4vab",
+            "parent_id": "t3_dz4vab",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "f859a8s": {
+            "comment": "Ah nice good luck with that, if I may ask how hard is it to write a malware nowadays? Is it hard considering the security of modern operating systems or like the saying goes nothing is 100% secure and everything has a weak point/vulnerability?",
+            "timeStamp": "2019/11/20-09:19:42",
+            "id": "f859a8s",
+            "is_submitter": true,
+            "link_id": "t3_dz4vab",
+            "parent_id": "t1_f8585nj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Kiyani1"
+        },
+        "f8585nj": {
+            "comment": "I\u2019m currently writing a logger but it\u2019s not finished and will target all three main OS. I would also love to see others examples of malware as well to study for cyber sec.",
+            "timeStamp": "2019/11/20-09:08:01",
+            "id": "f8585nj",
+            "is_submitter": false,
+            "link_id": "t3_dz4vab",
+            "parent_id": "t3_dz4vab",
+            "score": 1,
+            "stickied": false,
+            "author_name": "polybiusKai"
+        }
+    }
+}

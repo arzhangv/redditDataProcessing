@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Can someone explain to me what (Trojan.Malpack.Krunchy) is?",
+        "score": 0,
+        "id": "8qrz6v",
+        "commsNum": 2,
+        "timeStamp": "2018/06/13-05:20:14",
+        "author_name": "adoscey",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8qrz6v/can_someone_explain_to_me_what/"
+    },
+    "posts": {
+        "e0lmalj": {
+            "comment": "This is not an end user support forum",
+            "timeStamp": "2018/06/13-06:45:05",
+            "id": "e0lmalj",
+            "is_submitter": false,
+            "link_id": "t3_8qrz6v",
+            "parent_id": "t3_8qrz6v",
+            "score": 1,
+            "stickied": true,
+            "author_name": "edward_snowedin"
+        },
+        "e0llb83": {
+            "comment": "If this is the case, what sould be done about it? Should i call a professional? Thanks for the reply by the way!",
+            "timeStamp": "2018/06/13-06:28:07",
+            "id": "e0llb83",
+            "is_submitter": true,
+            "link_id": "t3_8qrz6v",
+            "parent_id": "t1_e0linhb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "adoscey"
+        },
+        "e0linhb": {
+            "comment": "So packing code in a malware context is about obfuscating the code. Making it hard to tell what it does. They are trying to stop malware analysis teams from reverse engineering the code. There are different packers out there that try to do this in different ways. Krunchy is a packer known to be used to pack malware. It\u2019s not alerting on the packer itself but rather the fingerprint it left on the sample when it was packed. So really this signature isn\u2019t telling you the kind of malware, it\u2019s just telling your it\u2019s probably bad because it is packed with Krunchy.",
+            "timeStamp": "2018/06/13-05:38:06",
+            "id": "e0linhb",
+            "is_submitter": false,
+            "link_id": "t3_8qrz6v",
+            "parent_id": "t3_8qrz6v",
+            "score": 1,
+            "stickied": false,
+            "author_name": "dawebman"
+        }
+    }
+}

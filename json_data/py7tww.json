@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I got a virus today from some file I downloaded. When I ran it everything started running slowly and google was glitching heavily. It opened multiple windows when I tried opening it and stuff would disappear. I tried windows security and it didn\u2019t find anything. I downloaded an antivirus application and did a full scan. It detected a few adware viruses and deleted them. Things went pretty much back to normal and it was running fast again. However, now my ram is super high even when nothing is running. It\u2019s at around 60-70% when it used to be super low before. What should I do at this point?",
+        "title": "High Ram caused by malware",
+        "score": 1,
+        "id": "py7tww",
+        "commsNum": 0,
+        "timeStamp": "2021/09/29-16:54:42",
+        "author_name": "fishwithgrapes",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/py7tww/high_ram_caused_by_malware/"
+    },
+    "posts": {}
+}

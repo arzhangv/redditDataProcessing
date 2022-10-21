@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "New Wekby Attacks Use DNS Requests As Command and Control Mechanism",
+        "score": 13,
+        "id": "4kz6jt",
+        "commsNum": 0,
+        "timeStamp": "2016/05/25-04:32:24",
+        "author_name": "bartblaze",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://researchcenter.paloaltonetworks.com/2016/05/unit42-new-wekby-attacks-use-dns-requests-as-command-and-control-mechanism/"
+    },
+    "posts": {}
+}

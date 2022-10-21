@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hi I keep getting \u2018detected unusual traffic\u2019 on safari and it only happens when I\u2019m using my wifi and I don\u2019t use vpn. I will do the captcha and it will just ask me to do it again. Why is this?",
+        "title": "Detected unusual traffic",
+        "score": 1,
+        "id": "pu5qyq",
+        "commsNum": 5,
+        "timeStamp": "2021/09/23-14:58:47",
+        "author_name": "Miserable_Floor_5688",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/pu5qyq/detected_unusual_traffic/"
+    },
+    "posts": {
+        "he4cnbj": {
+            "comment": "This seems pretty vague. Without knowing anything I would try following what it says here and see if any of these solve your issue: https://browserhow.com/how-to-fix-google-detected-unusual-traffic-on-safari-iphone/",
+            "timeStamp": "2021/09/24-11:17:47",
+            "id": "he4cnbj",
+            "is_submitter": false,
+            "link_id": "t3_pu5qyq",
+            "parent_id": "t3_pu5qyq",
+            "score": 2,
+            "stickied": false,
+            "author_name": "jt_dunnski"
+        },
+        "he490j9": {
+            "comment": "I\u2019m ngl sure what any of that is lol",
+            "timeStamp": "2021/09/24-10:52:24",
+            "id": "he490j9",
+            "is_submitter": true,
+            "link_id": "t3_pu5qyq",
+            "parent_id": "t1_he3xts0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Miserable_Floor_5688"
+        },
+        "he3xts0": {
+            "comment": "u can use a tcpdump to see what info is been sent.\n\n&amp;#x200B;\n\nalso a firewall is recommended to add \n\nmy favourite one back on apple days was little snitch \n\nDo it the hard way... add the rules one by one...\n\n&amp;#x200B;\n\nAlso use activity monitor to see what process is having this strange traffic...",
+            "timeStamp": "2021/09/24-09:34:02",
+            "id": "he3xts0",
+            "is_submitter": false,
+            "link_id": "t3_pu5qyq",
+            "parent_id": "t3_pu5qyq",
+            "score": 0,
+            "stickied": false,
+            "author_name": "nasiralimx"
+        },
+        "he0zafs": {
+            "comment": "None out of the ordinary, if your referring to the adult sights lol just the general ones.",
+            "timeStamp": "2021/09/23-16:37:53",
+            "id": "he0zafs",
+            "is_submitter": true,
+            "link_id": "t3_pu5qyq",
+            "parent_id": "t1_he0z0c1",
+            "score": -2,
+            "stickied": false,
+            "author_name": "Miserable_Floor_5688"
+        },
+        "he0z0c1": {
+            "comment": "what websites have you been visiting? It might keep marking your public Ip to be looking at stuff that is deemed sensitive or unusual amounts",
+            "timeStamp": "2021/09/23-16:35:41",
+            "id": "he0z0c1",
+            "is_submitter": false,
+            "link_id": "t3_pu5qyq",
+            "parent_id": "t3_pu5qyq",
+            "score": -1,
+            "stickied": false,
+            "author_name": "ansolo00"
+        }
+    }
+}

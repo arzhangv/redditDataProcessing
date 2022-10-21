@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I wanted to update Java so I could use NullpoMino. It redirected me to this website:  [https://www.java.com/en/download/win10.jsp](https://www.java.com/en/download/win10.jsp)  and i downloaded it from there. I scanned it with virustotal and hybrid analysis and it gets detected by Secure Age apex only (Here are the scan results:  [https://www.virustotal.com/gui/file/df0a4fbebae6d6ae7150d70c96024a55712b6ce0aec82fa2fe23ea85b95a973d/detection](https://www.virustotal.com/gui/file/df0a4fbebae6d6ae7150d70c96024a55712b6ce0aec82fa2fe23ea85b95a973d/detection)  [https://www.hybrid-analysis.com/sample/df0a4fbebae6d6ae7150d70c96024a55712b6ce0aec82fa2fe23ea85b95a973d](https://www.hybrid-analysis.com/sample/df0a4fbebae6d6ae7150d70c96024a55712b6ce0aec82fa2fe23ea85b95a973d) )\n\nAm I being paranoid, and this is a false hit, or is this something to be worried about?",
+        "title": "Java update comes out as malicious.",
+        "score": 1,
+        "id": "ht2rz3",
+        "commsNum": 6,
+        "timeStamp": "2020/07/17-13:02:45",
+        "author_name": "Zero123Alpha",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ht2rz3/java_update_comes_out_as_malicious/"
+    },
+    "posts": {
+        "fyeeol1": {
+            "comment": "Thanks for the advice.",
+            "timeStamp": "2020/07/17-14:07:16",
+            "id": "fyeeol1",
+            "is_submitter": true,
+            "link_id": "t3_ht2rz3",
+            "parent_id": "t1_fyeaqam",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Zero123Alpha"
+        },
+        "fyeeewm": {
+            "comment": "Thought so. Just wanted extra confirmation. Thank you!",
+            "timeStamp": "2020/07/17-14:04:57",
+            "id": "fyeeewm",
+            "is_submitter": true,
+            "link_id": "t3_ht2rz3",
+            "parent_id": "t1_fyedvl9",
+            "score": 0,
+            "stickied": false,
+            "author_name": "Zero123Alpha"
+        },
+        "fyedvl9": {
+            "comment": "The file is fine. Is is validly signed and has only one detection on Virustotal.",
+            "timeStamp": "2020/07/17-14:00:25",
+            "id": "fyedvl9",
+            "is_submitter": false,
+            "link_id": "t3_ht2rz3",
+            "parent_id": "t3_ht2rz3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Struppigel"
+        },
+        "fyeaqam": {
+            "comment": "when in doubt, compare hashes (windows 10 now allows you to do this from a file's context menu: right click -&gt; CRC SHA -&gt; SHA256)\n\nsometimes new updates will be false positives due to them not propagating fast enough through the detection platform as \"safe/trusted\"",
+            "timeStamp": "2020/07/17-13:33:49",
+            "id": "fyeaqam",
+            "is_submitter": false,
+            "link_id": "t3_ht2rz3",
+            "parent_id": "t1_fyeabts",
+            "score": 1,
+            "stickied": false,
+            "author_name": "misceo"
+        },
+        "fyeabts": {
+            "comment": "I doubt it's my computer, because the NullpoMino install was clean, but I'm pretty sure it's a false hit, because I got it from the Java website, and there was only 1 hit. Plus it just said it was malicious.",
+            "timeStamp": "2020/07/17-13:30:26",
+            "id": "fyeabts",
+            "is_submitter": true,
+            "link_id": "t3_ht2rz3",
+            "parent_id": "t1_fye7lm9",
+            "score": 0,
+            "stickied": false,
+            "author_name": "Zero123Alpha"
+        },
+        "fye7lm9": {
+            "comment": "Comodo's HIPS &amp; SandBox reported nothing in my system \u2714\ufe0f",
+            "timeStamp": "2020/07/17-13:07:33",
+            "id": "fye7lm9",
+            "is_submitter": false,
+            "link_id": "t3_ht2rz3",
+            "parent_id": "t3_ht2rz3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AchwaqKhalid"
+        }
+    }
+}

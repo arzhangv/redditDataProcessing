@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Sophisticated cybercriminals are now using adverts to install malware into users\u2019 computers. The latest discovery is the use of infected ads which exploit a flaw in the Flash Player to install malware",
+        "score": 1,
+        "id": "2v375s",
+        "commsNum": 0,
+        "timeStamp": "2015/02/07-05:30:10",
+        "author_name": "securityadvocate",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securitygladiators.com/2015/02/07/ransomware-being-spread-through-ads/"
+    },
+    "posts": {}
+}

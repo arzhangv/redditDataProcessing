@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[removed]",
+        "title": "Did I get a virus on my pc?",
+        "score": 0,
+        "id": "6r75k2",
+        "commsNum": 3,
+        "timeStamp": "2017/08/02-13:39:09",
+        "author_name": "ScoreSomeGudDrugz",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6r75k2/did_i_get_a_virus_on_my_pc/"
+    },
+    "posts": {
+        "dl7gbke": {
+            "comment": "Get ccleaner, delete your internet cookies and cache. I have had this, sometimes the site will keep redirecting you back to itself.  Check for unwanted extensions on your browser. Thats about it",
+            "timeStamp": "2017/08/05-09:51:35",
+            "id": "dl7gbke",
+            "is_submitter": false,
+            "link_id": "t3_6r75k2",
+            "parent_id": "t3_6r75k2",
+            "score": 0,
+            "stickied": false,
+            "author_name": "Squidassassin7"
+        },
+        "dl2vio9": {
+            "comment": "It's just scareware. You want /r/techsupport\n\n\n",
+            "timeStamp": "2017/08/02-14:13:38",
+            "id": "dl2vio9",
+            "is_submitter": false,
+            "link_id": "t3_6r75k2",
+            "parent_id": "t3_6r75k2",
+            "score": 2,
+            "stickied": false,
+            "author_name": "metefese"
+        },
+        "dl2v4gr": {
+            "comment": "That's a scam site that tries to get you to buy in or give your information through scare tactics, the only thing to do is just close out and move on. Good on you for not falling for it and for double checking your machine afterwards. :)",
+            "timeStamp": "2017/08/02-14:06:40",
+            "id": "dl2v4gr",
+            "is_submitter": false,
+            "link_id": "t3_6r75k2",
+            "parent_id": "t3_6r75k2",
+            "score": 2,
+            "stickied": false,
+            "author_name": "3xist"
+        }
+    }
+}

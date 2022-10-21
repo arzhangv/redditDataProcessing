@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I've been suggested by the internet that you can effectively stop a cryptominer that might have been installed alongside software by using NetLimiter.\n\nI was hoping anyone here had info on how to do so, as I can't find much online. As far as I can tell, no large packages are being sent by any unauthorized program, but some of my friends were suggesting I check since they supposedly got a miner from some of the same software we own, so I have no idea how to check/make sure.\n\nThanks, guys, apologies in advance if this is not aligned to the purpose of the sub.",
+        "title": "Verifying programs with NetLimiter.",
+        "score": 1,
+        "id": "fhhdzq",
+        "commsNum": 0,
+        "timeStamp": "2020/03/12-07:43:39",
+        "author_name": "RuzeHiroma",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/fhhdzq/verifying_programs_with_netlimiter/"
+    },
+    "posts": {}
+}

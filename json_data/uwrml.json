@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Analyzing the MD5 collision in Flame [PDF]",
+        "score": 8,
+        "id": "uwrml",
+        "commsNum": 1,
+        "timeStamp": "2012/06/11-14:11:02",
+        "author_name": "simpleuser",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": null,
+        "url": "http://trailofbits.files.wordpress.com/2012/06/flame-md5.pdf"
+    },
+    "posts": {}
+}

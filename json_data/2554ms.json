@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Part of StealRAT source code.",
+        "score": 4,
+        "id": "2554ms",
+        "commsNum": 0,
+        "timeStamp": "2014/05/09-10:13:03",
+        "author_name": "kafrofrite",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://github.com/frite/StealRAT"
+    },
+    "posts": {}
+}

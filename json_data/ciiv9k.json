@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "\n\nhttps://www.vice.com/en_us/article/wjvvvb/cybersecurity-firm-drops-code-for-the-incredibly-dangerous-windows-bluekeep-vulnerability",
+        "title": "Immunity Developed Working BlueKeep Exploit",
+        "score": 22,
+        "id": "ciiv9k",
+        "commsNum": 3,
+        "timeStamp": "2019/07/27-08:33:10",
+        "author_name": "m_edmondson",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ciiv9k/immunity_developed_working_bluekeep_exploit/"
+    },
+    "posts": {
+        "ev9fxno": {
+            "comment": "That is not the full exploit, just the PoC.  Requires some work to get that code to run a payload.",
+            "timeStamp": "2019/07/28-06:27:20",
+            "id": "ev9fxno",
+            "is_submitter": false,
+            "link_id": "t3_ciiv9k",
+            "parent_id": "t1_ev890ph",
+            "score": 1,
+            "stickied": false,
+            "author_name": "iCkerous"
+        },
+        "ev890ph": {
+            "comment": "Why not just get the exploit for free right now from github?  It is at https://github.com/Ekultek/BlueKeep",
+            "timeStamp": "2019/07/27-17:10:42",
+            "id": "ev890ph",
+            "is_submitter": false,
+            "link_id": "t3_ciiv9k",
+            "parent_id": "t3_ciiv9k",
+            "score": 1,
+            "stickied": false,
+            "author_name": "phreakng33k"
+        },
+        "ev847uz": {
+            "comment": "What does it do?",
+            "timeStamp": "2019/07/27-16:08:09",
+            "id": "ev847uz",
+            "is_submitter": false,
+            "link_id": "t3_ciiv9k",
+            "parent_id": "t3_ciiv9k",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ssj4VB"
+        }
+    }
+}

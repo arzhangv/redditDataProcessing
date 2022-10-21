@@ -1,0 +1,154 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Not sure what's happening but the install for After Effects, Animate, etc didn't have this happen. \n\nHere's the VirusTotal for the install file: [https://www.virustotal.com/gui/file/fded078cc7cfb12917d79db97fccd3d9db0a69b26d6e6e58c3f022e2b75d4611/detection](https://www.virustotal.com/gui/file/fded078cc7cfb12917d79db97fccd3d9db0a69b26d6e6e58c3f022e2b75d4611/detection)",
+        "title": "Adobe Fresco install causing Trojan:Win32/AgentTesla!ml warning from Windows Security",
+        "score": 1,
+        "id": "ryszdf",
+        "commsNum": 0,
+        "timeStamp": "2022/01/07-22:01:58",
+        "author_name": "pyricc_",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ryszdf/adobe_fresco_install_causing/"
+    },
+    "posts": {
+        "hrviqu6": {
+            "comment": "Oh ok, I'll get Glasswire. Already have Malwarebites though, just Windows was the one that caught this one first I guess.",
+            "timeStamp": "2022/01/08-20:49:35",
+            "id": "hrviqu6",
+            "is_submitter": true,
+            "link_id": "t3_ryszdf",
+            "parent_id": "t1_hrvim3n",
+            "score": 1,
+            "stickied": false,
+            "author_name": "pyricc_"
+        },
+        "hrvim3n": {
+            "comment": "Would recommend getting bit defender or some kind of better av. Tbh maybe a bit over the top but you could get glassware firewall free version for a while. Will stop unknown programs (i.e. RATs and other malware) from connecting to their control server without your permission",
+            "timeStamp": "2022/01/08-20:48:27",
+            "id": "hrvim3n",
+            "is_submitter": false,
+            "link_id": "t3_ryszdf",
+            "parent_id": "t1_hrvhkdz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "micropeenandproud"
+        },
+        "hrvhkdz": {
+            "comment": "Ok, all files deleted, no scheduled tasks or startup programs. Any way to monitor this to see if it pops up later?",
+            "timeStamp": "2022/01/08-20:39:32",
+            "id": "hrvhkdz",
+            "is_submitter": true,
+            "link_id": "t3_ryszdf",
+            "parent_id": "t1_hrvesio",
+            "score": 1,
+            "stickied": false,
+            "author_name": "pyricc_"
+        },
+        "hrvesio": {
+            "comment": "If you can rebuild do. If not, delete the installed files, check for scheduled tasks, autorun keys, startup programs etc... But you can hope that the malware is only contained within the Adobe stuff itself and can just be deleted if you're lucky. But a rebuild is always safer",
+            "timeStamp": "2022/01/08-20:16:59",
+            "id": "hrvesio",
+            "is_submitter": false,
+            "link_id": "t3_ryszdf",
+            "parent_id": "t1_hrux9ux",
+            "score": 1,
+            "stickied": false,
+            "author_name": "micropeenandproud"
+        },
+        "hrux9ux": {
+            "comment": "What should I do to remove it then?",
+            "timeStamp": "2022/01/08-18:06:34",
+            "id": "hrux9ux",
+            "is_submitter": true,
+            "link_id": "t3_ryszdf",
+            "parent_id": "t1_hrun1n0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "pyricc_"
+        },
+        "hrun1n0": {
+            "comment": "It's highly likely that the av alert is accurate. And that tag is for agent tesla, a popular remote access Trojan. It's highly likely that it also exists in the other packages you installed if sourced from the same place, even if not detected.",
+            "timeStamp": "2022/01/08-16:54:01",
+            "id": "hrun1n0",
+            "is_submitter": false,
+            "link_id": "t3_ryszdf",
+            "parent_id": "t1_hrtdw5c",
+            "score": 1,
+            "stickied": false,
+            "author_name": "micropeenandproud"
+        },
+        "hrtdw5c": {
+            "comment": "Non-genuine.",
+            "timeStamp": "2022/01/08-11:46:33",
+            "id": "hrtdw5c",
+            "is_submitter": true,
+            "link_id": "t3_ryszdf",
+            "parent_id": "t1_hrrtoun",
+            "score": 1,
+            "stickied": false,
+            "author_name": "pyricc_"
+        },
+        "hrsbzcp": {
+            "comment": "\ud83d\ude02absolutely shameless",
+            "timeStamp": "2022/01/08-07:35:31",
+            "id": "hrsbzcp",
+            "is_submitter": false,
+            "link_id": "t3_ryszdf",
+            "parent_id": "t1_hrs7w7u",
+            "score": 1,
+            "stickied": false,
+            "author_name": "micropeenandproud"
+        },
+        "hrs7w7u": {
+            "comment": "[https://www.virustotal.com/gui/file/fded078cc7cfb12917d79db97fccd3d9db0a69b26d6e6e58c3f022e2b75d4611/behavior/Tencent%20HABO](https://www.virustotal.com/gui/file/fded078cc7cfb12917d79db97fccd3d9db0a69b26d6e6e58c3f022e2b75d4611/behavior/Tencent%20HABO)\n\n&gt;**Highlighted Actions**  \n&gt;  \n&gt;*Highlighted Text*  \n&gt;  \n&gt;Error during execution \"\"C:\\\\Documents and Settings\\\\Administrator\\\\Local Settings\\\\Temp\\\\EB93A6\\\\..\\\\Set-up.exe\"\". \u7cfb\u7edf\u627e\u4e0d\u5230\u6307\u5b9a\u7684\u6587\u4ef6\u3002  \n&gt;  \n&gt;OK  \n&gt;  \n&gt;Adobe Fresco crack: error  \n&gt;  \n&gt;Cracking complete. Enjoy!  \n&gt;  \n&gt;Adobe Fresco crack\n\n\ud83e\udd14",
+            "timeStamp": "2022/01/08-07:05:28",
+            "id": "hrs7w7u",
+            "is_submitter": false,
+            "link_id": "t3_ryszdf",
+            "parent_id": "t1_hrrtoun",
+            "score": 1,
+            "stickied": false,
+            "author_name": "testudobinarii"
+        },
+        "hrrtoun": {
+            "comment": "Genuine version or a pirated copy?",
+            "timeStamp": "2022/01/08-05:02:38",
+            "id": "hrrtoun",
+            "is_submitter": false,
+            "link_id": "t3_ryszdf",
+            "parent_id": "t3_ryszdf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "pirate_phate"
+        },
+        "hrrneip": {
+            "comment": "False positive probably. The defender's ml detection gives a lot of false positives",
+            "timeStamp": "2022/01/08-03:51:23",
+            "id": "hrrneip",
+            "is_submitter": false,
+            "link_id": "t3_ryszdf",
+            "parent_id": "t3_ryszdf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DudewithCoolusername"
+        },
+        "hrr2knz": {
+            "comment": "[removed]",
+            "timeStamp": "2022/01/07-23:22:46",
+            "id": "hrr2knz",
+            "is_submitter": false,
+            "link_id": "t3_ryszdf",
+            "parent_id": "t3_ryszdf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

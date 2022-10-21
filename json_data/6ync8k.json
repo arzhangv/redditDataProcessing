@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "TrickBot Banking Trojan Dropper Analysis",
+        "score": 24,
+        "id": "6ync8k",
+        "commsNum": 12,
+        "timeStamp": "2017/09/07-06:53:37",
+        "author_name": "majorllama",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 12,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.ringzerolabs.com/2017/07/trickbot-banking-trojan-doc00039217doc.html"
+    },
+    "posts": {}
+}

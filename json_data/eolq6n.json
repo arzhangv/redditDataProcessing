@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi,\nI want to ask you how you have solved the issue of delivering malware samples for analysis from customer? How do uou deliver them, mail/upload to some server (on premises/ cloud) and how does it go afterwards? I also have one of commercial Sandboxes at my disposal, which I want to include in this process. Overview diagrams with short description are very welcome. \nThank you very much in advance for any advice!",
+        "title": "Infrastructure to analysis malware sample from clients",
+        "score": 1,
+        "id": "eolq6n",
+        "commsNum": 0,
+        "timeStamp": "2020/01/14-06:09:00",
+        "author_name": "hex_croco",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/eolq6n/infrastructure_to_analysis_malware_sample_from/"
+    },
+    "posts": {}
+}

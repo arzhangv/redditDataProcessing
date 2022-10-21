@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "SHELLBIND IoT malware targets NAS devices exploiting SambaCry flaw",
+        "score": 1,
+        "id": "6o6fx1",
+        "commsNum": 0,
+        "timeStamp": "2017/07/18-22:24:55",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/61142/malware/shellbind-iot-malware.html"
+    },
+    "posts": {}
+}

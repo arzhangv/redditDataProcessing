@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "How is persistence achieved by malware without creating a file or a registry entry in the system? How is it reloaded in the system after reboot?",
+        "title": "How does file-less malware achieve persistence?",
+        "score": 13,
+        "id": "2s3bmw",
+        "commsNum": 13,
+        "timeStamp": "2015/01/11-12:45:23",
+        "author_name": "aim4r",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 13,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2s3bmw/how_does_fileless_malware_achieve_persistence/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "A collection of PHP backdoors",
+        "score": 20,
+        "id": "4jqwk9",
+        "commsNum": 9,
+        "timeStamp": "2016/05/17-06:31:14",
+        "author_name": "bartblaze",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 9,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://github.com/bartblaze/PHP-backdoors"
+    },
+    "posts": {}
+}

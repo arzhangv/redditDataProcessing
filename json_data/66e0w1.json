@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Microsoft's Timely Response to Shadow Brokers Threat Raises Questions. Microsoft's decision not to patch vulnerabilities affecting older versions of Windows that no longer are supported is understandable, but it doesn't make the situation less worrisome",
+        "score": 1,
+        "id": "66e0w1",
+        "commsNum": 0,
+        "timeStamp": "2017/04/19-16:39:05",
+        "author_name": "hac_flx",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.technewsworld.com/story/84463.html"
+    },
+    "posts": {}
+}

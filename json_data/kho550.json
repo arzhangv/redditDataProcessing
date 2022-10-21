@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I'm currently trying to train a machine learning classifier to differentiate between android malware and benign samples. Anybody know where I can get a large dataset? Many large android malware datasets seem to be owned by academic institutions and need special permission to be accessed. I just wanted to know if there is a large set of samples out there that do not need any special permissions to be downloaded.",
+        "title": "Need Large Android Malware Dataset to Train ML Algorithm",
+        "score": 1,
+        "id": "kho550",
+        "commsNum": 3,
+        "timeStamp": "2020/12/21-11:22:33",
+        "author_name": "bass581",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/kho550/need_large_android_malware_dataset_to_train_ml/"
+    },
+    "posts": {
+        "ggnm026": {
+            "comment": "Check out theZoo at GitHub",
+            "timeStamp": "2020/12/21-19:13:35",
+            "id": "ggnm026",
+            "is_submitter": false,
+            "link_id": "t3_kho550",
+            "parent_id": "t3_kho550",
+            "score": 1,
+            "stickied": false,
+            "author_name": "hacker0ni"
+        },
+        "ggm93ap": {
+            "comment": "Check github for malware datasets. \nAlso NIST.gov have android datasets as well. Google NIST hash set",
+            "timeStamp": "2020/12/21-12:00:30",
+            "id": "ggm93ap",
+            "is_submitter": false,
+            "link_id": "t3_kho550",
+            "parent_id": "t3_kho550",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Shana-na-na"
+        },
+        "ggm7rnr": {
+            "comment": "[removed]",
+            "timeStamp": "2020/12/21-11:49:33",
+            "id": "ggm7rnr",
+            "is_submitter": false,
+            "link_id": "t3_kho550",
+            "parent_id": "t3_kho550",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

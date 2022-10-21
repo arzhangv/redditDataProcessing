@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Found what I believe to be a cluster of malware applications. Have a look here:\n\nh-irealizethismightbemalware-ttps://winaero.com/how-to-uninstall-and-remove-edge-browser-in-windows-10/\n\n(Disclaimer: I believe this is malware so be careful obviously)\n\nThe \"uninstall\\_edge.zip\" you are supposed to download contains two files: \"Uninstall Edge.cmd\" and \"install\\_wim\\_tweak.exe\". The .cmd file is not of interest: It contains a small script that could even work... with a *genuine* install\\_wim\\_tweak.exe.\n\nThe \"install\\_wim\\_tweak.exe\" is where things start to get interesting. This is supposed to be a pretty well known tool, see [here](https://msfn.org/board/topic/152688-win6x_registry_tweak/). It is used to modify windows install images. I believe this to be malware free, originally. However, the .zip from above does not actually contain the same .exe! Both say version [1.4.7.0](https://1.4.7.0), but they got different checksums:\n\nGenuine install\\_wim\\_tweak.exe sha256: 1F6054E153129AFFC15982EFE6D47A79C3C18E4D6A57C7835A511EA0DE96DDB4\n\nFake malware .exe sha256: AFBF22880D0129F8B11B1A5876F175C874F52C8572CB5C4BEDA3C528241A8E6C\n\nOnly one engine detects this on [virustotal](https://www.virustotal.com/gui/file/afbf22880d0129f8b11b1a5876f175c874f52c8572cb5c4beda3c528241a8e6c/detection). When running the .cmd as admin as advised, there will be a security notification about \"HackTool:Win32/Wpakill.AR!MTB\" being detected. However this only flashes up for maybe a second at best, then some part of the malware hides this notification and you will only find it by going through the history of Defender manually. In fact, I just cought this when replaying the whole scenario in a VM. On my real Windows machine I realized that this was a virus because suddenly my HDD was maxed out all the time by weird processes, but I was not able to reproduce this in a VM yet.\n\nWhen I googled on the topic a bit I found out that similar .zips with a similar or the same .exe are distributed on many different sites, for example:\n\n[Everywhere on winaero](https://winaero.com/how-to-uninstall-and-remove-cortana-in-windows-10/)\n\n[Windowstips.ru](https://webcache.googleusercontent.com/search?q=cache:--g6tFdXDxIJ:https://windowstips.ru/files/) (offline atm, cached version, \"[Remove-Cortana-Windows-Feedback-Contact-and-Support-an-Edge.zip](https://Remove-Cortana-Windows-Feedback-Contact-and-Support-an-Edge.zip)\" is the file in question)\n\n[This person casually keeping it on their github](https://github.com/ExoticMidnight/Remove-Microsoft-Edge) (has code for remote management and malware on there as well...)\n\nand more.\n\nTl;dr: Found malware that is passing as tool to remove some unwanted windows apps. Seems to be widely unknown, although some engines detecting it as malicious. Seems to be functional on up-to-date Windows 10.\n\nAny thoughts? Could someone with a virtual machine and too much time reproduce this? Where to go from here? Do further analysis? Where to report it? Does reporting it actually help or will no one care? Any hint appreciated!",
+        "title": "Found malware, what now",
+        "score": 1,
+        "id": "k82421",
+        "commsNum": 0,
+        "timeStamp": "2020/12/06-13:07:29",
+        "author_name": "afunkysongaday",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/k82421/found_malware_what_now/"
+    },
+    "posts": {}
+}

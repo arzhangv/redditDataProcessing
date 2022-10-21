@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I've checked through my list of programs and nothing I see could be causing this, I haven't downloaded anything recently that could be causing this. What program can I use to get rid of this crap?",
+        "title": "Got a problem with McAfee, Norton, and Dating related Google Chrome popups",
+        "score": 1,
+        "id": "epq2u0",
+        "commsNum": 3,
+        "timeStamp": "2020/01/16-13:39:23",
+        "author_name": "RacialBias",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/epq2u0/got_a_problem_with_mcafee_norton_and_dating/"
+    },
+    "posts": {
+        "fel9hdv": {
+            "comment": "It is just the notifications websites send you.\n\nI personally consider that shit greyware at the best and shitware in all honesty.\n\nIn Chrome go to: chrome://settings/content\n\nTurn off Notifications.\n\nDo the same in all your browsers.",
+            "timeStamp": "2020/01/16-15:23:06",
+            "id": "fel9hdv",
+            "is_submitter": false,
+            "link_id": "t3_epq2u0",
+            "parent_id": "t3_epq2u0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Spajtastic"
+        },
+        "fel2jgo": {
+            "comment": "Look for any suspicious chrome addons",
+            "timeStamp": "2020/01/16-14:11:07",
+            "id": "fel2jgo",
+            "is_submitter": false,
+            "link_id": "t3_epq2u0",
+            "parent_id": "t3_epq2u0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "compdog"
+        },
+        "fel1zeg": {
+            "comment": "[removed]",
+            "timeStamp": "2020/01/16-14:05:20",
+            "id": "fel1zeg",
+            "is_submitter": false,
+            "link_id": "t3_epq2u0",
+            "parent_id": "t3_epq2u0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Microsoft Seizes No-IP Domains for Alleged Malware Hosting, Over 245 Pieces of Malware begin filtered into Microsoft DNS",
+        "score": 27,
+        "id": "29k5xh",
+        "commsNum": 26,
+        "timeStamp": "2014/07/01-06:09:58",
+        "author_name": "FreedomHacker",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 26,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://freedomhacker.net/2014-06-microsoft-seizes-no-ip-domains-for-malware-hosting-millions-of-users-suffer-outage/"
+    },
+    "posts": {}
+}

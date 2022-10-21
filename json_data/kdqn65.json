@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "&amp;#x200B;\n\nLast night, i was playing some red dead redemption 2, finished up then went to homescreen. I realized that my mouse was drifting when i press CTRL SHIFT S to open up snip. and when i went to \"Type here to search\" my keyboard was acting like the tab key was stuck. Is this some sort of virus?A restart and windows update fixed it . I had a problem before a few times a week where my KB would be stuck on some key, like W closed a window instead of typing W.\n\nAlso a full malware scan with Win defender detected nothing and SFC scannow detected nothing\n\nImgur link to what im talking about: (yes ik this is from my tiktok page dont judge) [https://imgur.com/a/XFvxIyY](https://imgur.com/a/XFvxIyY)\n\nTLDR, \"keyboard and mouse went crazy and did random stuff, no viruses detected, reboot fixed it. Virus, Y/N?\"",
+        "title": "Trying to determine if this is a pc virus or something else",
+        "score": 1,
+        "id": "kdqn65",
+        "commsNum": 3,
+        "timeStamp": "2020/12/15-09:57:05",
+        "author_name": "bearfeetsmellgood",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/kdqn65/trying_to_determine_if_this_is_a_pc_virus_or/"
+    },
+    "posts": {
+        "gfyac88": {
+            "comment": "sometime's it's just dust in the sensor of the mouse",
+            "timeStamp": "2020/12/15-11:28:30",
+            "id": "gfyac88",
+            "is_submitter": false,
+            "link_id": "t3_kdqn65",
+            "parent_id": "t3_kdqn65",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Mild_Savage"
+        },
+        "gfy0yp5": {
+            "comment": "Looks like a glitch that made the computer think a key was pressed.",
+            "timeStamp": "2020/12/15-10:18:31",
+            "id": "gfy0yp5",
+            "is_submitter": false,
+            "link_id": "t3_kdqn65",
+            "parent_id": "t3_kdqn65",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MajorUrsa2"
+        },
+        "gfy0wu2": {
+            "comment": "Download another AV like MalwareBytes for free. It should give you a trial run of the pro version for a set period.  Once you install it, Go to Settings --&gt; Security --&gt; Enable all the Scan Options.\n\nThen run a full scan. \n\nYou could also run a test by using a different mouse and see if the same behavior occurs. If it doesn't then look at updating any drivers related to the keyboard and mouse.\n\nI reckon it is more driver/application related than it being a form of Malware.",
+            "timeStamp": "2020/12/15-10:18:07",
+            "id": "gfy0wu2",
+            "is_submitter": false,
+            "link_id": "t3_kdqn65",
+            "parent_id": "t3_kdqn65",
+            "score": 1,
+            "stickied": false,
+            "author_name": "T-CAP0"
+        }
+    }
+}

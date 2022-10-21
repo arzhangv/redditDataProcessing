@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[removed]",
+        "title": "Rig setups?",
+        "score": 1,
+        "id": "9try67",
+        "commsNum": 3,
+        "timeStamp": "2018/11/02-23:16:05",
+        "author_name": "ghostinshell000",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/9try67/rig_setups/"
+    },
+    "posts": {
+        "e907bg1": {
+            "comment": "Mine is simplistic, but mostly because i'm just testing the effectiveness of different av products against ransomware samples and inspecting phishing emails. It's a headless optiplex 3020 i5, shoved under some network stuff - running hyper-v with a bunch of win10/win7 vms. It's connected to a Sonicwall with its own restricted zone on a seperate WAN address from all of my other garbage. Really simple and gets the job done. Probably going to replace it with something beefier but smaller in the future.",
+            "timeStamp": "2018/11/03-17:27:45",
+            "id": "e907bg1",
+            "is_submitter": false,
+            "link_id": "t3_9try67",
+            "parent_id": "t3_9try67",
+            "score": 1,
+            "stickied": false,
+            "author_name": "hardwire187"
+        },
+        "e8ynzy4": {
+            "comment": "[removed]",
+            "timeStamp": "2018/11/02-23:16:06",
+            "id": "e8ynzy4",
+            "is_submitter": false,
+            "link_id": "t3_9try67",
+            "parent_id": "t3_9try67",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

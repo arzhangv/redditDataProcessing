@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Active botnet campaign #StealthWorker aka #GoBrut conducting distributed brute force attacks on thousands of sites with #OpenCart (eCommerce CMS)",
+        "score": 1,
+        "id": "uhak43",
+        "commsNum": 0,
+        "timeStamp": "2022/05/03-00:17:50",
+        "author_name": "TopicProfessional692",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://securitypix.com/botnet-campaign-stealthworker-infecting-thousands-of-websites/"
+    },
+    "posts": {}
+}

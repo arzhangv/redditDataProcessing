@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I have to research and write a report on a malware outbreak that happened anytime during the past 10 years. You guys have any ideas for interesting one I should research?",
+        "title": "Looking for an interesting malware outbreak to research",
+        "score": 1,
+        "id": "dcg3h3",
+        "commsNum": 4,
+        "timeStamp": "2019/10/02-13:35:19",
+        "author_name": "TheCreecer",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/dcg3h3/looking_for_an_interesting_malware_outbreak_to/"
+    },
+    "posts": {
+        "f3fgg4y": {
+            "comment": "Big fan of Emotet",
+            "timeStamp": "2019/10/12-09:13:21",
+            "id": "f3fgg4y",
+            "is_submitter": false,
+            "link_id": "t3_dcg3h3",
+            "parent_id": "t1_f281vv2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Pandappl"
+        },
+        "f28gsrv": {
+            "comment": "^ Stuxnet and WannaCry would give you lots of sources. Gandcrab is also a fairly large beast that would be interesting to see how ransomware authors were operating a serious business.",
+            "timeStamp": "2019/10/02-17:07:05",
+            "id": "f28gsrv",
+            "is_submitter": false,
+            "link_id": "t3_dcg3h3",
+            "parent_id": "t1_f281vv2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Rayotap"
+        },
+        "f28bt3n": {
+            "comment": "also the severe lmddgtfy cyber attacks in the past 10 years\n\nread more here: [https://is.gd/NTWvnE](https://is.gd/NTWvnE)",
+            "timeStamp": "2019/10/02-16:05:39",
+            "id": "f28bt3n",
+            "is_submitter": false,
+            "link_id": "t3_dcg3h3",
+            "parent_id": "t3_dcg3h3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "tandulim"
+        },
+        "f281vv2": {
+            "comment": "- Stuxnet\n- WannaCry\n- SamSam\n- NotPetya\n- Ryuk\n- CryptoLocker\n- TeslaCrypt",
+            "timeStamp": "2019/10/02-14:14:20",
+            "id": "f281vv2",
+            "is_submitter": false,
+            "link_id": "t3_dcg3h3",
+            "parent_id": "t3_dcg3h3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DrinkMoreCodeMore"
+        }
+    }
+}

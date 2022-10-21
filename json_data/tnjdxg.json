@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "\ud83d\udea6 Rules\nDo not pay the ransom\nFind available backup\nCheck system restore points\n\n\ud83d\udd34 How to identify Ransomware type\n\nUsing one of the following online tools\nhttps://www.nomoreransom.org/crypto-sheriff.php\nhttps://id-ransomware.malwarehunterteam.com\n\n\ud83d\udd34 Here is a 200+ Ransomware Decryptor list that you can use free\n\nhttps://heimdalsecurity.com/blog/ransomware-decryption-tools/\n\n\ud83d\udd34 Other resources\n\n1: Shadow Explorer: ShadowExplorer allows you to browse the Shadow Copies created by the Windows Vista / 7/8/10\u00a0Volume Shadow Copy Service.\nhttps://www.shadowexplorer.com/downloads.html\n\n2: EMSISoft ransomware decryption tools\nhttps://www.emsisoft.com/ransomware-decryption-tools/\n\n3:TRON script: malware and bloatware removal tool\nhttps://www.reddit.com/r/TronScript/comments/qaw0wm/tron_v1201_20211018_minor_definition_updates/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf\n\n4:  Nomoreransom\nhttps://www.nomoreransom.org\n\n5:   Avast Ransomware decryption tools\nhttps://www.avast.com/ransomware-decryption-tools\n\n6: Cyberreason Ransomfree  for Windows\nhttps://www.cyberreason.com\n\n7: ID-Ransomware\nhttps://id-ransomware.malwarehunterteam.com",
+        "title": "Ransomware protection Resources",
+        "score": 1,
+        "id": "tnjdxg",
+        "commsNum": 0,
+        "timeStamp": "2022/03/25-04:01:06",
+        "author_name": "MrCracker1337",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": true,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/tnjdxg/ransomware_protection_resources/"
+    },
+    "posts": {
+        "i2ozt93": {
+            "comment": "Why is this post 18+?",
+            "timeStamp": "2022/03/30-02:14:13",
+            "id": "i2ozt93",
+            "is_submitter": false,
+            "link_id": "t3_tnjdxg",
+            "parent_id": "t3_tnjdxg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "NosceDiCocco"
+        }
+    }
+}

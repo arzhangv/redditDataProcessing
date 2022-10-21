@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hey guys,\n\nWondering if anyone knows of a tool/script to use for both/either recognizing what type of encoding is used on a given string and also decoding a string.\n\n\nFor example, I extracted strings like this out of a malicious PDF file:\n\n\nr+=ue(t+0x81800e);r+=ue(t+0x5efb29);r+=ue(0x69727766);r+=ue(t+0x46d6ca);r+=ue(t+0x51f5fd);r+=ue(t+0x818012);r+=ue(t+0x5efb29);\n\n\n^Many other lines like this.\n\nAny suggestions?",
+        "title": "Tool for recognizing/decoding strings",
+        "score": 3,
+        "id": "388g8h",
+        "commsNum": 16,
+        "timeStamp": "2015/06/02-09:20:34",
+        "author_name": "Index_Dot_Zach",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 16,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/388g8h/tool_for_recognizingdecoding_strings/"
+    },
+    "posts": {}
+}

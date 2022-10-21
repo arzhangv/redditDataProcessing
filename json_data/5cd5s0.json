@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Telecrypt ransomware abuses Telegram Messenger\u2019s communication protocol",
+        "score": 1,
+        "id": "5cd5s0",
+        "commsNum": 0,
+        "timeStamp": "2016/11/10-22:49:27",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/53295/malware/telecrypt-ransomware.html"
+    },
+    "posts": {}
+}

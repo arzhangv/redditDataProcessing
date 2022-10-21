@@ -1,0 +1,110 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I want to create a malware analysis lab using two OS one. the first for  analysis using Inetsim ( REMnux ) and the other is without internet  connection for the victime machine where I can execute the malwares  (windows) .. which adapter configuration is suitable for this purpose  and why ?",
+        "title": "network configuration for malware analysis",
+        "score": 1,
+        "id": "uuuwv3",
+        "commsNum": 0,
+        "timeStamp": "2022/05/21-13:07:39",
+        "author_name": "oneto221",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/uuuwv3/network_configuration_for_malware_analysis/"
+    },
+    "posts": {
+        "i9uv52n": {
+            "comment": "why did you choose Host-only adapter then isolate the connection between the VM and the HOST ? and why you didn't choose internal network for the VM ?",
+            "timeStamp": "2022/05/24-14:28:15",
+            "id": "i9uv52n",
+            "is_submitter": true,
+            "link_id": "t3_uuuwv3",
+            "parent_id": "t1_i9j8c4n",
+            "score": 1,
+            "stickied": false,
+            "author_name": "oneto221"
+        },
+        "i9j8c4n": {
+            "comment": "Refer my blog \n\nhttps://whiteheart0.medium.com/dynamic-malware-analysis-lab-setup-613075f9423f",
+            "timeStamp": "2022/05/21-22:42:18",
+            "id": "i9j8c4n",
+            "is_submitter": false,
+            "link_id": "t3_uuuwv3",
+            "parent_id": "t3_uuuwv3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "i_whiteheart"
+        },
+        "i9hwtii": {
+            "comment": "Use Internal Network (intent). While simulating a network connection with inetsim you don't need an actual bridged connection or NAT, so why risk it? \n\nJust set the default gateway and DNS server on the victim to the internal IP address of the REMnux VM, and you should be all set. When you have REMnux on, run inetsim. If you want to run malware on the victim with no network simulation, just turn off the REMnux VM or disconnect the Victim's network adapter. No need for multiple configurations.\n\nHowever in malware investigations sometimes you may want to retrieve the next stage payload. The safe way to do it is to put the next stage URL (which should be sent to inetsim or in your network traffic) into Virustotal and download it from there. If the malware uses some protocol other than HTTP, use a VPN before you try to netcat connect to a command and control server. I don't advise you to set up NAT on the victim, connecting your victim to the internet, unless you like to reveal your IP address to the malware's command and control server. Use a VPN for that, seriously.",
+            "timeStamp": "2022/05/21-15:04:22",
+            "id": "i9hwtii",
+            "is_submitter": false,
+            "link_id": "t3_uuuwv3",
+            "parent_id": "t3_uuuwv3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "lakitustanfield"
+        },
+        "i9hryqa": {
+            "comment": "yes I want to use Inetsim to spoof the Victim Machine to have \"internet access\" .. which network configuration in virtualbox is suitable for this purpose",
+            "timeStamp": "2022/05/21-14:22:30",
+            "id": "i9hryqa",
+            "is_submitter": true,
+            "link_id": "t3_uuuwv3",
+            "parent_id": "t1_i9hqjdg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "oneto221"
+        },
+        "i9hqqle": {
+            "comment": "[removed]",
+            "timeStamp": "2022/05/21-14:12:00",
+            "id": "i9hqqle",
+            "is_submitter": false,
+            "link_id": "t3_uuuwv3",
+            "parent_id": "t3_uuuwv3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "i9hqjdg": {
+            "comment": "Do you mean you want local network connectivity to contact the Victim Machine through a local network, or do you mean you want to spoof the Victim Machine to have \"internet access\" to trick the malware?  \n  \nCuckoo is also nice to use.",
+            "timeStamp": "2022/05/21-14:10:17",
+            "id": "i9hqjdg",
+            "is_submitter": false,
+            "link_id": "t3_uuuwv3",
+            "parent_id": "t3_uuuwv3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Loggedinasroot"
+        },
+        "i9hkwvt": {
+            "comment": "[removed]",
+            "timeStamp": "2022/05/21-13:23:31",
+            "id": "i9hkwvt",
+            "is_submitter": false,
+            "link_id": "t3_uuuwv3",
+            "parent_id": "t1_i9hkkqi",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "i9hkkqi": {
+            "comment": "[removed]",
+            "timeStamp": "2022/05/21-13:20:44",
+            "id": "i9hkkqi",
+            "is_submitter": false,
+            "link_id": "t3_uuuwv3",
+            "parent_id": "t3_uuuwv3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "A Guide to Malware Binary Reconstruction",
+        "score": 24,
+        "id": "3kxr66",
+        "commsNum": 1,
+        "timeStamp": "2015/09/14-11:00:38",
+        "author_name": "GelosSnake",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://int0xcc.svbtle.com/a-guide-to-malware-binary-reconstruction"
+    },
+    "posts": {}
+}

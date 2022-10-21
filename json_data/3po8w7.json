@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hello guys, I had a spare Windows 8 license so I decided to install it. Unfortunately, I had lost the Windows installation CD. But then some random guy at school gave me a Windows 8 USB stick. It worked. The problem is, I don't really trust that guy. So here's my question, can a rootkit/bootkit be installed with Windows during installation? What if the Windows 8 USB stick already had malware on it, would an anti-virus solve the problem?",
+        "title": "Can a rootkit/bootkit be installed when installing Windows?",
+        "score": 6,
+        "id": "3po8w7",
+        "commsNum": 10,
+        "timeStamp": "2015/10/21-12:26:41",
+        "author_name": "[deleted]",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 10,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/3po8w7/can_a_rootkitbootkit_be_installed_when_installing/"
+    },
+    "posts": {}
+}

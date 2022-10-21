@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Heard odd music coming from my closed Chromebook. Opened it up and someone had access and was going through my Google docs, and opened YouTube to listen to Syrian hip hop.\n\nOnly extensions I have are Google extensions, and a few standard apps (Netflix, Hulu, etc.) Can someone give me some ideas? I'm kind of at a loss as to how this would've happened, and don't know what else to check.",
+        "title": "Someone got remote access to my closed Chromebook",
+        "score": 1,
+        "id": "hhtfrk",
+        "commsNum": 4,
+        "timeStamp": "2020/06/28-21:40:22",
+        "author_name": "PieceOfMyFart",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/hhtfrk/someone_got_remote_access_to_my_closed_chromebook/"
+    },
+    "posts": {
+        "g11qeml": {
+            "comment": "You probably got ratted.",
+            "timeStamp": "2020/08/10-16:40:17",
+            "id": "g11qeml",
+            "is_submitter": false,
+            "link_id": "t3_hhtfrk",
+            "parent_id": "t3_hhtfrk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "deadmemes997"
+        },
+        "fx17aqu": {
+            "comment": "Maybe an infected USB charger or mouse?",
+            "timeStamp": "2020/07/05-13:49:03",
+            "id": "fx17aqu",
+            "is_submitter": false,
+            "link_id": "t3_hhtfrk",
+            "parent_id": "t3_hhtfrk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "FAKENAME381"
+        },
+        "fwwiclh": {
+            "comment": "[removed]",
+            "timeStamp": "2020/07/04-06:50:34",
+            "id": "fwwiclh",
+            "is_submitter": false,
+            "link_id": "t3_hhtfrk",
+            "parent_id": "t3_hhtfrk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fwci1mx": {
+            "comment": "/r/techsupport",
+            "timeStamp": "2020/06/29-00:35:37",
+            "id": "fwci1mx",
+            "is_submitter": false,
+            "link_id": "t3_hhtfrk",
+            "parent_id": "t3_hhtfrk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "nre_graphico"
+        }
+    }
+}

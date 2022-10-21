@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Talos CryptoWall 4.0 Analysis",
+        "score": 20,
+        "id": "3wl07t",
+        "commsNum": 0,
+        "timeStamp": "2015/12/12-16:17:59",
+        "author_name": "m4dhatt3r",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://blog.talosintel.com/2015/12/cryptowall-4.html"
+    },
+    "posts": {}
+}

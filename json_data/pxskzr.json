@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "hey yall, I'm looking to find(and if possible edit the code to set my own address) or create a crypto miner virus for personal research purposes but i cant seem to find one anywhere or a guide on how to make one, please comment or message me if you know where i can find such one, or a guide. \n\nthanks!",
+        "title": "cryptominer",
+        "score": 1,
+        "id": "pxskzr",
+        "commsNum": 1,
+        "timeStamp": "2021/09/29-03:31:30",
+        "author_name": "m_a_lfunction",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/pxskzr/cryptominer/"
+    },
+    "posts": {
+        "hepjobh": {
+            "comment": "xmrstak",
+            "timeStamp": "2021/09/29-04:17:11",
+            "id": "hepjobh",
+            "is_submitter": false,
+            "link_id": "t3_pxskzr",
+            "parent_id": "t3_pxskzr",
+            "score": 2,
+            "stickied": false,
+            "author_name": "SpookyWA"
+        }
+    }
+}

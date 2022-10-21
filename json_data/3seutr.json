@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Here is a link to the zip file with the malicious file. \n\nhttp://1drv.ms/1GWVCe0\n\nI saved the malicious file into an encrypted zip file so you can download them. Also saved the file as xlsm and xlsb. The password is in the readme.txt file. If you do open the files make sure you have macros disabled. \n\nI'm no VBA coder but would be interested in what this malware does and if it tries to phone home.\n\nThanks for your help.\n\nEDIT: VirusTotal Score = https://www.virustotal.com/en/file/d65cc34d5b06a83699d2ba582a26062b9e831bb1dcd678bd4cce65d34553ca63/analysis/1447253833/\n\nSorry, I'm new to Reddit. I'm guessing this should be in the /r/ReverseEngineering. Should I stay or should I go?",
+        "title": "Malicious XLS file from Spam",
+        "score": 3,
+        "id": "3seutr",
+        "commsNum": 7,
+        "timeStamp": "2015/11/11-07:11:34",
+        "author_name": "ERROR_OUT_OF_MEMORY",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/3seutr/malicious_xls_file_from_spam/"
+    },
+    "posts": {}
+}

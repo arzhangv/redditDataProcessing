@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Russians Suspected in NotPetya Malware Attacks",
+        "score": 10,
+        "id": "6o6tog",
+        "commsNum": 3,
+        "timeStamp": "2017/07/18-23:58:09",
+        "author_name": "A_Lazko",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://freebeacon.com/national-security/russians-suspected-notpetya-malware-attacks/"
+    },
+    "posts": {
+        "dkhtlbp": {
+            "comment": "that article doesn't contain any new information and has several mistakes. for example \"WannaCry in turned is believed to be a variant of ransomware called Petya\" ignoring the typo on \"turn\" wannacry is definitely not a variant of petya, they are very different. WanaCry = file encrypting ransomware, that can also spread like a worm using the EternalBlue exploit (thanks NSA). Petya was a disk encrypting ransomware that went after the MBR, no ability to spread. NotPetya (i prefer PetyaWrap tbh) = A combination of payloads \"wrapped\" together, this included the Petya ransonware, but also the ability to do file encryption. It then added three different methods of spreading, the first using the same EternalBlue exploit, the second using PsExec and the third using MimiKatz. ",
+            "timeStamp": "2017/07/20-14:42:27",
+            "id": "dkhtlbp",
+            "is_submitter": false,
+            "link_id": "t3_6o6tog",
+            "parent_id": "t3_6o6tog",
+            "score": 1,
+            "stickied": false,
+            "author_name": "peter_mack"
+        },
+        "dkg81bi": {
+            "comment": "[What a great time to be a Ukrainian...O.o ](https://m.imgur.com/UC0gidG) ",
+            "timeStamp": "2017/07/19-15:41:01",
+            "id": "dkg81bi",
+            "is_submitter": false,
+            "link_id": "t3_6o6tog",
+            "parent_id": "t3_6o6tog",
+            "score": 1,
+            "stickied": false,
+            "author_name": "tdanmorello"
+        },
+        "dkf3ftp": {
+            "comment": "What a surprise!",
+            "timeStamp": "2017/07/19-01:03:57",
+            "id": "dkf3ftp",
+            "is_submitter": false,
+            "link_id": "t3_6o6tog",
+            "parent_id": "t3_6o6tog",
+            "score": 6,
+            "stickied": false,
+            "author_name": "swizzledudeftw"
+        }
+    }
+}

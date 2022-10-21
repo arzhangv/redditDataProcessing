@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 0.38,
+        "selftext": "[removed]",
+        "title": "seeking guidance, r/spam blocked this inquiry",
+        "score": 0,
+        "id": "hl959o",
+        "commsNum": 2,
+        "timeStamp": "2020/07/04-12:30:30",
+        "author_name": "rikiretardoREDDIT",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/hl959o/seeking_guidance_rspam_blocked_this_inquiry/"
+    },
+    "posts": {
+        "fx006cd": {
+            "comment": "thank you",
+            "timeStamp": "2020/07/05-07:18:44",
+            "id": "fx006cd",
+            "is_submitter": true,
+            "link_id": "t3_hl959o",
+            "parent_id": "t1_fwxkvba",
+            "score": 1,
+            "stickied": false,
+            "author_name": "rikiretardoREDDIT"
+        },
+        "fwxkvba": {
+            "comment": "You can first start by calling your credit card company to dispute it.",
+            "timeStamp": "2020/07/04-12:45:12",
+            "id": "fwxkvba",
+            "is_submitter": false,
+            "link_id": "t3_hl959o",
+            "parent_id": "t3_hl959o",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Schnitzel725"
+        }
+    }
+}

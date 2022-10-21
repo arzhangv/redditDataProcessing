@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Nuclear Exploit Kit Now with Domain Shadowing, 302 Cushioning, and Tech Support Scams!!!",
+        "score": 18,
+        "id": "3a28jr",
+        "commsNum": 1,
+        "timeStamp": "2015/06/16-10:37:06",
+        "author_name": "zerozefx",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://blogs.cisco.com/talos/nuclear-sophistication"
+    },
+    "posts": {}
+}

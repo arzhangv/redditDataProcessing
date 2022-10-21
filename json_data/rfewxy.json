@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Diavol Ransomware",
+        "score": 1,
+        "id": "rfewxy",
+        "commsNum": 0,
+        "timeStamp": "2021/12/13-04:45:19",
+        "author_name": "TheDFIRReport",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://thedfirreport.com/2021/12/13/diavol-ransomware/"
+    },
+    "posts": {}
+}

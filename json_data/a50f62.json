@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "A new Mac malware combines a backdoor and a crypto-miner",
+        "score": 1,
+        "id": "a50f62",
+        "commsNum": 0,
+        "timeStamp": "2018/12/10-14:13:08",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://securityaffairs.co/wordpress/78813/malware/mac-malware-backdoor-miner.html"
+    },
+    "posts": {}
+}

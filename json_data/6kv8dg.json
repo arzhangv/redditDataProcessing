@@ -1,0 +1,154 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I mean, if a computer on my wifi was full of infections like those mentioned above, what are the chances it will infect me through the router? Slim? Very possible?\n\nHave they been known to do this?",
+        "title": "Noob Question: How does malware like Alureon/ZeroAccess etc move from one computer on a LAN to another?",
+        "score": 1,
+        "id": "6kv8dg",
+        "commsNum": 16,
+        "timeStamp": "2017/07/02-12:52:28",
+        "author_name": "fredfredburger88",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 16,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6kv8dg/noob_question_how_does_malware_like/"
+    },
+    "posts": {
+        "dkihw07": {
+            "comment": "Sorry to bother you again, I wasn't sure if you just missed my last question or grew tired of the topic, but i'd really like to hear your opinion on my last question. It seems you really know your stuff. If you just didn't want to answer thats fine, just disregard this. thanks!",
+            "timeStamp": "2017/07/21-01:04:31",
+            "id": "dkihw07",
+            "is_submitter": true,
+            "link_id": "t3_6kv8dg",
+            "parent_id": "t1_dkc9mxa",
+            "score": 1,
+            "stickied": false,
+            "author_name": "fredfredburger88"
+        },
+        "dkcrelj": {
+            "comment": "EDIT: I Read maybe hackers put stuff on pastebin as well.",
+            "timeStamp": "2017/07/17-15:28:36",
+            "id": "dkcrelj",
+            "is_submitter": true,
+            "link_id": "t3_6kv8dg",
+            "parent_id": "t1_dkcr2f7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "fredfredburger88"
+        },
+        "dkcr2f7": {
+            "comment": "So Would Alureon/TDSS in this case just be intercepting traffic or actually stealing all the files?\n\nI was just thinking, if malware were to steal all of those kinds of files, what would happen to them? I had a pretty hefty malware infection like back in 2008 or something, what are the chances that those files are still sitting around on some server or hard drive somewhere? \n\nAfter reading that back to myself, it sounds like a pretty paranoid question, but I guess its okay to be a bit paranoid online!  It would kind of suck if all my browsing history was packaged up with my name/address/IP address and things like that too.\n\nThanks again for your willingness to help out a beginner! :)",
+            "timeStamp": "2017/07/17-15:21:57",
+            "id": "dkcr2f7",
+            "is_submitter": true,
+            "link_id": "t3_6kv8dg",
+            "parent_id": "t1_dkc9mxa",
+            "score": 1,
+            "stickied": false,
+            "author_name": "fredfredburger88"
+        },
+        "dkc9mxa": {
+            "comment": "No problem! So the entries MS has for their MS Threat Center for Alureon are quite generic, and appear to be only useful if your Windows Defender finds the malware and reports it as that name. Even the entries themselves seem to only state what components Alureon MAY contain, not what it always does.\n\nThat is quite confusing... Do these whitepapers you've read mention the hash values of the malware in question? If so, I'd search around based on the MD5 hash. If you dont know, you can try opening another thread here asking for analysis of specific variants and/or ways to identify which have what components.\n\n&gt;Would it be a reasonable assumption that most people to ever have malware probably had their entire internet history stolen??\n\nIt depends on the malware! I doubt every infection would attempt to find those files if they were not needed. \n\nApparently variants of Alureon did this (as well as other TDSS variants, read this: https://securelist.com/tdss/36314/)\n\nBecause then they could find websites users frequented, and spoof some of the more common banking ones by performing a sort of man in the middle attack where the bank page served (by the malware) is given to the user instead of the real bank page.  ",
+            "timeStamp": "2017/07/17-10:14:44",
+            "id": "dkc9mxa",
+            "is_submitter": false,
+            "link_id": "t3_6kv8dg",
+            "parent_id": "t1_dk9pkkb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Sam-Gunn"
+        },
+        "dk9pkkb": {
+            "comment": "Ohh, that makes alot of sense! I guess I always though when people talked about Alureon botnets, as an example, they all worked the same, and couldn't understand why no two sources say the same thing. Just as an example, the microsoft threat center for Alureon  (under the generic heading Win32/Alureon claims there is a component that \"gathers urls from your browser history\". The other more specific alureon variants they have on the site don't mention that capability and neither do any of the whitepapers I've read. Any idea if that is even accurate? The world of malware is pretty confusing!\n\n\nI was just thinking, do you remember those old index.dat files internet explorer use to use? They never deleted after clearing history, so all your cookies, temporary internet files and history were never deleted. Were any of these files common targets of malware? Would it be a reasonable assumption that most people to ever have malware probably had their entire internet history stolen?? (assuming the used IE)\n\nWhat would be the purpose of stealing temporary internet files and history? What would they do with it?\n\nsorry for all the questions :) \nand thanks \n\n\n",
+            "timeStamp": "2017/07/15-15:01:26",
+            "id": "dk9pkkb",
+            "is_submitter": true,
+            "link_id": "t3_6kv8dg",
+            "parent_id": "t1_dk7rqz1",
+            "score": 2,
+            "stickied": false,
+            "author_name": "fredfredburger88"
+        },
+        "dk7rqz1": {
+            "comment": "You're welcome! Ignore downvotes when you post something relating to netsec or malware and you're post abides by the rules but people say it's \"simple\" or \"easy\" or \"basic\".\n\nSome people forget that all of us started out with very little knowledge, and a lack of experience. :-)\n\n&gt;So ZeroAccess itself is just the rootkit, but there can be modifications and such to it that give it different capabilities? Is that about right?\n\nRight! And since it's a payload, it's almost like \"mix-n-match\" malware. Any exploit kit/infection kit that you want can most likely be combined with Zero Access payload to match what you want to do. Or any exploit kit can be matched with any payload you want, if Zero Access isn't what you need. Some malware perform all those functions too, which makes it more confusing! But in this case Zero Access does not.\n\n&gt;So how come there are so many white papers and sites saying different things like \"ZeroAccess can sniff traffic\" or \"Alureon has a component that steals your browsing history\"?\n\nSo I can't speak directly on those quotes you just noted, as I do not recall reading those whitepapers. If you want a more targeted response, feel free to link me the sites or papers and I'll do my best to respond!\n\n&gt;If there are so many variants why is it worth doing this if chances are the each infection is probably different than the last?\n\nGood question! There's no real \"one\" answer to this. However, let me lay out why you see this for EVERY variant.\n\nSo the biggest names in Anti-malware products, from symantec, to microsoft, and beyond as well as other security products like \"next gen\" firewalls, comprehensive endpoint protection, from companies like Bit9 and Fire-eye MUST know everything about all this malware if they want people to buy their products and read their blogs. \n\nThey have comprehensive infrastructure and dedicated employees whose job it is to analyze such malware, and create rules and software to fight it, because since there is so much money in malware, malware authors do the same thing to circumvent the anti-malware products! It's a never ending battle! \n\nThis in turn is often then shared around under various Non-Disclosure Agreements, and then publicized for people like you and I, who may either perform malware analysis as a hobby, or only as a small part of our job duties at work.\n\nThis is done to also allow others to \"bootstrap\" off analyses to get information the initial reporter may have missed. \n\nSo as this info gets shared around, all the anti-virus companies build out rules for this malware based on these writeups, and people like myself (information security engineers) who don't often have time to analyze every malware that someone downloads or infects our companies systems, can use to build out our own defenses. \n\nSometimes, malware might be written based off an older variant (or family) but be significantly different. If you read up on Peyta, which you should if you have not, you'll see that the latest variant of Peyta is SO different, that many analysts actually call it \"not peyta\" because of those changes. However when you dig down deep enough, you'll see that 'not peyta' is still based on the old variants, just significantly altered. \n\nAlso, just to mention, a \"family\" is a series of malware and malware variants that share similar characteristics, but are not close enough to simply be variations on a set of malware. Here is a list of top families known in 2017. You can see that Conficker, a REALLY old family, is still noted as infecting many systems, despite it being really old and using older exploits!\n\nhttps://www.tripwire.com/state-of-security/security-data-protection/cyber-security/10-high-profile-malware-families-2017/\n\nSo to continue on:\n\nWhen reading an analysis, it CAN get confusing as to which variant they're discussing! This is why all analyses worth their salt use hashes to identify the malware. So a hash is basically a string generated by an algorithm that is unique to that specific configuration of code. \n\nSo each variant is identified by it's own hash, that changes when any change is made to the malware code itself. This is how we track malware variants. Virustotal.com, malwr.com (spelled correctly), etc etc will ALWAYS show the MD5, SHA1, and SHA256 hashes at the top, and allow you to search by the hash. \n \n\nTake a look at how Symantec identifies Zeus:\n\nhttps://www.symantec.com/security_response/writeup.jsp?docid=2010-011016-3514-99\n\nThe \"also known as\" list is gigantic! Zeus is a widely used malware, which I believe can be bought online, and deploys as a botnet. It's gone through so many iterations that ZeuS itself is a family, and the changes range from the modification of a few actions to significant redesigns. So in this case, you can't talk about analyzing a variant of ZeuS without using hashes, and between variants ZeuS might completely change how it behaves and what it uses when installed or propagated. \n\nAs noted here:\n\n&gt;Infection \nThe Trojan.Zbot files that are used to compromise computers are generated using a toolkit that is available in marketplaces for online criminals. The toolkit allows an attacker a high degree of control over the functionality of the final executable that is distributed to targeted computers. \n\nThe Trojan itself is primarily distributed through spam campaigns and drive-by downloads, though given its versatility, other vectors may also be utilized. The user may receive an email message purporting to be from organizations such as the FDIC, IRS, MySpace, Facebook, or Microsoft. The message body warns the user of a problem with their financial information, online account, or software and suggests they visit a link provided in the email. The computer is compromised if the user visits the link, if it is not protected. \n\nWhat can be bought is basically a framework to ASSEMBLE a variant of Zeus. So just like in school when you had to look at permutations as sandwich combinations, ZeuS can be assembled any which way a buyer chooses. \n\nI apologize for all this information, but most of it (I'm often times needlessly verbose) is important in learning about malware. If you want more links that break this down further, explain things more in depth, and have more pictures, just ask! ",
+            "timeStamp": "2017/07/14-08:25:16",
+            "id": "dk7rqz1",
+            "is_submitter": false,
+            "link_id": "t3_6kv8dg",
+            "parent_id": "t1_dk78d4u",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Sam-Gunn"
+        },
+        "dk78d4u": {
+            "comment": "Thanks for the detailed answer!\n\nI think I get it. So ZeroAccess itself is just the rootkit, but there can be modifications and such to it that give it different capabilities? Is that about right?\n\nSo how come there are so many white papers and sites saying different things like \"ZeroAccess can sniff traffic\" or  \"Alureon has a component that steals your browsing history\"? If there are so many variants why is it worth doing this if chances are the each infection is probably different than the last?",
+            "timeStamp": "2017/07/13-21:32:31",
+            "id": "dk78d4u",
+            "is_submitter": true,
+            "link_id": "t3_6kv8dg",
+            "parent_id": "t1_dk3abdw",
+            "score": 2,
+            "stickied": false,
+            "author_name": "fredfredburger88"
+        },
+        "dk3abdw": {
+            "comment": "First, lets do some basic housekeeping. The reason you may be confused (and it appears some are downvoting you due to) is that Alureon and Zero Access (as well as TDSS, etc) are not single pieces of malware. They are considered *families* of malware, OR specific *variants* of a malware family. But more importantly, they are *payloads*, which I will describe in a bit.\n\nAs /u/nickc pointed out, Alureon *itself* and ZeroAccess *itself* are just rootkits. This means that they infect specific portions of the boot setup and/or Operating System at a low level in order to ensure persistence. \n\nNow, if you look in the Sophos writeup linked by /u/nickc, you'll find this sentence a few paragraphs in:\n\n&gt;ZeroAccess has become an increasingly popular payload to the various Exploit Packs currently on the market, in particular Blackhole. \n\nBasically, this means that Zero Access is used as a *payload*. A *payload* (sorry if you already know) is a form of malware that is prepared to be deployed by an *infection agent* which utilizes an *infection vector*, like an email, or specific exploit, to insert itself. This is typically known as several things, including a *dropper*.\n\nSo if we want to use an analogy, lets do this. A Zero Access malware variant is a payload. In the US Airforce, a Payload is a bomb, missile, or cargo container that is going to be dropped out of an aircraft (or shipped somewhere, but for all intents and purposes we're using the first bit of my definition). So one payload, like a normal dumb bomb, can be placed into MANY aircraft and dropped from such! \n\nSo it's entirely probable for an attacker to insert the payload into a dropper or more sophisticated form of malware that CAN propagate itself. \n\nAs is the case with Zero Access, the actual dropper/infection software/malware is known as Blackhole, which can utilize MANY payloads, and is responsible for delivering the payload (like a plane delivers a cargo crate or drops a bomb). Blackhole and many like it, are known as *exploit kits* and are actually the software responsible for spreading the payload. \n\nhttps://nakedsecurity.sophos.com/2012/03/29/exploring-the-blackhole-exploit-kit/\n\nAny questions?",
+            "timeStamp": "2017/07/11-14:18:18",
+            "id": "dk3abdw",
+            "is_submitter": false,
+            "link_id": "t3_6kv8dg",
+            "parent_id": "t3_6kv8dg",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Sam-Gunn"
+        },
+        "djvjuio": {
+            "comment": "**EternalBlue**\n\nEternalBlue, sometimes stylized as ETERNALBLUE, is an exploit generally believed to have been developed by the U.S. National Security Agency (NSA). It was leaked by the Shadow Brokers hacker group on April 14, 2017, and was used as part of the worldwide WannaCry ransomware attack on May 12, 2017. The exploit was also used to help carry out the 2017 NotPetya cyberattack on June 27, 2017.\n\n***\n\n^[ [^PM](https://www.reddit.com/message/compose?to=kittens_from_space) ^| [^Exclude ^me](https://reddit.com/message/compose?to=WikiTextBot&amp;message=Excludeme&amp;subject=Excludeme) ^| [^Exclude ^from ^subreddit](https://np.reddit.com/r/Malware/about/banned) ^| [^FAQ ^/ ^Information](https://np.reddit.com/r/WikiTextBot/wiki/index) ^| [^Source](https://github.com/kittenswolf/WikiTextBot)   ^]\n^Downvote ^to ^remove ^| ^v0.24",
+            "timeStamp": "2017/07/06-15:30:53",
+            "id": "djvjuio",
+            "is_submitter": false,
+            "link_id": "t3_6kv8dg",
+            "parent_id": "t1_djvjucl",
+            "score": 2,
+            "stickied": false,
+            "author_name": "WikiTextBot"
+        },
+        "djvjucl": {
+            "comment": "Haven't heard about these pieces of malware, but I do know that the Petya ransomware has been pared with an exploit known as EternalBlue to allow it to spread itself via LAN. https://en.wikipedia.org/wiki/EternalBlue\n\nThe exploit was found and used by the NSA until a group released it to the public. ",
+            "timeStamp": "2017/07/06-15:30:47",
+            "id": "djvjucl",
+            "is_submitter": false,
+            "link_id": "t3_6kv8dg",
+            "parent_id": "t1_djsitnx",
+            "score": 2,
+            "stickied": false,
+            "author_name": "CewlJebus"
+        },
+        "djsj1o3": {
+            "comment": "There you go. It looks like that specific malware has been adapted to spread over a LAN. That article you sent answers your question, \n\n&gt; \u201cWhen spreading over the local area network, the worm uses the following\ntechnique. When infecting a computer, the worm checks if a DHCP server\nis used on the network. If the victim computer is located on a network\nwhich uses the DHCP protocol, the worm starts scanning the network to\nsee if there are any available IP addresses on it. Next, the worm\nlaunches its own DHCP server and starts listening to the network. If it\ndetects a DHCP request from a computer on the local network, the worm\ntries to be the first to respond to it,\u201d Golovanov said in his analysis.\n\n&gt; In the response, the TDSS rootkit will send the machine an IP address from its DHCP pool, along with the details of the attackers\u2019 DNS server. Once that\u2019s done, the user of the infected machine won\u2019t be able to browse the Web until he downloads another piece of malware, which is presented as a required browser update.",
+            "timeStamp": "2017/07/04-19:40:44",
+            "id": "djsj1o3",
+            "is_submitter": false,
+            "link_id": "t3_6kv8dg",
+            "parent_id": "t1_djsitnx",
+            "score": 2,
+            "stickied": false,
+            "author_name": "nickc"
+        },
+        "djsitnx": {
+            "comment": "What about this though?\nhttps://threatpost.com/tdss-rootkit-gets-its-own-self-replicating-loader-060311/75301/\n",
+            "timeStamp": "2017/07/04-19:34:58",
+            "id": "djsitnx",
+            "is_submitter": true,
+            "link_id": "t3_6kv8dg",
+            "parent_id": "t1_djq0i42",
+            "score": 2,
+            "stickied": false,
+            "author_name": "fredfredburger88"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "[removed]",
+        "title": "How does windows detect a reverse shell I just compiled?",
+        "score": 1,
+        "id": "rgky4l",
+        "commsNum": 0,
+        "timeStamp": "2021/12/14-15:54:38",
+        "author_name": "cybersecurityaccount",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/rgky4l/how_does_windows_detect_a_reverse_shell_i_just/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "How Malware Detects Virtualized Environment",
+        "score": 22,
+        "id": "4bc5kx",
+        "commsNum": 13,
+        "timeStamp": "2016/03/21-06:02:28",
+        "author_name": "ibouxfr",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 13,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://resources.infosecinstitute.com/how-malware-detects-virtualized-environment-and-its-countermeasures-an-overview/"
+    },
+    "posts": {}
+}

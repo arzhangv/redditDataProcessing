@@ -1,0 +1,132 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "All,\n\nI guess everyone here knows those commercially available stealth PC monitoring\nsoftware.\n\nI'm surprised, that those trojans are hardly detected by virus scanners.\n\nAll surveillance makers recommend in their FAQs one should add their programm\nto the virus scanner's exception list. After some quick tests in various\nvirtual machines I was surprised, that this is not necessary in most\ncases. Even the Avast pre-boot scan didn't find the virus.\n\n11 / 60 virus total's scanners recognized the trojan. It was a free, public\ntrial version! No modifications! All 11 hits were \"generic\". One of those\nmalware programmers offers all surveillance methods you can think of, but\nnot keylogger. To avoid Antivirus detection.\n\nShort question: what's the easiest way to find those malware?\nMalwarebytes, for example, says they had proprietary methods that were\nbetter than the other scanners, but at least in the affected, running\nwindows, they didn't find more of those viruses.\n\nThank you in advance.\n\nChris",
+        "title": "Bossware",
+        "score": 21,
+        "id": "8phfrc",
+        "commsNum": 9,
+        "timeStamp": "2018/06/07-22:42:18",
+        "author_name": "chrisredred",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 9,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8phfrc/bossware/"
+    },
+    "posts": {
+        "e0dbyca": {
+            "comment": "I've only made a [virustotal screenshot](http://chrisblog.net/uploads/beispiel_fuer_reddit.png)\n\nIt was recognized by:\n\n* Ad-Aware\n* Arcabit\n* BitDefender\n* Cyren\n* Emsisoft\n* eScan\n* F-Secure\n* GData\n* MAX\n* Qihoo-360\n* TrendMicro_houseCall\n\nAs others wrote: maybe they don't detect potentially unwanted software by default.",
+            "timeStamp": "2018/06/08-22:34:34",
+            "id": "e0dbyca",
+            "is_submitter": true,
+            "link_id": "t3_8phfrc",
+            "parent_id": "t1_e0d1mvq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "chrisredred"
+        },
+        "e0d1mvq": {
+            "comment": "[deleted]",
+            "timeStamp": "2018/06/08-18:58:33",
+            "id": "e0d1mvq",
+            "is_submitter": false,
+            "link_id": "t3_8phfrc",
+            "parent_id": "t1_e0bkhg4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "e0cd15n": {
+            "comment": "I\u2019d try something like Cylance that looks at behaviours on the system, sequences of events and rates processes based on AI and database. It\u2019s a great tool, i\u2019d be interested to hear how you get on with that? ",
+            "timeStamp": "2018/06/08-11:53:48",
+            "id": "e0cd15n",
+            "is_submitter": false,
+            "link_id": "t3_8phfrc",
+            "parent_id": "t3_8phfrc",
+            "score": 2,
+            "stickied": false,
+            "author_name": "chezminda"
+        },
+        "e0bxwfl": {
+            "comment": "Yes indeed, very effective as ever, and as I said its System Investigator feature is about everything you can ever wish for as a tool for manual indepth cleaning. It has been my main antivirus for years eversince it revived my first pc which won't even load explorer.exe properly(close to unusable) at that time, it just obliterated the virus which even shutsdown my avast, and with just one scan and reboot, my system was good as new. ",
+            "timeStamp": "2018/06/08-08:19:43",
+            "id": "e0bxwfl",
+            "is_submitter": false,
+            "link_id": "t3_8phfrc",
+            "parent_id": "t1_e0bwb7j",
+            "score": 2,
+            "stickied": false,
+            "author_name": "yego21"
+        },
+        "e0bwb7j": {
+            "comment": "Back in my computer shop days I used Super AntiSpyware a lot. I think more people don't know about it because the name sounds like scammy malware itself. I used to think it and Malwarebytes were pretty comparable, is it still effective at removing things?",
+            "timeStamp": "2018/06/08-07:56:38",
+            "id": "e0bwb7j",
+            "is_submitter": false,
+            "link_id": "t3_8phfrc",
+            "parent_id": "t1_e0bexh5",
+            "score": 5,
+            "stickied": false,
+            "author_name": "hardwire187"
+        },
+        "e0bsn8l": {
+            "comment": "I've deployed stuff along those lines for customers in the past. One in particular would do the whole gamut, keylogging, scheduled screenshots, along with tracking applications and how much time is spent 'idle'. Typically used in law offices.\n\nThere's not a lot surprising going on under the hood. It runs as a service, even as a local admin it is really difficult to break the software, because if the client misses a checkin and the server can hit it on the network as NETWORK SERVICE, it'll just push the software down again and you're back up and monitoring in under a minute. It doesn't work like a virus because it isn't, it installs through typical methods, uses the readily available Win32 API, and there's very little reason for AV companies to wade into that swamp, because they don't get deployed unless it's authorized by a sysadmin, and if the AV is a snitch, the company will find one that isn't.",
+            "timeStamp": "2018/06/08-07:00:39",
+            "id": "e0bsn8l",
+            "is_submitter": false,
+            "link_id": "t3_8phfrc",
+            "parent_id": "t3_8phfrc",
+            "score": 5,
+            "stickied": false,
+            "author_name": "bluesoul"
+        },
+        "e0bnbwa": {
+            "comment": "Hello,\n\nMany anti-malware programs classify commercial monitoning software as something like a *potentially unsafe program* or *potentially unsafe application* and do **not** detect them by default.\n\nSo, what you want to do is check with your anti-malware vendor  and see how they categorize this type of program.  Then, find out what setting(s) need to be enabled to detect them, and make sure those settings are enabled in your copy of the software.\n\nRegards,\n\nAryeh Goretsky\n",
+            "timeStamp": "2018/06/08-05:24:45",
+            "id": "e0bnbwa",
+            "is_submitter": false,
+            "link_id": "t3_8phfrc",
+            "parent_id": "t3_8phfrc",
+            "score": 12,
+            "stickied": false,
+            "author_name": "goretsky"
+        },
+        "e0bkhg4": {
+            "comment": "Thank you for your reply. That's of course a valid explanation why scanners fail.\n\nIt depends on your legislation. Maybe it's legal in the US and other parts of the world, but privacy laws are strict in Europe. Furthermore, I don't think it's legal to monitor your spouse anywhere.\n\nNevertheless, I'm more interested in detecting this software.",
+            "timeStamp": "2018/06/08-04:16:44",
+            "id": "e0bkhg4",
+            "is_submitter": true,
+            "link_id": "t3_8phfrc",
+            "parent_id": "t1_e0bji36",
+            "score": 3,
+            "stickied": false,
+            "author_name": "chrisredred"
+        },
+        "e0bji36": {
+            "comment": "The issue here is that it's not malware. It's a monitoring tool made for a specific legitimate (if unpopular) purpose. The makers of such software have successfully sued the antivirus / anti malware vendors on the grounds that they falsely identify their product as a virus / malware and won. ",
+            "timeStamp": "2018/06/08-03:47:48",
+            "id": "e0bji36",
+            "is_submitter": false,
+            "link_id": "t3_8phfrc",
+            "parent_id": "t3_8phfrc",
+            "score": 6,
+            "stickied": false,
+            "author_name": "Coldwarjarhead"
+        },
+        "e0bexh5": {
+            "comment": "I use Super AntiSpyware's system investigator feature, it gives you almost full control on everything running on your pc. It is the sweetest feature I know so far especially if you are familiar with malware and pc stuffs.",
+            "timeStamp": "2018/06/08-01:08:12",
+            "id": "e0bexh5",
+            "is_submitter": false,
+            "link_id": "t3_8phfrc",
+            "parent_id": "t3_8phfrc",
+            "score": 6,
+            "stickied": false,
+            "author_name": "yego21"
+        }
+    }
+}

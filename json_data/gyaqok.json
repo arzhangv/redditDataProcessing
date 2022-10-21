@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Coding an ADVANCED BACKDOOR | PART 4",
+        "score": 1,
+        "id": "gyaqok",
+        "commsNum": 1,
+        "timeStamp": "2020/06/07-04:35:45",
+        "author_name": "thataiguru",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.youtube.com/watch?v=RnHA5RVOoyo"
+    },
+    "posts": {
+        "ft9hwcu": {
+            "comment": "Make 1 video instead of parts.",
+            "timeStamp": "2020/06/07-05:43:10",
+            "id": "ft9hwcu",
+            "is_submitter": false,
+            "link_id": "t3_gyaqok",
+            "parent_id": "t3_gyaqok",
+            "score": 2,
+            "stickied": false,
+            "author_name": "FakeRolex000"
+        }
+    }
+}

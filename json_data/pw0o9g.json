@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "[removed]",
+        "title": "VirusTotal Malware Sample",
+        "score": 1,
+        "id": "pw0o9g",
+        "commsNum": 0,
+        "timeStamp": "2021/09/26-12:34:37",
+        "author_name": "throwaway39573819495",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/pw0o9g/virustotal_malware_sample/"
+    },
+    "posts": {}
+}

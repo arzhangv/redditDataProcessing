@@ -1,0 +1,187 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Basically I saw remove my data on grabify and I wanted to try it out and so I created my own link and clicked on after I clicked on it my IP showed up which was suppose to happen. Then I put the url I clicked on in the remove my data and when I clicked remove it said it couldnt find my data in the logs or there was no data but my data was on there and I know because it is my log. Please help",
+        "title": "Grabify (dont know where to ask)",
+        "score": 1,
+        "id": "hqozr4",
+        "commsNum": 15,
+        "timeStamp": "2020/07/13-15:10:08",
+        "author_name": "NightLightKnight001",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 15,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/hqozr4/grabify_dont_know_where_to_ask/"
+    },
+    "posts": {
+        "fy6ylb3": {
+            "comment": "It's normal, it's because it isn't https but just http.",
+            "timeStamp": "2020/07/15-15:28:40",
+            "id": "fy6ylb3",
+            "is_submitter": false,
+            "link_id": "t3_hqozr4",
+            "parent_id": "t1_fy6yj5r",
+            "score": 1,
+            "stickied": false,
+            "author_name": "NoelGamer06"
+        },
+        "fy6yki1": {
+            "comment": "No, you have to log in and I don't think they can access the page not being connected to your router. Also for the credentials if you haven't changed them just google default credentials.",
+            "timeStamp": "2020/07/15-15:28:29",
+            "id": "fy6yki1",
+            "is_submitter": false,
+            "link_id": "t3_hqozr4",
+            "parent_id": "t1_fy6ydgz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "NoelGamer06"
+        },
+        "fy6yk2b": {
+            "comment": "Should I still continue?",
+            "timeStamp": "2020/07/15-15:28:23",
+            "id": "fy6yk2b",
+            "is_submitter": true,
+            "link_id": "t3_hqozr4",
+            "parent_id": "t1_fy6xuz4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "NightLightKnight001"
+        },
+        "fy6yj5r": {
+            "comment": "Also when I went to it, it said Connection not protected.",
+            "timeStamp": "2020/07/15-15:28:10",
+            "id": "fy6yj5r",
+            "is_submitter": true,
+            "link_id": "t3_hqozr4",
+            "parent_id": "t1_fy6xuz4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "NightLightKnight001"
+        },
+        "fy6ydgz": {
+            "comment": "Wait if you can simply type your IP address in your browser and turn off WAN does that mean they can do the same?",
+            "timeStamp": "2020/07/15-15:26:48",
+            "id": "fy6ydgz",
+            "is_submitter": true,
+            "link_id": "t3_hqozr4",
+            "parent_id": "t1_fy6xuz4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "NightLightKnight001"
+        },
+        "fy6xuz4": {
+            "comment": "1. Type your ip address in a browser\n\n2. Find firewall settings, if you can't, google your router name and firewall\n\n3. On my zyxel router I have a low, medium and high setting. Only low enables wan to lan so I should put it to higher than low, your router's settings may be different. \n\n3. ???\n\n4. Profit",
+            "timeStamp": "2020/07/15-15:22:29",
+            "id": "fy6xuz4",
+            "is_submitter": false,
+            "link_id": "t3_hqozr4",
+            "parent_id": "t1_fy6xc82",
+            "score": 1,
+            "stickied": false,
+            "author_name": "NoelGamer06"
+        },
+        "fy6xc82": {
+            "comment": "How do I change my firewall settings. I am sorry, but I told you I am very bad at this.",
+            "timeStamp": "2020/07/15-15:18:01",
+            "id": "fy6xc82",
+            "is_submitter": true,
+            "link_id": "t3_hqozr4",
+            "parent_id": "t1_fy6x9ax",
+            "score": 1,
+            "stickied": false,
+            "author_name": "NightLightKnight001"
+        },
+        "fy6x9ax": {
+            "comment": "Change firewall settings to not allow WAN to LAN",
+            "timeStamp": "2020/07/15-15:17:19",
+            "id": "fy6x9ax",
+            "is_submitter": false,
+            "link_id": "t3_hqozr4",
+            "parent_id": "t1_fy6wt15",
+            "score": 1,
+            "stickied": false,
+            "author_name": "NoelGamer06"
+        },
+        "fy6wt15": {
+            "comment": "How do I do that?",
+            "timeStamp": "2020/07/15-15:13:27",
+            "id": "fy6wt15",
+            "is_submitter": true,
+            "link_id": "t3_hqozr4",
+            "parent_id": "t1_fy6wqr1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "NightLightKnight001"
+        },
+        "fy6wqr1": {
+            "comment": "Block wan connections",
+            "timeStamp": "2020/07/15-15:12:55",
+            "id": "fy6wqr1",
+            "is_submitter": false,
+            "link_id": "t3_hqozr4",
+            "parent_id": "t1_fy6wlfh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "NoelGamer06"
+        },
+        "fy6wlfh": {
+            "comment": "Uhm, I am bad at this sorry so I am going to assume by release my IP you mean change it. I have a static IP and I have been getting ddosed everday for one hour at random times. Well I am pretty sure I am getting ddosed.",
+            "timeStamp": "2020/07/15-15:11:39",
+            "id": "fy6wlfh",
+            "is_submitter": true,
+            "link_id": "t3_hqozr4",
+            "parent_id": "t1_fy6wc8p",
+            "score": 1,
+            "stickied": false,
+            "author_name": "NightLightKnight001"
+        },
+        "fy6wc8p": {
+            "comment": "And why do you care someone has your public ip? They sure care a lot where you live and you can always just release your ip.",
+            "timeStamp": "2020/07/15-15:09:28",
+            "id": "fy6wc8p",
+            "is_submitter": false,
+            "link_id": "t3_hqozr4",
+            "parent_id": "t1_fy6qxsl",
+            "score": 1,
+            "stickied": false,
+            "author_name": "NoelGamer06"
+        },
+        "fy6qxsl": {
+            "comment": "Cause someone has logged my IP using grabify so I just wanted to test it out just incase it does anything worse. Turns out it doesnt even work for me.",
+            "timeStamp": "2020/07/15-14:24:45",
+            "id": "fy6qxsl",
+            "is_submitter": true,
+            "link_id": "t3_hqozr4",
+            "parent_id": "t1_fy5diap",
+            "score": 1,
+            "stickied": false,
+            "author_name": "NightLightKnight001"
+        },
+        "fy5diap": {
+            "comment": "Why do you care your ip is logged on your own private log",
+            "timeStamp": "2020/07/15-07:51:55",
+            "id": "fy5diap",
+            "is_submitter": false,
+            "link_id": "t3_hqozr4",
+            "parent_id": "t3_hqozr4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "NoelGamer06"
+        },
+        "fxzi75w": {
+            "comment": "You might want to try r/techsupport",
+            "timeStamp": "2020/07/13-17:10:32",
+            "id": "fxzi75w",
+            "is_submitter": false,
+            "link_id": "t3_hqozr4",
+            "parent_id": "t3_hqozr4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Schnitzel725"
+        }
+    }
+}

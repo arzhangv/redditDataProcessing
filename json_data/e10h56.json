@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi.\n\nI'm interested in malware, and posted a couple times in there. I'm searching for a \"bunch\", group of ransomwares, and, due to me not having a VirusTotal \\\\ Hybrid Analysis \\\\ Malwr account, i cannot get them (where i could, VirusShare, these are absent). I would want to analyze them, and see how they work.\n\nIf someone prefers e-mail to send the samples, i can give [\"SingeEsteViata@protonmail.com](mailto:\"SingeEsteViata@protonmail.com)\" as address. Otherwise, use a service that i can use / submit the samples to a malware pool i can access.\n\nSamples are:\n\nVigra ransomware (Viata variant): \"013ad8450b3f682b52901a204dabb4844ceb178367c2c4c38451cca72d66c21d\"; Android TV ransomware: \"2faaf3186853ab0b6432971bd4a739c772ceace80ea3404f313b305ac393f396\"; (referenced at [https://blog.newskysecurity.com/how-android-ransomware-bricked-my-tv-eff485c665ed](https://blog.newskysecurity.com/how-android-ransomware-bricked-my-tv-eff485c665ed))\n\n Linux KillDisk wiper: \"8a04f8481f1ef57f66b974802919e936c59a32d1cd9ef83186e6911b9ae773b0\"; \n\nOrdinypt Windows ransomware: \"085256b114079911b64f5826165f85a28a2a4ddc2ce0d935fa8545651ce5ab09\"; \n\nClop ransomware: \"d0cde86d47219e9c56b717f55dcdb01b0566344c13aa671613598cab427345b9\";\n\nThanks in advance to everyone.",
+        "title": "Samples of ransomwares: Clop, Ordinypt and others",
+        "score": 1,
+        "id": "e10h56",
+        "commsNum": 4,
+        "timeStamp": "2019/11/24-08:17:13",
+        "author_name": "Sasser39a",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/e10h56/samples_of_ransomwares_clop_ordinypt_and_others/"
+    },
+    "posts": {
+        "f8r0wqs": {
+            "comment": "You are a saint. I downloaded the tool, registered and saw your repository, istant interest. Thanks.",
+            "timeStamp": "2019/11/25-16:46:17",
+            "id": "f8r0wqs",
+            "is_submitter": true,
+            "link_id": "t3_e10h56",
+            "parent_id": "t1_f8n7ixb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Sasser39a"
+        },
+        "f8ngn3i": {
+            "comment": "[removed]",
+            "timeStamp": "2019/11/24-16:59:31",
+            "id": "f8ngn3i",
+            "is_submitter": false,
+            "link_id": "t3_e10h56",
+            "parent_id": "t3_e10h56",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "f8n7ixb": {
+            "comment": "I wrote a tool for searching and downloading malware called the Malware Analysis Center. You can download it using the link below. I was able to find the odinypt sample you linked in the database by hash, but not the other files; however, you may be able to find similar samples by using the search features.\n\nThe account is free and signing up is automated now through the client.\n\nhttps://practicalsecurityanalytics.com/malware-analysis-center/about/\n\nhttps://practicalsecurityanalytics.com/searching/\n\nEdit: Added the following hashes:\n085256b114079911b64f5826165f85a28a2a4ddc2ce0d935fa8545651ce5ab09\nd0cde86d47219e9c56b717f55dcdb01b0566344c13aa671613598cab427345b9\n013ad8450b3f682b52901a204dabb4844ceb178367c2c4c38451cca72d66c21d",
+            "timeStamp": "2019/11/24-16:00:47",
+            "id": "f8n7ixb",
+            "is_submitter": false,
+            "link_id": "t3_e10h56",
+            "parent_id": "t3_e10h56",
+            "score": 2,
+            "stickied": false,
+            "author_name": "FusionCarcass"
+        },
+        "f8kl53p": {
+            "comment": "[removed]",
+            "timeStamp": "2019/11/24-08:18:56",
+            "id": "f8kl53p",
+            "is_submitter": false,
+            "link_id": "t3_e10h56",
+            "parent_id": "t3_e10h56",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

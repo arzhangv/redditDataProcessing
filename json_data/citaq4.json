@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "So i was recently attempting to download something (on adfly) when i realized  i was redirected to [gloyah.net](https://gloyah.net)\n\nIt was originally acting as normal adware making you download exe files named similarly to the thing your attempting to download. \n\nBut the thing that was strange is that originally i couldn't find any program setting or anything to tie to this. Even malware bytes didn't detect anything and simply blocked the website.\n\nEven though this inst enough to prompt the accusation of a compromised website or anything of the such i wanted to find the hosting of the domain , when pinging i on my computer it returned a local ip address, To be honest at this point i was very confused.   So i decided to use a website ([myip.ms](https://myip.ms)) to analyze the website, the internet traffic was very imense, there was more traffic than [adf.ly](https://adf.ly) itself.\n\nNot only was i being redirected on other devices that had never opened or had been exposed to this adware. were affected on my internet and then, after connecting to other networks would have the same affect.\n\nI cant tell if [adf.ly](https://adf.ly) is hosting this or if this is some very sophisticated adware.  i have seen  [adf.ly/puopen.php](http://puu.sh/bjaHb/52f6709c0c.png)  that start the actual redirected but im not quite sure how this is  possible\n\n&amp;#x200B;\n\nNow obviously im not very technical but i think that should be looked into? please let me know if anyone else if having this problem. Heres a random adfly link ([http://adf.ly/1LNEcq](http://adf.ly/1LNEcq)) please tell me if you get redirected to gloyah.net  \n\nEDIT : also adfly shortners with the domain [optitopt.com](https://optitopt.com) seem to always reach the intended website, even after redirecting to gloyah.",
+        "title": "Is Adfly assiting malicous adware? (GLOYAH.net)",
+        "score": 1,
+        "id": "citaq4",
+        "commsNum": 0,
+        "timeStamp": "2019/07/28-01:04:28",
+        "author_name": "Whimsicalliousity",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/citaq4/is_adfly_assiting_malicous_adware_gloyahnet/"
+    },
+    "posts": {}
+}

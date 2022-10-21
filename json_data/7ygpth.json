@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "JenkinsMiner made $3.4 million in a few months by compromising Jenkins servers",
+        "score": 1,
+        "id": "7ygpth",
+        "commsNum": 0,
+        "timeStamp": "2018/02/18-11:43:18",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/69232/malware/jenkinsminer-targets-jenkins-servers.html"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hey guys. I have a questions when it comes to the network options in VirtualBox 5.1. What is the safest option? I use wireless wifi at my home. I dont want malware to travel through the network and spread or something like that. I see I have a couple of choises:\n\n* NAT\n* NAT Network\n* Bridged Adapter\n* Internal Network\n* Host-only Adapter\n* Generic Driver\n\nWhat is the safest option here?",
+        "title": "How do I protect my host machine and network in Oracle VM VirtualBox?",
+        "score": 16,
+        "id": "5ar2aw",
+        "commsNum": 17,
+        "timeStamp": "2016/11/02-09:57:55",
+        "author_name": "bitman_",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 17,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5ar2aw/how_do_i_protect_my_host_machine_and_network_in/"
+    },
+    "posts": {}
+}

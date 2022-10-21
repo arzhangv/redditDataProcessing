@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "A few weeks ago I opened chrome in my fathers computer, and noticed there was a hidden extension called FindNetData that had permissions to change and read site data all across chrome, I eliminated it from chrome and thought nothing of it, but it has since reappeared every time I close and open chrome again, I don\u2019t know if this is malware and if it is, how can I erase it? \nThanks",
+        "title": "FindNetData Extension",
+        "score": 1,
+        "id": "enhfqj",
+        "commsNum": 5,
+        "timeStamp": "2020/01/11-18:22:28",
+        "author_name": "ranakamikaze",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/enhfqj/findnetdata_extension/"
+    },
+    "posts": {
+        "fl2qcz1": {
+            "comment": "No I haven\u2019t!, been considering to just install an antivirus.",
+            "timeStamp": "2020/03/20-19:20:45",
+            "id": "fl2qcz1",
+            "is_submitter": true,
+            "link_id": "t3_enhfqj",
+            "parent_id": "t1_fkfuquh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ranakamikaze"
+        },
+        "fkfuquh": {
+            "comment": "Did you find the solution? I am having the same problem too. First time getting a virus on my macbook",
+            "timeStamp": "2020/03/13-16:43:24",
+            "id": "fkfuquh",
+            "is_submitter": false,
+            "link_id": "t3_enhfqj",
+            "parent_id": "t3_enhfqj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "WYEMINGHO"
+        },
+        "ffbxksr": {
+            "comment": "r/malwareremoval",
+            "timeStamp": "2020/01/23-05:26:56",
+            "id": "ffbxksr",
+            "is_submitter": false,
+            "link_id": "t3_enhfqj",
+            "parent_id": "t1_fe4e2c0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "evictedtomato"
+        },
+        "fe4e2c0": {
+            "comment": "Oh my bad, didn\u2019t read, sorry.\nDo you know any other sub where I could post this?",
+            "timeStamp": "2020/01/12-11:45:26",
+            "id": "fe4e2c0",
+            "is_submitter": true,
+            "link_id": "t3_enhfqj",
+            "parent_id": "t1_fe4dsfo",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ranakamikaze"
+        },
+        "fe4dsfo": {
+            "comment": "The pinned post here:\n\n&gt;Please view before posting on /r/malware!  \n&gt;  \n&gt;This is a place for malware technical analysis and information. This is NOT a place for help with malware removal or various other end-user questions.",
+            "timeStamp": "2020/01/12-11:43:44",
+            "id": "fe4dsfo",
+            "is_submitter": false,
+            "link_id": "t3_enhfqj",
+            "parent_id": "t3_enhfqj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "damnyougoogle2step"
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "https://youtu.be/sEfqtET13SY?t=520\n\nSo the above video shows what happens when an infected USB is plugged into a clean computer. Stuxnet hooks various functions and hides the malicious files.\n\nWould a bunch of weird looking files disappearing like that not set alarm bells ringing for whoever opens it?",
+        "title": "Stuxnet hiding on USBs",
+        "score": 1,
+        "id": "eiojfo",
+        "commsNum": 2,
+        "timeStamp": "2020/01/01-14:02:58",
+        "author_name": "kcon1",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/eiojfo/stuxnet_hiding_on_usbs/"
+    },
+    "posts": {
+        "fcu0280": {
+            "comment": "It's easy to catch when you go looking for it and your technically minded. Though, whose to say how fast it actually happens? \n\nAlso what you expect of a less thn tech person to do or say?",
+            "timeStamp": "2020/01/02-04:22:48",
+            "id": "fcu0280",
+            "is_submitter": false,
+            "link_id": "t3_eiojfo",
+            "parent_id": "t3_eiojfo",
+            "score": 1,
+            "stickied": false,
+            "author_name": "blabbities"
+        },
+        "fctwvtg": {
+            "comment": "I think it depends on whether there are any indications that those files are actually being deleted/altered. With proper file monitoring in place, I would think yes but I could also see alerts like that as being noisy and might be easily discarded or overlooked.",
+            "timeStamp": "2020/01/02-03:14:19",
+            "id": "fctwvtg",
+            "is_submitter": false,
+            "link_id": "t3_eiojfo",
+            "parent_id": "t3_eiojfo",
+            "score": 1,
+            "stickied": false,
+            "author_name": "delliott8990"
+        }
+    }
+}

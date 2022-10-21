@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "\nI believe that the code at http://cookie-consent.org/ is injecting malicious js that tries to get the user to download a plugin.\n\nThe injected script is at http://front.to/libs/cc_test_alert.js ( http://pastebin.com/vkT1CWuy )\n\nI am not a security expert and so I apologize preemptively for any error (sorry).",
+        "title": "http://cookie-consent.org/ is injecting malware links",
+        "score": 21,
+        "id": "4u7wzb",
+        "commsNum": 6,
+        "timeStamp": "2016/07/23-04:47:33",
+        "author_name": "AndElectrons",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/4u7wzb/httpcookieconsentorg_is_injecting_malware_links/"
+    },
+    "posts": {}
+}

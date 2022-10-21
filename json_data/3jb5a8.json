@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I'll recount the events as succinctly as I can, but I want to keep all the details in. Perhaps some are red herrings:\n\nI run Cyanogenmod 12, on a version before the Stagefright fix. (I didn't want to install a nightly build). So, I had MMS set to not auto-download. However my policy was to download if the A) The person didn't have Android or B) I could confirm that they meant to send the media.\n\nEvent in question: Friend A started a group MMS with me and Friend B. I'd never met Friend B before. Friend A was on iOS, Friend B on Android.\n\nThe way group messaging seems to work, at least on the OS I have and with auto-download turned off, is that for each message sent in this chat, I would receive a new MMS which would require me to confirm and download before even knowing that it was a group chat message (images, for instance, came through the same way). Each of these initially unknown MMS messages would show up in the same \"window\" as my SMS message conversation stream with that person. However once I downloaded it, it would appear as a message in the separate group conversation window, of course from the same person.\n\nSo once I figured out what was going on, I approved everything from these two friends for that conversation. At a certain point, however, I noticed that there was *also* a group conversation with four phone numbers I did not know. I looked at it, and it consisted of one message from one of them, which was an image. The image looked like it could well have been a pocket photo. But how did it get there without me approving it? Was Friend A or B able to send me an MMS that, when opened, turned into a group message from somebody else entirely? (Or, maybe while approving things quickly I accidentally approved this random person?).\n\nLater, when I power cycled my phone, around the time the lock screen came on, I got a popup that said something along the lines of \"Android has been updated, updating your apps...\" it came and went too fast so I don't know for sure what it said. I don't remember it saying anything about \"optimizing\", which apparently comes up for OS upgrades. I of course did not (intentionally!) upgrade my OS that day.\n\nI sent an SMS to the phone number that apparently sent this group image, asking about it. They eventually replied and said that they didn't send it.\n\nMeanwhile, I talked to Friend B about this (who, again, has Android). She mentioned two funny things that happened. That morning, she got some sort of popup out of nowhere saying \"your phone is now malware free\". The other thing, months ago, is that she got an MMS that said \"Message not found\" from \"Unkown address\". She still has it sitting around.\n\nAnyway, that's what I've got. I'm curious if these signs point to something. I'd be happy to submit the image I got to the right place if you think it might have a clue. I'd love to get it \"tested\", and help confirm that this thing is in the wild if it indeed is.\n\nDoes anybody know a good subreddit to cross-post this to? Perhaps an Android forum that knows the security details?\n\nAlso - can I even get stagefright exploited from an image in the first place? Or is it just from videos?\n\nThanks.",
+        "title": "Strange events surrounding MMS on my phone - Stagefright related?",
+        "score": 4,
+        "id": "3jb5a8",
+        "commsNum": 2,
+        "timeStamp": "2015/09/01-20:26:28",
+        "author_name": "orblivion",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/3jb5a8/strange_events_surrounding_mms_on_my_phone/"
+    },
+    "posts": {}
+}

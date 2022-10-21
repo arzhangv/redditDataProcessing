@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I am using cuckoo sandbox, and I submitted Internet Explorer binary for analysis. The report mentioned that \"One or more martian processes was created\". Can anyone tell me what is a \"Martian Process\"?\n\nThanks",
+        "title": "What is a martian process?",
+        "score": 12,
+        "id": "7zjv6v",
+        "commsNum": 5,
+        "timeStamp": "2018/02/22-16:30:46",
+        "author_name": "rajiv2790",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/7zjv6v/what_is_a_martian_process/"
+    },
+    "posts": {}
+}

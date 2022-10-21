@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I wonder if you guys have separate hardware and software 'setup' for malware analysis. \nIf you have please describe because I am new and I use just Windows 7 and a bootable LinuxMint USB. I know it is painstaking to setup for malware analysis. ",
+        "title": "How do you setup your malware lab",
+        "score": 37,
+        "id": "5j0fm3",
+        "commsNum": 11,
+        "timeStamp": "2016/12/18-06:33:49",
+        "author_name": "HackSpirit",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 11,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5j0fm3/how_do_you_setup_your_malware_lab/"
+    },
+    "posts": {}
+}

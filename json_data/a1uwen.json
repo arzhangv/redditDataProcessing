@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "$1533 worth of Cyber Security Books like Get Learning Malware Analysis, Practical Cyber Intelligence, Ethical Hacking for Beginners, Cybersecurity - Attack &amp; Defense Strategies and more for $15 (-98% OFF)",
+        "score": 1,
+        "id": "a1uwen",
+        "commsNum": 3,
+        "timeStamp": "2018/11/30-10:13:32",
+        "author_name": "Spedcial_Ed",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://timenewsin.com/malware"
+    },
+    "posts": {
+        "easyf9p": {
+            "comment": "Ok will buy. \n\nIt\u2019s a good collection for my kids. ",
+            "timeStamp": "2018/11/30-10:47:45",
+            "id": "easyf9p",
+            "is_submitter": false,
+            "link_id": "t3_a1uwen",
+            "parent_id": "t1_easxao8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "4745454B"
+        },
+        "easxao8": {
+            "comment": "This is just a buy one-time deal, all the ebooks are drm free so you can just download the pdfs (you can also access bundles you have bought at any time through you account)",
+            "timeStamp": "2018/11/30-10:34:56",
+            "id": "easxao8",
+            "is_submitter": false,
+            "link_id": "t3_a1uwen",
+            "parent_id": "t1_easwe68",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Darkwraith5426"
+        },
+        "easwe68": {
+            "comment": "Do I retain access to the books after the first month, or is this so that I can access the books only if I pay monthly?",
+            "timeStamp": "2018/11/30-10:23:55",
+            "id": "easwe68",
+            "is_submitter": false,
+            "link_id": "t3_a1uwen",
+            "parent_id": "t3_a1uwen",
+            "score": 2,
+            "stickied": false,
+            "author_name": "4745454B"
+        }
+    }
+}

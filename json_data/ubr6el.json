@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 0.81,
+        "selftext": "",
+        "title": "Static unpacker and decoder for Hello Kitty Packer",
+        "score": 3,
+        "id": "ubr6el",
+        "commsNum": 0,
+        "timeStamp": "2022/04/25-10:57:54",
+        "author_name": "GelosSnake",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://medium.com/proferosec-osm/static-unpacker-and-decoder-for-hello-kitty-packer-91a3e8844cb7"
+    },
+    "posts": {}
+}

@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Inconvenient truths about working in Cybersecurity",
+        "score": 1,
+        "id": "dww68v",
+        "commsNum": 1,
+        "timeStamp": "2019/11/15-12:10:21",
+        "author_name": "Z3r0s3c4",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.peerlyst.com/posts/inconvenient-truths-about-working-in-cybersecurity-nathan-chung-cissp-giac-gsec-ccsk?trk=search_page_search_result"
+    },
+    "posts": {
+        "f7m1guu": {
+            "comment": "I think the biggest inconvenient truth is that the legal job market doesn't pay nearly as well as the illegal job market, even when adjusted for risk. For example, it is much less profitable and less \"rewarding\" in terms of freedom and work environment to analyze malware vs develop/spread malware.\n\nDue to the nature of the internet, the illegal job market is not as risky as other crimes, thereby increasing the incentive. In this regard, many people who aren't bad people will be strongly pressured into crime and this is exactly what we see with malware.",
+            "timeStamp": "2019/11/15-13:14:18",
+            "id": "f7m1guu",
+            "is_submitter": false,
+            "link_id": "t3_dww68v",
+            "parent_id": "t3_dww68v",
+            "score": 1,
+            "stickied": false,
+            "author_name": "PhisherPrice"
+        }
+    }
+}

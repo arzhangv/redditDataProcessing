@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Our office got hit with a ransomware, of which the only clues we have right now is that it renames the files to have a .evolution extension appended and there are also files called \"for recovery readme.txt\" but when opened they try to run an installer.\n\nAny help would be great, thanks.",
+        "title": "Office hit with .evolution ransomware",
+        "score": 1,
+        "id": "a1clnv",
+        "commsNum": 3,
+        "timeStamp": "2018/11/28-17:21:34",
+        "author_name": "The_Grand_User",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/a1clnv/office_hit_with_evolution_ransomware/"
+    },
+    "posts": {
+        "eaou1yn": {
+            "comment": "[deleted]",
+            "timeStamp": "2018/11/28-19:00:37",
+            "id": "eaou1yn",
+            "is_submitter": false,
+            "link_id": "t3_a1clnv",
+            "parent_id": "t3_a1clnv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "eaooxcf": {
+            "comment": "Usually the best course of action is to revert from backup. It is never a good idea to pay ransom. ",
+            "timeStamp": "2018/11/28-17:55:12",
+            "id": "eaooxcf",
+            "is_submitter": false,
+            "link_id": "t3_a1clnv",
+            "parent_id": "t3_a1clnv",
+            "score": 6,
+            "stickied": false,
+            "author_name": "54v1t4r"
+        }
+    }
+}

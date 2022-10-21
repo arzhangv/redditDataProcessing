@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Using binsnitch.py to detect files touched by malware",
+        "score": 1,
+        "id": "6bph13",
+        "commsNum": 0,
+        "timeStamp": "2017/05/17-08:39:35",
+        "author_name": "daanraman",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://blog.nviso.be/2017/05/17/using-binsnitch-py-to-detect-files-touched-by-malware/"
+    },
+    "posts": {}
+}

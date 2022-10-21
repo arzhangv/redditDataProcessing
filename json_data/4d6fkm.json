@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Petya: Disk Encrypting Ransomware",
+        "score": 1,
+        "id": "4d6fkm",
+        "commsNum": 0,
+        "timeStamp": "2016/04/03-08:00:11",
+        "author_name": "sh3dow",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://labsblog.f-secure.com/2016/04/01/petya-disk-encrypting-ransomware/"
+    },
+    "posts": {}
+}

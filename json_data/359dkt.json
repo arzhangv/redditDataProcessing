@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "GPU-based malware, the evolution of rootkits and keyloggers",
+        "score": 1,
+        "id": "359dkt",
+        "commsNum": 0,
+        "timeStamp": "2015/05/07-22:01:51",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/36634/malware/gpu-based-malware.html"
+    },
+    "posts": {}
+}

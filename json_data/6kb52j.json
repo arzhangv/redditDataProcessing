@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "This Malware is an absolute idiot.",
+        "score": 35,
+        "id": "6kb52j",
+        "commsNum": 27,
+        "timeStamp": "2017/06/29-13:32:08",
+        "author_name": "iPundemic",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 27,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://i.redd.it/jf6nu8h7an6z.jpg"
+    },
+    "posts": {
+        "dlqg43s": {
+            "comment": "How do they have my IP by calling me?",
+            "timeStamp": "2017/08/16-19:41:40",
+            "id": "dlqg43s",
+            "is_submitter": false,
+            "link_id": "t3_6kb52j",
+            "parent_id": "t1_djlw7om",
+            "score": 1,
+            "stickied": false,
+            "author_name": "tbarlow13"
+        }
+    }
+}

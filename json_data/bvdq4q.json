@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Analyzing a Coin Mining and Remote Access Hybrid Campaign",
+        "score": 21,
+        "id": "bvdq4q",
+        "commsNum": 1,
+        "timeStamp": "2019/05/31-15:22:15",
+        "author_name": "kindredsec",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://kindredsec.com/2019/05/31/dota-campaign-analyzing-a-coin-mining-and-backdoor-malware-hybrid-campaign/"
+    },
+    "posts": {
+        "eppxi5m": {
+            "comment": "Better post this a thousand more times.  And don't limit yourself to every infosec sub; try dumping it everywhere for maximum clicks.",
+            "timeStamp": "2019/06/01-06:07:18",
+            "id": "eppxi5m",
+            "is_submitter": false,
+            "link_id": "t3_bvdq4q",
+            "parent_id": "t3_bvdq4q",
+            "score": 0,
+            "stickied": false,
+            "author_name": "ceasar26"
+        }
+    }
+}

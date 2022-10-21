@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "FireEye Labs Obfuscated String Solver - Automatically extract obfuscated strings from malware.",
+        "score": 48,
+        "id": "4j6lsh",
+        "commsNum": 0,
+        "timeStamp": "2016/05/13-07:37:00",
+        "author_name": "Maijin",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://github.com/fireeye/flare-floss"
+    },
+    "posts": {}
+}

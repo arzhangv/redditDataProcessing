@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "UACredService.exe matching mimikatz yara rule.",
+        "score": 1,
+        "id": "q440e0",
+        "commsNum": 1,
+        "timeStamp": "2021/10/08-11:42:54",
+        "author_name": "letais",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "/r/paloaltonetworks/comments/q43ptr/uacredserviceexe_matching_mimikatz_yara_rule/"
+    },
+    "posts": {
+        "hfx1l07": {
+            "comment": "[removed]",
+            "timeStamp": "2021/10/08-16:38:23",
+            "id": "hfx1l07",
+            "is_submitter": false,
+            "link_id": "t3_q440e0",
+            "parent_id": "t3_q440e0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "The ZeroAccess Botnet - Mining and Fraud for Massive Financial Gain",
+        "score": 9,
+        "id": "10bghz",
+        "commsNum": 1,
+        "timeStamp": "2012/09/22-16:05:52",
+        "author_name": "Nugsly",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.sophos.com/en-us/medialibrary/PDFs/technical%20papers/Sophos_ZeroAccess_Botnet.pdf"
+    },
+    "posts": {}
+}

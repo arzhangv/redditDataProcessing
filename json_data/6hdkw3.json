@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "If you run a web browser inside of a program such as Sandboxie, would that protect the system from scripting/fileless attacks? I figure it would since it's technically isolated but I am also not a sandbox internals expert.",
+        "title": "Does Sandboxing protect vs. Scripting attacks?",
+        "score": 9,
+        "id": "6hdkw3",
+        "commsNum": 7,
+        "timeStamp": "2017/06/15-00:40:02",
+        "author_name": "null_endian",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6hdkw3/does_sandboxing_protect_vs_scripting_attacks/"
+    },
+    "posts": {
+        "dkfgu9v": {
+            "comment": "In that case I'm not sure if it provides any benefits. I've never sandboxed a browser before. If it can still download files to your computer than the sandbox won't protect you. ",
+            "timeStamp": "2017/07/19-07:53:35",
+            "id": "dkfgu9v",
+            "is_submitter": false,
+            "link_id": "t3_6hdkw3",
+            "parent_id": "t1_djw3wis",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TheCrowGrandfather"
+        },
+        "djw3wis": {
+            "comment": "Well I'm lost because I never \"take the browser back out\" for example... Basically, I start the browser in Sandboxie and whatever is done there gets completely destroyed. The instance of the browser in the sandbox is totally separate and in fact, for example, if I change browser settings in the Sandboxie one, they are not reflected in the non-sandboxed one and never will be. In fact, I am well aware that any bookmarks I make in the sandbox stay there and ultimately will be lost. \n\nIf I need to go to a site I know is safe, I just do it in a browser outside Sandboxie.",
+            "timeStamp": "2017/07/06-23:12:02",
+            "id": "djw3wis",
+            "is_submitter": true,
+            "link_id": "t3_6hdkw3",
+            "parent_id": "t1_dje1pgp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "null_endian"
+        }
+    }
+}

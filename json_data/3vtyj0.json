@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Malware Analysis - Dridex &amp; Process Hollowing",
+        "score": 14,
+        "id": "3vtyj0",
+        "commsNum": 5,
+        "timeStamp": "2015/12/07-12:05:02",
+        "author_name": "countuponsecurity",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://countuponsecurity.com/2015/12/07/malware-analysis-dridex-process-hollowing/"
+    },
+    "posts": {}
+}

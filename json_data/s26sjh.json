@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I have a injected PE (kernel mode rootkit to be exact) that only has the IAT table, which basically only stores the addresses of some kernel functions in an array which is referenced inside its code, then this is followed by some data section which stores strings, and after that comes the functions.\n\nMy question is that after i dump this injected mini PE, what is the easiest way that i convert it to a real PE in order to analyse it easier with IDA (or even better, a full working PE/.sys file that i can actually load and debug) ?\n\nAlso lets assume that i have found its entrypoint.\n\nSo, is there any tool for this?",
+        "title": "Reconstructing a full PE from a memory injected PE that only has IAT and sections content",
+        "score": 1,
+        "id": "s26sjh",
+        "commsNum": 0,
+        "timeStamp": "2022/01/12-05:54:47",
+        "author_name": "Ro0o0otkit",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/s26sjh/reconstructing_a_full_pe_from_a_memory_injected/"
+    },
+    "posts": {
+        "hsdyvza": {
+            "comment": "Potentially achievable manually in pe bear by rebuilding the pe header and filling in the mapped section size/addressing? \n\nThat's presuming that if it's using a dynamic IAT then it doesn't need imports?",
+            "timeStamp": "2022/01/12-11:31:13",
+            "id": "hsdyvza",
+            "is_submitter": false,
+            "link_id": "t3_s26sjh",
+            "parent_id": "t3_s26sjh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "micropeenandproud"
+        },
+        "hsd63i0": {
+            "comment": "[removed]",
+            "timeStamp": "2022/01/12-08:32:17",
+            "id": "hsd63i0",
+            "is_submitter": false,
+            "link_id": "t3_s26sjh",
+            "parent_id": "t3_s26sjh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

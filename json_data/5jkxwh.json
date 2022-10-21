@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hello there, wanted your help to a glossary of the malware analysis hardware or software tools on this reddit. If you did not see anything here you know, just keep appending the name of it and link it. Example:\n\n[OllyDBG](http://www.ollydbg.de/) : A debugger used for code analysis for 32-Bit windows binaries\n\n\n\n\n",
+        "title": "Glossary of Malware Analysis related hardware and software tools",
+        "score": 19,
+        "id": "5jkxwh",
+        "commsNum": 7,
+        "timeStamp": "2016/12/21-08:51:33",
+        "author_name": "HackSpirit",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5jkxwh/glossary_of_malware_analysis_related_hardware_and/"
+    },
+    "posts": {}
+}

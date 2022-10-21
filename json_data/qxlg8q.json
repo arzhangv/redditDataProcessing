@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hello, i will try to keep this short.\nI was scanning my computer with hitmanpro like i do every day after i boot up my computer and was listening to some music. I did not expect anything weird to happen so i went to the bathroom for a few minutes. But when i come back, i see that hitman pro has detected something in my appdata/local/google folder, and the type of file was named \"redline stealer\". I did not even bother wasting my time and i just went to the folder myself and instantly wiped it out from my computer. Being a little confused and frightened, i decided i should look up this virus to see what is it all about...but then i see the following line.. \"stealing personal data and information\". I am honestly a little terrified but because i deleted it from my computer something tells me i shouldnt be so scared. Am i safe now? Was it a false alarm? I have a lot of precious files in my pc and i really dont want to lose them. Please tell me whats happening. Thank you.\n\n\nJust a little sidenote i had some problems with hackers and malware in my computer almost one month ago, it has been silent since and seeing this happening again makes me very paranoid.",
+        "title": "Redline Stealer",
+        "score": 1,
+        "id": "qxlg8q",
+        "commsNum": 3,
+        "timeStamp": "2021/11/19-09:45:20",
+        "author_name": "NuMetalHead24",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/qxlg8q/redline_stealer/"
+    },
+    "posts": {
+        "hldbu94": {
+            "comment": "[removed]",
+            "timeStamp": "2021/11/20-01:55:20",
+            "id": "hldbu94",
+            "is_submitter": false,
+            "link_id": "t3_qxlg8q",
+            "parent_id": "t3_qxlg8q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hlbcem3": {
+            "comment": "RedLine Stealer is a malware available on underground forums for sale apparently as standalone versions or also on a subscription basis. This malware harvests information from browsers such as saved credentials, autocomplete data, and credit card information. A system inventory is also taken when running on a target machine, to include details such as the username, location data, hardware configuration, and information regarding installed security software. More recent versions of RedLine added the ability to steal cryptocurrency. FTP and IM clients are also apparently targeted by this family, and this malware has the ability to upload and download files, execute commands, and periodically send back information about the infected computer.",
+            "timeStamp": "2021/11/19-14:33:46",
+            "id": "hlbcem3",
+            "is_submitter": false,
+            "link_id": "t3_qxlg8q",
+            "parent_id": "t3_qxlg8q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "unixquuw"
+        }
+    }
+}

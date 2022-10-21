@@ -1,0 +1,198 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hello,\nlike the title said, I want to study malware analysing but the problem is I can't find any roadmap about the topic in the internet. \nsecondary I need some ressource (free) for studying, and thanks!",
+        "title": "beginner Pentester want to become a malware analyst",
+        "score": 1,
+        "id": "v9g68k",
+        "commsNum": 0,
+        "timeStamp": "2022/06/10-12:59:45",
+        "author_name": "Leblancless",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/v9g68k/beginner_pentester_want_to_become_a_malware/"
+    },
+    "posts": {
+        "icsdzov": {
+            "comment": "[removed]",
+            "timeStamp": "2022/06/17-19:14:42",
+            "id": "icsdzov",
+            "is_submitter": false,
+            "link_id": "t3_v9g68k",
+            "parent_id": "t1_ibwduv5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "icsdx7q": {
+            "comment": "[removed]",
+            "timeStamp": "2022/06/17-19:14:03",
+            "id": "icsdx7q",
+            "is_submitter": false,
+            "link_id": "t3_v9g68k",
+            "parent_id": "t1_ibwcx3i",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "icsdioe": {
+            "comment": "[removed]",
+            "timeStamp": "2022/06/17-19:10:20",
+            "id": "icsdioe",
+            "is_submitter": false,
+            "link_id": "t3_v9g68k",
+            "parent_id": "t1_ibwcktk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ic2jd4w": {
+            "comment": "[removed]",
+            "timeStamp": "2022/06/12-02:21:49",
+            "id": "ic2jd4w",
+            "is_submitter": false,
+            "link_id": "t3_v9g68k",
+            "parent_id": "t3_v9g68k",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ibzifzi": {
+            "comment": "Set up some VMs and infect them with some different malware's, then train analyzing... Malware is free at least ;)\n\nNot free is the SANS course of course, but all the guys I know doing malware analysis professionally have that cert: https://www.sans.org/cyber-security-courses/reverse-engineering-malware-malware-analysis-tools-techniques/",
+            "timeStamp": "2022/06/11-09:02:49",
+            "id": "ibzifzi",
+            "is_submitter": false,
+            "link_id": "t3_v9g68k",
+            "parent_id": "t3_v9g68k",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Leif_Erickson23"
+        },
+        "ibxz4z6": {
+            "comment": "[removed]",
+            "timeStamp": "2022/06/10-22:11:00",
+            "id": "ibxz4z6",
+            "is_submitter": false,
+            "link_id": "t3_v9g68k",
+            "parent_id": "t1_ibxeylt",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ibxeylt": {
+            "comment": "https://malwareunicorn.org/workshops/re101.html",
+            "timeStamp": "2022/06/10-18:54:54",
+            "id": "ibxeylt",
+            "is_submitter": false,
+            "link_id": "t3_v9g68k",
+            "parent_id": "t3_v9g68k",
+            "score": 1,
+            "stickied": false,
+            "author_name": "xSwagaSaurusRex"
+        },
+        "ibws6od": {
+            "comment": "Here is a curriculum: https://class.malware.re/\n\nBut I STRONGLY RECOMMEND PMA over any other advice you\u2019ve got. No reason to become a pentester to learn MA either.",
+            "timeStamp": "2022/06/10-15:35:38",
+            "id": "ibws6od",
+            "is_submitter": false,
+            "link_id": "t3_v9g68k",
+            "parent_id": "t1_ibwe7rs",
+            "score": 1,
+            "stickied": false,
+            "author_name": "cryotic"
+        },
+        "ibwrhkr": {
+            "comment": "+1 for PMA. There's some slight bit rot when it comes to a few chapters (kernel debugging chapter was designed for Windows XP... Good luck lol)\n\nBut the techniques and approach are timeless. If you're pentesting for a company right now see if they will expense you an IDA license. IMO it's worth the couple hundred bucks to develop motivated talent such as yourself.",
+            "timeStamp": "2022/06/10-15:29:58",
+            "id": "ibwrhkr",
+            "is_submitter": false,
+            "link_id": "t3_v9g68k",
+            "parent_id": "t1_ibwf0fi",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Evening-Researcher"
+        },
+        "ibwn1wy": {
+            "comment": "I typically suggest starting with maldocs (not all pieces of malware are executables) they are generally easier to analyze. Great way to start is by finding security vendor blogs (talos, mandiant, mcafee, sentinel one etc) reversing specific samples, copy the hashes of the different stages and grab them off malware bazaar or interzer and just follow along. Goodluck and have fun!",
+            "timeStamp": "2022/06/10-14:54:12",
+            "id": "ibwn1wy",
+            "is_submitter": false,
+            "link_id": "t3_v9g68k",
+            "parent_id": "t3_v9g68k",
+            "score": 1,
+            "stickied": false,
+            "author_name": "concmap"
+        },
+        "ibwh652": {
+            "comment": "Lots of john hammond videos? Good luck!",
+            "timeStamp": "2022/06/10-14:07:46",
+            "id": "ibwh652",
+            "is_submitter": false,
+            "link_id": "t3_v9g68k",
+            "parent_id": "t3_v9g68k",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ThePorko"
+        },
+        "ibwf0fi": {
+            "comment": "The Practical Malware Analysis textbook is structured curriculum (if slightly dated) and I taught myself how to reverse engineer malware just by reading it and doing the labs.",
+            "timeStamp": "2022/06/10-13:51:08",
+            "id": "ibwf0fi",
+            "is_submitter": false,
+            "link_id": "t3_v9g68k",
+            "parent_id": "t1_ibwe7rs",
+            "score": 1,
+            "stickied": false,
+            "author_name": "PM_Me__Cats"
+        },
+        "ibwe7rs": {
+            "comment": "thanks, one final point is where I can find a structured curriculum for learning MA?",
+            "timeStamp": "2022/06/10-13:45:20",
+            "id": "ibwe7rs",
+            "is_submitter": true,
+            "link_id": "t3_v9g68k",
+            "parent_id": "t1_ibwduv5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Leblancless"
+        },
+        "ibwduv5": {
+            "comment": "I think practical malware analysis book and windows sysinternals book if you are interested in windows stuff is a good place to start. I would say like you mentioned c and assembly stuff is good to know, but you don\u2019t need to be expert in those.",
+            "timeStamp": "2022/06/10-13:42:36",
+            "id": "ibwduv5",
+            "is_submitter": false,
+            "link_id": "t3_v9g68k",
+            "parent_id": "t1_ibwcx3i",
+            "score": 1,
+            "stickied": false,
+            "author_name": "utmostbest"
+        },
+        "ibwcx3i": {
+            "comment": "what topics should I learn before getting into this (C, assembly...for example)",
+            "timeStamp": "2022/06/10-13:35:28",
+            "id": "ibwcx3i",
+            "is_submitter": true,
+            "link_id": "t3_v9g68k",
+            "parent_id": "t1_ibwcktk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Leblancless"
+        },
+        "ibwcktk": {
+            "comment": "Crackmes and other reversing challenges. Code your own malware like stuff and reverse it to see what to watch out for ect",
+            "timeStamp": "2022/06/10-13:32:54",
+            "id": "ibwcktk",
+            "is_submitter": false,
+            "link_id": "t3_v9g68k",
+            "parent_id": "t3_v9g68k",
+            "score": 1,
+            "stickied": false,
+            "author_name": "utmostbest"
+        }
+    }
+}

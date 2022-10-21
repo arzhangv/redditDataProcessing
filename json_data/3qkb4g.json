@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi all. I want to start doing some analysis on emails coming into a gmail account I have. My concern is any actions taken when opening the emails. I understand that gmail scans attachments and disables images, however I know that there are ways that marketers have to determine whether emails have been opened and I assume malware authors use the same techniques.\n\nAnd while it seems unlikely I am concerned about any possible way for the browser to automatically take an action when I open the email, or finally for the email account to be hijacked.\n\nCan anyone provide any advice on avoiding these traps or provide information on how you perform your email analysis on non-corporate emails?",
+        "title": "Email analysis question",
+        "score": 4,
+        "id": "3qkb4g",
+        "commsNum": 6,
+        "timeStamp": "2015/10/28-07:25:37",
+        "author_name": "BlastedInTheFace",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/3qkb4g/email_analysis_question/"
+    },
+    "posts": {}
+}

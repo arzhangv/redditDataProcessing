@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I am considering purchasing IDA pro with Hex-Rays decompiler, primarily for vulnerability research on Windows platform and maybe malware analysis. I am not that experienced yet, though I want to make a better choice (especially given the price of the product). Should I even consider x86 decompiler or just buy x64? \nAmong those who bought this software, what flavor you picked and for what tasks?",
+        "title": "Hex-Rays decompiler flavors",
+        "score": 6,
+        "id": "bjzfcj",
+        "commsNum": 3,
+        "timeStamp": "2019/05/02-13:03:49",
+        "author_name": "ntdkom",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/bjzfcj/hexrays_decompiler_flavors/"
+    },
+    "posts": {
+        "emhwj2s": {
+            "comment": "Really? That's dumb.",
+            "timeStamp": "2019/05/04-09:46:58",
+            "id": "emhwj2s",
+            "is_submitter": false,
+            "link_id": "t3_bjzfcj",
+            "parent_id": "t1_emcv9xd",
+            "score": 1,
+            "stickied": false,
+            "author_name": "SophieKala"
+        },
+        "emcv9xd": {
+            "comment": "Don't they sell it only to legal entities?\n\nI remember a story, some time ago a guy created a company consisting only of himself, and he purchased IDA. When they (Hex-Rays) found out about him, they revoked the license and did a refund.",
+            "timeStamp": "2019/05/02-15:15:42",
+            "id": "emcv9xd",
+            "is_submitter": false,
+            "link_id": "t3_bjzfcj",
+            "parent_id": "t3_bjzfcj",
+            "score": 2,
+            "stickied": false,
+            "author_name": "RIscRIpt"
+        },
+        "emcmv6k": {
+            "comment": "Have you looked at Ghidra, and if so, why doesn\u2019t that work for you?",
+            "timeStamp": "2019/05/02-13:53:51",
+            "id": "emcmv6k",
+            "is_submitter": false,
+            "link_id": "t3_bjzfcj",
+            "parent_id": "t3_bjzfcj",
+            "score": 10,
+            "stickied": false,
+            "author_name": "d1str0"
+        }
+    }
+}

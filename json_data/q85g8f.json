@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "It is important to know that how functions take parameters and use it. Check this gist \n\n[Function Calling Conventions](https://gist.github.com/sucremad/c3cf6ecde3f649e77b525c764e717f1e)",
+        "title": "A useful resource for beginner malware analyts",
+        "score": 1,
+        "id": "q85g8f",
+        "commsNum": 1,
+        "timeStamp": "2021/10/14-11:17:19",
+        "author_name": "sucremad",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/q85g8f/a_useful_resource_for_beginner_malware_analyts/"
+    },
+    "posts": {
+        "hgou0ss": {
+            "comment": "If any of you really wanna learn then check the documentation at msdn.\n[Here](https://docs.microsoft.com/en-us/cpp/cpp/argument-passing-and-naming-conventions?view=msvc-160)",
+            "timeStamp": "2021/10/14-19:18:47",
+            "id": "hgou0ss",
+            "is_submitter": false,
+            "link_id": "t3_q85g8f",
+            "parent_id": "t3_q85g8f",
+            "score": 3,
+            "stickied": false,
+            "author_name": "sl0w_photon"
+        }
+    }
+}

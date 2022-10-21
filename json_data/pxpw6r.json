@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I've been reading about Sysinternals Autoruns here -&gt; [https://www.varonis.com/blog/how-to-use-autoruns/](https://www.varonis.com/blog/how-to-use-autoruns/)\n\n&gt;**Image Hijacks** are quite sneaky in that the Windows registry has a key to launch a certain process but instead is redirected to launch a different malicious process.\n\nAnd wondering is there any good example for this?",
+        "title": "Sysinternals Autoruns Image Hijacks",
+        "score": 1,
+        "id": "pxpw6r",
+        "commsNum": 2,
+        "timeStamp": "2021/09/28-23:55:07",
+        "author_name": "w0lfcat",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/pxpw6r/sysinternals_autoruns_image_hijacks/"
+    },
+    "posts": {
+        "hepcnkj": {
+            "comment": "Do you mean something like [this](https://www.ired.team/offensive-security/privilege-escalation/t1183-image-file-execution-options-injection)?",
+            "timeStamp": "2021/09/29-02:42:42",
+            "id": "hepcnkj",
+            "is_submitter": false,
+            "link_id": "t3_pxpw6r",
+            "parent_id": "t3_pxpw6r",
+            "score": 3,
+            "stickied": false,
+            "author_name": "mrAnonymous7018"
+        },
+        "hep7jcs": {
+            "comment": "[removed]",
+            "timeStamp": "2021/09/29-01:22:53",
+            "id": "hep7jcs",
+            "is_submitter": false,
+            "link_id": "t3_pxpw6r",
+            "parent_id": "t3_pxpw6r",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

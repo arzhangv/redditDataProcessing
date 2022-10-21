@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I don't know if this fits exactly, obviously, but if anybody knows a better sub to post this please link it down below. I was trying to find where ShareX saves screenshots and stuff but that's besides the point.\n\nI went in my C: drive, Users folder then clicked on the folder with my Windows account name. There was a file, let's call it $name.scr (where $name was my windows account name). Nothing scary or something, the file was encrypted if I were to open it with notepad++ (it was like NUL NUL NUL NUL NUL etc), only thing I could manage to read was my password to my steam account and other accounts on different sites &amp; my dogs name. Again, nothing scary, probably the worst thing that this can be is a keylogger.\n\nAnybody knows more regarding this file?",
+        "title": "$name.scr file in Users folder",
+        "score": 1,
+        "id": "h9d9zr",
+        "commsNum": 0,
+        "timeStamp": "2020/06/15-02:59:43",
+        "author_name": "fQrestX",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/h9d9zr/namescr_file_in_users_folder/"
+    },
+    "posts": {}
+}

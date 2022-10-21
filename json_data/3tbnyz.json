@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Linux.Encoder.0 technical writeup: a story about light-weight cryptanalysis and blind reverse engineering",
+        "score": 1,
+        "id": "3tbnyz",
+        "commsNum": 0,
+        "timeStamp": "2015/11/18-10:19:31",
+        "author_name": "campuscodi",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://labs.bitdefender.com/wp-content/uploads/2015/11/1251711000741210279.pdf"
+    },
+    "posts": {}
+}

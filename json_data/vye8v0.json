@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hi all! I wrote an email in Gmail and when I was about to send I saw a badge in the bottom of my email from Avast saying \"No viruses\" (it was in russian) and their russian URL address. I have Avast app installed in my windows, but I don't understand how does it have access to my emails. I don't think cross app tracking is possible. And apparently there is no Avast extension for Chrome. I need a clarity in this situation, so any help is appreciated!",
+        "title": "Malware scanner in email drafts",
+        "score": 1,
+        "id": "vye8v0",
+        "commsNum": 0,
+        "timeStamp": "2022/07/13-14:20:42",
+        "author_name": "xmtk",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/vye8v0/malware_scanner_in_email_drafts/"
+    },
+    "posts": {
+        "igak3pz": {
+            "comment": "Thank you for explaining.",
+            "timeStamp": "2022/07/15-11:03:56",
+            "id": "igak3pz",
+            "is_submitter": true,
+            "link_id": "t3_vye8v0",
+            "parent_id": "t1_ig3ou3o",
+            "score": 1,
+            "stickied": false,
+            "author_name": "xmtk"
+        },
+        "ig7zsbo": {
+            "comment": "[removed]",
+            "timeStamp": "2022/07/14-20:58:20",
+            "id": "ig7zsbo",
+            "is_submitter": false,
+            "link_id": "t3_vye8v0",
+            "parent_id": "t1_ig1xrz5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ig3ou3o": {
+            "comment": "\"Cross-app tracking\" is *absolutely* possible, and implemented quite frequently. \n\nWith the levels of system privilege afforded to antivirus software such as Avast, the program could monotor your processes and their runtime arguments, inject parasitic DLLs into running applications, browse history and cache files, and far more. Avast is known for such behavior, and will occasionally remind Chrome users that \"incognito mode isn't private!\" when it is detected.",
+            "timeStamp": "2022/07/14-01:06:01",
+            "id": "ig3ou3o",
+            "is_submitter": false,
+            "link_id": "t3_vye8v0",
+            "parent_id": "t1_ig1xrz5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "_interoperability_"
+        },
+        "ig225tx": {
+            "comment": "[removed]",
+            "timeStamp": "2022/07/13-16:13:06",
+            "id": "ig225tx",
+            "is_submitter": false,
+            "link_id": "t3_vye8v0",
+            "parent_id": "t1_ig1xrz5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ig1xrz5": {
+            "comment": "I use Avast free. The guide to enabling says you need to write Gmail credentials in their app, but I never did. It for sure happened automatically, and I don't undrestand how is that possible. The Google account was created years after installing Avast, and I never wrote my credential anywhere except Google. Do you think they have access to all other data, including passwords, that I use in my browser?",
+            "timeStamp": "2022/07/13-15:41:37",
+            "id": "ig1xrz5",
+            "is_submitter": true,
+            "link_id": "t3_vye8v0",
+            "parent_id": "t1_ig1w0e0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "xmtk"
+        },
+        "ig1w0e0": {
+            "comment": "Are you using Avast One or Avast Premium Security? https://support.avast.com/en-us/article/Use-Antivirus-Email-Guardian#pc",
+            "timeStamp": "2022/07/13-15:29:08",
+            "id": "ig1w0e0",
+            "is_submitter": false,
+            "link_id": "t3_vye8v0",
+            "parent_id": "t3_vye8v0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "robahearts"
+        }
+    }
+}

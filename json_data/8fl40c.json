@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Not updating the database so... I cannot scan and protect...\nhhmmmmmmm",
+        "title": "spybot search &amp; destroy software",
+        "score": 0,
+        "id": "8fl40c",
+        "commsNum": 1,
+        "timeStamp": "2018/04/28-09:51:39",
+        "author_name": "smarch291",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8fl40c/spybot_search_destroy_software/"
+    },
+    "posts": {
+        "dyf2lhg": {
+            "comment": "A failure of the industry as a whole as some sort of metastasized forensics.",
+            "timeStamp": "2018/05/03-19:24:46",
+            "id": "dyf2lhg",
+            "is_submitter": false,
+            "link_id": "t3_8fl40c",
+            "parent_id": "t3_8fl40c",
+            "score": 1,
+            "stickied": false,
+            "author_name": "viinamari"
+        }
+    }
+}

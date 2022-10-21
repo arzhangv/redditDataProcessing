@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "So, I infected a virtual machine with one of the most nasty ransomwares imo, Krotten. I used the og variant. \n\nIt was a Windows XP machine. I tried all the fixes that I could find on YouTube, but after a while of running into the blocking payload, I got enough of it and tried looking for a solution myself. \n\nI found out a weakness of some Krotten variants. If you use the Windows Key + E to open explorer and get yourself to the desktop... Create a shortcut to the folders like the Windows folder, Documents and Settings and etc, you want to go... And it works just fine. \n\nThen I dug deeper and deeper. But on a certain moment, I got a breakthrough. I wondered how the malware was able to only run internet explorer. So, I tried renaming CMD to iexplore.exe... After a few seconds, the CMD window was open. \n\nI was unable to open regedit by this method sadly. \n\nSo, using this method, you might be able to install MBAM or any other good anti-malware program. But when you download programs using IE, it actually blocks the save function. So, \"run\" is your only option... Then you run into the blocking payload. \n\nSo, I got myself a USB and downloaded the firefox installer on my host. Then I actually renamed it to iexplore.exe (the setup) and it installed just fine. After that, renaming the executable of Firefox to iexplore.exe is easy. (Rightmouse click -&gt; Find Target -&gt; Rename)\n\nSo yeah, firefox doesn't have the issue that you can't save files. Hehehehe. ;3 Using Spyhunter 4, I was able to get some features back but not all. \n\nIn any case, I'm quite sure that using this method will allow you to install programs like Malwarebytes, HerdProtect or others that will kill the blocking payload. \n\nBut after seeing the mess it leaves behind it's better to actually reinstall Windows or go back to a back-up. Since it doesn't encrypt your files from what I have seen... It actually deletes a lot of features from Windows. \n\nI hope I explained it clearly enough. If I wasn't clear in any part of my findings here... Feel free to ask. It's the first real report as a malware researcher I have written ;) ",
+        "title": "Ransomware Krotten - My findings.",
+        "score": 11,
+        "id": "36qw81",
+        "commsNum": 1,
+        "timeStamp": "2015/05/21-05:15:44",
+        "author_name": "NekoJonez",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/36qw81/ransomware_krotten_my_findings/"
+    },
+    "posts": {
+        "hs8lf94": {
+            "comment": "Well, I havent anymore. If you find something interesting feel free to share. :)",
+            "timeStamp": "2022/01/11-10:21:52",
+            "id": "hs8lf94",
+            "is_submitter": true,
+            "link_id": "t3_36qw81",
+            "parent_id": "t1_hs8fyk5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "NekoJonez"
+        },
+        "hs8fyk5": {
+            "comment": "I've been researching Krotten as well. Get in contact with me on Discord at Hyperfire#0298 if you'd like to discuss something pretty cool about it.",
+            "timeStamp": "2022/01/11-09:48:43",
+            "id": "hs8fyk5",
+            "is_submitter": false,
+            "link_id": "t3_36qw81",
+            "parent_id": "t3_36qw81",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sunixtc"
+        }
+    }
+}

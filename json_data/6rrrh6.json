@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi everyone\n\nI have a sample of the TrickBot banking trojan, but it's from January. Unfortunately, TrickBot's MITB is mainly serverside so I can't properly study it without a recent sample. I was wondering if anybody had a recent/active sample of trickbot with the MITB intact that they could share with me.\n\nAny help is greatly appreciated.\n\nThank you",
+        "title": "Looking for a recent trickbot sample",
+        "score": 7,
+        "id": "6rrrh6",
+        "commsNum": 2,
+        "timeStamp": "2017/08/05-06:32:10",
+        "author_name": "Yapoz",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6rrrh6/looking_for_a_recent_trickbot_sample/"
+    },
+    "posts": {
+        "dl8e4xd": {
+            "comment": "Thank you.",
+            "timeStamp": "2017/08/06-00:25:46",
+            "id": "dl8e4xd",
+            "is_submitter": true,
+            "link_id": "t3_6rrrh6",
+            "parent_id": "t1_dl7zwlv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Yapoz"
+        },
+        "dl7zwlv": {
+            "comment": "https://virustotal.com/en/file/1401aed41f637e19041da55efa1db71c86fa8bf0a4fdfba057be78eea83c10e6/analysis/",
+            "timeStamp": "2017/08/05-17:27:03",
+            "id": "dl7zwlv",
+            "is_submitter": false,
+            "link_id": "t3_6rrrh6",
+            "parent_id": "t3_6rrrh6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "brokercx"
+        }
+    }
+}

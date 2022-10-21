@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "could you compile https://github.com/hfiref0x/UACME/blob/master/Source/Akagi/methods/fwcpllua.h\nbecome standalone from the main prog?\nso i can use it on my main entry prog like\nint main(){}",
+        "title": "Can someone help me?",
+        "score": 0,
+        "id": "80xbiu",
+        "commsNum": 5,
+        "timeStamp": "2018/02/28-08:30:04",
+        "author_name": "bobsadino",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/80xbiu/can_someone_help_me/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "There was a post on facebook that claimed to be able to retrieve password for other people's accounts. It linked to a pastebin clip of javascript code, instructed you to navigate to a friend's page, open up the dev tools and paste the code in, then hit enter.\n\nMy wife did this. The most obvious consequence was that it posted comments to the original post that tagged every single one of your friends. I looked at the code and noticed that it appeared to also like and follow and few people, and we found that that was true on my wife's account. I am not a web developer and have little experience with javascript, but I did not believe this was anything more than using facebook API to do some annoying shit.\n\nUnfortunately, this evening I also received a spam email from my wife's very old aol email account, and so did everyone else in her address book. I know that originating email addresses can be spoofed, but that would not explain how they got access to the address book. So she changed her password, but now seems to have lost access to the aol account entirely.\n\n\nI am trying to de-obfuscate a portion of the javascript to discover if and how they got access to the non-facebook account, but as I said I am not a web developer, and I have little javascript experience. So if anyone else wants to give it a look to see if they can tell what's being exploited here, I'd appreciate it.\n\nhttp://pastebin.com/DNEn2rnC",
+        "title": "Facebook + Javascript",
+        "score": 9,
+        "id": "23hqv8",
+        "commsNum": 7,
+        "timeStamp": "2014/04/19-22:27:37",
+        "author_name": "[deleted]",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/23hqv8/facebook_javascript/"
+    },
+    "posts": {}
+}

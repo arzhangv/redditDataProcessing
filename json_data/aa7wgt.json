@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[removed]",
+        "title": "MBR Overwrite in python?",
+        "score": 1,
+        "id": "aa7wgt",
+        "commsNum": 3,
+        "timeStamp": "2018/12/27-22:45:21",
+        "author_name": "_programmeKid",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/aa7wgt/mbr_overwrite_in_python/"
+    },
+    "posts": {
+        "ecru8vr": {
+            "comment": "aww ;-;",
+            "timeStamp": "2018/12/28-17:32:55",
+            "id": "ecru8vr",
+            "is_submitter": true,
+            "link_id": "t3_aa7wgt",
+            "parent_id": "t1_ecqfv4q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "_programmeKid"
+        },
+        "ecqfv4q": {
+            "comment": "This is not a learn programming subreddit.",
+            "timeStamp": "2018/12/28-07:26:52",
+            "id": "ecqfv4q",
+            "is_submitter": false,
+            "link_id": "t3_aa7wgt",
+            "parent_id": "t3_aa7wgt",
+            "score": 1,
+            "stickied": true,
+            "author_name": "edward_snowedin"
+        },
+        "ecppiwy": {
+            "comment": "[removed]",
+            "timeStamp": "2018/12/27-22:45:22",
+            "id": "ecppiwy",
+            "is_submitter": false,
+            "link_id": "t3_aa7wgt",
+            "parent_id": "t3_aa7wgt",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

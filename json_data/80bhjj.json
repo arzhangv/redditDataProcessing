@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Data Keeper Ransomware \u2013 An unusual and complex Ransom-as-a-Service platform",
+        "score": 1,
+        "id": "80bhjj",
+        "commsNum": 0,
+        "timeStamp": "2018/02/26-00:16:11",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/69553/malware/data-keeper-ransomware.html"
+    },
+    "posts": {}
+}

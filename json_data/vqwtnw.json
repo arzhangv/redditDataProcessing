@@ -1,0 +1,121 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "HELP!\n\nI've been dealing with this issue for the past few weeks now and it's driving me up the wall! I somehow managed to install some Malware on my PC and it has overtime become a pain in the ass. I have managed to fortunately remove most of the Malware thanks to a combination of MalwareBytes, Adware, SpyHunter5, C Cleaner &amp; a lot of Forums.\n\nThe virus started off as a Chrome Extension known as Configure 6.2 which would prevent me from opening my Extensions page, disable certain extensions like AD Blocker and force me to use the Bing search engine (Was the worst one by far). When I removed the Extension, the program would close Google after a few minutes and re-open with the Extension re-installed.\n\nI discovered that the Malware on my PC went by the name of Energy.exe and that was the cause of the extension being installed and I therefore went to the effort to remove it and I was partially successful. The Configure Extension no longer loads back on and I don't have any Energy program running in the background no longer.\n\nHOWEVER, Chrome continues to open and close and now that  the Extension doesn't install, it is constant and cannot be stopped. Even if I close the program by closing all tabs, Chrome will open up once again in a few minutes and close down once more. The only way to stop it from re-opening is by using the Exit option via the 3 dots on the chrome menu to COMPLETELY close Chrome and this stops it from opening for good.\n\nIt also takes around 10 mins to start closing and opening after first switching on my PC. I also tend to see a Command Menu open for half a second before Chrome begins to close which shows me that there is still SOMETHING left on my PC after clearing everything else out according to the problems mentioned above. Each time I scan, nothing is found. \n\nThe furthest I have managed get to is deleting files within my Registry. Within this file path \"Computer\\\\HKEY\\_CURRENT\\_USER\\\\SOFTWARE\\\\Google\\\\Chrome\\\\PreferenceMACs\\\\Default\\\\extensions.settings\", there are a collection of files that keep being installed here. They are named via a random collection of letters with one of them being named \"ahfgeienlihckogmohjhadlkjgocpleb\".\n\nI can delete these files from the registry but Chrome still closes and re-opens and when it does so, the files are re-installed and need to be deleted again. I have been unable to find the file which keeps reinstalling these however and I imagine that this is also the file that keeps forcibly closing and re-opening Chrome.\n\nI have attempted to Re-install Chrome a few times and even swap accounts (Which doesn't work as the files are simply installed to the guest account registry instead). Every forum of similar issues hasn't helped so far as I have been unable to find the file that I needed.\n\nIf anyone has ANY ideas on where the file could be or how I could remove it, that would be appreciated. I'd like to save backing up my PC and resetting to Factory settings for a last resort but if necessary, I will",
+        "title": "Malware keeps opening and closing Google Chrome",
+        "score": 1,
+        "id": "vqwtnw",
+        "commsNum": 0,
+        "timeStamp": "2022/07/03-19:12:47",
+        "author_name": "JBspherefreak",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/vqwtnw/malware_keeps_opening_and_closing_google_chrome/"
+    },
+    "posts": {
+        "iet07qs": {
+            "comment": "[removed]",
+            "timeStamp": "2022/07/04-04:09:34",
+            "id": "iet07qs",
+            "is_submitter": false,
+            "link_id": "t3_vqwtnw",
+            "parent_id": "t3_vqwtnw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "iesjzal": {
+            "comment": "Malware removal is easy. And it\u2019s also easy to tell a non IT person to wipe and reinstall when they have no technical know how, the patients, or ability to let go of that word when you become attached to something. It\u2019s like FOMO in trading.",
+            "timeStamp": "2022/07/04-00:24:14",
+            "id": "iesjzal",
+            "is_submitter": false,
+            "link_id": "t3_vqwtnw",
+            "parent_id": "t1_ies751d",
+            "score": 1,
+            "stickied": false,
+            "author_name": "WinnerzCircle"
+        },
+        "iesjkfr": {
+            "comment": "[easysolvemalware.com](https://easysolvemalware.com/how-to-remove-configure-extension-configure-6-2-adware/)",
+            "timeStamp": "2022/07/04-00:18:40",
+            "id": "iesjkfr",
+            "is_submitter": false,
+            "link_id": "t3_vqwtnw",
+            "parent_id": "t3_vqwtnw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "WinnerzCircle"
+        },
+        "iesip0d": {
+            "comment": "You could try a recovery disc",
+            "timeStamp": "2022/07/04-00:06:56",
+            "id": "iesip0d",
+            "is_submitter": false,
+            "link_id": "t3_vqwtnw",
+            "parent_id": "t3_vqwtnw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Lalala203"
+        },
+        "iesf2pz": {
+            "comment": "Agreed. Just do a clean install. You never know if everythong is fully removed and the time it takes to try to get to that point is a waste of time",
+            "timeStamp": "2022/07/03-23:20:30",
+            "id": "iesf2pz",
+            "is_submitter": false,
+            "link_id": "t3_vqwtnw",
+            "parent_id": "t1_ies751d",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Aadsterken"
+        },
+        "ies89w9": {
+            "comment": "As others have said, you're going about this all wrong. You should reinstall windows from restore media. Non-destructive will leave all your files, but you will need to install your software. Anything less is a complete waste of your time in the best case scenario. You don't need to back up, you just need to reinstall Windows. It's stupid easy, and it's not a last resort when it comes to malware, it is a first resort. I say that as a desktop technician for years and as someone who deals with malware as a profession.  \n\n\nAlso, check the rules. This subreddit is not for asking for help with malware. For that, you want /r/TechSupport.  \n\n\nGood luck.  \n\n\n[https://support.microsoft.com/en-us/windows/how-to-refresh-reset-or-restore-your-pc-51391d9a-eb0a-84a7-69e4-c2c1fbceb8dd](https://support.microsoft.com/en-us/windows/how-to-refresh-reset-or-restore-your-pc-51391d9a-eb0a-84a7-69e4-c2c1fbceb8dd)\n\n&amp;#x200B;\n\nhttps://www.youtube.com/watch?v=OtHZueEZe9s",
+            "timeStamp": "2022/07/03-22:01:20",
+            "id": "ies89w9",
+            "is_submitter": false,
+            "link_id": "t3_vqwtnw",
+            "parent_id": "t3_vqwtnw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "LemmePeeInThatBooty"
+        },
+        "ies751d": {
+            "comment": "I am so confused, why do people not wipe and reinstall from known clean?  What is the point of doing battle with malware over an endpoint in this day and age?  If you don't know where you got it from what makes you think you can clean it?  NP against OP.",
+            "timeStamp": "2022/07/03-21:48:57",
+            "id": "ies751d",
+            "is_submitter": false,
+            "link_id": "t3_vqwtnw",
+            "parent_id": "t3_vqwtnw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "totallynewme"
+        },
+        "ies493f": {
+            "comment": "[removed]",
+            "timeStamp": "2022/07/03-21:17:55",
+            "id": "ies493f",
+            "is_submitter": false,
+            "link_id": "t3_vqwtnw",
+            "parent_id": "t3_vqwtnw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "iertt6o": {
+            "comment": "To be honest there's a lot of things you can do to fix this, but explaining it over the internet is not really ideal. You'd need somebody to remote into your PC and have a look and fix everything for you. Also have you tried a normal system restore? That won't delete your stuff.",
+            "timeStamp": "2022/07/03-19:35:07",
+            "id": "iertt6o",
+            "is_submitter": false,
+            "link_id": "t3_vqwtnw",
+            "parent_id": "t3_vqwtnw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Za_Inat"
+        }
+    }
+}

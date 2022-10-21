@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Internal modem can be exploited by malware to gain persistence",
+        "score": 1,
+        "id": "3gkbkg",
+        "commsNum": 0,
+        "timeStamp": "2015/08/10-23:45:29",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/39252/hacking/internal-modem-hacking.html"
+    },
+    "posts": {}
+}

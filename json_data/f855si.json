@@ -1,0 +1,110 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "So I was trying to find background images for my computer and I got one and this happened:\n\n&amp;#x200B;\n\n[What should I do its all from the same website. I'm not clicking on anything but what should I do?](https://preview.redd.it/oei021pazli41.png?width=818&amp;format=png&amp;auto=webp&amp;s=f701e08a70c8af09b25b248e9f981fcbd3ba1264)",
+        "title": "Guys I think I have virus what should I do I'm really scared",
+        "score": 1,
+        "id": "f855si",
+        "commsNum": 8,
+        "timeStamp": "2020/02/22-21:23:41",
+        "author_name": "Tree-123",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 8,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/f855si/guys_i_think_i_have_virus_what_should_i_do_im/"
+    },
+    "posts": {
+        "fik1foq": {
+            "comment": "Thanks guys I realized this isn\u2019t the place to post about malware so I will be deleting this post",
+            "timeStamp": "2020/02/23-07:06:41",
+            "id": "fik1foq",
+            "is_submitter": true,
+            "link_id": "t3_f855si",
+            "parent_id": "t3_f855si",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Tree-123"
+        },
+        "fijlb63": {
+            "comment": "[removed]",
+            "timeStamp": "2020/02/23-02:22:47",
+            "id": "fijlb63",
+            "is_submitter": false,
+            "link_id": "t3_f855si",
+            "parent_id": "t3_f855si",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fijfv7m": {
+            "comment": "Just look at that link at the bottom `t******.pro` that definitely doesn't not look like a scammy link. Calm down",
+            "timeStamp": "2020/02/23-00:20:58",
+            "id": "fijfv7m",
+            "is_submitter": false,
+            "link_id": "t3_f855si",
+            "parent_id": "t3_f855si",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Schnitzel725"
+        },
+        "fijekvo": {
+            "comment": "Ahah do not worry it just looks like scam notifications from a website in Google Chrome. Viruses and malware usually don't flash big red lights to warn you they got into your computer.\n\nJust close all chrome tabs and you should be fine\n\nThat being said, this is indeed not a subreddit about malware removal",
+            "timeStamp": "2020/02/22-23:54:46",
+            "id": "fijekvo",
+            "is_submitter": false,
+            "link_id": "t3_f855si",
+            "parent_id": "t3_f855si",
+            "score": 1,
+            "stickied": false,
+            "author_name": "BananaKing_Charlie"
+        },
+        "fijdoag": {
+            "comment": "https://github.com/bmrf/tron/blob/master/README.md\n\nhttps://www.reddit.com/r/TronScript/\n\nVideo guide - https://www.youtube.com/watch?v=CHtZ9-9ch2w",
+            "timeStamp": "2020/02/22-23:36:41",
+            "id": "fijdoag",
+            "is_submitter": false,
+            "link_id": "t3_f855si",
+            "parent_id": "t3_f855si",
+            "score": 1,
+            "stickied": false,
+            "author_name": "lordofbud"
+        },
+        "fijd8li": {
+            "comment": "A place for malware reports and information. This is NOT a place for help with malware removal or various other end-user questions.\n\nPlease redirect questions related to malware removal to /r/antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware\n\nContent rules:\n\nThis is a subreddit for readers to discuss malware internals and infection techniques. Posts requesting technical support will be removed and bans will be handed out liberally.",
+            "timeStamp": "2020/02/22-23:28:05",
+            "id": "fijd8li",
+            "is_submitter": false,
+            "link_id": "t3_f855si",
+            "parent_id": "t3_f855si",
+            "score": 2,
+            "stickied": false,
+            "author_name": "punkonjunk"
+        },
+        "fijcqeo": {
+            "comment": "[removed]",
+            "timeStamp": "2020/02/22-23:18:19",
+            "id": "fijcqeo",
+            "is_submitter": false,
+            "link_id": "t3_f855si",
+            "parent_id": "t3_f855si",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fijbv48": {
+            "comment": "[removed]",
+            "timeStamp": "2020/02/22-23:01:23",
+            "id": "fijbv48",
+            "is_submitter": false,
+            "link_id": "t3_f855si",
+            "parent_id": "t3_f855si",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

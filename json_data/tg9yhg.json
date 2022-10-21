@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Unsecured Microsoft SQL, MySQL servers hit by Gh0stCringe malware",
+        "score": 1,
+        "id": "tg9yhg",
+        "commsNum": 0,
+        "timeStamp": "2022/03/17-06:13:37",
+        "author_name": "robahearts",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.bleepingcomputer.com/news/security/unsecured-microsoft-sql-mysql-servers-hit-by-gh0stcringe-malware/"
+    },
+    "posts": {}
+}

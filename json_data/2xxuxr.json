@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I'm doing a timeline on mobile malware (2000-2015) for a project I'm working on. I am identifying and explaining the functions of different malware on mobile devices, what made them important/outstanding, and why did they fall out of use.\n\nI have been looking at reports by AV companies and following \"Mobile Malware Attacks and Defense\" by Ken Dunham et al. This book is a great resource but ends at 2008. It also mainly focuses on SymbianOS, and I would like to focus the remainder of my project on iOS and Android devices.\n\nIf anyone has any recommendations on Mobile Malware resources (Books,  Reports, Whitepapers, etc) from 2007-2014 that would be helpful. \n\nThanks!",
+        "title": "Mobile Malware Reading Recommendations: 2007-2014",
+        "score": 8,
+        "id": "2xxuxr",
+        "commsNum": 1,
+        "timeStamp": "2015/03/04-11:46:04",
+        "author_name": "MobileMalwareRECOMND",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2xxuxr/mobile_malware_reading_recommendations_20072014/"
+    },
+    "posts": {}
+}

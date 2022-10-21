@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Anyone know where I can find a metamorphic engine I can play around with? I want to train a Siamese Neural Network to measure functional similarity between samples and the engine would really help me build my dataset",
+        "title": "Metamorphic engine",
+        "score": 7,
+        "id": "88jki3",
+        "commsNum": 6,
+        "timeStamp": "2018/03/31-09:00:38",
+        "author_name": "iamaforinvg",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/88jki3/metamorphic_engine/"
+    },
+    "posts": {
+        "dx9l3pq": {
+            "comment": "The original is [ZMist](http://z0mbie.daemonlab.org) might be under Mistfall.",
+            "timeStamp": "2018/04/12-14:34:50",
+            "id": "dx9l3pq",
+            "is_submitter": false,
+            "link_id": "t3_88jki3",
+            "parent_id": "t1_dwlk51g",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sideofszechuan"
+        },
+        "dwo4vfs": {
+            "comment": "Thanks!",
+            "timeStamp": "2018/04/02-05:09:14",
+            "id": "dwo4vfs",
+            "is_submitter": true,
+            "link_id": "t3_88jki3",
+            "parent_id": "t1_dwmk64o",
+            "score": 1,
+            "stickied": false,
+            "author_name": "iamaforinvg"
+        },
+        "dwmk64o": {
+            "comment": "Maybe Shellter can do it.",
+            "timeStamp": "2018/04/01-06:45:30",
+            "id": "dwmk64o",
+            "is_submitter": false,
+            "link_id": "t3_88jki3",
+            "parent_id": "t3_88jki3",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Kommodor"
+        }
+    }
+}

@@ -1,0 +1,143 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "So I am stupid right and I scanned my pc for malware with malwarebytes what does this stuff even mean and should i be concerned? Malwarebytes\n\n[www.malwarebytes.com](https://www.malwarebytes.com)\n\n&amp;#x200B;\n\n\\-Log Details-\n\nScan Date: 4/19/22\n\nScan Time: 10:06 AM\n\nLog File: 1ee7edc8-c003-11ec-b5f5-b8ca3ab58cf2.json\n\n&amp;#x200B;\n\n\\-Software Information-\n\nVersion: [4.5.7.186](https://4.5.7.186)\n\nComponents Version: 1.0.1645\n\nUpdate Package Version: 1.0.53879\n\nLicense: Premium\n\n&amp;#x200B;\n\n\\-System Information-\n\nOS: Windows 11 (Build 22000.556)\n\nCPU: x64\n\nFile System: NTFS\n\nUser: System\n\n&amp;#x200B;\n\n\\-Scan Summary-\n\nScan Type: Threat Scan\n\nScan Initiated By: Scheduler\n\nResult: Completed\n\nObjects Scanned: 281073\n\nThreats Detected: 25\n\nThreats Quarantined: 0\n\nTime Elapsed: 4 min, 38 sec\n\n&amp;#x200B;\n\n\\-Scan Options-\n\nMemory: Enabled\n\nStartup: Enabled\n\nFilesystem: Enabled\n\nArchives: Enabled\n\nRootkits: Disabled\n\nHeuristics: Enabled\n\nPUP: Detect\n\nPUM: Detect\n\n&amp;#x200B;\n\n\\-Scan Details-\n\nProcess: 0\n\n(No malicious items detected)\n\n&amp;#x200B;\n\nModule: 0\n\n(No malicious items detected)\n\n&amp;#x200B;\n\nRegistry Key: 0\n\n(No malicious items detected)\n\n&amp;#x200B;\n\nRegistry Value: 2\n\nPUM.Optional.DisableMRT, HKLM\\\\SOFTWARE\\\\POLICIES\\\\MICROSOFT\\\\MRT|DONTOFFERTHROUGHWUAU, No Action By User, 6613, 676880, 1.0.53879, , ame, , , \n\nPUM.Optional.DisableMRT, HKLM\\\\SOFTWARE\\\\WOW6432NODE\\\\POLICIES\\\\MICROSOFT\\\\MRT|DONTOFFERTHROUGHWUAU, No Action By User, 6613, 676880, 1.0.53879, , ame, , , \n\n&amp;#x200B;\n\nRegistry Data: 0\n\n(No malicious items detected)\n\n&amp;#x200B;\n\nData Stream: 0\n\n(No malicious items detected)\n\n&amp;#x200B;\n\nFolder: 0\n\n(No malicious items detected)\n\n&amp;#x200B;\n\nFile: 23\n\nPUP.Optional.BundleInstaller, C:\\\\USERS\\\\ADMINISTRATOR\\\\APPDATA\\\\LOCAL\\\\SETUP60174.EXE, No Action By User, 506, 947187, 1.0.53879, D7422CCBC894151FFEC83AEF, dds, 01733944, 1F7F115A196322FDF13A4DEB7E0BA2DC, F0EF4563E681911305B056499CA9A90220A646795E6F4048688B8A0E8006ACBD\n\nPUP.Optional.BundleInstaller, C:\\\\USERS\\\\ADMINISTRATOR\\\\APPDATA\\\\LOCAL\\\\SETUP61324.EXE, No Action By User, 506, 947187, 1.0.53879, D7422CCBC894151FFEC83AEF, dds, 01733944, 1F7F115A196322FDF13A4DEB7E0BA2DC, F0EF4563E681911305B056499CA9A90220A646795E6F4048688B8A0E8006ACBD\n\nPUP.Optional.BundleInstaller, C:\\\\USERS\\\\ADMINISTRATOR\\\\APPDATA\\\\LOCAL\\\\TEMP\\\\7ZS0B5F4795\\\\ES\\\\GENERICSETUP.RESOURCES.DLL, No Action By User, 506, 947187, 1.0.53879, , ame, , E03BC5086B237DC4499C60C9EAA5F433, 1B875B065F878D99FB3A12D6F8F88D61D51C6D16EF8469F8DF1B7BD17686D926\n\nPUP.Optional.BundleInstaller, C:\\\\USERS\\\\ADMINISTRATOR\\\\APPDATA\\\\LOCAL\\\\TEMP\\\\7ZS0B5F4795\\\\FR\\\\GENERICSETUP.RESOURCES.DLL, No Action By User, 506, 947187, 1.0.53879, , ame, , ABD8E8FD98850ADA5CEE1BE884409889, E52D68B6EADB88359C779DEA30622763A680B08A9734129CDDA1B01B98586EC8\n\nPUP.Optional.BundleInstaller, C:\\\\USERS\\\\ADMINISTRATOR\\\\APPDATA\\\\LOCAL\\\\TEMP\\\\7ZS0B5F4795\\\\IT\\\\GENERICSETUP.RESOURCES.DLL, No Action By User, 506, 947187, 1.0.53879, , ame, , 7D2F424F0B714106114EC1D3441A718D, 07BB638965F0FA36A9803AC8FD3DF8B2D96A7C7613FC70DF404C195F26888754\n\nPUP.Optional.BundleInstaller, C:\\\\USERS\\\\ADMINISTRATOR\\\\APPDATA\\\\LOCAL\\\\TEMP\\\\7ZS0B5F4795\\\\PT\\\\GENERICSETUP.RESOURCES.DLL, No Action By User, 506, 947187, 1.0.53879, , ame, , A25966FA2CC3117F2D8EA39FE4D10C38, 61B38147317607877D7BE80EB0697D49CFC035C1A23A09302A616980726D0A1A\n\nPUP.Optional.BundleInstaller, C:\\\\USERS\\\\ADMINISTRATOR\\\\APPDATA\\\\LOCAL\\\\TEMP\\\\7ZS0B5F4795\\\\RU\\\\GENERICSETUP.RESOURCES.DLL, No Action By User, 506, 947187, 1.0.53879, , ame, , 8C304F25BA6AA4298690BDBCD464DE79, 4456311A30BCC5E5238683E146A3BCBC09107419E7EE5CDCAC142FA55E50FD9B\n\nPUP.Optional.BundleInstaller, C:\\\\USERS\\\\ADMINISTRATOR\\\\APPDATA\\\\LOCAL\\\\TEMP\\\\7ZS0B5F4795\\\\DYNACTSBLL.DLL, No Action By User, 506, 947187, 1.0.53879, , ame, , 09DB36D4207053F9B3735E03EDC29A30, 1797907237D1573717DAFFDDCC340A6BFCEFF0A15D6FD53C17EFC2C149F52747\n\nPUP.Optional.BundleInstaller, C:\\\\USERS\\\\ADMINISTRATOR\\\\APPDATA\\\\LOCAL\\\\TEMP\\\\7ZS0B5F4795\\\\GENERICSETUP.EXE, No Action By User, 506, 947187, 1.0.53879, , ame, , 583E80CC3F496A09FA5DF1B7A2FA57AB, 62592849C8BB7498C0F1E1BE68AED624D567B47A1F7CE7539E1C524F1A92066F\n\nPUP.Optional.BundleInstaller, C:\\\\USERS\\\\ADMINISTRATOR\\\\APPDATA\\\\LOCAL\\\\TEMP\\\\7ZS0B5F4795\\\\GENERICSETUP.LASTSCREEN.DLL, No Action By User, 506, 947187, 1.0.53879, , ame, , B1B8AEA7DD70EB15C243426C9EB93108, 1B8DE8E4BF232CB214CAECB2A8967A78BE6EBC104CD75780A38B4370DAF95935\n\nPUP.Optional.BundleInstaller, C:\\\\USERS\\\\ADMINISTRATOR\\\\APPDATA\\\\LOCAL\\\\TEMP\\\\7ZS0B5F4795\\\\OFFERINSTALLER.EXE, No Action By User, 506, 947187, 1.0.53879, , ame, , 214623A37257753331C12798F1947D96, BA81110C3D75F5DAF092C0F6DC37A19E945278443D7CC7375291EE28885921E2\n\nPUP.Optional.BundleInstaller, C:\\\\USERS\\\\ADMINISTRATOR\\\\APPDATA\\\\LOCAL\\\\TEMP\\\\7ZS81C5BA7D\\\\ES\\\\GENERICSETUP.RESOURCES.DLL, No Action By User, 506, 947187, 1.0.53879, , ame, , E03BC5086B237DC4499C60C9EAA5F433, 1B875B065F878D99FB3A12D6F8F88D61D51C6D16EF8469F8DF1B7BD17686D926\n\nPUP.Optional.BundleInstaller, C:\\\\USERS\\\\ADMINISTRATOR\\\\APPDATA\\\\LOCAL\\\\TEMP\\\\7ZS81C5BA7D\\\\FR\\\\GENERICSETUP.RESOURCES.DLL, No Action By User, 506, 947187, 1.0.53879, , ame, , ABD8E8FD98850ADA5CEE1BE884409889, E52D68B6EADB88359C779DEA30622763A680B08A9734129CDDA1B01B98586EC8\n\nPUP.Optional.BundleInstaller, C:\\\\USERS\\\\ADMINISTRATOR\\\\APPDATA\\\\LOCAL\\\\TEMP\\\\7ZS81C5BA7D\\\\IT\\\\GENERICSETUP.RESOURCES.DLL, No Action By User, 506, 947187, 1.0.53879, , ame, , 7D2F424F0B714106114EC1D3441A718D, 07BB638965F0FA36A9803AC8FD3DF8B2D96A7C7613FC70DF404C195F26888754\n\nPUP.Optional.BundleInstaller, C:\\\\USERS\\\\ADMINISTRATOR\\\\APPDATA\\\\LOCAL\\\\TEMP\\\\7ZS81C5BA7D\\\\PT\\\\GENERICSETUP.RESOURCES.DLL, No Action By User, 506, 947187, 1.0.53879, , ame, , A25966FA2CC3117F2D8EA39FE4D10C38, 61B38147317607877D7BE80EB0697D49CFC035C1A23A09302A616980726D0A1A\n\nPUP.Optional.BundleInstaller, C:\\\\USERS\\\\ADMINISTRATOR\\\\APPDATA\\\\LOCAL\\\\TEMP\\\\7ZS81C5BA7D\\\\RU\\\\GENERICSETUP.RESOURCES.DLL, No Action By User, 506, 947187, 1.0.53879, , ame, , 8C304F25BA6AA4298690BDBCD464DE79, 4456311A30BCC5E5238683E146A3BCBC09107419E7EE5CDCAC142FA55E50FD9B\n\nPUP.Optional.BundleInstaller, C:\\\\USERS\\\\ADMINISTRATOR\\\\APPDATA\\\\LOCAL\\\\TEMP\\\\7ZS81C5BA7D\\\\DYNACTSBLL.DLL, No Action By User, 506, 947187, 1.0.53879, , ame, , 09DB36D4207053F9B3735E03EDC29A30, 1797907237D1573717DAFFDDCC340A6BFCEFF0A15D6FD53C17EFC2C149F52747\n\nPUP.Optional.BundleInstaller, C:\\\\USERS\\\\ADMINISTRATOR\\\\APPDATA\\\\LOCAL\\\\TEMP\\\\7ZS81C5BA7D\\\\GENERICSETUP.EXE, No Action By User, 506, 947187, 1.0.53879, , ame, , 583E80CC3F496A09FA5DF1B7A2FA57AB, 62592849C8BB7498C0F1E1BE68AED624D567B47A1F7CE7539E1C524F1A92066F\n\nPUP.Optional.BundleInstaller, C:\\\\USERS\\\\ADMINISTRATOR\\\\APPDATA\\\\LOCAL\\\\TEMP\\\\7ZS81C5BA7D\\\\GENERICSETUP.LASTSCREEN.DLL, No Action By User, 506, 947187, 1.0.53879, , ame, , B1B8AEA7DD70EB15C243426C9EB93108, 1B8DE8E4BF232CB214CAECB2A8967A78BE6EBC104CD75780A38B4370DAF95935\n\nPUP.Optional.BundleInstaller, C:\\\\USERS\\\\ADMINISTRATOR\\\\APPDATA\\\\LOCAL\\\\TEMP\\\\7ZS81C5BA7D\\\\OFFERINSTALLER.EXE, No Action By User, 506, 947187, 1.0.53879, , ame, , 214623A37257753331C12798F1947D96, BA81110C3D75F5DAF092C0F6DC37A19E945278443D7CC7375291EE28885921E2\n\nAdware.Agent, C:\\\\USERS\\\\ADMINISTRATOR\\\\DOWNLOADS\\\\DOWNLOAD OMEGAX EXECUTOR FROM ROBLOXHACK\\_61324.EXE, No Action By User, 80, 1036085, 1.0.53879, D7422CCBC894151FFEC83AEF, dds, 01733944, DCD38EFF584C3B4F79BA9658A66F616F, 14207C8A7B2A41E08A3C3DB6AADCCF4F40F14870306C49ADFD22FBA006BEA070\n\nAdware.Agent, C:\\\\USERS\\\\ADMINISTRATOR\\\\DOWNLOADS\\\\EVON EXPLOIT V3\\_60174.EXE, No Action By User, 80, 1036085, 1.0.53879, D7422CCBC894151FFEC83AEF, dds, 01733944, DCD38EFF584C3B4F79BA9658A66F616F, 14207C8A7B2A41E08A3C3DB6AADCCF4F40F14870306C49ADFD22FBA006BEA070\n\nRiskWare.DllInjector, C:\\\\USERS\\\\ADMINISTRATOR\\\\DOWNLOADS\\\\KRNL\\\\KRNLSS.EXE, No Action By User, 6966, 923896, 1.0.53879, , ame, , B1BBC709A59AF5442CE41DF6C898D4CC, 088F351A85A64B88FAF31298557B9C74BCF9E9A386BF4AF67EEB2B123CEE2CE8\n\n&amp;#x200B;\n\nPhysical Sector: 0\n\n(No malicious items detected)\n\n&amp;#x200B;\n\nWMI: 0\n\n(No malicious items detected)\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n(end)",
+        "title": "Guys",
+        "score": 1,
+        "id": "u70xh8",
+        "commsNum": 0,
+        "timeStamp": "2022/04/19-02:20:00",
+        "author_name": "GuestieDaNovice",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/u70xh8/guys/"
+    },
+    "posts": {
+        "i5gi8up": {
+            "comment": "cheers idk why i was spam downvoted though so it got rid of all my comment karma",
+            "timeStamp": "2022/04/20-01:46:37",
+            "id": "i5gi8up",
+            "is_submitter": true,
+            "link_id": "t3_u70xh8",
+            "parent_id": "t1_i5ewuid",
+            "score": 1,
+            "stickied": false,
+            "author_name": "GuestieDaNovice"
+        },
+        "i5ewuid": {
+            "comment": "Here take my upvote, I'm outnumbered here apparently tho",
+            "timeStamp": "2022/04/19-16:49:28",
+            "id": "i5ewuid",
+            "is_submitter": false,
+            "link_id": "t3_u70xh8",
+            "parent_id": "t1_i5btvm8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "concmap"
+        },
+        "i5cosnz": {
+            "comment": "ah okay i was mainly confused about the registry values",
+            "timeStamp": "2022/04/19-08:14:24",
+            "id": "i5cosnz",
+            "is_submitter": true,
+            "link_id": "t3_u70xh8",
+            "parent_id": "t1_i5bwej5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "GuestieDaNovice"
+        },
+        "i5byky0": {
+            "comment": "Your getting down voted as this isnt a tech support subreddit. I.e read the sidebar rules",
+            "timeStamp": "2022/04/19-05:02:10",
+            "id": "i5byky0",
+            "is_submitter": false,
+            "link_id": "t3_u70xh8",
+            "parent_id": "t3_u70xh8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Rakanisheu"
+        },
+        "i5bxov3": {
+            "comment": "This is a joke to you?",
+            "timeStamp": "2022/04/19-04:53:48",
+            "id": "i5bxov3",
+            "is_submitter": false,
+            "link_id": "t3_u70xh8",
+            "parent_id": "t1_i5breqh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Barnezhilton"
+        },
+        "i5bwej5": {
+            "comment": "PuPs are just unwanted software / adware junk.  At first glance nothing super concerning, no backdoors or rootkits found or anything. Honestly I'd just delete that shit and move on.",
+            "timeStamp": "2022/04/19-04:41:25",
+            "id": "i5bwej5",
+            "is_submitter": false,
+            "link_id": "t3_u70xh8",
+            "parent_id": "t3_u70xh8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "concmap"
+        },
+        "i5btvm8": {
+            "comment": "lmfao keep downvoting me",
+            "timeStamp": "2022/04/19-04:15:31",
+            "id": "i5btvm8",
+            "is_submitter": true,
+            "link_id": "t3_u70xh8",
+            "parent_id": "t3_u70xh8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "GuestieDaNovice"
+        },
+        "i5breqh": {
+            "comment": "\\-1 community karma lmfao for a joke ye calm down",
+            "timeStamp": "2022/04/19-03:47:40",
+            "id": "i5breqh",
+            "is_submitter": true,
+            "link_id": "t3_u70xh8",
+            "parent_id": "t3_u70xh8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "GuestieDaNovice"
+        },
+        "i5bqpbr": {
+            "comment": "lmfao",
+            "timeStamp": "2022/04/19-03:39:20",
+            "id": "i5bqpbr",
+            "is_submitter": true,
+            "link_id": "t3_u70xh8",
+            "parent_id": "t1_i5blxdp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "GuestieDaNovice"
+        },
+        "i5bmxfs": {
+            "comment": "[removed]",
+            "timeStamp": "2022/04/19-02:50:51",
+            "id": "i5bmxfs",
+            "is_submitter": false,
+            "link_id": "t3_u70xh8",
+            "parent_id": "t3_u70xh8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "i5blxdp": {
+            "comment": "One of the files literally says roblox hack. Maybe stop downloading shitty software",
+            "timeStamp": "2022/04/19-02:37:18",
+            "id": "i5blxdp",
+            "is_submitter": false,
+            "link_id": "t3_u70xh8",
+            "parent_id": "t3_u70xh8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MoistQuacker"
+        }
+    }
+}

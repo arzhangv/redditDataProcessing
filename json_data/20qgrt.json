@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Operation Windigo: 10,000 Linux Servers Redirecting to Malware",
+        "score": 23,
+        "id": "20qgrt",
+        "commsNum": 0,
+        "timeStamp": "2014/03/18-10:56:12",
+        "author_name": "Kruug",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://thenextweb.com/insider/2014/03/18/operation-windigo-10000-infected-linux-servers-redirecting-half-million-visitors-malware-every-day/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[https://imgur.com/gallery/FXyu6jt](https://imgur.com/gallery/FXyu6jt)\n\n&amp;#x200B;\n\nHere is the link to everything that came up in task manager\n\nI'm knowledgeable on hardware but viruses just go way over my head thank you for your time.",
+        "title": "I think I might have a virus.",
+        "score": 1,
+        "id": "a1ycvh",
+        "commsNum": 6,
+        "timeStamp": "2018/11/30-16:55:06",
+        "author_name": "TunaFishIsBestFish",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/a1ycvh/i_think_i_might_have_a_virus/"
+    },
+    "posts": {
+        "eatubf1": {
+            "comment": "Oops",
+            "timeStamp": "2018/11/30-18:09:24",
+            "id": "eatubf1",
+            "is_submitter": true,
+            "link_id": "t3_a1ycvh",
+            "parent_id": "t1_eatta7w",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TunaFishIsBestFish"
+        },
+        "eatta7w": {
+            "comment": "So this is not the place for this post. See the sticky.\n\nPost things such as this in r/techsupport.\n",
+            "timeStamp": "2018/11/30-17:53:56",
+            "id": "eatta7w",
+            "is_submitter": false,
+            "link_id": "t3_a1ycvh",
+            "parent_id": "t3_a1ycvh",
+            "score": 2,
+            "stickied": false,
+            "author_name": "AbsoZed"
+        },
+        "eatqksj": {
+            "comment": "You can open the command prompt and run this:\nTaskkill /f /IM \u201dName of process\u201d \nbe aware if it's. System process it might not work or it might reboot your machine. I'd google the process you don't know what they are. Than run config and shutoff those you don't know",
+            "timeStamp": "2018/11/30-17:11:02",
+            "id": "eatqksj",
+            "is_submitter": false,
+            "link_id": "t3_a1ycvh",
+            "parent_id": "t1_eatq0hw",
+            "score": 0,
+            "stickied": false,
+            "author_name": "macgeek89"
+        },
+        "eatqiyf": {
+            "comment": "[deleted]",
+            "timeStamp": "2018/11/30-17:10:12",
+            "id": "eatqiyf",
+            "is_submitter": false,
+            "link_id": "t3_a1ycvh",
+            "parent_id": "t3_a1ycvh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "eatq0hw": {
+            "comment": "I ran both of my antiviruses Vipre and malwarebytes neither picked anything up, but it's just my computer has been screwy when I first built it my browser opened instantly but now it takes over 5 seconds. I am running ssd and they do get slower over time as they get more full so maybe I just need to uninstall stuff, but also it looks like some tasks are doubled or tripled.",
+            "timeStamp": "2018/11/30-17:02:10",
+            "id": "eatq0hw",
+            "is_submitter": true,
+            "link_id": "t3_a1ycvh",
+            "parent_id": "t1_eatprxu",
+            "score": -1,
+            "stickied": false,
+            "author_name": "TunaFishIsBestFish"
+        },
+        "eatprxu": {
+            "comment": "What process do you think it is. You could download malware bytes and run it or run your antivirus ",
+            "timeStamp": "2018/11/30-16:58:33",
+            "id": "eatprxu",
+            "is_submitter": false,
+            "link_id": "t3_a1ycvh",
+            "parent_id": "t3_a1ycvh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "macgeek89"
+        }
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Analysis of LightNeuron APT targeting Microsoft Exchange Servers (attributed to Turla group)",
+        "score": 23,
+        "id": "bm277n",
+        "commsNum": 3,
+        "timeStamp": "2019/05/08-00:15:03",
+        "author_name": "goretsky",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.welivesecurity.com/2019/05/07/turla-lightneuron-email-too-far/"
+    },
+    "posts": {
+        "emtkk9a": {
+            "comment": "Stellar analysis and reporting as usual on Turla.  Great work!",
+            "timeStamp": "2019/05/08-04:37:32",
+            "id": "emtkk9a",
+            "is_submitter": false,
+            "link_id": "t3_bm277n",
+            "parent_id": "t1_emt7332",
+            "score": 2,
+            "stickied": false,
+            "author_name": "S1owJam"
+        },
+        "emtc1q6": {
+            "comment": "They are running out of good names ... LightNeuron?",
+            "timeStamp": "2019/05/08-01:59:48",
+            "id": "emtc1q6",
+            "is_submitter": false,
+            "link_id": "t3_bm277n",
+            "parent_id": "t3_bm277n",
+            "score": 2,
+            "stickied": false,
+            "author_name": "mmorgens82"
+        },
+        "emt7332": {
+            "comment": "Hello,\n\nThis is a blog announcing the discovery/analysis of LightNeuron, an APT targeting Microsoft Exchange Servers which is attributed to the Turla threat actor group.\n\nA 33 page in-depth analysis can be found at https://www.welivesecurity.com/wp-content/uploads/2019/05/ESET-LightNeuron.pdf\n\nIndicators of Compromise can be found at https://github.com/eset/malware-ioc/tree/master/turla#lightneuron-indicators-of-compromise\n\nRegards,\n\nAryeh Goretsky",
+            "timeStamp": "2019/05/08-00:18:29",
+            "id": "emt7332",
+            "is_submitter": true,
+            "link_id": "t3_bm277n",
+            "parent_id": "t3_bm277n",
+            "score": 3,
+            "stickied": false,
+            "author_name": "goretsky"
+        }
+    }
+}

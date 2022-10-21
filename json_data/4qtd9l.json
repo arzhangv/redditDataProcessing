@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "AUTOMATICALLY EXTRACTING OBFUSCATED STRINGS FROM MALWARE USING THE FIREEYE LABS OBFUSCATED STRING SOLVER (FLOSS)",
+        "score": 1,
+        "id": "4qtd9l",
+        "commsNum": 0,
+        "timeStamp": "2016/07/01-11:51:37",
+        "author_name": "Wesley1Jeremy2_",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.fireeye.com/blog/threat-research/2016/06/automatically-extracting-obfuscated-strings.html"
+    },
+    "posts": {}
+}

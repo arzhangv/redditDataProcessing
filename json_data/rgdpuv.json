@@ -1,0 +1,99 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "paint.exe",
+        "score": 1,
+        "id": "rgdpuv",
+        "commsNum": 0,
+        "timeStamp": "2021/12/14-10:23:14",
+        "author_name": "fedibrahem",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://i.redd.it/5x2oc815wj581.png"
+    },
+    "posts": {
+        "hok386i": {
+            "comment": "There's not much info to go on here. But the Paint.lnk under the Startup folder will cause this malware to relaunch everytime your system is rebooted. That said, I'm only mildly confident that removing paint.lnk from startup will stop the malware from loading.",
+            "timeStamp": "2021/12/14-12:46:32",
+            "id": "hok386i",
+            "is_submitter": false,
+            "link_id": "t3_rgdpuv",
+            "parent_id": "t3_rgdpuv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "BadRegEx"
+        },
+        "hok2nzl": {
+            "comment": "Time to switch to Linux!",
+            "timeStamp": "2021/12/14-12:42:47",
+            "id": "hok2nzl",
+            "is_submitter": false,
+            "link_id": "t3_rgdpuv",
+            "parent_id": "t3_rgdpuv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Rebel_Ye11"
+        },
+        "hok2njq": {
+            "comment": "[removed]",
+            "timeStamp": "2021/12/14-12:42:42",
+            "id": "hok2njq",
+            "is_submitter": false,
+            "link_id": "t3_rgdpuv",
+            "parent_id": "t1_hojhmvf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hojsaqj": {
+            "comment": "It's the only way to be sure.",
+            "timeStamp": "2021/12/14-11:35:04",
+            "id": "hojsaqj",
+            "is_submitter": false,
+            "link_id": "t3_rgdpuv",
+            "parent_id": "t1_hojlc65",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Synux"
+        },
+        "hojlc65": {
+            "comment": "Looking at the above, I'd assume the `NVCLEANSTALL` was your entry point.\n\nIf MBAM keeps cleaning it and it keeps coming back, you should probably cut to the chase, back up your shit, and nuke from orbit.",
+            "timeStamp": "2021/12/14-10:49:38",
+            "id": "hojlc65",
+            "is_submitter": false,
+            "link_id": "t3_rgdpuv",
+            "parent_id": "t3_rgdpuv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "bluesoul"
+        },
+        "hojiemd": {
+            "comment": "[removed]",
+            "timeStamp": "2021/12/14-10:30:25",
+            "id": "hojiemd",
+            "is_submitter": false,
+            "link_id": "t3_rgdpuv",
+            "parent_id": "t3_rgdpuv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hojhmvf": {
+            "comment": "for context: this paint.exe been popping everytime i open my laptop and show in startup on task manager too with an icon of the last program i launched \n\nalso i don t know if this related to the same malware or not\n\nbut some of my files get renamed with the letter 'v' on them like vfirefox or vdocker which make the malwarebyte consider them as malware and also they won t launch or work",
+            "timeStamp": "2021/12/14-10:25:23",
+            "id": "hojhmvf",
+            "is_submitter": true,
+            "link_id": "t3_rgdpuv",
+            "parent_id": "t3_rgdpuv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "fedibrahem"
+        }
+    }
+}

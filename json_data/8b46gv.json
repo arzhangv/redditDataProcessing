@@ -1,0 +1,143 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Anyone know a forum for people to post malware that they create. Not for malicious use, just for fun. I've written some and I would like to easily share it.",
+        "title": "Malware forum",
+        "score": 4,
+        "id": "8b46gv",
+        "commsNum": 8,
+        "timeStamp": "2018/04/09-19:20:21",
+        "author_name": "Geremachek2",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 8,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8b46gv/malware_forum/"
+    },
+    "posts": {
+        "dx9kuay": {
+            "comment": "Sorry fam all the good ones are private and people won't post them. That being said, ilI miss voidptr, malkit, and trojanforge :(",
+            "timeStamp": "2018/04/12-14:30:43",
+            "id": "dx9kuay",
+            "is_submitter": false,
+            "link_id": "t3_8b46gv",
+            "parent_id": "t3_8b46gv",
+            "score": 2,
+            "stickied": false,
+            "author_name": "sideofszechuan"
+        },
+        "dx8z9fh": {
+            "comment": "Implying there are no security forums that don't have illegal activity. ",
+            "timeStamp": "2018/04/12-09:10:14",
+            "id": "dx8z9fh",
+            "is_submitter": false,
+            "link_id": "t3_8b46gv",
+            "parent_id": "t1_dx8vt4e",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Manifest122"
+        },
+        "dx8vt4e": {
+            "comment": "&gt; no more ddos services or any genuine illegal stuff\n\nyet wants a security forum that isnt full of skids\n\nu a skid boi",
+            "timeStamp": "2018/04/12-08:19:37",
+            "id": "dx8vt4e",
+            "is_submitter": false,
+            "link_id": "t3_8b46gv",
+            "parent_id": "t1_dx4inhl",
+            "score": 3,
+            "stickied": false,
+            "author_name": "edward_snowedin"
+        },
+        "dx4j7fg": {
+            "comment": "There are a lot of talented people there. Don\u2019t know why you\u2019re being a pretentious about it. You won\u2019t find what you\u2019re looking for on the clearnet.",
+            "timeStamp": "2018/04/10-06:32:28",
+            "id": "dx4j7fg",
+            "is_submitter": false,
+            "link_id": "t3_8b46gv",
+            "parent_id": "t1_dx4inhl",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ndetro"
+        },
+        "dx4inhl": {
+            "comment": "What it is good for is making money off skids using their parents paypal. I\u2019m looking to find a security forum that isn\u2019t full of skids, if you find a good one could you let me know?",
+            "timeStamp": "2018/04/10-06:22:12",
+            "id": "dx4inhl",
+            "is_submitter": false,
+            "link_id": "t3_8b46gv",
+            "parent_id": "t1_dx4gaog",
+            "score": 0,
+            "stickied": false,
+            "author_name": "Manifest122"
+        },
+        "dx4gaog": {
+            "comment": "Yeah. It\u2019s rather stagnate. Wish Omni did something, anything, different with it. ",
+            "timeStamp": "2018/04/10-05:34:02",
+            "id": "dx4gaog",
+            "is_submitter": false,
+            "link_id": "t3_8b46gv",
+            "parent_id": "t1_dx4avil",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ndetro"
+        },
+        "dx4avil": {
+            "comment": "Gone to shit nowadays. No more DDoS services or any genuine illegal stuff. Programming subforum is decaying and the hacking section is dead.",
+            "timeStamp": "2018/04/10-02:54:28",
+            "id": "dx4avil",
+            "is_submitter": false,
+            "link_id": "t3_8b46gv",
+            "parent_id": "t1_dx3voia",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Manifest122"
+        },
+        "dx467fk": {
+            "comment": "[removed]",
+            "timeStamp": "2018/04/09-23:53:31",
+            "id": "dx467fk",
+            "is_submitter": false,
+            "link_id": "t3_8b46gv",
+            "parent_id": "t3_8b46gv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "dx3voia": {
+            "comment": "When I was an edge lord I went here for that hackforums.net\n\nRather unique community though.",
+            "timeStamp": "2018/04/09-19:46:15",
+            "id": "dx3voia",
+            "is_submitter": false,
+            "link_id": "t3_8b46gv",
+            "parent_id": "t3_8b46gv",
+            "score": 5,
+            "stickied": false,
+            "author_name": "ndetro"
+        },
+        "dx3vix6": {
+            "comment": "Ok thanks",
+            "timeStamp": "2018/04/09-19:43:36",
+            "id": "dx3vix6",
+            "is_submitter": true,
+            "link_id": "t3_8b46gv",
+            "parent_id": "t1_dx3vict",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Geremachek2"
+        },
+        "dx3vict": {
+            "comment": "github is often used to share educational malware.",
+            "timeStamp": "2018/04/09-19:43:20",
+            "id": "dx3vict",
+            "is_submitter": false,
+            "link_id": "t3_8b46gv",
+            "parent_id": "t3_8b46gv",
+            "score": 4,
+            "stickied": false,
+            "author_name": "mikiozen"
+        }
+    }
+}

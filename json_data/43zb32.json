@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Received a targeted malicious JavaScript directly to my private email. Anyone can deobfuscate it for me?",
+        "score": 10,
+        "id": "43zb32",
+        "commsNum": 14,
+        "timeStamp": "2016/02/03-02:47:51",
+        "author_name": "Saren-WTAKO",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 14,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://hastebin.com/piyogodomo.js"
+    },
+    "posts": {}
+}

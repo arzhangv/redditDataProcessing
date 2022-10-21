@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi everyone!\nMy device is a Huawei android by the way. \n\nI've recently downloaded and installed TutuApp, Panda Helper and FDroid but I uninstalled them right away because they were not working for me or I deemed them unnecessary. Will they leave any traces behind and are they actually safe without me worrying about any spyware, malwares or virus in my device?\n\nI actually installed Malwarebytes to see if there are any problems but I'd love to hear from you, Redditors for a peace of mind.\n\nThanks so much!",
+        "title": "Downloaded TutuApp, Panda Helper and FDroid.",
+        "score": 1,
+        "id": "f06sci",
+        "commsNum": 2,
+        "timeStamp": "2020/02/06-22:48:44",
+        "author_name": "woahkpop",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/f06sci/downloaded_tutuapp_panda_helper_and_fdroid/"
+    },
+    "posts": {
+        "fgs04pr": {
+            "comment": "Ohhh alright. Thank you so much! I will wait for others' take on the other two apps.",
+            "timeStamp": "2020/02/07-00:40:19",
+            "id": "fgs04pr",
+            "is_submitter": true,
+            "link_id": "t3_f06sci",
+            "parent_id": "t1_fgrzn2m",
+            "score": 1,
+            "stickied": false,
+            "author_name": "woahkpop"
+        },
+        "fgrzn2m": {
+            "comment": "As long as you got FDroid from its official source you are fine. I am not familiar with the other apps though. Some light googling will tell you all you need to know about FDroid and its FOSS.",
+            "timeStamp": "2020/02/07-00:29:26",
+            "id": "fgrzn2m",
+            "is_submitter": false,
+            "link_id": "t3_f06sci",
+            "parent_id": "t3_f06sci",
+            "score": 1,
+            "stickied": false,
+            "author_name": "CobaltZephyr"
+        }
+    }
+}

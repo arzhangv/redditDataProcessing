@@ -1,0 +1,99 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "FSB arrests REvil ransomware gang members",
+        "score": 1,
+        "id": "s40zrh",
+        "commsNum": 0,
+        "timeStamp": "2022/01/14-11:53:08",
+        "author_name": "DrinkMoreCodeMore",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://therecord.media/fsb-raids-revil-ransomware-gang-members/"
+    },
+    "posts": {
+        "hssft0x": {
+            "comment": "[removed]",
+            "timeStamp": "2022/01/15-09:39:45",
+            "id": "hssft0x",
+            "is_submitter": false,
+            "link_id": "t3_s40zrh",
+            "parent_id": "t1_hspjj1g",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hsr5tdv": {
+            "comment": "Russia is completely through the looking glass, so... it doesn't really matter that there is press, or video, or witness accounts, statements, court papers or whatever. It may have happened, something else may have happened, or it may not have happened at all.",
+            "timeStamp": "2022/01/15-03:29:02",
+            "id": "hsr5tdv",
+            "is_submitter": false,
+            "link_id": "t3_s40zrh",
+            "parent_id": "t3_s40zrh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RedWineAndWomen"
+        },
+        "hsqknb4": {
+            "comment": "War are fought in many fronts\u2026 do not take the bait folks lol.\n\nFunny how this timing is right along with Russia wanting to invade Ukraine\u2026 \n\nThese people are probably not related or low level at best.",
+            "timeStamp": "2022/01/14-23:06:15",
+            "id": "hsqknb4",
+            "is_submitter": false,
+            "link_id": "t3_s40zrh",
+            "parent_id": "t3_s40zrh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "HomeGrownCoder"
+        },
+        "hspjj1g": {
+            "comment": "State actors tend to rely heavily on external contractors for offensive hacking. One reason is to provide a degree of deniability. \n\nAlso, state-sponsored hackers in states such as Russia often do some freelance hacking on their own and their employer looks the other way. \n\nAll that is a long way of saying the line between FSB and non-FSB is murky.",
+            "timeStamp": "2022/01/14-17:40:22",
+            "id": "hspjj1g",
+            "is_submitter": false,
+            "link_id": "t3_s40zrh",
+            "parent_id": "t1_hsp4lcu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Chongulator"
+        },
+        "hsp4lcu": {
+            "comment": "Let's be serious here. They were already fsb employees.\n\nThey just made it look like they did something",
+            "timeStamp": "2022/01/14-15:48:45",
+            "id": "hsp4lcu",
+            "is_submitter": false,
+            "link_id": "t3_s40zrh",
+            "parent_id": "t1_hsolaos",
+            "score": 1,
+            "stickied": false,
+            "author_name": "crypticedge"
+        },
+        "hsolaos": {
+            "comment": "The FSB just got 14 new free employees!",
+            "timeStamp": "2022/01/14-13:36:53",
+            "id": "hsolaos",
+            "is_submitter": true,
+            "link_id": "t3_s40zrh",
+            "parent_id": "t1_hsoksf3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DrinkMoreCodeMore"
+        },
+        "hsoksf3": {
+            "comment": "I'm glad to see cooperation on this. The US was putting the pressure on. I wonder if any identifying info was retrieved from the REvil server seizures? 14 suspected members have had their properties raided with some money and crypto wallets seized. Russia wont be extraditing them",
+            "timeStamp": "2022/01/14-13:33:37",
+            "id": "hsoksf3",
+            "is_submitter": false,
+            "link_id": "t3_s40zrh",
+            "parent_id": "t3_s40zrh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "JJenkx"
+        }
+    }
+}

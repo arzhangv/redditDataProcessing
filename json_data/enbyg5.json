@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Powershell Static Analysis &amp; Emotet results | Hatching - Automated Malware Analysis",
+        "score": 1,
+        "id": "enbyg5",
+        "commsNum": 0,
+        "timeStamp": "2020/01/11-11:30:41",
+        "author_name": "digicat",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://hatching.io/blog/powershell-analysis"
+    },
+    "posts": {}
+}

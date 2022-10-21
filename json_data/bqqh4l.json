@@ -1,0 +1,253 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[removed]",
+        "title": "Can a malware written in a new programming language again affect the effectiveness of an antivirus?",
+        "score": 24,
+        "id": "bqqh4l",
+        "commsNum": 22,
+        "timeStamp": "2019/05/19-20:52:22",
+        "author_name": "bl455",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 22,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/bqqh4l/can_a_malware_written_in_a_new_programming/"
+    },
+    "posts": {
+        "eoh0jyd": {
+            "comment": "This is why behavior analysis exists",
+            "timeStamp": "2019/05/22-17:06:43",
+            "id": "eoh0jyd",
+            "is_submitter": false,
+            "link_id": "t3_bqqh4l",
+            "parent_id": "t1_eocskjq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Invinciblex"
+        },
+        "eocsqde": {
+            "comment": "depends on the dynamic analysis. it can help with static analysis circumvention but it does not change much for DA. it might confuse ML as well, depending on the implementation, of course.",
+            "timeStamp": "2019/05/21-11:28:09",
+            "id": "eocsqde",
+            "is_submitter": false,
+            "link_id": "t3_bqqh4l",
+            "parent_id": "t1_eocsfkk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "apatrid"
+        },
+        "eocskjq": {
+            "comment": "then everything will depend on a cryper or some form of obfuscating the code.",
+            "timeStamp": "2019/05/21-11:26:55",
+            "id": "eocskjq",
+            "is_submitter": true,
+            "link_id": "t3_bqqh4l",
+            "parent_id": "t1_eoamxqd",
+            "score": 1,
+            "stickied": false,
+            "author_name": "bl455"
+        },
+        "eocsfkk": {
+            "comment": "So, the detection of a malicious program does not depend on a programming or a compiler? If so, then everything will depend on a cryper.",
+            "timeStamp": "2019/05/21-11:25:56",
+            "id": "eocsfkk",
+            "is_submitter": true,
+            "link_id": "t3_bqqh4l",
+            "parent_id": "t1_eoaqmhh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "bl455"
+        },
+        "eoaqmhh": {
+            "comment": "just a few quick side notes on comments here:\n\n\nyou can write (and interpret / compile) malware in whatever you want to write it, if av engine or sandbox checks your imports - it will figure out probable malicious intent. that's from static analysis. more functions you write yourself and avoid using built-in functions of OS, better the chance to fly under the radar, at least for SA. of course, it will bloat your code and introduce bugs and errors. packing helps, but still bloats and only skips SA. there is still DA and ML to beat, SA is an attempt to give quick verdict and not a backbone of AV analysis.\n\n\nsignatures are often hashes of portions of file, and not necessarily of whole binaries / documents. signatures are also just a quick way of recognizing same (or similar) file, they are \"look behind\" protection... \n\n\nsuccess in attacking AV depends what one is targeting. understanding target allows one to beat the game. more complex the game - solution's complexity grows...",
+            "timeStamp": "2019/05/21-00:51:30",
+            "id": "eoaqmhh",
+            "is_submitter": false,
+            "link_id": "t3_bqqh4l",
+            "parent_id": "t3_bqqh4l",
+            "score": 1,
+            "stickied": false,
+            "author_name": "apatrid"
+        },
+        "eoamxqd": {
+            "comment": "Writing your own compiler would be too much work to research your question. \n\nOf course compilers are public. They are not made to evade detection by AV. They exist to translate programming languages into lower level languages.\n\nIn your situation, I would choose one popular programming language (out of convenience, so you don't have to rewrite code so much). This language should be supported by several different compilers. Then I would compile the code with each compiler and check the differences. \n\nE.g. Python has a multitude of different implementations. The most popular implementation is CPython (it is compiled to .pyc, and interpreted afterwards).  Then there is Jython, which will run on the JVM. IronPython is a .NET implementation. Finally: Nuitka compiles Python to a C level program. So there you have already four very different results for one language.",
+            "timeStamp": "2019/05/21-00:02:40",
+            "id": "eoamxqd",
+            "is_submitter": false,
+            "link_id": "t3_bqqh4l",
+            "parent_id": "t1_eo9pc04",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Struppigel"
+        },
+        "eoal65h": {
+            "comment": "They are not asking us to write their paper for them, though.  \n\nThis question is a good way to get started or check if your topic is feasible for research. It is very recommended to talk to people in the field if you are doing research in it.",
+            "timeStamp": "2019/05/20-23:39:58",
+            "id": "eoal65h",
+            "is_submitter": false,
+            "link_id": "t3_bqqh4l",
+            "parent_id": "t1_eo82l7a",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Struppigel"
+        },
+        "eo9pzq0": {
+            "comment": "I'm thinking about trying Golang, since I read it is an ideal language for malware, but I'm not sure, they say it has good features, but I found a subreddit that says otherwise.",
+            "timeStamp": "2019/05/20-17:10:49",
+            "id": "eo9pzq0",
+            "is_submitter": true,
+            "link_id": "t3_bqqh4l",
+            "parent_id": "t1_eo7ktwh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "bl455"
+        },
+        "eo9pc04": {
+            "comment": "Thanks for the very interesting answer, then the correct thing would be to design my own compiler?",
+            "timeStamp": "2019/05/20-17:03:02",
+            "id": "eo9pc04",
+            "is_submitter": true,
+            "link_id": "t3_bqqh4l",
+            "parent_id": "t1_eo8krb4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "bl455"
+        },
+        "eo9p7wi": {
+            "comment": "And where are the obfuscators in all this?",
+            "timeStamp": "2019/05/20-17:01:43",
+            "id": "eo9p7wi",
+            "is_submitter": true,
+            "link_id": "t3_bqqh4l",
+            "parent_id": "t1_eo702ox",
+            "score": 1,
+            "stickied": false,
+            "author_name": "bl455"
+        },
+        "eo9lpsa": {
+            "comment": "It works pretty well, because despite their marketing, a/v still relies almost entirely on signatures. But not 100%, though.",
+            "timeStamp": "2019/05/20-16:20:07",
+            "id": "eo9lpsa",
+            "is_submitter": false,
+            "link_id": "t3_bqqh4l",
+            "parent_id": "t3_bqqh4l",
+            "score": 2,
+            "stickied": false,
+            "author_name": "iagox86"
+        },
+        "eo8u3xl": {
+            "comment": "Best answer so far here OP!",
+            "timeStamp": "2019/05/20-10:54:23",
+            "id": "eo8u3xl",
+            "is_submitter": false,
+            "link_id": "t3_bqqh4l",
+            "parent_id": "t1_eo8krb4",
+            "score": 4,
+            "stickied": false,
+            "author_name": "RyanStankye"
+        },
+        "eo8mauc": {
+            "comment": "Is collaboration with others not real research?  He's asking a pretty broad question to get some initial direction.  I don't see a problem with it.",
+            "timeStamp": "2019/05/20-09:31:04",
+            "id": "eo8mauc",
+            "is_submitter": false,
+            "link_id": "t3_bqqh4l",
+            "parent_id": "t1_eo82l7a",
+            "score": 7,
+            "stickied": false,
+            "author_name": "mjuad"
+        },
+        "eo8lgzi": {
+            "comment": "You are wrongly equating dynamic analysis with behaviour monitoring and static analysis with blacklisting.",
+            "timeStamp": "2019/05/20-09:21:43",
+            "id": "eo8lgzi",
+            "is_submitter": false,
+            "link_id": "t3_bqqh4l",
+            "parent_id": "t1_eo702ox",
+            "score": 7,
+            "stickied": false,
+            "author_name": "Struppigel"
+        },
+        "eo8krb4": {
+            "comment": "It is not the programming language that affects anything but the compiler and the execution environment. Usually, if you switch the programming language, you will also use another compiler, thus create a different binary than before.\n\nWhat will be affected by this:\n\n* blacklisting --&gt; the binary is different, blacklisting based on hashes is circumvented until the binary is blacklisted again (so it only works for a certain time frame) \n* pattern based detection (no matter if static or dynamic) --&gt; pattern signatures are created on known malware files, so like blacklisting you will circumvent this for a certain time frame until patterns for your new binary are created; it might be hampered for a long time if the technology is not supporting the new execution environment. E.g., if a static scanner is not able to extract the actual code from an AutoIt binary, there is no way to create a pattern signature for it.\n* behaviour blocker --&gt; there can be a change if your execution environment changes due to switching the language. Some behaviour blocker rules might be depended on that execution environment, e.g. it might treat a powershell.exe process differently than a Java application. In most cases it shouldn't be affected, though.\n* emulation --&gt; this is affected if the execution environment changes, the new environment might not be supported.\n\nIn conclusion I would say, that the question should be a different one. You can switch languages and use the same compiler, this would have almost no effect on the antivirus being able to detect this file. Switch the compiler to something very different, e.g., switch from native to bytecode, use environments that are less common and less likely supported by parsers of antivirus scanners, and it may have a huge effect on the ability to detect those files.",
+            "timeStamp": "2019/05/20-09:13:48",
+            "id": "eo8krb4",
+            "is_submitter": false,
+            "link_id": "t3_bqqh4l",
+            "parent_id": "t3_bqqh4l",
+            "score": 11,
+            "stickied": false,
+            "author_name": "Struppigel"
+        },
+        "eo82l7a": {
+            "comment": "Why don\u2019t you do some real research and try it instead if fucking asking reddit",
+            "timeStamp": "2019/05/20-05:32:25",
+            "id": "eo82l7a",
+            "is_submitter": false,
+            "link_id": "t3_bqqh4l",
+            "parent_id": "t3_bqqh4l",
+            "score": -8,
+            "stickied": false,
+            "author_name": "planethacker88"
+        },
+        "eo80tbp": {
+            "comment": "\\&gt; written in a new programming language \n\nTBH programming language doesn't matter  the end binary executes set of assembly if the malware is written badly without any binders and crypters there are chances it will get detected",
+            "timeStamp": "2019/05/20-05:08:15",
+            "id": "eo80tbp",
+            "is_submitter": false,
+            "link_id": "t3_bqqh4l",
+            "parent_id": "t3_bqqh4l",
+            "score": 3,
+            "stickied": false,
+            "author_name": "ragupal"
+        },
+        "eo7l4qc": {
+            "comment": "Award OPs PhD research to this guy.. what an easy way to get your papers written!",
+            "timeStamp": "2019/05/20-01:46:20",
+            "id": "eo7l4qc",
+            "is_submitter": false,
+            "link_id": "t3_bqqh4l",
+            "parent_id": "t1_eo702ox",
+            "score": 12,
+            "stickied": false,
+            "author_name": "bas1943"
+        },
+        "eo7ktwh": {
+            "comment": "Short answer, yes. \nMost antivirus are doing a mix of static analysis (signature match) and dynamic analysis (pattern/behavior). If a signature is matched like a hash, malware can be detected before it executes, but if it's in a new/unknown language, antivirus have to wait for it to execute and than detect if anything suspicious is seen. This lateral analysis gives virus a chance to not only be executed, but also to evade detection.\n Note that many antivirus will flag any program in a new language (even a simple  print hello world!) as suspicious, just because of these reasons. \n\n\nWindows defender supposedly can run these programs in a virtual container, safeguarding other system files and data.",
+            "timeStamp": "2019/05/20-01:43:10",
+            "id": "eo7ktwh",
+            "is_submitter": false,
+            "link_id": "t3_bqqh4l",
+            "parent_id": "t3_bqqh4l",
+            "score": 4,
+            "stickied": false,
+            "author_name": "Daddu_tum"
+        },
+        "eo702ox": {
+            "comment": "Depends entirely on if that AV is using static or dynamic analysis for its engine. Most these days use a combination of the two working on concert with each other. So in the case of static the engine is usually hashing all the files in a filesystem and comparing those against a list of known code; if it finds something it recognizes it quarantines it. The problem with this method is that its no good at finding new samples of bad code. It would already have to have a definition of what is and what is not malware. By contrast dynamic code analysis is usually looking and the system calls that programs are making to the kernel and other parts of the OS during normal execution. If a certain program makes too many calls that pass a certain threshold then it will flag the program as a virus. The drawback with this method however is that the malware has to run on a target machine in order to get flagged if at all.  \n\n\nYou should looking into [msfvenom](https://www.offensive-security.com/metasploit-unleashed/msfvenom/) and [esoteric programming languages](https://esolangs.org/wiki/Main_Page) try compiling some simple reverse tcp shells against an esoteric language and then running that by [virustotal](https://www.virustotal.com/#/home/upload) you may get some interesting results.",
+            "timeStamp": "2019/05/19-22:15:17",
+            "id": "eo702ox",
+            "is_submitter": false,
+            "link_id": "t3_bqqh4l",
+            "parent_id": "t3_bqqh4l",
+            "score": 17,
+            "stickied": false,
+            "author_name": "PrintedCircut"
+        },
+        "eo6q6oj": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2019/05/19-20:52:23",
+            "id": "eo6q6oj",
+            "is_submitter": false,
+            "link_id": "t3_bqqh4l",
+            "parent_id": "t3_bqqh4l",
+            "score": -5,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

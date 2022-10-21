@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[Hiding Malware in textbooks](https://sensorstechforum.com/malware-hiding-essays-textbooks-2019/)",
+        "title": "School Year 2019: Malware Hiding in Essays and Textbooks",
+        "score": 13,
+        "id": "cz4kda",
+        "commsNum": 2,
+        "timeStamp": "2019/09/03-06:01:03",
+        "author_name": "Kemejii",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/cz4kda/school_year_2019_malware_hiding_in_essays_and/"
+    },
+    "posts": {
+        "eyzfo63": {
+            "comment": "&gt; drops malware rather than the expected pdf\n\nWhich is fucking weird because if there's one thing I expect from some fucking random third-party downloader that promises whatever obscure ebook I searched for it's that it's going to drop some malware and I definitely would not expect it to deliver the ebook.",
+            "timeStamp": "2019/09/04-10:04:27",
+            "id": "eyzfo63",
+            "is_submitter": false,
+            "link_id": "t3_cz4kda",
+            "parent_id": "t1_eyx1xzd",
+            "score": 1,
+            "stickied": false,
+            "author_name": "splice42"
+        },
+        "eyx1xzd": {
+            "comment": "Title is misleading. It's not \"hiding\", it's just a PUP downloader that drops malware rather than the expected pdf.",
+            "timeStamp": "2019/09/03-13:36:20",
+            "id": "eyx1xzd",
+            "is_submitter": false,
+            "link_id": "t3_cz4kda",
+            "parent_id": "t3_cz4kda",
+            "score": 1,
+            "stickied": false,
+            "author_name": "bonobolol"
+        }
+    }
+}

@@ -1,0 +1,176 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "It seems the days for ZeroAccess rootkit and all the TDL series are not coming back. Maybe transition to mobile \u00bf?\n\nLooks like the most sophisticated malware for Windows was between 2008-2012. rootkit dev stopped after Microsoft\n\ncreated Windows 8 -&gt; since then, its all usermode boring stuff.",
+        "title": "Why there is not more impressive malware for Windows",
+        "score": 10,
+        "id": "dgw9pl",
+        "commsNum": 14,
+        "timeStamp": "2019/10/12-08:02:52",
+        "author_name": "zz1991max",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 14,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/dgw9pl/why_there_is_not_more_impressive_malware_for/"
+    },
+    "posts": {
+        "fbiq536": {
+            "comment": "Hello, let me introduce you to my new LLC hahahahahah",
+            "timeStamp": "2019/12/20-22:24:36",
+            "id": "fbiq536",
+            "is_submitter": false,
+            "link_id": "t3_dgw9pl",
+            "parent_id": "t1_fbifejy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "stacksmasher"
+        },
+        "fbifejy": {
+            "comment": "...no? The FBI paid a known mobile forensics company to gain access. They didn't buy some exploit off the street from some shady guy wearing a hoodie.",
+            "timeStamp": "2019/12/20-19:37:03",
+            "id": "fbifejy",
+            "is_submitter": false,
+            "link_id": "t3_dgw9pl",
+            "parent_id": "t1_f3gbbpb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Penultimate_Push"
+        },
+        "f3onbcr": {
+            "comment": "Yeah, a lot of blend really when in the environment. By the time you notice them, they've already updated their ways.",
+            "timeStamp": "2019/10/13-20:09:44",
+            "id": "f3onbcr",
+            "is_submitter": false,
+            "link_id": "t3_dgw9pl",
+            "parent_id": "t1_f3fwws5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Xanster29"
+        },
+        "f3lb44e": {
+            "comment": "[removed]",
+            "timeStamp": "2019/10/13-06:44:04",
+            "id": "f3lb44e",
+            "is_submitter": false,
+            "link_id": "t3_dgw9pl",
+            "parent_id": "t1_f3fwws5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "f3gqihk": {
+            "comment": "[removed]",
+            "timeStamp": "2019/10/12-14:00:53",
+            "id": "f3gqihk",
+            "is_submitter": false,
+            "link_id": "t3_dgw9pl",
+            "parent_id": "t1_f3f9by8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "f3gbbpb": {
+            "comment": "Actually all the 3 letter agencies are involved in one way or another. Who do you think the FBI hired to crack the locked iPhones a few years ago. Its a very lucrative business.\n\n[https://www.engadget.com/2017/05/08/fbi-paid-900000-to-unlock-san-bernardino-iphone/](https://www.engadget.com/2017/05/08/fbi-paid-900000-to-unlock-san-bernardino-iphone/)",
+            "timeStamp": "2019/10/12-12:43:17",
+            "id": "f3gbbpb",
+            "is_submitter": false,
+            "link_id": "t3_dgw9pl",
+            "parent_id": "t1_f3fvnhp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "stacksmasher"
+        },
+        "f3fynnn": {
+            "comment": "&gt; rootkit dev stopped after Microsoft created Windows 8 -&gt; since then, its all usermode boring stuff.\n\nlol...",
+            "timeStamp": "2019/10/12-11:27:20",
+            "id": "f3fynnn",
+            "is_submitter": false,
+            "link_id": "t3_dgw9pl",
+            "parent_id": "t3_dgw9pl",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Shin_Ichi"
+        },
+        "f3fwws5": {
+            "comment": "Malware, for both cybercrime and nation-state actors, is all about completing an objective in the simplest way possible and getting the best ROI. \nSecurity is getting better and Windows is getting smarter. Why invest a ton of time and effort in a super sophisticated rootkits if credentials stealers and living off the land techniques do the trick?",
+            "timeStamp": "2019/10/12-11:13:40",
+            "id": "f3fwws5",
+            "is_submitter": false,
+            "link_id": "t3_dgw9pl",
+            "parent_id": "t3_dgw9pl",
+            "score": 1,
+            "stickied": false,
+            "author_name": "inb4_username"
+        },
+        "f3fvnhp": {
+            "comment": "Knock knock. FBI",
+            "timeStamp": "2019/10/12-11:03:53",
+            "id": "f3fvnhp",
+            "is_submitter": false,
+            "link_id": "t3_dgw9pl",
+            "parent_id": "t1_f3fndgz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "NetSecBoi9000"
+        },
+        "f3fstrb": {
+            "comment": "[removed]",
+            "timeStamp": "2019/10/12-10:41:15",
+            "id": "f3fstrb",
+            "is_submitter": false,
+            "link_id": "t3_dgw9pl",
+            "parent_id": "t1_f3f9by8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "f3fndgz": {
+            "comment": "Agree 100%. I was just talking about this the other day. Even browser exploits are dwindling. One fo the main reasons is exploits are worth a ton of money. I know dudes who make a living selling their 0-day's to the highest bidder. Sometimes its the Russians, sometimes the Israelis.",
+            "timeStamp": "2019/10/12-10:01:21",
+            "id": "f3fndgz",
+            "is_submitter": false,
+            "link_id": "t3_dgw9pl",
+            "parent_id": "t3_dgw9pl",
+            "score": 1,
+            "stickied": false,
+            "author_name": "stacksmasher"
+        },
+        "f3fn3ej": {
+            "comment": "A couple years back I programmed quite the bit of malware, it seems like more simple tools are the only thing now a days. I worked in Visual Basic and could do just about anything.",
+            "timeStamp": "2019/10/12-09:59:11",
+            "id": "f3fn3ej",
+            "is_submitter": false,
+            "link_id": "t3_dgw9pl",
+            "parent_id": "t3_dgw9pl",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MysticalTeamMember"
+        },
+        "f3fi7t1": {
+            "comment": "It is not necessary. Social Engineering and standard tools do the trick most of the time. Mimikatz to extract account data, TeamViewer for remote access ... These are the tools even used by state sponsored APT groups sometimes.",
+            "timeStamp": "2019/10/12-09:25:12",
+            "id": "f3fi7t1",
+            "is_submitter": false,
+            "link_id": "t3_dgw9pl",
+            "parent_id": "t3_dgw9pl",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mmorgens82"
+        },
+        "f3f9by8": {
+            "comment": "Patchguard is extremely effective",
+            "timeStamp": "2019/10/12-08:04:18",
+            "id": "f3f9by8",
+            "is_submitter": false,
+            "link_id": "t3_dgw9pl",
+            "parent_id": "t3_dgw9pl",
+            "score": 1,
+            "stickied": false,
+            "author_name": "edward_snowedin"
+        }
+    }
+}

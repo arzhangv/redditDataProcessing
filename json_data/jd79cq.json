@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hey, what precautions should I take in building a malware analysis lab in addition to using a non persistent VM?",
+        "title": "Building a lab",
+        "score": 1,
+        "id": "jd79cq",
+        "commsNum": 0,
+        "timeStamp": "2020/10/17-18:21:16",
+        "author_name": "gtrven",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/jd79cq/building_a_lab/"
+    },
+    "posts": {}
+}

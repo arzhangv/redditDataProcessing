@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "On Windows syscall mechanism and syscall numbers extraction methods",
+        "score": 2,
+        "id": "1xmap8",
+        "commsNum": 0,
+        "timeStamp": "2014/02/11-07:41:55",
+        "author_name": "evilsocket",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.evilsocket.net/2014/02/11/on-windows-syscall-mechanism-and-syscall-numbers-extraction-methods/#.UvpEucIH7oI.reddit"
+    },
+    "posts": {}
+}

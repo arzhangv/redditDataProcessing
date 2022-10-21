@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi guys\n\nI just started doing malware analysis. I got extremely interested after the teacher in my IT class spend some time explaining what malware is and such. \n\nSo, I have a few tools already like Fiddlr, Wireshark, Depends and Process Explorer.\n\nWhat other tools are useful to a malware researcher? \n\nThanks in advance guys. (and girls ;) )",
+        "title": "Tools used for malware analysis?",
+        "score": 11,
+        "id": "35lujy",
+        "commsNum": 13,
+        "timeStamp": "2015/05/11-08:52:22",
+        "author_name": "NekoJonez",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 13,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/35lujy/tools_used_for_malware_analysis/"
+    },
+    "posts": {}
+}

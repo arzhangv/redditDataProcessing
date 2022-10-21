@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I found this on my site and would like to know what it does. I'm having a hard time deobfuscating it and wonder if any of you would have a go. Here's the paste: http://pastebin.com/CVmkvMGM",
+        "title": "Anyone want to deobfuscate this php malware I found on a hacked site and tell me what it does?",
+        "score": 6,
+        "id": "vstfv",
+        "commsNum": 5,
+        "timeStamp": "2012/06/29-09:11:48",
+        "author_name": "halfpastzero",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": null,
+        "url": "http://www.reddit.com/r/Malware/comments/vstfv/anyone_want_to_deobfuscate_this_php_malware_i/"
+    },
+    "posts": {}
+}

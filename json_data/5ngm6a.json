@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "For VM testing purposes only.",
+        "title": "Anyone has a sample of Petya ransomware?",
+        "score": 16,
+        "id": "5ngm6a",
+        "commsNum": 4,
+        "timeStamp": "2017/01/11-18:17:32",
+        "author_name": "Rodri4G",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5ngm6a/anyone_has_a_sample_of_petya_ransomware/"
+    },
+    "posts": {}
+}

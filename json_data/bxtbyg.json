@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Baltimore City Ransomware Attack Expected to Cost $18 Million",
+        "score": 38,
+        "id": "bxtbyg",
+        "commsNum": 5,
+        "timeStamp": "2019/06/07-04:10:35",
+        "author_name": "SaneFive",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://beincrypto.com/baltimore-city-ransomware-attack-18-million/?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=hacking&amp;utm_content=sne"
+    },
+    "posts": {
+        "eqazjfw": {
+            "comment": "The cat is out of the bag already.  People and businesses pay all the time.  It\u2019s a risk to pay the ransom so that\u2019s a decision made by a well informed board using the assessment of teams on the ground.",
+            "timeStamp": "2019/06/07-14:24:31",
+            "id": "eqazjfw",
+            "is_submitter": false,
+            "link_id": "t3_bxtbyg",
+            "parent_id": "t1_eqayqqy",
+            "score": 3,
+            "stickied": false,
+            "author_name": "FOOLS_GOLD"
+        },
+        "eqayqqy": {
+            "comment": "If no one paid the ransom they wouldn't take the risk of getting caught.\n\nAlso you have absolutely no guarantee that someone holding your files hostage isn't going to just fuck you over when you hand over the ransom.",
+            "timeStamp": "2019/06/07-14:18:07",
+            "id": "eqayqqy",
+            "is_submitter": false,
+            "link_id": "t3_bxtbyg",
+            "parent_id": "t1_eqa8isu",
+            "score": 2,
+            "stickied": false,
+            "author_name": "frothface"
+        },
+        "eqa8isu": {
+            "comment": "The original ransom demand should have been paid.  That is a very small cost of learning an incredibly valuable less about information security.\n\nAll of my private clients pay the ransom unless they have proper backups in place.  Of course, if they did have backups, they wouldn\u2019t need me to help them identify point of origin and post breach threat hunting.",
+            "timeStamp": "2019/06/07-10:13:59",
+            "id": "eqa8isu",
+            "is_submitter": false,
+            "link_id": "t3_bxtbyg",
+            "parent_id": "t3_bxtbyg",
+            "score": 9,
+            "stickied": false,
+            "author_name": "FOOLS_GOLD"
+        },
+        "eqa119w": {
+            "comment": "I would not want to be in their shoes. Stuck between a rock and a hard place. Sure paying the ransom fee would\u2019ve been cheaper but who knows if they would have actually kept up their end of the bargain. I would say Baltimore is doing what they can but they didn\u2019t have much to start with.",
+            "timeStamp": "2019/06/07-08:50:20",
+            "id": "eqa119w",
+            "is_submitter": false,
+            "link_id": "t3_bxtbyg",
+            "parent_id": "t3_bxtbyg",
+            "score": 2,
+            "stickied": false,
+            "author_name": "sonnynomoney"
+        },
+        "eq9kivk": {
+            "comment": "/r/baltimore",
+            "timeStamp": "2019/06/07-05:21:24",
+            "id": "eq9kivk",
+            "is_submitter": false,
+            "link_id": "t3_bxtbyg",
+            "parent_id": "t3_bxtbyg",
+            "score": 4,
+            "stickied": false,
+            "author_name": "mraymond2028"
+        }
+    }
+}

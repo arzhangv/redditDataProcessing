@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "My parents called in panic - they had on screen what looked exactly like the WannaCry (Wanna Decrypt0r 2.0) with the \"payment will raise in..\" and everything... I thought they were hosed. I told them to reboot, and they did. Windows came up normally and all of their PDF, DOC etc. files remained accessible. I had them run all windows updates and then malwarebytes. \n\nSo what happened??",
+        "title": "Is the WannCry malware being spoofed? I thought my parents had it!",
+        "score": 12,
+        "id": "6biltl",
+        "commsNum": 7,
+        "timeStamp": "2017/05/16-09:43:00",
+        "author_name": "Mound",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6biltl/is_the_wanncry_malware_being_spoofed_i_thought_my/"
+    },
+    "posts": {}
+}

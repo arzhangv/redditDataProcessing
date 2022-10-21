@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "In Depth Malware Analysis: OSX/Shlayer new Shurprise.. unveiling OSX/Tarmac",
+        "score": 1,
+        "id": "d9warg",
+        "commsNum": 0,
+        "timeStamp": "2019/09/26-23:15:05",
+        "author_name": "lordx86",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://blog.confiant.com/osx-shlayer-new-shurprise-unveiling-osx-tarmac-f965a32de887"
+    },
+    "posts": {}
+}

@@ -1,0 +1,154 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "i have a server that lives in my kitchen. It's connected to the Internet, and I run [endlessh](https://nullprogram.com/blog/2019/03/22/) SSH tarpit on it. Here's how scanners interact with endlessh.\n\n[https://github.com/bediger4000/ssh-tarpit-behavior](https://github.com/bediger4000/ssh-tarpit-behavior)",
+        "title": "What SSH scanners do when you run a tarpit",
+        "score": 1,
+        "id": "f0c11z",
+        "commsNum": 12,
+        "timeStamp": "2020/02/07-07:32:00",
+        "author_name": "bediger4000",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 12,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/f0c11z/what_ssh_scanners_do_when_you_run_a_tarpit/"
+    },
+    "posts": {
+        "fgy85dl": {
+            "comment": "Just restricting KexAlgorithms, HostKeyAlgorithms and MACs to safer values is enough for me, most bots use rather old algorithms and they get dropped early because of it.",
+            "timeStamp": "2020/02/08-08:48:18",
+            "id": "fgy85dl",
+            "is_submitter": false,
+            "link_id": "t3_f0c11z",
+            "parent_id": "t3_f0c11z",
+            "score": 1,
+            "stickied": false,
+            "author_name": "m8r-1975wk"
+        },
+        "fgy7ziq": {
+            "comment": "[removed]",
+            "timeStamp": "2020/02/08-08:47:27",
+            "id": "fgy7ziq",
+            "is_submitter": false,
+            "link_id": "t3_f0c11z",
+            "parent_id": "t3_f0c11z",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fgxfkq1": {
+            "comment": "Agreed, but I've seen an unprotected key lead to some pretty bad things\u2122.",
+            "timeStamp": "2020/02/08-06:31:46",
+            "id": "fgxfkq1",
+            "is_submitter": false,
+            "link_id": "t3_f0c11z",
+            "parent_id": "t1_fgw979o",
+            "score": 1,
+            "stickied": false,
+            "author_name": "funky_munkey"
+        },
+        "fgw979o": {
+            "comment": "Yeah, I assumed that to be part of the pubkey step..",
+            "timeStamp": "2020/02/08-02:41:07",
+            "id": "fgw979o",
+            "is_submitter": false,
+            "link_id": "t3_f0c11z",
+            "parent_id": "t1_fgw76s8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ButItMightJustWork"
+        },
+        "fgw76s8": {
+            "comment": "Step 2a: make sure you set a good password on your keys.",
+            "timeStamp": "2020/02/08-02:28:43",
+            "id": "fgw76s8",
+            "is_submitter": false,
+            "link_id": "t3_f0c11z",
+            "parent_id": "t1_fgt28fv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "funky_munkey"
+        },
+        "fguvqi8": {
+            "comment": "[deleted]",
+            "timeStamp": "2020/02/07-18:55:03",
+            "id": "fguvqi8",
+            "is_submitter": false,
+            "link_id": "t3_f0c11z",
+            "parent_id": "t1_fguvit2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fguvjtq": {
+            "comment": "I didn't think of that. To be completely honest, I also think that if I can, I have a duty to mess with things like ssh scanners, or word press password guessers, or \"Visa Mastercard Account Services\" phone calls. If we all messed with them, doing the bottom feeding would be unprofitable or so unpleasant they'd quit;",
+            "timeStamp": "2020/02/07-18:53:03",
+            "id": "fguvjtq",
+            "is_submitter": true,
+            "link_id": "t3_f0c11z",
+            "parent_id": "t1_fguqdqn",
+            "score": 1,
+            "stickied": false,
+            "author_name": "bediger4000"
+        },
+        "fguvit2": {
+            "comment": "Its possible to session ride if someone else has admin on the box, even with a key.",
+            "timeStamp": "2020/02/07-18:52:46",
+            "id": "fguvit2",
+            "is_submitter": false,
+            "link_id": "t3_f0c11z",
+            "parent_id": "t1_fguqdqn",
+            "score": 0,
+            "stickied": false,
+            "author_name": "wefa237"
+        },
+        "fguqdqn": {
+            "comment": "Why not just put a passphrase on the key too?",
+            "timeStamp": "2020/02/07-17:56:51",
+            "id": "fguqdqn",
+            "is_submitter": false,
+            "link_id": "t3_f0c11z",
+            "parent_id": "t1_fgunxg4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "silverfox17"
+        },
+        "fgunxg4": {
+            "comment": "You make good points. I realized that if I put PK authorization only on my ssh server, I'd have to put one of my keys on a work computer at least sometimes - I keep a large number of code examples on my server, and I will visit for those at least weekly. I didn't want my employers, who had extra-lax ideas about security, to have access to my key. And I found the scanner/guessing to swamp systemd journals that I do occasionally check. Hence the use of endlessh. I did run cowrie before that, but it tended to use up all available disk space.",
+            "timeStamp": "2020/02/07-17:30:03",
+            "id": "fgunxg4",
+            "is_submitter": true,
+            "link_id": "t3_f0c11z",
+            "parent_id": "t1_fgt28fv",
+            "score": 2,
+            "stickied": false,
+            "author_name": "bediger4000"
+        },
+        "fgt4eo0": {
+            "comment": "Nobody asked.",
+            "timeStamp": "2020/02/07-10:06:57",
+            "id": "fgt4eo0",
+            "is_submitter": false,
+            "link_id": "t3_f0c11z",
+            "parent_id": "t3_f0c11z",
+            "score": 1,
+            "stickied": false,
+            "author_name": "splice42"
+        },
+        "fgt28fv": {
+            "comment": "Step 1: enable pubkey auth\n\nStep 2: disable password auth\n\nStep 3: stop worrying about bruteforce attempts\n\nStep 4: ???\n\nStep 5: profit",
+            "timeStamp": "2020/02/07-09:45:17",
+            "id": "fgt28fv",
+            "is_submitter": false,
+            "link_id": "t3_f0c11z",
+            "parent_id": "t3_f0c11z",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ButItMightJustWork"
+        }
+    }
+}

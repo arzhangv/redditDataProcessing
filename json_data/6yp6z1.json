@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Tips for Reverse-Engineering Malicious Code (Updated)",
+        "score": 1,
+        "id": "6yp6z1",
+        "commsNum": 0,
+        "timeStamp": "2017/09/07-11:42:59",
+        "author_name": "mikiozen",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://zeltser.com/reverse-engineering-malicious-code-tips/"
+    },
+    "posts": {}
+}

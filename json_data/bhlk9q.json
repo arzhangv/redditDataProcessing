@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Astra overview, an attack panel used by FIN7",
+        "score": 3,
+        "id": "bhlk9q",
+        "commsNum": 1,
+        "timeStamp": "2019/04/26-05:09:15",
+        "author_name": "sysopfb",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.flashpoint-intel.com/blog/fin7-revisited-inside-astra-panel-and-sqlrat-malware/"
+    },
+    "posts": {
+        "elyc5rz": {
+            "comment": "Word -&gt; vba -&gt; schedtasks. Stealthy. No child processes to alert on and it gives persistence. \n\nMay wanna hunt for word loading tasksched.dll",
+            "timeStamp": "2019/04/27-18:50:39",
+            "id": "elyc5rz",
+            "is_submitter": false,
+            "link_id": "t3_bhlk9q",
+            "parent_id": "t3_bhlk9q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "thehoodedidiot"
+        }
+    }
+}

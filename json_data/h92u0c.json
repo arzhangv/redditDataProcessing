@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": 0.72,
+        "selftext": "I received a file sample which is packed using VMP (cracked version, hence detected) and upon analysis I found out it opens the Kernel Security Device Driver KsecDD. As far as I'm concerned, it should be no security issue. I've googled various things regarding this and could not really find any useful information. The application does nothing else suspicious so with this being the only thing that got my attention, what do you guys think? I somehow suspect it's something that VMP does. Confirmed malware samples which I analyzed before always had some more suspicious actions.",
+        "title": "VMP protected file opening KsecDD",
+        "score": 3,
+        "id": "h92u0c",
+        "commsNum": 3,
+        "timeStamp": "2020/06/14-15:06:17",
+        "author_name": "flurreeh",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/h92u0c/vmp_protected_file_opening_ksecdd/"
+    },
+    "posts": {
+        "fuuhqni": {
+            "comment": "After diffing the VM image with a clean snapshot it definitely seems to be fine. I also found an analysis on hybrid-analysis which does not look too bad either.\n\nSince I figured it doesn't really matter what software it is, here is a link, just in case you're interested: https://www.hybrid-analysis.com/sample/77656e2674c65f8d742d4ca3be5d82a7d0e7f422457e983e438a6e0d150df1f6/5e7b3f50d056063c5c783441",
+            "timeStamp": "2020/06/14-16:14:51",
+            "id": "fuuhqni",
+            "is_submitter": true,
+            "link_id": "t3_h92u0c",
+            "parent_id": "t1_fuue9rn",
+            "score": 1,
+            "stickied": false,
+            "author_name": "flurreeh"
+        },
+        "fuuendq": {
+            "comment": "I don't really know - it's my assumption based my analysis inside a VM. No outgoing network connections, no system files which are being manipulated, no registry entries being manipulated, no additional processes being created etc..\n\nAlso, the application itself seems to work fine. I'm not going to go into much detail as I've received the file from a friend of mine who wanted me to check it out but so far it seems to be perfectly fine.",
+            "timeStamp": "2020/06/14-15:46:07",
+            "id": "fuuendq",
+            "is_submitter": true,
+            "link_id": "t3_h92u0c",
+            "parent_id": "t1_fuue9rn",
+            "score": 1,
+            "stickied": false,
+            "author_name": "flurreeh"
+        },
+        "fuue9rn": {
+            "comment": "How do you know it doesn\u2019t do anything suspicious ?",
+            "timeStamp": "2020/06/14-15:42:35",
+            "id": "fuue9rn",
+            "is_submitter": false,
+            "link_id": "t3_h92u0c",
+            "parent_id": "t3_h92u0c",
+            "score": 1,
+            "stickied": false,
+            "author_name": "edward_snowedin"
+        }
+    }
+}

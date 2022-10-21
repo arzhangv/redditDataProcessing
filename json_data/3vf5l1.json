@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "CryptoWall tooling / information",
+        "score": 13,
+        "id": "3vf5l1",
+        "commsNum": 0,
+        "timeStamp": "2015/12/04-06:47:53",
+        "author_name": "Maijin",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://github.com/0x3a/cryptowall"
+    },
+    "posts": {}
+}

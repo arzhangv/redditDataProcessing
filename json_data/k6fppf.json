@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "In windows, there are a lot of good tools for rootkit detection, for example PChunter which is the best one in my opinion, it shows all the kernel modules and suspicious ones and callbacks and services and..\n\n&amp;#x200B;\n\nso what is the best tool in linux that can come close to this? best rootkit/malware detection tool in linux that can forensic investigators find rootkits in Linux?",
+        "title": "looking for any forensic tool like PChunter for linux in 2020 for rootkit detection",
+        "score": 1,
+        "id": "k6fppf",
+        "commsNum": 3,
+        "timeStamp": "2020/12/03-22:42:49",
+        "author_name": "BitDrill",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/k6fppf/looking_for_any_forensic_tool_like_pchunter_for/"
+    },
+    "posts": {
+        "gel2hee": {
+            "comment": "Theres are linux plugins for volatility that are great for rootkit hunting if you can get a memory dump. Wont lie though depending on the kernel getting the correct profile (dwarf dump ,+ map) etc can be annoying and time consuming even with lime.",
+            "timeStamp": "2020/12/04-03:23:40",
+            "id": "gel2hee",
+            "is_submitter": false,
+            "link_id": "t3_k6fppf",
+            "parent_id": "t3_k6fppf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "concmap"
+        },
+        "gekwyia": {
+            "comment": "[removed]",
+            "timeStamp": "2020/12/04-01:58:02",
+            "id": "gekwyia",
+            "is_submitter": false,
+            "link_id": "t3_k6fppf",
+            "parent_id": "t3_k6fppf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "gekr3u5": {
+            "comment": "Rkhunter is an autorun tool for linux",
+            "timeStamp": "2020/12/04-00:19:47",
+            "id": "gekr3u5",
+            "is_submitter": false,
+            "link_id": "t3_k6fppf",
+            "parent_id": "t3_k6fppf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "HurricaneHandjob"
+        }
+    }
+}

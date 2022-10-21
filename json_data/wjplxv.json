@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Chinese hackers use new Windows malware to backdoor govt, defense orgs",
+        "score": 1,
+        "id": "wjplxv",
+        "commsNum": 0,
+        "timeStamp": "2022/08/08-17:59:17",
+        "author_name": "Late_Ice_9288",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-new-windows-malware-to-backdoor-govt-defense-orgs/"
+    },
+    "posts": {
+        "ijn1ioh": {
+            "comment": "Why wouldn't we? Their research is quite good.\n\nBe aware of their bias but don't dismiss them.",
+            "timeStamp": "2022/08/09-15:08:57",
+            "id": "ijn1ioh",
+            "is_submitter": false,
+            "link_id": "t3_wjplxv",
+            "parent_id": "t1_ijmw5ru",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ogtfo"
+        },
+        "ijmw5ru": {
+            "comment": "Are we still listening to kaspersky?",
+            "timeStamp": "2022/08/09-14:33:03",
+            "id": "ijmw5ru",
+            "is_submitter": false,
+            "link_id": "t3_wjplxv",
+            "parent_id": "t3_wjplxv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "uhospaghetto"
+        }
+    }
+}

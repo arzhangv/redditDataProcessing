@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Researcher discloses Local Privilege Escalation Flaw in Apple Mac OS X",
+        "score": 1,
+        "id": "3eauzy",
+        "commsNum": 0,
+        "timeStamp": "2015/07/23-01:23:43",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/38788/security/mac-os-x-lpe.html"
+    },
+    "posts": {}
+}

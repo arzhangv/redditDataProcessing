@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Humble Book Bundle: Hacking 2.0",
+        "score": 32,
+        "id": "bwzjrz",
+        "commsNum": 5,
+        "timeStamp": "2019/06/04-23:42:53",
+        "author_name": "fattsdomino",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.humblebundle.com/books/hacking-no-starch-press-books?hmb_source=humble_home&amp;hmb_medium=product_tile&amp;hmb_campaign=mosaic_section_1_layout_index_1_layout_type_twos_tile_index_2_c_hackingnostarchpress_bookbundle"
+    },
+    "posts": {
+        "eq4w3h6": {
+            "comment": "Good on ya. Apparently the 50% is off POC or GTFO 1 &amp; 2 which have great reviews on amazon.",
+            "timeStamp": "2019/06/05-19:16:04",
+            "id": "eq4w3h6",
+            "is_submitter": true,
+            "link_id": "t3_bwzjrz",
+            "parent_id": "t1_eq4uoex",
+            "score": 1,
+            "stickied": false,
+            "author_name": "fattsdomino"
+        },
+        "eq4vnng": {
+            "comment": "They're worth it my imo and most the books alone would cost more than $15. A few are much older but great reads even if outdated",
+            "timeStamp": "2019/06/05-19:10:35",
+            "id": "eq4vnng",
+            "is_submitter": false,
+            "link_id": "t3_bwzjrz",
+            "parent_id": "t1_eq4uoex",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sootoor"
+        },
+        "eq4uoex": {
+            "comment": "True, went ahead and bought it. They had one a while back that only really had one book that I wanted and it was in the $15 tier.",
+            "timeStamp": "2019/06/05-18:59:25",
+            "id": "eq4uoex",
+            "is_submitter": false,
+            "link_id": "t3_bwzjrz",
+            "parent_id": "t1_eq4qvdh",
+            "score": 2,
+            "stickied": false,
+            "author_name": "sr_crypsis"
+        },
+        "eq4qvdh": {
+            "comment": "Haven\u2019t read any of them, so can\u2019t comment on that. But I can\u2019t imagine a case where spending at minimal $15.00 for 14 eBooks + 50% coupon would ever not be worth it.\n\nHonestly, even if the books suck, the money is going to one good organization and one ehhh organization.",
+            "timeStamp": "2019/06/05-18:10:44",
+            "id": "eq4qvdh",
+            "is_submitter": true,
+            "link_id": "t3_bwzjrz",
+            "parent_id": "t1_eq4nqf8",
+            "score": 2,
+            "stickied": false,
+            "author_name": "fattsdomino"
+        },
+        "eq4nqf8": {
+            "comment": "A lot of the titles look really interesting and very relevant to what I want to learn. Has anyone read any of these? If so is it worth it?",
+            "timeStamp": "2019/06/05-17:30:17",
+            "id": "eq4nqf8",
+            "is_submitter": false,
+            "link_id": "t3_bwzjrz",
+            "parent_id": "t3_bwzjrz",
+            "score": 2,
+            "stickied": false,
+            "author_name": "sr_crypsis"
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Just a reminder that it doesn\u2019t take much work to take a sample from 30/40 detections, to 0/40.\n\nExplanation:  \nI took a ransomware sample I wrote 6 years ago, and broke it down into bytes, compressed the bytes with gzip, and converted those bytes to a string. (Base64 encoding is 5/40 detected, so I had to use another transport-safe encoding scheme) Host program takes that string and reverses it back to bytes and runs the bytes in memory.\n\nIt\u2019s that simple folks, remember to always crosscheck hashes, and do your own analysis on new files.\n\nAny questions are welcome.",
+        "title": "All major Antivirus\u2019 are still easily defeated.",
+        "score": 1,
+        "id": "t1qtm3",
+        "commsNum": 4,
+        "timeStamp": "2022/02/25-23:02:39",
+        "author_name": "MysticalTeamMember",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/t1qtm3/all_major_antivirus_are_still_easily_defeated/"
+    },
+    "posts": {
+        "hyhqtm8": {
+            "comment": "[removed]",
+            "timeStamp": "2022/02/26-00:13:32",
+            "id": "hyhqtm8",
+            "is_submitter": false,
+            "link_id": "t3_t1qtm3",
+            "parent_id": "t3_t1qtm3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hyhpnx0": {
+            "comment": "Did the file actually execute and succeed in encrypting the machines?",
+            "timeStamp": "2022/02/25-23:59:00",
+            "id": "hyhpnx0",
+            "is_submitter": false,
+            "link_id": "t3_t1qtm3",
+            "parent_id": "t3_t1qtm3",
+            "score": 5,
+            "stickied": false,
+            "author_name": "canofspam2020"
+        },
+        "hyhoe5e": {
+            "comment": "[removed]",
+            "timeStamp": "2022/02/25-23:43:25",
+            "id": "hyhoe5e",
+            "is_submitter": false,
+            "link_id": "t3_t1qtm3",
+            "parent_id": "t3_t1qtm3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hyhmisg": {
+            "comment": "Heh, 2000s says hello with ancient ideas. \n\nTry to execute that sample, you might be surprised. AV scanners are just for naming things. It\u2019s the behavior and cloud based analysis that provide protection.",
+            "timeStamp": "2022/02/25-23:20:51",
+            "id": "hyhmisg",
+            "is_submitter": false,
+            "link_id": "t3_t1qtm3",
+            "parent_id": "t3_t1qtm3",
+            "score": 15,
+            "stickied": false,
+            "author_name": "4745454B"
+        }
+    }
+}

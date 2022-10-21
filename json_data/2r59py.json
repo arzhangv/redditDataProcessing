@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Basically got 4 levels of protection on my sandbox machine (OpenDNS Umbrella, ESET Smart Security, Malwarebytes Anti-Malware, Malwarebytes Anti-Exploit), \n\nstill didn't get caught/was able to browse all the way to the PDF File\n\nCLICK AT YOUR OWN RISK!!\n\nI'm just posting it in here in case someone smarter than me would like to do further analysis on it\n\nSubject of the email was \"check this\". Body of the email wants you to check out a \"google document\" here:\n\nhttp://www.wedolights4u.com/lights_files/doc/document.php",
+        "title": "Bad Link/PDF not getting flagged",
+        "score": 4,
+        "id": "2r59py",
+        "commsNum": 9,
+        "timeStamp": "2015/01/02-14:50:34",
+        "author_name": "Flippidy",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 9,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2r59py/bad_linkpdf_not_getting_flagged/"
+    },
+    "posts": {}
+}

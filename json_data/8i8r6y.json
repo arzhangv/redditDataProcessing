@@ -1,0 +1,176 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I have used this website for a very long time and it goes up and down (sometimes raids ) and it came back up about 3 weeks ago after being down for about a month. I have been trying to download virus and the links work up-to the actual file download. Does anyone know anything that is going on with the hosts? Or if there is another mirror? If so please leave a reply. ",
+        "title": "VX Heaven Download Broken.",
+        "score": 6,
+        "id": "8i8r6y",
+        "commsNum": 14,
+        "timeStamp": "2018/05/09-12:32:37",
+        "author_name": "ieatolio",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 14,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8i8r6y/vx_heaven_download_broken/"
+    },
+    "posts": {
+        "e36kjx9": {
+            "comment": "Awesome! ",
+            "timeStamp": "2018/07/28-05:13:59",
+            "id": "e36kjx9",
+            "is_submitter": false,
+            "link_id": "t3_8i8r6y",
+            "parent_id": "t1_e36hvl5",
+            "score": 2,
+            "stickied": false,
+            "author_name": "guitmz"
+        },
+        "e36hvl5": {
+            "comment": "Just thought id mention i got docker going, i remembered i had a free windows 10 education key lying around and just upgraded and installed docker to host the mirror, and found a torrent for the virus archive. \nThanks for the help!",
+            "timeStamp": "2018/07/28-03:45:57",
+            "id": "e36hvl5",
+            "is_submitter": false,
+            "link_id": "t3_8i8r6y",
+            "parent_id": "t1_e36fsm9",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Ben--Cousins"
+        },
+        "e36gkqo": {
+            "comment": "okay cheers heaps. ill try have a tinker with one of those tonight.",
+            "timeStamp": "2018/07/28-02:55:21",
+            "id": "e36gkqo",
+            "is_submitter": false,
+            "link_id": "t3_8i8r6y",
+            "parent_id": "t1_e36fsm9",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Ben--Cousins"
+        },
+        "e36fsm9": {
+            "comment": "Just get apache or nginx webserver, both are free and the most used around ",
+            "timeStamp": "2018/07/28-02:24:17",
+            "id": "e36fsm9",
+            "is_submitter": false,
+            "link_id": "t3_8i8r6y",
+            "parent_id": "t1_e36fqbt",
+            "score": 2,
+            "stickied": false,
+            "author_name": "guitmz"
+        },
+        "e36fqbt": {
+            "comment": "okay, thanks very much. i don't have a webserver, so unless i can get a free software equivalent or something im out of luck. if i end up sussing that out, i might PM you for some help. \n\nthanks for your time anyway!",
+            "timeStamp": "2018/07/28-02:21:48",
+            "id": "e36fqbt",
+            "is_submitter": false,
+            "link_id": "t3_8i8r6y",
+            "parent_id": "t1_e36fjyk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Ben--Cousins"
+        },
+        "e36fjyk": {
+            "comment": "Cant help you at the moment but pm me and I can try to give you some basic instructions.. but basically you need the files from the link I posted + a webserver",
+            "timeStamp": "2018/07/28-02:14:43",
+            "id": "e36fjyk",
+            "is_submitter": false,
+            "link_id": "t3_8i8r6y",
+            "parent_id": "t1_e36f8uq",
+            "score": 2,
+            "stickied": false,
+            "author_name": "guitmz"
+        },
+        "e36f8uq": {
+            "comment": "ah okay, i'm not entirely sure how i would go about that. Do you know any guides to do so? \n\nall good if not, i can try find a resource out there somewhere.",
+            "timeStamp": "2018/07/28-02:02:47",
+            "id": "e36f8uq",
+            "is_submitter": false,
+            "link_id": "t3_8i8r6y",
+            "parent_id": "t1_e36eo40",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Ben--Cousins"
+        },
+        "e36eo40": {
+            "comment": "You can reproduce the steps that the dockerfile does in your machine, adapting for windows",
+            "timeStamp": "2018/07/28-01:40:55",
+            "id": "e36eo40",
+            "is_submitter": false,
+            "link_id": "t3_8i8r6y",
+            "parent_id": "t1_e36empx",
+            "score": 2,
+            "stickied": false,
+            "author_name": "guitmz"
+        },
+        "e36empx": {
+            "comment": "is the only way to run this mirror through docker? or can i use docker tools (im not running win 10 pro or enterprise)",
+            "timeStamp": "2018/07/28-01:39:31",
+            "id": "e36empx",
+            "is_submitter": false,
+            "link_id": "t3_8i8r6y",
+            "parent_id": "t1_dyq4ofi",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Ben--Cousins"
+        },
+        "dzmutm1": {
+            "comment": "It doesn't work for me.",
+            "timeStamp": "2018/05/26-17:09:03",
+            "id": "dzmutm1",
+            "is_submitter": false,
+            "link_id": "t3_8i8r6y",
+            "parent_id": "t1_dyq4ofi",
+            "score": 1,
+            "stickied": false,
+            "author_name": "greenmario47"
+        },
+        "dz82g5q": {
+            "comment": "Thank you, I've been very concerned about what's happened to the site and possibly to the admins too. Godspeed Hermit1! Wherever you are... :\\(",
+            "timeStamp": "2018/05/18-21:32:44",
+            "id": "dz82g5q",
+            "is_submitter": false,
+            "link_id": "t3_8i8r6y",
+            "parent_id": "t3_8i8r6y",
+            "score": 2,
+            "stickied": false,
+            "author_name": "mephistolist"
+        },
+        "dyqak9g": {
+            "comment": "I\u2019m setting it all up in a Linux environment.",
+            "timeStamp": "2018/05/09-17:36:02",
+            "id": "dyqak9g",
+            "is_submitter": true,
+            "link_id": "t3_8i8r6y",
+            "parent_id": "t1_dyq4ofi",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ieatolio"
+        },
+        "dyq729i": {
+            "comment": "Thank You.",
+            "timeStamp": "2018/05/09-16:33:52",
+            "id": "dyq729i",
+            "is_submitter": true,
+            "link_id": "t3_8i8r6y",
+            "parent_id": "t1_dyq4ofi",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ieatolio"
+        },
+        "dyq4ofi": {
+            "comment": "Haven't had a reply from the admins. I'm very active there and still have no idea what's going on as they don't reply. Anyway, there is a github mirror here https://github.com/opsxcq/mirror-vxheaven.org",
+            "timeStamp": "2018/05/09-15:47:46",
+            "id": "dyq4ofi",
+            "is_submitter": false,
+            "link_id": "t3_8i8r6y",
+            "parent_id": "t3_8i8r6y",
+            "score": 4,
+            "stickied": false,
+            "author_name": "guitmz"
+        }
+    }
+}

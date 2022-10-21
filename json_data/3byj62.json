@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "who can access to virustotal i need this sample?",
+        "score": 1,
+        "id": "3byj62",
+        "commsNum": 0,
+        "timeStamp": "2015/07/02-22:14:27",
+        "author_name": "[deleted]",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.virustotal.com/en/file/7ba09403e9d7122a20fa510de11f7809822e6e11efb164414e2148b762cf4e75/analysis/"
+    },
+    "posts": {}
+}

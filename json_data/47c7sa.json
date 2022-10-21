@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "How do you guys protect yourself and your clients against ransomware? \n\nMy client has a robust backup solution, which is time consuming, but makes it easy enough to recover from an infection. We've also created custom Powershell scripts which crawl user drives and profiles for unwanted .exe files every 30 minutes, which helps flag files that our useless anti-virus software fails to quarantine.\n\nIt seems impractical to manually block the payload sources, looking at Locky alone there are a multitude of domains which you'd have to block. There are 14 referenced in these 2 articles alone:\n\n&gt;https://blogs.forcepoint.com/security-labs/locky-ransomware-encrypts-documents-databases-code-bitcoin-wallets-and-more\n\n&gt;https://www.proofpoint.com/us/threat-insight/post/Dridex-Actors-Get-In-the-Ransomware-Game-With-Locky\n\nWe have 3rd party email security, and Outlook will block all .exe and .js attachments, but someone in our user base will be stupid enough to open a .doc and allow macros.\n\nWhat else can be done?",
+        "title": "Preventative measures against Ransomware and Locky?",
+        "score": 3,
+        "id": "47c7sa",
+        "commsNum": 21,
+        "timeStamp": "2016/02/24-03:49:53",
+        "author_name": "zedfox",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 21,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/47c7sa/preventative_measures_against_ransomware_and_locky/"
+    },
+    "posts": {}
+}

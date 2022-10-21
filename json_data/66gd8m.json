@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hello, i was asked by a \"friends friend\" to join a teamspeak 3 server to play a game with some guys. When I tried joining, an error message appeared saying\n\n\"Driver error! To join this server Realtek audio adapter is required. You can download it from the official teamspeak website here: http://teamspeakofficial.com\n\nI immediately got wary, the message trying to comfort people saying its an official TS website, also I've never had to download anything to join a server. When you click on the link you don't go to the homepage of the webstie, it immediately redirects you to a \"downloads\" pae and with links to the \"realtek audio driver mirror\".\n\nSo I searched about the website on various \"safe check\" websites. Those said that the server is 1 day old and from Russia.\n\nAny curious people that want to analyse the file you can download there and the website?\n\nAlso the TS3 server is 188.226.145.21:9987\n",
+        "title": "Beware: Shady websites through TS3 \"Host Message\", malware?",
+        "score": 8,
+        "id": "66gd8m",
+        "commsNum": 3,
+        "timeStamp": "2017/04/20-01:12:10",
+        "author_name": "Spawnisen",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/66gd8m/beware_shady_websites_through_ts3_host_message/"
+    },
+    "posts": {}
+}

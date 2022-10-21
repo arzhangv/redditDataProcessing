@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": " \n\nOne day, it randomly blocked cmd for the reason Exploit Payload process blocked. I have not opened excel. Sometimes, it randomly pops up. Can anyone help me?\n\n\\-Exploit Details-\n\nFile: 0\n\n(No malicious items detected)\n\nExploit: 1\n\nMalware.Exploit.Agent.Generic, C:\\\\Windows\\\\System32\\\\WindowsPowerShell\\\\v1.0\\\\powershell.exe powershell Get-PhysicalDisk | Select MediaType | ft -HideTableHeaders, Blocked, 0, 392684, 0.0.0, ,\n\n\\-Exploit Data-\n\nAffected Application: cmd\n\nProtection Layer: Application Behavior Protection\n\nProtection Technique: Exploit payload process blocked\n\nFile Name: C:\\\\Windows\\\\System32\\\\WindowsPowerShell\\\\v1.0\\\\powershell.exe powershell Get-PhysicalDisk | Select MediaType | ft -HideTableHeaders",
+        "title": "Malwarebytes blocking cmd for something.",
+        "score": 1,
+        "id": "s756xh",
+        "commsNum": 0,
+        "timeStamp": "2022/01/18-11:10:39",
+        "author_name": "640x480gamer",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/s756xh/malwarebytes_blocking_cmd_for_something/"
+    },
+    "posts": {
+        "ht7sng1": {
+            "comment": "This is a place for malware reports and information. This is NOT a place for help with malware removal or various other end-user questions.\n\nPlease redirect questions related to malware removal to /r/antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware",
+            "timeStamp": "2022/01/18-11:29:21",
+            "id": "ht7sng1",
+            "is_submitter": false,
+            "link_id": "t3_s756xh",
+            "parent_id": "t3_s756xh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "punkonjunk"
+        }
+    }
+}

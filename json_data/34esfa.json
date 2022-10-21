@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I was analyzing some samples I got from a friend and most of them tried to communicate with Symantec's certificates servers and some servers under Microsoft's domain that are all related somehow to Crypto. What are they trying to do exactly? I'm guessing that they're fetching something that should help them decrypt the malware itself but why does it have to pass through legitimate servers?",
+        "title": "Why packers/downloaders are contacting legitimate websites prior actual infection?",
+        "score": 2,
+        "id": "34esfa",
+        "commsNum": 12,
+        "timeStamp": "2015/04/30-08:34:22",
+        "author_name": "eran-",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 12,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/34esfa/why_packersdownloaders_are_contacting_legitimate/"
+    },
+    "posts": {}
+}

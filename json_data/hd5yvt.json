@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "After downloading and installing this emulator, I've had multiple security breaches on my laptop, Gmail, Facebook, PayPal. I just had 2 u authorized charges for Facebook ads. Does anyone know anything about this application?",
+        "title": "Koplayerpc.com",
+        "score": 1,
+        "id": "hd5yvt",
+        "commsNum": 4,
+        "timeStamp": "2020/06/21-05:13:29",
+        "author_name": "lcky213",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/hd5yvt/koplayerpccom/"
+    },
+    "posts": {
+        "fvl1d0q": {
+            "comment": "Don't be such a dumbass.",
+            "timeStamp": "2020/06/21-16:17:07",
+            "id": "fvl1d0q",
+            "is_submitter": false,
+            "link_id": "t3_hd5yvt",
+            "parent_id": "t1_fvjioln",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RamboBoujee"
+        },
+        "fvjok0o": {
+            "comment": "Grabify.com",
+            "timeStamp": "2020/06/21-08:47:23",
+            "id": "fvjok0o",
+            "is_submitter": false,
+            "link_id": "t3_hd5yvt",
+            "parent_id": "t1_fvjioln",
+            "score": 1,
+            "stickied": false,
+            "author_name": "hunterrocks77"
+        },
+        "fvjioln": {
+            "comment": "I am closely monitoring all accounts and have 2fa enabled where possible, credit. Monitoring etc. What can we do to take these assholes out?",
+            "timeStamp": "2020/06/21-07:49:03",
+            "id": "fvjioln",
+            "is_submitter": true,
+            "link_id": "t3_hd5yvt",
+            "parent_id": "t1_fvjeuzs",
+            "score": 1,
+            "stickied": false,
+            "author_name": "lcky213"
+        },
+        "fvjeuzs": {
+            "comment": "The emulators it claims to offer are served by cdndownloadapr.com which is a [known malware distribution](https://www.bleepingcomputer.com/news/security/site-promoting-keepass-password-manager-pushes-malware/) site. You should hit up /r/techsupport for advice.",
+            "timeStamp": "2020/06/21-07:08:10",
+            "id": "fvjeuzs",
+            "is_submitter": false,
+            "link_id": "t3_hd5yvt",
+            "parent_id": "t3_hd5yvt",
+            "score": 1,
+            "stickied": false,
+            "author_name": "testudobinarii"
+        }
+    }
+}

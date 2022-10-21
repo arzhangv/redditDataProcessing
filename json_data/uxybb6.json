@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Is there a way to recover my files that were affected by ransomware? Based on the test I did, it was a djvu one, and my files had nuzz as its extension. I tried using emisoft decryptor, and it said that this ID appears to be an online ID, decryption is impossible.",
+        "title": "Ransomware",
+        "score": 1,
+        "id": "uxybb6",
+        "commsNum": 0,
+        "timeStamp": "2022/05/25-20:17:45",
+        "author_name": "abcdlol12345",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/uxybb6/ransomware/"
+    },
+    "posts": {
+        "iap74yw": {
+            "comment": "Sorry, but if the ID doesn't end with \"t1\" and you do not have a backup, you have to say \"bye bye\" to your files.",
+            "timeStamp": "2022/05/31-12:46:27",
+            "id": "iap74yw",
+            "is_submitter": false,
+            "link_id": "t3_uxybb6",
+            "parent_id": "t3_uxybb6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Ondrashek06"
+        },
+        "iaept8s": {
+            "comment": "it's at the very bottom of the decryption tools list.",
+            "timeStamp": "2022/05/29-02:08:18",
+            "id": "iaept8s",
+            "is_submitter": false,
+            "link_id": "t3_uxybb6",
+            "parent_id": "t1_ia182ad",
+            "score": 1,
+            "stickied": false,
+            "author_name": "cuntpeddler"
+        },
+        "ia182ad": {
+            "comment": "Try looking for decryption tool/key here\n\nhttps://www.nomoreransom.org/en/index.html",
+            "timeStamp": "2022/05/25-22:52:21",
+            "id": "ia182ad",
+            "is_submitter": false,
+            "link_id": "t3_uxybb6",
+            "parent_id": "t3_uxybb6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Nesher86"
+        }
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "What do you think about it? Why most of the Windows malware source code consists of hungarian notation? It's weird and disgusting.",
+        "title": "Hungarian notation",
+        "score": 1,
+        "id": "esjunn",
+        "commsNum": 6,
+        "timeStamp": "2020/01/22-15:02:35",
+        "author_name": "tomruk",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/esjunn/hungarian_notation/"
+    },
+    "posts": {
+        "ffcuu6j": {
+            "comment": "Maybe it's just Windows Shell source code using that syntax. Or Microsoft Docs are wrong. I don't know. But what i know is that most of the C code i've seen are written with 'b' syntax. For example: [Hacking Team](https://github.com/hackedteam/scout-win)\n\nMaybe i shouldn't use hungarian notation in first place. That will make me cancer.",
+            "timeStamp": "2020/01/23-11:28:37",
+            "id": "ffcuu6j",
+            "is_submitter": true,
+            "link_id": "t3_esjunn",
+            "parent_id": "t1_ffctcy0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "tomruk"
+        },
+        "ffctcy0": {
+            "comment": "the docs are wrong, at least for Windows Shell source code (source: I'm a Windows dev)",
+            "timeStamp": "2020/01/23-11:14:16",
+            "id": "ffctcy0",
+            "is_submitter": false,
+            "link_id": "t3_esjunn",
+            "parent_id": "t1_ffcsvxb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "paulcam"
+        },
+        "ffcsvxb": {
+            "comment": "No, b is bool as stated in [Microsoft Docs](https://docs.microsoft.com/en-us/windows/win32/stg/coding-style-conventions).\n\n:D",
+            "timeStamp": "2020/01/23-11:09:42",
+            "id": "ffcsvxb",
+            "is_submitter": true,
+            "link_id": "t3_esjunn",
+            "parent_id": "t1_ffcjl74",
+            "score": 1,
+            "stickied": false,
+            "author_name": "tomruk"
+        },
+        "ffcjl74": {
+            "comment": "fwiw, `b` prefix is for `byte`... use `f` for `bool` :)\n\ncurrent coding standards in Windows have moved away from using Hungarian notation since IDE tooling is better these days, but a lot of people still use the `p` prefix...",
+            "timeStamp": "2020/01/23-09:34:01",
+            "id": "ffcjl74",
+            "is_submitter": false,
+            "link_id": "t3_esjunn",
+            "parent_id": "t1_ffamdow",
+            "score": 1,
+            "stickied": false,
+            "author_name": "paulcam"
+        },
+        "ffamdow": {
+            "comment": "Thank you for your opinion. Even if i don't like it, i sometimes use hungarian notation because my code looks like a real Windows malware, but i use it partially. I don't prefix my booleans with 'b' but i use 'p' prefix for pointers etc. Is it weird or normal? Btw, regardless of hungarion notation, what do you think about my codebase?\n\nSome example here: [https://github.com/tomruk/Minishell](https://github.com/tomruk/Minishell)",
+            "timeStamp": "2020/01/22-16:28:59",
+            "id": "ffamdow",
+            "is_submitter": true,
+            "link_id": "t3_esjunn",
+            "parent_id": "t1_ffak8nw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "tomruk"
+        },
+        "ffak8nw": {
+            "comment": "Windows uses Hungarian, so it makes sense.\n\nI'm an old school Windows dev, so I actually prefer Hungarian notation. Visual Studio tooling in the past was unable to generate Intellisense for the Windows codebase, so you'd have to derive your context strictly from what the code says.",
+            "timeStamp": "2020/01/22-16:03:30",
+            "id": "ffak8nw",
+            "is_submitter": false,
+            "link_id": "t3_esjunn",
+            "parent_id": "t3_esjunn",
+            "score": 1,
+            "stickied": false,
+            "author_name": "paulcam"
+        }
+    }
+}

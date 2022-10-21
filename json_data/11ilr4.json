@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "New malware positively links gauss and flame",
+        "score": 4,
+        "id": "11ilr4",
+        "commsNum": 0,
+        "timeStamp": "2012/10/15-09:11:59",
+        "author_name": "raven_coda",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.securelist.com/en/blog/763/miniFlame_aka_SPE_Elvis_and_his_friends"
+    },
+    "posts": {}
+}

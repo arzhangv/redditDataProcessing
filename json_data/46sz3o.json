@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I'm currently on linux and would like to learn malware anaylsis but all the tutorials i find are based on the windows OS and window programs",
+        "title": "Malware Analysis on linux",
+        "score": 15,
+        "id": "46sz3o",
+        "commsNum": 10,
+        "timeStamp": "2016/02/20-17:06:32",
+        "author_name": "jray80066",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 10,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/46sz3o/malware_analysis_on_linux/"
+    },
+    "posts": {}
+}

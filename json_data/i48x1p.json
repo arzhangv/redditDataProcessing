@@ -1,0 +1,209 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "&amp;#x200B;\n\nhttps://preview.redd.it/4ahe8nmrl7f51.png?width=594&amp;format=png&amp;auto=webp&amp;s=cefa777d43c45c6746c73a4f10f4bec82938be1e",
+        "title": "This keeps popping up,even after i close it",
+        "score": 1,
+        "id": "i48x1p",
+        "commsNum": 17,
+        "timeStamp": "2020/08/05-09:49:58",
+        "author_name": "lildeadpickle",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 17,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/i48x1p/this_keeps_popping_upeven_after_i_close_it/"
+    },
+    "posts": {
+        "g0khvm3": {
+            "comment": "Thank you",
+            "timeStamp": "2020/08/06-08:09:15",
+            "id": "g0khvm3",
+            "is_submitter": false,
+            "link_id": "t3_i48x1p",
+            "parent_id": "t1_g0ja8fy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MajorUrsa2"
+        },
+        "g0jb4gn": {
+            "comment": "P.S. If the process is still running (you can check it in Task Manager or Process Explorer) you can make a dump with ProcDump out of it. Would also help for me.",
+            "timeStamp": "2020/08/06-00:23:14",
+            "id": "g0jb4gn",
+            "is_submitter": false,
+            "link_id": "t3_i48x1p",
+            "parent_id": "t1_g0javy5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Suspicious_Writer"
+        },
+        "g0javy5": {
+            "comment": "If you are familiar with Sysinternal Tools you can try to use Process Explorer/Process Monitor to see if AV is still using this file. \n\nIf nothing helps you can also try MoveFile to try to manually copy it to another location and see if this works.\n\nFeel free to PM me if anything.",
+            "timeStamp": "2020/08/06-00:19:30",
+            "id": "g0javy5",
+            "is_submitter": false,
+            "link_id": "t3_i48x1p",
+            "parent_id": "t1_g0hl471",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Suspicious_Writer"
+        },
+        "g0jagr0": {
+            "comment": "Aha. Have you tried turning on \"Show hidden files\" in the View menu of the explorer?\n\nFile Explorer &gt; View &gt; Options &gt;\u00a0Change folder and search options &gt; View &gt; Advanced settings &gt; Show hidden files, folders, and drives &gt; OK\n\nOr check Hidden items in the View tab.",
+            "timeStamp": "2020/08/06-00:12:47",
+            "id": "g0jagr0",
+            "is_submitter": false,
+            "link_id": "t3_i48x1p",
+            "parent_id": "t1_g0hl471",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Suspicious_Writer"
+        },
+        "g0ja8fy": {
+            "comment": "Paths in Win are non case-sensitive.",
+            "timeStamp": "2020/08/06-00:09:09",
+            "id": "g0ja8fy",
+            "is_submitter": false,
+            "link_id": "t3_i48x1p",
+            "parent_id": "t1_g0hmerw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Suspicious_Writer"
+        },
+        "g0hqd1i": {
+            "comment": "Ok. It may be a protected folder. It is nothing to worry about most likely. The file in question is an official Microsoft service for printers. It is not malicious. But malware may have infected the file. The easiest way to find out is to restart your computer but that comes at a risk of the malware taking full effect. The best thing is to report the file as a false positive to Avast and see what they say.",
+            "timeStamp": "2020/08/05-14:47:43",
+            "id": "g0hqd1i",
+            "is_submitter": false,
+            "link_id": "t3_i48x1p",
+            "parent_id": "t1_g0hl2zt",
+            "score": 1,
+            "stickied": false,
+            "author_name": "InternetDetective122"
+        },
+        "g0hmsvc": {
+            "comment": "Because you're still infected and never actually stopped the reason for your infection.",
+            "timeStamp": "2020/08/05-14:18:47",
+            "id": "g0hmsvc",
+            "is_submitter": false,
+            "link_id": "t3_i48x1p",
+            "parent_id": "t1_g0hl7og",
+            "score": 1,
+            "stickied": false,
+            "author_name": "gex80"
+        },
+        "g0hmerw": {
+            "comment": "Another thing to look at that I might be completely wrong about: is there a reason the file path and process have different capitalization in the paths ?",
+            "timeStamp": "2020/08/05-14:15:38",
+            "id": "g0hmerw",
+            "is_submitter": false,
+            "link_id": "t3_i48x1p",
+            "parent_id": "t1_g0hl5un",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MajorUrsa2"
+        },
+        "g0hl7og": {
+            "comment": "Yeah, i've been thinking of that too, but why does it keep popping up...",
+            "timeStamp": "2020/08/05-14:06:02",
+            "id": "g0hl7og",
+            "is_submitter": true,
+            "link_id": "t3_i48x1p",
+            "parent_id": "t1_g0gpj3x",
+            "score": 1,
+            "stickied": false,
+            "author_name": "lildeadpickle"
+        },
+        "g0hl5un": {
+            "comment": "I've deleted everything in the virus chest and it still does it",
+            "timeStamp": "2020/08/05-14:05:38",
+            "id": "g0hl5un",
+            "is_submitter": true,
+            "link_id": "t3_i48x1p",
+            "parent_id": "t1_g0he578",
+            "score": 1,
+            "stickied": false,
+            "author_name": "lildeadpickle"
+        },
+        "g0hl471": {
+            "comment": "The thing is that I can't find the file",
+            "timeStamp": "2020/08/05-14:05:15",
+            "id": "g0hl471",
+            "is_submitter": true,
+            "link_id": "t3_i48x1p",
+            "parent_id": "t1_g0hc0a5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "lildeadpickle"
+        },
+        "g0hl2zt": {
+            "comment": "I didn't find anything in Window\\\\resources",
+            "timeStamp": "2020/08/05-14:04:59",
+            "id": "g0hl2zt",
+            "is_submitter": true,
+            "link_id": "t3_i48x1p",
+            "parent_id": "t1_g0gpxul",
+            "score": 2,
+            "stickied": false,
+            "author_name": "lildeadpickle"
+        },
+        "g0he578": {
+            "comment": "does it keep popping up because Avast wants you to take action? I don\u2019t use Avast so I don\u2019t know the workflow. They might be asking you to open the virus chest so you can take further action (like removing the file or marking it safe).",
+            "timeStamp": "2020/08/05-13:11:56",
+            "id": "g0he578",
+            "is_submitter": false,
+            "link_id": "t3_i48x1p",
+            "parent_id": "t3_i48x1p",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MajorUrsa2"
+        },
+        "g0hc0a5": {
+            "comment": "Agreed with what was said. Also if possible - make a password protected zip with this .exe file and upload it somewhere. Would love to take a look",
+            "timeStamp": "2020/08/05-12:56:25",
+            "id": "g0hc0a5",
+            "is_submitter": false,
+            "link_id": "t3_i48x1p",
+            "parent_id": "t3_i48x1p",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Suspicious_Writer"
+        },
+        "g0h2v0t": {
+            "comment": "The spoolsv binary should live in c:\\windows\\system32\\ - this appears to be an imposter. I suspect you'll find it running, but avast might not be smart enough to see that. I'm not sure if Avast does in-memory scanning as I've not looked at it, but I suspect it doesn't or only does after-the-fact memory scanning.\n\nhttps://otx.alienvault.com/indicator/file/e59ba127e41cd3712254de75ba7b9fc0b05dde56fd2efb3df6f3f48480da3f42\n\nThat looks to be the one.\n\nIf you're a security researcher, then feel free to dig into what's happening (and where the command and control is for what I presume is some remote access trojan, could be interesting once you sandbox and sinkhole the c2)...... but if you're an ordinary computer user, you need to immediately:\n\n* Stop logging into any accounts from that device.\n* Disconnect from the internet\n* Transfer any files you wish to keep to a USB stick (beware any executables, these could potentially have been modified by now, which could lead to subsequent reinfection)\n* Format and reinstall windows (there are loads of guides on the internet, use another device or a phone)\n* Change online account usernames and passwords that you access from that device\n* Consider if any other equipment you have attached to the same network (other laptops, your network infrastructure that could have some public vuln or default creds) could have been tampered with by some intruder.\n* Stop downloading dodgy executables, especially from P2P services.",
+            "timeStamp": "2020/08/05-11:48:04",
+            "id": "g0h2v0t",
+            "is_submitter": false,
+            "link_id": "t3_i48x1p",
+            "parent_id": "t3_i48x1p",
+            "score": 3,
+            "stickied": false,
+            "author_name": "plznokek"
+        },
+        "g0gpxul": {
+            "comment": "Run a scan. You can do a smart scan which is faster or a full system scan that takes much longer but scans more.\n\nAlso go to the file path C:\\Windows\\resources to see if the file is there. Caution: Dont delete anything from the folder. Just see if its there.\n\nThe file \"spoolsv.exe\" is an official Microsoft service for printers. Generally it is not marked as a virus but maybe some malware infected the file and Avast picked it up after it happened. I would contact Avast and next time it pops up I would report it as a false positive. Keep your AV updated.",
+            "timeStamp": "2020/08/05-10:06:57",
+            "id": "g0gpxul",
+            "is_submitter": false,
+            "link_id": "t3_i48x1p",
+            "parent_id": "t3_i48x1p",
+            "score": 2,
+            "stickied": false,
+            "author_name": "InternetDetective122"
+        },
+        "g0gpj3x": {
+            "comment": "Just a theory, but maybe your system is infected.",
+            "timeStamp": "2020/08/05-10:03:54",
+            "id": "g0gpj3x",
+            "is_submitter": false,
+            "link_id": "t3_i48x1p",
+            "parent_id": "t3_i48x1p",
+            "score": 4,
+            "stickied": false,
+            "author_name": "gex80"
+        }
+    }
+}

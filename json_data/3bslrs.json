@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Security Alert: New spam run spreads banking infostealer in Dridex malware class",
+        "score": 5,
+        "id": "3bslrs",
+        "commsNum": 0,
+        "timeStamp": "2015/07/01-13:30:21",
+        "author_name": "alinvlad",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://heimdalsecurity.com/blog/security-alert-new-spam-run-dridex-malware/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,242 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hello everyone. How would I go about running Stuxnet for behavior analysis and demonstrative purposes on an isolated virtual machine? Is there an image of the Siemens PLC operating system, and a copy of Stuxnet, that I can run through virtualbox?",
+        "title": "Running Stuxnet on a VM",
+        "score": 17,
+        "id": "6srksg",
+        "commsNum": 13,
+        "timeStamp": "2017/08/09-23:41:55",
+        "author_name": "TheUndead96",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 13,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6srksg/running_stuxnet_on_a_vm/"
+    },
+    "posts": {
+        "dltkgsv": {
+            "comment": "&gt; Simatic S7 software has a PLC emulator \n\nHmmmm.. have there been any papers, that use PLC Emulators to analyze malware of this kind.",
+            "timeStamp": "2017/08/18-15:58:39",
+            "id": "dltkgsv",
+            "is_submitter": false,
+            "link_id": "t3_6srksg",
+            "parent_id": "t1_dliky0l",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Zophike1"
+        },
+        "dlnl2bz": {
+            "comment": "that's an understatement :-)\n\nActually saying that the creators aren't as good at keeping hold of this stuff anymore, he could try contacting the Shadow Brokers and see if they have the details :-)",
+            "timeStamp": "2017/08/15-07:52:10",
+            "id": "dlnl2bz",
+            "is_submitter": false,
+            "link_id": "t3_6srksg",
+            "parent_id": "t1_dlfvs74",
+            "score": 1,
+            "stickied": false,
+            "author_name": "peter_mack"
+        },
+        "dliky0l": {
+            "comment": "I've never tried Conpot before but I am reading that the Simatic S7 software has a PLC emulator built into it so you might not need something like Conpot.",
+            "timeStamp": "2017/08/12-04:44:30",
+            "id": "dliky0l",
+            "is_submitter": false,
+            "link_id": "t3_6srksg",
+            "parent_id": "t1_dliiymf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Harm_And_Hammer"
+        },
+        "dliiymf": {
+            "comment": "No, I am a university student writing a report, with regards to TheKeyboardKid's response, do you think I can spoof the system with that?",
+            "timeStamp": "2017/08/12-03:11:23",
+            "id": "dliiymf",
+            "is_submitter": true,
+            "link_id": "t3_6srksg",
+            "parent_id": "t1_dlherxo",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TheUndead96"
+        },
+        "dliiu8m": {
+            "comment": "Thanks, will definitely check it out :D",
+            "timeStamp": "2017/08/12-03:05:04",
+            "id": "dliiu8m",
+            "is_submitter": true,
+            "link_id": "t3_6srksg",
+            "parent_id": "t1_dlhkvhs",
+            "score": 2,
+            "stickied": false,
+            "author_name": "TheUndead96"
+        },
+        "dlhkvhs": {
+            "comment": "You could check out Conpot http://conpot.org/ as a way to emulate the Siemens PLC operating system.",
+            "timeStamp": "2017/08/11-12:09:22",
+            "id": "dlhkvhs",
+            "is_submitter": false,
+            "link_id": "t3_6srksg",
+            "parent_id": "t3_6srksg",
+            "score": 2,
+            "stickied": false,
+            "author_name": "TheKeyboardKid"
+        },
+        "dlherxo": {
+            "comment": "The Siemens Simatic PLCs have some degree of variability between platforms but the Step7 software comes in a couple of different flavors - Basic, Pro, etc and the last time I had to work on one it was running on a Windows 2000 Pro system but I know Win XP SP1 is sort of the standard I think. (Yes we all know this is lunacy).\n\nSo, go get the Simatic Step 7 software, install it on a Win2k/WinXP vm and turn StuxNet loose on it, but even if you get that far you need a Siemens PLC emulator unless you happen to have an actual PLC for this exercise?",
+            "timeStamp": "2017/08/11-10:26:01",
+            "id": "dlherxo",
+            "is_submitter": false,
+            "link_id": "t3_6srksg",
+            "parent_id": "t3_6srksg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Harm_And_Hammer"
+        },
+        "dlgdv86": {
+            "comment": "I will be messaging you on [**2017-09-20 01:23:41 UTC**](http://www.wolframalpha.com/input/?i=2017-09-20 01:23:41 UTC To Local Time) to remind you of [**this link.**](https://www.reddit.com/r/Malware/comments/6srksg/running_stuxnet_on_a_vm/dlgduci)\n\n[**CLICK THIS LINK**](http://np.reddit.com/message/compose/?to=RemindMeBot&amp;subject=Reminder&amp;message=[https://www.reddit.com/r/Malware/comments/6srksg/running_stuxnet_on_a_vm/dlgduci]%0A%0ARemindMe!  40 days) to send a PM to also be reminded and to reduce spam.\n\n^(Parent commenter can ) [^(delete this message to hide from others.)](http://np.reddit.com/message/compose/?to=RemindMeBot&amp;subject=Delete Comment&amp;message=Delete! dlgdv86)\n\n_____\n\n|[^(FAQs)](http://np.reddit.com/r/RemindMeBot/comments/24duzp/remindmebot_info/)|[^(Custom)](http://np.reddit.com/message/compose/?to=RemindMeBot&amp;subject=Reminder&amp;message=[LINK INSIDE SQUARE BRACKETS else default to FAQs]%0A%0ANOTE: Don't forget to add the time options after the command.%0A%0ARemindMe!)|[^(Your Reminders)](http://np.reddit.com/message/compose/?to=RemindMeBot&amp;subject=List Of Reminders&amp;message=MyReminders!)|[^(Feedback)](http://np.reddit.com/message/compose/?to=RemindMeBotWrangler&amp;subject=Feedback)|[^(Code)](https://github.com/SIlver--/remindmebot-reddit)|[^(Browser Extensions)](https://np.reddit.com/r/RemindMeBot/comments/4kldad/remindmebot_extensions/)\n|-|-|-|-|-|-|",
+            "timeStamp": "2017/08/10-18:23:47",
+            "id": "dlgdv86",
+            "is_submitter": false,
+            "link_id": "t3_6srksg",
+            "parent_id": "t1_dlgduci",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RemindMeBot"
+        },
+        "dlgduci": {
+            "comment": "[deleted]",
+            "timeStamp": "2017/08/10-18:23:16",
+            "id": "dlgduci",
+            "is_submitter": false,
+            "link_id": "t3_6srksg",
+            "parent_id": "t3_6srksg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "dlg03k4": {
+            "comment": "**Israel Defense Forces**\n\nThe Israel Defense Forces (IDF; Hebrew: \u05e6\u05b0\u05d1\u05b8\u05d0 \u05d4\u05b7\u05d4\u05b2\u05d2\u05b8\u05e0\u05b8\u05d4 \u05dc\u05b0\u05d9\u05b4\u05e9\u05b0\u05c2\u05e8\u05b8\u05d0\u05b5\u05dc\u200e  Tsva ha-Hagana le-Yisra'el, lit. \"The Army of Defense for Israel\"; Arabic: \u062c\u064a\u0634 \u0627\u0644\u062f\u0641\u0627\u0639 \u0627\u0644\u0625\u0633\u0631\u0627\u0626\u064a\u0644\u064a\u200e\u200e), commonly known in Israel by the Hebrew acronym Tzahal (\u05e6\u05d4\u05f4\u05dc\u200e), are the military forces of the State of Israel. They consist of the ground forces, air force, and navy. It is the sole military wing of the Israeli security forces, and has no civilian jurisdiction within Israel.\n\n***\n\n^[ [^PM](https://www.reddit.com/message/compose?to=kittens_from_space) ^| [^Exclude ^me](https://reddit.com/message/compose?to=WikiTextBot&amp;message=Excludeme&amp;subject=Excludeme) ^| [^Exclude ^from ^subreddit](https://np.reddit.com/r/Malware/about/banned) ^| [^FAQ ^/ ^Information](https://np.reddit.com/r/WikiTextBot/wiki/index) ^| [^Source](https://github.com/kittenswolf/WikiTextBot)   ^]\n^Downvote ^to ^remove ^| ^v0.24",
+            "timeStamp": "2017/08/10-13:51:35",
+            "id": "dlg03k4",
+            "is_submitter": false,
+            "link_id": "t3_6srksg",
+            "parent_id": "t1_dlg03dg",
+            "score": 2,
+            "stickied": false,
+            "author_name": "WikiTextBot"
+        },
+        "dlg03dg": {
+            "comment": "Might have better luck with [IDF](https://en.wikipedia.org/wiki/Israel_Defense_Forces). Just dm them on Twitter.",
+            "timeStamp": "2017/08/10-13:51:31",
+            "id": "dlg03dg",
+            "is_submitter": false,
+            "link_id": "t3_6srksg",
+            "parent_id": "t1_dlftonk",
+            "score": 6,
+            "stickied": false,
+            "author_name": "New-England-SysAdmin"
+        },
+        "dlfvs74": {
+            "comment": "lol....",
+            "timeStamp": "2017/08/10-12:36:38",
+            "id": "dlfvs74",
+            "is_submitter": false,
+            "link_id": "t3_6srksg",
+            "parent_id": "t1_dlftonk",
+            "score": 7,
+            "stickied": false,
+            "author_name": "SpotOnTheRug"
+        },
+        "dlfupk7": {
+            "comment": "[removed]",
+            "timeStamp": "2017/08/10-12:18:10",
+            "id": "dlfupk7",
+            "is_submitter": false,
+            "link_id": "t3_6srksg",
+            "parent_id": "t1_dlftonk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "dlftonk": {
+            "comment": "Would contacting them be my best bet?",
+            "timeStamp": "2017/08/10-12:00:16",
+            "id": "dlftonk",
+            "is_submitter": true,
+            "link_id": "t3_6srksg",
+            "parent_id": "t1_dlfm1c1",
+            "score": 3,
+            "stickied": false,
+            "author_name": "TheUndead96"
+        },
+        "dlfm1c1": {
+            "comment": "\"Hello? US Cyber Command?\" ",
+            "timeStamp": "2017/08/10-09:49:38",
+            "id": "dlfm1c1",
+            "is_submitter": false,
+            "link_id": "t3_6srksg",
+            "parent_id": "t1_dlfdye0",
+            "score": 8,
+            "stickied": false,
+            "author_name": "Sam-Gunn"
+        },
+        "dlfglf8": {
+            "comment": "[deleted]",
+            "timeStamp": "2017/08/10-08:15:31",
+            "id": "dlfglf8",
+            "is_submitter": false,
+            "link_id": "t3_6srksg",
+            "parent_id": "t1_dlf5ewh",
+            "score": 11,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "dlfdye0": {
+            "comment": "Just contact the developers of Stuxnet for a SCADA emulator.",
+            "timeStamp": "2017/08/10-07:27:01",
+            "id": "dlfdye0",
+            "is_submitter": false,
+            "link_id": "t3_6srksg",
+            "parent_id": "t1_dlf2c9o",
+            "score": 6,
+            "stickied": false,
+            "author_name": "qubedView"
+        },
+        "dlf76x5": {
+            "comment": "You just did... travel ban for you my friend...\n",
+            "timeStamp": "2017/08/10-04:44:07",
+            "id": "dlf76x5",
+            "is_submitter": false,
+            "link_id": "t3_6srksg",
+            "parent_id": "t1_dlf5ewh",
+            "score": 15,
+            "stickied": false,
+            "author_name": "Lonesome_Traveller"
+        },
+        "dlf5ewh": {
+            "comment": "I'm afraid to even type in \"uranium enrichment scada software\"",
+            "timeStamp": "2017/08/10-03:37:14",
+            "id": "dlf5ewh",
+            "is_submitter": false,
+            "link_id": "t3_6srksg",
+            "parent_id": "t3_6srksg",
+            "score": 19,
+            "stickied": false,
+            "author_name": "kclo4"
+        },
+        "dlf2c9o": {
+            "comment": "You can download a copy of Stuxnet here: tuts4you DOT com/download.php?view.3011\n\nAs for the SCADA image I don't think you will be so lucky, it's so bespoke I've never heard of an emulator out there...",
+            "timeStamp": "2017/08/10-01:17:13",
+            "id": "dlf2c9o",
+            "is_submitter": false,
+            "link_id": "t3_6srksg",
+            "parent_id": "t3_6srksg",
+            "score": 7,
+            "stickied": false,
+            "author_name": "plkijn"
+        }
+    }
+}

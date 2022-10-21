@@ -1,0 +1,198 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Got an CD to my mailbox. It says its shipped from china, like I had ordered it from wish or some place. But I dont recall or even see reason why I would order something on a CD from there. Its white mini\\-cd\\-disc, It says nothing except 3192718 and rbeh\\-ug4j\\-2agr  \n\nI googled the later, found only 1 link, to totalhash seemingly. I suppose that link is legit and not a fake link. Did fast background check about  totalhash.cymru.com first. My antivirus browser extensien / VPN marks it with green, as safe link.   \n\nOpened the link, looks like some kind of malware. Can any one dig anything more of this? ",
+        "title": "Got an unidentified CD from mail",
+        "score": 9,
+        "id": "8ql9k3",
+        "commsNum": 16,
+        "timeStamp": "2018/06/12-11:18:38",
+        "author_name": "morelliFIN",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 16,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8ql9k3/got_an_unidentified_cd_from_mail/"
+    },
+    "posts": {
+        "e3cc4mu": {
+            "comment": "Otherwise similar looking small CD, but some points:\n\n1 the brand of disc manufacturer is different\n\n2 the envolope type and color is different.\n\n3. The envelope type that I got, is typical envelope for small objects ordered from aliexpress or wish. Maybe they'd target Govt office addresses with white envelopes and home address with wish-looking package from China, would be the least suspicious way.\n\n4. Both were Mailed from same area.\n\n5. Attack like this is very low level though and there could be many hopeless individuals trying these randomly, the mystery is though how would they know to target my address and name, no other neighbors ect had similar discs. Maybe they actually targeted me, or they just pick random adresses far away from each other, so that no much talks about attack would emerge and no one could connect them as a spam campaing\n\n.\n\n6. Whats inside the CDs for gov offices and for me  was similar.  The fake content is was slightly different, but same basic idea, lots of Word Documents that could contain scripts potentially.",
+            "timeStamp": "2018/07/31-03:01:33",
+            "id": "e3cc4mu",
+            "is_submitter": true,
+            "link_id": "t3_8ql9k3",
+            "parent_id": "t1_e3524rm",
+            "score": 1,
+            "stickied": false,
+            "author_name": "morelliFIN"
+        },
+        "e3524rm": {
+            "comment": "Saw this today and thought of you.\n\nhttps://krebsonsecurity.com/2018/07/state-govts-warned-of-malware-laden-cd-sent-via-snail-mail-from-china/",
+            "timeStamp": "2018/07/27-10:13:50",
+            "id": "e3524rm",
+            "is_submitter": false,
+            "link_id": "t3_8ql9k3",
+            "parent_id": "t3_8ql9k3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "starien"
+        },
+        "e0khcl8": {
+            "comment": "Removed ",
+            "timeStamp": "2018/06/12-15:15:29",
+            "id": "e0khcl8",
+            "is_submitter": false,
+            "link_id": "t3_8ql9k3",
+            "parent_id": "t3_8ql9k3",
+            "score": 1,
+            "stickied": true,
+            "author_name": "edward_snowedin"
+        },
+        "e0kanvd": {
+            "comment": "Ok, so I got a trash pc at my hands, checkd it out: It was full of \"download instructions\" / online installers for your base software, like office and some \"anti\\-virus\" software. They were in seperate folders but in that pic I just searched all content of disk. Links seem almost legit :D Just a weird CD. I think thats it, possibly if not certainly malware also but not sure if I care to install any antimalware to this piece of crap just to see.\n\nPic: [https://ibb.co/nsk42y](https://ibb.co/nsk42y)",
+            "timeStamp": "2018/06/12-13:36:02",
+            "id": "e0kanvd",
+            "is_submitter": true,
+            "link_id": "t3_8ql9k3",
+            "parent_id": "t3_8ql9k3",
+            "score": 2,
+            "stickied": false,
+            "author_name": "morelliFIN"
+        },
+        "e0ka9xj": {
+            "comment": "When I was a kid I got a full version of the rhinoceros 3d modeling software sent to me, with my full name and address and everything, for seemingly no reason. Never found out why.\n\nMight be the same sort of thing? ",
+            "timeStamp": "2018/06/12-13:30:30",
+            "id": "e0ka9xj",
+            "is_submitter": false,
+            "link_id": "t3_8ql9k3",
+            "parent_id": "t3_8ql9k3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "afschuld"
+        },
+        "e0k9zvm": {
+            "comment": "It could be, though I'm surprised the CD wasn't branded as a music disc or a free game.\n\nOne very successful way to attack a company is by seeding the parking lots and walkways near and around the company with flash drives that contain malware on them! People will take them and put them into their work system, thinking that it's not a big deal, or that if the work system gets infected it's not like their personal system is, forgetting that their corporate laptop probably connects to a lot of important shit. ",
+            "timeStamp": "2018/06/12-13:26:35",
+            "id": "e0k9zvm",
+            "is_submitter": false,
+            "link_id": "t3_8ql9k3",
+            "parent_id": "t1_e0k3szk",
+            "score": 3,
+            "stickied": false,
+            "author_name": "Sam-Gunn"
+        },
+        "e0k73ia": {
+            "comment": "Ha, keylogger pun intended? Upvote, definitely ",
+            "timeStamp": "2018/06/12-12:46:12",
+            "id": "e0k73ia",
+            "is_submitter": true,
+            "link_id": "t3_8ql9k3",
+            "parent_id": "t1_e0k6zek",
+            "score": 3,
+            "stickied": false,
+            "author_name": "morelliFIN"
+        },
+        "e0k6zek": {
+            "comment": "You took the words right from my keyboard.",
+            "timeStamp": "2018/06/12-12:44:36",
+            "id": "e0k6zek",
+            "is_submitter": false,
+            "link_id": "t3_8ql9k3",
+            "parent_id": "t1_e0k3o8u",
+            "score": 3,
+            "stickied": false,
+            "author_name": "birbi3"
+        },
+        "e0k6e9m": {
+            "comment": "Are those two strings related to software licensing? Wonder if one is a user ID and serial key of some sort?",
+            "timeStamp": "2018/06/12-12:36:21",
+            "id": "e0k6e9m",
+            "is_submitter": false,
+            "link_id": "t3_8ql9k3",
+            "parent_id": "t3_8ql9k3",
+            "score": 3,
+            "stickied": false,
+            "author_name": "phrozen_one"
+        },
+        "e0k5hz9": {
+            "comment": "I kinda think (also hope lol) its that campaing, going to find out when I see whats there. Only \"strange\" thing is that the packet said \"sticker: 1peace\". But its not a sticker!!! Maybe they just sent something even less usefull for them to make up those stats. Or some one ordered on my name and then changed whats inside the package and re glued it like its not open, which is extremely unlikely, as they would know I wouldnt put that cd in any meaningful pc lol",
+            "timeStamp": "2018/06/12-12:24:01",
+            "id": "e0k5hz9",
+            "is_submitter": true,
+            "link_id": "t3_8ql9k3",
+            "parent_id": "t1_e0k3nxs",
+            "score": 2,
+            "stickied": false,
+            "author_name": "morelliFIN"
+        },
+        "e0k3szk": {
+            "comment": "just wanted to share if this is some kind of common spam / malware thing to happen that I havent heard of. Or something that I just didint think off.",
+            "timeStamp": "2018/06/12-12:00:17",
+            "id": "e0k3szk",
+            "is_submitter": true,
+            "link_id": "t3_8ql9k3",
+            "parent_id": "t1_e0k3nxs",
+            "score": 3,
+            "stickied": false,
+            "author_name": "morelliFIN"
+        },
+        "e0k3o8u": {
+            "comment": "Gonna do that soon, on some offline trash computer. Just in case.",
+            "timeStamp": "2018/06/12-11:58:29",
+            "id": "e0k3o8u",
+            "is_submitter": true,
+            "link_id": "t3_8ql9k3",
+            "parent_id": "t1_e0k3j9b",
+            "score": 4,
+            "stickied": false,
+            "author_name": "morelliFIN"
+        },
+        "e0k3nxs": {
+            "comment": "Fire up your burner laptop and dump the disc to iso and put it up for analysis.\n\nI don't know what other guidance you are expecting.\n\nBased on your reddit history, you mess around with cryptocurrencies, so it is a non-zero chance that someone somewhere would like to get access to your computer.  Physical CD in the mail is bizarre, but nothing surprises me anymore.\n\nedit: Most likely that this is the standard \"received unsolicited small parcel from China\" phenomenon that has been occurring for years, usually by vendors to inflate their sale stats or something wonky.  Pretty neat thing to read about.\n\nhttps://www.reddit.com/r/Scams/comments/4r2dzw/why_youre_receiving_unsolicitedmail_from_china/\n\n",
+            "timeStamp": "2018/06/12-11:58:22",
+            "id": "e0k3nxs",
+            "is_submitter": false,
+            "link_id": "t3_8ql9k3",
+            "parent_id": "t1_e0k30sh",
+            "score": 4,
+            "stickied": false,
+            "author_name": "starien"
+        },
+        "e0k3j9b": {
+            "comment": "Load up a vm and see what\u2019s on it",
+            "timeStamp": "2018/06/12-11:56:33",
+            "id": "e0k3j9b",
+            "is_submitter": false,
+            "link_id": "t3_8ql9k3",
+            "parent_id": "t1_e0k30sh",
+            "score": 3,
+            "stickied": false,
+            "author_name": "dragonslayer4832"
+        },
+        "e0k30sh": {
+            "comment": "Sure, but it cant be random though, because it has my name and address ect right on it. I mean on the cover that it was in.",
+            "timeStamp": "2018/06/12-11:49:24",
+            "id": "e0k30sh",
+            "is_submitter": true,
+            "link_id": "t3_8ql9k3",
+            "parent_id": "t1_e0k2pso",
+            "score": 1,
+            "stickied": false,
+            "author_name": "morelliFIN"
+        },
+        "e0k2pso": {
+            "comment": "You got a package that you didn't ask for and weren't expecting.\n\nCrack the disc in two and toss it in the trash.  \n\nThe text printed on the disc seems like the typical format on any blank cd media and probably has nothing to do with the content of the disc.\n\n",
+            "timeStamp": "2018/06/12-11:45:08",
+            "id": "e0k2pso",
+            "is_submitter": false,
+            "link_id": "t3_8ql9k3",
+            "parent_id": "t3_8ql9k3",
+            "score": 8,
+            "stickied": false,
+            "author_name": "starien"
+        }
+    }
+}

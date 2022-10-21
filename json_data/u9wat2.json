@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "PYSA Ransomware Group Technical Analysis",
+        "score": 1,
+        "id": "u9wat2",
+        "commsNum": 0,
+        "timeStamp": "2022/04/22-20:31:44",
+        "author_name": "DrinkMoreCodeMore",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.prodaft.com/m/reports/PYSA_TLPWHITE_3.0.pdf"
+    },
+    "posts": {}
+}

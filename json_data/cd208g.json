@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "GitHub - tg12/slow_the_bots: Slow the bot's by spoofing what they are looking for!",
+        "score": 3,
+        "id": "cd208g",
+        "commsNum": 2,
+        "timeStamp": "2019/07/14-04:31:03",
+        "author_name": "JS_NS_Article",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://github.com/tg12/slow_the_bots"
+    },
+    "posts": {
+        "etruuau": {
+            "comment": "Thanks! Err not been running it long enough to tell that if it\u2019s had an effect. My plan is to run this on a docker container. I figured that if the attacker was daft enough to be parsing or running config files blindly then you could kind of get a reverse shell to other systems (Your own code rather than random data). But then there are lots of ethical and moral questions there as you would be compromising systems that have already been compromised.",
+            "timeStamp": "2019/07/14-11:39:45",
+            "id": "etruuau",
+            "is_submitter": true,
+            "link_id": "t3_cd208g",
+            "parent_id": "t1_etrtjb2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "JS_NS_Article"
+        },
+        "etrtjb2": {
+            "comment": "I\u2019m the lead maintainer for Modern Honey Network and have developed several other honeypots, and I think this is pretty novel and funny. \n\nI wasn\u2019t sure what I was looking at first but this just returns random data (random amount of kilobytes) to a bot who attempts to request a file not found on the server. Ie. known vulnerable or configuration pages for common CMSs. \n\nHave you noticed that bots actually do stop making requests or spend time parsing them when using this versus not?",
+            "timeStamp": "2019/07/14-11:26:35",
+            "id": "etrtjb2",
+            "is_submitter": false,
+            "link_id": "t3_cd208g",
+            "parent_id": "t3_cd208g",
+            "score": 1,
+            "stickied": false,
+            "author_name": "d1str0"
+        }
+    }
+}

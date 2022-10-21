@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "New .NET banking malware (VBKlip): no network usage, no registry entries and no AV detection",
+        "score": 17,
+        "id": "1vxv29",
+        "commsNum": 10,
+        "timeStamp": "2014/01/23-05:44:22",
+        "author_name": "flndy",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 10,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.cert.pl/news/7955/langswitch_lang/en"
+    },
+    "posts": {}
+}

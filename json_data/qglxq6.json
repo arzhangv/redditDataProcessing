@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "**GAMEBUDS.INFO: MALICIOUS DATA THEFT WEBSITE**\n\n***The site was duplicating my website's blog posts, looked simple - just grabbing via RSS and reposting.***\n\nOrdinarily wouldn't be bothered; but I fought tooth and claw to rank #1 spot on Google for some pages which were above my station - ranking higher than Blizzard, Gamespot and others while aiming to develop authentic high quality SERPS ranking skills - so they're like trophy\u2019s when I among eit, and course what I lean and can re-apply. Sadly due to hosting and DNS issues, certain blog posts now 404 - and that site despite being 6 weeks old domain has managed to rank on page rather rapidly.\n\n*Might be a good thing; it prompted me to investigate and might prevent major data theft to many innocent visitors.*\n\n***Domain is 6 weeks old.***\n\nRegistered at **NameCheap**.\n\nSame familiar registration obfuscation:\n\nAdministrative Contact Information: NameWithheld for Privacy Purposes\n\nOrganization Privacy service provided by Withheld for Privacy ehf\n\nAddress Kalkofnsvegur 2\n\nCity Reykjavik\n\nState / Province Capital Region\n\nPostal Code101\n\nCountryIS\n\nPhone +354.4212434\n\n**UK CONTACT / ADDRESS AND PHONE NUMBER!**\n\n4-5 Bonhill St,\n\nLondon EC2A 4BX\n\nUnited Kingdom\n\n\\+44 207 375 2963\n\n* &amp;#x200B;\n\n**WHOIS, WORDPRESS and STRANGE 404 GITHUB CODE**\n\n[https://who.is/whois/gamebuds.info](https://who.is/whois/gamebuds.info)\n\nIt's strange that 404's don't use WordPress, bur rather a 404 page you can find on GitHub here: [https://gist.github.com/marcobraghim](https://gist.github.com/marcobraghim)\n\nThis choice of manual HTML 404 is such strangely specific thing to do; they could have left the host default 404's. PURE SPECULATION but 404 GitHub author linked to hi\n\nThat laziness would correlate with many other lazy decisions as evident in the source code.\n\n[https://gamebuds.info/blog/](https://gamebuds.info/blog/)\n\n**HERE IS THE AREA OF CONCERN**\n\nIt all points to one AJAX submission form which format checks to ensure an EMAIL is added, with @ and . extension \u2013 and the only other field it wants, PASSWORD. Effectively the site does NOTHING  other than record the visitor\u2019s default chosen e-mail and password\u2026. I wonder what on Earth that would be good for ??\n\n**Lame.**\n\nConclusion: Website with one purpose: steal email and password from visitor; it\u2019s stealing gaming related blog posts in the background in a bid to look real, and rank on Google in order to get gisitors from whom to teal information\n\n**REPORT TO AUTHORITIES**\n\n* **GOOGLE** [https://safebrowsing.google.com/safebrowsing/report\\_phish/?hl=en](https://safebrowsing.google.com/safebrowsing/report_phish/?hl=en)\n* **NAMECHEAP** [https://www.namecheap.com/support/knowledgebase/article.aspx/9196/5/how-and-where-can-i-file-abuse-complaints/](https://www.namecheap.com/support/knowledgebase/article.aspx/9196/5/how-and-where-can-i-file-abuse-complaints/)",
+        "title": "Site Only Has A \"User\" and \"Pass\" Input (is managing to get index on page 1 of Google by duping gaming blog possts",
+        "score": 1,
+        "id": "qglxq6",
+        "commsNum": 1,
+        "timeStamp": "2021/10/26-19:00:52",
+        "author_name": "360fov",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/qglxq6/site_only_has_a_user_and_pass_input_is_managing/"
+    },
+    "posts": {
+        "hi7btkp": {
+            "comment": "[deleted]",
+            "timeStamp": "2021/10/26-20:18:33",
+            "id": "hi7btkp",
+            "is_submitter": false,
+            "link_id": "t3_qglxq6",
+            "parent_id": "t3_qglxq6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

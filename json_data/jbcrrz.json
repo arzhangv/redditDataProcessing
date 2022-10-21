@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": " Attempting to download instagram++ apk for bluestack emulator since itweaks injecting shit froze on 1/2 injected. Scanned the .apk file through virustotal, which came back detecting  and Android.PUA.DebugKey. From what I can see **Android.PUA.DebugKey** isn't a problem, just a false positive that is common in modded apps. However, I don't know what AdLibrary:Generisk is and am wondering if it is safe to run the apk through bluestacks. Any help would be very much appreciated.   \nDisclaimer: I apologise if this isn't the right subreddit however I am not asking for help with malware removal, just general information as to whether it is safe.",
+        "title": "AdLibrary:Generisk",
+        "score": 1,
+        "id": "jbcrrz",
+        "commsNum": 0,
+        "timeStamp": "2020/10/14-17:05:08",
+        "author_name": "_REM0VED",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/jbcrrz/adlibrarygenerisk/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "A friend introduced me to YARA today.  I've followed the official documentation but when I get to ['Running YARA for the first time'](https://yara.readthedocs.io/en/latest/gettingstarted.html#running-yara-for-the-first-time) the command *yara my_first_rule my_first_rule* fails with the following error: \n\n    my_first_rule(1): error: syntax error, unexpected _TEXT_STRING_\n\nI can't find any documentation or help on this error and it's happening across multiple machines.  Tried the 32 and 64 bit versions on Windows for 3.4.0 and 3.5.0.   Feel like a super noob and that I'm missing something completely obvious.  Anyone know?\n\n",
+        "title": "Assistance running YARA for the first time",
+        "score": 3,
+        "id": "6bdces",
+        "commsNum": 4,
+        "timeStamp": "2017/05/15-14:41:53",
+        "author_name": "PixParavel",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6bdces/assistance_running_yara_for_the_first_time/"
+    },
+    "posts": {
+        "djuyhwn": {
+            "comment": "Hello - I'm sure you've figured this out by now, but since I was in the same boat I thought I'd post my fix.\n\n\nIn Windows, running the command:\n\n\n    echo \"rule dummy { condition: true } \" &gt; my_first_rule\n\n\ncreates a file reading:\n\n\n    \"rule dummy { condition: true } \"\n\n\nhowever, yara *wants* the file to read:\n\n\n    rule dummy { condition: true }\n\n\nSo, edit out your quotes and that should fix it",
+            "timeStamp": "2017/07/06-09:20:42",
+            "id": "djuyhwn",
+            "is_submitter": false,
+            "link_id": "t3_6bdces",
+            "parent_id": "t3_6bdces",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Monster-Zero"
+        }
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Here is what it thinks is wrong:\n\nPUP.Optional.MySearchDial, C:\\USERS\\user\\APPDATA\\LOCAL\\GOOGLE\\CHROME\\USER DATA\\Default\\Sync Data\\SyncData.sqlite3, No Action By User, [127], [663899],1.0.10254\n\nPUP.Optional.MySearchDial, C:\\USERS\\user\\APPDATA\\LOCAL\\GOOGLE\\CHROME\\USER DATA\\Default\\Web Data, No Action By User, [127], [663899],1.0.10254\n\nPUP.Optional.MySearchDial, C:\\USERS\\user\\APPDATA\\LOCAL\\GOOGLE\\CHROME\\USER DATA\\Default\\Web Data, No Action By User, [127], [663899],1.0.10254",
+        "title": "Malware Bytes thinks Google Chrome is infected, details inside.",
+        "score": 0,
+        "id": "bfe6ny",
+        "commsNum": 3,
+        "timeStamp": "2019/04/20-09:43:11",
+        "author_name": "80s_kid_1974",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/bfe6ny/malware_bytes_thinks_google_chrome_is_infected/"
+    },
+    "posts": {
+        "elcy6ab": {
+            "comment": "How could anybody tell by seeing these 3 entry's?\nMaybe its a false positive, maybe it's a plugin, maybe it is malware. \nYou can only know by researching the use of these 3 entry's ..",
+            "timeStamp": "2019/04/20-09:48:14",
+            "id": "elcy6ab",
+            "is_submitter": false,
+            "link_id": "t3_bfe6ny",
+            "parent_id": "t3_bfe6ny",
+            "score": 1,
+            "stickied": false,
+            "author_name": "darkalfa"
+        },
+        "elcy0rd": {
+            "comment": "Are these 3 things malware?",
+            "timeStamp": "2019/04/20-09:46:26",
+            "id": "elcy0rd",
+            "is_submitter": true,
+            "link_id": "t3_bfe6ny",
+            "parent_id": "t1_elcxxyz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "80s_kid_1974"
+        },
+        "elcxxyz": {
+            "comment": "So.. what exactly are you trying to say?",
+            "timeStamp": "2019/04/20-09:45:32",
+            "id": "elcxxyz",
+            "is_submitter": false,
+            "link_id": "t3_bfe6ny",
+            "parent_id": "t3_bfe6ny",
+            "score": 1,
+            "stickied": false,
+            "author_name": "darkalfa"
+        }
+    }
+}

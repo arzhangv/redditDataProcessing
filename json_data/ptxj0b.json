@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I know there are bigger groups out there but looking into Vidar stealer and found a couple of (semi) decent articles:\n\n[https://blog.minerva-labs.com/vidar-stealer-evasion-arsenal](https://blog.minerva-labs.com/vidar-stealer-evasion-arsenal) \\- looks into a couple of their evasion techniques but is a little thin\n\n[https://malware.news/t/deep-analysis-of-vidar-stealer/49591](https://malware.news/t/deep-analysis-of-vidar-stealer/49591) \\- much better analysis covering a WHOLE lot... \n\nJust wanted to share",
+        "title": "yup, another malware - sure sure - just sharing",
+        "score": 1,
+        "id": "ptxj0b",
+        "commsNum": 2,
+        "timeStamp": "2021/09/23-08:20:48",
+        "author_name": "Devin_Devop",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ptxj0b/yup_another_malware_sure_sure_just_sharing/"
+    },
+    "posts": {
+        "he5t6r4": {
+            "comment": "Good share. Thank you.",
+            "timeStamp": "2021/09/24-17:37:04",
+            "id": "he5t6r4",
+            "is_submitter": false,
+            "link_id": "t3_ptxj0b",
+            "parent_id": "t3_ptxj0b",
+            "score": 2,
+            "stickied": false,
+            "author_name": "blabbities"
+        },
+        "he1sdk0": {
+            "comment": "If the facit account gets banned then the name cant change, wouldn't that render all existing infections null? (assuming the last known C2 changes)",
+            "timeStamp": "2021/09/23-20:34:10",
+            "id": "he1sdk0",
+            "is_submitter": false,
+            "link_id": "t3_ptxj0b",
+            "parent_id": "t3_ptxj0b",
+            "score": 1,
+            "stickied": false,
+            "author_name": "SpookyWA"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "New Technique Complicates Mutex Malware Analysis",
+        "score": 1,
+        "id": "2yjxlm",
+        "commsNum": 0,
+        "timeStamp": "2015/03/10-05:58:16",
+        "author_name": "msm1267",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://threatpost.com/new-technique-complicates-mutex-malware-analysis/111517"
+    },
+    "posts": {}
+}

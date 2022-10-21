@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "In multiple instances I've come across Russian characters that have been messed up because they were saved as ASCII at some point. \n\nFor instance:  \u00ca\u00ee\u00ef\u00e8\u00f0\u00ee\u00e2\u00e0\u00ed\u00e8\u00e5 \u00e4\u00e0\u00ed\u00ed\u00fb\u00f5 \u00e2 \u00fd\u00f2\u00ee\u00f2 \u00ec\u00ee\u00e4\u00f3\u00eb\u00fc \u00e2 \u00e4\u00f0\u00f3\u00e3\u00ee\u00ec \u00ef\u00f0\u00ee\u00f6\u00e5\u00f1\u00f1\u00e5\n\nTwo examples of these are malware source code comments and spyware that label the data they save to disk with Russian words before sending it to the server. After a quick Google search I couldn't find a tool that worked so I made one myself.\n\nObviously nothing groundbreaking and there may be a well known tool out there I don't know of, but someone here might benefit from it.\n\nhttps://github.com/Websly/ASCIItoRUS",
+        "title": "Small tool to fix the messed up Russian in source code",
+        "score": 12,
+        "id": "20hvu5",
+        "commsNum": 0,
+        "timeStamp": "2014/03/15-11:41:01",
+        "author_name": "Websly",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/20hvu5/small_tool_to_fix_the_messed_up_russian_in_source/"
+    },
+    "posts": {}
+}

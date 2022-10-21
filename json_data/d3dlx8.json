@@ -1,0 +1,143 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "So I have a ton of Gmail accounts mostly to keep creating free amazon prime accounts.\n\nAnyway, I've been getting a ton of these alerts from Google, saying they have blocked an attempt at my account, for multiple accounts I have.\n\nAnd it's even happened with my main account, so I switched the password and it's happening again with that same account.\n\nI'm not sure what to do at this point. I have McAfee security and malware bytes on my pc. Beyond that, how do I fix this?",
+        "title": "Google suspicious activity blocked, repedidly.",
+        "score": 0,
+        "id": "d3dlx8",
+        "commsNum": 11,
+        "timeStamp": "2019/09/12-13:09:40",
+        "author_name": "kevinmuff2",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 11,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/d3dlx8/google_suspicious_activity_blocked_repedidly/"
+    },
+    "posts": {
+        "f034jp2": {
+            "comment": "&gt; So I have a ton of Gmail accounts mostly to keep creating free amazon prime accounts.\n\nFirst line in this post. If you paid for the service you wouldn't need all these accounts that are being targeted.",
+            "timeStamp": "2019/09/12-20:16:50",
+            "id": "f034jp2",
+            "is_submitter": false,
+            "link_id": "t3_d3dlx8",
+            "parent_id": "t1_f01x3kh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "_rock_farmer"
+        },
+        "f034esf": {
+            "comment": "I guess some of us are more ethical as others. Creating emails to continuously enroll in Amazon Prime trials seems questionable to me. \n\nNot sure who is the real dumbass here.",
+            "timeStamp": "2019/09/12-20:15:06",
+            "id": "f034esf",
+            "is_submitter": false,
+            "link_id": "t3_d3dlx8",
+            "parent_id": "t1_f01zsuw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "_rock_farmer"
+        },
+        "f02a1q8": {
+            "comment": "Check your Exceptions or excluded list?",
+            "timeStamp": "2019/09/12-15:15:08",
+            "id": "f02a1q8",
+            "is_submitter": false,
+            "link_id": "t3_d3dlx8",
+            "parent_id": "t1_f029wqs",
+            "score": 1,
+            "stickied": false,
+            "author_name": "royal_dansk"
+        },
+        "f029wqs": {
+            "comment": "Yes I agree. But I'm unsure of how to find it. As I said I have McAfee and Malwarebytes. They see no issues",
+            "timeStamp": "2019/09/12-15:13:43",
+            "id": "f029wqs",
+            "is_submitter": true,
+            "link_id": "t3_d3dlx8",
+            "parent_id": "t1_f029tv2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "kevinmuff2"
+        },
+        "f029tv2": {
+            "comment": "Could be a PC you have that's been compromised, i.e. infected with a virus.",
+            "timeStamp": "2019/09/12-15:12:52",
+            "id": "f029tv2",
+            "is_submitter": false,
+            "link_id": "t3_d3dlx8",
+            "parent_id": "t3_d3dlx8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "royal_dansk"
+        },
+        "f02826u": {
+            "comment": "2 factor authorization for added security, but if they are all getting this behavior, its related to something you've done with all of them. \n\nI have done something very similiar (for amazon prime) and haven't gotten any nonsense, but I did get my gmail account locked/frozen once for mysterious \"terms of service\" violation that I never did straighten out.  \n\nGoogle has nonexistant customer service, so don't use those accounts for anything important, google may flag them for TOS violations eventually.",
+            "timeStamp": "2019/09/12-14:54:36",
+            "id": "f02826u",
+            "is_submitter": false,
+            "link_id": "t3_d3dlx8",
+            "parent_id": "t3_d3dlx8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "2roo"
+        },
+        "f01zsuw": {
+            "comment": "What kind of dumbass reply is your comment dude???",
+            "timeStamp": "2019/09/12-13:46:02",
+            "id": "f01zsuw",
+            "is_submitter": false,
+            "link_id": "t3_d3dlx8",
+            "parent_id": "t1_f01w8te",
+            "score": 1,
+            "stickied": false,
+            "author_name": "xikariz89"
+        },
+        "f01x3kh": {
+            "comment": "Paying for amazon prime would actually not help the situation at all. Thanks for the info though",
+            "timeStamp": "2019/09/12-13:27:44",
+            "id": "f01x3kh",
+            "is_submitter": true,
+            "link_id": "t3_d3dlx8",
+            "parent_id": "t1_f01w8te",
+            "score": 1,
+            "stickied": false,
+            "author_name": "kevinmuff2"
+        },
+        "f01x0as": {
+            "comment": "All login attempts have been made from countries I have never visited.",
+            "timeStamp": "2019/09/12-13:27:09",
+            "id": "f01x0as",
+            "is_submitter": true,
+            "link_id": "t3_d3dlx8",
+            "parent_id": "t1_f01wmv3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "kevinmuff2"
+        },
+        "f01wmv3": {
+            "comment": "Go to the Security section for each account and see where the logins are coming from. Most likely some place you used the account was breached and some bot is trying to login using the accountability name. Typical day on the Internet.",
+            "timeStamp": "2019/09/12-13:24:56",
+            "id": "f01wmv3",
+            "is_submitter": false,
+            "link_id": "t3_d3dlx8",
+            "parent_id": "t3_d3dlx8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AlfredoVignale"
+        },
+        "f01w8te": {
+            "comment": "&gt; So I have a ton of Gmail accounts mostly to keep creating free amazon prime accounts.\n\nThat's pretty unethical. \n\n&gt; Anyway, I've been getting a ton of these alerts from Google, saying they have blocked an attempt at my account, for multiple accounts I have.\n\n&gt; And it's even happened with my main account, so I switched the password and it's happening again with that same account.\n\n&gt; I'm not sure what to do at this point. I have McAfee security and malware bytes on my pc. Beyond that, how do I fix this?\n\nPay for Amazon Prime.",
+            "timeStamp": "2019/09/12-13:22:35",
+            "id": "f01w8te",
+            "is_submitter": false,
+            "link_id": "t3_d3dlx8",
+            "parent_id": "t3_d3dlx8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "_rock_farmer"
+        }
+    }
+}

@@ -1,0 +1,143 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Anyone know of any sites that Crypto mine? I would like to experiment? ",
+        "title": "Sites that Crypto mine",
+        "score": 6,
+        "id": "8amlos",
+        "commsNum": 12,
+        "timeStamp": "2018/04/07-18:00:01",
+        "author_name": "Mulletmanaustin",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 12,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8amlos/sites_that_crypto_mine/"
+    },
+    "posts": {
+        "dx2nfg7": {
+            "comment": "I just would like to play with them.. Might be thinking about making a chrome extension that detects them.. / test out existing extensions.. I was having trouble finding known mining sites. ",
+            "timeStamp": "2018/04/09-08:20:54",
+            "id": "dx2nfg7",
+            "is_submitter": true,
+            "link_id": "t3_8amlos",
+            "parent_id": "t1_dx0yehn",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Mulletmanaustin"
+        },
+        "dx1kzfw": {
+            "comment": "You do there is a option for stop mining",
+            "timeStamp": "2018/04/08-17:21:23",
+            "id": "dx1kzfw",
+            "is_submitter": false,
+            "link_id": "t3_8amlos",
+            "parent_id": "t1_dx0uxye",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ragupal"
+        },
+        "dx0yhfx": {
+            "comment": "Nice. I tried a bunch of those sites with the Chrome \"No Coin\" extension and it didn't catch some of them.",
+            "timeStamp": "2018/04/08-11:01:31",
+            "id": "dx0yhfx",
+            "is_submitter": false,
+            "link_id": "t3_8amlos",
+            "parent_id": "t1_dx0q6he",
+            "score": 2,
+            "stickied": false,
+            "author_name": "michaelkiros"
+        },
+        "dx0yehn": {
+            "comment": "Since other people have provided your request, may I ask, what experiment???",
+            "timeStamp": "2018/04/08-11:00:10",
+            "id": "dx0yehn",
+            "is_submitter": false,
+            "link_id": "t3_8amlos",
+            "parent_id": "t3_8amlos",
+            "score": 3,
+            "stickied": false,
+            "author_name": "Daddu_tum"
+        },
+        "dx0ugsi": {
+            "comment": "uBlock blocks it yay",
+            "timeStamp": "2018/04/08-09:54:39",
+            "id": "dx0ugsi",
+            "is_submitter": false,
+            "link_id": "t3_8amlos",
+            "parent_id": "t1_dwzxpsv",
+            "score": 2,
+            "stickied": false,
+            "author_name": "0xF0xD1E"
+        },
+        "dx0q6he": {
+            "comment": "Here is a list of websites that are running Coinhive:\n\nhttps://www.shodan.io/search?query=http.component%3Acoinhive",
+            "timeStamp": "2018/04/08-08:40:27",
+            "id": "dx0q6he",
+            "is_submitter": false,
+            "link_id": "t3_8amlos",
+            "parent_id": "t3_8amlos",
+            "score": 6,
+            "stickied": false,
+            "author_name": "achillean"
+        },
+        "dx0klqx": {
+            "comment": "Krebs has a nice article/post on Coinhive.  He also references publicwww.com which is a search engine for website source code so you can see the number of websites that have the coinhive JS embedded.",
+            "timeStamp": "2018/04/08-06:50:00",
+            "id": "dx0klqx",
+            "is_submitter": false,
+            "link_id": "t3_8amlos",
+            "parent_id": "t3_8amlos",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Treebrother"
+        },
+        "dx0594b": {
+            "comment": "coin-hive?",
+            "timeStamp": "2018/04/07-22:10:57",
+            "id": "dx0594b",
+            "is_submitter": false,
+            "link_id": "t3_8amlos",
+            "parent_id": "t3_8amlos",
+            "score": 2,
+            "stickied": false,
+            "author_name": "EastCoastCat"
+        },
+        "dwzz10p": {
+            "comment": "http://fitgirl-repacks.site/donate-by-mining/",
+            "timeStamp": "2018/04/07-20:00:21",
+            "id": "dwzz10p",
+            "is_submitter": false,
+            "link_id": "t3_8amlos",
+            "parent_id": "t3_8amlos",
+            "score": 3,
+            "stickied": false,
+            "author_name": "ragupal"
+        },
+        "dwzxpsv": {
+            "comment": "http://www.maturecontent.net/\n\nA site for my WoW guild that cryptomines. I did not make it.",
+            "timeStamp": "2018/04/07-19:35:48",
+            "id": "dwzxpsv",
+            "is_submitter": false,
+            "link_id": "t3_8amlos",
+            "parent_id": "t3_8amlos",
+            "score": 5,
+            "stickied": false,
+            "author_name": "akxdev"
+        },
+        "dwztmxz": {
+            "comment": "Not specifically but it seems a lot of the articles that get posted on here and netsec have crypto miners on them",
+            "timeStamp": "2018/04/07-18:18:38",
+            "id": "dwztmxz",
+            "is_submitter": false,
+            "link_id": "t3_8amlos",
+            "parent_id": "t3_8amlos",
+            "score": 4,
+            "stickied": false,
+            "author_name": "BinaryN1nja"
+        }
+    }
+}

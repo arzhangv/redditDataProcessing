@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "New release: PE-bear 0.5.5",
+        "score": 1,
+        "id": "r4lrfx",
+        "commsNum": 4,
+        "timeStamp": "2021/11/28-19:03:07",
+        "author_name": "DrinkMoreCodeMore",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://github.com/hasherezade/pe-bear-releases/releases/"
+    },
+    "posts": {
+        "hmlldtf": {
+            "comment": "Can be used to view and also edit the headers and section sizes/addresses etc of PE files. Amongst many other handy little features\nEdit: the reason this relates to malware is it's heavily used in the reverse engineering community",
+            "timeStamp": "2021/11/29-16:19:48",
+            "id": "hmlldtf",
+            "is_submitter": false,
+            "link_id": "t3_r4lrfx",
+            "parent_id": "t1_hmhv0lm",
+            "score": 1,
+            "stickied": false,
+            "author_name": "micropeenandproud"
+        },
+        "hmi1f4q": {
+            "comment": "[removed]",
+            "timeStamp": "2021/11/28-21:56:43",
+            "id": "hmi1f4q",
+            "is_submitter": false,
+            "link_id": "t3_r4lrfx",
+            "parent_id": "t3_r4lrfx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hmi19dh": {
+            "comment": "[removed]",
+            "timeStamp": "2021/11/28-21:55:01",
+            "id": "hmi19dh",
+            "is_submitter": false,
+            "link_id": "t3_r4lrfx",
+            "parent_id": "t1_hmhv0lm",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hmhv0lm": {
+            "comment": "eli5 what this is for please",
+            "timeStamp": "2021/11/28-20:54:24",
+            "id": "hmhv0lm",
+            "is_submitter": false,
+            "link_id": "t3_r4lrfx",
+            "parent_id": "t3_r4lrfx",
+            "score": 3,
+            "stickied": false,
+            "author_name": "juyfdsa"
+        }
+    }
+}

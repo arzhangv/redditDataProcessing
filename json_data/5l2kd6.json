@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi, i got this code injection on a server.\nCan someone deobfuscate it? \n\nhttp://pastebin.com/riTACukd",
+        "title": "Can someone debfuscate it?",
+        "score": 3,
+        "id": "5l2kd6",
+        "commsNum": 6,
+        "timeStamp": "2016/12/30-01:08:33",
+        "author_name": "danii1005",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5l2kd6/can_someone_debfuscate_it/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "FBI recovers $500,000 healthcare orgs paid to Maui ransomware",
+        "score": 1,
+        "id": "w3pyrk",
+        "commsNum": 0,
+        "timeStamp": "2022/07/20-08:59:59",
+        "author_name": "DrinkMoreCodeMore",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.bleepingcomputer.com/news/security/fbi-recovers-500-000-healthcare-orgs-paid-to-maui-ransomware/"
+    },
+    "posts": {
+        "ih10d2z": {
+            "comment": "Hackers sometimes use centralized exchanges for exchanging the money to fiat. There are many centralized exchanges that don't require KYC, plus I heard about them using fake identities to verify their accounts, so it's kinda doable.",
+            "timeStamp": "2022/07/21-02:02:55",
+            "id": "ih10d2z",
+            "is_submitter": false,
+            "link_id": "t3_w3pyrk",
+            "parent_id": "t1_igxs8k4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Sylerb"
+        },
+        "igxs8k4": {
+            "comment": "Yeah and I've seen that method in the past.\n\nThe malicious actors will have something like Exodus wallet loaded up on a burner server and send the funds there. LE will pop that server and then send the funds elsewhere ASAP so they cant use the backup/seed phrase to regain access to the crypto.",
+            "timeStamp": "2022/07/20-09:52:40",
+            "id": "igxs8k4",
+            "is_submitter": true,
+            "link_id": "t3_w3pyrk",
+            "parent_id": "t1_igxrqcz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DrinkMoreCodeMore"
+        },
+        "igxrqcz": {
+            "comment": "I feel like it's the latter, no way NK is going through exchanges that actually care about KYC.",
+            "timeStamp": "2022/07/20-09:49:30",
+            "id": "igxrqcz",
+            "is_submitter": false,
+            "link_id": "t3_w3pyrk",
+            "parent_id": "t1_igxk7ch",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RamblinWreckGT"
+        },
+        "igxp295": {
+            "comment": "This is my speculation as well. Hoping FBI will provide more insight",
+            "timeStamp": "2022/07/20-09:32:39",
+            "id": "igxp295",
+            "is_submitter": false,
+            "link_id": "t3_w3pyrk",
+            "parent_id": "t1_igxk7ch",
+            "score": 1,
+            "stickied": false,
+            "author_name": "silas_cutler"
+        },
+        "igxk7ch": {
+            "comment": "What do you think is more likely:\n\n- They were able to trace the $ to a KYC exchange and freeze the account and funds\n\nOR\n\n- They were able to trace the payment to a server IP and were able to seize the server it was on and take control over the wallet",
+            "timeStamp": "2022/07/20-09:02:01",
+            "id": "igxk7ch",
+            "is_submitter": true,
+            "link_id": "t3_w3pyrk",
+            "parent_id": "t3_w3pyrk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DrinkMoreCodeMore"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "RedBoot ransomware also modifies partition table, is it a wiper?",
+        "score": 1,
+        "id": "72arp1",
+        "commsNum": 0,
+        "timeStamp": "2017/09/24-23:51:52",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/63381/malware/redboot-ransomware.html"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Analysis of the Frenchy Shellcode",
+        "score": 8,
+        "id": "cjoi2o",
+        "commsNum": 0,
+        "timeStamp": "2019/07/30-00:50:06",
+        "author_name": "peppermalware",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.peppermalware.com/2019/07/analysis-of-frenchy-shellcode.html#more"
+    },
+    "posts": {}
+}

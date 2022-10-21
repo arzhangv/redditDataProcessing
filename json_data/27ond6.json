@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Extracting the payload from a CVE-2014-1761 RTF document",
+        "score": 3,
+        "id": "27ond6",
+        "commsNum": 0,
+        "timeStamp": "2014/06/09-02:16:46",
+        "author_name": "digicat",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.nccgroup.com/en/blog/2014/06/extracting-the-payload-from-a-cve-2014-1761-rtf-document/"
+    },
+    "posts": {}
+}

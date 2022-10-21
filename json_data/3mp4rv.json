@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[deleted]",
+        "title": "Mobile Ad Networks as DDoS Vectors: A Case Study",
+        "score": 1,
+        "id": "3mp4rv",
+        "commsNum": 0,
+        "timeStamp": "2015/09/28-06:33:11",
+        "author_name": "[deleted]",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://blog.cloudflare.com/mobile-ad-networks-as-ddos-vectors/"
+    },
+    "posts": {}
+}

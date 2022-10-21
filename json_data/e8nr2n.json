@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "MalwinX: A framework for learning Malware and win32 functions",
+        "score": 1,
+        "id": "e8nr2n",
+        "commsNum": 1,
+        "timeStamp": "2019/12/09-23:58:42",
+        "author_name": "beyonderdabas",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityviacode.in/view_article/+MalwinX:+A+framework+for+learning+Malware+and+win32+functions"
+    },
+    "posts": {
+        "fadk886": {
+            "comment": "[removed]",
+            "timeStamp": "2019/12/10-03:06:38",
+            "id": "fadk886",
+            "is_submitter": false,
+            "link_id": "t3_e8nr2n",
+            "parent_id": "t3_e8nr2n",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

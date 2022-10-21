@@ -1,0 +1,154 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I was looking for minecraft texture packs and was downloading from a very reliable website. I did the usual scan on the file with windows defender because I typically don't use antivirus. Simply scanning the file somehow ran it and now certain file types are encrypted. Can someone explain to me the technical reason on how malware can be triggered without even running the program. I don't want help on this, because I got the issue taken care of.",
+        "title": "The most odd trigger",
+        "score": 1,
+        "id": "it0vok",
+        "commsNum": 12,
+        "timeStamp": "2020/09/14-20:34:06",
+        "author_name": "it-be-red",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 12,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/it0vok/the_most_odd_trigger/"
+    },
+    "posts": {
+        "g5g0z0b": {
+            "comment": "[deleted]",
+            "timeStamp": "2020/09/15-22:27:37",
+            "id": "g5g0z0b",
+            "is_submitter": false,
+            "link_id": "t3_it0vok",
+            "parent_id": "t1_g5bxm4c",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "g5cvfhv": {
+            "comment": "Running an exe should never be part of installing a texture pack. There's no reason for it. It sounds like you downloaded it from a website that repackages texture packs and mods so they can dump malware and adware on users.\n\nWhich file types do you think are encrypted?",
+            "timeStamp": "2020/09/15-07:18:45",
+            "id": "g5cvfhv",
+            "is_submitter": false,
+            "link_id": "t3_it0vok",
+            "parent_id": "t1_g5bt7ui",
+            "score": 1,
+            "stickied": false,
+            "author_name": "takochako"
+        },
+        "g5ccwfd": {
+            "comment": "&gt; Simply scanning the file somehow ran it and now certain file types are encrypted.\n\nThis is *extremely* unlikely. For this to happen from merely reading the file, you'd need to exploit the program that is reading the file, namely, the antivirus scanner.",
+            "timeStamp": "2020/09/15-03:38:55",
+            "id": "g5ccwfd",
+            "is_submitter": false,
+            "link_id": "t3_it0vok",
+            "parent_id": "t3_it0vok",
+            "score": 3,
+            "stickied": false,
+            "author_name": "wmassingham"
+        },
+        "g5c074x": {
+            "comment": "[removed]",
+            "timeStamp": "2020/09/14-23:42:20",
+            "id": "g5c074x",
+            "is_submitter": false,
+            "link_id": "t3_it0vok",
+            "parent_id": "t3_it0vok",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "g5bxsox": {
+            "comment": "Ok, thx bro I'mma check out the links",
+            "timeStamp": "2020/09/14-23:06:18",
+            "id": "g5bxsox",
+            "is_submitter": true,
+            "link_id": "t3_it0vok",
+            "parent_id": "t1_g5bxm4c",
+            "score": 1,
+            "stickied": false,
+            "author_name": "it-be-red"
+        },
+        "g5bxm4c": {
+            "comment": "First regarding your question: Scanning files for a virus is hard. In the same way a virus can encrypt your files it can also encrypt itself but with a self-decryption at the start of the virus .exe file. So when looking at the virus you can't see what it does because it will first decrypt itself and do evil stuff afterwards.\n\nIn order to still find a virus which does that any .exe will be run by the antivirus when scanned. This may seem dangerous and it really [is dangerous](https://youtu.be/2NawGCUOYT4) but the antivirus vendors do everything they can to sandbox this execution so it cannot do harm during that execution. The amount of Windows-APIs is very limited and it's heavily sandboxed. It's a bit like an app without any permissions granted. It can be as angry and malicious, without granting the proper permissions it doesn't do anything except eating a bit of CPU and RAM.\n\nEvery now and then some holes in these sandboxes are found, see the link above if you're interested in the gory tech details, and some virus can bypass this sandboxing. It is rare (and expensive for hackers to find) and may not be what happened with your pc but this is a possibility. \n\nHere's whats more likely: You have gotten a virus from somewhere else some other time and it simply waited to start. This makes it harder for you to find out where you got the virus from and report it ^^ The technique above is a possibility but loopholes like these are easily worth millions and hackers would use them very diligently to attack companies, not to put them inside minecraft texture packs :)",
+            "timeStamp": "2020/09/14-23:03:40",
+            "id": "g5bxm4c",
+            "is_submitter": false,
+            "link_id": "t3_it0vok",
+            "parent_id": "t3_it0vok",
+            "score": 4,
+            "stickied": false,
+            "author_name": "F1remind"
+        },
+        "g5bt7ui": {
+            "comment": "No the .exe was in the folder and it made a new directory that was a bunch of different characters when i was having the issues.",
+            "timeStamp": "2020/09/14-22:06:50",
+            "id": "g5bt7ui",
+            "is_submitter": true,
+            "link_id": "t3_it0vok",
+            "parent_id": "t1_g5bt1pi",
+            "score": 1,
+            "stickied": false,
+            "author_name": "it-be-red"
+        },
+        "g5bt1pi": {
+            "comment": "Yeah, don't use installers for texture packs :D installing one is already as easy as doing copy&amp;paste, other than the self-extracting archieve I don't have much to explain this :D, maybe the folder was a .exe file with a folder icon ? But that seems unlikely. Anyways take care C;",
+            "timeStamp": "2020/09/14-22:04:45",
+            "id": "g5bt1pi",
+            "is_submitter": false,
+            "link_id": "t3_it0vok",
+            "parent_id": "t1_g5bshtr",
+            "score": 3,
+            "stickied": false,
+            "author_name": "Noobaly"
+        },
+        "g5bshtr": {
+            "comment": "I'm not entirely sure because this is the first time I have ever gotten malware on one of my pcs, and the .exe was an installer",
+            "timeStamp": "2020/09/14-21:57:59",
+            "id": "g5bshtr",
+            "is_submitter": true,
+            "link_id": "t3_it0vok",
+            "parent_id": "t1_g5bsd8o",
+            "score": 1,
+            "stickied": false,
+            "author_name": "it-be-red"
+        },
+        "g5bsd8o": {
+            "comment": "I think he meant the encrypted files. Also i've never heard a texture pack having .exe files. One more question, did the program create a ransom note, ransomware does that. How could they want you to  pay the ransom otherwise.\n\nEdit: If it was a self-extarcting archieve than maybe it  extracted an executable to the start-up directory",
+            "timeStamp": "2020/09/14-21:56:28",
+            "id": "g5bsd8o",
+            "is_submitter": false,
+            "link_id": "t3_it0vok",
+            "parent_id": "t1_g5bo786",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Noobaly"
+        },
+        "g5bo786": {
+            "comment": "No, it was a typical folder with a .jar and .exe not a dll driver or anything",
+            "timeStamp": "2020/09/14-21:08:46",
+            "id": "g5bo786",
+            "is_submitter": true,
+            "link_id": "t3_it0vok",
+            "parent_id": "t1_g5bnzso",
+            "score": 1,
+            "stickied": false,
+            "author_name": "it-be-red"
+        },
+        "g5bnzso": {
+            "comment": "is there an added  extension? like \"importantfilename.exe.kook\"? or \"importantfilename.kook\"?",
+            "timeStamp": "2020/09/14-21:06:23",
+            "id": "g5bnzso",
+            "is_submitter": false,
+            "link_id": "t3_it0vok",
+            "parent_id": "t3_it0vok",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Interesting-Bus-5370"
+        }
+    }
+}

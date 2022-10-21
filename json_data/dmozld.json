@@ -1,0 +1,99 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": " Hello all.I spent some time making the virus using java programming language. The virus is an upgraded version of wannacry . It requests payment of a certain amount of money in Monero (XMR) cryptocurrency to restore normal operation of the computer.The virus blocks the use of the mouse and keyboard,if you restart the device, the virus starts itself when the device is started.The virus breaks down and deletes itself after payment,and restores all computer capability.In fact, it is not a virus because it is not spreading yourself.I do not intend to misuse or sell it, I make it out of sheer curiosity to see if anyone has a solution for how to deactivate it and remove it.I still haven't finished it.I'll make a backdoor if something goes wrong that it can be stopped.I wonder if there are interested to see how simple the program is and how hard it is to interrupt.I wonder if it's a good idea to post the code on github where others might consider the code and potentially find a solution,but i'm not sure because someone can use it to make some damage to other people.What do you think?",
+        "title": "malware analysis",
+        "score": 15,
+        "id": "dmozld",
+        "commsNum": 7,
+        "timeStamp": "2019/10/24-16:39:39",
+        "author_name": "holle197",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/dmozld/malware_analysis/"
+    },
+    "posts": {
+        "f54t4dg": {
+            "comment": "Yeah sure!! People would like to view and analyse this upgrade also!!",
+            "timeStamp": "2019/10/25-01:13:53",
+            "id": "f54t4dg",
+            "is_submitter": false,
+            "link_id": "t3_dmozld",
+            "parent_id": "t3_dmozld",
+            "score": 1,
+            "stickied": false,
+            "author_name": "unknown_guest17"
+        },
+        "f54jrfr": {
+            "comment": "[removed]",
+            "timeStamp": "2019/10/24-23:26:35",
+            "id": "f54jrfr",
+            "is_submitter": false,
+            "link_id": "t3_dmozld",
+            "parent_id": "t3_dmozld",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "f54fixr": {
+            "comment": "If it's any good, people will use it for malicious purposes. \n\nAsk yourself if it's worth it. You could be prosecuted.",
+            "timeStamp": "2019/10/24-22:13:43",
+            "id": "f54fixr",
+            "is_submitter": false,
+            "link_id": "t3_dmozld",
+            "parent_id": "t3_dmozld",
+            "score": 1,
+            "stickied": false,
+            "author_name": "LeftHandedGraffiti"
+        },
+        "f540jjv": {
+            "comment": "&gt;it's rare that people upgrade malware\n\n\"oRb\" or whoever he is did versions 2.0 through 2.5 of his web shell (WSO, FilesMan).  Later versions had bug fixes, more features, etc. Very corporate.",
+            "timeStamp": "2019/10/24-18:48:06",
+            "id": "f540jjv",
+            "is_submitter": false,
+            "link_id": "t3_dmozld",
+            "parent_id": "t1_f53kzzz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "bediger4000"
+        },
+        "f53wem2": {
+            "comment": "I\u2019ll add to this. Do it as anonymously as possible. \n\nOP\u2019s hesitation to post malware is reasonable and prudent, given the potential to misunderstand intention and end up in a legal situation. \n\nIt\u2019s also a good exercise in anonymizing your code and build process, which is in and of itself a valuable characteristic of good malware.",
+            "timeStamp": "2019/10/24-18:05:39",
+            "id": "f53wem2",
+            "is_submitter": false,
+            "link_id": "t3_dmozld",
+            "parent_id": "t1_f53kzzz",
+            "score": 3,
+            "stickied": false,
+            "author_name": "ng362khXG1"
+        },
+        "f53lxvd": {
+            "comment": "Okay.",
+            "timeStamp": "2019/10/24-16:53:49",
+            "id": "f53lxvd",
+            "is_submitter": true,
+            "link_id": "t3_dmozld",
+            "parent_id": "t1_f53kzzz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "holle197"
+        },
+        "f53kzzz": {
+            "comment": "Post it on github, remember that we already have the source code to a lot of malware, so we will greatly appreciate your contribution, but it will not be useful to malware authors. I say go ahead, just remember to post us a link. I'll happily see what you've done, it's rare that people upgrade malware and I'm sure it'll be of great interest to our community.",
+            "timeStamp": "2019/10/24-16:49:21",
+            "id": "f53kzzz",
+            "is_submitter": false,
+            "link_id": "t3_dmozld",
+            "parent_id": "t3_dmozld",
+            "score": 9,
+            "stickied": false,
+            "author_name": "IThobby"
+        }
+    }
+}

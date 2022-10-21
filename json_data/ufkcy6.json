@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I'm unsure if this is the correct place to ask about it, but I've received a [link](https://wjf.jzsrdz.com/cioIL3?lang=zh-cn) to download an application, and everything (from the link, to the website, which shows the download button only in mobile) about it is shady, including the person who I got the link from, keeps insisting that I download it.\n\nI dont have any experience with malware analysis, so I'm wondering if it is possible to analyse what this application is or what it does?\n\nTL;DR got a link to download a suspicious app and now wondering if it is possible to analyse the app",
+        "title": "Malware analysis of application",
+        "score": 1,
+        "id": "ufkcy6",
+        "commsNum": 0,
+        "timeStamp": "2022/04/30-14:20:59",
+        "author_name": "IrrepressibleDye",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ufkcy6/malware_analysis_of_application/"
+    },
+    "posts": {
+        "i7elm34": {
+            "comment": "Sounds like it would be kinda interesting but I would get layers of VMware on first with an anti-virus otherwise it's not worth the risk. God only knows what they put in there",
+            "timeStamp": "2022/05/05-02:22:41",
+            "id": "i7elm34",
+            "is_submitter": false,
+            "link_id": "t3_ufkcy6",
+            "parent_id": "t1_i70aaum",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Zrainyday"
+        },
+        "i70aaum": {
+            "comment": "Yes, Im curious what this app actually does and what kind of damage can it do",
+            "timeStamp": "2022/05/02-02:13:43",
+            "id": "i70aaum",
+            "is_submitter": true,
+            "link_id": "t3_ufkcy6",
+            "parent_id": "t1_i6ujwpe",
+            "score": 1,
+            "stickied": false,
+            "author_name": "IrrepressibleDye"
+        },
+        "i6ujwpe": {
+            "comment": "Do you have any motivation to actually install this app other than 'shady person insists'? Tell him to fuck off and die then forget all about it",
+            "timeStamp": "2022/04/30-16:55:05",
+            "id": "i6ujwpe",
+            "is_submitter": false,
+            "link_id": "t3_ufkcy6",
+            "parent_id": "t3_ufkcy6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Krombuchar2"
+        },
+        "i6uelug": {
+            "comment": "Only good things can come from shady dudes giving me stuff to download:  \nhttps://www.virustotal.com/gui/file/81fe965423e3d78e608af712bc065b18afc50ecc019dfcbb0d1b7e3bea5f7ad2",
+            "timeStamp": "2022/04/30-16:09:53",
+            "id": "i6uelug",
+            "is_submitter": false,
+            "link_id": "t3_ufkcy6",
+            "parent_id": "t3_ufkcy6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "howdygents"
+        },
+        "i6ue0ss": {
+            "comment": "[removed]",
+            "timeStamp": "2022/04/30-16:04:57",
+            "id": "i6ue0ss",
+            "is_submitter": false,
+            "link_id": "t3_ufkcy6",
+            "parent_id": "t3_ufkcy6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "i6udu64": {
+            "comment": "[removed]",
+            "timeStamp": "2022/04/30-16:03:26",
+            "id": "i6udu64",
+            "is_submitter": false,
+            "link_id": "t3_ufkcy6",
+            "parent_id": "t3_ufkcy6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

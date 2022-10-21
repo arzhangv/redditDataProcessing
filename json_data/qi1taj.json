@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Qakbot IOCs",
+        "score": 1,
+        "id": "qi1taj",
+        "commsNum": 0,
+        "timeStamp": "2021/10/28-18:42:54",
+        "author_name": "DrinkMoreCodeMore",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://github.com/executemalware/Malware-IOCs/blob/main/2021-10-28%20Qakbot%20IOCs"
+    },
+    "posts": {}
+}

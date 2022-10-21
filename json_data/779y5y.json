@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "The attachment was in a zip file pretending to be a voicemail. I opened the file in my sandbox and got a VBS script. Can anyone possibly look at this script and tell me what they think it does or what its purpose is? Super interested in understanding how some of this stuff works so I can teach myself to better prevent things in the future.\n\nhttps://pastebin.com/K81XQePb",
+        "title": "Stopped an employee from opening a zipped file that appeared in his email. I let one into my sandbox to inspect the vbs file inside. Can anyone halp?",
+        "score": 11,
+        "id": "779y5y",
+        "commsNum": 7,
+        "timeStamp": "2017/10/18-14:47:03",
+        "author_name": "XaviXavi",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/779y5y/stopped_an_employee_from_opening_a_zipped_file/"
+    },
+    "posts": {}
+}

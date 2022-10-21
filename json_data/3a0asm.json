@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Authors of Duqu 2.0 used a stolen digital certificate in attacks",
+        "score": 1,
+        "id": "3a0asm",
+        "commsNum": 0,
+        "timeStamp": "2015/06/15-22:45:11",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/37826/malware/duqu-2-0-stolen-certificate.html"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi all.\nI'm reading PMA(Practical Malware Analysis) book and doing exercises along. I took First few exercises: Lab01-01.exe and Lab01-02.exe. They doesn't work nor on Windows XP SP3 and Win7. Whenever I launch these binaries(malwares) they do NOTHING.\n\nIs there anyone with the same issue? and what can I do to solve this problem?",
+        "title": "Practical Malware Analysis book Lab Exercises",
+        "score": 8,
+        "id": "6kpqb8",
+        "commsNum": 5,
+        "timeStamp": "2017/07/01-14:56:07",
+        "author_name": "Higgsx",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6kpqb8/practical_malware_analysis_book_lab_exercises/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,154 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Checked on [virustotal.com](https://virustotal.com/), that PDF has this virus.\n\nWhat to do next?\n\nUsing malwarebytes pro, but nothing popped up.\n\nEverything running fine.\n\nHelp!",
+        "title": "Opened PDF with this Trojan.WIN32.PDF.Alien.gen",
+        "score": 1,
+        "id": "hjtdvc",
+        "commsNum": 12,
+        "timeStamp": "2020/07/02-01:40:14",
+        "author_name": "jasze",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 12,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/hjtdvc/opened_pdf_with_this_trojanwin32pdfaliengen/"
+    },
+    "posts": {
+        "fwoy6yp": {
+            "comment": "&gt; 96feb7b5de950da97a88d6e8e63c223a19a9e241df280c6ab4a71bf6b1e88f48\n\nSo this file hash is giving 1 score only and seems due to the nature of dll calls it is invoking.. You can chill, nothing much to worry!",
+            "timeStamp": "2020/07/02-06:16:57",
+            "id": "fwoy6yp",
+            "is_submitter": false,
+            "link_id": "t3_hjtdvc",
+            "parent_id": "t1_fwoll7g",
+            "score": 1,
+            "stickied": false,
+            "author_name": "blackperl_dfir"
+        },
+        "fwoll7g": {
+            "comment": "Thanks seems like I have to chill!\n\nwas worried",
+            "timeStamp": "2020/07/02-03:58:51",
+            "id": "fwoll7g",
+            "is_submitter": true,
+            "link_id": "t3_hjtdvc",
+            "parent_id": "t1_fwojezm",
+            "score": 1,
+            "stickied": false,
+            "author_name": "jasze"
+        },
+        "fwolkcr": {
+            "comment": " \n\n&gt;file hash for the scan: 96feb7b5de950da97a88d6e8e63c223a19a9e241df280c6ab4a71bf6b1e88f48  \nopen in virustotal",
+            "timeStamp": "2020/07/02-03:58:30",
+            "id": "fwolkcr",
+            "is_submitter": true,
+            "link_id": "t3_hjtdvc",
+            "parent_id": "t1_fwojezm",
+            "score": 1,
+            "stickied": false,
+            "author_name": "jasze"
+        },
+        "fwolilg": {
+            "comment": "&gt;file hash for the scan: 96feb7b5de950da97a88d6e8e63c223a19a9e241df280c6ab4a71bf6b1e88f48  \n&gt;  \n&gt;open in virustotal",
+            "timeStamp": "2020/07/02-03:57:46",
+            "id": "fwolilg",
+            "is_submitter": true,
+            "link_id": "t3_hjtdvc",
+            "parent_id": "t1_fwoiwql",
+            "score": 1,
+            "stickied": false,
+            "author_name": "jasze"
+        },
+        "fwoli1u": {
+            "comment": "I opened for some info, and I found empty with the text.\n\n\"click on the link below before it expires\"\n\nthe whole page with empty and hyperlink over it, when I clicked no page got open on the browser. So I was like I fucked.",
+            "timeStamp": "2020/07/02-03:57:33",
+            "id": "fwoli1u",
+            "is_submitter": true,
+            "link_id": "t3_hjtdvc",
+            "parent_id": "t1_fwohkrp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "jasze"
+        },
+        "fwoldja": {
+            "comment": "&gt;file hash for the scan: 96feb7b5de950da97a88d6e8e63c223a19a9e241df280c6ab4a71bf6b1e88f48  \n&gt;  \n&gt;open in virustotal",
+            "timeStamp": "2020/07/02-03:55:37",
+            "id": "fwoldja",
+            "is_submitter": true,
+            "link_id": "t3_hjtdvc",
+            "parent_id": "t1_fwohk6k",
+            "score": 1,
+            "stickied": false,
+            "author_name": "jasze"
+        },
+        "fwold64": {
+            "comment": "Deleted it, searhcing again \n\nfile hash for the scan: 96feb7b5de950da97a88d6e8e63c223a19a9e241df280c6ab4a71bf6b1e88f48\n\nopen in virustotal",
+            "timeStamp": "2020/07/02-03:55:28",
+            "id": "fwold64",
+            "is_submitter": true,
+            "link_id": "t3_hjtdvc",
+            "parent_id": "t1_fwoft87",
+            "score": 1,
+            "stickied": false,
+            "author_name": "jasze"
+        },
+        "fwojezm": {
+            "comment": "In case, you are not comfortable to share the outcome of virustotal with the community, quite understandable! \n\nSo, this kind of scenario is common enough. First, you you have opened the pdf and your malwarebytes pro didn't gave any signal, might be it has not been updated the DAT signature/it is not running scans on ad-hoc mode/it doesn't have a detection at all for that pdf which you have encountered with!\n\nCheck what is the virustotal score. If that is above 10/56 or 10/60 we would worry a bit but below that noting much to worry.  **Trojan.WIN32.PDF.Alien.gen** is basically a custom name for Windows Defender, so in VirusTotal that might has triggered the alarm for you. So, ask your vendor(malwarebyte) to check the sample for you and update their malware signature in form of eDAT. Next, if the score of VT in &gt;10 and that is coming from known AV engines then go ahead and format your device for a clean start, and if those detection are form any heuristic detection, those might not be too much worrysome. Once you get the update on your AV engine that threat will be handled..",
+            "timeStamp": "2020/07/02-03:25:04",
+            "id": "fwojezm",
+            "is_submitter": false,
+            "link_id": "t3_hjtdvc",
+            "parent_id": "t3_hjtdvc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "blackperl_dfir"
+        },
+        "fwoiwql": {
+            "comment": "pdf exploits are not common now, i wouldn't worry",
+            "timeStamp": "2020/07/02-03:17:03",
+            "id": "fwoiwql",
+            "is_submitter": false,
+            "link_id": "t3_hjtdvc",
+            "parent_id": "t3_hjtdvc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "nre_graphico"
+        },
+        "fwohkrp": {
+            "comment": "How were you notified?\nDid the PDF open anyway?\nAre you using a consumer version of AV?\nIs there a management console, or other interface that will give you some more information?",
+            "timeStamp": "2020/07/02-02:55:22",
+            "id": "fwohkrp",
+            "is_submitter": false,
+            "link_id": "t3_hjtdvc",
+            "parent_id": "t3_hjtdvc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Patchewski"
+        },
+        "fwohk6k": {
+            "comment": "Could you link us the VirusTotal results you got?",
+            "timeStamp": "2020/07/02-02:55:05",
+            "id": "fwohk6k",
+            "is_submitter": false,
+            "link_id": "t3_hjtdvc",
+            "parent_id": "t3_hjtdvc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DieBlackfisk"
+        },
+        "fwoft87": {
+            "comment": "Can you send a Sample of this PDF to me ? Please",
+            "timeStamp": "2020/07/02-02:25:56",
+            "id": "fwoft87",
+            "is_submitter": false,
+            "link_id": "t3_hjtdvc",
+            "parent_id": "t3_hjtdvc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Ali_Alnuaimi"
+        }
+    }
+}

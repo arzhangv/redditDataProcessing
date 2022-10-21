@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[deleted]",
+        "title": "Analysing CryptoLocker with unpack.py: Network Communications (part 3) [1 &amp; 2 in comment]",
+        "score": 13,
+        "id": "4j7oi0",
+        "commsNum": 2,
+        "timeStamp": "2016/05/13-11:26:06",
+        "author_name": "[deleted]",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://malwaremusings.com/2016/05/13/analysing-cryptolocker-with-unpack-py-network-communications-part-3/"
+    },
+    "posts": {}
+}

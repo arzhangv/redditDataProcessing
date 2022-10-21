@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "[removed]",
+        "title": "Best free memory dump tool for Windows (x86 and x64) for use with volatility?",
+        "score": 1,
+        "id": "rxhqww",
+        "commsNum": 1,
+        "timeStamp": "2022/01/06-07:53:15",
+        "author_name": "crimpshrine",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/rxhqww/best_free_memory_dump_tool_for_windows_x86_and/"
+    },
+    "posts": {
+        "hry04xs": {
+            "comment": "Thanks, must just have bad luck, the website I found for Moonsol I am unable to download the tool, the link does nothing for me in multiple browsers. https://moonsols.com/index.html\n\nThe \"get free\" button does nothing for me.\n\nI also found a github for it but is over 10 years old, not sure if that one is current.\n\nhttps://github.com/thimbleweed/All-In-USB/tree/master/utilities/DumpIt\n\nI did wind up eventually finding this other dump tool which seemed to work on Win10 x64:\n\nhttps://github.com/Velocidex/WinPmem",
+            "timeStamp": "2022/01/09-10:20:41",
+            "id": "hry04xs",
+            "is_submitter": true,
+            "link_id": "t3_rxhqww",
+            "parent_id": "t1_hrtinnh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "crimpshrine"
+        },
+        "hrtinnh": {
+            "comment": "DumpIt by Moonsol or the company who bought it.",
+            "timeStamp": "2022/01/08-12:18:06",
+            "id": "hrtinnh",
+            "is_submitter": false,
+            "link_id": "t3_rxhqww",
+            "parent_id": "t3_rxhqww",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Chemical_Volume6354"
+        },
+        "hri5tuh": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators **and be sure to include the link to the post** - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2022/01/06-07:53:16",
+            "id": "hri5tuh",
+            "is_submitter": false,
+            "link_id": "t3_rxhqww",
+            "parent_id": "t3_rxhqww",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

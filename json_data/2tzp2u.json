@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I'm trying to do a challenge. We're handed the IceIX configuration file and .exe and we have to decrypt the config file. I'm not a total n00b but at reverse engineering almost... So my question is: how do I find the encryption key? Every article I read is like \"ok here is the encryption key\" and I have no idea how to find it. I've just got the malware analyst cookbook, so if someone could point a releant part of the book or anything that would be great.\nThank you",
+        "title": "How to find encryption key in bot? (iceIX)",
+        "score": 4,
+        "id": "2tzp2u",
+        "commsNum": 0,
+        "timeStamp": "2015/01/28-10:58:43",
+        "author_name": "[deleted]",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2tzp2u/how_to_find_encryption_key_in_bot_iceix/"
+    },
+    "posts": {}
+}

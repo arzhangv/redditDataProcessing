@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Snatch ransomware reboots PCs into Safe Mode to bypass protection",
+        "score": 1,
+        "id": "e8g5nu",
+        "commsNum": 4,
+        "timeStamp": "2019/12/09-13:13:50",
+        "author_name": "DrinkMoreCodeMore",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://news.sophos.com/en-us/2019/12/09/snatch-ransomware-reboots-pcs-into-safe-mode-to-bypass-protection/"
+    },
+    "posts": {
+        "fh6whew": {
+            "comment": "[removed]",
+            "timeStamp": "2020/02/09-20:11:20",
+            "id": "fh6whew",
+            "is_submitter": false,
+            "link_id": "t3_e8g5nu",
+            "parent_id": "t3_e8g5nu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fadivxs": {
+            "comment": "Not really. As long as there is networking in safe mode, the initial script can just reboot and then download the actual malware in safe mode",
+            "timeStamp": "2019/12/10-02:32:56",
+            "id": "fadivxs",
+            "is_submitter": false,
+            "link_id": "t3_e8g5nu",
+            "parent_id": "t1_fada4nh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "pointyball"
+        },
+        "fadba28": {
+            "comment": "Haha was thinking the same",
+            "timeStamp": "2019/12/09-23:26:09",
+            "id": "fadba28",
+            "is_submitter": false,
+            "link_id": "t3_e8g5nu",
+            "parent_id": "t1_fada4nh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "americaneagle98"
+        },
+        "fada4nh": {
+            "comment": "AV has to miss it for it to be able to do that in the first place.",
+            "timeStamp": "2019/12/09-23:02:00",
+            "id": "fada4nh",
+            "is_submitter": false,
+            "link_id": "t3_e8g5nu",
+            "parent_id": "t3_e8g5nu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "nightmareuki"
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Today our organisation recieved an email containing a link to a Jar File. \n\nWhen opened in a Windows 10 VM this file thrashed the CPU at 100% for a few seconds, maxxed the disk for a few seconds and then went back to idle. \n\nThis file is not detected by Virustotal.\n\nI did some investigating, and what I discovered is if I rename the .jar into a .zip there are many, many class files which have very strange names.  Some of these class files are empty while others mention AES Encryption so possibly some ransomware?\n\nScreenshots from a Java IDE https://imgur.com/a/WQDPGvt\n\nI have uploaded the ZIP file containing all the files to FileDropper here : http://www.filedropper.com/eftreportaugust",
+        "title": "New Ransomware sample? Advice Needed",
+        "score": 0,
+        "id": "d367m8",
+        "commsNum": 2,
+        "timeStamp": "2019/09/12-04:00:41",
+        "author_name": "EdwardTennant",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/d367m8/new_ransomware_sample_advice_needed/"
+    },
+    "posts": {
+        "ezzhbpd": {
+            "comment": "I'm a bot, *bleep*, *bloop*. Someone has linked to this thread from another place on reddit:\n\n- [/r/programming] [Malware Reverse Engineering? Advice needed \\[X-Post r\\/malware\\]](https://www.reddit.com/r/programming/comments/d36bz4/malware_reverse_engineering_advice_needed_xpost/)\n\n&amp;nbsp;*^(If you follow any of the above links, please respect the rules of reddit and don't vote in the other threads.) ^\\([Info](/r/TotesMessenger) ^/ ^[Contact](/message/compose?to=/r/TotesMessenger))*",
+            "timeStamp": "2019/09/12-04:15:38",
+            "id": "ezzhbpd",
+            "is_submitter": false,
+            "link_id": "t3_d367m8",
+            "parent_id": "t3_d367m8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TotesMessenger"
+        },
+        "ezzfgih": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2019/09/12-04:00:42",
+            "id": "ezzfgih",
+            "is_submitter": false,
+            "link_id": "t3_d367m8",
+            "parent_id": "t3_d367m8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

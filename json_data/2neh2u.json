@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "So I'm more of a digital forensics guy, but I've recently started a new gig where I am doing more of a malware analysis role. \n\n\nThe bulk of my duties involve me investigating potentially malicious URLs and Documents, with URLs being about 90% of the workload.\n\n\nI took the SANS GREM course/cert a couple years back and have done a handful of dynamic analysis over the past couple years, but nothing too in depth.\n\n\nI'd like to ask the malware community what they find to be the best tools for investigating malicious URLs to determine if they serve up malware or host various vulnerabilities.\n\n\nWhat I've been doing so far, is mainly using Chrome Dev Tools to debug websites on a Linux box to see all the HTTP headers/requests/responses as well as what javascript or css is being invoked and from where. However, I'm not really a coder, so looking over lines of JS doesn't really do much for me. I'll use sites like urlquery.net / jsunpack.jeek.org / virustotal, and other free online tools to try to gather as much information about a URL that I can get. I'll also use Malzilla to list all the URLs and redirects that occur but I do not know how to analyze JS through Malzilla or anything.\n\n\nMost of the sites I encounter are plain old phishing sites, but are usually pretty cut and dry. But I just wanted to know if any of you have done much malicious URL investigation and have any tips on tools/procedures to step through to analyze them?\n\nWould appreciate it.",
+        "title": "Open Source Malware/URL Investigation Tools",
+        "score": 18,
+        "id": "2neh2u",
+        "commsNum": 3,
+        "timeStamp": "2014/11/25-11:40:17",
+        "author_name": "Index_Dot_Zach",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2neh2u/open_source_malwareurl_investigation_tools/"
+    },
+    "posts": {}
+}

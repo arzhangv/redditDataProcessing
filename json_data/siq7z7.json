@@ -1,0 +1,143 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Does anyone know where I can find malware samples with their source code?",
+        "title": "Malware samples",
+        "score": 1,
+        "id": "siq7z7",
+        "commsNum": 0,
+        "timeStamp": "2022/02/02-06:37:34",
+        "author_name": "dannova23",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/siq7z7/malware_samples/"
+    },
+    "posts": {
+        "hvpjy5a": {
+            "comment": "[removed]",
+            "timeStamp": "2022/02/05-07:52:57",
+            "id": "hvpjy5a",
+            "is_submitter": false,
+            "link_id": "t3_siq7z7",
+            "parent_id": "t3_siq7z7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hve862m": {
+            "comment": "pass is mysubsarethebest",
+            "timeStamp": "2022/02/03-00:02:36",
+            "id": "hve862m",
+            "is_submitter": false,
+            "link_id": "t3_siq7z7",
+            "parent_id": "t1_hve83yn",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Alternative-Ad-3041"
+        },
+        "hve83yn": {
+            "comment": "https://github.com/Endermanch/MalwareDatabase",
+            "timeStamp": "2022/02/03-00:01:54",
+            "id": "hve83yn",
+            "is_submitter": false,
+            "link_id": "t3_siq7z7",
+            "parent_id": "t3_siq7z7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Alternative-Ad-3041"
+        },
+        "hvb9quh": {
+            "comment": "https://bazaar.abuse.ch/browse/ live feed of new samples",
+            "timeStamp": "2022/02/02-11:01:08",
+            "id": "hvb9quh",
+            "is_submitter": false,
+            "link_id": "t3_siq7z7",
+            "parent_id": "t3_siq7z7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Trolling_turd"
+        },
+        "hvax4j3": {
+            "comment": "[removed]",
+            "timeStamp": "2022/02/02-09:43:37",
+            "id": "hvax4j3",
+            "is_submitter": false,
+            "link_id": "t3_siq7z7",
+            "parent_id": "t3_siq7z7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hvae1d2": {
+            "comment": "The Malware Zoo https://github.com/ytisf/theZoo",
+            "timeStamp": "2022/02/02-07:47:27",
+            "id": "hvae1d2",
+            "is_submitter": false,
+            "link_id": "t3_siq7z7",
+            "parent_id": "t3_siq7z7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "rjzak"
+        },
+        "hvackkz": {
+            "comment": "Someone mentioned VXUG but didn't realize they do have source code: https://github.com/vxunderground/MalwareSourceCode/",
+            "timeStamp": "2022/02/02-07:38:09",
+            "id": "hvackkz",
+            "is_submitter": false,
+            "link_id": "t3_siq7z7",
+            "parent_id": "t3_siq7z7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "lakitustanfield"
+        },
+        "hva7z9r": {
+            "comment": "There are many leaked samples from forums/sellers on github to analyse for detection clues, with *complete* sourcecode without the need for decompiling them for some malware families. I'm not gonna link to them directly but they are extremely easy to find with a google search.",
+            "timeStamp": "2022/02/02-07:08:15",
+            "id": "hva7z9r",
+            "is_submitter": false,
+            "link_id": "t3_siq7z7",
+            "parent_id": "t3_siq7z7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "GoranLind"
+        },
+        "hva58vf": {
+            "comment": "Thanks",
+            "timeStamp": "2022/02/02-06:49:58",
+            "id": "hva58vf",
+            "is_submitter": true,
+            "link_id": "t3_siq7z7",
+            "parent_id": "t1_hva4kor",
+            "score": 1,
+            "stickied": false,
+            "author_name": "dannova23"
+        },
+        "hva4kor": {
+            "comment": "https://www.vx-underground.org/\n\nYou can get samples, but you have to reverse them for \u201csource code.\u201d I put that in quotes because reversing the malware doesn\u2019t always give you clean source code",
+            "timeStamp": "2022/02/02-06:45:24",
+            "id": "hva4kor",
+            "is_submitter": false,
+            "link_id": "t3_siq7z7",
+            "parent_id": "t3_siq7z7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DeadbeatHoneyBadger"
+        },
+        "hva4e8t": {
+            "comment": "[removed]",
+            "timeStamp": "2022/02/02-06:44:11",
+            "id": "hva4e8t",
+            "is_submitter": false,
+            "link_id": "t3_siq7z7",
+            "parent_id": "t3_siq7z7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

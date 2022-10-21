@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I\u2019m not competent in testing malware myself and was wondering if anyone who knows how to safely run and analyse malware could find out what these do - I know that at least 2 of them are malware but I am reluctant to run on my home pc. Thanks in advance. https://s4.dosya.tc/server8/icazpl/Zef_Spray.rar.html\n\nhttps://cdn.discordapp.com/attachments/634811757059244052/643039564436602900/Debug_V1.0.rar\n\nhttps://cdn.discordapp.com/attachments/634811757059244052/642499978694230016/DiscordByFaruk.rar\n\n\nThere is one more EXE which I cannot link as I would have to download first",
+        "title": "Any help with a suspected ratr?",
+        "score": 1,
+        "id": "ee3qo2",
+        "commsNum": 1,
+        "timeStamp": "2019/12/22-03:01:36",
+        "author_name": "2019rust",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ee3qo2/any_help_with_a_suspected_ratr/"
+    },
+    "posts": {
+        "fbonl1f": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2019/12/22-03:01:36",
+            "id": "fbonl1f",
+            "is_submitter": false,
+            "link_id": "t3_ee3qo2",
+            "parent_id": "t3_ee3qo2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

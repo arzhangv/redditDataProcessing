@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I tried sending an email to myself from another one of my emails, and realised it wasn't going through. After trying to figure out why this was, I noticed when I typed my email address on my email was kind of substituted for a different email entirely. So whatever I was sending was going somewhere else. About 10 minutes later I got all those emails I sent, sent back to me by the email that they were sent to.\n\nThis was the body. \n\nOn 1/11/11 00:00 AM, a puzzled user wrote:\n\n&gt; Why has my email been rejected \n\nBecasuse it was sent it to xmca-l@ucsd.edu\n\n&gt;and what does that mean\n\nSomehow the address xmca-l@ucsd.edu was either added to or substituted\nfor the intended recipient's address - perhaps through an email virus.\n\n\n&gt; has my email actually been received by the recipient?\n\nI have no way of knowing.\n\nIf it's any comfort, you are one of a huge group of people who have\nthis problem, and who write to me (often using gross profanity) about\nthe rejection.\n\nI wish I knew what was causing this, but I don't.\n\nGood luck.  \n\nAnyone know what I can do about this?",
+        "title": "Email on phone changed",
+        "score": 1,
+        "id": "hizpu9",
+        "commsNum": 0,
+        "timeStamp": "2020/06/30-17:22:24",
+        "author_name": "SmoothieRS",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/hizpu9/email_on_phone_changed/"
+    },
+    "posts": {}
+}

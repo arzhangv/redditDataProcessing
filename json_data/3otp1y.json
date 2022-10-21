@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I have a malware sample I recently obtained from a machine. The sample is called msdn.exe written in PureBasic.\n\nI ran it through several online sandbox analysis platforms. Here are the results:\nhttps://malwr.com/analysis/MWVkMDE2N2EzNDVmNGM4MTg5YWFiZGM0NmY1YTcyMjY/#\nhttps://www.hybrid-analysis.com/sample/c09d8f392f4fd9befc06995d9f9eec81c8ef56a27c80a47409b74890c43a64fc?environmentId=1\n\nEither the sample is good at detecting sandboxes/VMs or it really has no internet traffic. Either way, I googled the mutex it creates \"Global\\NwYnRZmRug-rIRixIV6H8-LBoqeBfkje-GWP1v28D7s-hHopRQucCH-gjEiBgJWaV-JJrn7PR1XK-ieJiebksrt\" and it led me to a particular scan a few years ago where it does have some traffic.\nhttps://malwr.com/analysis/YTAyMWYyMDU3YjBhNDZhM2IzMDA2NTZlZTRkOGYwNTU/\n\nThat sample is from 2013, it connects to 115.68.41.15 which resolves to acrofan.com and if you look at the sample from the two links above, there it has a bunch of unencrypted strings like \"D:\\[Fan-Project]\\[PB] Fan Admin\\void\\main.pb\".\n\nIt's also curious that it queries the registry for some key called MARTAEXTENSION related to ntmarta.dll(anyone know what it's for?).\n\nOverall I think it may be hiding more stuff under the hood, because it creates an autorun in the registry, but never copies itself to that location, whereas on the infected real machine it does copy itself, so I think it might be detecting the VM.\n\nWas wondering if anyone could look at it in their spare time?\n\nDownload link: http://www.filedropper.com/showdownload.php/msdnmalware (I have renamed the extension to .txt and archived it so nobody accidentally double-clicks it, hopefully in a VM if it were to happen). If the link doesn't work there is a link on the analysis platforms to download the sample.\n\nEDIT: Seems like it does have traffic according to http://www.threatexpert.com/report.aspx?md5=50ed5fe45b90215154bb70f93cfeb276. It connects to this paste http://pastebin.com/kzCN43Sk",
+        "title": "Anyone up for analysing this sample?",
+        "score": 17,
+        "id": "3otp1y",
+        "commsNum": 4,
+        "timeStamp": "2015/10/14-23:00:00",
+        "author_name": "farmdve",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/3otp1y/anyone_up_for_analysing_this_sample/"
+    },
+    "posts": {}
+}

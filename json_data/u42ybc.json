@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "An Introduction To Android Malware Reverse Engineering",
+        "score": 1,
+        "id": "u42ybc",
+        "commsNum": 0,
+        "timeStamp": "2022/04/15-00:53:50",
+        "author_name": "OppositeMonday",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.jamesstevenson.me/android-malware-reverse-engineering/"
+    },
+    "posts": {}
+}

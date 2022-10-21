@@ -1,0 +1,132 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I have a couple of alerts on two machines triggered that Locky Ransomware detected,after investigation I found that there is registry modification added Software\\Locky\nBut after investigation it shows that there were windows updates prior this event and the IPs this machine connected two was Microsoft. \n\nCan I know if anyone face this issue before and why windows updates doing such a thing?\n\nThanks",
+        "title": "Locky Ransomware",
+        "score": 8,
+        "id": "ca4yee",
+        "commsNum": 10,
+        "timeStamp": "2019/07/07-02:14:22",
+        "author_name": "kareemalhourani",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 10,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ca4yee/locky_ransomware/"
+    },
+    "posts": {
+        "euiz5eg": {
+            "comment": "After the investigation it appears that my clients machine had Bitdefender installed before and as i mention Bitdefender place locky registry as vaccine and after the windows update happened it require to update some registry inside the same path with locky key existed so it access all the registry keys that's why the endpoint triggered that there is locky ransomware on the machines so its false positive.\n\n&amp;#x200B;\n\nJust i wanted to share this information in case anybody face the same.\n\nThank you guys for the assistance have a good day ahead.",
+            "timeStamp": "2019/07/22-22:09:13",
+            "id": "euiz5eg",
+            "is_submitter": true,
+            "link_id": "t3_ca4yee",
+            "parent_id": "t3_ca4yee",
+            "score": 1,
+            "stickied": false,
+            "author_name": "kareemalhourani"
+        },
+        "etb82no": {
+            "comment": "IIRC Locky has not been actively spread in some time. I would check to see if its a false positive.",
+            "timeStamp": "2019/07/08-19:30:24",
+            "id": "etb82no",
+            "is_submitter": false,
+            "link_id": "t3_ca4yee",
+            "parent_id": "t3_ca4yee",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DrinkMoreCodeMore"
+        },
+        "et8rl1d": {
+            "comment": "Yes, this is the vaccine by Bitdefender. Locky is dead by now, there are no new infections of it.",
+            "timeStamp": "2019/07/07-23:23:07",
+            "id": "et8rl1d",
+            "is_submitter": false,
+            "link_id": "t3_ca4yee",
+            "parent_id": "t1_et78oml",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Struppigel"
+        },
+        "et8mfwy": {
+            "comment": "Thank you guys for the input, I will check and get back to you with information.",
+            "timeStamp": "2019/07/07-21:46:54",
+            "id": "et8mfwy",
+            "is_submitter": true,
+            "link_id": "t3_ca4yee",
+            "parent_id": "t3_ca4yee",
+            "score": 1,
+            "stickied": false,
+            "author_name": "kareemalhourani"
+        },
+        "et7pvph": {
+            "comment": "You can use something like \u201cregshot\u201d to compare the before registry of a clean windows install (VM perhaps) and the after when you install bitdefender like the other user mentioned. \n\nYou would have to do a lot more digging on the current machines to know for sure what really caused all of this, but some antivirus will install registries like you described. Many times it\u2019s because ransomware will look for a file or registry related to itself and halt installation if it detects it so that the machine can\u2019t be infected multiple times. That way the machine will stay up and \u201chappy\u201d so the end user can pay rather than possibly being taken down by all the competition for resources and conflicts between multiple infections and encryption runs.",
+            "timeStamp": "2019/07/07-14:40:55",
+            "id": "et7pvph",
+            "is_submitter": false,
+            "link_id": "t3_ca4yee",
+            "parent_id": "t1_et78oml",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Xiuder"
+        },
+        "et7jilm": {
+            "comment": "Easy to test.  Compare stock image, then install bitdefender",
+            "timeStamp": "2019/07/07-13:46:13",
+            "id": "et7jilm",
+            "is_submitter": false,
+            "link_id": "t3_ca4yee",
+            "parent_id": "t1_et78oml",
+            "score": 2,
+            "stickied": false,
+            "author_name": "iCkerous"
+        },
+        "et78oml": {
+            "comment": "It had bitdefender installed on it, I believe it\u2019s the reason why this registry there. \n\nI checked a couple of blogs they mentioned that it\u2019s installing this as type of vaccine to protect against old Locky Ransomware, but I\u2019m still not convinced about that for sure.",
+            "timeStamp": "2019/07/07-12:16:27",
+            "id": "et78oml",
+            "is_submitter": true,
+            "link_id": "t3_ca4yee",
+            "parent_id": "t3_ca4yee",
+            "score": 1,
+            "stickied": false,
+            "author_name": "kareemalhourani"
+        },
+        "et74j1t": {
+            "comment": "What do you mean by 'relevant'?  How did you captured the MAC times?\n\nCan you rollback the upgrade and see if the key still exists?  It wouldn't surprise me if the upgrade touched every key in the registry and the 'on-access' triggered AV.\n\nHas this device ever had ransomware on it?  Personally I'd reimage it and reinstall",
+            "timeStamp": "2019/07/07-11:35:14",
+            "id": "et74j1t",
+            "is_submitter": false,
+            "link_id": "t3_ca4yee",
+            "parent_id": "t1_et5z4xs",
+            "score": 2,
+            "stickied": false,
+            "author_name": "iCkerous"
+        },
+        "et5z4xs": {
+            "comment": "The timing are relevant",
+            "timeStamp": "2019/07/07-04:12:32",
+            "id": "et5z4xs",
+            "is_submitter": true,
+            "link_id": "t3_ca4yee",
+            "parent_id": "t1_et5wi2m",
+            "score": 1,
+            "stickied": false,
+            "author_name": "kareemalhourani"
+        },
+        "et5wi2m": {
+            "comment": "I've never seen or heard of this.\n\nYou should be able to pull the MAC times from that registry key and see if that makes sense.",
+            "timeStamp": "2019/07/07-03:03:29",
+            "id": "et5wi2m",
+            "is_submitter": false,
+            "link_id": "t3_ca4yee",
+            "parent_id": "t3_ca4yee",
+            "score": 1,
+            "stickied": false,
+            "author_name": "iCkerous"
+        }
+    }
+}

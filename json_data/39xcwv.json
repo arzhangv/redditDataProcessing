@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "The Duqu 2.0 persistence module",
+        "score": 21,
+        "id": "39xcwv",
+        "commsNum": 3,
+        "timeStamp": "2015/06/15-08:57:03",
+        "author_name": "r721",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://securelist.com/blog/research/70641/the-duqu-2-0-persistence-module/"
+    },
+    "posts": {}
+}

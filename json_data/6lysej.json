@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[deleted]",
+        "title": "Can anybody figure out if im fucked? Ran this on my pc.",
+        "score": 0,
+        "id": "6lysej",
+        "commsNum": 2,
+        "timeStamp": "2017/07/07-20:36:09",
+        "author_name": "[deleted]",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://malwr.com/analysis/NDFiYTM0MzlkOTYxNDJiZWI0Y2ZjNTI1OWUxYjYzODc/"
+    },
+    "posts": {
+        "djxnhkb": {
+            "comment": "they are cheats for a game (lmao I know sounds dumb) but the autorun on startup and registry keys dont show up on my pc but are flagged. And fucked would mean i just ran a RAT",
+            "timeStamp": "2017/07/07-20:57:35",
+            "id": "djxnhkb",
+            "is_submitter": true,
+            "link_id": "t3_6lysej",
+            "parent_id": "t1_djxn4an",
+            "score": 1,
+            "stickied": false,
+            "author_name": "wazl1"
+        },
+        "djxn4an": {
+            "comment": "Idk what to tell you, why did you run it on your pc and what is your definition of \"fucked\" ?",
+            "timeStamp": "2017/07/07-20:47:48",
+            "id": "djxn4an",
+            "is_submitter": false,
+            "link_id": "t3_6lysej",
+            "parent_id": "t3_6lysej",
+            "score": 1,
+            "stickied": false,
+            "author_name": "gasolinewaltz"
+        }
+    }
+}

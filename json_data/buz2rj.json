@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "We have Cisco AMP for Endpoints installed.  We are researching the Spero engine/machine learning aspect of AMP.    \n\n\nDoes the Spero engine really use machine learning to block malware?  From the description, it appears to be an engine that does SHA lookups against the AMP cloud?\n\n  \nThanks for any input.  \nCheers.\n\nMax",
+        "title": "Cisco AMP for Endpoints Machine Learning",
+        "score": 3,
+        "id": "buz2rj",
+        "commsNum": 2,
+        "timeStamp": "2019/05/30-14:51:25",
+        "author_name": "maxtpower",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/buz2rj/cisco_amp_for_endpoints_machine_learning/"
+    },
+    "posts": {
+        "eq26gyz": {
+            "comment": " SPERO is a Cisco machine-based learning system. It obtains hundreds of attributes from a file which is called a SPERO fingerprint. This is sent to the cloud and SPERO trees determine whether a file is malicious.\n\nWhat your describing sounds more like AMP.  The File Conviction Mode which does the disposition lookup to the cloud.",
+            "timeStamp": "2019/06/05-03:12:59",
+            "id": "eq26gyz",
+            "is_submitter": false,
+            "link_id": "t3_buz2rj",
+            "parent_id": "t3_buz2rj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "-Whiskey-Throttle-"
+        },
+        "epmfoec": {
+            "comment": "Spero engine has machine learning in terms if it extracts traits from the file to do similarity matching with humongous database of malware samples AMP Cloud has and its beyond and not only SHA lookups.check slide 19 ,https://www.cisco.com/web/KR/events/CiscoConnect/2014/downloads/Day2_Track5-1.pdf  Disclaimer: i have worked remotely with that team in my past life",
+            "timeStamp": "2019/05/31-07:21:41",
+            "id": "epmfoec",
+            "is_submitter": false,
+            "link_id": "t3_buz2rj",
+            "parent_id": "t3_buz2rj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sashankdvk"
+        }
+    }
+}

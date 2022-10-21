@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "URL shorten service for malicious links with an added warning message.",
+        "score": 9,
+        "id": "2kgy3k",
+        "commsNum": 11,
+        "timeStamp": "2014/10/27-08:23:11",
+        "author_name": "NL7661",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 11,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://handle.withcare.link/"
+    },
+    "posts": {}
+}

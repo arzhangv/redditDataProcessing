@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "This is what laid on my friend's PC . It's quite a simple malware or rather an adware ( Browser Hijacker ). It only put up it's startup running at\n\nHKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Run\n\nSo, was quite easy to get rid of it. However I did check again with malwarebytes and adwcleaner ( just to be sure ).\nIt's my first time with malware reversing although I have earlier tried to learn about it but didn't had much time due to my other arrangements.\n\nHowever , this time I am quite determined as to whatever it takes I will do this.\n\nSo far I have found this : https://postimg.org/image/pp95lag41/\n\nUsing net reflector it is quite evident that , the virus is loading a script from its payload which is encrypted using RC2 and SHA1 hash . I have found the key to the hash but the problem is it is in C# and I'm not quite fluent in either C# or C++ but I'm quite comfortable in python. \n\nSo , the next thing that I did was to find a wincrypto library for python and I found this: https://github.com/crappycrypto/wincrypto\n\nHow do I proceed now ? Should I start learning C++ , if so then from where ?\n\nCan't it be done in python after all it's only an encrypted payload , using pycrypto library can't it be done ?\n\nAlso can it be decrypted using a debugger like olly so that as soon as the decryption phase ends I see the code ? If so then how can it be done efficiently cause the way I know it's tedious and I don't know where the decrypted stub would be there ( may be I have to look around a lot )\n\n\nP.S. : This is this virus: http://guides.uufix.com/how-to-remove-gogletab-com-browser-hijacker/",
+        "title": "Help Needed : Reversing a malware that attacked my friend",
+        "score": 16,
+        "id": "643kn7",
+        "commsNum": 8,
+        "timeStamp": "2017/04/07-15:21:08",
+        "author_name": "qwerty931",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 8,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/643kn7/help_needed_reversing_a_malware_that_attacked_my/"
+    },
+    "posts": {}
+}

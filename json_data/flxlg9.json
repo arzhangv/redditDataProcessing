@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I'm having issues with using Cuckoo, I have everything working but when I want to use Cuckoo Web or Cuckoo API I get the error that I'm missing the Mysql driver, I go to download it with the commands given and I get the error that I'm missing mysql.h\n\n&amp;#x200B;\n\nCan anyone help me with this issue, I'm not massively experienced in this field as this is for my dissertation.",
+        "title": "Cuckoo - Running",
+        "score": 1,
+        "id": "flxlg9",
+        "commsNum": 1,
+        "timeStamp": "2020/03/20-09:10:13",
+        "author_name": "Arrong18",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/flxlg9/cuckoo_running/"
+    },
+    "posts": {
+        "fl179ds": {
+            "comment": "related github issue: https://github.com/cuckoosandbox/cuckoo/issues/2667\n\nHonestly, with my experience in cuckoo.. getting your dependencies exactly right is an absolute must unless you are ready to customize some code to hack it into working.",
+            "timeStamp": "2020/03/20-09:56:09",
+            "id": "fl179ds",
+            "is_submitter": false,
+            "link_id": "t3_flxlg9",
+            "parent_id": "t3_flxlg9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "acalarch"
+        }
+    }
+}

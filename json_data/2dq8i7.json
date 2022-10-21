@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Analysis of NSA BIOS Backdoor DEITYBOUNCE by InfoSec Institute",
+        "score": 27,
+        "id": "2dq8i7",
+        "commsNum": 0,
+        "timeStamp": "2014/08/16-08:58:20",
+        "author_name": "ALLCAPS_SWEAR_WORDS",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://resources.infosecinstitute.com/nsa-bios-backdoor-god-mode-malware-deitybounce/"
+    },
+    "posts": {}
+}

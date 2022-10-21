@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I'm not exactly in the IT field, (wish to be), but my manager in a medium-sized company charged me to show my boss some samples of malware to show why we need threat detection. Or just even security in general.\n\nI already got my hands on some nasty ransomware that I've infected an airgapped machine with, now I'm looking for RATs or keyloggers or something that had their C&amp;C servers shut down;in essence, I'm looking for something that looks dangerous and can be picked up as malware, but is not really that dangerous.",
+        "title": "Samples of malware that are not that harmful but trigger antivirus?",
+        "score": 8,
+        "id": "5p1qya",
+        "commsNum": 11,
+        "timeStamp": "2017/01/19-20:09:17",
+        "author_name": "thehaxerdude",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 11,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5p1qya/samples_of_malware_that_are_not_that_harmful_but/"
+    },
+    "posts": {}
+}

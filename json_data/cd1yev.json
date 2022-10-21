@@ -1,0 +1,121 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "PEpper: an open source script to perform malware static analysis on Portable Executable",
+        "score": 38,
+        "id": "cd1yev",
+        "commsNum": 9,
+        "timeStamp": "2019/07/14-04:24:21",
+        "author_name": "AstolfoSullaLuna",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 9,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://github.com/Th3Hurrican3/PEpper"
+    },
+    "posts": {
+        "exgpacj": {
+            "comment": "Yeah I've to change some names there.. thanks!",
+            "timeStamp": "2019/08/19-20:06:40",
+            "id": "exgpacj",
+            "is_submitter": true,
+            "link_id": "t3_cd1yev",
+            "parent_id": "t1_ewch58a",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AstolfoSullaLuna"
+        },
+        "exgp8fp": {
+            "comment": "Thanks a lot!",
+            "timeStamp": "2019/08/19-20:05:54",
+            "id": "exgp8fp",
+            "is_submitter": true,
+            "link_id": "t3_cd1yev",
+            "parent_id": "t1_ewcic99",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AstolfoSullaLuna"
+        },
+        "ewcic99": {
+            "comment": "I like this tool a lot. I\u2019m just getting into scripting and wanted to write something like this. If I think of anything that could help make it better I\u2019ll let you know",
+            "timeStamp": "2019/08/08-10:29:06",
+            "id": "ewcic99",
+            "is_submitter": false,
+            "link_id": "t3_cd1yev",
+            "parent_id": "t3_cd1yev",
+            "score": 1,
+            "stickied": false,
+            "author_name": "antrich2003"
+        },
+        "ewch58a": {
+            "comment": "Inside PEpper/signatures/antidbg.txt file the API \u2018CheckRemoteDebugger\u2019 should be \u2018CheckRemoteDebuggerPresent\u2019\n\n.",
+            "timeStamp": "2019/08/08-10:19:25",
+            "id": "ewch58a",
+            "is_submitter": false,
+            "link_id": "t3_cd1yev",
+            "parent_id": "t1_etqv75y",
+            "score": 1,
+            "stickied": false,
+            "author_name": "antrich2003"
+        },
+        "etu8vvw": {
+            "comment": "Thank you!",
+            "timeStamp": "2019/07/15-09:11:11",
+            "id": "etu8vvw",
+            "is_submitter": true,
+            "link_id": "t3_cd1yev",
+            "parent_id": "t1_etr99kw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AstolfoSullaLuna"
+        },
+        "etr99kw": {
+            "comment": "Looks awesome!",
+            "timeStamp": "2019/07/14-07:45:39",
+            "id": "etr99kw",
+            "is_submitter": false,
+            "link_id": "t3_cd1yev",
+            "parent_id": "t3_cd1yev",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Gotta_Git_Fast"
+        },
+        "etr8nwi": {
+            "comment": "Thanks! You're absolutely right. In fact I'm writing up it just right now (some credit are already placed on modules/function) and I'll put that in the Readme.md\nThanks for your suggestion",
+            "timeStamp": "2019/07/14-07:38:39",
+            "id": "etr8nwi",
+            "is_submitter": true,
+            "link_id": "t3_cd1yev",
+            "parent_id": "t1_etr8e18",
+            "score": 4,
+            "stickied": false,
+            "author_name": "AstolfoSullaLuna"
+        },
+        "etr8e18": {
+            "comment": "It's a nice collection of tools.  \nHowever, I strongly recommend giving credit to repositories/blogs/other tools you have used to make this project.",
+            "timeStamp": "2019/07/14-07:35:35",
+            "id": "etr8e18",
+            "is_submitter": false,
+            "link_id": "t3_cd1yev",
+            "parent_id": "t1_etqv75y",
+            "score": 7,
+            "stickied": false,
+            "author_name": "GelosSnake"
+        },
+        "etqv75y": {
+            "comment": "That's the first tool I write so.. any comment (and especially critics!) are appreciated..\nNot a malware expert here, just a student with many interests.\nCheers!",
+            "timeStamp": "2019/07/14-04:26:14",
+            "id": "etqv75y",
+            "is_submitter": true,
+            "link_id": "t3_cd1yev",
+            "parent_id": "t3_cd1yev",
+            "score": 2,
+            "stickied": false,
+            "author_name": "AstolfoSullaLuna"
+        }
+    }
+}

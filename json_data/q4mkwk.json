@@ -1,0 +1,99 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Any way to get the sample files for all type of file formats like .zip .rar .HTML .pdf etc?",
+        "title": "Samples for all type of file formats",
+        "score": 1,
+        "id": "q4mkwk",
+        "commsNum": 7,
+        "timeStamp": "2021/10/09-07:37:19",
+        "author_name": "Arun92591",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 7,
+        "over_18": true,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/q4mkwk/samples_for_all_type_of_file_formats/"
+    },
+    "posts": {
+        "hgrrtbb": {
+            "comment": "https://github.com/ytisf/theZoo\n\nHere you go. Have fun. Remember to air-gap your test machine.",
+            "timeStamp": "2021/10/15-11:44:29",
+            "id": "hgrrtbb",
+            "is_submitter": false,
+            "link_id": "t3_q4mkwk",
+            "parent_id": "t3_q4mkwk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "cookiengineer"
+        },
+        "hg1hu3s": {
+            "comment": "Eicars has some of what you want \n\nhttps://www.eicar.org/?page_id=3950\nIt\u2019s made to test make sure your systems are picking up on malware .",
+            "timeStamp": "2021/10/09-16:39:28",
+            "id": "hg1hu3s",
+            "is_submitter": false,
+            "link_id": "t3_q4mkwk",
+            "parent_id": "t3_q4mkwk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Thornton77"
+        },
+        "hg17fb0": {
+            "comment": "Yes but this post has nothing to do with downloading malware",
+            "timeStamp": "2021/10/09-15:15:44",
+            "id": "hg17fb0",
+            "is_submitter": false,
+            "link_id": "t3_q4mkwk",
+            "parent_id": "t1_hg0sg3o",
+            "score": 7,
+            "stickied": false,
+            "author_name": "odgers129"
+        },
+        "hg0sg3o": {
+            "comment": "You'll find that the installation of malware on a corporate device usually goes against corporate policy. It could be said that malware is not safe in a work environment.",
+            "timeStamp": "2021/10/09-13:24:41",
+            "id": "hg0sg3o",
+            "is_submitter": false,
+            "link_id": "t3_q4mkwk",
+            "parent_id": "t1_hg0opir",
+            "score": -6,
+            "stickied": false,
+            "author_name": "1-2-switch"
+        },
+        "hg0opir": {
+            "comment": "Why is this marked NSFW? Lol",
+            "timeStamp": "2021/10/09-12:56:57",
+            "id": "hg0opir",
+            "is_submitter": false,
+            "link_id": "t3_q4mkwk",
+            "parent_id": "t3_q4mkwk",
+            "score": 11,
+            "stickied": false,
+            "author_name": "jt_dunnski"
+        },
+        "hfzntn4": {
+            "comment": "There are some collections of files out there intended for testing compression, such as the Silesia corpus:\n\n[http://sun.aei.polsl.pl/\\~sdeor/index.php?page=silesia](http://sun.aei.polsl.pl/~sdeor/index.php?page=silesia)\n\nIt's not very many files, but has a few samples of some of the file types you're interested in.",
+            "timeStamp": "2021/10/09-08:23:11",
+            "id": "hfzntn4",
+            "is_submitter": false,
+            "link_id": "t3_q4mkwk",
+            "parent_id": "t3_q4mkwk",
+            "score": 3,
+            "stickied": false,
+            "author_name": "musketeer925"
+        },
+        "hfzkz6v": {
+            "comment": "This doesn't have anything to do with malware. You just want files?\n\nJust make them ... or search by file extension  (https://support.google.com/webmasters/answer/35287?hl=en)",
+            "timeStamp": "2021/10/09-08:00:58",
+            "id": "hfzkz6v",
+            "is_submitter": false,
+            "link_id": "t3_q4mkwk",
+            "parent_id": "t3_q4mkwk",
+            "score": 7,
+            "stickied": false,
+            "author_name": "LightningRurik"
+        }
+    }
+}

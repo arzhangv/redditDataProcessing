@@ -1,0 +1,242 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I've disassembled a 64-bit Linux ELF malware that I know executes fine on my Linux VM. Because it executes fine on the VM, I know it's functional and would like to \"step through\" it in a debugger by setting appropriate breakpoints. I usually do this in x64dbg in Windows. But I'm having issues finding a good substitute for x64dbg in Linux.\n\nI can't use IDAPro because I don't have a license for it and IDAFree can't debug a 64-bit ELF. So that's out of the question. Ghidra can't debug it either.\n\nI know there's gdb but its CLI interface is too primitive for me to analyze a complicated malware. I looked into using edb and it crashed as soon as I loaded the malware in it. I looked into gdbgui (a gui for gdb) but there's no good documentation on it and I can't get it to even load the binary properly.\n\nJust wanted to share this experience with the community. Feel free to fill in anything I might be missing.",
+        "title": "GUI debugger for reversing Linux ELF malware",
+        "score": 1,
+        "id": "dvkboj",
+        "commsNum": 20,
+        "timeStamp": "2019/11/12-17:38:03",
+        "author_name": "amirootyet",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 20,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/dvkboj/gui_debugger_for_reversing_linux_elf_malware/"
+    },
+    "posts": {
+        "fbpu2rc": {
+            "comment": "ayyyyyyy very cool!",
+            "timeStamp": "2019/12/22-06:31:07",
+            "id": "fbpu2rc",
+            "is_submitter": false,
+            "link_id": "t3_dvkboj",
+            "parent_id": "t1_fboc7bd",
+            "score": 1,
+            "stickied": false,
+            "author_name": "JanglyBangles"
+        },
+        "fboc7bd": {
+            "comment": "**Update:** As of this weekend, Cutter now has a debugger! \ud83e\udd73\n\n [https://twitter.com/r2gui/status/1208106040954359808](https://twitter.com/r2gui/status/1208106040954359808) \n\nYou can download the latest release from [https://cutter.re](https://cutter.re)\n\nCC u/JanglyBangles u/amirootyet",
+            "timeStamp": "2019/12/22-02:03:49",
+            "id": "fboc7bd",
+            "is_submitter": false,
+            "link_id": "t3_dvkboj",
+            "parent_id": "t3_dvkboj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Megabeets"
+        },
+        "f7owswk": {
+            "comment": "It would be great if `cutter` debugger could maintain some semblance to `x64dbg` or `ollydbg` since most malware analysts are already familiar with these interfaces :) Just a suggestion; I understand if the developers want to go a different route",
+            "timeStamp": "2019/11/16-12:31:57",
+            "id": "f7owswk",
+            "is_submitter": true,
+            "link_id": "t3_dvkboj",
+            "parent_id": "t1_f7na6ih",
+            "score": 1,
+            "stickied": false,
+            "author_name": "amirootyet"
+        },
+        "f7owekz": {
+            "comment": "Debugger support in \\`Cutter\\` would be awesome! Looking forward to its release. Thank you for maintaining an awesome front-end to \\`radare2\\`!",
+            "timeStamp": "2019/11/16-12:27:06",
+            "id": "f7owekz",
+            "is_submitter": true,
+            "link_id": "t3_dvkboj",
+            "parent_id": "t1_f7na6ih",
+            "score": 1,
+            "stickied": false,
+            "author_name": "amirootyet"
+        },
+        "f7ow49t": {
+            "comment": "that explains why I couldn't find the debugger in Cutter the last 2 days, haha. Thank you for your help though!",
+            "timeStamp": "2019/11/16-12:23:34",
+            "id": "f7ow49t",
+            "is_submitter": true,
+            "link_id": "t3_dvkboj",
+            "parent_id": "t1_f7nvtw5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "amirootyet"
+        },
+        "f7nvtw5": {
+            "comment": "Yo check the reply here: https://www.reddit.com/r/Malware/comments/dvkboj/gui_debugger_for_reversing_linux_elf_malware/f7na6ih/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf\n\nI was made a mistake on Cutter\u2019s debug support.",
+            "timeStamp": "2019/11/16-06:56:03",
+            "id": "f7nvtw5",
+            "is_submitter": false,
+            "link_id": "t3_dvkboj",
+            "parent_id": "t1_f7ddh7k",
+            "score": 1,
+            "stickied": false,
+            "author_name": "JanglyBangles"
+        },
+        "f7nvo0d": {
+            "comment": "My bad! I thought I saw debugging (or at least ESIL emulation) demo\u2019d in the r2con preso that got posted.",
+            "timeStamp": "2019/11/16-06:54:33",
+            "id": "f7nvo0d",
+            "is_submitter": false,
+            "link_id": "t3_dvkboj",
+            "parent_id": "t1_f7na6ih",
+            "score": 1,
+            "stickied": false,
+            "author_name": "JanglyBangles"
+        },
+        "f7na6ih": {
+            "comment": "Ahoy! Cutter maintainer here.\n\nJust for your information, and in order to avoid confusion - as for the time of this reply, Cutter does not have a debugger on its Release version nor Master branch. Support for a Debugger in Cutter is in an advanced development process and we hope to release it very soon. Meantime, I suggest checking the [Debug branch](https://github.com/radareorg/cutter/tree/debug) which is usable and contains the current work.\n\nAs for the recommended way to use Cutter - We suggest you to download the release version. For Linux machines, it is a simple AppImage executable. Get it on [https://cutter.re](https://cutter.re)\n\nPlease stay tuned for updates :)\n\nYou can join our Telegram group @  [http://t.me/r2cutter](http://t.me/r2cutter)  and follow the Twitter account for more announcements [https://twitter.com/r2gui](https://twitter.com/r2gui)",
+            "timeStamp": "2019/11/16-00:09:09",
+            "id": "f7na6ih",
+            "is_submitter": false,
+            "link_id": "t3_dvkboj",
+            "parent_id": "t1_f7d7jyx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Megabeets"
+        },
+        "f7hpcd6": {
+            "comment": "Great! Keep us posted on how it goes!",
+            "timeStamp": "2019/11/14-07:24:39",
+            "id": "f7hpcd6",
+            "is_submitter": false,
+            "link_id": "t3_dvkboj",
+            "parent_id": "t1_f7gnzhp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "JanglyBangles"
+        },
+        "f7gnzhp": {
+            "comment": "retried on an installation of `lubuntu-64` and finally got `cutter` to work there!",
+            "timeStamp": "2019/11/13-21:41:03",
+            "id": "f7gnzhp",
+            "is_submitter": true,
+            "link_id": "t3_dvkboj",
+            "parent_id": "t1_f7fg0sw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "amirootyet"
+        },
+        "f7gk8wi": {
+            "comment": "tried that, but unfortunately install.sh breaks in terminal: `for (uint32_t i = 0; i &lt; self-&gt;parent_cache_size; i++) {\n   ^\nmake[1]: *** [tree-sitter/lib/src/lib.o] Error 1\nmake[1]: *** Waiting for unfinished jobs....\nmake: *** [all] Error 2\n`",
+            "timeStamp": "2019/11/13-20:39:58",
+            "id": "f7gk8wi",
+            "is_submitter": true,
+            "link_id": "t3_dvkboj",
+            "parent_id": "t1_f7fg0sw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "amirootyet"
+        },
+        "f7fyrfo": {
+            "comment": "If youre scared of gdb because it's cli. \nYou can use ddd which uses gdb on it's underside and is basically the GUI for it. It you need it to have a look with a fancy schmancy toolkit you will be out of luck.\n\nOther than that radare2 is CLI but like an ncurses type gui that is nice imo.",
+            "timeStamp": "2019/11/13-16:07:58",
+            "id": "f7fyrfo",
+            "is_submitter": false,
+            "link_id": "t3_dvkboj",
+            "parent_id": "t3_dvkboj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "blabbities"
+        },
+        "f7fg0sw": {
+            "comment": "clone radare2 from git, run sys/install.sh from the top level working directory. that should install the latest radare2 along with r2pm",
+            "timeStamp": "2019/11/13-12:56:49",
+            "id": "f7fg0sw",
+            "is_submitter": false,
+            "link_id": "t3_dvkboj",
+            "parent_id": "t1_f7ffsl1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "JanglyBangles"
+        },
+        "f7ffsl1": {
+            "comment": "\\`remnux\\` terminal can't find \\`r2pm\\` and says \\`command not found\\`. So I tried installing with \\[AppImage\\]([https://appimage.github.io/Cutter/](https://appimage.github.io/Cutter/)) and that broke in the terminal as well. So I haven't yet found a way to easily install \\`cutter\\` in \\`remnux\\`",
+            "timeStamp": "2019/11/13-12:54:33",
+            "id": "f7ffsl1",
+            "is_submitter": true,
+            "link_id": "t3_dvkboj",
+            "parent_id": "t1_f7engf2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "amirootyet"
+        },
+        "f7engf2": {
+            "comment": "did it work?",
+            "timeStamp": "2019/11/13-08:14:10",
+            "id": "f7engf2",
+            "is_submitter": false,
+            "link_id": "t3_dvkboj",
+            "parent_id": "t1_f7ddh7k",
+            "score": 1,
+            "stickied": false,
+            "author_name": "JanglyBangles"
+        },
+        "f7e5wch": {
+            "comment": "&gt; I know there's gdb but its CLI interface is too primitive for me to analyze a complicated malware. \n\nCLI is much more powerful than limited sets of GUI buttons you can click on in other programs. GDB isn't the problem, and is definitely up for the job.",
+            "timeStamp": "2019/11/13-04:23:12",
+            "id": "f7e5wch",
+            "is_submitter": false,
+            "link_id": "t3_dvkboj",
+            "parent_id": "t3_dvkboj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Secure4Fun"
+        },
+        "f7e00hd": {
+            "comment": "Good question. You could try xposting to  /r/Reversing and /r/ReverseEngineering.",
+            "timeStamp": "2019/11/13-02:01:35",
+            "id": "f7e00hd",
+            "is_submitter": false,
+            "link_id": "t3_dvkboj",
+            "parent_id": "t3_dvkboj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "kartoffelwaffel"
+        },
+        "f7di4ng": {
+            "comment": "you should be able to install it with r2pm pretty easily",
+            "timeStamp": "2019/11/12-19:57:47",
+            "id": "f7di4ng",
+            "is_submitter": false,
+            "link_id": "t3_dvkboj",
+            "parent_id": "t1_f7ddh7k",
+            "score": 1,
+            "stickied": false,
+            "author_name": "JanglyBangles"
+        },
+        "f7ddh7k": {
+            "comment": "I'm using `Remnux` for the VM and it does have `radare2`. But doesn't seem to have `cutter` pre-installed. Trying to install and test it now.",
+            "timeStamp": "2019/11/12-18:58:06",
+            "id": "f7ddh7k",
+            "is_submitter": true,
+            "link_id": "t3_dvkboj",
+            "parent_id": "t1_f7d7jyx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "amirootyet"
+        },
+        "f7d7jyx": {
+            "comment": "radare2 with the Cutter gui is an option.",
+            "timeStamp": "2019/11/12-17:47:17",
+            "id": "f7d7jyx",
+            "is_submitter": false,
+            "link_id": "t3_dvkboj",
+            "parent_id": "t3_dvkboj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "JanglyBangles"
+        }
+    }
+}

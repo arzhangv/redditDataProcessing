@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "If a file passes all system scans and Virustotal long test, but sets off safeties when executed.. is it a false positive or very sneaky Malware?",
+        "title": "\"Clean\" file triggers when executed.",
+        "score": 5,
+        "id": "774ci9",
+        "commsNum": 10,
+        "timeStamp": "2017/10/17-21:37:41",
+        "author_name": "StormShadow009",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 10,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/774ci9/clean_file_triggers_when_executed/"
+    },
+    "posts": {}
+}

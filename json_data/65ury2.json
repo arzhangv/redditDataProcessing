@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "cuckoo 2.0 is out! with $pip install -U cuckoo!",
+        "score": 4,
+        "id": "65ury2",
+        "commsNum": 0,
+        "timeStamp": "2017/04/17-03:32:10",
+        "author_name": "meirwah",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://cuckoosandbox.org/2017-04-07-cuckoo-sandbox-200.html"
+    },
+    "posts": {}
+}

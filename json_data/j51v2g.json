@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "[removed]",
+        "title": "Antivirus causing vulnerabilities?",
+        "score": 1,
+        "id": "j51v2g",
+        "commsNum": 2,
+        "timeStamp": "2020/10/04-09:35:12",
+        "author_name": "squishy_dog",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/j51v2g/antivirus_causing_vulnerabilities/"
+    },
+    "posts": {
+        "g7ozm2z": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2020/10/04-09:35:13",
+            "id": "g7ozm2z",
+            "is_submitter": false,
+            "link_id": "t3_j51v2g",
+            "parent_id": "t3_j51v2g",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

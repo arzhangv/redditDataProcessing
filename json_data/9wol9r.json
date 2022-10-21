@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Good morning,\n\nI have just released a new episode in the \u201cIntroduction to Malware Analysis\u201d series. \u201cJuicy PDFs\u201d looks at another tool that will help us extract embedded content from within a PDF. We\u2019ll first run the tool against evil.pdf from the last episode in this series, and we\u2019ll find that it can easily extract the embedded Word document that we were able to manually extract using pdf-parser. Then, we\u2019ll run the tool against another sample PDF that contains embedded images.\n\nEpisode:\nhttps://www.youtube.com/watch?v=hr6gQXErdc0\n\nChannel:\nhttps://www.youtube.com/13cubed\n\nPatreon (Help support 13Cubed):\nhttps://www.patreon.com/13cubed",
+        "title": "Juicy PDFs (X-Post)",
+        "score": 1,
+        "id": "9wol9r",
+        "commsNum": 3,
+        "timeStamp": "2018/11/13-04:20:43",
+        "author_name": "13Cubed",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/9wol9r/juicy_pdfs_xpost/"
+    },
+    "posts": {
+        "e9rsvbl": {
+            "comment": "Do it up! It's excellent for a more precise approach to analyzing PDFs.  Would be good for new analysts to watch and get a guide for. ",
+            "timeStamp": "2018/11/15-13:00:24",
+            "id": "e9rsvbl",
+            "is_submitter": false,
+            "link_id": "t3_9wol9r",
+            "parent_id": "t1_e9rsc8k",
+            "score": 2,
+            "stickied": false,
+            "author_name": "auraria"
+        },
+        "e9rsc8k": {
+            "comment": "Yes, I like peepdf as well -- I have that on a list to be possibly covered in a future video.",
+            "timeStamp": "2018/11/15-12:54:29",
+            "id": "e9rsc8k",
+            "is_submitter": true,
+            "link_id": "t3_9wol9r",
+            "parent_id": "t1_e9r58e5",
+            "score": 2,
+            "stickied": false,
+            "author_name": "13Cubed"
+        },
+        "e9r58e5": {
+            "comment": "pdf-parser is pretty good, I prefer peepdf. Great video as always!\n\n&amp;#x200B;\n\nTake a look if you haven't used it before, it's on remnux.\n\n&amp;#x200B;\n\npeepdf -i your.pdf\n\nYou can look at individual objects and encoded streams, the search function is super helpful for looking for URI/URL/Action/http/www/etc. Interacting with objects is super easy, just\n\npeepdf&gt; object 12\n\nOr whatever the object you're looking for is in.",
+            "timeStamp": "2018/11/15-08:08:31",
+            "id": "e9r58e5",
+            "is_submitter": false,
+            "link_id": "t3_9wol9r",
+            "parent_id": "t3_9wol9r",
+            "score": 1,
+            "stickied": false,
+            "author_name": "auraria"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Announcing fibratus 1.4.2 - a modern Windows kernel tracing tool",
+        "score": 1,
+        "id": "rov7l2",
+        "commsNum": 0,
+        "timeStamp": "2021/12/26-03:28:36",
+        "author_name": "rabbitstack",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://github.com/rabbitstack/fibratus/releases/tag/v1.4.2"
+    },
+    "posts": {}
+}

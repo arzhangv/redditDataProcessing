@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "So it seems that **Foxit** is back to its bad old tricks: **installing malware**!   \n\nYesterday I installed Foxit Reader and Foxit Mobile, unaware of the company's history of bundled malware.  \n\nSeconds later Foxit Reader had installed malware: an application called Reason Core Security, which added itself to the Start Menu, to the Task Bar, to the context-sensitive menus in Windows Explorer and then began scanning my PC and apparently transmitting a stream of data via the internet off to god-knows-where.   \n\nUninstalling was painfully slow: even after so-called \"uninstallation\" hundreds of files -  including .exe files - were left buried in various locations.  Deleting some files would trigger the Windows message \"This will cancel all transfers in progress... \", suggesting that the files were trying to transmit data (even tho my internet was off by then).\n\nAfter hours of work I thought I'd got rid of all traces of both applications from the file system and the registry, stopped the services running, etc.  \n\nBut here's the one final problem that I just can't get rid of:  Reason Core Security remains in the Task Bar with the label \"**rsUI.exe - Reason Core Security (Protected)**\".\n\nThere's no file called rsUI.exe to be found, but the above seems to suggest that RCS is still running on the PC and is \"protected\" from being deleted?\n\nAny suggestions or comments?",
+        "title": "Malware in Foxit (again)",
+        "score": 1,
+        "id": "941ir5",
+        "commsNum": 0,
+        "timeStamp": "2018/08/02-10:50:17",
+        "author_name": "99RandomNumbers",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/941ir5/malware_in_foxit_again/"
+    },
+    "posts": {}
+}

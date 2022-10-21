@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "When analyzing malware, how important is it to use INetSim with separate IP addresses for each service? I would imagine some very complex malware would be able to realize that the DNS response is providing the same IP that was used for the DNS query, but is it likely that that would be an issue for standard malware?\n\nHow about using two separate VMs, each running INetSim, rather than the same machine with two NICs?",
+        "title": "Using INetSim with one or two NICs? Or two separate machines?",
+        "score": 14,
+        "id": "85x3h0",
+        "commsNum": 7,
+        "timeStamp": "2018/03/20-15:36:27",
+        "author_name": "JulienneDelphiki",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/85x3h0/using_inetsim_with_one_or_two_nics_or_two/"
+    },
+    "posts": {}
+}

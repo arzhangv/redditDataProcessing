@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "[Malware] Kimsuki group's resume impersonation malware",
+        "score": 1,
+        "id": "fd8pa5",
+        "commsNum": 0,
+        "timeStamp": "2020/03/03-22:03:47",
+        "author_name": "hanwint",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://metaswan.github.io/posts/Malware-Kimsuki-group's-resume-impersonation-malware"
+    },
+    "posts": {}
+}

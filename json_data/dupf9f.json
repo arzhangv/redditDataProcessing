@@ -1,0 +1,121 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "problem rewriting ELF binary to add an additional loadable segment",
+        "score": 1,
+        "id": "dupf9f",
+        "commsNum": 9,
+        "timeStamp": "2019/11/11-00:15:44",
+        "author_name": "promach",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 9,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/gcc/comments/dsdryv/problem_rewriting_elf_binary_to_add_an_additional/"
+    },
+    "posts": {
+        "f7e6fbi": {
+            "comment": "Sorry, my original intention is **add a new section**",
+            "timeStamp": "2019/11/13-04:32:51",
+            "id": "f7e6fbi",
+            "is_submitter": true,
+            "link_id": "t3_dupf9f",
+            "parent_id": "t1_f7e528q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "promach"
+        },
+        "f7e528q": {
+            "comment": "&gt;Remove WHICH section header ? and Why remove ?\n\ni want to repeat myself: if you remove **all** the section headers (i.e. the header explaining where the sections are located in the file), the executable runs anyway. It was an example.\n\nI was explaining to you that is the SEGMENT that loads part of the file in memory and it doesn't care about sections: the original question was \"does not have an additional loadable segment (called as .mysection)\".\n\nAs you see in the \"solved\" ELF, you don't have a new segment but a segment with an enlarged memory mapped area that comprises your new section. As stated in your original question you didn't solve the problem, i.e. you didn't add a new **segment** but added a new section and told the second LOAD segment to include it at runtime.\n\nIf you don't understand the basis of the ELF runtime I think you'll have hard time doing anything valuable.",
+            "timeStamp": "2019/11/13-04:06:55",
+            "id": "f7e528q",
+            "is_submitter": false,
+            "link_id": "t3_dupf9f",
+            "parent_id": "t1_f7d8be9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "_gipi_"
+        },
+        "f7d9s9r": {
+            "comment": "Problem solved. See [the base address modification from 401045 to 001045](https://www.diffchecker.com/fUf2nliG)",
+            "timeStamp": "2019/11/12-18:13:53",
+            "id": "f7d9s9r",
+            "is_submitter": true,
+            "link_id": "t3_dupf9f",
+            "parent_id": "t1_f7bf7t9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "promach"
+        },
+        "f7d8wur": {
+            "comment": "I believe you misread the question. I am rewriting an existing ELF to add another loadable segment for some security purpose.",
+            "timeStamp": "2019/11/12-18:03:38",
+            "id": "f7d8wur",
+            "is_submitter": true,
+            "link_id": "t3_dupf9f",
+            "parent_id": "t1_f7bf7t9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "promach"
+        },
+        "f7d8be9": {
+            "comment": "&gt; if you remove the section headers the executable runs anyway!\n\nRemove **WHICH** section header ?",
+            "timeStamp": "2019/11/12-17:56:31",
+            "id": "f7d8be9",
+            "is_submitter": true,
+            "link_id": "t3_dupf9f",
+            "parent_id": "t1_f7bf7t9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "promach"
+        },
+        "f7bf7t9": {
+            "comment": "what is loaded is the segment non the section, if the address of the section is comprised in one of the segments then is loaded: if you remove the section headers the executable runs anyway! My advice is to read the ELF specification [https://refspecs.linuxbase.org/elf/elf.pdf](https://refspecs.linuxbase.org/elf/elf.pdf) and understand how the ELF format works.",
+            "timeStamp": "2019/11/12-06:00:03",
+            "id": "f7bf7t9",
+            "is_submitter": false,
+            "link_id": "t3_dupf9f",
+            "parent_id": "t1_f7a9gpn",
+            "score": 1,
+            "stickied": false,
+            "author_name": "_gipi_"
+        },
+        "f7aviq4": {
+            "comment": "I have tried using 0000000000301045 , but I still could not obtain additional section",
+            "timeStamp": "2019/11/11-22:59:46",
+            "id": "f7aviq4",
+            "is_submitter": true,
+            "link_id": "t3_dupf9f",
+            "parent_id": "t1_f78d724",
+            "score": 1,
+            "stickied": false,
+            "author_name": "promach"
+        },
+        "f7a9gpn": {
+            "comment": "&gt; the address of the section is 0000000000401045 that is well out of the range of the segments of type LOAD in that executable (that are the segments actually mmapped by the kernel).\n\nI do not understand. And how do I go around this range issue in this case ?",
+            "timeStamp": "2019/11/11-17:56:40",
+            "id": "f7a9gpn",
+            "is_submitter": true,
+            "link_id": "t3_dupf9f",
+            "parent_id": "t1_f78d724",
+            "score": 1,
+            "stickied": false,
+            "author_name": "promach"
+        },
+        "f78d724": {
+            "comment": "First, a segment contains sections, so if you add a section you have to give it an address that falls into a segment address range, second, I see that the address of the section is 0000000000401045 that is well out of the range of the segments of type LOAD in that executable (that are the segments actually mmapped by the kernel).",
+            "timeStamp": "2019/11/11-08:49:23",
+            "id": "f78d724",
+            "is_submitter": false,
+            "link_id": "t3_dupf9f",
+            "parent_id": "t3_dupf9f",
+            "score": 1,
+            "stickied": false,
+            "author_name": "_gipi_"
+        }
+    }
+}

@@ -1,0 +1,121 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Norton promoting their Utilities addon with scareware-like popups",
+        "score": 1,
+        "id": "rjuk5w",
+        "commsNum": 0,
+        "timeStamp": "2021/12/19-03:03:04",
+        "author_name": "heytherecool",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://i.redd.it/yx55nms4eh681.png"
+    },
+    "posts": {
+        "i8sj9n2": {
+            "comment": "[removed]",
+            "timeStamp": "2022/05/15-23:54:41",
+            "id": "i8sj9n2",
+            "is_submitter": false,
+            "link_id": "t3_rjuk5w",
+            "parent_id": "t3_rjuk5w",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "i2giwnn": {
+            "comment": "Fun fact, they pull the numbers out of their asses. My Norton sometimes has a popup saying I'm using 89% of my memory... In file explorer 49 percent is being used.",
+            "timeStamp": "2022/03/28-10:03:37",
+            "id": "i2giwnn",
+            "is_submitter": false,
+            "link_id": "t3_rjuk5w",
+            "parent_id": "t3_rjuk5w",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Regular_Animal_5360"
+        },
+        "hpjupvi": {
+            "comment": "I understand that they are trying to promote their shitty add-on, but saying that my PC has 33 issues with it is just wrong",
+            "timeStamp": "2021/12/22-04:55:08",
+            "id": "hpjupvi",
+            "is_submitter": true,
+            "link_id": "t3_rjuk5w",
+            "parent_id": "t1_hpjt0tx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "heytherecool"
+        },
+        "hpjt0tx": {
+            "comment": "I want to say prob all AV does this. Crrtsinyk Norton been doing this for a minute and I haven't use dit since like 2010. I downloaded Avast earlier this year to test against and it did similar",
+            "timeStamp": "2021/12/22-04:37:02",
+            "id": "hpjt0tx",
+            "is_submitter": false,
+            "link_id": "t3_rjuk5w",
+            "parent_id": "t3_rjuk5w",
+            "score": 1,
+            "stickied": false,
+            "author_name": "blabbities"
+        },
+        "hp8ra9n": {
+            "comment": "So, you must be new to computers...",
+            "timeStamp": "2021/12/19-17:49:31",
+            "id": "hp8ra9n",
+            "is_submitter": false,
+            "link_id": "t3_rjuk5w",
+            "parent_id": "t3_rjuk5w",
+            "score": 1,
+            "stickied": false,
+            "author_name": "scrubsec"
+        },
+        "hp7a4u2": {
+            "comment": "\u201cYou either die a hero or you live long enough to see yourself become the villain.\u201d",
+            "timeStamp": "2021/12/19-11:21:05",
+            "id": "hp7a4u2",
+            "is_submitter": false,
+            "link_id": "t3_rjuk5w",
+            "parent_id": "t3_rjuk5w",
+            "score": 1,
+            "stickied": false,
+            "author_name": "StoneColdJane"
+        },
+        "hp6x0od": {
+            "comment": "ah yes, &amp;ndash;",
+            "timeStamp": "2021/12/19-09:52:55",
+            "id": "hp6x0od",
+            "is_submitter": false,
+            "link_id": "t3_rjuk5w",
+            "parent_id": "t3_rjuk5w",
+            "score": 1,
+            "stickied": false,
+            "author_name": "WiIdCherryPepsi"
+        },
+        "hp5yu9t": {
+            "comment": "\"Look at me.... I'm the virus now.\"",
+            "timeStamp": "2021/12/19-05:26:23",
+            "id": "hp5yu9t",
+            "is_submitter": false,
+            "link_id": "t3_rjuk5w",
+            "parent_id": "t3_rjuk5w",
+            "score": 1,
+            "stickied": false,
+            "author_name": "-GabeHitch-"
+        },
+        "hp5nln4": {
+            "comment": "[removed]",
+            "timeStamp": "2021/12/19-03:05:04",
+            "id": "hp5nln4",
+            "is_submitter": false,
+            "link_id": "t3_rjuk5w",
+            "parent_id": "t3_rjuk5w",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

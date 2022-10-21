@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi, Today i a want to share this resource with you: [Resource: Malware analysis - learning How To Reverse Malware: A collection of guides and tools](https://www.peerlyst.com/posts/resource-learning-how-to-reverse-malware-a-guide?trk=search_page_search_result) made by [Claus Cramon Houmann](https://www.peerlyst.com/users/claus-cramon?trk=search_page_search_result)\n\n&amp;#x200B;\n\n&amp;#x200B;",
+        "title": "Resource: Malware analysis - learning How To Reverse Malware: A collection of guides and tools",
+        "score": 1,
+        "id": "9xq9bi",
+        "commsNum": 2,
+        "timeStamp": "2018/11/16-13:10:08",
+        "author_name": "Z3r0s3c4",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/9xq9bi/resource_malware_analysis_learning_how_to_reverse/"
+    },
+    "posts": {
+        "ea01kf7": {
+            "comment": "Thanks for sharing :)",
+            "timeStamp": "2018/11/18-15:14:33",
+            "id": "ea01kf7",
+            "is_submitter": false,
+            "link_id": "t3_9xq9bi",
+            "parent_id": "t3_9xq9bi",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MMind_WF"
+        },
+        "e9ui1dv": {
+            "comment": "https://sites.google.com/secured.org/malwareunicorn/reverse-engineering/re101",
+            "timeStamp": "2018/11/16-15:05:34",
+            "id": "e9ui1dv",
+            "is_submitter": false,
+            "link_id": "t3_9xq9bi",
+            "parent_id": "t3_9xq9bi",
+            "score": 2,
+            "stickied": false,
+            "author_name": "munteanualex_ro"
+        }
+    }
+}

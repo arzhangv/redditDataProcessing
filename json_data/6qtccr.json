@@ -1,0 +1,253 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I am wanting to make a program that can connect to a common rats C2 and pretend to be a valid client and then log any commands or actions it is sent by the operator. \n\nI have reversed enough of its initial callback message to flood the C2 with hundreds of fake clients but I want to ideally reverse enough of its remote desktop and chat protocol that I can feed the operator a fake screen and allow them to open a chat  with my fake client.\n\nHas anyone here done this before and can point me to some decent resources for doing something like this?\n\nThe rat is NJRAT if that makes a difference, it seems to communicate primarily in ascii text with no encryption and only small amounts of base64 encoding. There is no authentication that I can see, I am not sure exactly how the rdp works though.",
+        "title": "Reversing enough of RAT network protocol to make a fake client?",
+        "score": 21,
+        "id": "6qtccr",
+        "commsNum": 21,
+        "timeStamp": "2017/07/31-19:30:25",
+        "author_name": "4e4f5045",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 21,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6qtccr/reversing_enough_of_rat_network_protocol_to_make/"
+    },
+    "posts": {
+        "dl1zqo1": {
+            "comment": "Unfortunately that is just the obfuscated decompiled code of the server. For this rat it's much simpler to reverse the client since you can build it yourself and it's not obfuscated so the code makes better sense when decompiled.",
+            "timeStamp": "2017/08/02-04:11:42",
+            "id": "dl1zqo1",
+            "is_submitter": true,
+            "link_id": "t3_6qtccr",
+            "parent_id": "t1_dl1pkb1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "4e4f5045"
+        },
+        "dl1pkb1": {
+            "comment": "[njRat source code](https://github.com/mwsrc/njRAT)\n\nI would review the source code then ;-)\n",
+            "timeStamp": "2017/08/01-21:41:42",
+            "id": "dl1pkb1",
+            "is_submitter": false,
+            "link_id": "t3_6qtccr",
+            "parent_id": "t1_dl0g3eg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "PirateGrievous"
+        },
+        "dl11cly": {
+            "comment": "Yeah absolutely, writing the code to send the messages should be pretty easy once I figure out what it is looking for. I posted a shitty script I wrote lower in the thread for spamming the callback message. All the other messages are encoded pretty much the same.",
+            "timeStamp": "2017/08/01-13:16:20",
+            "id": "dl11cly",
+            "is_submitter": true,
+            "link_id": "t3_6qtccr",
+            "parent_id": "t1_dl112so",
+            "score": 2,
+            "stickied": false,
+            "author_name": "4e4f5045"
+        },
+        "dl112so": {
+            "comment": "Awesome, seems like something a Python script could handle",
+            "timeStamp": "2017/08/01-13:11:48",
+            "id": "dl112so",
+            "is_submitter": false,
+            "link_id": "t3_6qtccr",
+            "parent_id": "t1_dl0zs60",
+            "score": 2,
+            "stickied": false,
+            "author_name": "JPaulMora"
+        },
+        "dl0zs60": {
+            "comment": "Its a little more complicated then just using netcat. But it is plain tcp, with a little bit of base64 encoding. It looks like what happens is the server sends to the client a message with a registry value that is holding a binary and the source ip and port the server is communicating to the client on. The client loads the binary from the registry, in the case of the chat client it is \"ch.dll\", then sends to the server a success/fail message with the registry value. The client then makes a seperate tcp connection to the server, and sends a CH message code along with the source ip:port the server gave him and they begin chatting. \n\n\n",
+            "timeStamp": "2017/08/01-12:49:39",
+            "id": "dl0zs60",
+            "is_submitter": true,
+            "link_id": "t3_6qtccr",
+            "parent_id": "t1_dl0hejp",
+            "score": 3,
+            "stickied": false,
+            "author_name": "4e4f5045"
+        },
+        "dl0sv70": {
+            "comment": "Okay yeah, I get what you are saying. That could probably work, its file manager is interactive though so I would need to implement all of the directory traversal commands it uses.  \n\nhttps://www.rekings.com/njrat-v0-7/\n\nThats the version I am trying to create the fake client for if you want to help out. There is another variant, njrat 0.7d golden edition that is slightly different but works very similarly that I want to get around to working on eventually.\n\nHere is the shitty python script I wrote to spam the njrat server\n\nhttps://gist.github.com/anonymous/483109bc594b42ef8fc9e9881f4256bd\n\nand a screenshot of what i looks like on the operators side.\n\nhttps://imgur.com/a/ai5zp\n\nIf you need a pcap of traffic or anything I could upload one. \n\n",
+            "timeStamp": "2017/08/01-10:51:35",
+            "id": "dl0sv70",
+            "is_submitter": true,
+            "link_id": "t3_6qtccr",
+            "parent_id": "t1_dl0qq2n",
+            "score": 3,
+            "stickied": false,
+            "author_name": "4e4f5045"
+        },
+        "dl0qq2n": {
+            "comment": "I don't think we're on the same page.  I meant, if you write your own client, you get the zip bomb loaded into the torpedoe bay.  When the C2 server makes an upload request, your custom client fires the zip bomb off instead off whatever it requested. (I'm mixing AF and Navy terms here, but fuck it)",
+            "timeStamp": "2017/08/01-10:16:01",
+            "id": "dl0qq2n",
+            "is_submitter": false,
+            "link_id": "t3_6qtccr",
+            "parent_id": "t1_dl0pwea",
+            "score": 3,
+            "stickied": false,
+            "author_name": "TParis00ap"
+        },
+        "dl0pwea": {
+            "comment": "Yeah I can certainly try, but if the server gets a response that says \"here's the data you requested\" it may simply ignore it if it had not initiated a download prior to the response. ",
+            "timeStamp": "2017/08/01-10:01:53",
+            "id": "dl0pwea",
+            "is_submitter": true,
+            "link_id": "t3_6qtccr",
+            "parent_id": "t1_dl0pf1b",
+            "score": 2,
+            "stickied": false,
+            "author_name": "4e4f5045"
+        },
+        "dl0pf1b": {
+            "comment": "But if you wrote your custom client...",
+            "timeStamp": "2017/08/01-09:53:34",
+            "id": "dl0pf1b",
+            "is_submitter": false,
+            "link_id": "t3_6qtccr",
+            "parent_id": "t1_dl0lw73",
+            "score": 3,
+            "stickied": false,
+            "author_name": "TParis00ap"
+        },
+        "dl0lw73": {
+            "comment": "It has file upload and download capabilities, I believe I read a write-up that said it send gzip compressed data, that would be an interesting to look into. The server would probably have to allow unsolicited download/upload responses for that to be exploitable.",
+            "timeStamp": "2017/08/01-08:52:32",
+            "id": "dl0lw73",
+            "is_submitter": true,
+            "link_id": "t3_6qtccr",
+            "parent_id": "t1_dl0ksjt",
+            "score": 2,
+            "stickied": false,
+            "author_name": "4e4f5045"
+        },
+        "dl0ksjt": {
+            "comment": "Is there anything that uploads files to the C2?  If it packs it into a compressed format, then you could try a zip bomb.",
+            "timeStamp": "2017/08/01-08:32:54",
+            "id": "dl0ksjt",
+            "is_submitter": false,
+            "link_id": "t3_6qtccr",
+            "parent_id": "t1_dl0g01m",
+            "score": 2,
+            "stickied": false,
+            "author_name": "TParis00ap"
+        },
+        "dl0hejp": {
+            "comment": "Wow! This sounds like a fun thing to do, have you considered just using plain TCP as chat? (Using netcat or telnet)",
+            "timeStamp": "2017/08/01-07:30:04",
+            "id": "dl0hejp",
+            "is_submitter": false,
+            "link_id": "t3_6qtccr",
+            "parent_id": "t1_dl0ft2a",
+            "score": 6,
+            "stickied": false,
+            "author_name": "JPaulMora"
+        },
+        "dl0g3eg": {
+            "comment": "I've decoded the base64, it isn't encrypted. I am not familiar with the rdp portion, it may use encryption but I have seen valid jpeg header values in the traffic, not sure if that's related to the rdp or a different feature.",
+            "timeStamp": "2017/08/01-07:03:32",
+            "id": "dl0g3eg",
+            "is_submitter": true,
+            "link_id": "t3_6qtccr",
+            "parent_id": "t1_dl028ud",
+            "score": 3,
+            "stickied": false,
+            "author_name": "4e4f5045"
+        },
+        "dl0g01m": {
+            "comment": "It doesn't seem to do much validation, for all the fields in the initial call back message you can send what ever you want, even non base64  in fields expected to be base64. It will show what ever values you give it in the rat server gui. I have not found a way to crash it though, spamming hundreds of callback messages does result in slowing down the operators computer, and causing a lot of notifications though. I can even specify the foreground window to show the operator in order to taunt them.",
+            "timeStamp": "2017/08/01-07:01:36",
+            "id": "dl0g01m",
+            "is_submitter": true,
+            "link_id": "t3_6qtccr",
+            "parent_id": "t1_dl0eiqc",
+            "score": 2,
+            "stickied": false,
+            "author_name": "4e4f5045"
+        },
+        "dl0ft2a": {
+            "comment": "Yeah it's njrat, common rat used by skids, ive ran plenty of the rats in my lab and chatted with the operators. None of them so far have seem technically competent. Usually they kill my machine or start popping up porn in the browser, that's why I want to implement just the chat part in my own client so they can't do that.\n\nBoth the rat client and server are public, it's .net malware so it's pretty easy to decompile it with dnspy and step through it with dnspys debugger. Traffic is unencrypted so i can easily inspect it with wireshark. The c2 sever doesn't kill the client when it fails to respond to command, so I should be able to just implement the chat part and ignore the rest of the commands.",
+            "timeStamp": "2017/08/01-06:57:34",
+            "id": "dl0ft2a",
+            "is_submitter": true,
+            "link_id": "t3_6qtccr",
+            "parent_id": "t1_dl0e5pk",
+            "score": 6,
+            "stickied": false,
+            "author_name": "4e4f5045"
+        },
+        "dl0eiqc": {
+            "comment": " I'm wondering if there is any input validation on c2 communication.   Maybe you could attack it. ",
+            "timeStamp": "2017/08/01-06:29:42",
+            "id": "dl0eiqc",
+            "is_submitter": false,
+            "link_id": "t3_6qtccr",
+            "parent_id": "t3_6qtccr",
+            "score": 3,
+            "stickied": false,
+            "author_name": "TParis00ap"
+        },
+        "dl0e5pk": {
+            "comment": "That depends on if the admin is actually a coder or if he bought the malware from someone else. If it's the 2nd one he's fine.",
+            "timeStamp": "2017/08/01-06:21:34",
+            "id": "dl0e5pk",
+            "is_submitter": false,
+            "link_id": "t3_6qtccr",
+            "parent_id": "t1_dl04cs1",
+            "score": 6,
+            "stickied": false,
+            "author_name": "JPaulMora"
+        },
+        "dl0dib8": {
+            "comment": "Always +1 for scapy :) great tool and agree with this suggestion",
+            "timeStamp": "2017/08/01-06:06:21",
+            "id": "dl0dib8",
+            "is_submitter": false,
+            "link_id": "t3_6qtccr",
+            "parent_id": "t1_dl028ud",
+            "score": 6,
+            "stickied": false,
+            "author_name": "stat1xs"
+        },
+        "dl04cs1": {
+            "comment": "Once they notice what you're up to, half competent operators will probably respond by adding C2 authentication using hmac or signing (crypto ain't my forte). Your \"interference\", while fun, may well be short-lived. Try not to be too loud, as others may also be watching.",
+            "timeStamp": "2017/08/01-00:19:02",
+            "id": "dl04cs1",
+            "is_submitter": false,
+            "link_id": "t3_6qtccr",
+            "parent_id": "t3_6qtccr",
+            "score": 7,
+            "stickied": false,
+            "author_name": "thunk1st"
+        },
+        "dl028ud": {
+            "comment": "Scapy is my goto tool for this type of task.\nSteps:\n\n 1. capture a pcap of the CnC communication.\n\n 2. read the pcap with scapy.\n\n 3. Alter the packet layer that you need to.\n\n 4. Send the traffic.\n\n 5. Tweak till it works.\n\nAlso I wouldn't assume base64 means no encryption. I've seen plenty of malicious files that use base64 encoding and AES/GOST.",
+            "timeStamp": "2017/07/31-22:59:15",
+            "id": "dl028ud",
+            "is_submitter": false,
+            "link_id": "t3_6qtccr",
+            "parent_id": "t3_6qtccr",
+            "score": 13,
+            "stickied": false,
+            "author_name": "PirateGrievous"
+        },
+        "dkzw61c": {
+            "comment": "I saw a reverser that goes by the handle of nonoh do just that build a client for a specific malware only a bin available.",
+            "timeStamp": "2017/07/31-20:08:37",
+            "id": "dkzw61c",
+            "is_submitter": false,
+            "link_id": "t3_6qtccr",
+            "parent_id": "t3_6qtccr",
+            "score": 3,
+            "stickied": false,
+            "author_name": "kokotero1234"
+        }
+    }
+}

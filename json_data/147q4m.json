@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Detection of Worm Propagation Engines in the\nSystem Call Domain using Colored Petri Nets [PDF]",
+        "score": 6,
+        "id": "147q4m",
+        "commsNum": 0,
+        "timeStamp": "2012/12/03-11:16:13",
+        "author_name": "dgrif",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://cait.binghamton.edu/skormin/uploads/pub_security/Paper_for_JCS_Worm_propagation.pdf"
+    },
+    "posts": {}
+}

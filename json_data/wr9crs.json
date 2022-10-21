@@ -1,0 +1,143 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": " \n\nThere are programs that i'm going to be running from risky sites, I need to know the best way to make myself safe. Any program that can really assess a program 100% before i run it?",
+        "title": "Best way/program to scan a file for viruses",
+        "score": 1,
+        "id": "wr9crs",
+        "commsNum": 0,
+        "timeStamp": "2022/08/17-20:58:26",
+        "author_name": "Custard48",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/wr9crs/best_wayprogram_to_scan_a_file_for_viruses/"
+    },
+    "posts": {
+        "ikx9rh0": {
+            "comment": "Very confident. AV and sites like VT are very good as giving you confidence that something is bad but not good at giving you confidence that something is clean. If you run the file through VT and 40 engines detect something, you can feel pretty confident that this probably isn't a good idea.\n\nIn the reverse, you run it and 1 - 2 engines say its bad, now you fall into the concern of are those false positives or is it just something that only those 2 know about? Every file you open has a level of risk associated with it. It's up to you to decide if that risk is worth taking.",
+            "timeStamp": "2022/08/19-05:10:22",
+            "id": "ikx9rh0",
+            "is_submitter": false,
+            "link_id": "t3_wr9crs",
+            "parent_id": "t1_ikwkx99",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ClevelandLifer"
+        },
+        "ikwkx99": {
+            "comment": "how confident are you with this answer",
+            "timeStamp": "2022/08/19-00:16:11",
+            "id": "ikwkx99",
+            "is_submitter": true,
+            "link_id": "t3_wr9crs",
+            "parent_id": "t1_ikv1ww5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Custard48"
+        },
+        "ikv4nos": {
+            "comment": "[removed]",
+            "timeStamp": "2022/08/18-16:33:43",
+            "id": "ikv4nos",
+            "is_submitter": false,
+            "link_id": "t3_wr9crs",
+            "parent_id": "t3_wr9crs",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ikv1ww5": {
+            "comment": "There is no program or site that will be able to give you a 100% answer. They can only give you varying levels of confidence. The first thing you should always consider is where the files are coming from, and from your own admission they are from risky sites. That tells you everything you need know.\n\nIf its from a risky site, no matter what VT says, I wouldn't trust it on any system or network that has data I care about.",
+            "timeStamp": "2022/08/18-16:14:08",
+            "id": "ikv1ww5",
+            "is_submitter": false,
+            "link_id": "t3_wr9crs",
+            "parent_id": "t3_wr9crs",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ClevelandLifer"
+        },
+        "ikum59w": {
+            "comment": "Just use virustotal lol. Generally gives you all the info you need.",
+            "timeStamp": "2022/08/18-14:29:15",
+            "id": "ikum59w",
+            "is_submitter": false,
+            "link_id": "t3_wr9crs",
+            "parent_id": "t3_wr9crs",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Tear-Sensitive"
+        },
+        "iksz7v0": {
+            "comment": "As you said, nothing is 100%. While possible, I've not seen malware that infects an offline os in a way such as loading the remote registry to modify it. Files can be left on the hosts hdd but that never needs to be mounted in the first place since you can just use a partition on the flash drive. The flash drive itself getting infected is the most plausible, but worms like that are pretty rare these days. It's always good to be vigilant, I probably just have a higher risk tolerance. I haven't blown my host to this point and I've been detonating samples of all kinds for over 10 years, I guess that's why I don't think about it. That line of thinking may come back to bite me, but I'm keeping my fingers crossed it doesn't.",
+            "timeStamp": "2022/08/18-08:10:14",
+            "id": "iksz7v0",
+            "is_submitter": false,
+            "link_id": "t3_wr9crs",
+            "parent_id": "t1_ikswqvr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Nugsly"
+        },
+        "ikswqvr": {
+            "comment": "Perhaps but this can infect the flash drive and leave residue on the hosting machine... so I wouldn't count on this alone",
+            "timeStamp": "2022/08/18-07:53:45",
+            "id": "ikswqvr",
+            "is_submitter": false,
+            "link_id": "t3_wr9crs",
+            "parent_id": "t1_iks511w",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Nesher86"
+        },
+        "ikswpgw": {
+            "comment": "[removed]",
+            "timeStamp": "2022/08/18-07:53:29",
+            "id": "ikswpgw",
+            "is_submitter": false,
+            "link_id": "t3_wr9crs",
+            "parent_id": "t3_wr9crs",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "iks511w": {
+            "comment": "An OS on a flash drive is also an option if OP doesn't have the resources to run a VM.",
+            "timeStamp": "2022/08/18-04:19:31",
+            "id": "iks511w",
+            "is_submitter": false,
+            "link_id": "t3_wr9crs",
+            "parent_id": "t1_ikr9un5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Nugsly"
+        },
+        "ikrn5iw": {
+            "comment": "https://virustotal.com/",
+            "timeStamp": "2022/08/18-00:33:26",
+            "id": "ikrn5iw",
+            "is_submitter": false,
+            "link_id": "t3_wr9crs",
+            "parent_id": "t3_wr9crs",
+            "score": 1,
+            "stickied": false,
+            "author_name": "PaoLULHardsub"
+        },
+        "ikr9un5": {
+            "comment": "Use a virtual machine on the cloud, sandbox and/or home version of an NGAV/EDR.. it's still won't be a 100%",
+            "timeStamp": "2022/08/17-21:52:54",
+            "id": "ikr9un5",
+            "is_submitter": false,
+            "link_id": "t3_wr9crs",
+            "parent_id": "t3_wr9crs",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Nesher86"
+        }
+    }
+}

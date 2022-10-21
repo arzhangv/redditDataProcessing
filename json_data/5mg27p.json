@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "The download file is at: https://www.hybrid-analysis.com/sample/b00e386ed4e717f49d7b0d9135cb027dcc181ba45a03131e25f55bb9e2acecfd?environmentId=100\n\nAnd I've also uploaded the VB I extracted from Stream A8 using oledump.py at Pastebin: http://pastebin.com/YhEZ4pMk\n\nI can't seem to figure it out... I see StrRev, and a Base64 deobfuscation key, but the DecryptEPI parameters are all jumbled up.\n\nAnyone see anything like this before or any tips on how to proceed? I've tried just about all of Didier Stevens plugins and decoders, I did get a bunch of UTF-8, but it was a dead end for me...\n\nSorry - still kind of new to all of this, not looking for anyone to do the work for me, but certainly would appreciate pointers. ",
+        "title": "Need a Little Help Deobfuscating this Macro...",
+        "score": 3,
+        "id": "5mg27p",
+        "commsNum": 10,
+        "timeStamp": "2017/01/06-12:45:36",
+        "author_name": "b_b_atman",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 10,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5mg27p/need_a_little_help_deobfuscating_this_macro/"
+    },
+    "posts": {}
+}

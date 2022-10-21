@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Technical, informative write up of the xxmm backdoor family, specifically a newly discovered variant- ShadowWali",
+        "score": 2,
+        "id": "691zxh",
+        "commsNum": 1,
+        "timeStamp": "2017/05/03-10:58:07",
+        "author_name": "Eliad-Cybereason",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.cybereason.com/labs-shadowwali-new-variant-of-the-xxmm-family-of-backdoors/"
+    },
+    "posts": {}
+}

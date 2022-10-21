@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "How to Create a Virus Using the Assembly Language",
+        "score": 1,
+        "id": "5kecpl",
+        "commsNum": 0,
+        "timeStamp": "2016/12/26-08:11:55",
+        "author_name": "maxxori",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://cranklin.wordpress.com/2016/12/26/how-to-create-a-virus-using-the-assembly-language/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Please DM me, I got some questions for a study !",
+        "title": "Want to speak to a expert malware programmer [Study}",
+        "score": 1,
+        "id": "h9ghqe",
+        "commsNum": 2,
+        "timeStamp": "2020/06/15-06:36:45",
+        "author_name": "Sels31",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/h9ghqe/want_to_speak_to_a_expert_malware_programmer_study/"
+    },
+    "posts": {
+        "fuxiui2": {
+            "comment": "Thanks !",
+            "timeStamp": "2020/06/15-12:03:46",
+            "id": "fuxiui2",
+            "is_submitter": true,
+            "link_id": "t3_h9ghqe",
+            "parent_id": "t1_fuwn1s0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Sels31"
+        },
+        "fuwn1s0": {
+            "comment": "Try reaching out to this guy:\n\n[https://www.youtube.com/channel/UCwTH3RkRCIE35RJ16Nh8V8Q/featured](https://www.youtube.com/channel/UCwTH3RkRCIE35RJ16Nh8V8Q/featured)\n\nHe use to have a Patreon channel,  and he indicates that he will help one on one if you meet certain donation levels.  I don't know where he is now, but at least worth a message to him. \n\nGood luck.",
+            "timeStamp": "2020/06/15-07:52:59",
+            "id": "fuwn1s0",
+            "is_submitter": false,
+            "link_id": "t3_h9ghqe",
+            "parent_id": "t3_h9ghqe",
+            "score": 1,
+            "stickied": false,
+            "author_name": "stephenmjay"
+        }
+    }
+}

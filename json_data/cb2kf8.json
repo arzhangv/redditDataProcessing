@@ -1,0 +1,110 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I want to do malware testing videos for my YouTube channel. since that Danooct1 stopped uploading. \n\nDownload links are appreciated and or Repository For Virus links of the sorts.",
+        "title": "Do anyone has a working Sample of Gruel or any other Viruses that work with Windows XP/2000?",
+        "score": 7,
+        "id": "cb2kf8",
+        "commsNum": 8,
+        "timeStamp": "2019/07/09-08:45:31",
+        "author_name": "Alexishere555",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 8,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/cb2kf8/do_anyone_has_a_working_sample_of_gruel_or_any/"
+    },
+    "posts": {
+        "exofcg5": {
+            "comment": "Thanks.",
+            "timeStamp": "2019/08/22-05:05:15",
+            "id": "exofcg5",
+            "is_submitter": false,
+            "link_id": "t3_cb2kf8",
+            "parent_id": "t1_etddyao",
+            "score": 1,
+            "stickied": false,
+            "author_name": "olek32454"
+        },
+        "evfg33k": {
+            "comment": "thanks i will look in to the repo soon",
+            "timeStamp": "2019/07/30-06:59:38",
+            "id": "evfg33k",
+            "is_submitter": true,
+            "link_id": "t3_cb2kf8",
+            "parent_id": "t1_etcw7jo",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Alexishere555"
+        },
+        "evffy1p": {
+            "comment": "thanks!",
+            "timeStamp": "2019/07/30-06:58:26",
+            "id": "evffy1p",
+            "is_submitter": true,
+            "link_id": "t3_cb2kf8",
+            "parent_id": "t1_etddyao",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Alexishere555"
+        },
+        "etdmjxb": {
+            "comment": "All the good sites were shut down Vx.arch and vx haven. The owners didn\u2019t wanna host them or have to deal with the constant searches and gov take downs.",
+            "timeStamp": "2019/07/09-15:07:02",
+            "id": "etdmjxb",
+            "is_submitter": false,
+            "link_id": "t3_cb2kf8",
+            "parent_id": "t3_cb2kf8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ieatolio"
+        },
+        "etdmfu4": {
+            "comment": "Hey man can you repost that link it\u2019s not working. I wanna see if I have the same ones as you I\u2019m a bit of a collector. Also I\u2019d wanna download a few",
+            "timeStamp": "2019/07/09-15:05:45",
+            "id": "etdmfu4",
+            "is_submitter": false,
+            "link_id": "t3_cb2kf8",
+            "parent_id": "t1_etddyao",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ieatolio"
+        },
+        "etddyao": {
+            "comment": "I do. Password is 'infected'\n\n&amp;#x200B;\n\n[https://drive.google.com/open?id=1ef-EuAjkiAxWhzPUrbZl9vcaqJ4f8GSc](https://drive.google.com/open?id=1ef-EuAjkiAxWhzPUrbZl9vcaqJ4f8GSc)",
+            "timeStamp": "2019/07/09-13:38:12",
+            "id": "etddyao",
+            "is_submitter": false,
+            "link_id": "t3_cb2kf8",
+            "parent_id": "t3_cb2kf8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "organized_mayhem89"
+        },
+        "etcw7jo": {
+            "comment": "I\u2019m not sure if they have exactly what you\u2019re looking for, but have you checked out :\n\nhttps://github.com/ytisf/theZoo\n\nHas a lot of good binaries and source code, might help you.",
+            "timeStamp": "2019/07/09-10:38:51",
+            "id": "etcw7jo",
+            "is_submitter": false,
+            "link_id": "t3_cb2kf8",
+            "parent_id": "t3_cb2kf8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MediocreWrongdoer"
+        },
+        "etckzuw": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2019/07/09-08:45:34",
+            "id": "etckzuw",
+            "is_submitter": false,
+            "link_id": "t3_cb2kf8",
+            "parent_id": "t3_cb2kf8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I got this come through my gmail, no scanning tool i have seems to detect it, but the email was very suspect. I have submitted it to google and ms malware reporting centres. Yet I thought some of you guys might want to pick it apart.\n\nthe password they used was 7625\n\nTHIS IS MALWARE DO NOT OPEN UNLESS ON ISOLATED BOX!!\n\nthis is the file https://uploadfiles.io/2y3li\n\nTHIS IS MALWARE DO NOT OPEN UNLESS ON ISOLATED BOX!!\n\nThis file does contain malware, I have launched it on an isolated VM running win10 and office 2016 the latest patches. After launching and crashing word it seems to go after the ip 21.12.44.23 which apears to be owned by the DoD. IT appears to create 2 proccesses and batch scripts in user\\appdata\\local\\temp called 0163.bat+.exe and 06619.bat+.exe\n",
+        "title": "Malware just got through my gmail and i dont know what to do with it",
+        "score": 18,
+        "id": "6baqvp",
+        "commsNum": 10,
+        "timeStamp": "2017/05/15-07:36:20",
+        "author_name": "kramit",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 10,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6baqvp/malware_just_got_through_my_gmail_and_i_dont_know/"
+    },
+    "posts": {}
+}

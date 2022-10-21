@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "GitHub - cdot65/SRX-security-zone-sessions: This Ansible example will show how to retrieve the security session count by zone.",
+        "score": 1,
+        "id": "rzfiwf",
+        "commsNum": 0,
+        "timeStamp": "2022/01/08-17:11:12",
+        "author_name": "A_programmer10",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://github.com/cdot65/SRX-security-zone-sessions"
+    },
+    "posts": {}
+}

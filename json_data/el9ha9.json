@@ -1,0 +1,154 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "So I have Windows Sandbox, and I would like to install malware on the instance and be able to see what the program installs to and executes. For example, if I run \\`virus.exe\\`, the program I am looking for would log what the .exe would do like, interactions with registry, file writes, changes to browser settings, or any other modifications.\n\n&amp;#x200B;\n\nI would like a tool like this, so I can research and create removal scripts as I can just trace the steps that the malware took to create a 'cure'.  These cures would be posted to a GitHub page or given to those who have fallen for it.",
+        "title": "Looking for a program to list all changes it made in an environment.",
+        "score": 1,
+        "id": "el9ha9",
+        "commsNum": 12,
+        "timeStamp": "2020/01/07-01:45:57",
+        "author_name": "Chengers",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 12,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/el9ha9/looking_for_a_program_to_list_all_changes_it_made/"
+    },
+    "posts": {
+        "ffqpsc4": {
+            "comment": "Procmon!",
+            "timeStamp": "2020/01/27-08:00:03",
+            "id": "ffqpsc4",
+            "is_submitter": false,
+            "link_id": "t3_el9ha9",
+            "parent_id": "t3_el9ha9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MysticalTeamMember"
+        },
+        "fdovu1a": {
+            "comment": "[removed]",
+            "timeStamp": "2020/01/09-15:53:55",
+            "id": "fdovu1a",
+            "is_submitter": false,
+            "link_id": "t3_el9ha9",
+            "parent_id": "t3_el9ha9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fdkxi51": {
+            "comment": "You need more security than just running a VM on a personal machine that's connected to the web to run malware. There are instances of VM breakouts, plus most malware will run differently under a virtual machine.",
+            "timeStamp": "2020/01/08-11:53:11",
+            "id": "fdkxi51",
+            "is_submitter": false,
+            "link_id": "t3_el9ha9",
+            "parent_id": "t3_el9ha9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "bong-rips-for-jesus"
+        },
+        "fdh00m3": {
+            "comment": "Noriben is nice",
+            "timeStamp": "2020/01/07-07:53:16",
+            "id": "fdh00m3",
+            "is_submitter": false,
+            "link_id": "t3_el9ha9",
+            "parent_id": "t3_el9ha9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "flipmode_squad"
+        },
+        "fdgx1qs": {
+            "comment": "Procmon + procdot",
+            "timeStamp": "2020/01/07-07:20:35",
+            "id": "fdgx1qs",
+            "is_submitter": false,
+            "link_id": "t3_el9ha9",
+            "parent_id": "t3_el9ha9",
+            "score": 2,
+            "stickied": false,
+            "author_name": "TacticalCheerio"
+        },
+        "fdgq18z": {
+            "comment": "FileWatcher\n\n\nLook at systools but sounds like a Malware Sandbox is what your after",
+            "timeStamp": "2020/01/07-05:55:01",
+            "id": "fdgq18z",
+            "is_submitter": false,
+            "link_id": "t3_el9ha9",
+            "parent_id": "t3_el9ha9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "brink668"
+        },
+        "fdgotcl": {
+            "comment": "[deleted]",
+            "timeStamp": "2020/01/07-05:38:23",
+            "id": "fdgotcl",
+            "is_submitter": false,
+            "link_id": "t3_el9ha9",
+            "parent_id": "t3_el9ha9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fdgoa12": {
+            "comment": "Checkout any.run and Cuckoo",
+            "timeStamp": "2020/01/07-05:30:41",
+            "id": "fdgoa12",
+            "is_submitter": false,
+            "link_id": "t3_el9ha9",
+            "parent_id": "t3_el9ha9",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Loggedinasroot"
+        },
+        "fdgjr1b": {
+            "comment": "I must've downloaded the wrong program, I've downloaded and run \"RegShot\" from sourceforge in my VM but I do not see a \"File System\" box.",
+            "timeStamp": "2020/01/07-04:19:44",
+            "id": "fdgjr1b",
+            "is_submitter": true,
+            "link_id": "t3_el9ha9",
+            "parent_id": "t1_fdgj2sh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Chengers"
+        },
+        "fdgj2sh": {
+            "comment": "If you click the \"file system\" box, it will also track the file system changes.",
+            "timeStamp": "2020/01/07-04:07:42",
+            "id": "fdgj2sh",
+            "is_submitter": false,
+            "link_id": "t3_el9ha9",
+            "parent_id": "t1_fdgggfb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "JulienneDelphiki"
+        },
+        "fdgggfb": {
+            "comment": "That covers the registry part, now I need to find changes in file system part.",
+            "timeStamp": "2020/01/07-03:14:56",
+            "id": "fdgggfb",
+            "is_submitter": true,
+            "link_id": "t3_el9ha9",
+            "parent_id": "t1_fdggdad",
+            "score": 0,
+            "stickied": false,
+            "author_name": "Chengers"
+        },
+        "fdggdad": {
+            "comment": "Try RegShot, it allows you to take a snapshot before and after execution and compares them.",
+            "timeStamp": "2020/01/07-03:12:59",
+            "id": "fdggdad",
+            "is_submitter": false,
+            "link_id": "t3_el9ha9",
+            "parent_id": "t3_el9ha9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Pyro_Murphy"
+        }
+    }
+}

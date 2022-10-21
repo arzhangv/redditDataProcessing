@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": " I'm currently looking at the sample mentioned in this [article](https://blog.malwarebytes.com/threat-intelligence/2022/01/konni-evolves-into-stealthier-rat/) here, and it seems that it uses the SvcMain function prototype instead of the runnableExport function prototype used by rundll32. As a result, there will be an access violation exception once it reaches the location xxxxxxx35DA8. My question here is, how do I debug this on disassemblers like IDA? I've always used rundll32 to debug DLL samples, so I'm not sure how to proceed with this.\n\nP.S Sample can be found when extracted from this [cab file here on any.run](https://app.any.run/tasks/d4fbfab7-afcf-44c6-84d5-53c96517ee2d/)",
+        "title": "How to debug a DLL without rundll32",
+        "score": 1,
+        "id": "smfrs6",
+        "commsNum": 0,
+        "timeStamp": "2022/02/06-19:16:24",
+        "author_name": "takeruyuuhi",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/smfrs6/how_to_debug_a_dll_without_rundll32/"
+    },
+    "posts": {
+        "hwafgeg": {
+            "comment": "[removed]",
+            "timeStamp": "2022/02/09-14:49:12",
+            "id": "hwafgeg",
+            "is_submitter": false,
+            "link_id": "t3_smfrs6",
+            "parent_id": "t3_smfrs6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hvzyumy": {
+            "comment": "Olly/Immunity have a DLL Loader (loaddll.exe).\n\nSome better 3rd party options:\n\nhttps://github.com/Neo23x0/DLLRunner\n\nhttps://github.com/edix/LoadDll",
+            "timeStamp": "2022/02/07-13:43:36",
+            "id": "hvzyumy",
+            "is_submitter": false,
+            "link_id": "t3_smfrs6",
+            "parent_id": "t3_smfrs6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "LightningRurik"
+        }
+    }
+}

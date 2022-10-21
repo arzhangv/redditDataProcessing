@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi guys,\n\nas mentioned, i would need some Malware e.g. a Keylogger or stuff like that that would be beginner friendly - not too complex.\n\nThe reason behind this is that i am right now writing a simple tutorial on how to analyse different malware samples, and I dont want to give beginners a difficult entry point to Malware, so I would need some Malware samples being simple designed.\n\nDoes anybody have some samples?\n\nWould be really great!\nThanks!",
+        "title": "Help - need \"beginner-friendly\" malware",
+        "score": 25,
+        "id": "661fx5",
+        "commsNum": 21,
+        "timeStamp": "2017/04/18-00:40:04",
+        "author_name": "Yoel-is-my-ign",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 21,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/661fx5/help_need_beginnerfriendly_malware/"
+    },
+    "posts": {}
+}

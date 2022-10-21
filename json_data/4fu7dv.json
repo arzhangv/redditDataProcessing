@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Teaching an old RAT new tricks - Unpacking / Reversing .Net w. anti* techniques",
+        "score": 13,
+        "id": "4fu7dv",
+        "commsNum": 0,
+        "timeStamp": "2016/04/21-10:54:31",
+        "author_name": "diff-t",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.sentinelone.com/blogs/teaching-an-old-rat-new-tricks/"
+    },
+    "posts": {}
+}

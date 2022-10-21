@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Executable Features Series - Deep dive on differentiators to distinguish between legitimate vs malicious windows executables",
+        "score": 10,
+        "id": "dnuu98",
+        "commsNum": 0,
+        "timeStamp": "2019/10/27-08:26:27",
+        "author_name": "FusionCarcass",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://practicalsecurityanalytics.com/home/blog/executable-features-series/"
+    },
+    "posts": {}
+}

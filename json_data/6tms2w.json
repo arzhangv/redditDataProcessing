@@ -1,0 +1,132 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I'm new to reverse engineering, so I don't know if my question will be easy or not. Right now I have an exe file, but it seems packed. In the hex Dump I do have the followings :\n\n\n    000003d0: 0055 5058 3000 0000 0000 e028 0000 1000  .UPX0......(....\n    000003e0: 0000 0000 0000 0200 0000 0000 0000 0000  ................\n    000003f0: 0000 0000 0080 0000 e055 5058 3100 0000  .........UPX1...\n    00000400: 0000 4014 0000 f028 0000 3814 0000 0200  ..@....(..8.....\n    00000410: 0000 0000 0000 0000 0000 0000 0040 0000  .............@..\n    00000420: e02e 7273 7263 0000 0000 a007 0000 303d  ..rsrc........0=\n    00000430: 0000 9207 0000 3a14 0000 0000 0000 0000  ......:.........\n    00000440: 0000 0000 0040 0000 c033 2e39 3300 5550  .....@...3.93.UP\n    00000450: 5821 0d09 0201 4482 f819 2707 6e6b 290d  X!....D...'.nk).\n\n\nI guess that my file is packed using UPX. But I'm stuck with the rest of the file because I do have an altered header it seems :\n\n\n    00000000: 4d5a 9000 0300 0000 0400 0000 ffff 0000  MZ..............\n    00000010: b800 0000 0000 0000 4000 0000 0000 0000  ........@.......\n    00000020: 0000 0000 0000 0000 0000 0000 0000 0000  ................\n    00000030: 0000 0000 0000 0000 0000 0000 8000 0000  ................\n    00000040: 0e1f ba0e 00b4 09cd 21b8 014c cd21 5468  ........!..L.!Th\n    00000050: 6973 2070 726f 6772 616d 2063 616e 6e6f  is program canno\n    00000060: 7420 6265 2072 756e 2069 6e20 444f 5320  t be run in DOS\n    00000070: 6d6f 6465 2e0d 0d0a 2400 0000 0000 0000  mode....$.......\n    00000080: 5045 0000 4c01 0300 a505 f358 0000 0000  PE..L......X....\n    [...]\n    00000250: 4e71 e81b 0068 e81b 004d 5a90 0003 0000  Nq...h...MZ.....\n    00000260: 0004 0000 00ff ff00 00b8 0000 0000 0000  ................\n    00000270: 0040 0000 0000 0000 0000 0000 0000 0000  .@..............\n    00000280: 0000 0000 0000 0000 0000 0000 0000 0000  ................\n    00000290: 0000 0000 0080 0000 000e 1fba 0e00 b409  ................\n    000002a0: cd21 b801 4ccd 2154 6869 7320 7072 6f67  .!..L.!This prog\n    000002b0: 7261 6d20 6361 6e6e 6f74 2062 6520 7275  ram cannot be ru\n    000002c0: 6e20 696e 2044 4f53 206d 6f64 652e 0d0d  n in DOS mode...\n    000002d0: 0a24 0000 0000 0000 0050 4500 004c 0103  .$.......PE..L..\n\n\nUsing objdump, I got the following :\n\n\n    architecture: i386, flags 0x0000012f:\n    HAS_RELOC, EXEC_P, HAS_LINENO, HAS_DEBUG, HAS_LOCALS, D_PAGED\n    start address 0x0078353e\n    \n    Characteristics 0x102\n        executable\n        32 bit words\n    \n    Time/Date       XXXXXXXXXXXXXXXXXXXXX\n    Magic           010b    (PE32)\n    MajorLinkerVersion  11\n    MinorLinkerVersion  0\n    SizeOfCode      00381600\n    SizeOfInitializedData   00000800\n    SizeOfUninitializedData 00000000\n    AddressOfEntryPoint 0038353e\n    BaseOfCode      00002000\n    BaseOfData      00384000\n    ImageBase       00400000\n    SectionAlignment    00002000\n    FileAlignment       00000200\n    MajorOSystemVersion 4\n    MinorOSystemVersion 0\n    MajorImageVersion   0\n    MinorImageVersion   0\n    MajorSubsystemVersion   4\n    MinorSubsystemVersion   0\n    Win32Version        00000000\n    SizeOfImage     00388000\n    SizeOfHeaders       00000200\n    CheckSum        00000000\n    Subsystem       00000002    (Windows GUI)\n    DllCharacteristics  00008540\n    SizeOfStackReserve  00100000\n    SizeOfStackCommit   00001000\n    SizeOfHeapReserve   00100000\n    SizeOfHeapCommit    00001000\n    LoaderFlags     00000000\n    NumberOfRvaAndSizes 00000010\n    \n    The Data Directory\n    Entry 0 00000000 00000000 Export Directory [.edata (or where ever we found it)]\n    Entry 1 003834e8 00000053 Import Directory [parts of .idata]\n    Entry 2 00384000 00000598 Resource Directory [.rsrc]\n    Entry 3 00000000 00000000 Exception Directory [.pdata]\n    Entry 4 00000000 00000000 Security Directory\n    Entry 5 00386000 0000000c Base Relocation Directory [.reloc]\n    Entry 6 003833b0 0000001c Debug Directory\n    Entry 7 00000000 00000000 Description Directory\n    Entry 8 00000000 00000000 Special Directory\n    Entry 9 00000000 00000000 Thread Storage Directory [.tls]\n    Entry a 00000000 00000000 Load Configuration Directory\n    Entry b 00000000 00000000 Bound Import Directory\n    Entry c 00002000 00000008 Import Address Table Directory\n    Entry d 00000000 00000000 Delay Import Directory\n    Entry e 00002008 00000048 CLR Runtime Header\n    Entry f 00000000 00000000 Reserved\n    \n    There is an import table in .text at 0x7834e8\n    \n    The Import Tables (interpreted .text section contents)\n     vma:            Hint    Time      Forward  DLL       First\n                     Table   Stamp     Chain    Name      Thunk\n    \n    \n    PE File Base Relocations (interpreted .reloc section contents)\n    \n    There is a debug directory in .text at 0x7833b0\n    \n    Type                Size     Rva      Offset\n    \n    Sections:\n    Idx Name          Size      VMA       LMA       File off  Algn\n      0 .text         00381544  00402000  00402000  00000200  2**2\n                      CONTENTS, ALLOC, LOAD, READONLY, CODE\n      1 .rsrc         00000598  00784000  00784000  00381800  2**2\n                      CONTENTS, ALLOC, LOAD, READONLY, DATA\n      2 .reloc        0000000c  00786000  00786000  00381e00  2**2\n                      CONTENTS, ALLOC, LOAD, READONLY, DATA\n    SYMBOL TABLE:\n    no symbols\n\n\nSo is this exe file a false one (hidden payload i.e.) or is it an obfuscated one ?\n\n\nOn [virustotal](https://www.virustotal.com/en/file/e49be065137b8bd199848e334c3a4c2399bed97e71dd4f10e7d4a7f39e1c9e61/analysis/), the actual file is being detected 6 times out of 60 AV. \n\n\nHere is the md5 if you need : 48b0bd483d80617d6f4b33731811d248",
+        "title": "Packed PE file with weird DOS header",
+        "score": 12,
+        "id": "6tms2w",
+        "commsNum": 8,
+        "timeStamp": "2017/08/14-07:32:03",
+        "author_name": "jackybot",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 8,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6tms2w/packed_pe_file_with_weird_dos_header/"
+    },
+    "posts": {
+        "dlnsxq8": {
+            "comment": "It says right there in plain text: UPX",
+            "timeStamp": "2017/08/15-10:08:31",
+            "id": "dlnsxq8",
+            "is_submitter": false,
+            "link_id": "t3_6tms2w",
+            "parent_id": "t3_6tms2w",
+            "score": 1,
+            "stickied": false,
+            "author_name": "dwThread"
+        },
+        "dlngveu": {
+            "comment": "alright, thank you for your analysis, it is much appreciated. Next time I'll just ignore such files I guess",
+            "timeStamp": "2017/08/15-06:26:25",
+            "id": "dlngveu",
+            "is_submitter": true,
+            "link_id": "t3_6tms2w",
+            "parent_id": "t1_dlnfycj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "jackybot"
+        },
+        "dlnfycj": {
+            "comment": "So I dumped the sample and had a look. It's definitely corrupt like Ranmao said but here's why so at least you get an explanation.\n\n- File Type for this PE is .NET assembly executable which doesn't make sense as UPX cannot pack .NET executables. UPX is only for native applications.\n- Also, the addresses for the Entry Point, Import, Reloc and Debug sections are invalid.\n- There is a small piece of PE header in the .reloc section.\n- The address of BaseOfCode contains another PE header with the UPX sections in question. If you scroll down, you can see that it kinda look like a PE file.\n- Using HxD or any hex editor, go to offset 0x00000259 and copy/paste everything starting from there in a new hex editor Window. Save it and open it in a PE tool like CFF Explorer.\n- You see you only have 3 sections, UPX0, UPX1 and .rsrc. Also invalid addresse for multiple expected sections, including a TLS one. Also it doesn't say .NET assembly anymore, but the PE is still broken as fuck.\n\nIn those cases you don't waste your time. Not the kind of stuff you can rebuild easily (or rebuild period) as you got missing sections and some non-sense in there (but I'm no PE expert so if anybody reads this and think I'm wrong please let us know).\n\nedit: wording\n",
+            "timeStamp": "2017/08/15-06:04:33",
+            "id": "dlnfycj",
+            "is_submitter": false,
+            "link_id": "t3_6tms2w",
+            "parent_id": "t1_dlnbbss",
+            "score": 2,
+            "stickied": false,
+            "author_name": "tr4cefl0w"
+        },
+        "dlnbbss": {
+            "comment": "Thank you :)",
+            "timeStamp": "2017/08/15-03:35:27",
+            "id": "dlnbbss",
+            "is_submitter": true,
+            "link_id": "t3_6tms2w",
+            "parent_id": "t1_dlna7si",
+            "score": 1,
+            "stickied": false,
+            "author_name": "jackybot"
+        },
+        "dlna7si": {
+            "comment": "I'll download the sample from VT and let you know what's up with it.",
+            "timeStamp": "2017/08/15-02:44:26",
+            "id": "dlna7si",
+            "is_submitter": false,
+            "link_id": "t3_6tms2w",
+            "parent_id": "t1_dlmo91y",
+            "score": 1,
+            "stickied": false,
+            "author_name": "tr4cefl0w"
+        },
+        "dlna6cb": {
+            "comment": "[deleted]",
+            "timeStamp": "2017/08/15-02:42:29",
+            "id": "dlna6cb",
+            "is_submitter": false,
+            "link_id": "t3_6tms2w",
+            "parent_id": "t1_dlmo91y",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "dlmo91y": {
+            "comment": "Yeah, after I can still try to extract the payload without the headers I guess",
+            "timeStamp": "2017/08/14-16:40:08",
+            "id": "dlmo91y",
+            "is_submitter": true,
+            "link_id": "t3_6tms2w",
+            "parent_id": "t1_dlmk8w4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "jackybot"
+        },
+        "dlmnuxt": {
+            "comment": "This is a malware packed with UPX which is an open source packer commonly used. Google UPX packer, download it and like /u/trolling_turd said, run upx -d to unpack it. You will then have the unpacked binary.",
+            "timeStamp": "2017/08/14-16:32:10",
+            "id": "dlmnuxt",
+            "is_submitter": false,
+            "link_id": "t3_6tms2w",
+            "parent_id": "t3_6tms2w",
+            "score": 7,
+            "stickied": false,
+            "author_name": "tr4cefl0w"
+        },
+        "dlmk8w4": {
+            "comment": "It looks corrupted to me...",
+            "timeStamp": "2017/08/14-15:20:27",
+            "id": "dlmk8w4",
+            "is_submitter": false,
+            "link_id": "t3_6tms2w",
+            "parent_id": "t3_6tms2w",
+            "score": 0,
+            "stickied": false,
+            "author_name": "RanmaSao"
+        },
+        "dlm11zd": {
+            "comment": "Upx -d  &lt;file&gt; is the command you need to run on the binary. Then you should see the MZ header",
+            "timeStamp": "2017/08/14-09:47:22",
+            "id": "dlm11zd",
+            "is_submitter": false,
+            "link_id": "t3_6tms2w",
+            "parent_id": "t3_6tms2w",
+            "score": 3,
+            "stickied": false,
+            "author_name": "Trolling_turd"
+        }
+    }
+}

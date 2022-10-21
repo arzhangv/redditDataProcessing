@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "A study on obfuscation techniques for Android malware[PDF, master's thesis]",
+        "score": 1,
+        "id": "4kuzm0",
+        "commsNum": 0,
+        "timeStamp": "2016/05/24-10:38:29",
+        "author_name": "linuxjava",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://midlab.diag.uniroma1.it/articoli/matteo_pomilia_master_thesis.pdf"
+    },
+    "posts": {}
+}

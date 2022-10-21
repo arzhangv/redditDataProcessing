@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I extracted and slightly cleaned up the code below from a Word Macro.  Does anyone recognize the algorithm?\n\nFunction ConvertRoutine(ByVal InputString As String, ByVal KeyString As String) As String\n\n        Dim vbFromUnicode, vbUnicode As Integer\n\n        vbFromUnicode = 128\n        vbUnicode = 64\n\n        On Error Resume Next\n        Dim CtlArray(0 To 255) As Integer, index As Long, work As Long, ctrlIndex As Long, KeyStringBytes() As Byte, resultByte() As Byte, Hold As Byte, tmp As Integer\n\n\n        'Initialize the control array to values of 0 - 255 \n        'KeyStringBytes() = StrConv(KeyString, vbFromUnicode)\n        KeyStringBytes = UnicodeStringToBytes(KeyString)\n        For index = 0 To 255\n            CtlArray(index) = index\n        Next index\n\n\n        ' set up control array based upon incoming key.\n        index = 0\n        work = 0\n        'ctrlIndex = 0\n        For index = 0 To 255\n            Console.WriteLine(index, work, CtlArray(index), CtlArray(work))\n            work = (work + CtlArray(index) + KeyStringBytes(index Mod Len(KeyString))) Mod 256\n            Hold = CtlArray(index)\n            CtlArray(index) = CtlArray(work)\n            CtlArray(work) = Hold\n        Next index\n\n        index = 0\n        work = 0\n        ctrlIndex = 0\n        'resultByte = StrConv(InputString, vbFromUnicode)\n        resultByte = UnicodeStringToBytes(InputString)\n        For index = 0 To Len(InputString) - 1\n            work = (work + 1) Mod 256\n            ctrlIndex = (ctrlIndex + CtlArray(work)) Mod 256\n            Hold = CtlArray(work)\n            CtlArray(work) = CtlArray(ctrlIndex)\n            CtlArray(ctrlIndex) = Hold\n            resultByte(index) = resultByte(index) Xor (CtlArray((CtlArray(work) + CtlArray(ctrlIndex)) Mod 256))\n        Next index\n        'ConvertRoutine = StrConv(resultByte, vbUnicode)\n        ConvertRoutine = UnicodeBytesToString(resultByte)\n        Hold = 0\n    End Function",
+        "title": "WordMacro Encryption/Obfuscation Code",
+        "score": 2,
+        "id": "3kzlux",
+        "commsNum": 3,
+        "timeStamp": "2015/09/14-18:49:50",
+        "author_name": "BlueCuttlefish",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/3kzlux/wordmacro_encryptionobfuscation_code/"
+    },
+    "posts": {}
+}

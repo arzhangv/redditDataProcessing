@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hey everyone! I have this old Windows Vista computer sitting around and I just want to have some fun with it and install as many viruses as I can! I've tried Bonzi Buddy but it didn't work, also free GTA V but it needs internet. Can someone pls link me some really awesome viruses??? Thx!",
+        "title": "Help! I really really want malware on my computer!",
+        "score": 0,
+        "id": "94v4t9",
+        "commsNum": 2,
+        "timeStamp": "2018/08/05-13:56:19",
+        "author_name": "CadenMitchell",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/94v4t9/help_i_really_really_want_malware_on_my_computer/"
+    },
+    "posts": {
+        "e3o1mwo": {
+            "comment": "Don\u2019t worry! I don\u2019t even have WiFi!",
+            "timeStamp": "2018/08/05-14:44:28",
+            "id": "e3o1mwo",
+            "is_submitter": true,
+            "link_id": "t3_94v4t9",
+            "parent_id": "t1_e3o1kms",
+            "score": 2,
+            "stickied": false,
+            "author_name": "CadenMitchell"
+        },
+        "e3o1kms": {
+            "comment": "It wont last long. You may want to go outside the house to infect yourself as some ISP's will add you to a \"Blacklist\" until you can prove its clean.",
+            "timeStamp": "2018/08/05-14:43:25",
+            "id": "e3o1kms",
+            "is_submitter": false,
+            "link_id": "t3_94v4t9",
+            "parent_id": "t3_94v4t9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "stacksmasher"
+        },
+        "e3nz27x": {
+            "comment": "Have fun.\n\n\nhttps://github.com/ytisf/theZoo",
+            "timeStamp": "2018/08/05-14:02:33",
+            "id": "e3nz27x",
+            "is_submitter": false,
+            "link_id": "t3_94v4t9",
+            "parent_id": "t3_94v4t9",
+            "score": 3,
+            "stickied": false,
+            "author_name": "automate_life"
+        }
+    }
+}

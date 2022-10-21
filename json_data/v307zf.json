@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "POC for protecting malware from Reverse Engineer's and Malware Analysts by 'keying' it to a particular victim machine",
+        "score": 1,
+        "id": "v307zf",
+        "commsNum": 0,
+        "timeStamp": "2022/06/01-20:59:59",
+        "author_name": "AnAssholesBestFriend",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://github.com/Octoberfest7/BeatRev"
+    },
+    "posts": {
+        "iaygac3": {
+            "comment": "I appreciate the suggestions!",
+            "timeStamp": "2022/06/02-13:48:59",
+            "id": "iaygac3",
+            "is_submitter": true,
+            "link_id": "t3_v307zf",
+            "parent_id": "t1_iaxtl4k",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AnAssholesBestFriend"
+        },
+        "iaxtl4k": {
+            "comment": "Looks interesting, but bare in mind an encrypted payload will certainly be detected due to.its high entropy and the fact it's being decrypted and executed. You can somewhere make this harder to detect but padding every byte on the ciphertext with a null byte, this will kill the entropy and make it harder for anyone to detect your encrypted payload, just remove the extra bytes at decryption time.\n\nAnother thing that might be useful is to zero out the PE headers once everything is loaded into memory. This makes it harder for tools such as volatility to recover \"runnable\" copies of your binary from memory thus making analysis somewhat more difficult.",
+            "timeStamp": "2022/06/02-11:05:31",
+            "id": "iaxtl4k",
+            "is_submitter": false,
+            "link_id": "t3_v307zf",
+            "parent_id": "t3_v307zf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "pentesticals"
+        },
+        "iawy4sf": {
+            "comment": "[removed]",
+            "timeStamp": "2022/06/02-07:21:18",
+            "id": "iawy4sf",
+            "is_submitter": false,
+            "link_id": "t3_v307zf",
+            "parent_id": "t3_v307zf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "iawvq36": {
+            "comment": "The POC that was uploaded isn't really implementing any sort of AV evasion techniques like API hashing, breaking up the byte arrays into a different format, etc.  The version that is public yes will likely get caught for those reasons.\n\nAs to the file sector question, i played a little with it and it does seem to write to different sectors, so stage 0 could in theory be recovered; if you knew what you were looking for.",
+            "timeStamp": "2022/06/02-07:02:45",
+            "id": "iawvq36",
+            "is_submitter": true,
+            "link_id": "t3_v307zf",
+            "parent_id": "t1_iavveo5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AnAssholesBestFriend"
+        },
+        "iaw3fwx": {
+            "comment": "[removed]",
+            "timeStamp": "2022/06/02-01:55:14",
+            "id": "iaw3fwx",
+            "is_submitter": false,
+            "link_id": "t3_v307zf",
+            "parent_id": "t1_iavveo5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "iavveo5": {
+            "comment": "Not sure how evasive this is. An EDR such as Carbon Black would pick up stage zero automatically when it hits the disk, and so would an AV provided that it triggers at least some heuristic signatures (which does not seem unlikely given it's behavior). Also still susceptible to network carving and memory dumps if I've understood it correctly. \n\nQuestion: does the deletion in stage zero overwrite the sectors where the file resided? If not, then that's perhaps also another way to retrieve the stage zero binary.",
+            "timeStamp": "2022/06/01-23:55:18",
+            "id": "iavveo5",
+            "is_submitter": false,
+            "link_id": "t3_v307zf",
+            "parent_id": "t3_v307zf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "rlmaers"
+        }
+    }
+}

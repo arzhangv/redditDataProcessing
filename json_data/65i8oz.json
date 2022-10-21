@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "https://www.youtube.com/watch?v=fXXWhLMKvuw\n#1 password protected binary, simpe nop of a conditional jump.\n\nhttps://www.youtube.com/watch?v=B712PMi2ISM\n#2 how to write a patch for a persistent crack of #1\n\nhttps://www.youtube.com/watch?v=QDvBIEJsZ2M\n\n#3 password protected binary, obfuscated password string. Simple memory analysis to retrieve valid password.\n\n#4 https://www.youtube.com/watch?v=AVubJEGwXWQ\nDebugging strip(1)'d binaries, locating entrypoint.\n\n#5 https://www.youtube.com/watch?v=bMQof67xY4g\nUsing LD_PRELOAD to force return values of your choosing and cracking password protected binary.\n\n#6 https://www.youtube.com/watch?v=oHLDFhDEPvI\nImplement and defeat a common, simple anti debugging trick.\n\nHope someone (novice people! or people with no reversing experience on Linux) can find this tutorials helpful!\n\nI plan to eventually make some more advanced tutorials!\n\nAlso would appreciate any feedback or ideas on future tutorials with respect to reversing/security/hacking/cracking/coding!\n\nThanks!",
+        "title": "Learn to reverse malware on Linux",
+        "score": 72,
+        "id": "65i8oz",
+        "commsNum": 3,
+        "timeStamp": "2017/04/15-02:13:11",
+        "author_name": "shekkys",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/65i8oz/learn_to_reverse_malware_on_linux/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "FireEye Capa Now Supporting ELF Files",
+        "score": 1,
+        "id": "ps1bxp",
+        "commsNum": 0,
+        "timeStamp": "2021/09/20-12:00:22",
+        "author_name": "lakitustanfield",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.fireeye.com/blog/threat-research/2021/09/elfant-in-the-room-capa-v3.html"
+    },
+    "posts": {}
+}

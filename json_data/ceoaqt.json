@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "EvilGnome: Rare Malware Spying on Linux Desktop Users",
+        "score": 29,
+        "id": "ceoaqt",
+        "commsNum": 1,
+        "timeStamp": "2019/07/17-22:27:24",
+        "author_name": "foolishrodent",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.intezer.com/blog-evilgnome-rare-malware-spying-on-linux-desktop-users/"
+    },
+    "posts": {
+        "eu3ynx4": {
+            "comment": "[Related discussion](https://old.reddit.com/r/linux/comments/cee56d/evilgnome_a_new_backdoor_implant_spies_on_linux/), in /r/linux, for reference.",
+            "timeStamp": "2019/07/17-23:12:23",
+            "id": "eu3ynx4",
+            "is_submitter": true,
+            "link_id": "t3_ceoaqt",
+            "parent_id": "t3_ceoaqt",
+            "score": 3,
+            "stickied": false,
+            "author_name": "foolishrodent"
+        }
+    }
+}

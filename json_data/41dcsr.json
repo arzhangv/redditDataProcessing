@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi guys, I am doing some research into using local language in malware. I've read an article about it starting to emerge and want to find out more for a report I am doing. Do you have any knowledge of this? Now, I am not talking about simple comments in the code, but actual code in a different language as described here: https://lifars.com/2015/07/the-multinationalism-of-forensics/\n\nThank you for help",
+        "title": "Using local languages in malware code",
+        "score": 7,
+        "id": "41dcsr",
+        "commsNum": 7,
+        "timeStamp": "2016/01/17-04:46:37",
+        "author_name": "secretguy21",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/41dcsr/using_local_languages_in_malware_code/"
+    },
+    "posts": {}
+}

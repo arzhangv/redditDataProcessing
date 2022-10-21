@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Before I continue, don't assume tweaker apps are malocious. This was a one-off instance. So I thought I would tell the story of a piece of malware that pretty much left me entertainment-free while I was bedridden with a nasty illness for 2 weeks. Back in 2014 I downloaded Android Tweaker 2 and for the first couple of uses it did some magic like improving my tablet's performance, etc... Then my tablet decided to go into a bootloop. I tried a factory reset as that had fixed a bootloop before caused by the adware in the Talking Angela game. No dice. By the time I figured out I had to download the stock ROM from the SamMobile firmware repository and reflash with ODIN, I was so sick I pretty much ended up in bed for two weeks and was incredibly bored the whole time cause I didn't have my tablet working to entertain me. When I got better and managed to fix and re-root my beloved 7\" Galaxy Tab 2, and I saw in the app reviews that others had the same problem after the same amount of uses. I went nuclear I'm the reviews about what of did to my tablet and how I fixed it. Soon after, it was kicked off Google Play. On the plus side, I lost my fear of playing with flashing stuff on Samsung devices and later on moved to custom ROMs and that whole bottomless rabbit hole, etc... Lesson learned, always read reviews on apps that need root access or else you might regret it, especially if stock firmware and appropriate flashing tools aren't easily available if at all. APKs are still available which is sad. It shows nothing on VirusTotal for whatever reason. And I installed it into a rooted instance of VMOS (a Chinese Android 5.1 VM app that used to be on the play store) and well it DESTROYED that too but thankfully didn't jump the hypervisor and nuke at the host.",
+        "title": "The worst piece of *undetectable* Android malware ever: Android Tweaker 2",
+        "score": 1,
+        "id": "jbfpuv",
+        "commsNum": 0,
+        "timeStamp": "2020/10/14-20:09:37",
+        "author_name": "32bitNerd",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/jbfpuv/the_worst_piece_of_undetectable_android_malware/"
+    },
+    "posts": {}
+}

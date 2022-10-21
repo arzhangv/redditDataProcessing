@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Researchers Discover Two New Strains of POS Malware: Cherry Picker and Abaddon",
+        "score": 23,
+        "id": "3t5asj",
+        "commsNum": 3,
+        "timeStamp": "2015/11/17-03:45:23",
+        "author_name": "ParanoiaNervosa",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://threatpost.com/researchers-discover-two-new-strains-of-pos-malware/115350/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Dailymotion redirects users to Angler using flash zero day",
+        "score": 1,
+        "id": "2ujls6",
+        "commsNum": 0,
+        "timeStamp": "2015/02/02-10:54:16",
+        "author_name": "sephstorm",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://blog.trendmicro.com/trendlabs-security-intelligence/trend-micro-discovers-new-adobe-flash-zero-day-exploit-used-in-malvertisements/"
+    },
+    "posts": {}
+}

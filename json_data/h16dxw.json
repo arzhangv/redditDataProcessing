@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": 0.87,
+        "selftext": "",
+        "title": "[blogpost] Word Macro Malware Analysis",
+        "score": 10,
+        "id": "h16dxw",
+        "commsNum": 5,
+        "timeStamp": "2020/06/11-12:40:45",
+        "author_name": "anuraggawande",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://malwr-analysis.com/2020/06/12/word-macro-malware-analysis-2/"
+    },
+    "posts": {
+        "fuwcpcl": {
+            "comment": "there must be something that I couldn't find.",
+            "timeStamp": "2020/06/15-06:14:59",
+            "id": "fuwcpcl",
+            "is_submitter": true,
+            "link_id": "t3_h16dxw",
+            "parent_id": "t1_fumjlji",
+            "score": 1,
+            "stickied": false,
+            "author_name": "anuraggawande"
+        },
+        "fuwcmkv": {
+            "comment": "Its just a html and css saying User account suspended. When opened this file as html in browser I monitored thorough wireshark but didnt find any traffic going out or coming in.",
+            "timeStamp": "2020/06/15-06:14:08",
+            "id": "fuwcmkv",
+            "is_submitter": true,
+            "link_id": "t3_h16dxw",
+            "parent_id": "t1_fumjlji",
+            "score": 1,
+            "stickied": false,
+            "author_name": "anuraggawande"
+        },
+        "fumjlji": {
+            "comment": "Was the downloaded HTML file an error page or something similar? It could be that the URLs are no longer active. That would explain why you got 0 detection hits on VT.",
+            "timeStamp": "2020/06/12-11:40:46",
+            "id": "fumjlji",
+            "is_submitter": false,
+            "link_id": "t3_h16dxw",
+            "parent_id": "t3_h16dxw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "lurker10001000"
+        },
+        "fulgxg8": {
+            "comment": "Thank you",
+            "timeStamp": "2020/06/12-06:38:46",
+            "id": "fulgxg8",
+            "is_submitter": true,
+            "link_id": "t3_h16dxw",
+            "parent_id": "t1_fule5hx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "anuraggawande"
+        },
+        "fule5hx": {
+            "comment": "Useful post, thank you.",
+            "timeStamp": "2020/06/12-06:10:07",
+            "id": "fule5hx",
+            "is_submitter": false,
+            "link_id": "t3_h16dxw",
+            "parent_id": "t3_h16dxw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "venerable4bede"
+        }
+    }
+}

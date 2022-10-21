@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hey guys I recently got some malware that infected Steam(online gaming app) and caught it with kaspersky. The malware ended up coming back within a week though  and i figured i had something reinstalling it through a rootkit or something but i recently found this autoit script running in the background. I can't exactly tell what it's doing but it's definently reading/writing to an encrypted file\n\nheres the autoit code http://pastebin.ca/3344993\n\n\n\nedit: found some more interesting parts in the code. apparently it has an if clause IF kaspersky is running do this.( if the process avpui.exe is running)\n&gt;;~ If ProcessExists(StringReplace(StringReplace(\"avp^i.?x?\", \"?\", \"e\"),\"^\", \"u\")) Then\n&gt;;~ FileDelete(@AppDataDir &amp; \"\\\" &amp; $hJTiDIISINTVeDZaZZXLJNJdTPBGXNPf &amp; \".vbs\")\n ",
+        "title": "Found an autoit script that looks like malware",
+        "score": 10,
+        "id": "4281k4",
+        "commsNum": 5,
+        "timeStamp": "2016/01/22-14:45:12",
+        "author_name": "wutterbutt",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/4281k4/found_an_autoit_script_that_looks_like_malware/"
+    },
+    "posts": {}
+}

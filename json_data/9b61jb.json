@@ -1,0 +1,99 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I'm posting this thread here to seek advice on how to improve my malware analysis skills.\n\n\n\nI like how the FireEye/Mandiant guys have top notch malware analysts (They after all publicized the use of the term APT :&gt; among other words i'm sure).\n\n\n\nso I'm new to the field (2 years) My background is mostly Security Operations/Incident response, I'm lucky enough to get a chance to analyze malware found at work from time to time there is something interesting with obfuscation and weird techniques (i feel good figuring out how these work). but most of the time i'm not doing actual malware analysis.\n\n\n\nmost of the time I'm working on some silly scripts that just happen to evade some next-generation IPS/EPP or Email protection...etc because the payload had different content that doesnt confirm to some rule/signature.\n\n\nI guess I want to get exposure and learn more about the things that I dont fully understand yet. \n\n\nI'm hoping this is the place to ask this question.\n",
+        "title": "Looking to improve my analysis skills (been playing Flare-on 5)",
+        "score": 32,
+        "id": "9b61jb",
+        "commsNum": 7,
+        "timeStamp": "2018/08/28-21:16:08",
+        "author_name": "ThinkPrimary",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/9b61jb/looking_to_improve_my_analysis_skills_been/"
+    },
+    "posts": {
+        "e522uje": {
+            "comment": "I would recommend seriously familiarizing yourself with a systems language like C\\C++, enough to where you can informed opinions on the subject.\n\nNot trying to be discouraging. You can certainly be a good malware analyst without those skills. Hell I don't and I've presented at SANs about malware I've poked at, but I'll never call myself a reverse engineer. If you really want to compete with FireEye you're going need to have the CompSci basics down hard and feel comfortable working at a very low level. Certainly something you can work towards, but it will be an investment.\n\nedit: words are hard",
+            "timeStamp": "2018/08/29-13:39:29",
+            "id": "e522uje",
+            "is_submitter": false,
+            "link_id": "t3_9b61jb",
+            "parent_id": "t3_9b61jb",
+            "score": 2,
+            "stickied": false,
+            "author_name": "carmelburro"
+        },
+        "e51w7uw": {
+            "comment": "Pm me. I've got friends that have worked for fireeye. Malware analysis seems fun until you have to open things up in ollydump and learn to read and write in Assembly. That's when I decide to stick with security ops/analyst work. Still get paid plenty. I have a copy of that book as well somewhere...it was a humble bundle. I'd have to check though. ",
+            "timeStamp": "2018/08/29-12:09:23",
+            "id": "e51w7uw",
+            "is_submitter": false,
+            "link_id": "t3_9b61jb",
+            "parent_id": "t3_9b61jb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "fergatronanator"
+        },
+        "e51gzz6": {
+            "comment": "So they have their machine challenges which is the main catch but they have side challenges on reversing like 10 of them actually and they range from easy to damn hard lol ",
+            "timeStamp": "2018/08/29-08:40:10",
+            "id": "e51gzz6",
+            "is_submitter": false,
+            "link_id": "t3_9b61jb",
+            "parent_id": "t1_e51czd1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Ryancor"
+        },
+        "e51czd1": {
+            "comment": "I thought hackthebox.eu is about hacking into machines and less about reverse engineering?",
+            "timeStamp": "2018/08/29-07:43:49",
+            "id": "e51czd1",
+            "is_submitter": true,
+            "link_id": "t3_9b61jb",
+            "parent_id": "t1_e50vo2r",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ThinkPrimary"
+        },
+        "e51cy7b": {
+            "comment": "I'm working through the Windows internals book along with \"Windows via C/C++\" for practical examples.\n\nthank you.",
+            "timeStamp": "2018/08/29-07:43:21",
+            "id": "e51cy7b",
+            "is_submitter": true,
+            "link_id": "t3_9b61jb",
+            "parent_id": "t1_e50vmhx",
+            "score": 2,
+            "stickied": false,
+            "author_name": "ThinkPrimary"
+        },
+        "e50vo2r": {
+            "comment": "To add on top of this comment, hackthebox.eu has good Reversing challenges and crackmes.one as well",
+            "timeStamp": "2018/08/29-00:52:29",
+            "id": "e50vo2r",
+            "is_submitter": false,
+            "link_id": "t3_9b61jb",
+            "parent_id": "t1_e50vmhx",
+            "score": 3,
+            "stickied": false,
+            "author_name": "Ryancor"
+        },
+        "e50vmhx": {
+            "comment": "Read \"Practical Malware Analysis\" &amp; \"Windows Internals\" books.\n\nKeeping to participate in CTF's &amp; try to analyze malware samples.",
+            "timeStamp": "2018/08/29-00:50:55",
+            "id": "e50vmhx",
+            "is_submitter": false,
+            "link_id": "t3_9b61jb",
+            "parent_id": "t3_9b61jb",
+            "score": 12,
+            "stickied": false,
+            "author_name": "pogblack"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Forcepoint Security Labs\u2122 identified this week that a well known transport company's website had been compromised. We discovered that it was redirecting users to Angler Exploit Kit (EK)",
+        "score": 0,
+        "id": "43391o",
+        "commsNum": 0,
+        "timeStamp": "2016/01/28-05:19:07",
+        "author_name": "Miccah231Angelina1_",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://blogs.forcepoint.com/security-labs/popular-site-leads-angler-ek-cve-2015-8651-flash-player-exploit"
+    },
+    "posts": {}
+}

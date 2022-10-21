@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "First: Where can i download the ''bad'' version of it?\nThat's all, i guess.\n",
+        "title": "BonziBUDDY questions",
+        "score": 0,
+        "id": "6pf9wm",
+        "commsNum": 4,
+        "timeStamp": "2017/07/25-03:28:56",
+        "author_name": "watchowatchowatchlol",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6pf9wm/bonzibuddy_questions/"
+    },
+    "posts": {
+        "dl16edk": {
+            "comment": "[deleted]",
+            "timeStamp": "2017/08/01-14:47:21",
+            "id": "dl16edk",
+            "is_submitter": false,
+            "link_id": "t3_6pf9wm",
+            "parent_id": "t1_dkp3v5n",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "dkp3v5n": {
+            "comment": "Yeah there is. I want the bad version\n",
+            "timeStamp": "2017/07/25-07:48:25",
+            "id": "dkp3v5n",
+            "is_submitter": true,
+            "link_id": "t3_6pf9wm",
+            "parent_id": "t1_dkoz5nx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "watchowatchowatchlol"
+        },
+        "dkozvl5": {
+            "comment": "/thread",
+            "timeStamp": "2017/07/25-06:26:56",
+            "id": "dkozvl5",
+            "is_submitter": false,
+            "link_id": "t3_6pf9wm",
+            "parent_id": "t1_dkoz5nx",
+            "score": 3,
+            "stickied": false,
+            "author_name": "Benutzeraccount"
+        },
+        "dkoz5nx": {
+            "comment": "Is there a \"Good\" version of it?!?!",
+            "timeStamp": "2017/07/25-06:10:06",
+            "id": "dkoz5nx",
+            "is_submitter": false,
+            "link_id": "t3_6pf9wm",
+            "parent_id": "t3_6pf9wm",
+            "score": 3,
+            "stickied": false,
+            "author_name": "WOLF3D_exe"
+        }
+    }
+}

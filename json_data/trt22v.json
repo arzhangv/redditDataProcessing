@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 0.83,
+        "selftext": "",
+        "title": "Don't click on suspicious email links \ud83e\udd23",
+        "score": 4,
+        "id": "trt22v",
+        "commsNum": 0,
+        "timeStamp": "2022/03/29-16:40:43",
+        "author_name": "stryker2k2",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://youtube.com/shorts/GOgduOjYuCQ"
+    },
+    "posts": {
+        "i2o6mog": {
+            "comment": "I agree \ud83e\udd23",
+            "timeStamp": "2022/03/29-20:26:50",
+            "id": "i2o6mog",
+            "is_submitter": true,
+            "link_id": "t3_trt22v",
+            "parent_id": "t1_i2o038h",
+            "score": 1,
+            "stickied": false,
+            "author_name": "stryker2k2"
+        },
+        "i2o038h": {
+            "comment": "Don't click on BS Youtube links.",
+            "timeStamp": "2022/03/29-19:32:31",
+            "id": "i2o038h",
+            "is_submitter": false,
+            "link_id": "t3_trt22v",
+            "parent_id": "t3_trt22v",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Farstone"
+        }
+    }
+}

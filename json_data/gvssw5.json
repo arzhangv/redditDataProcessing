@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Malware found on with exploits for discord",
+        "score": 1,
+        "id": "gvssw5",
+        "commsNum": 2,
+        "timeStamp": "2020/06/03-05:11:42",
+        "author_name": "tris432",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": true,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "/r/Malwarebytes/comments/gvsrov/malware_found_on_with_exploits_for_discord/"
+    },
+    "posts": {
+        "fsrl3m3": {
+            "comment": " [ImDevinC](https://www.reddit.com/user/ImDevinC/) **Malwarebytes Employee** [3 hours ago](https://www.reddit.com/r/Malwarebytes/comments/gvsrov/malware_found_on_with_exploits_for_discord/fsqxfqr/)\n\nThanks for the heads up. Malwarebytes does detect this already using both our Real Time Protection and our scanning engine.",
+            "timeStamp": "2020/06/03-10:14:00",
+            "id": "fsrl3m3",
+            "is_submitter": true,
+            "link_id": "t3_gvssw5",
+            "parent_id": "t3_gvssw5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "tris432"
+        },
+        "fsrkyuf": {
+            "comment": "[deleted]",
+            "timeStamp": "2020/06/03-10:12:57",
+            "id": "fsrkyuf",
+            "is_submitter": false,
+            "link_id": "t3_gvssw5",
+            "parent_id": "t3_gvssw5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

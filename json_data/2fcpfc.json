@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "It All Began With a Struts Exploit Attempt. Part 1",
+        "score": 13,
+        "id": "2fcpfc",
+        "commsNum": 6,
+        "timeStamp": "2014/09/03-05:57:46",
+        "author_name": "mmd0xFF",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://yinette.github.io/blog/2014/09/02/it-all-began-with-a-struts-exploit-attempt/"
+    },
+    "posts": {}
+}

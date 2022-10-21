@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "There's some weird code being spam-pasted in pastebin.com, how is it possible that antiviruses claim it's a virus if it's just rawtext?\n\nLink, should be safe, but open at your own risk, whatever it's text after all (when I open even the framed version, antivirus starts screaming): http://pastebin.com/WLA4FUvM\n\nI'm wondering what does the code do/mean?",
+        "title": "Weird code being pasted in pastebin.com",
+        "score": 22,
+        "id": "5ivsyk",
+        "commsNum": 22,
+        "timeStamp": "2016/12/17-10:27:07",
+        "author_name": "OuchYouHitMe",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 22,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5ivsyk/weird_code_being_pasted_in_pastebincom/"
+    },
+    "posts": {}
+}

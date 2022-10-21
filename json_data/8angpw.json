@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Alright so I downloaded a faulty patcher( amt emulator by painter off of SaheemPC's site ) for adobe which was a trojan and malware. I download malware bytes and hitman pro in safe mode and deleted 210 malware on malware bytes and 7 others on hitman pro they both test clean now but I constantly get a syswow64/run.dll which can't be deleted because of trustedinstaller. Being blocked for a outbound connection on my Malwarebytes. Now I keep on having bsod as soon as I start using my computer after I deleted all the malware the programs could detect and don't know what I should do now. I can't reboot my OS because I no longer have my product key. Any suggestions as to what I should do?  PS. I've ran SFC scans too and nothing comes up.",
+        "title": "BSOD",
+        "score": 0,
+        "id": "8angpw",
+        "commsNum": 2,
+        "timeStamp": "2018/04/07-20:33:26",
+        "author_name": "Dagood1s",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8angpw/bsod/"
+    },
+    "posts": {
+        "dx3vmq3": {
+            "comment": "A place for malware reports and information. This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware",
+            "timeStamp": "2018/04/09-19:45:24",
+            "id": "dx3vmq3",
+            "is_submitter": false,
+            "link_id": "t3_8angpw",
+            "parent_id": "t3_8angpw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mikiozen"
+        },
+        "dx02n86": {
+            "comment": "wrong subreddit visit /r/techsupport and post your query there \n\nthis is meant for malware analysis only",
+            "timeStamp": "2018/04/07-21:12:29",
+            "id": "dx02n86",
+            "is_submitter": false,
+            "link_id": "t3_8angpw",
+            "parent_id": "t3_8angpw",
+            "score": 6,
+            "stickied": false,
+            "author_name": "ragupal"
+        }
+    }
+}

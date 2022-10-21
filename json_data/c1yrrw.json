@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Anti-VM Techniques with MSAcpi_ThermalZoneTemperature",
+        "score": 1,
+        "id": "c1yrrw",
+        "commsNum": 0,
+        "timeStamp": "2019/06/17-23:30:12",
+        "author_name": "ironbitss",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://medium.com/@DebugActiveProcess/anti-vm-techniques-with-msacpi-thermalzonetemperature-32cfeecda802"
+    },
+    "posts": {}
+}

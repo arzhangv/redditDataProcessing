@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Malware Must Die!: The ELF ChinaZ \"reloaded\"",
+        "score": 13,
+        "id": "3ai28r",
+        "commsNum": 0,
+        "timeStamp": "2015/06/20-04:20:49",
+        "author_name": "mmd0xFF",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://blog.malwaremustdie.org/2015/06/the-elf-chinaz-reloaded.html"
+    },
+    "posts": {}
+}

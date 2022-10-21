@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "[PDF] NATO Co-operative Cyber Defence Center of Excellence - Malware Reverse Engineering Handbook - July 2020",
+        "score": 1,
+        "id": "ikn6t0",
+        "commsNum": 0,
+        "timeStamp": "2020/09/01-09:12:16",
+        "author_name": "edward_snowedin",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://ccdcoe.org/uploads/2020/07/Malware_Reverse_Engineering_Handbook.pdf"
+    },
+    "posts": {}
+}

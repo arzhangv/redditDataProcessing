@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Windows defender found and removed RedLineStealer.PV!MTB. What else should I do?",
+        "title": "RedLineStealer.PV!MTB",
+        "score": 1,
+        "id": "wkcn0t",
+        "commsNum": 0,
+        "timeStamp": "2022/08/09-12:40:55",
+        "author_name": "sandwich6359",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/wkcn0t/redlinestealerpvmtb/"
+    },
+    "posts": {
+        "ijmqc73": {
+            "comment": "Will do",
+            "timeStamp": "2022/08/09-13:54:57",
+            "id": "ijmqc73",
+            "is_submitter": true,
+            "link_id": "t3_wkcn0t",
+            "parent_id": "t1_ijmq0pd",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sandwich6359"
+        },
+        "ijmq0pd": {
+            "comment": "No.  There could be other malware on the system.  You could run a few other antivirus things to try and find them but considering your computer was clearly compromised assuming that wasnt a false positive, i would probably pull any important docs off the pc and reset it out of an abundance of caution",
+            "timeStamp": "2022/08/09-13:52:54",
+            "id": "ijmq0pd",
+            "is_submitter": false,
+            "link_id": "t3_wkcn0t",
+            "parent_id": "t1_ijmpk5r",
+            "score": 1,
+            "stickied": false,
+            "author_name": "agski"
+        },
+        "ijmpk5r": {
+            "comment": "When windows defender says its gone, is it for sure gone? Should I run anything else?",
+            "timeStamp": "2022/08/09-13:50:01",
+            "id": "ijmpk5r",
+            "is_submitter": true,
+            "link_id": "t3_wkcn0t",
+            "parent_id": "t1_ijmmtr1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sandwich6359"
+        },
+        "ijmoymn": {
+            "comment": "Ok, thanks",
+            "timeStamp": "2022/08/09-13:46:10",
+            "id": "ijmoymn",
+            "is_submitter": true,
+            "link_id": "t3_wkcn0t",
+            "parent_id": "t1_ijmmtr1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sandwich6359"
+        },
+        "ijmmtr1": {
+            "comment": "Take a good look at all of your account passwords.  I would probably change most of them.  RedLineStealer specifically targets this kind of information.  For instance any password saved in your browser password manager could be compromised",
+            "timeStamp": "2022/08/09-13:32:22",
+            "id": "ijmmtr1",
+            "is_submitter": false,
+            "link_id": "t3_wkcn0t",
+            "parent_id": "t3_wkcn0t",
+            "score": 1,
+            "stickied": false,
+            "author_name": "agski"
+        }
+    }
+}

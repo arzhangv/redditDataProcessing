@@ -1,0 +1,99 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Solarwinds_SUNBURST_Backdoor_hosts.csv - Known C&amp;C Servers",
+        "score": 1,
+        "id": "kd2lvp",
+        "commsNum": 9,
+        "timeStamp": "2020/12/14-09:56:57",
+        "author_name": "SterlingBoardman",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 9,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://github.com/tg12/badrep_report/blob/master/Solarwinds_SUNBURST_Backdoor_hosts.csv"
+    },
+    "posts": {
+        "ggjlpch": {
+            "comment": "&gt;Right, FireEye has solid creds but who's this tg12 person and why should we trust them at all? \n\nWelcome to the world of reverse engineering...",
+            "timeStamp": "2020/12/20-18:03:43",
+            "id": "ggjlpch",
+            "is_submitter": false,
+            "link_id": "t3_kd2lvp",
+            "parent_id": "t1_gfx289l",
+            "score": 1,
+            "stickied": false,
+            "author_name": "bong-rips-for-jesus"
+        },
+        "gfxawh3": {
+            "comment": "My point was more it's likely this is a collation of what's made public rather than original research. It's pretty common for people to collate this stuff and share to the community.\nI am not suggesting for a second to blindly trust the stuff but more appreciate the context in how this stuff is usually shared, and more broadly make the point you're never going to get that level of assurance unless you manually reconcile it, by which point you might as well have just manually collate it yourself. If you're looking at making large scale changes of any kind I'd presume you'd not be blindly trusting stuff :)",
+            "timeStamp": "2020/12/15-06:45:47",
+            "id": "gfxawh3",
+            "is_submitter": false,
+            "link_id": "t3_kd2lvp",
+            "parent_id": "t1_gfx9ix4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "_millsy"
+        },
+        "gfx9ix4": {
+            "comment": "It could be just about anything at all so in order to actually establish some kind of trust, we need to know who tg12 is, who vouches for them, how they built up the list, something beyond a random link drop to a random github repo from a random reddit user.",
+            "timeStamp": "2020/12/15-06:32:59",
+            "id": "gfx9ix4",
+            "is_submitter": false,
+            "link_id": "t3_kd2lvp",
+            "parent_id": "t1_gfx6n1q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "splice42"
+        },
+        "gfx6n1q": {
+            "comment": "I haven't read / compared the IOC but it could just be a collation of what's been in various reports from MS etc.\nSo in short no you shouldn't blindly trust it, just like anything else on the web :)",
+            "timeStamp": "2020/12/15-06:04:10",
+            "id": "gfx6n1q",
+            "is_submitter": false,
+            "link_id": "t3_kd2lvp",
+            "parent_id": "t1_gfx289l",
+            "score": 1,
+            "stickied": false,
+            "author_name": "_millsy"
+        },
+        "gfx289l": {
+            "comment": "Right, FireEye has solid creds but who's this tg12 person and why should we trust them at all? They have a twitter account set to private, they're in some kind of tech role at Oracle and I can't really find much else. \n\nWhy should we take some internet rando's IP block list at their word? Who are they, what are their creds, how did they establish the IP list? I'm not about to convince our CAB that some 800+ random IPs including Microsoft-owned ones should be blocked off the word of some anonymous github repo some other anonymous rando pointed me to.",
+            "timeStamp": "2020/12/15-05:14:35",
+            "id": "gfx289l",
+            "is_submitter": false,
+            "link_id": "t3_kd2lvp",
+            "parent_id": "t1_gfuwto2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "splice42"
+        },
+        "gfuouwn": {
+            "comment": "[deleted]",
+            "timeStamp": "2020/12/14-13:15:36",
+            "id": "gfuouwn",
+            "is_submitter": false,
+            "link_id": "t3_kd2lvp",
+            "parent_id": "t3_kd2lvp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "gfumtfk": {
+            "comment": "How are these lists made known? Like how do these people find this out?",
+            "timeStamp": "2020/12/14-12:59:13",
+            "id": "gfumtfk",
+            "is_submitter": false,
+            "link_id": "t3_kd2lvp",
+            "parent_id": "t3_kd2lvp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "I-Made-You-Read-This"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Disclaimer: I am not a programmer, nor do I claim to know the subtle intricacies of Windows processes.   \nI've been doing a lot of cramming about APTs lately and it seems that most modern APT malware actively checks to see if it's being run in a sandbox. If it is, it doesn't install. Would it then, therefore, be possible to create some sort of program that launches dummy processes in Windows that have the same names and share the same properties as sandboxes to deter Malware from being installed? If this is a really, really stupid idea, I'll delete this, I'm just airing out something I've been thinking about for a few days. If such software exists or there are whitepapers on the subject, I'd love some links to read up on.  \n\nCheers, and happy malware hunting.",
+        "title": "Anti-Malware idea.",
+        "score": 20,
+        "id": "3a5ud7",
+        "commsNum": 25,
+        "timeStamp": "2015/06/17-06:42:14",
+        "author_name": "Tomtoise",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 25,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/3a5ud7/antimalware_idea/"
+    },
+    "posts": {}
+}

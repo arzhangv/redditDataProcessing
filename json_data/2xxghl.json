@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hey i really need your help.\nI think i got a virus. I got 3 files that are not attached to any other program or from Microsoft itself(it seems like this). I checked them with Virustotal but Virustotal dont detect anything. When i delete them they are after a restart still there. Also in my autostart it created 2 paths:\n\"C:\\Windows\\SysWOW64\\Start.vbs\"                                                                                         \n\"C:\\Windows\\SysWOW64\\update_.exe\"                                                                                           \nIf i deactivate them after a restart they are reactivated.\nI try to search it on google but it seems like this virus is not common or popular.                            \n[Picture of Files](http://i.imgur.com/botMLUT.png)     \nI used  TDSSKiller-&gt;RogueKiller-&gt;Malwarebytes Antimalwarebytes-&gt;AdwCleaner-&gt;KasperskyCleanup2015\nand its still recreating files and autorun                                                                          \nI hope for some help :)\n",
+        "title": "Windows\\SystemWOW64\\Update_.exe Virus need help",
+        "score": 0,
+        "id": "2xxghl",
+        "commsNum": 5,
+        "timeStamp": "2015/03/04-09:58:49",
+        "author_name": "[deleted]",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2xxghl/windowssystemwow64update_exe_virus_need_help/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "CVE-2016-7200",
+        "score": 1,
+        "id": "5n45ol",
+        "commsNum": 0,
+        "timeStamp": "2017/01/10-01:40:37",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/55217/malware/55217.html"
+    },
+    "posts": {}
+}

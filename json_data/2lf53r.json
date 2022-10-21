@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "WireLurker: A New Era in OS X and iOS Malware",
+        "score": 2,
+        "id": "2lf53r",
+        "commsNum": 0,
+        "timeStamp": "2014/11/05-15:50:06",
+        "author_name": "claudxiao",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://researchcenter.paloaltonetworks.com/2014/11/wirelurker-new-era-os-x-ios-malware/"
+    },
+    "posts": {}
+}

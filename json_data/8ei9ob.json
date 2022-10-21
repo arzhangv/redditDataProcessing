@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Kaspersky\u2019s analysis of servers compromised by Energetic Bear shows the APT operates on behalf of others",
+        "score": 1,
+        "id": "8ei9ob",
+        "commsNum": 0,
+        "timeStamp": "2018/04/23-23:04:40",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://securityaffairs.co/wordpress/71708/apt/energetic-bear-servers.html"
+    },
+    "posts": {}
+}

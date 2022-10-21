@@ -1,0 +1,198 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hey all!   \n\n\nI tried my hardest to find some information regarding malware analyst as a job. I have read a lot of job postings on the topical overview of day to day operations, however I do not quite understand how this generally looks without actually being in the field. If anyone has the time to fill me in on what you do day to day (obviously not going into too many specifics), that would be very much appreciated.   \n\n\nThanks!",
+        "title": "Malware Analyst Day to Day ops",
+        "score": 1,
+        "id": "qgjr90",
+        "commsNum": 15,
+        "timeStamp": "2021/10/26-17:00:34",
+        "author_name": "Bibikski",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 15,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/qgjr90/malware_analyst_day_to_day_ops/"
+    },
+    "posts": {
+        "hofea06": {
+            "comment": "This is true.. this is what I have been doing for the past year, but I currently do not mind it since I am basically being paid to teach myself how to RE, I find it interesting, and no one bothers me with engineering/IR problems. That said, if I had a senior RE person that I could occasionally shoulder surf I would probably be bored by now - you see the same loaders and stealers over and over again.",
+            "timeStamp": "2021/12/13-13:09:22",
+            "id": "hofea06",
+            "is_submitter": false,
+            "link_id": "t3_qgjr90",
+            "parent_id": "t1_himmsr0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "BouncingWalrus"
+        },
+        "himmsr0": {
+            "comment": "I recommend looking for something that involves using RE as *part* of the job and not be the job itself. I've worked pure RE jobs before and it's...... **fucking BORING**, at least from my personal perspective.\n\nYou get given samples, prioritise them, RE them as much as needed to create some detections and move on. You feel like you're half-assing the job most of the time because you're just looking to create IoC's. Maybe 1/100 times I would fully reverse something to understand all aspects and functions of it, only to realise it looks like the other dozen samples I've fully RE'd.\n\nThis is just my personal experience and malware analysis jobs vary wildly. But, just be careful not to fall in to the IDA monkey style world.",
+            "timeStamp": "2021/10/30-03:38:57",
+            "id": "himmsr0",
+            "is_submitter": false,
+            "link_id": "t3_qgjr90",
+            "parent_id": "t3_qgjr90",
+            "score": 2,
+            "stickied": false,
+            "author_name": "thumper99"
+        },
+        "hiczpt1": {
+            "comment": "[deleted]",
+            "timeStamp": "2021/10/28-02:23:31",
+            "id": "hiczpt1",
+            "is_submitter": false,
+            "link_id": "t3_qgjr90",
+            "parent_id": "t1_hi9wvad",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hi9wvad": {
+            "comment": "I work for an AV so\u2026 \ud83e\udd37\u200d\u2642\ufe0f",
+            "timeStamp": "2021/10/27-10:58:31",
+            "id": "hi9wvad",
+            "is_submitter": false,
+            "link_id": "t3_qgjr90",
+            "parent_id": "t1_hi7ugda",
+            "score": 2,
+            "stickied": false,
+            "author_name": "AbsoZed"
+        },
+        "hi9wj52": {
+            "comment": "Thanks, sounds like a dream haha.",
+            "timeStamp": "2021/10/27-10:56:21",
+            "id": "hi9wj52",
+            "is_submitter": false,
+            "link_id": "t3_qgjr90",
+            "parent_id": "t1_hi9vutx",
+            "score": 2,
+            "stickied": false,
+            "author_name": "ZeMuffenMan"
+        },
+        "hi9vutx": {
+            "comment": "I do 8-5 M-F. No on call.",
+            "timeStamp": "2021/10/27-10:52:03",
+            "id": "hi9vutx",
+            "is_submitter": false,
+            "link_id": "t3_qgjr90",
+            "parent_id": "t1_hi9uurv",
+            "score": 2,
+            "stickied": false,
+            "author_name": "AbsoZed"
+        },
+        "hi9uurv": {
+            "comment": "What hours do you work? I\u2019ve been a SOC analyst for a few years but have been studying Malware Analysis on my days off. MA feels like a natural progression for me but I am curious as to whether you do a fixed 9-5 type of work week, or if you are on-call as well?",
+            "timeStamp": "2021/10/27-10:45:45",
+            "id": "hi9uurv",
+            "is_submitter": false,
+            "link_id": "t3_qgjr90",
+            "parent_id": "t1_hi6w2gu",
+            "score": 2,
+            "stickied": false,
+            "author_name": "ZeMuffenMan"
+        },
+        "hi9eqcs": {
+            "comment": "Great answers here. I would recommend reading writeups from malware analysis blogs, the steps they do are normally 'typical' of research you would do. You've mentioned that you wanted a more research oriented position. These positions are typicality working at groups like Cisco TALOS or Palo Alto Unit 42. These are coveted positions, and will take a while to get there. Your best bet is join a SOC and become the 'Malware' guy, and learn that way. This is currently where i am at, im the Malware guy at my firm, but i do more than just malware analysis.",
+            "timeStamp": "2021/10/27-08:59:00",
+            "id": "hi9eqcs",
+            "is_submitter": false,
+            "link_id": "t3_qgjr90",
+            "parent_id": "t3_qgjr90",
+            "score": 3,
+            "stickied": false,
+            "author_name": "WesternIron"
+        },
+        "hi946gq": {
+            "comment": "I've done both malware analysis from the IR side and the threat intel side. If you're supporting IR you generally take the sample straight to sandbox (get context on the execution to make sure you're running it correctly with the right arguments). Pull IOCs, provide additional items for the IR analysts to pivot on and find more. They come back to you with more, rinse, repeat. In turn, you should actually understand what you're reading in a sandbox report at least, since that's your most efficient source of info. If nothing happens in the sandbox and you expected something to happen, you have to look for sandbox evasion, missing dependencies that the analysts may not have given you, or anti-debugging if your sandbox isn't the best.\n\nFrom the threat intel/research side you're looking generally for similarities between malware like genealogy, family classification, etc. You'll make a YARA signature on some unique items: strings, resources, encryption keys or (hopefully) some unique code bytes. With this signature you'll hunt for more malware, study differences and the evolution of certain samples. The goal here is writing a full report or article.\n\nAn advanced level goal for both types of malware analyst is to automate parsing the configuration data (C2 IPs, RC4 keys, dropped file names). If you're researching one family and it's variants you'll have a lot of files so it's helpful to automate parsing. In an incident maybe you don't have the time to write automation but if you can it could help.",
+            "timeStamp": "2021/10/27-07:47:21",
+            "id": "hi946gq",
+            "is_submitter": false,
+            "link_id": "t3_qgjr90",
+            "parent_id": "t3_qgjr90",
+            "score": 3,
+            "stickied": false,
+            "author_name": "lakitustanfield"
+        },
+        "hi8wyeu": {
+            "comment": "It's unlikely that you will be in a role where all you do is Malware analysis. It will likely be a generic DFIR role where you just happen to be the guy that people go to when a new and unseen malware needs to be analyzes.",
+            "timeStamp": "2021/10/27-06:55:40",
+            "id": "hi8wyeu",
+            "is_submitter": false,
+            "link_id": "t3_qgjr90",
+            "parent_id": "t3_qgjr90",
+            "score": 3,
+            "stickied": false,
+            "author_name": "_xpendable_"
+        },
+        "hi7ugda": {
+            "comment": "I get places should be logging powershell scripts on their networks, but feel the low level stuff is for AV companies. Who has time for that? Just sand box it and hand ball to your AV provider if not detected.",
+            "timeStamp": "2021/10/26-23:31:30",
+            "id": "hi7ugda",
+            "is_submitter": false,
+            "link_id": "t3_qgjr90",
+            "parent_id": "t1_hi6w2gu",
+            "score": 2,
+            "stickied": false,
+            "author_name": "TailSpinBowler"
+        },
+        "hi7j22p": {
+            "comment": "It depends on the role and the specific company. General flow is going to be: receive malware sample, analyze it (maybe answering specific questions from whoever asked), and write a report/create a signature/some other deliverable. Besides that it varies. For a small company where you are the only person on staff who is a malware analyst, you might be doing nothing but that every day. Or you could be combining that with threat intelligence or IR work. \n\nAt a larger company they might have a rotation of who's on call and you spend your off call time doing research. Some companies completely split off malware analysis from everything else (threat intelligence, IR, etc), and some companies embed malware analysts in the different units where the malware analysts also a bit of threat intelligence/IR/etc work.",
+            "timeStamp": "2021/10/26-21:23:11",
+            "id": "hi7j22p",
+            "is_submitter": false,
+            "link_id": "t3_qgjr90",
+            "parent_id": "t3_qgjr90",
+            "score": 4,
+            "stickied": false,
+            "author_name": "neos300"
+        },
+        "hi6x0s2": {
+            "comment": "That\u2019s really the one I cannot speak to as much. A lot of it is largely the same, but the research role is slower paced and more in depth. That sounds a lot like what you\u2019re going for. If you feel you\u2019d do better at that, then go for it! \n\nI\u2019m kinda in it for the action and ripping threat actors out by the belt, which is why I\u2019m in the other haha. There are slower research times in the other role that allow you to hone your craft so you know bad when you see it, but they\u2019re fewer and further between, I\u2019d say.",
+            "timeStamp": "2021/10/26-18:23:51",
+            "id": "hi6x0s2",
+            "is_submitter": false,
+            "link_id": "t3_qgjr90",
+            "parent_id": "t1_hi6wh7x",
+            "score": 8,
+            "stickied": false,
+            "author_name": "AbsoZed"
+        },
+        "hi6wh7x": {
+            "comment": "Awesome, thank you so much! \n\nSo my personal preference is the research heavy position. I really enjoy learning about new techniques, coming up with theories, and just overall picking up a new vague topic and trying to master it. \n\nSo personally I believe that this would be the better role for me. What are your thoughts?",
+            "timeStamp": "2021/10/26-18:19:40",
+            "id": "hi6wh7x",
+            "is_submitter": true,
+            "link_id": "t3_qgjr90",
+            "parent_id": "t1_hi6w2gu",
+            "score": 5,
+            "stickied": false,
+            "author_name": "Bibikski"
+        },
+        "hi6w2gu": {
+            "comment": "Hey there, so there are a couple of answers here. \n\nFirst and what I do (so can speak the most to) is an analyst that also operates in somewhat of a SOC sort of role. \n\nYou\u2019ll do things like respond to alerts pushed to your UI of choice, take the context of the detection into account and triage and do moderate study and reversing of the binaries to inform your remediation or actions to prevent further action on objective. \n\nThis could involve basic binary triage tools like PEStudio, Cuckoo, CyberChef, etc. You might also do some debugging, pull out some shellcode, use things like SCDBG, etc to define your actions. This is a fast-paced, heavily operational role.\n\nOther roles will be more research and tracking oriented. This will involve heavy reversing in tools like IDA, X96DBG, leveraging tools like Maltego to build intelligence relationships between threat actors. You\u2019ll understand what and why a piece of malware, binary, script or otherwise, does what it does. You may work analysis requests for other stakeholders and inform them of your findings. This is a research heavy, non operational role.\n\nThese are the two of types of analyst roles in my experience, with some in-between, obviously. Feel free to ask any follow-up questions and I\u2019ll do my best to answer.",
+            "timeStamp": "2021/10/26-18:16:36",
+            "id": "hi6w2gu",
+            "is_submitter": false,
+            "link_id": "t3_qgjr90",
+            "parent_id": "t3_qgjr90",
+            "score": 16,
+            "stickied": false,
+            "author_name": "AbsoZed"
+        },
+        "hi6pt3y": {
+            "comment": "[removed]",
+            "timeStamp": "2021/10/26-17:28:59",
+            "id": "hi6pt3y",
+            "is_submitter": false,
+            "link_id": "t3_qgjr90",
+            "parent_id": "t3_qgjr90",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

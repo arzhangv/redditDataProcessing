@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Prevalence and Impact of Low-Entropy Packing Schemes in the Malware Ecosystem",
+        "score": 1,
+        "id": "f9jj3z",
+        "commsNum": 2,
+        "timeStamp": "2020/02/25-15:32:21",
+        "author_name": "packmad",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://blog.talosintelligence.com/2020/02/new-research-paper-prevalence-and.html"
+    },
+    "posts": {
+        "fit748a": {
+            "comment": "hello there",
+            "timeStamp": "2020/02/26-00:58:51",
+            "id": "fit748a",
+            "is_submitter": false,
+            "link_id": "t3_f9jj3z",
+            "parent_id": "t1_firybhy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "BrainshitYT"
+        },
+        "firybhy": {
+            "comment": "https://twitter.com/packm4d/status/1232426475917389827",
+            "timeStamp": "2020/02/25-15:33:20",
+            "id": "firybhy",
+            "is_submitter": true,
+            "link_id": "t3_f9jj3z",
+            "parent_id": "t3_f9jj3z",
+            "score": 1,
+            "stickied": false,
+            "author_name": "packmad"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "So I'm surfing the tubes, and I run across a [malicious site](http://anonym.to/?http://1603219703.rsc.cdn77.org/index-RR.html?isp=Comcast+Cable&amp;browser=Chrome&amp;browserversion=%7Bbrowserversion%7D&amp;ip=%7Bip%7D&amp;os=Mac&amp;osversion=10.10&amp;sxid=888z9au7vbjp) (WARNING: phishing page)\n\nScreenshot: http://i.imgur.com/VbL1fRZ.png\n\nFunny enough, the page has an 800 number.\n\nI gave it a ring and role-played being someone a lot less tech savvy.\n\nEssentially, the guy first established if I'm using Windows or OSX by asking if I saw a \"start button\" and whether there was an \"apple logo in the left corner\".\n\nThen, he asked me to go to http://support.me (which is a LogMeIn session). He generates a number for a session, and tries to convince you to connect.\n\nUnfortunately, I didn't have a virtual environment setup to watch the guy try to figure out why there's nothing on the box, but maybe the next guy will.\n\nI DID end the call by placing the guy on hold for 30 minutes, then coming back on to his hopeful voice that LogMeIn finally ran, instead I told him \"I'm writing a report about you, and your stupid phishing site.\" He asked \"why did you keep me on the phone, then? if you know what's going\"\n\nI had to hold back laughter and responded \"it's your own choice to stay on the phone\", The guy sounded disgruntled that his plan was foiled and that I led him on as a potential victim.\n\nHe tried to tell me \"people write reports about Apple and Microsoft all the time\", to which I asked \"do you work for Microsoft or Apple?\" which made him belligerent.\n\nI don't know how else to report these scummy bastards, so I did it here. Hopefully someone with more knowledge than myself can handle this in an ethical manner.\n\nSome more info:\n\n    Phishing domain: 1603219703.rsc.cdn77.org\n    Phishing server IP: 185.59.223.27\n    Phishing page: /index-RR.html",
+        "title": "Phishing site has 1-800 number, I bothered calling..",
+        "score": 43,
+        "id": "3g2b06",
+        "commsNum": 24,
+        "timeStamp": "2015/08/06-15:59:14",
+        "author_name": "p3tabyt3",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 24,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/3g2b06/phishing_site_has_1800_number_i_bothered_calling/"
+    },
+    "posts": {}
+}

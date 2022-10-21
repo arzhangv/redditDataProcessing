@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Vulnerable Antivirus Driver Used by Ransomware - We Reverse Engineer How (OALABS Tutorial)",
+        "score": 1,
+        "id": "wh4a93",
+        "commsNum": 0,
+        "timeStamp": "2022/08/05-12:36:22",
+        "author_name": "herrcore",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://youtu.be/ViWLMfSwGVA"
+    },
+    "posts": {
+        "ijagibm": {
+            "comment": "Yep you got it. It's Avast....",
+            "timeStamp": "2022/08/07-01:49:43",
+            "id": "ijagibm",
+            "is_submitter": false,
+            "link_id": "t3_wh4a93",
+            "parent_id": "t1_ij7mx4q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "blabbities"
+        },
+        "ij7mx4q": {
+            "comment": "hum that driver name. Avast, right? Nice vid as always.",
+            "timeStamp": "2022/08/06-10:57:05",
+            "id": "ij7mx4q",
+            "is_submitter": false,
+            "link_id": "t3_wh4a93",
+            "parent_id": "t3_wh4a93",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RCEdude"
+        }
+    }
+}

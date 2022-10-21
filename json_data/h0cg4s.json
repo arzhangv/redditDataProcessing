@@ -1,0 +1,253 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hey guys,\nSo I have decided to get my hands dirty in reverse engineering... Mostly I want to do malware analysis.. for that I have been suggested to take sans For610.\nWhat are your views on that.\n\nThanks",
+        "title": "Taking sans 610 course.. Need your views.",
+        "score": 17,
+        "id": "h0cg4s",
+        "commsNum": 19,
+        "timeStamp": "2020/06/10-07:45:39",
+        "author_name": "ci9her",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 19,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/h0cg4s/taking_sans_610_course_need_your_views/"
+    },
+    "posts": {
+        "ijn0bji": {
+            "comment": "[removed]",
+            "timeStamp": "2022/08/09-15:00:46",
+            "id": "ijn0bji",
+            "is_submitter": false,
+            "link_id": "t3_h0cg4s",
+            "parent_id": "t1_ftn1z6v",
+            "score": 0,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fwb0jqh": {
+            "comment": "[removed]",
+            "timeStamp": "2020/06/28-14:43:28",
+            "id": "fwb0jqh",
+            "is_submitter": false,
+            "link_id": "t3_h0cg4s",
+            "parent_id": "t1_ftla95a",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fun2fx1": {
+            "comment": "[removed]",
+            "timeStamp": "2020/06/12-14:18:28",
+            "id": "fun2fx1",
+            "is_submitter": false,
+            "link_id": "t3_h0cg4s",
+            "parent_id": "t3_h0cg4s",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ftrh3gf": {
+            "comment": "&gt;Practical Reverse Engineering\n\nthanks brother...",
+            "timeStamp": "2020/06/11-19:13:39",
+            "id": "ftrh3gf",
+            "is_submitter": true,
+            "link_id": "t3_h0cg4s",
+            "parent_id": "t1_ftpuewo",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ci9her"
+        },
+        "ftpuewo": {
+            "comment": "I took the GREM class and passed the exam ~1 month later without any prior experience in malware analysis / DFIR. I'm not trying to \"toot my own horn\" i'm just trying to set your expectations. This is a course for beginners. GREM is a stepping stone. It is useful as a goal to achieve some fundamentals to know how to approach the problem of malware analysis.  \n\nStudying for the exam once you leave the class wouldn't be nearly as useful as just immediately focusing on actual analysis and CTF-like exercises/crackmes. Have specific goals when you analyze malware for practice beyond just finding the C2 and moving on. \n\nOther Resources I recommend: \n\n- The Art Of Memory Forensics, Michael Hale Ligh, AAron Walters, Jamie Levy, Andrew Case &lt;- in my opinion an absolute must read \n\n- Rootkits &amp; Bootkits,by Alex Matrosov, Eugene Rodionov, and Sergey Bratus\n\n- Practical Reverse Engineering, Bruce Dang, Alexandre Gazet, Elias Bachaalany\n\nRead every blog/paper on adversary activity you can find. It is important to understand malware from the context of an attack and not just some standalone file. In many malware jobs it isn't just pulling out IOCs and moving on.. you will want to provide some context as to the \"so what\" (i.e. who is this targeting, what stage is this, what group might it be, finding related files/infrastructure, etc).",
+            "timeStamp": "2020/06/11-10:48:06",
+            "id": "ftpuewo",
+            "is_submitter": false,
+            "link_id": "t3_h0cg4s",
+            "parent_id": "t3_h0cg4s",
+            "score": 1,
+            "stickied": false,
+            "author_name": "acalarch"
+        },
+        "ftogqxs": {
+            "comment": "SANS  610 is 5 days and 40 hrs long, plus a day 6 CTF challenge. The videos cover the slides, and walk through examples to demonstrate the content.",
+            "timeStamp": "2020/06/11-02:26:12",
+            "id": "ftogqxs",
+            "is_submitter": false,
+            "link_id": "t3_h0cg4s",
+            "parent_id": "t1_ftlr43y",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mexiblues"
+        },
+        "ftnwrpd": {
+            "comment": "Thanks brother.. I have been reading and doing practical malware analysis also watching oalabs and their stuff to..\nI was just told by my peer about the cert.. nobody is sponsoring me for the course.. and yes mostly I won't spend 7000 on it..\nThanks for the great explanation.",
+            "timeStamp": "2020/06/10-21:36:05",
+            "id": "ftnwrpd",
+            "is_submitter": true,
+            "link_id": "t3_h0cg4s",
+            "parent_id": "t1_ftnj14m",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ci9her"
+        },
+        "ftnj14m": {
+            "comment": "Ok woah woah woah I'm reading some of these other comments and I feel like I need to clarify some things for you.\n\nFirst, if you're trying to get something onto your resume, then the course and the associated certification can do that for you so you can work on getting a position, maybe a junior position or an intermediate position if you already have a good amount of cyber security experience. However...\n\nThe course is OK. The cert is not hard, all GIAC certifications in my experience can basically be passed by combing over the SANS material and building a solid index. I know people that have never done the labs on some of their courses and they come out with 90+ solely based on a thoroughly created index. These exams aren't performance based and should be taken with a grain of salt. I've seen some people that you would never think have touched a computer nail these certifications and it shows in their job. This leads into my next point.\n\nYou get what you put into it. SANS FOR610 will cover a decent amount of malware analysis techniques, but all the course and certification ultimately culminates into is being able to say \"I'm knowledgeable enough in malware analysis to research further on my own\" in order to really pursue advanced malware analysis. \n\nYour interviewer will see right through you if you're one of these people that steamroll through these GIAC certifications without knowing what's going on, especially when it comes to malware analysis. No one really gives a shit about certifications, they will pass you a binary or a file and see what you can do with it, or you will show up and prove that you know your stuff. If you're one of these people that collects certs for the sake of it, you won't be in for a good time.\n\nThe pretests are \"somewhat similar\" but not \"identical\" to the exam. You will find that they are similar in some ways, but often more different than similar. I have also found that both \"practice exams\" that GIAC tends to give out are too similar to each other. Also the test is 2 hours for 75 questions, there is a lot of time if you know your stuff.\n\nIf you need the course and certification on your resume, great. However, you can get the same knowledge by reviewing the following resources:\n\n\\- Malware Unicorn Labs (Blog/Workshop)\n\n\\- Practical Malware Analysis (Book) (do all the labs too)\n\n\\- OALabs (Youtube) (actually get the samples and work through them)\n\nIf you do those and were then to take the SANS course, there will be so much overlap you will probably be extremely bored, but would definitely nail the test. You might even be able to pass it without the SANS course. $7000 in comparison to the above mentioned resources is an absolute waste of money but if you're just after the knowledge, then follow the above resources.\n\nSANS is a little better about teaching malicious documents, javascript, etc. You'll need to find more resources regarding this if you take a different route. This shouldn't freak you out though. Think of it like this, look at the syllabus of the SANS course. They can only fit so much into each section... there's a single book dedicated to PDFs, Microsoft Office (docx/xls/doc), rtfs, javascript, vbs, vba, etc which in its entirety is at max 200 pages. If you do some basic math and get a rough estimate on how much content for each topic of those is in 200 pages, I'm sure you will find no difficulty in researching other tutorials/websites to teach you those topics elsewhere....\n\nRegardless of your path, you need to invest time and energy into analyzing malware samples on your own. Whether that's SANS or not, it's a starting point, it'll be enough for you to go out on your own to build experience, which is what you will need to demonstrate.\n\nBut by all means, if someone is paying this cert and class, never say no. The benefit is the course is an \"all in one\" package that comes with 2 VMs, videos, labs, and a final \"CTF\" lab to further cement your reflexes with the tools. If you go another route, you just need to make sure you do everything you need in order to make up for the benefits. But I wouldn't even spend $1000, let alone $7000, when I can obtain the knowledge from those other resources. It's just too damn expensive if your company isn't paying unless you aren't too worried about that.",
+            "timeStamp": "2020/06/10-19:16:01",
+            "id": "ftnj14m",
+            "is_submitter": false,
+            "link_id": "t3_h0cg4s",
+            "parent_id": "t3_h0cg4s",
+            "score": 3,
+            "stickied": false,
+            "author_name": "ooglesandboogles"
+        },
+        "ftnf7vh": {
+            "comment": "I\u2019ll be honest with you.\n\nIt gives you enough knowledge to be able to pass an interview for a junior RE position. If you\u2019ve already been working in the field then it will be incredibly boring and mostly comes down to memorizing random tools that you will never use again.\n\nIf you work in a related field such as intel or pentesting it can be beneficial for dipping your toes into another field\n\nAs someone who has hired REs from interns to principal, I honestly only look at certs on a resume for junior or mid level people.",
+            "timeStamp": "2020/06/10-18:41:55",
+            "id": "ftnf7vh",
+            "is_submitter": false,
+            "link_id": "t3_h0cg4s",
+            "parent_id": "t3_h0cg4s",
+            "score": 2,
+            "stickied": false,
+            "author_name": "sysopfb"
+        },
+        "ftn4x3o": {
+            "comment": "[removed]",
+            "timeStamp": "2020/06/10-17:08:01",
+            "id": "ftn4x3o",
+            "is_submitter": false,
+            "link_id": "t3_h0cg4s",
+            "parent_id": "t3_h0cg4s",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ftn1z6v": {
+            "comment": "My opinion on SANS is that you should only take it if work pays for it. Most of the time it is 2 days worth of good material stretched to 5. Prior to taking this course I'd make sure you were familiar with topics in reverse engineering using debuggers and disassembler, reading something like Secrets of Reverse Engineering, Shellcoders Handbook and Windows Internals. Practical Malware Analysis is like a bible and you can depend on that for providing nearly everything that is taught in the SANS course. But of course, people like to see those stupid certifications on a resume.. Passing the test is at least provides some validation that you know your stuff.\n\nAs a free alternative, refer to this thread for CSCI 4976 as a good Malware Analysis course.\n\n [https://www.reddit.com/r/csirt\\_tools/comments/4fx4yn/malware\\_analysis\\_course\\_materials\\_csci\\_4976\\_cc/](https://www.reddit.com/r/csirt_tools/comments/4fx4yn/malware_analysis_course_materials_csci_4976_cc/) \n\nIf you read some of those books and take this course you'll be further ahead than most people. \n\nNothing wrong with doing training, but I feel like feeding the SANS beast doesn't make their courses better, I've taken 560 and 660 and been seriously disappointed with the way they structured materials for those offerings.",
+            "timeStamp": "2020/06/10-16:42:11",
+            "id": "ftn1z6v",
+            "is_submitter": false,
+            "link_id": "t3_h0cg4s",
+            "parent_id": "t3_h0cg4s",
+            "score": 2,
+            "stickied": false,
+            "author_name": "nathangl"
+        },
+        "ftlr43y": {
+            "comment": "Meaning.. most of the videos are of size like 10kb... I accept that important parts are explained...however you said... I can do with pdf alone right.",
+            "timeStamp": "2020/06/10-10:26:27",
+            "id": "ftlr43y",
+            "is_submitter": true,
+            "link_id": "t3_h0cg4s",
+            "parent_id": "t1_ftll26h",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ci9her"
+        },
+        "ftlpz5w": {
+            "comment": "[removed]",
+            "timeStamp": "2020/06/10-10:18:00",
+            "id": "ftlpz5w",
+            "is_submitter": false,
+            "link_id": "t3_h0cg4s",
+            "parent_id": "t1_ftla95a",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ftll26h": {
+            "comment": "I'm not sure what are you talking about, those videos are pretty long.",
+            "timeStamp": "2020/06/10-09:39:28",
+            "id": "ftll26h",
+            "is_submitter": false,
+            "link_id": "t3_h0cg4s",
+            "parent_id": "t1_ftldz8t",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Shady2707"
+        },
+        "ftljl9n": {
+            "comment": "I've gone through the videos + the text and I think its worthwhile to do both. the videos do follow along directly with the text, but there are a few times where he expands on topics that aren't in the book. He will also walk through some of the lab binaries which I thought was more helpful than just looking at screenshots in the book.\n\nif you want to prep before the course, go through this https://nostarch.com/malware . Its basically the exact same training for executables although 610 gets into .js/pdf/flash/word docs as well.",
+            "timeStamp": "2020/06/10-09:24:40",
+            "id": "ftljl9n",
+            "is_submitter": false,
+            "link_id": "t3_h0cg4s",
+            "parent_id": "t1_ftldz8t",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Trolling_turd"
+        },
+        "ftldz8t": {
+            "comment": "Yeah.. cos I have seen the vidoes.. most of them are like 1sec to 10sec long..",
+            "timeStamp": "2020/06/10-08:34:13",
+            "id": "ftldz8t",
+            "is_submitter": true,
+            "link_id": "t3_h0cg4s",
+            "parent_id": "t1_ftldmjq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ci9her"
+        },
+        "ftldmjq": {
+            "comment": "The videos really help you understand everything. The training is a bundle, so you can't buy it piecemeal anyway. If you only have the PDFs then it is still better than nothing. I believe someone could pass with just PDFs.",
+            "timeStamp": "2020/06/10-08:31:02",
+            "id": "ftldmjq",
+            "is_submitter": false,
+            "link_id": "t3_h0cg4s",
+            "parent_id": "t1_ftlch3n",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Shady2707"
+        },
+        "ftlcj20": {
+            "comment": "Thanks brother",
+            "timeStamp": "2020/06/10-08:18:30",
+            "id": "ftlcj20",
+            "is_submitter": true,
+            "link_id": "t3_h0cg4s",
+            "parent_id": "t1_ftlchpy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ci9her"
+        },
+        "ftlchpy": {
+            "comment": "yes, its a good course. You will need a good understanding of coding to understand the reverse engineering part, rest of it is general MA knowledge which you already may or may not have. \n\nIt is very hectic, you will have to spend significant focus on your training. \n\nIt is costly, though certificate will get you noticed in job market.",
+            "timeStamp": "2020/06/10-08:18:01",
+            "id": "ftlchpy",
+            "is_submitter": false,
+            "link_id": "t3_h0cg4s",
+            "parent_id": "t3_h0cg4s",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sky-reader"
+        },
+        "ftlch3n": {
+            "comment": "My colleagues told me that I'm better only with the pdf's ... The videos are just the pdf and training reading them..",
+            "timeStamp": "2020/06/10-08:17:47",
+            "id": "ftlch3n",
+            "is_submitter": true,
+            "link_id": "t3_h0cg4s",
+            "parent_id": "t1_ftla95a",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ci9her"
+        },
+        "ftla95a": {
+            "comment": "Is it good? Yes\n\nIs it really expensive? Yes\n\nIs it recognized in the industry? Yes\n\nHow deep is it? It gives you enough information to start, but it is a good foundation to start off of. I would recommend having some understanding of pen testing and c/c++ programming before jumping into it.\n\nWhat does it provide? You get a USB with prebuilt VMs and 6 binders. It is five full days of material and each day has a book and also has 8 hours video to go with the book.\n\nHow hard is the test? Hard, but you get two pretests that are identical to the test. The test is open book, but you have to know enough to answer quickly or else you will run out of time.\n\nHope that helps.",
+            "timeStamp": "2020/06/10-07:54:33",
+            "id": "ftla95a",
+            "is_submitter": false,
+            "link_id": "t3_h0cg4s",
+            "parent_id": "t3_h0cg4s",
+            "score": 3,
+            "stickied": false,
+            "author_name": "Shady2707"
+        }
+    }
+}

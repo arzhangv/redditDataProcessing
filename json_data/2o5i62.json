@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Is it possible to identify what caused a Google (Apps) Gmail account to send spam messages to contacts in the account, with the following text:\n\n\"Please refer to the document I've shared with you using Google Drive Online PDF.\n\nCLICK HERE TO VIEW THE ONLINE PDF\"\n\n(the hyperlink takes the user to \nhttp://geale.com.au/Investment/t/index.html)\n\nIs there a repository to search for this type of vulnerabilities which could have been activated by the user's interaction with a link, for example?",
+        "title": "Vulnerabilities in a Google (Apps) Gmail account.",
+        "score": 1,
+        "id": "2o5i62",
+        "commsNum": 2,
+        "timeStamp": "2014/12/03-05:38:08",
+        "author_name": "surusonline",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2o5i62/vulnerabilities_in_a_google_apps_gmail_account/"
+    },
+    "posts": {}
+}

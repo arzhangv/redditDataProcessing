@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": 0.38,
+        "selftext": "[removed]",
+        "title": "why did a .lock file appear when i opened an app",
+        "score": 0,
+        "id": "irfwvn",
+        "commsNum": 10,
+        "timeStamp": "2020/09/12-09:41:20",
+        "author_name": "GrandDiJay",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 10,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/irfwvn/why_did_a_lock_file_appear_when_i_opened_an_app/"
+    },
+    "posts": {
+        "g50hsa4": {
+            "comment": "Just to add, it\u2019s often used to stop you from opening the app more than once at a time, which could mess things up if successful.",
+            "timeStamp": "2020/09/12-18:07:19",
+            "id": "g50hsa4",
+            "is_submitter": false,
+            "link_id": "t3_irfwvn",
+            "parent_id": "t1_g4y584r",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Plasma_000"
+        },
+        "g4y584r": {
+            "comment": "Alright, Thanks gonna remember that for the future. lol",
+            "timeStamp": "2020/09/12-10:05:15",
+            "id": "g4y584r",
+            "is_submitter": true,
+            "link_id": "t3_irfwvn",
+            "parent_id": "t1_g4y50yn",
+            "score": 1,
+            "stickied": false,
+            "author_name": "GrandDiJay"
+        },
+        "g4y5366": {
+            "comment": "Thanks, I thought i lost my files!",
+            "timeStamp": "2020/09/12-10:04:02",
+            "id": "g4y5366",
+            "is_submitter": true,
+            "link_id": "t3_irfwvn",
+            "parent_id": "t1_g4y3mft",
+            "score": 1,
+            "stickied": false,
+            "author_name": "GrandDiJay"
+        },
+        "g4y50yn": {
+            "comment": "To add to that:  \nThese files are usually used to have some \"marker\" on the disk so other programs or the program itself knows there is an instance of that program running. If a program sees the lock file, we can assume the program which created it is still running or hasn't closed properly (e.g. it crashed and didn't clean up the file). \n\nThis is usually used as a recovery or consistency mechanism.",
+            "timeStamp": "2020/09/12-10:03:31",
+            "id": "g4y50yn",
+            "is_submitter": false,
+            "link_id": "t3_irfwvn",
+            "parent_id": "t1_g4y3mft",
+            "score": 3,
+            "stickied": false,
+            "author_name": "reijin"
+        },
+        "g4y3mft": {
+            "comment": "its supposed to be a hidden file, its a thing some apps do. its not malware",
+            "timeStamp": "2020/09/12-09:54:01",
+            "id": "g4y3mft",
+            "is_submitter": false,
+            "link_id": "t3_irfwvn",
+            "parent_id": "t3_irfwvn",
+            "score": 8,
+            "stickied": false,
+            "author_name": "jason-murawski"
+        }
+    }
+}

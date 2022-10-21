@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "VirusTotal no longer allows security products to use it without contributing",
+        "score": 106,
+        "id": "4i4gla",
+        "commsNum": 29,
+        "timeStamp": "2016/05/06-03:06:16",
+        "author_name": "desegel",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 29,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://blog.eckelberry.com/a-bomb-just-dropped-in-endpoint-security-and-im-not-sure-anyone-noticed/"
+    },
+    "posts": {}
+}

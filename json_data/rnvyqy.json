@@ -1,0 +1,154 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Earlier today my Windows Defender as well as Malwarebytes identified 18 threats as BitCoin Miner Trojan. Then I ran a full scan with Hitman Pro and Zemana and now I have no threats. After that I observed that a Brave extension is missing.  \n\n\nThese files were created a week ago, but I didn't experience any difference in my laptop's speed, or overheating etc. I use a Firewall and I can identify every single application that is allowed to have network access. I also use anti-tracking extension on Brave and a password manager. So, I was wondering if my data and/or passwords can be exposed by this kind of Trojan. Are there any further steps I am required to take?  \nThank you!",
+        "title": "BitCoin Miner Trojan",
+        "score": 1,
+        "id": "rnvyqy",
+        "commsNum": 0,
+        "timeStamp": "2021/12/24-14:05:59",
+        "author_name": "pabll9824",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/rnvyqy/bitcoin_miner_trojan/"
+    },
+    "posts": {
+        "hq61klu": {
+            "comment": "As per the Content Rules -&gt; \n\n&gt; This is a subreddit for readers to discuss malware internals and infection techniques. Posts requesting technical support will be removed and bans will be handed out liberally.",
+            "timeStamp": "2021/12/27-09:22:42",
+            "id": "hq61klu",
+            "is_submitter": false,
+            "link_id": "t3_rnvyqy",
+            "parent_id": "t1_hpwtc16",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Rakanisheu"
+        },
+        "hpzyya4": {
+            "comment": "Anytime man, lmk how it goes",
+            "timeStamp": "2021/12/25-22:04:50",
+            "id": "hpzyya4",
+            "is_submitter": false,
+            "link_id": "t3_rnvyqy",
+            "parent_id": "t1_hpwtcza",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Tyyphoon9"
+        },
+        "hpwtcza": {
+            "comment": "Thank you sooo much",
+            "timeStamp": "2021/12/25-04:30:34",
+            "id": "hpwtcza",
+            "is_submitter": true,
+            "link_id": "t3_rnvyqy",
+            "parent_id": "t1_hpvsujt",
+            "score": 1,
+            "stickied": false,
+            "author_name": "pabll9824"
+        },
+        "hpwtc16": {
+            "comment": "Is it about philosophical thinking about malware? My bad",
+            "timeStamp": "2021/12/25-04:30:11",
+            "id": "hpwtc16",
+            "is_submitter": true,
+            "link_id": "t3_rnvyqy",
+            "parent_id": "t1_hpwsz05",
+            "score": 1,
+            "stickied": false,
+            "author_name": "pabll9824"
+        },
+        "hpwsz05": {
+            "comment": "This isnt a support sub-reddit",
+            "timeStamp": "2021/12/25-04:24:55",
+            "id": "hpwsz05",
+            "is_submitter": false,
+            "link_id": "t3_rnvyqy",
+            "parent_id": "t3_rnvyqy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Rakanisheu"
+        },
+        "hpvsujt": {
+            "comment": "So.... i would look via VirusTotal with the hashes of what was flagged to see specifically what you are working with.\n\nThat should tell whether these Trojan's you have can exfil personal data, keystrokes etc. \n\nAlso I would via thru your web history on the date it was created to see of any websites youve gone to. \n\nWhat could've happened is you went to a phishing page on accident which downloaded the BTC miner to your PC.\n\nAlso judging PC speed isn't the best option as many Trojan's are running \"quietly\" with lower processing powers to keep you from noticing.\n\nHope this helps. DM me if you have further questions! Good luck!",
+            "timeStamp": "2021/12/24-20:01:12",
+            "id": "hpvsujt",
+            "is_submitter": false,
+            "link_id": "t3_rnvyqy",
+            "parent_id": "t3_rnvyqy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Tyyphoon9"
+        },
+        "hpvsblg": {
+            "comment": "Chances are this is what happened. Does your firewall log connection attempts by unauthorized programs?",
+            "timeStamp": "2021/12/24-19:55:35",
+            "id": "hpvsblg",
+            "is_submitter": false,
+            "link_id": "t3_rnvyqy",
+            "parent_id": "t1_hpve52c",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ImproperEatenKitKat"
+        },
+        "hpve52c": {
+            "comment": "Thanks for your answer. I don't have any cryptos in general, I am just concerned whether they interfered with my passwords or just used my computer for Bitcoin mining. But again, if they used my computer, I didn't experience any slowdown plus my firewall didn't allow internet access to any unknown app. Maybe I got the trojan but it was blocked from connecting back home?",
+            "timeStamp": "2021/12/24-17:26:13",
+            "id": "hpve52c",
+            "is_submitter": true,
+            "link_id": "t3_rnvyqy",
+            "parent_id": "t1_hpvby8f",
+            "score": 1,
+            "stickied": false,
+            "author_name": "pabll9824"
+        },
+        "hpvby8f": {
+            "comment": "If you haven\u2019t been running network logging (like an IDS or somethin) that traffic is gone. You can do a forensic image but without experience in that area (and a boatload of cash for FTK) you\u2019re not gonna find much.\n\nIf you still have your crypto, then you can run as many malware scans as you want to feel safe again. If you don\u2019t then you might wanna reimage your drive and setup a new wallet",
+            "timeStamp": "2021/12/24-17:03:46",
+            "id": "hpvby8f",
+            "is_submitter": false,
+            "link_id": "t3_rnvyqy",
+            "parent_id": "t1_hpuw2sa",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Fleischwulf"
+        },
+        "hpv0z2f": {
+            "comment": "What was that \"learn about and earn crypto\" app I kept seeing ads for?",
+            "timeStamp": "2021/12/24-15:18:36",
+            "id": "hpv0z2f",
+            "is_submitter": false,
+            "link_id": "t3_rnvyqy",
+            "parent_id": "t3_rnvyqy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "jansenart"
+        },
+        "hpuw2sa": {
+            "comment": "Linux is the next step, but how can I see if there is any damage now?",
+            "timeStamp": "2021/12/24-14:35:44",
+            "id": "hpuw2sa",
+            "is_submitter": true,
+            "link_id": "t3_rnvyqy",
+            "parent_id": "t1_hpuv6dx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "pabll9824"
+        },
+        "hpuv6dx": {
+            "comment": "Switch to Linux and reinstall Brave and you should be good",
+            "timeStamp": "2021/12/24-14:28:11",
+            "id": "hpuv6dx",
+            "is_submitter": false,
+            "link_id": "t3_rnvyqy",
+            "parent_id": "t3_rnvyqy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Rebel_Ye11"
+        }
+    }
+}

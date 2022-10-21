@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I am looking to develop OSX malware for educational purposes. Having migrated from Windows to OSX a couple of years ago, I am confused about developing applications that work in the background and how to bind two executables together?\n\nI am willing to do it in C++ or ObjectiveC. When using ObjC, I can modify the .plist file to turn it into a background app, however, when I am using C++, it always turns out to be a command line app.",
+        "title": "Any guides on OSX Malware Development techniques?",
+        "score": 11,
+        "id": "22w5at",
+        "commsNum": 6,
+        "timeStamp": "2014/04/12-18:04:03",
+        "author_name": "therein",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/22w5at/any_guides_on_osx_malware_development_techniques/"
+    },
+    "posts": {}
+}

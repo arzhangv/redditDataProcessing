@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Intezer - ACBackdoor: Analysis of a New Multiplatform Backdoor",
+        "score": 1,
+        "id": "dz587y",
+        "commsNum": 1,
+        "timeStamp": "2019/11/20-09:28:14",
+        "author_name": "daintyguillotine",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.intezer.com/blog-acbackdoor-analysis-of-a-new-multiplatform-backdoor/"
+    },
+    "posts": {
+        "f85bv7h": {
+            "comment": "FWIW I've linked to the source article, which includes IOC, while others have been linking to articles quoting from this source but appearing elsewhere.",
+            "timeStamp": "2019/11/20-09:45:50",
+            "id": "f85bv7h",
+            "is_submitter": true,
+            "link_id": "t3_dz587y",
+            "parent_id": "t3_dz587y",
+            "score": 1,
+            "stickied": false,
+            "author_name": "daintyguillotine"
+        }
+    }
+}

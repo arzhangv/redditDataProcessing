@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I need help understanding exactly what a malware loader is (e.g: Smoke, pony, elite). At first i thought loaders were light-weight modular pieces of code that would load the actual 'malware' into the target system via a method more subtle than conventional installation. However looking around online im finding actual screenshots of UI's for these loaders, which now has me thinking that a loader is either a platform for bundling/packing malware and various elements of a software based attack, or a sort of CnC.\n\nCan someone shed some light please? thanks",
+        "title": "what is a loader?",
+        "score": 18,
+        "id": "3gpv3h",
+        "commsNum": 5,
+        "timeStamp": "2015/08/12-06:03:42",
+        "author_name": "teefletch",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/3gpv3h/what_is_a_loader/"
+    },
+    "posts": {}
+}

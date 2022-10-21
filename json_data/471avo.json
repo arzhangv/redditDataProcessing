@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "A new ransomware named Locky has emerged recently. Locky is distributed in a manner similar to that of Dridex botnets 120 and 220.",
+        "score": 1,
+        "id": "471avo",
+        "commsNum": 0,
+        "timeStamp": "2016/02/22-07:30:00",
+        "author_name": "Roccaa2Janiyah4_",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://blogs.forcepoint.com/security-labs/locky-ransomware-encrypts-documents-databases-code-bitcoin-wallets-and-more"
+    },
+    "posts": {}
+}

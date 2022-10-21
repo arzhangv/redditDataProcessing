@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": " hello everyone, I've been looking for a while, the download of the Trojan \"Ugandan.Knuckles.Trojan\", can anyone tell me where I can find the download, or if there is still a download available?",
+        "title": "Ugandan.Knuckles.Trojan",
+        "score": 1,
+        "id": "rltxh4",
+        "commsNum": 0,
+        "timeStamp": "2021/12/21-17:48:15",
+        "author_name": "JRPlaysYTube",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/rltxh4/ugandanknucklestrojan/"
+    },
+    "posts": {
+        "hq96p6k": {
+            "comment": "ye, but don't have the Knuckles malware in VXHeaven Samples..",
+            "timeStamp": "2021/12/28-00:04:38",
+            "id": "hq96p6k",
+            "is_submitter": true,
+            "link_id": "t3_rltxh4",
+            "parent_id": "t1_hpr5ohy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "JRPlaysYTube"
+        },
+        "hpr5ohy": {
+            "comment": "I recommend downloading the active samples from vxheaven. Just search for your trojan, download one and run all the files to make sure libraries for knuckles are initialized to 0xd00fus. Once this happens all pointers will be recursive and the polymorphic system will build. Good luck! Let me know if you need more specific instructions",
+            "timeStamp": "2021/12/23-17:20:49",
+            "id": "hpr5ohy",
+            "is_submitter": false,
+            "link_id": "t3_rltxh4",
+            "parent_id": "t3_rltxh4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "cuntpeddler"
+        }
+    }
+}

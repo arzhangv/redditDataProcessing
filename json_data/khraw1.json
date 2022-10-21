@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "First of all im getting some wierd HTTP traffic\n\nFrame 134296: 612 bytes on wire (4896 bits), 612 bytes captured (4896 bits) on interface \\\\Device\\\\NPF\\_{83C4890B-324A-4ADC-8A3B-83CF49F4713C}, id 0\n\nEthernet II, Src: ##:59:38:74:65:76 (ee:59:38:74:65:76), Dst: ARRISGro\\_9d:9f:10 (##:35:d1:9d:9f:10)\n\nInternet Protocol Version 4, Src: [192.168.0.144](https://192.168.0.144) ([192.168.0.144](https://192.168.0.144)), Dst: [analytics.ns1.ff.avast.com](https://analytics.ns1.ff.avast.com) ([69.94.77.204](https://69.94.77.204))\n\n0100 .... = Version: 4\n\n.... 0101 = Header Length: 20 bytes (5)\n\nDifferentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)\n\nTotal Length: 598\n\nIdentification: 0x9542 (38210)\n\nFlags: 0x40, Don't fragment\n\nFragment Offset: 0\n\nTime to Live: 128\n\nProtocol: TCP (6)\n\nHeader Checksum: 0x0efd \\[validation disabled\\]\n\n\\[Header checksum status: Unverified\\]\n\nSource Address: [192.168.0.144](https://192.168.0.144) ([192.168.0.144](https://192.168.0.144))\n\nDestination Address: [analytics.ns1.ff.avast.com](https://analytics.ns1.ff.avast.com) ([69.94.77.204](https://69.94.77.204))\n\nTransmission Control Protocol, Src Port: 53834, Dst Port: 80, Seq: 1, Ack: 1, Len: 558\n\nSource Port: 53834\n\nDestination Port: 80\n\n\\[Stream index: 26\\]\n\n\\[TCP Segment Len: 558\\]\n\nSequence Number: 1    (relative sequence number)\n\nSequence Number (raw): 2057462538\n\n\\[Next Sequence Number: 559    (relative sequence number)\\]\n\nAcknowledgment Number: 1    (relative ack number)\n\nAcknowledgment number (raw): 2397593522\n\n0101 .... = Header Length: 20 bytes (5)\n\nFlags: 0x018 (PSH, ACK)\n\nWindow: 513\n\n\\[Calculated window size: 131328\\]\n\n\\[Window size scaling factor: 256\\]\n\nChecksum: 0x9dd4 \\[unverified\\]\n\n\\[Checksum Status: Unverified\\]\n\nUrgent Pointer: 0\n\n\\[SEQ/ACK analysis\\]\n\n\\[iRTT: 0.023407000 seconds\\]\n\n\\[Bytes in flight: 558\\]\n\n\\[Bytes sent since last PSH flag: 558\\]\n\n\\[Timestamps\\]\n\n\\[Time since first frame in this TCP stream: 0.024469000 seconds\\]\n\n\\[Time since previous frame in this TCP stream: 0.001062000 seconds\\]\n\nTCP payload (558 bytes)\n\nHypertext Transfer Protocol\n\nPOST /cgi-bin/iavsevents.cgi HTTP/1.1\\\\r\\\\n\n\n\\[Expert Info (Chat/Sequence): POST /cgi-bin/iavsevents.cgi HTTP/1.1\\\\r\\\\n\\]\n\n\\[POST /cgi-bin/iavsevents.cgi HTTP/1.1\\\\r\\\\n\\]\n\n\\[Severity level: Chat\\]\n\n\\[Group: Sequence\\]\n\nRequest Method: POST\n\nRequest URI: /cgi-bin/iavsevents.cgi\n\nRequest Version: HTTP/1.1\n\nHost: [v7event.stats.avast.com](https://v7event.stats.avast.com)\\\\r\\\\n\n\nUser-Agent: libcurl/7.66.0 Schannel zlib/1.2.11 c-ares/1.15.0 nghttp2/1.39.2\\\\r\\\\n\n\nAccept: \\*/\\*\\\\r\\\\n\n\nAccept-Encoding: deflate, gzip\\\\r\\\\n\n\nContent-Type: iavs4/stats\\\\r\\\\n\n\nContent-Length: 315\\\\r\\\\n\n\n\\[Content length: 315\\]\n\n\\\\r\\\\n\n\n\\[Full request URI: [http://v7event.stats.avast.com/cgi-bin/iavsevents.cgi](http://v7event.stats.avast.com/cgi-bin/iavsevents.cgi)\\]\n\n\\[HTTP request 1/1\\]\n\n\\[Response in frame: 134298\\]\n\nFile Data: 315 bytes\n\nMedia Type\n\nMedia type: iavs4/stats (315 bytes)",
+        "title": "Im sure ive been hacked - Thread below. Please spare a minute",
+        "score": 1,
+        "id": "khraw1",
+        "commsNum": 0,
+        "timeStamp": "2020/12/21-13:58:13",
+        "author_name": "DoubtfulT",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/khraw1/im_sure_ive_been_hacked_thread_below_please_spare/"
+    },
+    "posts": {}
+}

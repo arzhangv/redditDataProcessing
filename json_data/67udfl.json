@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "The Hajime Botnet continues to grow and implements a new attack technique",
+        "score": 1,
+        "id": "67udfl",
+        "commsNum": 0,
+        "timeStamp": "2017/04/27-01:40:44",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/58415/malware/hajime-botnet.html"
+    },
+    "posts": {}
+}

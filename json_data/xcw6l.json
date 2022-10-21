@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Mac EFI Rootkit PoC (PDF)",
+        "score": 12,
+        "id": "xcw6l",
+        "commsNum": 1,
+        "timeStamp": "2012/07/29-14:28:27",
+        "author_name": "Nugsly",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": null,
+        "url": "http://ho.ax/De_Mysteriis_Dom_Jobsivs_Black_Hat_Paper.pdf"
+    },
+    "posts": {}
+}

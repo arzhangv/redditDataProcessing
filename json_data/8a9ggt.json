@@ -1,0 +1,231 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Why the malware refuses to work if it detects that is running in a virtual environment?",
+        "score": 20,
+        "id": "8a9ggt",
+        "commsNum": 18,
+        "timeStamp": "2018/04/06-06:23:37",
+        "author_name": "marvic45",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 18,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8a9ggt/why_the_malware_refuses_to_work_if_it_detects/"
+    },
+    "posts": {
+        "dxceaft": {
+            "comment": "To add even more, they can also check the size of the drive, check functions associated with debugging, and/or check for an extensive list of common analyst tools.",
+            "timeStamp": "2018/04/14-00:17:28",
+            "id": "dxceaft",
+            "is_submitter": false,
+            "link_id": "t3_8a9ggt",
+            "parent_id": "t1_dwxd4u5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "phaus"
+        },
+        "dx3cbfc": {
+            "comment": "https://www.symantec.com/avcenter/reference/Virtual_Machine_Threats.pdf\n\n",
+            "timeStamp": "2018/04/09-14:30:26",
+            "id": "dx3cbfc",
+            "is_submitter": false,
+            "link_id": "t3_8a9ggt",
+            "parent_id": "t1_dwyjhzw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RanmaSao"
+        },
+        "dx285x8": {
+            "comment": "And redirect all non existent domains to localhost.",
+            "timeStamp": "2018/04/09-02:20:27",
+            "id": "dx285x8",
+            "is_submitter": false,
+            "link_id": "t3_8a9ggt",
+            "parent_id": "t1_dwxyb5g",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ThePixelCoder"
+        },
+        "dwyr9rz": {
+            "comment": "Some malware will not run if targeted files are missing from the machine also.  If the live system is not the target or has a particular setting such as the default language the malware will shut down.  \nThere are many indicators that can be used for this.",
+            "timeStamp": "2018/04/07-06:25:18",
+            "id": "dwyr9rz",
+            "is_submitter": false,
+            "link_id": "t3_8a9ggt",
+            "parent_id": "t3_8a9ggt",
+            "score": 1,
+            "stickied": false,
+            "author_name": "reduhl"
+        },
+        "dwyo1q1": {
+            "comment": "Because that is not a reliable way of securing a system. If I know that AwesomeAV does this I'll make my malware look for AwesomeAV and ignore some clues that it may be in a VM / analysis environment.\n\nThere are also other ways of checking if your code runs in an environment set up for analysis. For example, looking at browsers history (a normal user will have a history of at least a few days, with google/bing searches, news sites, social media sites, etc). \n\nAlso, in the same way security vendors analyse malware to better fine tune their detections, malware authors analyse AV products to better fine tune their evasion techniques. It can become like a competition.\n\nAnd besides that, many new malware don't do this check anymore. A lot of enterprises use virtualized environments so if you want to infect such a network you simply can't just check if you're in a VM or not. ",
+            "timeStamp": "2018/04/07-04:54:21",
+            "id": "dwyo1q1",
+            "is_submitter": false,
+            "link_id": "t3_8a9ggt",
+            "parent_id": "t1_dwyghsa",
+            "score": 2,
+            "stickied": false,
+            "author_name": "irqlnotdispatchlevel"
+        },
+        "dwyjhzw": {
+            "comment": "It can also check number of cores the cpu is using. If less than it equal to two I\u2019ve seen it terminate",
+            "timeStamp": "2018/04/07-01:43:01",
+            "id": "dwyjhzw",
+            "is_submitter": false,
+            "link_id": "t3_8a9ggt",
+            "parent_id": "t1_dwwyt23",
+            "score": 2,
+            "stickied": false,
+            "author_name": "pres82"
+        },
+        "dwyij3u": {
+            "comment": "or lack thereof. it looks for the proof of real user, sometimes as well, but all in all - it depends what malware targets and what it wants to avoid. it is not uncommon nowadays for different exploit kits and payloads to be targeting specific locations, industries, etc. ",
+            "timeStamp": "2018/04/07-01:01:26",
+            "id": "dwyij3u",
+            "is_submitter": false,
+            "link_id": "t3_8a9ggt",
+            "parent_id": "t1_dwx1rx0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "apatrid"
+        },
+        "dwyghsa": {
+            "comment": "Why no one try to implement 3,4,5,6 into AV solutions? Adding few registry keys and few dummy processes and files should not affect system much.",
+            "timeStamp": "2018/04/06-23:43:42",
+            "id": "dwyghsa",
+            "is_submitter": false,
+            "link_id": "t3_8a9ggt",
+            "parent_id": "t1_dwx1rx0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "symon6"
+        },
+        "dwy5t2g": {
+            "comment": "Sandboxing on physical machines for the win!",
+            "timeStamp": "2018/04/06-19:22:41",
+            "id": "dwy5t2g",
+            "is_submitter": false,
+            "link_id": "t3_8a9ggt",
+            "parent_id": "t1_dwwtbrp",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Tialyx"
+        },
+        "dwxyb5g": {
+            "comment": "LPT, install virtualization tools to neutralize malware ",
+            "timeStamp": "2018/04/06-17:01:23",
+            "id": "dwxyb5g",
+            "is_submitter": false,
+            "link_id": "t3_8a9ggt",
+            "parent_id": "t3_8a9ggt",
+            "score": 4,
+            "stickied": false,
+            "author_name": "JPaulMora"
+        },
+        "dwxs4m7": {
+            "comment": "Here's a good overview from 2013:  \nhttp://artemonsecurity.com/vmde.pdf",
+            "timeStamp": "2018/04/06-15:11:22",
+            "id": "dwxs4m7",
+            "is_submitter": false,
+            "link_id": "t3_8a9ggt",
+            "parent_id": "t1_dwwyt23",
+            "score": 2,
+            "stickied": false,
+            "author_name": "MLApprentice"
+        },
+        "dwxd4u5": {
+            "comment": "Also, adding to what /u/marvic45 said, some malware also looks for certain artifacts like number of times certain applications (MS Word, etc) have been opened. Chances of these applications having been accessed in a analysis VM are pretty slim",
+            "timeStamp": "2018/04/06-11:17:22",
+            "id": "dwxd4u5",
+            "is_submitter": false,
+            "link_id": "t3_8a9ggt",
+            "parent_id": "t1_dwx1rx0",
+            "score": 9,
+            "stickied": false,
+            "author_name": "thatphotoguy89"
+        },
+        "dwx2yok": {
+            "comment": "Much of the malware out there is interested in stealing consumer information, credit cards and the like. Evading VM analysis like that works in its favor at little cost to its goal.\n\nOther malware, also targeted, is used for infiltrating corporate networks. It employs other evasion techniques.",
+            "timeStamp": "2018/04/06-08:51:18",
+            "id": "dwx2yok",
+            "is_submitter": false,
+            "link_id": "t3_8a9ggt",
+            "parent_id": "t1_dwx2pvf",
+            "score": 4,
+            "stickied": false,
+            "author_name": "spychipper"
+        },
+        "dwx2pvf": {
+            "comment": "But what if you're trying to infect a corporate environment that uses a lot of VMs?",
+            "timeStamp": "2018/04/06-08:47:51",
+            "id": "dwx2pvf",
+            "is_submitter": false,
+            "link_id": "t3_8a9ggt",
+            "parent_id": "t3_8a9ggt",
+            "score": 6,
+            "stickied": false,
+            "author_name": "__deerlord__"
+        },
+        "dwx1rx0": {
+            "comment": "The malware detects if it is running in a virtual environment by:\n1.\tChecking CPU Instructions\n2.\tChecking for Known Mac Addresses:\n3.\tChecking for Registry Keys \n4.\tChecking for Processes Indicating a VM\n5.\tChecking for Existence of Files Indicating a VM \n6.\tChecking for Running Services\n",
+            "timeStamp": "2018/04/06-08:34:38",
+            "id": "dwx1rx0",
+            "is_submitter": true,
+            "link_id": "t3_8a9ggt",
+            "parent_id": "t1_dwwyt23",
+            "score": 14,
+            "stickied": false,
+            "author_name": "marvic45"
+        },
+        "dwwzuo2": {
+            "comment": "Looking for certain drivers (generic vmware drivers) or hardware devices is an easy one. ",
+            "timeStamp": "2018/04/06-08:06:53",
+            "id": "dwwzuo2",
+            "is_submitter": false,
+            "link_id": "t3_8a9ggt",
+            "parent_id": "t1_dwwyt23",
+            "score": 10,
+            "stickied": false,
+            "author_name": "SpotOnTheRug"
+        },
+        "dwwyt23": {
+            "comment": "How does it find its currently running in a Vmware? \nIs there anyway to overcome that? ",
+            "timeStamp": "2018/04/06-07:51:28",
+            "id": "dwwyt23",
+            "is_submitter": false,
+            "link_id": "t3_8a9ggt",
+            "parent_id": "t3_8a9ggt",
+            "score": 8,
+            "stickied": false,
+            "author_name": "ragupal"
+        },
+        "dwwte1b": {
+            "comment": "Thanks :)",
+            "timeStamp": "2018/04/06-06:26:04",
+            "id": "dwwte1b",
+            "is_submitter": true,
+            "link_id": "t3_8a9ggt",
+            "parent_id": "t1_dwwtbrp",
+            "score": 8,
+            "stickied": false,
+            "author_name": "marvic45"
+        },
+        "dwwtbrp": {
+            "comment": "To avoid being analyzed or reverse engineered in a sandbox vm.",
+            "timeStamp": "2018/04/06-06:24:59",
+            "id": "dwwtbrp",
+            "is_submitter": false,
+            "link_id": "t3_8a9ggt",
+            "parent_id": "t3_8a9ggt",
+            "score": 49,
+            "stickied": false,
+            "author_name": "stainedhat"
+        }
+    }
+}

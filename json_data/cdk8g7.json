@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hey Reddit I'm looking for a very specific binary and I'm having a hard time finding it. I want to reverse engineer the sodinokibi ransomware decryptor. Does anyone have a source from someone that has paid the ransom and received a decryptor? I'm specifically looking at client server interactions with their clearweb site decryptor.top",
+        "title": "Sodinokibi decryptor",
+        "score": 7,
+        "id": "cdk8g7",
+        "commsNum": 5,
+        "timeStamp": "2019/07/15-10:12:55",
+        "author_name": "MisterCBax",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/cdk8g7/sodinokibi_decryptor/"
+    },
+    "posts": {
+        "f8m3yui": {
+            "comment": "[removed]",
+            "timeStamp": "2019/11/24-12:39:52",
+            "id": "f8m3yui",
+            "is_submitter": false,
+            "link_id": "t3_cdk8g7",
+            "parent_id": "t3_cdk8g7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ezvjkda": {
+            "comment": "I'll pull it from falcon. Thanks",
+            "timeStamp": "2019/09/10-22:46:43",
+            "id": "ezvjkda",
+            "is_submitter": true,
+            "link_id": "t3_cdk8g7",
+            "parent_id": "t1_ezuaihl",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MisterCBax"
+        },
+        "ezuaihl": {
+            "comment": "I got a sample, please contact me I am a Ransomware Researcher, A factory was infected past weekend by Sodinokibi \"REvil\" Ransomware  \nI have uploaded it to VirusTotal already and sandboxed it to Falcon:  \n\n\nSandbox Analisys:\n\n[https://www.hybrid-analysis.com/sample/24632b2a2015b5f5636645974459f702ce28c5c4c0c72cbb4385a8e59595393a/5d76fb9e0288380e6fbd616d](https://www.hybrid-analysis.com/sample/24632b2a2015b5f5636645974459f702ce28c5c4c0c72cbb4385a8e59595393a/5d76fb9e0288380e6fbd616d)",
+            "timeStamp": "2019/09/10-13:47:04",
+            "id": "ezuaihl",
+            "is_submitter": false,
+            "link_id": "t3_cdk8g7",
+            "parent_id": "t3_cdk8g7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Guinocera"
+        },
+        "etughz0": {
+            "comment": "Yes I am aware of that I have samples of the ransomware itself I have access to the decryption page for serveral researcher \"victims\" the one thing I don't have and don't have the money for is the decryptor binary itself which I need a sample of.",
+            "timeStamp": "2019/07/15-10:34:16",
+            "id": "etughz0",
+            "is_submitter": true,
+            "link_id": "t3_cdk8g7",
+            "parent_id": "t1_etuew5o",
+            "score": 2,
+            "stickied": false,
+            "author_name": "MisterCBax"
+        },
+        "etuew5o": {
+            "comment": "Looks like this is the new ransomware from the GandCrab team.\n\nSee: [this new Krebs article](https://krebsonsecurity.com/2019/07/is-revil-the-new-gandcrab-ransomware/)\n\n&gt;The cybercriminals behind the GandCrab ransomware-as-a-service (RaaS) offering recently announced they were closing up shop and retiring after having allegedly earned more than $2 billion in extortion payments from victims. But a growing body of evidence suggests the GandCrab team have instead quietly regrouped behind a more exclusive and advanced ransomware program known variously as \u201cREvil,\u201d \u201cSodin,\u201d and \u201cSodinokibi.\u201d",
+            "timeStamp": "2019/07/15-10:16:56",
+            "id": "etuew5o",
+            "is_submitter": false,
+            "link_id": "t3_cdk8g7",
+            "parent_id": "t3_cdk8g7",
+            "score": 2,
+            "stickied": false,
+            "author_name": "DrinkMoreCodeMore"
+        }
+    }
+}

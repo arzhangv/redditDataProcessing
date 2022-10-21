@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi guys,\n\nI'm new in the business and want to build up an enterprise capable sandbox solution.\nI already found chuckoo - I'm not really sure if it fits my requirements.\n\nThe sandbox solution should be able to analyze malware automatically and also interactive. By interactive I mean running the malware manually and checking for registry changes e.g. via Regshot.\n\nHas anyone of you done something similar and could give me some tipps (maybe other solutions, vendors etc)?\n\nThanks,",
+        "title": "Sandbox solutions",
+        "score": 1,
+        "id": "ceu3g2",
+        "commsNum": 4,
+        "timeStamp": "2019/07/18-08:40:11",
+        "author_name": "User_644",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ceu3g2/sandbox_solutions/"
+    },
+    "posts": {
+        "ev1cd5z": {
+            "comment": "As far as On-Prem  commercial products  Viper ThreatAnalyzer  is mature and works well (the codebase has been  updated for almost a decade), the new hotness i think is the Crowdstrike Falcon Sandbox (formerly from [hybrid-nalysis.net](https://Analysis.net) ) , Cuckoo is a good of course",
+            "timeStamp": "2019/07/26-08:45:18",
+            "id": "ev1cd5z",
+            "is_submitter": false,
+            "link_id": "t3_ceu3g2",
+            "parent_id": "t3_ceu3g2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "saxafruge"
+        },
+        "eudgc2w": {
+            "comment": "btw any other open source sandbox solutions besides cuckoo?",
+            "timeStamp": "2019/07/21-06:40:28",
+            "id": "eudgc2w",
+            "is_submitter": false,
+            "link_id": "t3_ceu3g2",
+            "parent_id": "t3_ceu3g2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "unicornh_1"
+        },
+        "eu5417b": {
+            "comment": "VMRay supports automatic and interactive analysis",
+            "timeStamp": "2019/07/18-10:03:50",
+            "id": "eu5417b",
+            "is_submitter": false,
+            "link_id": "t3_ceu3g2",
+            "parent_id": "t3_ceu3g2",
+            "score": 2,
+            "stickied": false,
+            "author_name": "tboro1"
+        },
+        "eu515dk": {
+            "comment": "Not to my knowledge. But you could setup cuckoo sandbox, and drop the cuckoo agent on a machine you setup with flarevm so you can have the tools to do the manual analysis when you want.",
+            "timeStamp": "2019/07/18-09:34:24",
+            "id": "eu515dk",
+            "is_submitter": false,
+            "link_id": "t3_ceu3g2",
+            "parent_id": "t3_ceu3g2",
+            "score": 3,
+            "stickied": false,
+            "author_name": "Cypher848"
+        }
+    }
+}

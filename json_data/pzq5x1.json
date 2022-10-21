@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hi. \n\nI had this since last week and it is getting on my nerves. I can't use wikipedia or quora, (It will just say i was sent incorrect info) i have 2 anti-viruses and they don't detect it. whats happening?",
+        "title": "Wikipedia privacy error.",
+        "score": 1,
+        "id": "pzq5x1",
+        "commsNum": 2,
+        "timeStamp": "2021/10/01-23:53:32",
+        "author_name": "JesseLikesBeans",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/pzq5x1/wikipedia_privacy_error/"
+    },
+    "posts": {
+        "hf3i9kd": {
+            "comment": "Using 2 antivirus is unnecessary, they might be interfering and might also impact performance.",
+            "timeStamp": "2021/10/02-06:43:35",
+            "id": "hf3i9kd",
+            "is_submitter": false,
+            "link_id": "t3_pzq5x1",
+            "parent_id": "t3_pzq5x1",
+            "score": 3,
+            "stickied": false,
+            "author_name": "sl0w_photon"
+        },
+        "hf2nqyt": {
+            "comment": "Are your passwords saved on the computer or you personally type them in?",
+            "timeStamp": "2021/10/02-00:51:01",
+            "id": "hf2nqyt",
+            "is_submitter": false,
+            "link_id": "t3_pzq5x1",
+            "parent_id": "t3_pzq5x1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "JackassJames"
+        }
+    }
+}

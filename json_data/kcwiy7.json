@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I was going to access YouTube when I got the screen with the monkey that says \u201cSomething went wrong.\u201d I went to my Google account to see if that was the problem. It turns out that there is a malware issue. The issue is on my phone, and took not only my one account, but also my other one. Please help.",
+        "title": "Google account has malware problem",
+        "score": 1,
+        "id": "kcwiy7",
+        "commsNum": 3,
+        "timeStamp": "2020/12/14-04:12:48",
+        "author_name": "Bat-Sufficient",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/kcwiy7/google_account_has_malware_problem/"
+    },
+    "posts": {
+        "gft1fyp": {
+            "comment": "Are they being attacked?",
+            "timeStamp": "2020/12/14-04:37:35",
+            "id": "gft1fyp",
+            "is_submitter": false,
+            "link_id": "t3_kcwiy7",
+            "parent_id": "t1_gft12rr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ivie1976"
+        },
+        "gft12rr": {
+            "comment": "Yeah I just checked r/techsupport. Theres a live issue where people can\u2019t access YouTube, Gmail, or their Google accounts. YouTube can work through incognito as of right now, because you aren\u2019t logging into the servers. Hopefully this is all resolved soon.",
+            "timeStamp": "2020/12/14-04:33:16",
+            "id": "gft12rr",
+            "is_submitter": true,
+            "link_id": "t3_kcwiy7",
+            "parent_id": "t1_gft0s3y",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Bat-Sufficient"
+        },
+        "gft0s3y": {
+            "comment": "Not just you, I think Google is having system wide issues right now",
+            "timeStamp": "2020/12/14-04:29:58",
+            "id": "gft0s3y",
+            "is_submitter": false,
+            "link_id": "t3_kcwiy7",
+            "parent_id": "t3_kcwiy7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ivie1976"
+        }
+    }
+}

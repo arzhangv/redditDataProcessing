@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "FBI Releases Master Decryption Keys for GandCrab Ransomware",
+        "score": 98,
+        "id": "cdxwc7",
+        "commsNum": 1,
+        "timeStamp": "2019/07/16-07:39:47",
+        "author_name": "DrinkMoreCodeMore",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.bleepingcomputer.com/news/security/fbi-releases-master-decryption-keys-for-gandcrab-ransomware/"
+    },
+    "posts": {
+        "etz8s7p": {
+            "comment": "Does anyone knows ransomware decryptor which need to input private key manually?",
+            "timeStamp": "2019/07/16-18:54:34",
+            "id": "etz8s7p",
+            "is_submitter": false,
+            "link_id": "t3_cdxwc7",
+            "parent_id": "t3_cdxwc7",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Mooness06"
+        }
+    }
+}

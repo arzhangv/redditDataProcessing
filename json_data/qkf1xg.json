@@ -1,0 +1,132 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "So... I was doing a replacement download of a file that had been corrupted. I downloaded it from a trusted site but at the time of checking the file it wasn't exactly what I imagined but I downloaded Setup in a hurry.\nProblem is it wasn't the file I wanted and a red light came on when I saw two .EXE files on my desktop and changing the ending to .COOL and encrypting the files (for example files in .TXT even after removing the ending .COOL being totally unusable and unreadable).\n\nOn my Local Disk (C) there were two new folders one \"END\" and another folder in .TXT I was sure they didn't belong on my Disk. In the .TXT file there was the typical hacker group message and a linked email (which I didn't take note of in haste). The message said not to worry about losing the files, contact the email and pay an amount for the \"ransom\".\n\nThe fact is that I changed my HD a little while ago and I didn't have much to lose. I did a cleanup of all files, executables and programs that were associated with strange PC processes and services (With task manager).\n\nAfter cleaning and scanning the PC for 10 times I did the system recovery (keeping my folders).\nProblem solved!\nBy the time I went to do other downloads of my Apps and noticed that something strange was happening in the browser.\n\n- Which was the fact that I was trying to download a 2.4GB file and the browser started downloading a 154KB file named \"Your+File+Is+Ready+To+Download\" .ZIP file with a folder Setup &gt; Septup.ZIP (with a .TXT file saying the password [237385] to the other Setup) and the last Setup. \n\nI tried it on 2 different sites and the same download appeared with the same templates until the moment the same download changed its name to the name of the actual download I was trying to do.\nIt wasn't a joke. They were trying to attack me again.\n\nThat was this morning. I will do a check of the websites and the remaining browser files. Because apparently it is necessary to run the Setup for an attack to act.\n\nI decided to post this today as I have been using the internet for all sorts of dangerous things for over 5 years and nothing like that has happened to me as I have always taken precautions and been careful.\n\nI figured it was something new i think...\n\nSo if you're trying to download something, check the downloads carefully and if you have the parameters that i mentioned above dont go for It. ITS BAIT.",
+        "title": "Malwere Report",
+        "score": 1,
+        "id": "qkf1xg",
+        "commsNum": 10,
+        "timeStamp": "2021/11/01-07:21:54",
+        "author_name": "EdgerGPlay",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 10,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/qkf1xg/malwere_report/"
+    },
+    "posts": {
+        "hizg9jw": {
+            "comment": "You're right.",
+            "timeStamp": "2021/11/01-23:59:47",
+            "id": "hizg9jw",
+            "is_submitter": true,
+            "link_id": "t3_qkf1xg",
+            "parent_id": "t1_hize627",
+            "score": 1,
+            "stickied": false,
+            "author_name": "EdgerGPlay"
+        },
+        "hize627": {
+            "comment": "i've seen a couple of attacks that were targeting specific countries only, and they were hosting an array of different \"templates\" on the hijacked websites (i.e. \"letter to municipal services template\" was hosted on some \"somerealestate.com\") and a ransomware was downloaded and run.\n\n\nthose are \" weaker\" attacks as they require user interaction, so attackers are working hard in order to present a wide array of \"useful files\" and disguise them as original files/documents, in order to get less suspecting users to click them. (\"stronger\" attacks do not require end user interaction and are instead exploiting some vulnerability to pwn the machine without user needing to click anything specific)\n\n\nways to prevent it is to ALWAYS check the source; make sure that the whole domain you are visiting is indeed something you intended to search for...",
+            "timeStamp": "2021/11/01-23:29:54",
+            "id": "hize627",
+            "is_submitter": false,
+            "link_id": "t3_qkf1xg",
+            "parent_id": "t3_qkf1xg",
+            "score": 2,
+            "stickied": false,
+            "author_name": "apatrid"
+        },
+        "hixxbm3": {
+            "comment": "Maybe my m8...\nI did a reinstallation and a file cleanup (both my folders and computer run files [using command prompt]).\n\nI did other tests on the browser after cleaning and the problem no longer occurred. Maybe some remote trigger? Without an algorithm I think.\n\nAnyway, it looked like I needed the Setup executable for something more serious to happen.",
+            "timeStamp": "2021/11/01-15:46:41",
+            "id": "hixxbm3",
+            "is_submitter": true,
+            "link_id": "t3_qkf1xg",
+            "parent_id": "t1_hixvz3g",
+            "score": 1,
+            "stickied": false,
+            "author_name": "EdgerGPlay"
+        },
+        "hixvz3g": {
+            "comment": "You might have been hit with a browser hijacking attack. The same behaviour could hypothetically happen (though I've never heard it) from one",
+            "timeStamp": "2021/11/01-15:36:49",
+            "id": "hixvz3g",
+            "is_submitter": false,
+            "link_id": "t3_qkf1xg",
+            "parent_id": "t3_qkf1xg",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Mysterious_Ad7232"
+        },
+        "hixftru": {
+            "comment": "I will give it a try.",
+            "timeStamp": "2021/11/01-13:43:35",
+            "id": "hixftru",
+            "is_submitter": true,
+            "link_id": "t3_qkf1xg",
+            "parent_id": "t1_hiwrf99",
+            "score": 1,
+            "stickied": false,
+            "author_name": "EdgerGPlay"
+        },
+        "hixeyka": {
+            "comment": "Would love to take a look at the file if you can dm me a hash. If you have it in VT already I can download through there also.",
+            "timeStamp": "2021/11/01-13:37:45",
+            "id": "hixeyka",
+            "is_submitter": false,
+            "link_id": "t3_qkf1xg",
+            "parent_id": "t3_qkf1xg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "HomeGrownCoder"
+        },
+        "hiwrnvk": {
+            "comment": "[removed]",
+            "timeStamp": "2021/11/01-10:59:54",
+            "id": "hiwrnvk",
+            "is_submitter": false,
+            "link_id": "t3_qkf1xg",
+            "parent_id": "t3_qkf1xg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hiwrf99": {
+            "comment": "Yep! That\u2019d be awesome. However you\u2019re willing to share, I\u2019d love to poke some ransomware. \n\nIf you want a quick &amp; dirty analysis about it send it over to JoeSandbox.com as it\u2019ll be a while before I can dig in to it.",
+            "timeStamp": "2021/11/01-10:58:14",
+            "id": "hiwrf99",
+            "is_submitter": false,
+            "link_id": "t3_qkf1xg",
+            "parent_id": "t1_hiwkwkm",
+            "score": 2,
+            "stickied": false,
+            "author_name": "cea1990"
+        },
+        "hiwkwkm": {
+            "comment": "Yes I have the .ZIP folder of the file with both the names I said. In an area that won't get me into trouble.\n\nI didn't exactly get the processes he was running at the time. These were apparently random numbers that I had to finish to erase the virus folders before it could damage the integrity of the machine.\n\nI am familiar with all the programs and services that run in Task Manager. Suspicious programs had a directory other than the PC's ADM or the computer's SYSTEM. They didn't allow changes to either by normal means.\n\nI don't know how to upload photos here. But if you want the file with the Setup it's all yours.",
+            "timeStamp": "2021/11/01-10:13:36",
+            "id": "hiwkwkm",
+            "is_submitter": true,
+            "link_id": "t3_qkf1xg",
+            "parent_id": "t1_hiwisnh",
+            "score": 2,
+            "stickied": false,
+            "author_name": "EdgerGPlay"
+        },
+        "hiwisnh": {
+            "comment": "Got any pictures or screenshots of it doing it\u2019s thing? Did you grab a hash of the spooky file? \n\nWhat did your cleanup entail? What processes were running?",
+            "timeStamp": "2021/11/01-09:59:03",
+            "id": "hiwisnh",
+            "is_submitter": false,
+            "link_id": "t3_qkf1xg",
+            "parent_id": "t3_qkf1xg",
+            "score": 3,
+            "stickied": false,
+            "author_name": "cea1990"
+        }
+    }
+}

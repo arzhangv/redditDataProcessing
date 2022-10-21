@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "[removed]",
+        "title": "Question about SIFT toolset",
+        "score": 1,
+        "id": "v320zp",
+        "commsNum": 1,
+        "timeStamp": "2022/06/01-22:56:04",
+        "author_name": "soandso90",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/v320zp/question_about_sift_toolset/"
+    },
+    "posts": {
+        "ibe9e2f": {
+            "comment": "[removed]",
+            "timeStamp": "2022/06/06-11:32:20",
+            "id": "ibe9e2f",
+            "is_submitter": false,
+            "link_id": "t3_v320zp",
+            "parent_id": "t3_v320zp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ib945wk": {
+            "comment": "SIFT is supposed to save you the time of installing and configuring every tool/package, and lets you try all kinds of DFIR software.  Everything just works out of the box.  If there's only a few programs you want to install then you might be right, you don't need SIFT.\n\nBTW apparently there's a few programs that come with SIFT that aren't free to use in a business environment.  So that might be a problem depending on your situation.",
+            "timeStamp": "2022/06/05-06:58:14",
+            "id": "ib945wk",
+            "is_submitter": false,
+            "link_id": "t3_v320zp",
+            "parent_id": "t3_v320zp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "greyyit"
+        },
+        "iavqz0t": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators **and be sure to include the link to the post** - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2022/06/01-22:56:05",
+            "id": "iavqz0t",
+            "is_submitter": false,
+            "link_id": "t3_v320zp",
+            "parent_id": "t3_v320zp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

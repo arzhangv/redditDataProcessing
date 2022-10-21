@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "There's lots of evidence of anti-debugging, anti-virtualization, extraction of malicious files, process injection and alot of other suspicious things. Can anyone verify if this is real or a false positive?\n\nreport is here: [https://www.hybrid-analysis.com/sample/365fb8fd5185a8902282f73d1ce235aeb3e0b3d951aef9351f09a2e379dba8fc/61d9fe6aed51281dcf1c8288](https://www.hybrid-analysis.com/sample/365fb8fd5185a8902282f73d1ce235aeb3e0b3d951aef9351f09a2e379dba8fc/61d9fe6aed51281dcf1c8288)\n\noriginal sample (downloaded from the curseforge website a few minutes ago): [https://drive.google.com/file/d/1CIO5gOT4BoQguww5MobfQxDz2-RiRYPG/view?usp=sharing](https://drive.google.com/file/d/1CIO5gOT4BoQguww5MobfQxDz2-RiRYPG/view?usp=sharing)",
+        "title": "CurseForge installer scored 100/100 on hybrid analysis",
+        "score": 1,
+        "id": "rzb1is",
+        "commsNum": 0,
+        "timeStamp": "2022/01/08-13:51:43",
+        "author_name": "KCGD_r",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/rzb1is/curseforge_installer_scored_100100_on_hybrid/"
+    },
+    "posts": {
+        "hrued76": {
+            "comment": "ah ok. Good to know I don't need to go burning all my drives lol",
+            "timeStamp": "2022/01/08-15:53:44",
+            "id": "hrued76",
+            "is_submitter": true,
+            "link_id": "t3_rzb1is",
+            "parent_id": "t1_hru8ht4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "KCGD_r"
+        },
+        "hru8ht4": {
+            "comment": "Yes it's a false positive; the signature is fine and none of the behaviours or indicators it is flagging are unexpected or worrying",
+            "timeStamp": "2022/01/08-15:13:18",
+            "id": "hru8ht4",
+            "is_submitter": false,
+            "link_id": "t3_rzb1is",
+            "parent_id": "t3_rzb1is",
+            "score": 1,
+            "stickied": false,
+            "author_name": "testudobinarii"
+        }
+    }
+}

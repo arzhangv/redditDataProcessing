@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Analyzing a Malicious Spreadsheet Dropping a DLL",
+        "score": 28,
+        "id": "d5wgk2",
+        "commsNum": 0,
+        "timeStamp": "2019/09/18-04:36:59",
+        "author_name": "daanraman",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://blog.nviso.be/2019/09/18/malicious-spreadsheet-dropping-a-dll/"
+    },
+    "posts": {}
+}

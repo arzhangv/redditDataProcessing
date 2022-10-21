@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Scripting Macs With Malice | How Shlayer and Other Malware Installers Infect macOS | SentinelOne",
+        "score": 1,
+        "id": "ew8s9z",
+        "commsNum": 0,
+        "timeStamp": "2020/01/30-09:17:54",
+        "author_name": "Cyberthere",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.sentinelone.com/blog/scripting-macs-with-malice-how-shlayer-and-other-malware-installers-infect-macos/"
+    },
+    "posts": {}
+}

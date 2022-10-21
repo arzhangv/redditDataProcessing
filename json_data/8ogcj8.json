@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Good morning,\n\nI have just released \u201cSome Assembly Required\u201d, the first episode in the new Introduction to Malware Analysis series. In this video, we\u2019ll look at an unpacked and packed version of a very basic Windows binary. We'll compare the two files in IDA and note the major differences. Then, pretending the packed binary is malware, we'll perform dynamic analysis on the file using x64dbg, with the goal of allowing the code to execute until the binary unpacks itself in memory. Once unpacked, we'll explore how we can dump that binary to disk for further analysis.\n\nVideo:\nhttps://www.youtube.com/watch?v=-Ml04jPMH3U\n\nChannel:\nhttps://www.youtube.com/13cubed\n\nPatreon (Early access to videos and more):\nhttps://www.patreon.com/13cubed\n\nEnjoy!",
+        "title": "Some Assembly Required (X-Post)",
+        "score": 48,
+        "id": "8ogcj8",
+        "commsNum": 3,
+        "timeStamp": "2018/06/04-03:55:10",
+        "author_name": "13Cubed",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8ogcj8/some_assembly_required_xpost/"
+    },
+    "posts": {
+        "e04nmh0": {
+            "comment": "Damn pleas do keep running this series ",
+            "timeStamp": "2018/06/04-19:32:58",
+            "id": "e04nmh0",
+            "is_submitter": false,
+            "link_id": "t3_8ogcj8",
+            "parent_id": "t3_8ogcj8",
+            "score": 2,
+            "stickied": false,
+            "author_name": "pizzarulzz"
+        },
+        "e035c4m": {
+            "comment": "Thanks -- I appreciate it.",
+            "timeStamp": "2018/06/04-04:47:36",
+            "id": "e035c4m",
+            "is_submitter": true,
+            "link_id": "t3_8ogcj8",
+            "parent_id": "t1_e034vnu",
+            "score": 5,
+            "stickied": false,
+            "author_name": "13Cubed"
+        },
+        "e034vnu": {
+            "comment": "I really enjoy your channel. Thanks for the content",
+            "timeStamp": "2018/06/04-04:34:57",
+            "id": "e034vnu",
+            "is_submitter": false,
+            "link_id": "t3_8ogcj8",
+            "parent_id": "t3_8ogcj8",
+            "score": 3,
+            "stickied": false,
+            "author_name": "cogphn"
+        }
+    }
+}

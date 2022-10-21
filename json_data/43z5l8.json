@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[deleted]",
+        "title": "Malware Must Die!: MMD-0051-2016 - Debungking a tiny ELF remote backdoor (a compiled shellcode via shellshock still kickass)",
+        "score": 1,
+        "id": "43z5l8",
+        "commsNum": 0,
+        "timeStamp": "2016/02/03-01:48:34",
+        "author_name": "[deleted]",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://blog.malwaremustdie.org/2016/02/mmd-0051-2016-debungking-tiny-elf.html"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "So like the title says, defender spotted bitrep b, which is a trojan, i let windows defender remove it, and i scanned my PC several times with malwarebytes after that,it found nothing tho, is there still a chance of the trojan remaining?",
+        "title": "Windows defender detected bitrep b",
+        "score": 1,
+        "id": "bsmfn1",
+        "commsNum": 0,
+        "timeStamp": "2019/05/24-14:18:44",
+        "author_name": "BilaryatBensec",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/bsmfn1/windows_defender_detected_bitrep_b/"
+    },
+    "posts": {}
+}

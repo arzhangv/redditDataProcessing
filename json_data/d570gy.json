@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hello I need a malware dataset that should have fields like the name of the malware, type, target, os, etc,. I only need a small dataset. Does anyone know of any open datasets I can use?",
+        "title": "Malware Report/Analysis Dataset",
+        "score": 3,
+        "id": "d570gy",
+        "commsNum": 3,
+        "timeStamp": "2019/09/16-14:31:35",
+        "author_name": "CrimsonWoIf",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/d570gy/malware_reportanalysis_dataset/"
+    },
+    "posts": {
+        "f0l5w2g": {
+            "comment": "https://github.com/ytisf/theZoo",
+            "timeStamp": "2019/09/16-23:00:29",
+            "id": "f0l5w2g",
+            "is_submitter": false,
+            "link_id": "t3_d570gy",
+            "parent_id": "t3_d570gy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "NotASmurfAccount"
+        },
+        "f0l1nkp": {
+            "comment": "Additionally https://malpedia.caad.fkie.fraunhofer.de/ would be a good source for this type of information",
+            "timeStamp": "2019/09/16-21:35:55",
+            "id": "f0l1nkp",
+            "is_submitter": false,
+            "link_id": "t3_d570gy",
+            "parent_id": "t3_d570gy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mikiozen"
+        },
+        "f0l1mhl": {
+            "comment": "Here is a dataset with 250K records from malware sandbox executions. http://www.hexacorn.com/blog/2017/12/31/happy-new-year-2018-get-yourself-logs-from-250k-sandboxed-samples/",
+            "timeStamp": "2019/09/16-21:35:24",
+            "id": "f0l1mhl",
+            "is_submitter": false,
+            "link_id": "t3_d570gy",
+            "parent_id": "t3_d570gy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mikiozen"
+        }
+    }
+}

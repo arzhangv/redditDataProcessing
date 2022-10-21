@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": 0.8,
+        "selftext": "I'm tracking down some suspicious URLs. They all redirect to one particular site. When I browse to the site (in my VM) the first time it takes about 20 seconds to respond. Subsequent requests take a second or less. This makes me suspect an exploit kit where they've got some OPSEC to prevent them from repeatedly throwing exploits to a researcher.\n\nAll the searches I've done on how to determine if a site hosts an exploit kit fall under one of two categories:\n\n1. A threat intelligence report about the numbers of kits seen without how they've made that determination.\n2. Academic papers on proposed exploit kit fingerprinting techniques.\n\n**My only goal is to make a yes/no determination on whether the site is hosting an exploit kit**. I'm not interested at this point about which kit or which exploits. So far I've just been using the network diagnostic tool in Firefox (inside VirtualBox). Is there a basic guide that someone has authored on manually exploring an exploit kit?",
+        "title": "Determining if a Site Hosts an Exploit Kit",
+        "score": 16,
+        "id": "hv15z8",
+        "commsNum": 7,
+        "timeStamp": "2020/07/20-21:52:22",
+        "author_name": "UnknownBinary",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/hv15z8/determining_if_a_site_hosts_an_exploit_kit/"
+    },
+    "posts": {
+        "fyvipez": {
+            "comment": "Thanks for the tip. I was hoping to find a service like Anyrun. It seems to have potential. I'm already able to run some samples through it. I like that I can interact with the VM/browser. It will probably take some time before I can actually use it to its full potential.",
+            "timeStamp": "2020/07/22-07:31:26",
+            "id": "fyvipez",
+            "is_submitter": true,
+            "link_id": "t3_hv15z8",
+            "parent_id": "t1_fyr8uaz",
+            "score": 2,
+            "stickied": false,
+            "author_name": "UnknownBinary"
+        },
+        "fyubzpr": {
+            "comment": "Questions are always welcome.\n\nI typically use Wireshark as an analysis tool for interpreting packet flows. It does perform packet capture but its largely indiscriminate in what it captures and depending on how long you capture for, you could easily end up with something unwieldy. Filtering is good but it can be a hindrance if you aren't looking for something specific. \n\nI think Wireshark would work for OPs situation but s/he is likely to be stuck with too many packets. That's why I suggested using something like snort or suricata (both open source, free, and have thousands of signatures). However, since it's web traffic, I'd recommend Burp Suite first and foremost.\n\nThere are many ways to skin this cat, but I'm just offering up how I would approach it.",
+            "timeStamp": "2020/07/21-21:43:57",
+            "id": "fyubzpr",
+            "is_submitter": false,
+            "link_id": "t3_hv15z8",
+            "parent_id": "t1_fyu3q35",
+            "score": 3,
+            "stickied": false,
+            "author_name": "WadeEffingWilson"
+        },
+        "fyu3q35": {
+            "comment": "Just curious, as I'm not actively involved in security these days. But why not use Wireshark?",
+            "timeStamp": "2020/07/21-20:11:28",
+            "id": "fyu3q35",
+            "is_submitter": false,
+            "link_id": "t3_hv15z8",
+            "parent_id": "t1_fyqpv1v",
+            "score": 2,
+            "stickied": false,
+            "author_name": "knighttim"
+        },
+        "fyr8uaz": {
+            "comment": "I forget what the Firefox network diagnostic tool already gives you but you could try to load the URL into https://any.run/ .\n\nAnyrun will show you any traffic or scripts that try initiating or running from that site. That might make it a little more obvious if an exploit kit is hosted there and what it's trying to do.",
+            "timeStamp": "2020/07/21-04:42:12",
+            "id": "fyr8uaz",
+            "is_submitter": false,
+            "link_id": "t3_hv15z8",
+            "parent_id": "t3_hv15z8",
+            "score": 6,
+            "stickied": false,
+            "author_name": "wakko45"
+        },
+        "fyqpv1v": {
+            "comment": "I believe what you're looking to do is detect if something illegitimate is going on behind the scenes. The best way to accomplish this is with a packet capture (PCAP) or something like Burp Suite (to step through each HTTP request). Many exploits look to avoid detection, so checking out the traffic can help demystify what is going on when you visit the site.\n\nTrawling the waters without looking for something specific can be daunting, especially if you don't already have a strong background in the protocols you'd likely run across when analyzing PCAP. However, you can use signature-based detection strategies and rules to help single out known-bad packets to help tip you off (eg, snort &amp; suricata). The only issue with signature-based detection is that it can't alert on something it doesn't know. If you don't have a rule for something malicious, your detection engine won't help much.\n\nIf you're sourcing questionable CTI reports without independent and objective confirmation, you are likely looking in the wrong place. Check out proof-of-concepts and exploits--those are veritable treasure troves.\n\nAs for adversarial fingerprinting, that process is usually done externally and you shouldn't see it on the wire. There are ways around this, though. If you have a malicious site/IP and you see something that might point to a file or script, you can attempt to pull that file down and perform a static analysis on it. I've seen many intermediate droppers that determine the environment first and then download the particular payload. Seeing how that is done is likely to help quite a bit in what you're looking for.\n\nUnfortunately, making a binary determination on whether something is good or bad can be extremely complex (to the point of nonfeasibility) due to accounting for all possible permutations and isn't considered reliable. The standard approach is to use security tools\\\\appliance and then have an analyst determine if it's good or bad.\n\nHope this helps.",
+            "timeStamp": "2020/07/20-23:29:57",
+            "id": "fyqpv1v",
+            "is_submitter": false,
+            "link_id": "t3_hv15z8",
+            "parent_id": "t3_hv15z8",
+            "score": 12,
+            "stickied": false,
+            "author_name": "WadeEffingWilson"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Symantec Whitepaper on ZeroAccess",
+        "score": 5,
+        "id": "rmnv2",
+        "commsNum": 1,
+        "timeStamp": "2012/03/31-11:40:24",
+        "author_name": "Nugsly",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": null,
+        "url": "http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/trojan_zeroaccess_infection_analysis.pdf"
+    },
+    "posts": {}
+}

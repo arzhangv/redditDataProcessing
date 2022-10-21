@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "As title says, suddenly, it looked like my computer checked Sade's official website (which I have never visited) and downloaded the main page to my desktop. I thought it was a weird error, so I deleted it, and then they appeared again, but this time it was called \"Google files\", but the files inside were Sade's website. I can't imagine this being anything other than malware, but it would be weird, in the 10 years I've had this mac, I haven't gotten a single virus ever. I did my searches, and couldn't find anything about this, so if anyone has any idea as to why this may be happening, and if it is indeed malware, I'd appreciate if you could share that info here. Thanks in advance.",
+        "title": "\"Sade Official website\" files suddenly appeared on my desktop (OSX Snow Leopard)",
+        "score": 1,
+        "id": "f0kpml",
+        "commsNum": 2,
+        "timeStamp": "2020/02/07-17:49:26",
+        "author_name": "MaxKroven",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/f0kpml/sade_official_website_files_suddenly_appeared_on/"
+    },
+    "posts": {
+        "fgx5q4z": {
+            "comment": "Thanks, i was hoping it wasn't... it would be too weird for a malware to do something so innocuous like this.",
+            "timeStamp": "2020/02/08-05:43:29",
+            "id": "fgx5q4z",
+            "is_submitter": true,
+            "link_id": "t3_f0kpml",
+            "parent_id": "t1_fgwlipm",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MaxKroven"
+        },
+        "fgwlipm": {
+            "comment": "Go to a general tech support subreddit because your problem is most certainly not malware",
+            "timeStamp": "2020/02/08-03:50:01",
+            "id": "fgwlipm",
+            "is_submitter": false,
+            "link_id": "t3_f0kpml",
+            "parent_id": "t3_f0kpml",
+            "score": 1,
+            "stickied": false,
+            "author_name": "warmr2d2"
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Widespread botnet using infected Android devices launched massive attack against multiple cloud providers this month",
+        "score": 35,
+        "id": "6wjpda",
+        "commsNum": 2,
+        "timeStamp": "2017/08/28-07:24:56",
+        "author_name": "vcardteacher",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://blogs.akamai.com/2017/08/the-wirex-botnet-an-example-of-cross-organizational-cooperation.html"
+    },
+    "posts": {
+        "dm964ns": {
+            "comment": "Take the battery out",
+            "timeStamp": "2017/08/28-14:55:36",
+            "id": "dm964ns",
+            "is_submitter": false,
+            "link_id": "t3_6wjpda",
+            "parent_id": "t1_dm8knvy",
+            "score": 3,
+            "stickied": false,
+            "author_name": "ragnar_graybeard87"
+        },
+        "dm8knvy": {
+            "comment": "How can I make sure my phone isn't part of this bot net?",
+            "timeStamp": "2017/08/28-08:30:12",
+            "id": "dm8knvy",
+            "is_submitter": false,
+            "link_id": "t3_6wjpda",
+            "parent_id": "t3_6wjpda",
+            "score": 7,
+            "stickied": false,
+            "author_name": "BabiesDrivingGoKarts"
+        }
+    }
+}

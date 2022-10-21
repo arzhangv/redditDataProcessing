@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I wanted to initiate a discussion on the current possibility of a computer owned by an average user being hacked by a person with a high degree of expertise in the field.\n\nMost malware gets activated because of user mess up. Software that was not supposed to run, has been. I purpose the following scenario: how \"hackable\", for lack of a better word, is the average user?\n\nHow likely is a user that is willing to be overly cautious online to get hacked, if targeted? Many will say it's 100% since with good enough social engineering you could get in any system. Let's say then our User does not have any social contact with anyone, theoretically. We will also suppose that the physical location of the machine is unknown, that it runs Windows, that it is connected to the internet and that it runs a number of common applications (no AV).\n\nWhat else could be used to break into this machine? From my point of view the chances are slim to none. How do you view this?\n\n",
+        "title": "Not every computer is hackable",
+        "score": 0,
+        "id": "5hybuc",
+        "commsNum": 25,
+        "timeStamp": "2016/12/12-10:40:12",
+        "author_name": "_Nexor",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 25,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5hybuc/not_every_computer_is_hackable/"
+    },
+    "posts": {}
+}

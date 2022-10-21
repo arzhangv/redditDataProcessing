@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[removed]",
+        "title": "Going on a cruise? Rest assured that malware is coming along for the ride",
+        "score": 1,
+        "id": "a5zybt",
+        "commsNum": 2,
+        "timeStamp": "2018/12/13-17:18:58",
+        "author_name": "vickiearse",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/a5zybt/going_on_a_cruise_rest_assured_that_malware_is/"
+    },
+    "posts": {
+        "ebqkest": {
+            "comment": "[removed]",
+            "timeStamp": "2018/12/13-17:18:59",
+            "id": "ebqkest",
+            "is_submitter": false,
+            "link_id": "t3_a5zybt",
+            "parent_id": "t3_a5zybt",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

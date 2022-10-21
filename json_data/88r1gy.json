@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hello, what are some good debuggers for Linux? Ive been using radare2 but what I am trying to reverse is calling the PLT and radare doesn't resolve those to the function name. GDB is just kind of a pain in the ass, it doesn't let me easily step through a function while showing me the dissabmly and register values. Is there any better tools? One that peefferably can integrate with a static disassemble where I can rename functions/variables and set breakpoints",
+        "title": "Better tools for reversing malware on Linux?",
+        "score": 11,
+        "id": "88r1gy",
+        "commsNum": 4,
+        "timeStamp": "2018/04/01-07:12:12",
+        "author_name": "4e4f5045",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/88r1gy/better_tools_for_reversing_malware_on_linux/"
+    },
+    "posts": {
+        "dwo6dqx": {
+            "comment": "Radare2, readelf... ",
+            "timeStamp": "2018/04/02-05:50:56",
+            "id": "dwo6dqx",
+            "is_submitter": false,
+            "link_id": "t3_88r1gy",
+            "parent_id": "t1_dwn4lbk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sinkmanu"
+        },
+        "dwnlp99": {
+            "comment": "Ida and cuckoo sandbox is what I use.",
+            "timeStamp": "2018/04/01-18:49:08",
+            "id": "dwnlp99",
+            "is_submitter": false,
+            "link_id": "t3_88r1gy",
+            "parent_id": "t3_88r1gy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "PirateGrievous"
+        },
+        "dwn4lbk": {
+            "comment": "Also objdump , it's pretty cool ",
+            "timeStamp": "2018/04/01-13:14:20",
+            "id": "dwn4lbk",
+            "is_submitter": false,
+            "link_id": "t3_88r1gy",
+            "parent_id": "t1_dwmqfz2",
+            "score": 2,
+            "stickied": false,
+            "author_name": "0x006"
+        },
+        "dwmqfz2": {
+            "comment": "did you try gdb peda ? Binary ninja, ida, hopper...",
+            "timeStamp": "2018/04/01-08:54:54",
+            "id": "dwmqfz2",
+            "is_submitter": false,
+            "link_id": "t3_88r1gy",
+            "parent_id": "t3_88r1gy",
+            "score": 8,
+            "stickied": false,
+            "author_name": "neolex29"
+        }
+    }
+}

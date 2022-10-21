@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": " Posted by Soulskill on Friday February 13, 2015 @10:59AM \n\n\nNew submitter Dharkfiber sends an article about the Hardened Anti-Reverse Engineering System (HARES), which is an encryption tool for software that doesn't allow the code to be decrypted until the last possible moment before it's executed. The purpose is to make applications as opaque as possible to malicious hackers trying to find vulnerabilities to exploit. It's likely to find work as an anti-piracy tool as well. To keep reverse engineering tools in the dark, HARES uses a hardware trick that\u2019s possible with Intel and AMD chips called a Translation Lookaside Buffer (or TLB) Split. That TLB Split segregates the portion of a computer\u2019s memory where a program stores its data from the portion where it stores its own code\u2019s instructions. HARES keeps everything in that \u201cinstructions\u201d portion of memory encrypted such that it can only be decrypted with a key that resides in the computer\u2019s processor. (That means even sophisticated tricks like a \u201ccold boot attack,\u201d which literally freezes the data in a computer\u2019s RAM, can\u2019t pull the key out of memory.) When a common reverse engineering tool like IDA Pro reads the computer\u2019s memory to find the program\u2019s instructions, that TLB split redirects the reverse engineering tool to the section of memory that\u2019s filled with encrypted, unreadable commands.\n",
+        "title": "New Malware encryption method to thwart reverse engineering attempts",
+        "score": 7,
+        "id": "2vso8k",
+        "commsNum": 10,
+        "timeStamp": "2015/02/13-11:30:22",
+        "author_name": "sh1nu11bi",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 10,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2vso8k/new_malware_encryption_method_to_thwart_reverse/"
+    },
+    "posts": {}
+}

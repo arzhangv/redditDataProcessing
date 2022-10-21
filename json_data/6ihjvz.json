@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "NSA Malware Used to Infect Windows PCs with Cryptocurrency Miner",
+        "score": 25,
+        "id": "6ihjvz",
+        "commsNum": 7,
+        "timeStamp": "2017/06/20-15:29:28",
+        "author_name": "brokercx",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.bleepingcomputer.com/news/security/nsa-malware-used-to-infect-windows-pcs-with-cryptocurrency-miner/"
+    },
+    "posts": {}
+}

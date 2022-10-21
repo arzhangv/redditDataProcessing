@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Malspam campaign using Google DNS service",
+        "score": 27,
+        "id": "byyc4h",
+        "commsNum": 3,
+        "timeStamp": "2019/06/10-07:12:31",
+        "author_name": "Neuroapex",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://myonlinesecurity.co.uk/it-looks-like-another-dns-compromise-hack-happening/"
+    },
+    "posts": {
+        "eri0xs7": {
+            "comment": "That (issuing queries trough HTTPS) is a feature which multiple DNS servers offer, for example: https://dns.dns-over-https.com/dns-query?name=fetch.faonwvzso.ourmazdcompany.net&amp;type=TXT\n\nSo this is not specific to Google DNS service, nor is it something that Google can easily do something about.",
+            "timeStamp": "2019/06/18-12:45:34",
+            "id": "eri0xs7",
+            "is_submitter": false,
+            "link_id": "t3_byyc4h",
+            "parent_id": "t1_eqr1kgr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "cdman"
+        },
+        "eqr1kgr": {
+            "comment": "This particular malspam campaign *and article* is specific to Google's DNS  service though. You cannot run  `dig -t TXT` [`fetch.faonwvzso.ourmazdcompany.net`](https://fetch.faonwvzso.ourmazdcompany.net)  in a HTML file. The title of the article on the website is \"It looks like another DNS compromise hack happening\" so I gave it a more informative headline.",
+            "timeStamp": "2019/06/11-01:49:47",
+            "id": "eqr1kgr",
+            "is_submitter": true,
+            "link_id": "t3_byyc4h",
+            "parent_id": "t1_eqr0n87",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Neuroapex"
+        },
+        "eqr0n87": {
+            "comment": "This is not specific to Google's DNS service. You can see the same thing returned by just doing `dig -t TXT fetch.faonwvzso.ourmazdcompany.net`. So please remove the clickbait-y headline (which is not even the title of the article!)",
+            "timeStamp": "2019/06/11-01:25:04",
+            "id": "eqr0n87",
+            "is_submitter": false,
+            "link_id": "t3_byyc4h",
+            "parent_id": "t3_byyc4h",
+            "score": 2,
+            "stickied": false,
+            "author_name": "cdman"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "CCleaner Command and Control Causes Concern",
+        "score": 45,
+        "id": "71ewps",
+        "commsNum": 3,
+        "timeStamp": "2017/09/20-15:49:36",
+        "author_name": "crashish",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://blog.talosintelligence.com/2017/09/ccleaner-c2-concern.html"
+    },
+    "posts": {}
+}

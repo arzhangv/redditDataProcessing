@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hello everyone, this is my first post here, I'm currently working on a Project for College that consists on gathering IOC's such as Hashes, Domains and IP's based on Running Malware.\n\nThe objective is to create a database of IOC's that can be used in Blacklist Mechanisms that I pretend to release as OSINT.\n\nCurrently I have downloaded Samples from different sources in the Internet but some of them come named with their Hash.\n\nFirst, I'm looking for a way to rename the Samples with a conventional name like: Trojan.Zbot\n\nI currently use VirusTotal's API to rename the samples based on the information that they have on it but im limited to 5500 queries per day. And currently I have like 500 000 Samples already.\n\nSecond, since I have already a big number of Samples I'm looking for an intelligent way to select what samples I will run next, and for this I'm looking to the following information:  imports, suspicious sections, suspicious compile date and if the name (after the sample is identified) is known.\n\nBased on this last information I have a simple rating mechanism, do you think there is another information I should look for in Static Analysis to add to the rating of the sample in order to chose which sample should run next?\n\nSorry if I didn't give enough Information, feel free to ask something...\n\nKind Regards.  \n",
+        "title": "Malware - Hash Identification",
+        "score": 6,
+        "id": "4kujf4",
+        "commsNum": 3,
+        "timeStamp": "2016/05/24-09:12:06",
+        "author_name": "MScout77",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/4kujf4/malware_hash_identification/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,99 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hello,\n\nI was wondering if anyone has samples of ransomware with rather weak encryption (i.e. early versions of LockCrypt). I'd love to get my hands on some for a potential research project.\n\nI have tried looking around malshare, virusshare, vx-underground etc. and found some samples but didn't look too much into their cryptographic security.\n\nAny help would be appreciated!",
+        "title": "Weak Ransomware Samples",
+        "score": 1,
+        "id": "euxda4",
+        "commsNum": 7,
+        "timeStamp": "2020/01/27-16:22:54",
+        "author_name": "rspic",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/euxda4/weak_ransomware_samples/"
+    },
+    "posts": {
+        "ffto8kw": {
+            "comment": "Oh miss understood sorry bout that",
+            "timeStamp": "2020/01/28-07:31:18",
+            "id": "ffto8kw",
+            "is_submitter": false,
+            "link_id": "t3_euxda4",
+            "parent_id": "t1_fftkkys",
+            "score": 1,
+            "stickied": false,
+            "author_name": "canada_ay"
+        },
+        "fftl4eg": {
+            "comment": "Thank you!",
+            "timeStamp": "2020/01/28-06:55:50",
+            "id": "fftl4eg",
+            "is_submitter": true,
+            "link_id": "t3_euxda4",
+            "parent_id": "t1_fft4d22",
+            "score": 1,
+            "stickied": false,
+            "author_name": "rspic"
+        },
+        "fftkkys": {
+            "comment": "I have indeed, however as stated in a response to another comment: I am looking for ransomware that uses poor schemes to encrypt the files on a victims computer. I.e. improper implementation of usually strong cryptographical schemes, or their own custom ones.",
+            "timeStamp": "2020/01/28-06:49:28",
+            "id": "fftkkys",
+            "is_submitter": true,
+            "link_id": "t3_euxda4",
+            "parent_id": "t1_ffsc1r3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "rspic"
+        },
+        "fftkh34": {
+            "comment": "Well C2 channel would be one thing. What I meant by cryptographic weaknesses in particular however is schemes that they use to encrypt the files on a victim's computer. I.e. if you reversed the binary you could come up with a solution that decrypts the files without having the key etc.",
+            "timeStamp": "2020/01/28-06:48:11",
+            "id": "fftkh34",
+            "is_submitter": true,
+            "link_id": "t3_euxda4",
+            "parent_id": "t1_ffsare8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "rspic"
+        },
+        "fft4d22": {
+            "comment": "You can try your hands on the two ransomware samples available here: https://github.com/fwosar/presentations/tree/master/oxford\n\nStart with GetCrypt which has multiple hilarious bugs that allow you to break it. Jaff is a lot more complex.\n\nFeel free to hit me up if you need help.",
+            "timeStamp": "2020/01/28-02:14:13",
+            "id": "fft4d22",
+            "is_submitter": false,
+            "link_id": "t3_euxda4",
+            "parent_id": "t3_euxda4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "fwosar"
+        },
+        "ffsc1r3": {
+            "comment": "The zoo on git hub is what i look at but other than that idk.also \n\nHave you determined if the malware is packed(high entropy,very little returned from strings.exe)? \n\nupx is a common off the shelf packer. You could try and figure out what packer it's using then just use a tool to get a clean binary. Or use a debuger to stop execution after the binary unpacks its self, tho thats not guaranteed as it could try a few ways of preventing debugging. Those are generally the first steps of reversing malware tho theres more to it",
+            "timeStamp": "2020/01/27-18:22:14",
+            "id": "ffsc1r3",
+            "is_submitter": false,
+            "link_id": "t3_euxda4",
+            "parent_id": "t3_euxda4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "canada_ay"
+        },
+        "ffsare8": {
+            "comment": "Weak encryption in the C2 channel or as part of the malware's code obfuscation?",
+            "timeStamp": "2020/01/27-18:07:58",
+            "id": "ffsare8",
+            "is_submitter": false,
+            "link_id": "t3_euxda4",
+            "parent_id": "t3_euxda4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "FusionCarcass"
+        }
+    }
+}

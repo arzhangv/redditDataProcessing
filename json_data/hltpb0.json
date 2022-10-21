@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "DC441905 is a local DEFCON chapter in Worcester. We meet on the last Sunday of each month @ 7pm. Due to the ongoing pandemic these meets take place online.\n\nOur next meet is on the 26th July. Further details are available at dc441905.org",
+        "title": "DC441995",
+        "score": 4,
+        "id": "hltpb0",
+        "commsNum": 2,
+        "timeStamp": "2020/07/05-13:35:19",
+        "author_name": "DC441905",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/hltpb0/dc441995/"
+    },
+    "posts": {
+        "fx17fu5": {
+            "comment": "DEFCON chapters/groups are named after their area code. Outside the US the country code is appended. As we\u2019re in Worcester (01905) and the UK (44) our international number and area code are 441905.",
+            "timeStamp": "2020/07/05-13:50:19",
+            "id": "fx17fu5",
+            "is_submitter": true,
+            "link_id": "t3_hltpb0",
+            "parent_id": "t1_fx1747n",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DC441905"
+        },
+        "fx1747n": {
+            "comment": "Why the \u2018DC\u2019 and the numbers? Is there a certain meaning?",
+            "timeStamp": "2020/07/05-13:47:25",
+            "id": "fx1747n",
+            "is_submitter": false,
+            "link_id": "t3_hltpb0",
+            "parent_id": "t3_hltpb0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "FAKENAME381"
+        }
+    }
+}

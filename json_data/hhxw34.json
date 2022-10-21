@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "A software engineer with 15 years of experience warns against TikTok \u2022",
+        "score": 1,
+        "id": "hhxw34",
+        "commsNum": 5,
+        "timeStamp": "2020/06/29-04:06:34",
+        "author_name": "DonnieBrast",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://ccnews24.net/tiktok-privacy-issue/"
+    },
+    "posts": {
+        "fwmgxz1": {
+            "comment": "Bellingcat put out a great guide for doing OSINT on TikTok if anyone is interested, [Investigate TikTok Like A Pro](https://www.bellingcat.com/resources/2020/05/25/investigate-tiktok-like-a-pro/)",
+            "timeStamp": "2020/07/01-13:48:34",
+            "id": "fwmgxz1",
+            "is_submitter": false,
+            "link_id": "t3_hhxw34",
+            "parent_id": "t3_hhxw34",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DrinkMoreCodeMore"
+        },
+        "fwg4e19": {
+            "comment": "Nobody in Silicon Valley (or Toronto) will blink an eye at this",
+            "timeStamp": "2020/06/29-22:30:14",
+            "id": "fwg4e19",
+            "is_submitter": false,
+            "link_id": "t3_hhxw34",
+            "parent_id": "t3_hhxw34",
+            "score": 1,
+            "stickied": false,
+            "author_name": "tonythegoose"
+        },
+        "fwe76t6": {
+            "comment": "I'm just trying to find out why \"15 years of experience\" is worthy mentioning multiple times. That's an utterly useless metric.\n\nAnd don't post lame news aggregators. Link directly to the source article.",
+            "timeStamp": "2020/06/29-11:47:08",
+            "id": "fwe76t6",
+            "is_submitter": false,
+            "link_id": "t3_hhxw34",
+            "parent_id": "t3_hhxw34",
+            "score": 3,
+            "stickied": false,
+            "author_name": "LightningRurik"
+        },
+        "fwdj8zc": {
+            "comment": "Good job reading buddy!",
+            "timeStamp": "2020/06/29-08:36:29",
+            "id": "fwdj8zc",
+            "is_submitter": false,
+            "link_id": "t3_hhxw34",
+            "parent_id": "t1_fwdb7by",
+            "score": 1,
+            "stickied": false,
+            "author_name": "10_0_0_1"
+        },
+        "fwdb7by": {
+            "comment": "ooooo, a software engineer, this was already posted by apple",
+            "timeStamp": "2020/06/29-07:24:16",
+            "id": "fwdb7by",
+            "is_submitter": false,
+            "link_id": "t3_hhxw34",
+            "parent_id": "t3_hhxw34",
+            "score": 1,
+            "stickied": false,
+            "author_name": "gbdavidx"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "https://youtu.be/i5eCRek18kM\n\n\nUnderstanding file explicit loading, implicit loading and delay loading.\n\n\nA brief overview of the Export Address Table and Import Address Table and LDR MODULE structure. \n\n\nReview of double linked lists and forward traversing back backward traversing linked lists in LDR MODULEs.\n\n\nExample code of function pointers",
+        "title": "Windows Process Environment Block 2.5",
+        "score": 14,
+        "id": "76kj4t",
+        "commsNum": 0,
+        "timeStamp": "2017/10/15-11:02:15",
+        "author_name": "dwThread",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/76kj4t/windows_process_environment_block_25/"
+    },
+    "posts": {}
+}

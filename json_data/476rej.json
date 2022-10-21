@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi, I thought you guys might be interested in this. [Here's the full page (pastebin)](http://pastebin.com/raw/mkDzzjEv)",
+        "title": "Found some sort of VB Script malware on an HTML page, big encoded binary thing, something about svchost.exe, looks pretty nasty",
+        "score": 16,
+        "id": "476rej",
+        "commsNum": 16,
+        "timeStamp": "2016/02/23-06:18:07",
+        "author_name": "rwsr-xr-x",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 16,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/476rej/found_some_sort_of_vb_script_malware_on_an_html/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "The ACCDFISA malware family \u2013 Ransomware targeting Windows servers",
+        "score": 9,
+        "id": "vcku8",
+        "commsNum": 0,
+        "timeStamp": "2012/06/20-14:29:45",
+        "author_name": "g0dmoney",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": null,
+        "url": "http://blog.emsisoft.com/2012/04/11/the-accdfisa-malware-family-ransomware-targetting-windows-servers/"
+    },
+    "posts": {}
+}

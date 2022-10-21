@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "When I turned on my PC today, an executable launched, and now Chrome has a strange malware virus that tries to make it crash and prevents me from looking at my extension unless I reset the browser. MalwareBytes identified it as \u201cfreychang.fun\u201d, but despite reinstalling chrome, clearing downloads, removing programs from Control Panel, running Windows Anti-virus, chrome still isn\u2019t working right.",
+        "title": "\u201cfreychang.fun\u201d",
+        "score": 1,
+        "id": "vwq9oy",
+        "commsNum": 0,
+        "timeStamp": "2022/07/11-12:07:06",
+        "author_name": "Accomplished_Tart645",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/vwq9oy/freychangfun/"
+    },
+    "posts": {
+        "iftjf5u": {
+            "comment": "Did you expect anything less from such an Accomplished Tart?",
+            "timeStamp": "2022/07/11-21:55:15",
+            "id": "iftjf5u",
+            "is_submitter": false,
+            "link_id": "t3_vwq9oy",
+            "parent_id": "t1_ifs1wun",
+            "score": 1,
+            "stickied": false,
+            "author_name": "CoughMen"
+        },
+        "ifs1wun": {
+            "comment": "You replied to your own post. You didn't reply to the other comment by the way.",
+            "timeStamp": "2022/07/11-15:00:09",
+            "id": "ifs1wun",
+            "is_submitter": false,
+            "link_id": "t3_vwq9oy",
+            "parent_id": "t1_ifrmxbd",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Chengers"
+        },
+        "ifrmxbd": {
+            "comment": "I have. It also keeps reinstalling itself in the chrome_tab folder in my AppData/Local folder",
+            "timeStamp": "2022/07/11-13:22:06",
+            "id": "ifrmxbd",
+            "is_submitter": true,
+            "link_id": "t3_vwq9oy",
+            "parent_id": "t3_vwq9oy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Accomplished_Tart645"
+        },
+        "ifrbv1o": {
+            "comment": "Maybe try clearing your cache and cookies? And try running HitmanPro",
+            "timeStamp": "2022/07/11-12:09:40",
+            "id": "ifrbv1o",
+            "is_submitter": false,
+            "link_id": "t3_vwq9oy",
+            "parent_id": "t3_vwq9oy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MysticPulses"
+        }
+    }
+}

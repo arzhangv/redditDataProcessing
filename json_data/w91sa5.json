@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "A new batch of malicious Android apps filled with adware and malware was found on the Google Play Store that have been installed close to 10 million times on mobile devices.",
+        "score": 1,
+        "id": "w91sa5",
+        "commsNum": 0,
+        "timeStamp": "2022/07/26-18:54:27",
+        "author_name": "Late_Ice_9288",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.bleepingcomputer.com/news/security/new-android-malware-apps-installed-10-million-times-from-google-play/"
+    },
+    "posts": {
+        "ii1plh6": {
+            "comment": "[removed]",
+            "timeStamp": "2022/07/28-14:51:34",
+            "id": "ii1plh6",
+            "is_submitter": false,
+            "link_id": "t3_w91sa5",
+            "parent_id": "t1_ihvtoxy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ihvtoxy": {
+            "comment": "At this point I just assume if its: \n\n1. An app\n2. Free\n3. Useful\n4. Not made by a reputable company (Microsoft, Google etc)\n\nIt's malware. And to be quite frank.. any of the apps made by reputable companies are probably have malware like properties too \ud83d\ude06.. instead of outright scraping your CC they just sell your info and tendencies to 3rd parties instead",
+            "timeStamp": "2022/07/27-11:17:20",
+            "id": "ihvtoxy",
+            "is_submitter": false,
+            "link_id": "t3_w91sa5",
+            "parent_id": "t3_w91sa5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "concmap"
+        },
+        "ihv9ter": {
+            "comment": "Typical android L",
+            "timeStamp": "2022/07/27-09:13:40",
+            "id": "ihv9ter",
+            "is_submitter": false,
+            "link_id": "t3_w91sa5",
+            "parent_id": "t3_w91sa5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "vapor-daddy"
+        },
+        "ihtgz5f": {
+            "comment": "[removed]",
+            "timeStamp": "2022/07/26-22:54:44",
+            "id": "ihtgz5f",
+            "is_submitter": false,
+            "link_id": "t3_w91sa5",
+            "parent_id": "t3_w91sa5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

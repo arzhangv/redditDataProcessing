@@ -1,0 +1,121 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I tried to download a file from a Soundcloud to Mp3 website but it downloaded a file just called \"mp3\" with the file icon being the windows drive. What do you guys think this is?",
+        "title": "I AM SCARED",
+        "score": 0,
+        "id": "cgcviq",
+        "commsNum": 9,
+        "timeStamp": "2019/07/22-05:57:52",
+        "author_name": "GhosteeMusic",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 9,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/cgcviq/i_am_scared/"
+    },
+    "posts": {
+        "euj8jwx": {
+            "comment": "Dude, it was my own collab with my friends. He was the one with the updated file but he wasn't online and I needed it for something.",
+            "timeStamp": "2019/07/22-23:59:46",
+            "id": "euj8jwx",
+            "is_submitter": true,
+            "link_id": "t3_cgcviq",
+            "parent_id": "t1_eug6ahq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "GhosteeMusic"
+        },
+        "eugho3v": {
+            "comment": "Have you deleted it completely? Is there a chance we can take a look on file somehow?",
+            "timeStamp": "2019/07/22-08:07:44",
+            "id": "eugho3v",
+            "is_submitter": false,
+            "link_id": "t3_cgcviq",
+            "parent_id": "t3_cgcviq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Suspicious_Writer"
+        },
+        "eugbgim": {
+            "comment": "Screw off skid. Let the adults talk.",
+            "timeStamp": "2019/07/22-07:07:25",
+            "id": "eugbgim",
+            "is_submitter": false,
+            "link_id": "t3_cgcviq",
+            "parent_id": "t1_eugbeg2",
+            "score": -6,
+            "stickied": false,
+            "author_name": "_rock_farmer"
+        },
+        "eugbeg2": {
+            "comment": "Wow what a law abiding citizen.\n\nFuck off mate.",
+            "timeStamp": "2019/07/22-07:06:49",
+            "id": "eugbeg2",
+            "is_submitter": false,
+            "link_id": "t3_cgcviq",
+            "parent_id": "t1_eug6ahq",
+            "score": 7,
+            "stickied": false,
+            "author_name": "GeneralInk"
+        },
+        "eug9hyw": {
+            "comment": "&gt; you deserve to get nuked.\n\nNoone has ever accused you of being an intellectual have they?",
+            "timeStamp": "2019/07/22-06:47:20",
+            "id": "eug9hyw",
+            "is_submitter": false,
+            "link_id": "t3_cgcviq",
+            "parent_id": "t1_eug9993",
+            "score": -6,
+            "stickied": false,
+            "author_name": "_rock_farmer"
+        },
+        "eug9993": {
+            "comment": "You're so much into politics, you deserve to get nuked.",
+            "timeStamp": "2019/07/22-06:44:49",
+            "id": "eug9993",
+            "is_submitter": false,
+            "link_id": "t3_cgcviq",
+            "parent_id": "t1_eug6ahq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "b4kSec"
+        },
+        "eug7afg": {
+            "comment": "Probably converted wrong by the website.  Scan the file with AV to see if it's malicious.  Keep in mind it doesn't appear to be a PE so unless it's executed somehow you should be safe.",
+            "timeStamp": "2019/07/22-06:23:05",
+            "id": "eug7afg",
+            "is_submitter": false,
+            "link_id": "t3_cgcviq",
+            "parent_id": "t3_cgcviq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "skallah"
+        },
+        "eug6ahq": {
+            "comment": "If you're pirating music you deserve to get infected.",
+            "timeStamp": "2019/07/22-06:11:39",
+            "id": "eug6ahq",
+            "is_submitter": false,
+            "link_id": "t3_cgcviq",
+            "parent_id": "t3_cgcviq",
+            "score": -16,
+            "stickied": false,
+            "author_name": "_rock_farmer"
+        },
+        "eug5u3y": {
+            "comment": "Try doing a song of different length and see if the file size is the same. Also, I suggest trying this in a VM. What was the file extension?",
+            "timeStamp": "2019/07/22-06:06:18",
+            "id": "eug5u3y",
+            "is_submitter": false,
+            "link_id": "t3_cgcviq",
+            "parent_id": "t3_cgcviq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "44Cobra44"
+        }
+    }
+}

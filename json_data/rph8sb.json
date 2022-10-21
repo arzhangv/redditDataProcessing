@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "This is hilarious",
+        "score": 1,
+        "id": "rph8sb",
+        "commsNum": 0,
+        "timeStamp": "2021/12/26-22:52:41",
+        "author_name": "DroiiidUser1882",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://i.redd.it/jq5v3mkywe481.jpg"
+    },
+    "posts": {
+        "hq5gdl3": {
+            "comment": "When your system is very infected by many worms, trojans, virus keyloggers adware etc..\n\nI recommend you to boot with ***Kaspersky Rescue Disk*** and make a scan from it.\n\nTo boot under ***Kaspersky Rescue Disk***:\n\n* 1 - Download the [***Kaspersky Rescue Disk image***](https://rescuedisk.s.kaspersky-labs.com/updatable/2018/krd.iso)\n* 2 - Write the Kaspersky Rescue Disk image to a USB drive or CD/DVD disk. For instructions, [***see this article***](https://support.kaspersky.com/14226).\n* 3 - Connect the USB device to your computer or insert the CD/DVD drive.\n* 4- Set up booting from the USB media or CD/DVD drive. [***See the guide***](https://support.kaspersky.com/14227#block1).\n* 5- Boot the computer under Kaspersky Rescue Disk. [***See the guide***](https://support.kaspersky.com/14227#block2).\n* 6- Update antivirus databases of Kaspersky Rescue Disk. For instructions, see [***this article***](https://support.kaspersky.com/14241).\n* 7- Run a scan of your computer. For instructions, [***see this article***](https://support.kaspersky.com/14229).",
+            "timeStamp": "2021/12/27-06:49:42",
+            "id": "hq5gdl3",
+            "is_submitter": false,
+            "link_id": "t3_rph8sb",
+            "parent_id": "t3_rph8sb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "hackoofr"
+        }
+    }
+}

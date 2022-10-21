@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Adobe fixes CVE-2016-1019 Zero-Day exploited to serve ransomware",
+        "score": 1,
+        "id": "4dvlqx",
+        "commsNum": 0,
+        "timeStamp": "2016/04/08-02:04:00",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/46107/malware/adobe-fixes-cve-2016-1019.html"
+    },
+    "posts": {}
+}

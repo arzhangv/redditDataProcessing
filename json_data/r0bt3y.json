@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "TrickBot Infrastructure Being Used to Rebuild the Emotet Botnet",
+        "score": 1,
+        "id": "r0bt3y",
+        "commsNum": 0,
+        "timeStamp": "2021/11/23-04:08:50",
+        "author_name": "AdvertisingMajor6010",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.spamtitan.com/blog/trickbot-infrastructure-being-used-to-rebuild-the-emotet-botnet/"
+    },
+    "posts": {}
+}

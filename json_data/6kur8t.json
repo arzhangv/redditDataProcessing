@@ -1,0 +1,110 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[removed]",
+        "title": "VirusTotal: Too Many sites are given 100% Clean Rating",
+        "score": 11,
+        "id": "6kur8t",
+        "commsNum": 16,
+        "timeStamp": "2017/07/02-11:27:08",
+        "author_name": "PhiWeaver",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 16,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6kur8t/virustotal_too_many_sites_are_given_100_clean/"
+    },
+    "posts": {
+        "dk1dl1p": {
+            "comment": "That's awesome! Thanks for this tool as it's been a pretty great time saver for some of our investigations. I won't hesitate to reach out if we have anything we'd like to see.",
+            "timeStamp": "2017/07/10-11:54:18",
+            "id": "dk1dl1p",
+            "is_submitter": false,
+            "link_id": "t3_6kur8t",
+            "parent_id": "t1_dk1dfe3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Conscript85"
+        },
+        "dk1dfe3": {
+            "comment": "Author of https://urlscan.io here. I created it not necessarily because urlquery.net was unreliable but mostly because it felt somewhat slow and clunky, and would not display some of the information I was interested in. Initially I thought that urlscan.io would be used by Joe Average to get a sense of what his website does, but by now it's pretty clear that it's mostly used by malware and threat-researchers. A lot of people will post phishing pages, some just to get the screenshots, other probably looking for more info. One feature that's not utilized fully (I think) is the search which will allow you to search for (sub)domains, IPs and IP ranges, ASNs, filenames, reverse DNS records, some HTTP headers and GeoIP info. Let me know if there's a feature that you think would be a good addition!",
+            "timeStamp": "2017/07/10-11:51:31",
+            "id": "dk1dfe3",
+            "is_submitter": false,
+            "link_id": "t3_6kur8t",
+            "parent_id": "t1_djtil4e",
+            "score": 2,
+            "stickied": false,
+            "author_name": "heipei42"
+        },
+        "dk012fs": {
+            "comment": "For sites, it's basically a web reputation checker.  For files, it's a virus scanner.  \n\n  \nIn general, Virus Total is for (in no specific order)\n\n\n1. Product comparisons.  \n2. Double checking files your AV might have missed.  Works well both at home, and on an enterprise level. \n\nI'm sure there are other uses.  But, that is the two main ones in my opinion.  \n\nAlso, checking malicious via a web based tool is a little tricky (just in general they are tricky).  In many cases, you need to go through many redirects, and depending on the responses your machine gives during that (example: Running Firefox vs IE.  Windows 7 vs Windows 10).  You may, or may not end up at the malicious site.  Possible you could get a completely different one as well.",
+            "timeStamp": "2017/07/09-14:40:14",
+            "id": "dk012fs",
+            "is_submitter": false,
+            "link_id": "t3_6kur8t",
+            "parent_id": "t1_djz3ps4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TheHeffNerr"
+        },
+        "djz3ps4": {
+            "comment": "If it doesn't check bad js, then what does it actually do?",
+            "timeStamp": "2017/07/08-21:56:52",
+            "id": "djz3ps4",
+            "is_submitter": false,
+            "link_id": "t3_6kur8t",
+            "parent_id": "t1_djoz384",
+            "score": 1,
+            "stickied": false,
+            "author_name": "thehermitcoder"
+        },
+        "dju00ax": {
+            "comment": "I tried searching.  But, had no idea what to search for.  Don't even remember how I came about urlquery.  Scan is super faster compared to query.\n",
+            "timeStamp": "2017/07/05-17:24:18",
+            "id": "dju00ax",
+            "is_submitter": false,
+            "link_id": "t3_6kur8t",
+            "parent_id": "t1_djtil4e",
+            "score": 2,
+            "stickied": false,
+            "author_name": "TheHeffNerr"
+        },
+        "djtil4e": {
+            "comment": "No problem. After the last time it went down I went searching for an alternative and it seems the creator of urlscan did it because urlquery kept pooping on the floor.",
+            "timeStamp": "2017/07/05-11:42:49",
+            "id": "djtil4e",
+            "is_submitter": false,
+            "link_id": "t3_6kur8t",
+            "parent_id": "t1_djtbqjh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Conscript85"
+        },
+        "djtbqjh": {
+            "comment": "&gt;https://urlscan.io  \n\nAwesome, thanks /u/conscript85  \n  \n  \nIt does go down a lot, and I typically cry when it does. ",
+            "timeStamp": "2017/07/05-09:40:06",
+            "id": "djtbqjh",
+            "is_submitter": false,
+            "link_id": "t3_6kur8t",
+            "parent_id": "t1_djpxu0a",
+            "score": 2,
+            "stickied": false,
+            "author_name": "TheHeffNerr"
+        },
+        "djtblbs": {
+            "comment": "Sorry, forgot about this thread.  I would have said URLQuery.  But, people already posted it :).  \n\nYay teamwork. ",
+            "timeStamp": "2017/07/05-09:37:27",
+            "id": "djtblbs",
+            "is_submitter": false,
+            "link_id": "t3_6kur8t",
+            "parent_id": "t1_djp37gs",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TheHeffNerr"
+        }
+    }
+}

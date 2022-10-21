@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Any way of encrypting malware so the antivirus won\u2019t find it and decrypting it when executing?\n\nNot sure if i should posting this here or in r/hacking",
+        "title": "Encrypting malware and decrypting it on use",
+        "score": 1,
+        "id": "7xkeax",
+        "commsNum": 8,
+        "timeStamp": "2018/02/14-11:03:07",
+        "author_name": "Taltalonix",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 8,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/7xkeax/encrypting_malware_and_decrypting_it_on_use/"
+    },
+    "posts": {
+        "dyouw3m": {
+            "comment": "[deleted]",
+            "timeStamp": "2018/05/09-02:41:19",
+            "id": "dyouw3m",
+            "is_submitter": false,
+            "link_id": "t3_7xkeax",
+            "parent_id": "t3_7xkeax",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

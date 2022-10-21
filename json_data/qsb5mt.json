@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Did a technical analysis on a recent botnet that attackers tried to build with Bash and Python.  \nAlso shared some IoCs towards the end.  \nLet me know your feedback.\n\n[https://cujo.com/threat-alert-krane-malware/](https://cujo.com/threat-alert-krane-malware/)",
+        "title": "Threat Alert: Krane Malware",
+        "score": 1,
+        "id": "qsb5mt",
+        "commsNum": 0,
+        "timeStamp": "2021/11/12-05:27:39",
+        "author_name": "kernelv0id",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/qsb5mt/threat_alert_krane_malware/"
+    },
+    "posts": {}
+}

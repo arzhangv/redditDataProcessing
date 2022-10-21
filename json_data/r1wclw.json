@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "[removed]",
+        "title": "my first malware",
+        "score": 1,
+        "id": "r1wclw",
+        "commsNum": 0,
+        "timeStamp": "2021/11/25-05:17:31",
+        "author_name": "CodingRapist",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/r1wclw/my_first_malware/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "https://www.virustotal.com/en/file/264a989baf2b4e2dd8733f1892d561c004c1bc01406aa81a23646dcd3c7fc084/analysis/1430642972/\n\nFound this guy in an installer, Windows Defender flipped out when I went to run it. Does anyone have any info on it? All I can find are screenshots of some sort of Russian interface, but I don't know anything else about it.",
+        "title": "Found an interesting malware, trying to find more information: MailsBrute",
+        "score": 8,
+        "id": "5jqx9q",
+        "commsNum": 1,
+        "timeStamp": "2016/12/22-06:49:16",
+        "author_name": "nomosolo",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5jqx9q/found_an_interesting_malware_trying_to_find_more/"
+    },
+    "posts": {}
+}

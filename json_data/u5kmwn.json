@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Execute wasm in a docker container",
+        "score": 1,
+        "id": "u5kmwn",
+        "commsNum": 0,
+        "timeStamp": "2022/04/17-03:50:57",
+        "author_name": "tamir70s",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "/r/WebAssembly/comments/u5jh6t/execute_wasm_in_a_docker_container/"
+    },
+    "posts": {}
+}

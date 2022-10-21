@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "A Combined Static and Dynamic Analysis Approach to Detect Malicious Browser Extensions",
+        "score": 22,
+        "id": "dali6a",
+        "commsNum": 1,
+        "timeStamp": "2019/09/28-13:36:31",
+        "author_name": "g0relics",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.hindawi.com/journals/scn/2018/7087239/"
+    },
+    "posts": {
+        "f1qn3zq": {
+            "comment": "More on this subject:  \n\n[https://www.usenix.org/sites/default/files/conference/protected-files/sec14\\_slides\\_kapravelos.pdf](https://www.usenix.org/sites/default/files/conference/protected-files/sec14_slides_kapravelos.pdf) \n\n[http://www.icir.org/vern/papers/hulk-usesec14.pdf](http://www.icir.org/vern/papers/hulk-usesec14.pdf)",
+            "timeStamp": "2019/09/28-13:46:17",
+            "id": "f1qn3zq",
+            "is_submitter": true,
+            "link_id": "t3_dali6a",
+            "parent_id": "t3_dali6a",
+            "score": 1,
+            "stickied": false,
+            "author_name": "g0relics"
+        }
+    }
+}

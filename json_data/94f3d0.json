@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[removed]",
+        "title": "Number three racing app in Android store is adware.",
+        "score": 1,
+        "id": "94f3d0",
+        "commsNum": 1,
+        "timeStamp": "2018/08/03-17:50:31",
+        "author_name": "sugarislandz",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/94f3d0/number_three_racing_app_in_android_store_is_adware/"
+    },
+    "posts": {
+        "e3kj1z8": {
+            "comment": "[removed]",
+            "timeStamp": "2018/08/03-17:51:05",
+            "id": "e3kj1z8",
+            "is_submitter": false,
+            "link_id": "t3_94f3d0",
+            "parent_id": "t3_94f3d0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "i was alerted by Malware bytes that a website was block due to a trojan and the location was the war face file it could be a false positive but does anyone else have any experience",
+        "title": "warface trojan",
+        "score": 0,
+        "id": "c0dnng",
+        "commsNum": 4,
+        "timeStamp": "2019/06/13-17:34:45",
+        "author_name": "cyrptedras",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/c0dnng/warface_trojan/"
+    },
+    "posts": {
+        "er7tskj": {
+            "comment": "Its not against you, i think there are plenty of helping subs on Reddit or the internet, that's all. Good luck.",
+            "timeStamp": "2019/06/15-01:29:02",
+            "id": "er7tskj",
+            "is_submitter": false,
+            "link_id": "t3_c0dnng",
+            "parent_id": "t1_er5kd38",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RCEdude"
+        },
+        "er5kd38": {
+            "comment": "ok thanks for the helpful hint",
+            "timeStamp": "2019/06/14-08:56:44",
+            "id": "er5kd38",
+            "is_submitter": true,
+            "link_id": "t3_c0dnng",
+            "parent_id": "t1_er4oexp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "cyrptedras"
+        },
+        "er4oexp": {
+            "comment": "\"This is NOT a place for help with malware removal or various other end-user questions.\"",
+            "timeStamp": "2019/06/14-01:39:39",
+            "id": "er4oexp",
+            "is_submitter": false,
+            "link_id": "t3_c0dnng",
+            "parent_id": "t3_c0dnng",
+            "score": 2,
+            "stickied": false,
+            "author_name": "RCEdude"
+        },
+        "er3x2ve": {
+            "comment": "What?",
+            "timeStamp": "2019/06/13-18:18:44",
+            "id": "er3x2ve",
+            "is_submitter": false,
+            "link_id": "t3_c0dnng",
+            "parent_id": "t3_c0dnng",
+            "score": 3,
+            "stickied": false,
+            "author_name": "GoblinsStoleMyHouse"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "https://github.com/BayshoreNetworks/yextend\n\nyextend was written for the sake of augmenting yara. yara by itself is great but we realized that it could not natively handle archived content in the granular way that we needed it to. For instance, if we were hunting for malware and it happened to be buried a few levels into archived content, yara in its native form could not help us. So what we have done is natively handle the deflation of archived conten",
+        "title": "yextend - Yara integrated software to handle archive file data.",
+        "score": 1,
+        "id": "2ea5p1",
+        "commsNum": 0,
+        "timeStamp": "2014/08/22-07:56:11",
+        "author_name": "ayemef",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2ea5p1/yextend_yara_integrated_software_to_handle/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Good morning,  \n\n\n\u201cMemory Forensics Baselines\u201d, the latest episode in the Introduction to Memory Forensics series, is now available. This episode covers a trio of Volatility plugins that can help us establish a baseline for processes, services, and drivers. We\u2019ll use those plugins to compare a clean Windows 10 memory capture against one infected with malware, both based upon the same \u201cgold\u201d image (as we would likely find in an enterprise environment). We\u2019ll then look at a few additional Volatility plugins that can help us identify the malicious code present within memory.  \n\n\nEpisode:  \n[https://www.youtube.com/watch?v=1thWaC6uvI4](https://www.youtube.com/watch?v=1thWaC6uvI4)  \n\n\nEpisode Guide:  \n[https://www.13cubed.com/episodes](https://www.13cubed.com/episodes)  \n\n\nChannel:  \n[https://www.youtube.com/13cubed](https://www.youtube.com/13cubed)  \n\n\nPatreon (Help support 13Cubed):  \n[https://www.patreon.com/13cubed](https://www.patreon.com/13cubed)",
+        "title": "Memory Forensics Baselines + Malware Detection (X-Post)",
+        "score": 25,
+        "id": "d4zcda",
+        "commsNum": 1,
+        "timeStamp": "2019/09/16-04:29:42",
+        "author_name": "13Cubed",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/d4zcda/memory_forensics_baselines_malware_detection_xpost/"
+    },
+    "posts": {
+        "f0k07mc": {
+            "comment": "Keep up the good work dude! I donated once before to you, really enjoy your content.",
+            "timeStamp": "2019/09/16-13:52:20",
+            "id": "f0k07mc",
+            "is_submitter": false,
+            "link_id": "t3_d4zcda",
+            "parent_id": "t3_d4zcda",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DrJohnFuckinZoidberg"
+        }
+    }
+}

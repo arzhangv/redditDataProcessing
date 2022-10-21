@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "So basically I intend to become a reverse engineering and malware analysis, my knowledge so far is that I have taken the cs50 harvsed course and I can use html,css,sql,c,python am also reading hacking the art if exploitation currently, but am struggling to find info on what all I need to know to reach my goal i.e let's say the networking part which cert would cover the topics I need to know for malware anaysis and reverse engineering some suggested ccent and I thought maybe ccent and then ccna security,apart from that I have no knowledge of os internals.\nI WOULD APPRECIATE IF YOU COULD SORT OF BUILT A MAP FOR ME INCLUDING THINGS I NEED TO KNOW AND WHAT ORDER I NEED TO LEARN THEM IN.\nEDIT: Currently learning intel x86 assembly through opensecurity training.",
+        "title": "In need of a road map to my ultimatr goal",
+        "score": 5,
+        "id": "6wxgw7",
+        "commsNum": 11,
+        "timeStamp": "2017/08/30-00:01:03",
+        "author_name": "insec99",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 11,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6wxgw7/in_need_of_a_road_map_to_my_ultimatr_goal/"
+    },
+    "posts": {
+        "dmedqx9": {
+            "comment": "Art of Exploitation is awesome. You should definitely read it. However that is more about exploit development rather than malware analysis. Just pointing out that PMA is generally easier material to learn and digest and its obviously more in line with being a malware analyst. However, as stated, there's no clear cut path and all knowledge is good knowledge. Good luck!",
+            "timeStamp": "2017/08/31-15:38:09",
+            "id": "dmedqx9",
+            "is_submitter": false,
+            "link_id": "t3_6wxgw7",
+            "parent_id": "t1_dmcdi3x",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ragnar_graybeard87"
+        },
+        "dmcdi3x": {
+            "comment": "Yup, found out assembly is pretty crucial and I found open security where I got a sort a road map thanks, will def read pma after art of exploitation",
+            "timeStamp": "2017/08/30-12:48:30",
+            "id": "dmcdi3x",
+            "is_submitter": true,
+            "link_id": "t3_6wxgw7",
+            "parent_id": "t1_dmcbn48",
+            "score": 1,
+            "stickied": false,
+            "author_name": "insec99"
+        },
+        "dmcbn48": {
+            "comment": "\"there's more than on way to the top of a mountain\" there is no one path to take. Find what interests you and learn it. Break it build it. Figure out what you don't know and learn it. Practical malware analysis is a great start but you'll have to experiment and find what works. This isn't an industry or job field that has a cookie cutter path up. ",
+            "timeStamp": "2017/08/30-12:15:49",
+            "id": "dmcbn48",
+            "is_submitter": false,
+            "link_id": "t3_6wxgw7",
+            "parent_id": "t3_6wxgw7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "urbanAdmin"
+        }
+    }
+}

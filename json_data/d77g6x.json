@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "A demo of using Apple's new EndpointSecurity framework",
+        "score": 16,
+        "id": "d77g6x",
+        "commsNum": 1,
+        "timeStamp": "2019/09/21-00:19:47",
+        "author_name": "g0relics",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://gist.github.com/Omar-Ikram/8e6721d8e83a3da69b31d4c2612a68ba"
+    },
+    "posts": {
+        "f0zkf03": {
+            "comment": "Thanks!",
+            "timeStamp": "2019/09/21-13:23:46",
+            "id": "f0zkf03",
+            "is_submitter": false,
+            "link_id": "t3_d77g6x",
+            "parent_id": "t3_d77g6x",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TheDukeOfSwagger"
+        }
+    }
+}

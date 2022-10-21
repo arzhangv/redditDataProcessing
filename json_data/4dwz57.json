@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "CVE-2016-1019: A NEW FLASH EXPLOIT INCLUDED IN MAGNITUDE EXPLOIT KIT",
+        "score": 20,
+        "id": "4dwz57",
+        "commsNum": 2,
+        "timeStamp": "2016/04/08-08:46:48",
+        "author_name": "Deeganwa_Eden5",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.fireeye.com/blog/threat-research/2016/04/cve-2016-1019_a_new.html"
+    },
+    "posts": {}
+}

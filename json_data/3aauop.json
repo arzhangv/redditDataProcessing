@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hey guys,\n\n\nJust wanted to get your opinion on what the ideal/cheapest setup would look like to set up a standalone system to use solely for the purpose of inserting removable media (Thumb Drives, CDs, etc) and doing a quick scan of all the files on it to make sure it's clean.\n\n\nIs the only route just setting up one of the big commercial AV engines and just running it against the media? Can this be done using free tools? \n\n\nIt will be used by people that aren't in the computer science/comp security field like us... so it has to be relatively easy to use.\n\n\nAny suggestions?",
+        "title": "System for scanning removable media",
+        "score": 5,
+        "id": "3aauop",
+        "commsNum": 5,
+        "timeStamp": "2015/06/18-09:35:01",
+        "author_name": "Index_Dot_Zach",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/3aauop/system_for_scanning_removable_media/"
+    },
+    "posts": {}
+}

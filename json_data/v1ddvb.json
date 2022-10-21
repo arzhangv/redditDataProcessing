@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "The extension X translate ([https://chrome.google.com/webstore/detail/xtranslate/gfgpkepllngchpmcippidfhmbhlljhoo](https://chrome.google.com/webstore/detail/xtranslate/gfgpkepllngchpmcippidfhmbhlljhoo)) redirects you to malicious sites. For example, if you search \"microsoft\" on [google.com](https://google.com) an click on the first result (clearly tampered as can be seen from the microsoft logo, which wouldn't appear otherwise) it redirects you to the malicious site ojqr",
+        "title": "I found a malicious chrome extension",
+        "score": 1,
+        "id": "v1ddvb",
+        "commsNum": 0,
+        "timeStamp": "2022/05/30-17:03:36",
+        "author_name": "Totally_Dank_Link",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/v1ddvb/i_found_a_malicious_chrome_extension/"
+    },
+    "posts": {
+        "iam1vo6": {
+            "comment": "https://github.com/ixrock/XTranslate/blob/master/privacy-policy.md \n\nChrome Extension is prob ok but malvertising may be from the ad network.",
+            "timeStamp": "2022/05/30-18:31:07",
+            "id": "iam1vo6",
+            "is_submitter": false,
+            "link_id": "t3_v1ddvb",
+            "parent_id": "t3_v1ddvb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "blabbities"
+        },
+        "ialxoh3": {
+            "comment": "Whats very interesting about the site is that it seems all but unreachable no matter what angle I approach it from.  \n\n\nSo there's something about the extension that somehow allows you to resolve to whatever IP it's hosted on",
+            "timeStamp": "2022/05/30-17:55:17",
+            "id": "ialxoh3",
+            "is_submitter": false,
+            "link_id": "t3_v1ddvb",
+            "parent_id": "t1_ialvkc0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "coconut_dot_jpg"
+        },
+        "ialvkc0": {
+            "comment": "Apparently it's not a phishing site, but \"only\" an ad site the extension directs you through so that the maker of the extension gets some ad revenue. Without adblock you would not notice the redirect and ultimately, you land on the legit microsoft site.",
+            "timeStamp": "2022/05/30-17:37:18",
+            "id": "ialvkc0",
+            "is_submitter": true,
+            "link_id": "t3_v1ddvb",
+            "parent_id": "t3_v1ddvb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Totally_Dank_Link"
+        }
+    }
+}

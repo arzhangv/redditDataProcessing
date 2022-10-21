@@ -1,0 +1,110 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hello,\n\nCustom malware needed, looking  for malware developers who can, customize  the malware from scratch. For any information  comment your name below.",
+        "title": "Malware developers needed",
+        "score": 0,
+        "id": "bscjhx",
+        "commsNum": 8,
+        "timeStamp": "2019/05/23-21:20:12",
+        "author_name": "_ghostv2_",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 8,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/bscjhx/malware_developers_needed/"
+    },
+    "posts": {
+        "eon5j1z": {
+            "comment": "[removed]",
+            "timeStamp": "2019/05/24-06:34:22",
+            "id": "eon5j1z",
+            "is_submitter": false,
+            "link_id": "t3_bscjhx",
+            "parent_id": "t3_bscjhx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "eon14ft": {
+            "comment": "Looking for me? Sorry don't date FBI.",
+            "timeStamp": "2019/05/24-05:33:22",
+            "id": "eon14ft",
+            "is_submitter": false,
+            "link_id": "t3_bscjhx",
+            "parent_id": "t3_bscjhx",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Itsmalware"
+        },
+        "eomwfyt": {
+            "comment": "Nope",
+            "timeStamp": "2019/05/24-04:32:35",
+            "id": "eomwfyt",
+            "is_submitter": true,
+            "link_id": "t3_bscjhx",
+            "parent_id": "t1_eomwc0q",
+            "score": 0,
+            "stickied": false,
+            "author_name": "_ghostv2_"
+        },
+        "eomwc0q": {
+            "comment": "Its a joke right?",
+            "timeStamp": "2019/05/24-04:31:37",
+            "id": "eomwc0q",
+            "is_submitter": false,
+            "link_id": "t3_bscjhx",
+            "parent_id": "t3_bscjhx",
+            "score": 2,
+            "stickied": false,
+            "author_name": "RCEdude"
+        },
+        "eoluaen": {
+            "comment": "What language(s), what targets, what payload? Also, what's the rate? Can't make a decision without this basic information.",
+            "timeStamp": "2019/05/23-22:40:35",
+            "id": "eoluaen",
+            "is_submitter": false,
+            "link_id": "t3_bscjhx",
+            "parent_id": "t3_bscjhx",
+            "score": 3,
+            "stickied": false,
+            "author_name": "bediger4000"
+        },
+        "eoltirl": {
+            "comment": "My cost is 1 BTC",
+            "timeStamp": "2019/05/23-22:35:08",
+            "id": "eoltirl",
+            "is_submitter": false,
+            "link_id": "t3_bscjhx",
+            "parent_id": "t3_bscjhx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "tonythegoose"
+        },
+        "eolmitw": {
+            "comment": "Lol no",
+            "timeStamp": "2019/05/23-21:44:43",
+            "id": "eolmitw",
+            "is_submitter": true,
+            "link_id": "t3_bscjhx",
+            "parent_id": "t1_eolk2bv",
+            "score": -2,
+            "stickied": false,
+            "author_name": "_ghostv2_"
+        },
+        "eolk2bv": {
+            "comment": "Nice try FBI",
+            "timeStamp": "2019/05/23-21:27:32",
+            "id": "eolk2bv",
+            "is_submitter": false,
+            "link_id": "t3_bscjhx",
+            "parent_id": "t3_bscjhx",
+            "score": 9,
+            "stickied": false,
+            "author_name": "IBurnWitches"
+        }
+    }
+}

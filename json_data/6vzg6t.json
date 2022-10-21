@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Analyzing Obfuscated Locky Ransomware Downloader (xpost r/ringzero)",
+        "score": 10,
+        "id": "6vzg6t",
+        "commsNum": 1,
+        "timeStamp": "2017/08/25-09:08:41",
+        "author_name": "majorllama",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.ringzerolabs.com/2017/08/analyzing-several-layers-of-obfuscation.html"
+    },
+    "posts": {
+        "dm44lw0": {
+            "comment": "X-Post referenced from [/r/ringzero](http://np.reddit.com/r/ringzero) by /u/majorllama  \n[Analyzing Obfuscated Locky Ransomware Downloader](http://np.reddit.com/r/RingZero/comments/6vwbo5/analyzing_obfuscated_locky_ransomware_downloader/)\n*****  \n  \n^^I ^^am ^^a ^^bot. ^^I ^^delete ^^my ^^negative ^^comments. ^^[Contact](https://www.reddit.com/message/compose/?to=OriginalPostSearcher) ^^| ^^[Code](https://github.com/papernotes/Reddit-OriginalPostSearcher) ^^| ^^[FAQ](https://github.com/papernotes/Reddit-OriginalPostSearcher#faq)",
+            "timeStamp": "2017/08/25-09:09:26",
+            "id": "dm44lw0",
+            "is_submitter": false,
+            "link_id": "t3_6vzg6t",
+            "parent_id": "t3_6vzg6t",
+            "score": 1,
+            "stickied": false,
+            "author_name": "OriginalPostSearcher"
+        }
+    }
+}

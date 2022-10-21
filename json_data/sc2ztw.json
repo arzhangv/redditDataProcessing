@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Bootkit samples",
+        "score": 1,
+        "id": "sc2ztw",
+        "commsNum": 0,
+        "timeStamp": "2022/01/24-18:43:15",
+        "author_name": "hardenedvault",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://github.com/hardenedvault/bootkit-samples"
+    },
+    "posts": {}
+}

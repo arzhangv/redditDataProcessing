@@ -1,0 +1,132 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "any1 know if memz v4 requires any safety precautions when running on vm",
+        "score": 1,
+        "id": "j3eyu3",
+        "commsNum": 10,
+        "timeStamp": "2020/10/01-12:04:50",
+        "author_name": "y33ty33ty33tyeet",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 10,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/j3eyu3/any1_know_if_memz_v4_requires_any_safety/"
+    },
+    "posts": {
+        "g7wcxan": {
+            "comment": "Lmao yeah. Ask him if he watches danooct1 cuz that's who the memz virus was made for.",
+            "timeStamp": "2020/10/06-07:42:04",
+            "id": "g7wcxan",
+            "is_submitter": true,
+            "link_id": "t3_j3eyu3",
+            "parent_id": "t1_g7vwz67",
+            "score": 1,
+            "stickied": false,
+            "author_name": "y33ty33ty33tyeet"
+        },
+        "g7vwz67": {
+            "comment": "My son didn't understand the seriousness of what he was doing. His ability to do things is beyond his wisdom to know not to.",
+            "timeStamp": "2020/10/06-04:51:24",
+            "id": "g7vwz67",
+            "is_submitter": false,
+            "link_id": "t3_j3eyu3",
+            "parent_id": "t1_g7vgm6g",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Graymouzer"
+        },
+        "g7vgm6g": {
+            "comment": "Memz is usually meant to just be something funny that destroys a virtual machine.",
+            "timeStamp": "2020/10/05-23:49:42",
+            "id": "g7vgm6g",
+            "is_submitter": true,
+            "link_id": "t3_j3eyu3",
+            "parent_id": "t1_g7t4zwz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "y33ty33ty33tyeet"
+        },
+        "g7v5nue": {
+            "comment": "Then why did you post this on the subreddit for legit malware?",
+            "timeStamp": "2020/10/05-21:08:02",
+            "id": "g7v5nue",
+            "is_submitter": false,
+            "link_id": "t3_j3eyu3",
+            "parent_id": "t1_g7eo16d",
+            "score": 1,
+            "stickied": false,
+            "author_name": "BleepityBoopity"
+        },
+        "g7t4zwz": {
+            "comment": "A word of caution here. My son, who is a curious but unwise child, ran memz on my laptop. I had to boot to a linux ditro and use dd to overwrite the bootsector and reinstall. Malwarebytes found a rootkit on my data drive afterwards. It might be a variant but be very careful and evaluate why you want to do this before proceding.",
+            "timeStamp": "2020/10/05-10:34:01",
+            "id": "g7t4zwz",
+            "is_submitter": false,
+            "link_id": "t3_j3eyu3",
+            "parent_id": "t3_j3eyu3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Graymouzer"
+        },
+        "g7eo621": {
+            "comment": "Memz is a malware created for vm's. It's made to not bypass them cause it was made for danooct1",
+            "timeStamp": "2020/10/02-07:57:14",
+            "id": "g7eo621",
+            "is_submitter": true,
+            "link_id": "t3_j3eyu3",
+            "parent_id": "t1_g7brhqh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "y33ty33ty33tyeet"
+        },
+        "g7eo16d": {
+            "comment": "Memz v4 isn't a real malware. It was created for a youtuber named danooct1",
+            "timeStamp": "2020/10/02-07:56:02",
+            "id": "g7eo16d",
+            "is_submitter": true,
+            "link_id": "t3_j3eyu3",
+            "parent_id": "t1_g7e6sl9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "y33ty33ty33tyeet"
+        },
+        "g7e6sl9": {
+            "comment": "Whenever running any malware within any VM, make sure that it's disconnected from shared folders, disable drag and drop, disable shared clipboard and remove network and usb adapters. For Virtualbox, set every Network Adapter to not connected. \n\nAfter that on your host, disable off WiFi and all network adapters linked to your VM and the ones connected to your host. \n\nAfter that enable Flightmode on your host. This is to minimize any damage to your other devices even if the virus were to break out of the VM. \n\nAnd dont run any malware in malware in KVM, run it within Virtualbox or VMWare. I prefer Virtualbox when running malware",
+            "timeStamp": "2020/10/02-05:05:09",
+            "id": "g7e6sl9",
+            "is_submitter": false,
+            "link_id": "t3_j3eyu3",
+            "parent_id": "t3_j3eyu3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "LMJR500Army"
+        },
+        "g7brhqh": {
+            "comment": "Turn off anything that could give Memz access to your system outside the VM. EX: Shared Folders, Networking, ect.",
+            "timeStamp": "2020/10/01-13:20:46",
+            "id": "g7brhqh",
+            "is_submitter": false,
+            "link_id": "t3_j3eyu3",
+            "parent_id": "t3_j3eyu3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "seventwoworlds"
+        },
+        "g7bp0ah": {
+            "comment": "turn off shared folders, first of all",
+            "timeStamp": "2020/10/01-13:04:29",
+            "id": "g7bp0ah",
+            "is_submitter": false,
+            "link_id": "t3_j3eyu3",
+            "parent_id": "t3_j3eyu3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "bruh-man0"
+        }
+    }
+}

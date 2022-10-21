@@ -1,0 +1,132 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "[https://www.zdnet.com/article/france-japan-new-zealand-warn-of-sudden-spike-in-emotet-attacks/](https://www.zdnet.com/article/france-japan-new-zealand-warn-of-sudden-spike-in-emotet-attacks/) \n\n&gt;Emotet operators used their old trick of infecting one victim and then stealing older email threads. The group would then revive these old conversations, add malicious files as attachments, and target new users with a legitimate-looking conversation.  \n&gt;  \n&gt;Users part of the conversations, or those added on, would often open the malicious files attachments added to the email thread out of curiosity and get infected.\n\nSame old song and dance. Malicious attachments (.doc/zip) as social engineering tools to deceive employees. Is this attack a lack of employee training? Fault of security team? How would you go about protecting against this?",
+        "title": "Countries Seeing Spike in Emotet Attacks",
+        "score": 1,
+        "id": "ip4qoh",
+        "commsNum": 10,
+        "timeStamp": "2020/09/08-16:32:11",
+        "author_name": "micheal015",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 10,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ip4qoh/countries_seeing_spike_in_emotet_attacks/"
+    },
+    "posts": {
+        "g9j40t3": {
+            "comment": "Education Education Education.\n\nOnce clicked many problems seem to arise. This is an interesting post about the problem,but it fails to give you instructions on how to deal with the problem.\n\n[https://blog.cyberint.com/emotet-bulletin](https://blog.cyberint.com/emotet-bulletin)\n\n&amp;#x200B;\n\nThat's probably because cybersecurity is important, but staff NEED to be educated, and not just once, but frequently - there's staff turnover, people forget etc.",
+            "timeStamp": "2020/10/21-04:26:16",
+            "id": "g9j40t3",
+            "is_submitter": false,
+            "link_id": "t3_ip4qoh",
+            "parent_id": "t3_ip4qoh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Mr_CyberFish"
+        },
+        "g4saygv": {
+            "comment": "[removed]",
+            "timeStamp": "2020/09/10-19:44:20",
+            "id": "g4saygv",
+            "is_submitter": false,
+            "link_id": "t3_ip4qoh",
+            "parent_id": "t1_g4jndx5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "g4lc5q9": {
+            "comment": "[removed]",
+            "timeStamp": "2020/09/09-15:16:13",
+            "id": "g4lc5q9",
+            "is_submitter": false,
+            "link_id": "t3_ip4qoh",
+            "parent_id": "t1_g4kaqlj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "g4kl1nf": {
+            "comment": "thats why XDR is so much needed now, multiple low level cross layer events can be identified by raw CPU power. things like suspicious email, then lateral movement/ local account bruteforcing/internal network scanning, then systems with scheduled tasks, all of those individually WILL be missed. but computer algorithms can identify things like that.(i hate the term AI btw)",
+            "timeStamp": "2020/09/09-11:33:41",
+            "id": "g4kl1nf",
+            "is_submitter": false,
+            "link_id": "t3_ip4qoh",
+            "parent_id": "t1_g4kigyu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "nightmareuki"
+        },
+        "g4kigyu": {
+            "comment": "%100 agree with that. It helps a ton, but sometimes, LOTL attacks, especially when a user is compromised, best SecOp tools on the planet won't help, because it might as well be the user doing everything.",
+            "timeStamp": "2020/09/09-11:12:58",
+            "id": "g4kigyu",
+            "is_submitter": false,
+            "link_id": "t3_ip4qoh",
+            "parent_id": "t1_g4khq70",
+            "score": 1,
+            "stickied": false,
+            "author_name": "SupraMario"
+        },
+        "g4khq70": {
+            "comment": "true, nothing is 100% effective. But good security tools will help to minimize the impact for when things do go sideways, so you only have one or only few systems compromised instead of the whole thing - ie. Garmin........",
+            "timeStamp": "2020/09/09-11:07:00",
+            "id": "g4khq70",
+            "is_submitter": false,
+            "link_id": "t3_ip4qoh",
+            "parent_id": "t1_g4jndx5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "nightmareuki"
+        },
+        "g4kaqlj": {
+            "comment": "It's amazing how many orgs I still see with SMBv1 active in their environment.  Also servers still not patched against Eternal Blue.",
+            "timeStamp": "2020/09/09-10:06:39",
+            "id": "g4kaqlj",
+            "is_submitter": false,
+            "link_id": "t3_ip4qoh",
+            "parent_id": "t3_ip4qoh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "skallah"
+        },
+        "g4jndx5": {
+            "comment": "Yep, millions in hardware and software, will not protect against a user that's click happy and doesn't read or try and educate themselves.",
+            "timeStamp": "2020/09/09-06:46:33",
+            "id": "g4jndx5",
+            "is_submitter": false,
+            "link_id": "t3_ip4qoh",
+            "parent_id": "t1_g4i55h5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "SupraMario"
+        },
+        "g4i5ldi": {
+            "comment": "[removed]",
+            "timeStamp": "2020/09/08-18:34:05",
+            "id": "g4i5ldi",
+            "is_submitter": false,
+            "link_id": "t3_ip4qoh",
+            "parent_id": "t3_ip4qoh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "g4i55h5": {
+            "comment": "no single thing will make you safe from these new advanced threats. User training being first. Then you need good Email solution with sandboxing(might not help in targeted atttack though). And then Good Endpoint solution with EDR. XDR will help you detect and respond quicker",
+            "timeStamp": "2020/09/08-18:30:01",
+            "id": "g4i55h5",
+            "is_submitter": false,
+            "link_id": "t3_ip4qoh",
+            "parent_id": "t3_ip4qoh",
+            "score": 2,
+            "stickied": false,
+            "author_name": "nightmareuki"
+        }
+    }
+}

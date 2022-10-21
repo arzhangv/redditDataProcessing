@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "TinyPOS - An analysis of a Point-Of-Sale malware ecosystem",
+        "score": 1,
+        "id": "blqznr",
+        "commsNum": 0,
+        "timeStamp": "2019/05/07-06:55:36",
+        "author_name": "DrinkMoreCodeMore",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.forcepoint.com/sites/default/files/resources/files/report-tinypos-analysis-en.pdf"
+    },
+    "posts": {}
+}

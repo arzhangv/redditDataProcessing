@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "ModPos, the most complex POS malware ever seen",
+        "score": 1,
+        "id": "3u2fna",
+        "commsNum": 0,
+        "timeStamp": "2015/11/24-03:28:59",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/42220/cyber-crime/modpos-pos-malware.html"
+    },
+    "posts": {}
+}

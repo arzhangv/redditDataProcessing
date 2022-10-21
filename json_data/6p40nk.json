@@ -1,0 +1,143 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "If anybody knows any examples, that'd be cool too.\n\nEDIT Meant to ask \"is there malware that automatically scans...\" ",
+        "title": "Does malware automatically scan unallocated space/deleted files for keywords? When did this become a popular funtion of malware (if it even is)",
+        "score": 9,
+        "id": "6p40nk",
+        "commsNum": 11,
+        "timeStamp": "2017/07/23-14:31:28",
+        "author_name": "fredfredburger88",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 11,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6p40nk/does_malware_automatically_scan_unallocated/"
+    },
+    "posts": {
+        "dkof6gx": {
+            "comment": "I see. Let me throw this scenario at you..\n\n I know Internet Explorer used to keep all their stuff in index.dat files. There was one for history, cookies, and temp internet files. \n\nWhen you deleted history and cookies from the browser, it didn't actually delete the index.dat files. The Cache was never cleared either. Do you know of any malware that steals these files? ",
+            "timeStamp": "2017/07/24-19:16:10",
+            "id": "dkof6gx",
+            "is_submitter": true,
+            "link_id": "t3_6p40nk",
+            "parent_id": "t1_dkmzh4v",
+            "score": 1,
+            "stickied": false,
+            "author_name": "fredfredburger88"
+        },
+        "dknib33": {
+            "comment": "It's doubtful. HOWEVER, you may be interested in programs called RAM scrapers, which search for patterns and running processing that contain specific things, like credit card information (as most card processing type software encrypts it when it writes such data to disk, but not when it's being used by the program)! \n\nhttps://www.wired.com/2014/09/ram-scrapers-how-they-work/\n\nBasically, look at it like this: Malware, like commerical software, is built for making money. Malware won't usually do things that DO NOT make the author money, or won't directly assist in that endeavor. While it may be possible malware would look at such space for unencrypted data like credit cards or similar, it probably isn't that lucrative, and therefore is probably not found in malware in the wild. \n\nJust my two cents. I see you're still expanding your understanding of malware, keep it up!",
+            "timeStamp": "2017/07/24-08:49:35",
+            "id": "dknib33",
+            "is_submitter": false,
+            "link_id": "t3_6p40nk",
+            "parent_id": "t3_6p40nk",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Sam-Gunn"
+        },
+        "dkn852u": {
+            "comment": "I've never seen it. To hit unallocated space, the malware would need direct access to PhysicalDrive0 and admin privileges. Whereas most modern malware tries to avoid admin. It's a large amount of work with little gain. \n\nI've seen APT malware that enumerates a hard drive for file extensions and keywords in filename, puts into text and exfils. Others that do similar for PST email boxes. But none for unallocated.",
+            "timeStamp": "2017/07/24-04:55:08",
+            "id": "dkn852u",
+            "is_submitter": false,
+            "link_id": "t3_6p40nk",
+            "parent_id": "t3_6p40nk",
+            "score": 5,
+            "stickied": false,
+            "author_name": "LightningRurik"
+        },
+        "dkn6oik": {
+            "comment": "First ask, is there software that does this already or are there native commands capable of doing this which can be combined into an automated script or tool? If there is, then it can be used maliciously. For example, FTK Imager Lite has a module to parse unallocated space, the results of which can be a CSV file which can be searched. While clunky and noisy it solves your technical question. None of these individual things are malicious, but if a tool were to be created to take advantage of this process and it was used maliciously it can be considered malware. If used for \"good,\" then it's just a crappy forensic tool.\n\nI am not aware of a popular malware tool that only does what you ask, but malware is like Rule 34; if it exists then there is malware using it in some form on the internet. ",
+            "timeStamp": "2017/07/24-03:57:52",
+            "id": "dkn6oik",
+            "is_submitter": false,
+            "link_id": "t3_6p40nk",
+            "parent_id": "t1_dkmwx2z",
+            "score": -1,
+            "stickied": false,
+            "author_name": "Mr_Monster"
+        },
+        "dkmzh4v": {
+            "comment": "That information is readily available for your browser, malware scans that. Why look for deleted stuff when there is not deleted stuff.",
+            "timeStamp": "2017/07/23-22:50:22",
+            "id": "dkmzh4v",
+            "is_submitter": false,
+            "link_id": "t3_6p40nk",
+            "parent_id": "t1_dkmx14p",
+            "score": 10,
+            "stickied": false,
+            "author_name": "ntrid"
+        },
+        "dkmx14p": {
+            "comment": "Well, perhaps they'd try to lookup deleted cookies for login credentials, or maybe they'd try to garner browsing habits for making profiles of people. I dunno.",
+            "timeStamp": "2017/07/23-21:35:28",
+            "id": "dkmx14p",
+            "is_submitter": true,
+            "link_id": "t3_6p40nk",
+            "parent_id": "t1_dkmid6z",
+            "score": 1,
+            "stickied": false,
+            "author_name": "fredfredburger88"
+        },
+        "dkmwz8f": {
+            "comment": "What about malware in the wild that would do this? Have there been any documented cases?",
+            "timeStamp": "2017/07/23-21:33:59",
+            "id": "dkmwz8f",
+            "is_submitter": true,
+            "link_id": "t3_6p40nk",
+            "parent_id": "t1_dkmsuk6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "fredfredburger88"
+        },
+        "dkmwx2z": {
+            "comment": "I meant to ask \"is there malware that does this\", my mistake. I guess having remote access, you could, but most malware probably wouldn't unless it was an automated process. Is there any that does it that you know of? ",
+            "timeStamp": "2017/07/23-21:32:18",
+            "id": "dkmwx2z",
+            "is_submitter": true,
+            "link_id": "t3_6p40nk",
+            "parent_id": "t1_dkmf9nc",
+            "score": 2,
+            "stickied": false,
+            "author_name": "fredfredburger88"
+        },
+        "dkmsuk6": {
+            "comment": "Danderspritz has that capability",
+            "timeStamp": "2017/07/23-19:54:30",
+            "id": "dkmsuk6",
+            "is_submitter": false,
+            "link_id": "t3_6p40nk",
+            "parent_id": "t3_6p40nk",
+            "score": -1,
+            "stickied": false,
+            "author_name": "scoiatael2012"
+        },
+        "dkmid6z": {
+            "comment": "No? Why would it",
+            "timeStamp": "2017/07/23-16:07:38",
+            "id": "dkmid6z",
+            "is_submitter": false,
+            "link_id": "t3_6p40nk",
+            "parent_id": "t3_6p40nk",
+            "score": 8,
+            "stickied": false,
+            "author_name": "Barry_Scotts_Cat"
+        },
+        "dkmf9nc": {
+            "comment": "Saying malware is like saying software. That's actually where the name originates. It's a combination of malicious and software. You'll have to be more specific.",
+            "timeStamp": "2017/07/23-15:00:51",
+            "id": "dkmf9nc",
+            "is_submitter": false,
+            "link_id": "t3_6p40nk",
+            "parent_id": "t3_6p40nk",
+            "score": 9,
+            "stickied": false,
+            "author_name": "Mr_Monster"
+        }
+    }
+}

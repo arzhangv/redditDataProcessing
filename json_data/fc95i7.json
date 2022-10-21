@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "An Anomaly-based Botnet Detection Approach for Identifying Stealthy Botnets",
+        "score": 1,
+        "id": "fc95i7",
+        "commsNum": 1,
+        "timeStamp": "2020/03/02-00:34:37",
+        "author_name": "sajjadium",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "/user/sajjadium/comments/faja07/an_anomalybased_botnet_detection_approach_for/"
+    },
+    "posts": {
+        "fkf4dbz": {
+            "comment": "[https://gist.github.com/sajjadium/92491f440b93f195d2de953134c92c93](https://gist.github.com/sajjadium/92491f440b93f195d2de953134c92c93)",
+            "timeStamp": "2020/03/13-12:13:29",
+            "id": "fkf4dbz",
+            "is_submitter": true,
+            "link_id": "t3_fc95i7",
+            "parent_id": "t3_fc95i7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sajjadium"
+        }
+    }
+}

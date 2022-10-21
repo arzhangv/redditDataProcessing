@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Thousands of Elasticsearch installs compromised to host PoS Malware",
+        "score": 1,
+        "id": "701yp5",
+        "commsNum": 0,
+        "timeStamp": "2017/09/14-05:42:55",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/63019/hacking/elasticsearch-installs-pos-malware.html"
+    },
+    "posts": {}
+}

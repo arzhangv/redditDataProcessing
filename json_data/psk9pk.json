@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hello, I always wondered one simple thing: how malware are executed on windows knowing that there is smart screen that prevent the execution of the exe file if it\u2019s untrust ?\nI know we can do dll hijack but we need to find a specific unsafe software already installed.\nI would love to understand how this works !",
+        "title": "Microsoft smart screen",
+        "score": 1,
+        "id": "psk9pk",
+        "commsNum": 3,
+        "timeStamp": "2021/09/21-07:48:44",
+        "author_name": "captain_cho",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/psk9pk/microsoft_smart_screen/"
+    },
+    "posts": {
+        "hdy66zn": {
+            "comment": "Also Smartsreen requires MOTW (Mark of the web) on the file. So only files that are downloaded from the internet by a browser is checked by SmartScreen. So smartscreem is not an adequate solution. It's oldschool and outdated IMO.",
+            "timeStamp": "2021/09/23-03:44:35",
+            "id": "hdy66zn",
+            "is_submitter": false,
+            "link_id": "t3_psk9pk",
+            "parent_id": "t3_psk9pk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "SeriousHoax"
+        },
+        "hdtne4m": {
+            "comment": "Okay thanks for the precision!",
+            "timeStamp": "2021/09/22-01:51:58",
+            "id": "hdtne4m",
+            "is_submitter": true,
+            "link_id": "t3_psk9pk",
+            "parent_id": "t1_hdqijbz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "captain_cho"
+        },
+        "hdqijbz": {
+            "comment": "The simple answer is to trick the user into letting it execute. \n\nBut also, malware isn't always a compiled exe. \n\nVbs script, macro enabled documents, batch files are all quite common in malware which are a lot easier to execute.",
+            "timeStamp": "2021/09/21-09:39:16",
+            "id": "hdqijbz",
+            "is_submitter": false,
+            "link_id": "t3_psk9pk",
+            "parent_id": "t3_psk9pk",
+            "score": 4,
+            "stickied": false,
+            "author_name": "1-2-switch"
+        }
+    }
+}

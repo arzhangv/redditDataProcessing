@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "So here's what I already done.\n\nSafe mode scan with free malwarebytes and then do a system restore.\n\nTried the emsisoft decryptor.\n\nNo lucks in both occasion. Any advices to recover my data?",
+        "title": "ROTE Ransomware",
+        "score": 1,
+        "id": "e2843q",
+        "commsNum": 5,
+        "timeStamp": "2019/11/26-17:10:39",
+        "author_name": "RlNDAMAN",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/e2843q/rote_ransomware/"
+    },
+    "posts": {
+        "f8um1ji": {
+            "comment": "ROTE is a nasty one.  No removal tools exist yet, and even the following removal guide pretty much sums up the hopelessness of getting your data back without an offline backup.   \n\n\n [https://www.pcrisk.com/removal-guides/16413-rote-ransomware](https://www.pcrisk.com/removal-guides/16413-rote-ransomware)",
+            "timeStamp": "2019/11/26-21:55:03",
+            "id": "f8um1ji",
+            "is_submitter": false,
+            "link_id": "t3_e2843q",
+            "parent_id": "t3_e2843q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "gheide"
+        },
+        "f8ubmuh": {
+            "comment": "Useless",
+            "timeStamp": "2019/11/26-19:17:00",
+            "id": "f8ubmuh",
+            "is_submitter": true,
+            "link_id": "t3_e2843q",
+            "parent_id": "t1_f8ub9ym",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RlNDAMAN"
+        },
+        "f8ub9ym": {
+            "comment": "He's saying you should pay.",
+            "timeStamp": "2019/11/26-19:12:13",
+            "id": "f8ub9ym",
+            "is_submitter": false,
+            "link_id": "t3_e2843q",
+            "parent_id": "t1_f8uacfp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AllSafeRobot"
+        },
+        "f8uacfp": {
+            "comment": "?",
+            "timeStamp": "2019/11/26-18:59:50",
+            "id": "f8uacfp",
+            "is_submitter": true,
+            "link_id": "t3_e2843q",
+            "parent_id": "t1_f8u787m",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RlNDAMAN"
+        },
+        "f8u787m": {
+            "comment": "$",
+            "timeStamp": "2019/11/26-18:19:05",
+            "id": "f8u787m",
+            "is_submitter": false,
+            "link_id": "t3_e2843q",
+            "parent_id": "t3_e2843q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Trolling_turd"
+        }
+    }
+}

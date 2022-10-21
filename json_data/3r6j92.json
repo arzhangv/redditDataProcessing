@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hello /r/malware,\n\nI'm new here, so please bear with me.  Is there a tool that exists that will automatically analyze .dmg files or other Mac filetypes, similar to what you would get from Cuckoo Sandbox, VirusTotal,  etc?\n\nUse case here is to say, scan all email attachments.  SO this isn't for a case where I know it's malware, and I can analyze manually, but more of a tool can do most of the preliminary work since most of everything being seen is likely benign. ",
+        "title": "Request: Automated OS X Malware analysis",
+        "score": 1,
+        "id": "3r6j92",
+        "commsNum": 4,
+        "timeStamp": "2015/11/01-22:19:50",
+        "author_name": "n00py",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/3r6j92/request_automated_os_x_malware_analysis/"
+    },
+    "posts": {}
+}

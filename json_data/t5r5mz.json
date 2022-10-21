@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Help! i have no idea with that virus and it windows defender just showed it",
+        "title": "Trojan: HTMLCryptoStealBTC",
+        "score": 1,
+        "id": "t5r5mz",
+        "commsNum": 3,
+        "timeStamp": "2022/03/03-05:04:56",
+        "author_name": "monica_targaryen",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/t5r5mz/trojan_htmlcryptostealbtc/"
+    },
+    "posts": {
+        "hz6wqnv": {
+            "comment": "This isn\u2019t tech support",
+            "timeStamp": "2022/03/03-07:20:28",
+            "id": "hz6wqnv",
+            "is_submitter": false,
+            "link_id": "t3_t5r5mz",
+            "parent_id": "t3_t5r5mz",
+            "score": 7,
+            "stickied": false,
+            "author_name": "canofspam2020"
+        },
+        "hz6hob5": {
+            "comment": "Ok, what porn sites have you been visiting.\n\nNothing of that nature.  It popped up in the last day because of a Dell update [https://www.reddit.com/r/sysadmin/comments/t52130/dell\\_support\\_assist\\_installing\\_malware/](https://www.reddit.com/r/sysadmin/comments/t52130/dell_support_assist_installing_malware/)",
+            "timeStamp": "2022/03/03-05:28:52",
+            "id": "hz6hob5",
+            "is_submitter": false,
+            "link_id": "t3_t5r5mz",
+            "parent_id": "t3_t5r5mz",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Kamwind"
+        },
+        "hz6hfpj": {
+            "comment": "Run a full scan, and have Windows Defender remove that file, if you want submit the file to VirusTotal and see what happens",
+            "timeStamp": "2022/03/03-05:26:51",
+            "id": "hz6hfpj",
+            "is_submitter": false,
+            "link_id": "t3_t5r5mz",
+            "parent_id": "t3_t5r5mz",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Tyyphoon9"
+        }
+    }
+}

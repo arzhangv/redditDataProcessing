@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "My PC been slower lately since I download a game from fit girl (official website). When I open task manager to check CPU usage it shows 80% and starts declining. I think it has software that notices when I open task manager and just suspends because everytime, right after I open task manager it's 80% cpu usage and just starts instantly decreasing. Is this a thing?\n\n(This happens even when I'm not doing anything on my PC. It's a gaming laptop btw with goods specs)",
+        "title": "I think something on my pc is mining without my consent",
+        "score": 1,
+        "id": "f8sx1n",
+        "commsNum": 6,
+        "timeStamp": "2020/02/24-07:34:24",
+        "author_name": "yeahss0",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/f8sx1n/i_think_something_on_my_pc_is_mining_without_my/"
+    },
+    "posts": {
+        "finqjzo": {
+            "comment": "Keep task manager up at all times, problem solved lol",
+            "timeStamp": "2020/02/24-10:18:25",
+            "id": "finqjzo",
+            "is_submitter": false,
+            "link_id": "t3_f8sx1n",
+            "parent_id": "t3_f8sx1n",
+            "score": 1,
+            "stickied": false,
+            "author_name": "madam_zeroni"
+        },
+        "fincstz": {
+            "comment": "download process monitor",
+            "timeStamp": "2020/02/24-08:14:47",
+            "id": "fincstz",
+            "is_submitter": false,
+            "link_id": "t3_f8sx1n",
+            "parent_id": "t1_fin9qev",
+            "score": 1,
+            "stickied": false,
+            "author_name": "evictedtomato"
+        },
+        "fin9x1p": {
+            "comment": "It could.  Depends on what it is.  Can\u2019t hurt though.",
+            "timeStamp": "2020/02/24-07:45:07",
+            "id": "fin9x1p",
+            "is_submitter": false,
+            "link_id": "t3_f8sx1n",
+            "parent_id": "t1_fin9qev",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sociablezealot"
+        },
+        "fin9qev": {
+            "comment": "I\u2019m now running a windows defender offline scan. Should this help?",
+            "timeStamp": "2020/02/24-07:43:12",
+            "id": "fin9qev",
+            "is_submitter": true,
+            "link_id": "t3_f8sx1n",
+            "parent_id": "t1_fin9jpk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "yeahss0"
+        },
+        "fin9pqr": {
+            "comment": "check your CPU temps and clock rates with overclocking tools, if the malware doesn't check for that then you'll have solid proof I'd think.  \nin idle your CPU shouldn't be pegging at the highest clock with a high CPU temp, same for the GPU.",
+            "timeStamp": "2020/02/24-07:43:00",
+            "id": "fin9pqr",
+            "is_submitter": false,
+            "link_id": "t3_f8sx1n",
+            "parent_id": "t3_f8sx1n",
+            "score": 1,
+            "stickied": false,
+            "author_name": "WeiserMaster"
+        },
+        "fin9jpk": {
+            "comment": "Yes, it is a thing.\n\nTry a different process view method.  Maybe a lesser known third party one, and rename it before execution.\n\nMost of the mining tools haven\u2019t bothered to be too advanced at hiding themselves.",
+            "timeStamp": "2020/02/24-07:41:15",
+            "id": "fin9jpk",
+            "is_submitter": false,
+            "link_id": "t3_f8sx1n",
+            "parent_id": "t3_f8sx1n",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sociablezealot"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "The tool was developed to facilitate and speed up the process of finding and downloading malware samples via the command line interface.\nWe\u2019ve made use of the API provided by the two major malware dump sites (openmalware.org and malwr.com) in a script that\u2019s simple and pretty straightforward, which allows users to query information pertaining to malware, such as: Name, MD5, SHA-1, SHA-256, download the desired malware sample file, and even compare its digital signature (hash) with the ones present in the dumps in question.\n\nOur next mission is to pull off the same deed, this time, however, using malwr.com, MalShare, MalwareBlacklist, Malware.lu\u2019s AVCaesar from command line malware samples submission, to hash comparison and research.\n\nVideo:https://www.youtube.com/watch?v=RPmHNlc2fSo\nGithub: https://github.com/MalwareReverseBrasil/malwaresearc\nComunnity: https://github.com/MalwareReverseBrasil",
+        "title": "Malwaresearch \u2013 A command line tool to find malware on Openmalware.org",
+        "score": 32,
+        "id": "6alljp",
+        "commsNum": 2,
+        "timeStamp": "2017/05/11-10:26:25",
+        "author_name": "ironbitss",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6alljp/malwaresearch_a_command_line_tool_to_find_malware/"
+    },
+    "posts": {}
+}

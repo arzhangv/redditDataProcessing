@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "IDA Pro Plugin Now Available to the Community",
+        "score": 1,
+        "id": "hg4hy0",
+        "commsNum": 4,
+        "timeStamp": "2020/06/26-02:36:40",
+        "author_name": "f474m0r64n4",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://intezer.com/blog/intezer-analyze/ida-pro-plugin-now-available-to-the-community/"
+    },
+    "posts": {
+        "fw3gkx8": {
+            "comment": "Actually I downloaded it and you need an API key generated from the site that you generate from your account. You then need to add that into the plugin file and try to finagle a way to get it to work with IDA. After which it looks like it'll phone home when you run it to check your API key...so yeah, not worth it for the one run a day the community edition gives.",
+            "timeStamp": "2020/06/26-12:48:40",
+            "id": "fw3gkx8",
+            "is_submitter": false,
+            "link_id": "t3_hg4hy0",
+            "parent_id": "t1_fw3cixo",
+            "score": 1,
+            "stickied": false,
+            "author_name": "carmelburro"
+        },
+        "fw3cixo": {
+            "comment": "Which is probably a malware lol",
+            "timeStamp": "2020/06/26-12:15:07",
+            "id": "fw3cixo",
+            "is_submitter": false,
+            "link_id": "t3_hg4hy0",
+            "parent_id": "t1_fw3b9dt",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Flyingfishfusealt"
+        },
+        "fw3b9dt": {
+            "comment": "Yeah and sell \u201centerprise\u201d versions of his plugin. \n\u201cThe Intezer Analyze IDA Pro plugin\u201d",
+            "timeStamp": "2020/06/26-12:04:45",
+            "id": "fw3b9dt",
+            "is_submitter": false,
+            "link_id": "t3_hg4hy0",
+            "parent_id": "t1_fw39tdp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "plkijn"
+        },
+        "fw39tdp": {
+            "comment": "I am not seeing this on the hex rays site?\n\nThis is apparently a method of getting people to join your community?",
+            "timeStamp": "2020/06/26-11:53:07",
+            "id": "fw39tdp",
+            "is_submitter": false,
+            "link_id": "t3_hg4hy0",
+            "parent_id": "t3_hg4hy0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Flyingfishfusealt"
+        }
+    }
+}

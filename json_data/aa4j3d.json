@@ -1,0 +1,99 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "New Malware Disguises Itself in Memes",
+        "score": 1,
+        "id": "aa4j3d",
+        "commsNum": 8,
+        "timeStamp": "2018/12/27-15:31:54",
+        "author_name": "alexCyber",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 8,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://myhackernews.com/blog/new-malware-disguises-itself-in-memes/"
+    },
+    "posts": {
+        "ecrgb11": {
+            "comment": "nEw mALwaRe dISguISEs iTsELf iN MEmES",
+            "timeStamp": "2018/12/28-14:23:32",
+            "id": "ecrgb11",
+            "is_submitter": false,
+            "link_id": "t3_aa4j3d",
+            "parent_id": "t3_aa4j3d",
+            "score": 1,
+            "stickied": false,
+            "author_name": "R3dChief"
+        },
+        "ecqlfq8": {
+            "comment": "I came here litterally to write this post. I'm so sick of seeing this damn 'malware in the memes brobro' trope all over reddit every day. Thank you.",
+            "timeStamp": "2018/12/28-08:34:07",
+            "id": "ecqlfq8",
+            "is_submitter": false,
+            "link_id": "t3_aa4j3d",
+            "parent_id": "t1_ecp2lfb",
+            "score": 3,
+            "stickied": false,
+            "author_name": "waterproofpatch"
+        },
+        "ecp5wq9": {
+            "comment": "Yeah, its a bad article is all. I saw this pop up on my twitter feed a few days ago and sent it to a few researchers I know, so I had the link on hand. The article is really interesting and it looked like some image based steganography was used to hide C2 commands in images obtained from Twitter.\n\n[here](https://www.darkreading.com/threat-intelligence/memes-on-twitter-used-to-communicate-with-malware/d/d-id/1333518?_mc=rss_x_drr_edt_aud_dr_x_x-rss-simple)\n\nI did some digging though, and [this article](https://blog.trendmicro.com/trendlabs-security-intelligence/cybercriminals-use-malicious-memes-that-communicate-with-malware/) seems to be the initial trend micro analysis with assorted hashes at the bottom if anyone is interested",
+            "timeStamp": "2018/12/27-17:41:00",
+            "id": "ecp5wq9",
+            "is_submitter": false,
+            "link_id": "t3_aa4j3d",
+            "parent_id": "t1_ecp55d9",
+            "score": 4,
+            "stickied": false,
+            "author_name": "DeathByHugz"
+        },
+        "ecp55d9": {
+            "comment": "You're good. You merely quoted the article.\n\n*They* should have worded it something like, \"New Malware C&amp;C Messages Hidden in Twitter Memes\" or some-such.",
+            "timeStamp": "2018/12/27-17:29:39",
+            "id": "ecp55d9",
+            "is_submitter": false,
+            "link_id": "t3_aa4j3d",
+            "parent_id": "t1_ecp4ogn",
+            "score": 7,
+            "stickied": false,
+            "author_name": "nspectre"
+        },
+        "ecp4ogn": {
+            "comment": "Hey, what head line would be more a suitable? \n\nLooks like a tech experiment",
+            "timeStamp": "2018/12/27-17:22:33",
+            "id": "ecp4ogn",
+            "is_submitter": true,
+            "link_id": "t3_aa4j3d",
+            "parent_id": "t1_ecp2lfb",
+            "score": 0,
+            "stickied": false,
+            "author_name": "alexCyber"
+        },
+        "ecp2lfb": {
+            "comment": "Bad headline is bad.\n\nThe malware is not in the meme. The commands issued to the malware you're ***already*** infected with, from some other source, is embedded in the meme document.\n\nThis is probably no more than a tech experiment and of little real-world use as they would first have to infect your machine somewhere else and then either force you to visit the Twitter account (giving away the game) or *coerce* you into visiting the account somehow.",
+            "timeStamp": "2018/12/27-16:51:48",
+            "id": "ecp2lfb",
+            "is_submitter": false,
+            "link_id": "t3_aa4j3d",
+            "parent_id": "t3_aa4j3d",
+            "score": 21,
+            "stickied": false,
+            "author_name": "nspectre"
+        },
+        "ecp0sxn": {
+            "comment": "Not the memes!",
+            "timeStamp": "2018/12/27-16:25:32",
+            "id": "ecp0sxn",
+            "is_submitter": false,
+            "link_id": "t3_aa4j3d",
+            "parent_id": "t3_aa4j3d",
+            "score": 3,
+            "stickied": false,
+            "author_name": "Widgetooo"
+        }
+    }
+}

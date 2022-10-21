@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I'm interested in researching various tools that serve to automate the Trojanization process (ie coupling a malicious payload and exploit with a document such as a PDF). Other academic resources I have been reviewing have referred to this as the 'weaponization' process. \n\nWhat are some common Trojanizer tools that accomplish this? I've been unsuccessful in finding many but admittedly do not know where to begin (aside google ;) ). My focus is on tools which weaponize/trojanize office documents or PDFs. I would greatly appreciate any help those in the community might be able to provide. Thanks.",
+        "title": "Researching Trojanizers, Need Guidance/Resources",
+        "score": 10,
+        "id": "y0sqa",
+        "commsNum": 5,
+        "timeStamp": "2012/08/10-16:04:51",
+        "author_name": "Elias51",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": null,
+        "url": "http://www.reddit.com/r/Malware/comments/y0sqa/researching_trojanizers_need_guidanceresources/"
+    },
+    "posts": {}
+}

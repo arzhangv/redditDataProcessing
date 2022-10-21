@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Sorry, I know I ask some dumb questions here. \n\nI'm not really familiar on how network sniffing works, but is this correct? Does malware typically steal network packets? What types of malware do this? ",
+        "title": "If you have an infected computer, can the malware potentially read network traffic from other devices connected to the same router?",
+        "score": 3,
+        "id": "5chqdq",
+        "commsNum": 35,
+        "timeStamp": "2016/11/11-15:48:53",
+        "author_name": "annie093",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 35,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5chqdq/if_you_have_an_infected_computer_can_the_malware/"
+    },
+    "posts": {}
+}

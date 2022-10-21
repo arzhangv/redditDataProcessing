@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "[x-post from /r/security] Dvmap: Android rooting malware that injects malicious code into system libraries during runtime",
+        "score": 1,
+        "id": "6g8j7h",
+        "commsNum": 0,
+        "timeStamp": "2017/06/09-06:52:48",
+        "author_name": "d0cc0m",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://securelist.com/78648/dvmap-the-first-android-malware-with-code-injection/"
+    },
+    "posts": {}
+}

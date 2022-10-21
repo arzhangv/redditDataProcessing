@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Same zip file in all emails, hundreds of emails.\n\nmy_new_photo832748923794823798.zip \n\nMy apologies. I did not realize the rest of the post did not show up.\n\nAdded:\n\nA trojan is a type of malware that performs activities without the user\u2019s knowledge. These activities commonly include establishing remote access connections, capturing keyboard input, collecting system information, downloading/uploading files, dropping other malware into the infected system, performing denial-of-service (DoS) attacks, and running/terminating processes.\n\nEmails coming from cdonlineem.in\n\nHost in email headers continuously changed. [I plotted several but became to realize that the emails were being sent by a fairly large botnet.](http://i.imgur.com/oq42zfM.png)\n\nI forwarded the malware onto several vendors and they have recently sent out signatures.\n\nReferences:\n\nhttps://malwr.com/analysis/OWNiOWM5MWU3ZDA4NGQxZTk3ZWY3OWEzZjJmMjAzNzY/ - Showing in a VM of what you will see upon unzipping the file.\n\nhttp://www.fortiguard.com/encyclopedia/virus/#id=6674231\n\nhttp://www.microsoft.com/security/portal/threat/encyclopedia/entry.aspx?Name=Trojan:Win32/Folyris.A#tab_2\n\nhttps://www.virustotal.com/en/file/31d4e1b2e67706fda51633b450b280554c0c4eb595b3a0606ef4ab8421a04dc9/analysis/\n\n\n",
+        "title": "W32/Fsysna.BRTR!tr - Phishing Emails",
+        "score": 1,
+        "id": "31xin8",
+        "commsNum": 2,
+        "timeStamp": "2015/04/08-15:49:31",
+        "author_name": "[deleted]",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/31xin8/w32fsysnabrtrtr_phishing_emails/"
+    },
+    "posts": {}
+}

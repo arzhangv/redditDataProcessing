@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "[AppTotal.io](https://apptotal.io/) is a **free** community tool to help security researchers and IT personnel to analyze and vet any suspicious 3rd party OAuth app connected to your Google Workspace, Azure, and more SaaS apps.\n\nHave you ever wondered what is this ambiguous app id connected to your azure env? AppTotal enables you to uncover an app's identity and its risks in minutes.\n\nCheck out [Introducing AppTotal](https://blog.canonic.security/apptotal-democratizing-oauth-app-security/) post on Canonic Security blog.\n\nWe'd love to hear your thoughts and feedback :)",
+        "title": "AppTotal, The first SaaS sandbox to analyze suspicious OAuth apps, and it's free!",
+        "score": 1,
+        "id": "tsz8ft",
+        "commsNum": 0,
+        "timeStamp": "2022/03/31-06:00:49",
+        "author_name": "mckaki",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/tsz8ft/apptotal_the_first_saas_sandbox_to_analyze/"
+    },
+    "posts": {}
+}

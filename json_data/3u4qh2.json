@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Ransomware Playbook - Guide for Handling Ransomware Infections",
+        "score": 6,
+        "id": "3u4qh2",
+        "commsNum": 3,
+        "timeStamp": "2015/11/24-13:31:02",
+        "author_name": "meirwah",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.demisto.com/playbooks/playbook-for-handling-ransomware-infections/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Looks like a resurgence of an older piece of malware updated and still active.\n\nPretty good write up by Avast:\nhttps://blog.avast.com/2015/01/06/linux-ddos-trojan-hiding-itself-with-an-embedded-rootkit/\n\nOriginal write up from Malwaremustdie:\nhttp://blog.malwaremustdie.org/2014/09/mmd-0028-2014-fuzzy-reversing-new-china.html\n\nSome associated code:\nhttp://pastebin.com/LJ8Lpvb1\n\nSamples:\nInstall script\tBA84C056FB4541FE26CB0E10BC6A075585\n990F3CE3CDE2B49475022AD5254E5B\t\nXorddos Uploader\t44153031700A019E8F9E434107E4706A705\nF032898D3A9819C4909B2AF634F18\n\nXorddos Trojan for EM_386\tAD26ABC8CD8770CA4ECC7ED20F37B510E\n827E7521733ECAEB3981BF2E4A96FBF\nXorddos Trojan for EM_x86_64\t859A952FF05806C9E0652A9BA18D521E57\n090D4E3ED3BEF07442E42CA1DF04B6\n\nXorddos Rootkit\t6BE322CD81EBC60CFEEAC2896B26EF015D\n975AD3DDA95AE63C4C7A28B7809029\n\nXorddos Trojan for EM_ARM\t49963D925701FE5C7797A728A044F09562\nCA19EDD157733BC10A6EFD43356EA0\n\nXorddos Trojan no rootkit\t24B9DB26B4335FC7D8A230F04F49F87B1F\n20D1E60C2FE6A12C70070BF8427AFF\n\n",
+        "title": "Linux Malware/Rootkit/DDoS \"XOR/DDoS\"",
+        "score": 8,
+        "id": "2rugr2",
+        "commsNum": 0,
+        "timeStamp": "2015/01/09-02:33:32",
+        "author_name": "PaketCap",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2rugr2/linux_malwarerootkitddos_xorddos/"
+    },
+    "posts": {}
+}

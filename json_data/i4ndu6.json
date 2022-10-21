@@ -1,0 +1,132 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I've installed a text plugin for adobe after effects and right after installing it windows defender notified me that it has detected \"Trojan:Win32/Wacatac.B!rfn\"  located at \"C:\\\\ProgramData\\\\Adobe\\\\Extension Manager CC\\\\Temp\\\\TMP\\_20200805220938331\\\\dist\\\\assets\\\\pluginInstaller\\\\win\\\\textanimatorPlugin.exe\" \n\nI got scared and clicked the option to remove it immediately.\n\nNow windows defender says:\n\nThreat blocked.\n\nStatus: Removed\n\nI took the extra precaution and ran a malwarebytes (free) scan including scanning for rootkits in safe mode, scanning my OS drive and my 2TB storage drive. It ran for 4 hours and found nothing. After that I ran the windows defender offline scanner and it found nothing too. I took a break from the anxiety and a few hours later I decided to download SuperAntiSpyware's 14 day free trial and ran it's full scan for a third opinion. It didn't find anything too, although it found 700+ cookies that are related to running ads (I forgot exactly but I'm sure that it's harmless) on google chrome and deleted it.\n\nAm I safe from this malware now? How can I make sure that it's really gone from my system? Thanks in advance.",
+        "title": "My windows defender detected a Trojan:Win32/Wacatac.B!rfn",
+        "score": 1,
+        "id": "i4ndu6",
+        "commsNum": 10,
+        "timeStamp": "2020/08/06-00:35:05",
+        "author_name": "Fast-Jello",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 10,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/i4ndu6/my_windows_defender_detected_a/"
+    },
+    "posts": {
+        "g1evvsz": {
+            "comment": "Windows Defender blocked the executable before it executed, so yes you are safe. That detection was an on-disk detection, so the file was blocked before it had a chance to run at all.\n\nNow you have to determine if it was a false-positive or not. If that was a legitimate plugin and you can confirm from the creator/community the file was correct (compare hashes), then you should report it to Microsoft as a false positive.\n\nDefender will sometimes block cracked versions of commercial software for containing malware, so consider the source of how you downloaded this plugin.",
+            "timeStamp": "2020/08/13-22:31:23",
+            "id": "g1evvsz",
+            "is_submitter": false,
+            "link_id": "t3_i4ndu6",
+            "parent_id": "t3_i4ndu6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "port443"
+        },
+        "g11k4fz": {
+            "comment": "How can I set up a backup like that! Can I just back up everything and keep it on a 2TB HDD?",
+            "timeStamp": "2020/08/10-15:44:53",
+            "id": "g11k4fz",
+            "is_submitter": false,
+            "link_id": "t3_i4ndu6",
+            "parent_id": "t1_g0lgrda",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DANELZ"
+        },
+        "g0s22c1": {
+            "comment": "Please send me the file or source if you can. I am 87% sure this was a false positive. I recon WDefender liked to mark all vmprotected files as Wacatac, though its weird this would be the case. I would like to take a look at it.\n\nSaw your post on Microsoft Community too. Definetly please stay with Bitdefender. WD is problematic.",
+            "timeStamp": "2020/08/08-04:01:52",
+            "id": "g0s22c1",
+            "is_submitter": false,
+            "link_id": "t3_i4ndu6",
+            "parent_id": "t3_i4ndu6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "fifato"
+        },
+        "g0m9y5v": {
+            "comment": "That's the name of the game :) Especially if it's a business PC. Even for a small business I would highly recommend using a server (cloud or physical) for backing up important data. \n\nYou almost want to treat your work computer as a temporary storage vessel for files you use. You interact with what you need when you need to and back your files up to the server frequently. This helps prevent data loss and in the event of an infection or even just a general mishap, you can say oh well, wipe the PC and start over without losing the important stuff.",
+            "timeStamp": "2020/08/06-16:18:24",
+            "id": "g0m9y5v",
+            "is_submitter": false,
+            "link_id": "t3_i4ndu6",
+            "parent_id": "t1_g0m3t45",
+            "score": 1,
+            "stickied": false,
+            "author_name": "delliott8990"
+        },
+        "g0m3t45": {
+            "comment": "No need for apologies! I very much appreciate you nerding out and helping. I've never heard of hyper-v but it looks like it's definitely worth investigating, moving forward with the security and ease of my business.\n\nOn the other hand. I've tried the free 30 day trial of bitdefender total security and I just realized how comprehensive it is. It even scans the files inside ISO's and zip files unlike malwarebytes. The program says it also scans for traces of previous attacks and anything that could and would have compromised my security. And after all that, it comes with a comprehensive log. I just might subscribe to their service. Yeah i know. They caught me off guard and now I'm attracted, but I think it's worth it for an average user like me.\n\nI've never encountered something like this before. And you just inspired me to study more about this side of owning and operating a business on a computer. I have been in this business for a short but growing 4 years now and I just realized now is the time to truly protect my assets. Thank you kind sir. :)",
+            "timeStamp": "2020/08/06-15:24:19",
+            "id": "g0m3t45",
+            "is_submitter": true,
+            "link_id": "t3_i4ndu6",
+            "parent_id": "t1_g0ltvj6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Fast-Jello"
+        },
+        "g0ltvj6": {
+            "comment": "No, I have not heard of tron-script actually. It sounds like an interesting solution. That said, while I'm definitely not an expert, it certainly sounds like you've covered your basis' so it seems like you should be able to plow through your project at the very least and then consider a reimage option.\n\nAlternatively, post-project if you are on a new enough version of Windows is to enable hyper-v and stand yourself up a virtual machine to work in. With hyper-v you can take snapshots of your system at any time and then if something were to go wrong you can restore to that point before the issue occurred. This prevents the need to do any type of wiping reimaging and so on. Apologies for nerding out I hope this helps :)",
+            "timeStamp": "2020/08/06-14:00:55",
+            "id": "g0ltvj6",
+            "is_submitter": false,
+            "link_id": "t3_i4ndu6",
+            "parent_id": "t1_g0lkfav",
+            "score": 1,
+            "stickied": false,
+            "author_name": "delliott8990"
+        },
+        "g0lkfav": {
+            "comment": "Have you heard about tronscript?  [https://www.reddit.com/r/TronScript/](https://www.reddit.com/r/TronScript/)   \nI've read that this package works to remove malware and fix windows registry issues back to the point like it is good as new. But I'm kind of hesitant to try it.\n\nRegarding my windows registry. Malwarebytes scans for memory objects, registry, and startup items as far as I can see on it's scan options. So that gives me ease of mind.\n\nAlso, wiping and reimaging isn't an option for now as i'm in a middle of a project making an ad for a health insurance comapny. Maybe I'll make a fresh reinstall after this project.  \n\n\nI've also ran the file on virustotal. here's the link.  [https://www.virustotal.com/gui/file/e7e94d51ea3e2439274fc514d9788dfa75d0af81be712a20c884acc09096f9b0/details](https://www.virustotal.com/gui/file/e7e94d51ea3e2439274fc514d9788dfa75d0af81be712a20c884acc09096f9b0/details) \n\nWhat are your thoughts?",
+            "timeStamp": "2020/08/06-12:47:18",
+            "id": "g0lkfav",
+            "is_submitter": true,
+            "link_id": "t3_i4ndu6",
+            "parent_id": "t1_g0lgrda",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Fast-Jello"
+        },
+        "g0lgrda": {
+            "comment": "One of the real annoyances about Malware in the Windows world is that it's incredibly easy to persist solely in the Windows Registry. \"AKA fileless malware\" \n\nI know that there are tools out there to scan your registry (combofix is one I used in the past but I've been living in the Linux world for quite a few years now)\n\nOtherwise, if you know your way around well enough, you could manually check through it but realistically, even if you do find something and purge it, you run the risk of causing problems. 99% of the time, it will be easier and better practice to wipe and reimage. (Assuming that's an option)\n\nNot that it needs to be said but this is why it's crucial to have your important files backed up regularly somewhere off of the machine you use. When stuff like this comes up you can save yourself so much time because all you have to do is wipe and apply a new image. That said, make sure to be careful that you're not backing up the malware files as well hehe :).",
+            "timeStamp": "2020/08/06-12:20:26",
+            "id": "g0lgrda",
+            "is_submitter": false,
+            "link_id": "t3_i4ndu6",
+            "parent_id": "t3_i4ndu6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "delliott8990"
+        },
+        "g0je0lg": {
+            "comment": "Nice name! I think it fits your reply perfectly. \n\nI'll send you a PM. Thanks bud. I deeply appreciate it.",
+            "timeStamp": "2020/08/06-01:10:06",
+            "id": "g0je0lg",
+            "is_submitter": true,
+            "link_id": "t3_i4ndu6",
+            "parent_id": "t1_g0jdml9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Fast-Jello"
+        },
+        "g0jdml9": {
+            "comment": "The thing with malware is - you never know. Maybe they are using super advanced technology that evades absolutely anything known to AV for now. Maybe not. I would bet they probably not.\n\nWould like to take a look and PM you of results if you send a link to a malware itself.",
+            "timeStamp": "2020/08/06-01:03:35",
+            "id": "g0jdml9",
+            "is_submitter": false,
+            "link_id": "t3_i4ndu6",
+            "parent_id": "t3_i4ndu6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Suspicious_Writer"
+        }
+    }
+}

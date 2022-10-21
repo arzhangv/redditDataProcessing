@@ -1,0 +1,99 @@
+{
+    "op": {
+        "upvote_ratio": 0.85,
+        "selftext": "would my host get encrypted as well even tho i have secure boot",
+        "title": "lets say i opened petya ransomware on a vm but i had shared host drives enabled",
+        "score": 9,
+        "id": "rb2q2v",
+        "commsNum": 8,
+        "timeStamp": "2021/12/07-08:24:29",
+        "author_name": "Avocado_Express",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 8,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/rb2q2v/lets_say_i_opened_petya_ransomware_on_a_vm_but_i/"
+    },
+    "posts": {
+        "hqcwud8": {
+            "comment": "Thanks. I missed that post",
+            "timeStamp": "2021/12/28-18:16:44",
+            "id": "hqcwud8",
+            "is_submitter": false,
+            "link_id": "t3_rb2q2v",
+            "parent_id": "t1_hqckntf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "New_Green2342"
+        },
+        "hqckntf": {
+            "comment": "I'd love to just send a link but I'd recommend you do [these steps](https://www.reddit.com/r/Malware/comments/5ngm6a/comment/dcbr16r/) and find it.",
+            "timeStamp": "2021/12/28-16:44:44",
+            "id": "hqckntf",
+            "is_submitter": false,
+            "link_id": "t3_rb2q2v",
+            "parent_id": "t1_hq4a6tm",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TheRealBOFH"
+        },
+        "hq4a6tm": {
+            "comment": "Do you have working samples of petya?",
+            "timeStamp": "2021/12/26-22:23:07",
+            "id": "hq4a6tm",
+            "is_submitter": false,
+            "link_id": "t3_rb2q2v",
+            "parent_id": "t1_hnova07",
+            "score": 1,
+            "stickied": false,
+            "author_name": "New_Green2342"
+        },
+        "hnova07": {
+            "comment": "If you have a spare machine, give it a shot and watch. Great learning experience and you could learn some cool things you didn't know about the strain.\n\nFlash that BIOS just in case with a working, stable, version and repeat the experiment with other variant strains.\n\nI think it would be cool to do again on a slow weekend.\n\nBut, yes. The answer is yes. If you can see it and modify it, using the VMs operating system, so can your ransomware.",
+            "timeStamp": "2021/12/07-22:42:06",
+            "id": "hnova07",
+            "is_submitter": false,
+            "link_id": "t3_rb2q2v",
+            "parent_id": "t3_rb2q2v",
+            "score": 2,
+            "stickied": false,
+            "author_name": "TheRealBOFH"
+        },
+        "hnme0f2": {
+            "comment": "As others have said yes. And worth noting secure boot is more for securing against root kits, it just makes sure you're booting from a legitimate source. It doesn't effect the day to day running of your device. That's all defender's job / whatever other security products you have. And as the ransomware is running on the VM and not your device, then most definitely those files are at risk of getting encrypted.",
+            "timeStamp": "2021/12/07-10:28:45",
+            "id": "hnme0f2",
+            "is_submitter": false,
+            "link_id": "t3_rb2q2v",
+            "parent_id": "t3_rb2q2v",
+            "score": 4,
+            "stickied": false,
+            "author_name": "micropeenandproud"
+        },
+        "hnlyoa0": {
+            "comment": "Yeah I made that mistake before. I forgot my desktop was shared and detonated some ransomware and my shared folder files got encrypted",
+            "timeStamp": "2021/12/07-08:36:41",
+            "id": "hnlyoa0",
+            "is_submitter": false,
+            "link_id": "t3_rb2q2v",
+            "parent_id": "t3_rb2q2v",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Trolling_turd"
+        },
+        "hnlxbcc": {
+            "comment": "Secure boot is irrelevant for that type of attack. Petya doesn't want to boot... If you have those directories mounted, your files are in danger in those directories!",
+            "timeStamp": "2021/12/07-08:26:38",
+            "id": "hnlxbcc",
+            "is_submitter": false,
+            "link_id": "t3_rb2q2v",
+            "parent_id": "t3_rb2q2v",
+            "score": 13,
+            "stickied": false,
+            "author_name": "KoVaNekk"
+        }
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "TrickBot: A Closer Look - malware analysis",
+        "score": 1,
+        "id": "ki4m8d",
+        "commsNum": 3,
+        "timeStamp": "2020/12/22-04:41:02",
+        "author_name": "nobletrout0",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://blogs.keysight.com/blogs/tech/nwvs.entry.html/2020/12/21/trickbot_a_closerl-TpQ0.html"
+    },
+    "posts": {
+        "ggt4eaa": {
+            "comment": "[Fixed formatting.](https://np.reddit.com/r/backtickbot/comments/kiw3bw/httpsnpredditcomrmalwarecommentski4m8dtrickbot_a/)\n\nHello, sysopfb: code blocks using triple backticks (\\`\\`\\`) don't work on all versions of Reddit!\n\nSome users see [this](https://stalas.alm.lt/backformat/ggt4czc.png) / [this](https://stalas.alm.lt/backformat/ggt4czc.html) instead.\n\nTo fix this, **indent every line with 4 spaces** instead.\n\n[FAQ](https://www.reddit.com/r/backtickbot/wiki/index)\n\n^(You can opt out by replying with backtickopt6 to this comment.)",
+            "timeStamp": "2020/12/23-08:26:10",
+            "id": "ggt4eaa",
+            "is_submitter": false,
+            "link_id": "t3_ki4m8d",
+            "parent_id": "t1_ggt4czc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "backtickbot"
+        },
+        "ggt4czc": {
+            "comment": "Hey nice writeup, a few observations from me.\nThe dynamically generated key and xor decryption you talk about on the first layer of the DLL is a custom RC4 routine that is very common in TrickBots crypter, I've written about previous versions of it before: https://zero2auto.com/2020/06/22/decrypting-trickbot-crypter/. It's basically the RC4 routine with a custom length SBOX.\n\nThe last layer you talk about where the decoded bytecode ends up using heavens gate technique is actually the decoded TrickBot Loader bytecode blob, it's basically a DLL that's been mangled into a bytecode blob. I've also talked about this layer which you can read about here: https://labs.sentinelone.com/revealing-the-trick-a-deep-dive-into-trickloader-obfuscation/ but the important piece here is that in terms of 'TrickBot' this piece at the end is the beginning or 'The Trick' project, from there it will eventually decompress out either a LZO compressed 32 bit DLL or 64 bit DLL which is the actual 'bot' component of 'The Trick' project. This then has the encoded initial configuration inside of it, for your sample it is GTAG rob2, the IP addresses are a little obfuscated and need deobfuscating.\n\n```\n'MD5': 'de36a3732f03369d5d7cfd0b568c128f', 'IMPHASH': '', 'SHA256': '22840ca738d43e9f57e2006e04d8a3cfe637b2ef92db391168a18a6c47802521', 'CONFIG': '&lt;mcconf&gt;&lt;ver&gt;100001&lt;/ver&gt;&lt;gtag&gt;rob2&lt;/gtag&gt;&lt;servs&gt;&lt;srva&gt;165.226.231.80:1273&lt;/srva&gt;&lt;srva&gt;168.140.17.62:39938&lt;/srva&gt;&lt;srva&gt;194.255.156.239:25317&lt;/srva&gt;&lt;srva&gt;96.139.163.83:10616&lt;/srva&gt;&lt;srva&gt;171.138.104.153:58232&lt;/srva&gt;&lt;/servs&gt;&lt;autorun&gt;&lt;module name=\"pwgrab\"/&gt;&lt;/autorun&gt;&lt;/mcconf&gt;', 'CONF_MD5': 'aadc570f15f320e622b59a5710bfb424'\n```\n\nSo to get the real C2s you would need to demangle them\n```\n&gt;&gt;&gt; a = '171.138.104.153:58232'\n&gt;&gt;&gt; (ip,port) = a.split(':')\n&gt;&gt;&gt; ip\n'171.138.104.153'\n&gt;&gt;&gt; port\n'58232'\n&gt;&gt;&gt; ip = ip.split('.')\n&gt;&gt;&gt; ip\n['171', '138', '104', '153']\n&gt;&gt;&gt; int(ip[0])\n171\n&gt;&gt;&gt; map(int, ip)\n[171, 138, 104, 153]\n&gt;&gt;&gt; ip = map(int, ip)\n&gt;&gt;&gt; port\n'58232'\n&gt;&gt;&gt; port = int(port)\n&gt;&gt;&gt; ip[0] ^= ip[2]\n&gt;&gt;&gt; ip[2] ^= ip[3]\n&gt;&gt;&gt; ip[1] ^= ip[2]\n&gt;&gt;&gt; ip[3] ^= ip[1]\n&gt;&gt;&gt; port ^= ip[0] | (ip[3] &lt;&lt; 8)\n&gt;&gt;&gt; port\n443\n&gt;&gt;&gt; ip\n[195, 123, 241, 226]\n&gt;&gt;&gt; '.'.join(map(str, ip))\n'195.123.241.226'\n&gt;&gt;&gt; '.'.join(map(str, ip))+':'+str(port)\n'195.123.241.226:443'\n```",
+            "timeStamp": "2020/12/23-08:25:51",
+            "id": "ggt4czc",
+            "is_submitter": false,
+            "link_id": "t3_ki4m8d",
+            "parent_id": "t3_ki4m8d",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sysopfb"
+        },
+        "ggoqj03": {
+            "comment": "I posted this to /r/netsec but realized this would be a better place.\n\nCross posting appears to be disabled.",
+            "timeStamp": "2020/12/22-04:42:12",
+            "id": "ggoqj03",
+            "is_submitter": true,
+            "link_id": "t3_ki4m8d",
+            "parent_id": "t3_ki4m8d",
+            "score": 1,
+            "stickied": false,
+            "author_name": "nobletrout0"
+        }
+    }
+}

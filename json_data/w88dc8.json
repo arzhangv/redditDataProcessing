@@ -1,0 +1,154 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I am working on a thesis about implementing an active directory environment in a small company. I am doing things in Powershell and I need to do a reverse shell from one client to the server for administration of that client. That client is used in the field across the world with public WLAN's like on airports or private WLANs in hotels etc..\n\nNow my script for the reverse shell is considered malicious by all kind of AV and blocked by AV on the Windows 11 client. Kaspersky calls it HEUR:Trojan.PowerShell.Generic\n\nDoes anybody know what exactly identifies a piece of code as a heuristic powershell Trojan or how I can find out?\n\nI know how easy it is to bypass AV with all kind of techniques but this is not the point here. I need to identify that heuristic as close as possible so I can point that out in my thesis.\n\nHope I am in the right community here =)\n\n&amp;#x200B;\n\nregards\n\np3ppi",
+        "title": "what exactly qualifies a piece of software to be HEUR:Trojan.PowerShell.Generic",
+        "score": 1,
+        "id": "w88dc8",
+        "commsNum": 0,
+        "timeStamp": "2022/07/25-20:02:44",
+        "author_name": "p3pp1_",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/w88dc8/what_exactly_qualifies_a_piece_of_software_to_be/"
+    },
+    "posts": {
+        "ihtxijo": {
+            "comment": "&gt; Thanks for the education\n\nYou are welcome\n\n&gt; Sites like virustotal.com share the files that are uploaded with lots of other \"participants\" like Antivirus Vendors and -as I understand- also passes around the information if a file was detected as malicious by one engine.\n\nYes, correct\n\n&gt; And as you (?) use the same samples and patterns to identify a malicious code when training your AI the result will be a similar function for AI models under the condition that the model depics reality as close as possible and assuming there is only one reality\n\nI see now why you get to this conclusion. But antivirus products have harsh constraints when it comes to performance inpact. So what is put into an AI model is very selective and only a fraction of the data available in reality. Furthermore, AI is used for very different purposes in antivirus detection technologies. \n\nLet's start with latter point. Some AIs are used as a prefilter to determine suspicious processes, files, or behaviour that warrant clother inspection (mainly for performance reasons, clother inspection technologies may be too costly). Some are used directly to detect malware (in the antivirus product on the customer machine), some are used indirectly to create signatures (in the backend, signatures are published to customer, not the AI). Some may only be used for clustering as well.\n\nAs an input the AIs use vastly different data and are often very specific on one area. E.g. some concentrate on API calls only, others just check byte patterns in files to determine common subpatterns to automatically create pattern signatures, some will use metadata of specific file formats only, e.g., only PE static features, others may get data from emulation for specific architectures only (including them all is too much effort, so the most common are used). We have generally high specialization in this field, with some technologies just dealing with certain file types or environments. \n\nOne AI research paper I read recently just checked the behavior of the first 3 seconds after program start, which seemed odd to me (the results weren't good either). But that is how limited we are with our models, because the field is very complex with so many different file formats, computer architectures, execution environments and data points that could be used. \n\nAnd that is why no AI looks the same.\n\nYou are right with the observation that verdicts of antivirus products often influence how other antivirus products react to a sample. That is partly because of file sharing and engine licensing, but it is also because those files detected by many antivirus vendors are preferred for processing (a lot of that happens automatically) because they have a higher likelihood to be malicious.",
+            "timeStamp": "2022/07/27-02:29:33",
+            "id": "ihtxijo",
+            "is_submitter": false,
+            "link_id": "t3_w88dc8",
+            "parent_id": "t1_ihrxbq6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Struppigel"
+        },
+        "ihsdrjf": {
+            "comment": "You seem a bit unhappy. What's wrong? Enjoy your life!\n\nYou smile. I smile &lt;3",
+            "timeStamp": "2022/07/26-17:23:10",
+            "id": "ihsdrjf",
+            "is_submitter": true,
+            "link_id": "t3_w88dc8",
+            "parent_id": "t1_ihrsf4k",
+            "score": 1,
+            "stickied": false,
+            "author_name": "p3pp1_"
+        },
+        "ihrxbq6": {
+            "comment": "Than I misunderstood the concept of signatures in this field. I thought it relates to a kind of file signatures. Thanks for the education (meant seriously). And thanks for the link. I do appreciate a precise and selective language in those theoretic conversations.\n\nI understood that machine learning is basically passing an Input X and the corresponding Ouput Y to a neural network, hence training the network. What the AI does is delevoping the function f(x). In opposite the normal way of computing is passing an input X and the function f(x) and calculate the Y. The difference between two AI models (with the same amount of neurons, same propagations and stuff) that analyze the same X and Y are the activation functions used for the neuron A1...AN  as well as the weight of the  connections between e.g. A1-A2-A6.\n\nSites like virustotal.com share the files that are uploaded with lots of other \"participants\" like Antivirus Vendors and -as I understand- also passes around the information if a file was detected as malicious by one engine. \"The velocity, volume, and the complexity of malware are posing new challenges to the anti-malware community [and] current [year 2019] state-of-the-art research shows that recently, researchers and antivirus organizations started applying machine learning and deep learning methods for malware analysis and detection.\" https://arxiv.org/pdf/1904.02441.pdf \n\nI assume that any model (physics, economics, computation whatever) tries to depict interlinks of parts of the Real World, often doing simplications at some points. So the better a model gets, the closer it gets to the Real World and vice versa. A simple model would be f(x,y,z). A more complex model would be a more complex maths expression. And as you (?) use the same samples and patterns to identify a malicious code when training your AI the result will be a similar function for AI models under the condition that the model depics reality as close as possible and assuming there is only one reality\n\nPlease be aware that I am not an expert, this is just how I \"see the world\" please let me know if I am wrong or where I might miss the point =)",
+            "timeStamp": "2022/07/26-15:23:00",
+            "id": "ihrxbq6",
+            "is_submitter": true,
+            "link_id": "t3_w88dc8",
+            "parent_id": "t1_ihr6t3a",
+            "score": 1,
+            "stickied": false,
+            "author_name": "p3pp1_"
+        },
+        "ihrsf4k": {
+            "comment": "Certainly don't put it in your paper that nobody except your supervisor is going to read",
+            "timeStamp": "2022/07/26-14:49:34",
+            "id": "ihrsf4k",
+            "is_submitter": false,
+            "link_id": "t3_w88dc8",
+            "parent_id": "t1_ihro6tz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Krombuchar2"
+        },
+        "ihro6tz": {
+            "comment": "What do you expect me to do with the information you provided? \ud83d\ude09",
+            "timeStamp": "2022/07/26-14:21:41",
+            "id": "ihro6tz",
+            "is_submitter": true,
+            "link_id": "t3_w88dc8",
+            "parent_id": "t1_ihr3ejd",
+            "score": 1,
+            "stickied": false,
+            "author_name": "p3pp1_"
+        },
+        "ihr6t3a": {
+            "comment": "&gt;They share signatures and pass them around\n\nNo, there is no sharing of signatures with other AV companies. Some AV vendors license the scanners or single technologies of other vendors, which leads to seeing the same detection names in different AV products. You see this especially with Bitdefender. Samples are shared, but not signatures.\n\n&gt;signature based detection is the easiest to bypass\n\nYou mean pattern based detection and with those I agree. Signatures can be pattern based, but can also be based on behavior, context information or anything else really. A signature is just some data, a condition that needs to be true and those are wired to a detection name. It does not matter where the data comes from.\n\nI know that you will find conflicting information about this on the internet because the media does not take the technical terms too seriously.\n\nThis article might be helpful: [https://www.gdatasoftware.com/blog/2022/06/37445-malware-detection-is-hard](https://www.gdatasoftware.com/blog/2022/06/37445-malware-detection-is-hard)\n\n&amp;#x200B;\n\n&gt;Of course signatures have nothing to do with heuristics analyzing AST. But guess what the heuristics that are used derive from AI models and as the basis for the deep learning is the same for all participants the outcome might again be close together.\n\nI do not understand this part. What are participants? The AV vendors? And why do you think we got the same heuristics or models for AI?",
+            "timeStamp": "2022/07/26-12:31:13",
+            "id": "ihr6t3a",
+            "is_submitter": false,
+            "link_id": "t3_w88dc8",
+            "parent_id": "t1_ihpqs73",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Struppigel"
+        },
+        "ihr3ejd": {
+            "comment": "Asking for help from professionals while maintaining that air of smug superiority so unique to academics in the field. If you can't figure out 'how to administer a laptop' without needing to reverse engineer Kaspersky powershell heuristics then maybe you need to rethink your thesis.",
+            "timeStamp": "2022/07/26-12:09:26",
+            "id": "ihr3ejd",
+            "is_submitter": false,
+            "link_id": "t3_w88dc8",
+            "parent_id": "t1_ihpofn2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Krombuchar2"
+        },
+        "ihqja03": {
+            "comment": "[removed]",
+            "timeStamp": "2022/07/26-10:00:52",
+            "id": "ihqja03",
+            "is_submitter": false,
+            "link_id": "t3_w88dc8",
+            "parent_id": "t3_w88dc8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ihpqs73": {
+            "comment": "You might be right with Kaspersky. But I found another AV that on one hand seems to have better protection and -more important- shows exactly what flags the script as suspicious. At least that gives a big hint as other AVs will have something alike. They share signatures and pass them around so I assume there is not much variety. \n\nYou talk about 'should not make it easy to circumvent signature'. In fact signature based detection is the easiest to bypass as u just need to change the files signature which can be done by renaming some variables and \"mix up\" the abstract syntax tree and put in nonsense expressions that have no impact but do some api calls in-between.\n\nOf course signatures have nothing to do with heuristics analyzing AST. But guess what the heuristics that are used derive from AI models and as the basis for the deep learning is the same for all participants the outcome might again be close together.\n\nOr am I totally on the wrong track here?",
+            "timeStamp": "2022/07/26-06:52:20",
+            "id": "ihpqs73",
+            "is_submitter": true,
+            "link_id": "t3_w88dc8",
+            "parent_id": "t1_ihpkvpw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "p3pp1_"
+        },
+        "ihpofn2": {
+            "comment": "That does not fit because you cannot configure an AV exclusion without user interaction on the PC.... unless u rely on windows defender... and believe me you should not do that",
+            "timeStamp": "2022/07/26-06:34:54",
+            "id": "ihpofn2",
+            "is_submitter": true,
+            "link_id": "t3_w88dc8",
+            "parent_id": "t1_ihpawwt",
+            "score": 1,
+            "stickied": false,
+            "author_name": "p3pp1_"
+        },
+        "ihpkvpw": {
+            "comment": "I am afraid that no one can help you with this. The people that have the knowledge how this particular signature works, are the ones working for Kaspersky and they not allowed to share it, nor should they do it because it makes it easier to circumvent the signature.\n\nEveryone else cannot know how it works unless they reverse engineer Kasperksys software, which is definitely overkill just to give you an answer that you do not really need. Your thesis does not need to explain internal workings of a specific anvirus protection feature unless reversing antivirus products is your thesis. In the latter case you would have to do the work yourself.",
+            "timeStamp": "2022/07/26-06:07:17",
+            "id": "ihpkvpw",
+            "is_submitter": false,
+            "link_id": "t3_w88dc8",
+            "parent_id": "t3_w88dc8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Struppigel"
+        },
+        "ihpawwt": {
+            "comment": "put your script in an AV excluded directory?",
+            "timeStamp": "2022/07/26-04:38:22",
+            "id": "ihpawwt",
+            "is_submitter": false,
+            "link_id": "t3_w88dc8",
+            "parent_id": "t3_w88dc8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "rstonk"
+        }
+    }
+}

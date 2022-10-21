@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "X86 Shellcode Obfuscation - Part 1",
+        "score": 1,
+        "id": "6euvno",
+        "commsNum": 0,
+        "timeStamp": "2017/06/02-07:57:30",
+        "author_name": "maxxori",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://breakdev.org/x86-shellcode-obfuscation-part-1/"
+    },
+    "posts": {}
+}

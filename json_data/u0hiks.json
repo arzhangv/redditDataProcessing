@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": " \n\nin windows settings it says that its a part of windows that has to be installed in order for windows to work, WinDirStat says that its an unknown file, it has no localization, and i cant delete it, any help?\n\ni might add that the file is only visible on WInDirStat after turning on \"show unknown element\" binded to f7. here a link to show how it looks: [https://imgur.com/p5OuGFV](https://imgur.com/p5OuGFV)",
+        "title": "i cant uninstall a 109 GB \"unknown\" file",
+        "score": 1,
+        "id": "u0hiks",
+        "commsNum": 0,
+        "timeStamp": "2022/04/10-06:23:55",
+        "author_name": "TFoiA_tAtA",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/u0hiks/i_cant_uninstall_a_109_gb_unknown_file/"
+    },
+    "posts": {
+        "i461e1h": {
+            "comment": "This is not a support subreddit",
+            "timeStamp": "2022/04/10-07:32:06",
+            "id": "i461e1h",
+            "is_submitter": false,
+            "link_id": "t3_u0hiks",
+            "parent_id": "t3_u0hiks",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Rakanisheu"
+        },
+        "i460bhu": {
+            "comment": "if you think it\u2019s some malware, it\u2019s probably safer just to reimage",
+            "timeStamp": "2022/04/10-07:24:08",
+            "id": "i460bhu",
+            "is_submitter": false,
+            "link_id": "t3_u0hiks",
+            "parent_id": "t3_u0hiks",
+            "score": 1,
+            "stickied": false,
+            "author_name": "t3harvinator"
+        }
+    }
+}

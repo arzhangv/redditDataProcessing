@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "GandCrab RaaS Was a Training Ground for Malware Distributors",
+        "score": 14,
+        "id": "dq8kts",
+        "commsNum": 1,
+        "timeStamp": "2019/11/01-11:54:34",
+        "author_name": "DrinkMoreCodeMore",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.bleepingcomputer.com/news/security/gandcrab-raas-was-a-training-ground-for-malware-distributors/"
+    },
+    "posts": {
+        "f67nfas": {
+            "comment": "Neat!",
+            "timeStamp": "2019/11/02-11:58:36",
+            "id": "f67nfas",
+            "is_submitter": false,
+            "link_id": "t3_dq8kts",
+            "parent_id": "t3_dq8kts",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Gumblar_net"
+        }
+    }
+}

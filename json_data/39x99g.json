@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Firstly, does anyone have any working droppers??\n\nI've also noticed that infected machines with poweliks also contain new keys aside from it's traditional CLSID. Here are the new locations..\n[HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Run] \nand \n[HKEY_CURRENT_USER\\Software\\2b755722] (The \"2b755722\" is randomized)\n\nHas anyone else noticed this? I would like a dropper to do some additional analysis. ",
+        "title": "Poweliks",
+        "score": 7,
+        "id": "39x99g",
+        "commsNum": 0,
+        "timeStamp": "2015/06/15-08:29:33",
+        "author_name": "[deleted]",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/39x99g/poweliks/"
+    },
+    "posts": {}
+}

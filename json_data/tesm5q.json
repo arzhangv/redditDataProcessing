@@ -1,0 +1,121 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "[removed]",
+        "title": "How could I route network traffic from a FLARE VM through a REMnux VM using VirtualBox while also keeping my home network safe? What is FakeNet-NG, SOCKS, Squid, INetSim, and how do they relate?",
+        "score": 1,
+        "id": "tesm5q",
+        "commsNum": 1,
+        "timeStamp": "2022/03/15-09:14:48",
+        "author_name": "MOD3RN_GLITCH",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/tesm5q/how_could_i_route_network_traffic_from_a_flare_vm/"
+    },
+    "posts": {
+        "i1c4a1c": {
+            "comment": "I would highly suggest the TCM-Security Malware analysis course. I am also a total noob when it comes to this subject, so I enrolled in this course ($30). \n\nI had had not much prior experience and I'm still working on this course, but it supplies you with malware to mess around and learn with. I was using FlareVM with Remnux. My FlareVM and remnux machine are on their own host-only adapter which makes only those machines talk to eachother and are separated from my home network (i believe if I have understood what i'm doing correctly). \n\nSo fr I've used INetSim, which is simulating having an internet connection and if the malware tries to access a specific domain it makes it seems like it reaches the destination successfully. \n\nIt so far has been a very great course and I've learned so much about Basic Static and Dynamic analysis. I'm only 50% done with the course and starting the more advanced ways of Static and Dynamic analysis",
+            "timeStamp": "2022/03/19-15:39:54",
+            "id": "i1c4a1c",
+            "is_submitter": false,
+            "link_id": "t3_tesm5q",
+            "parent_id": "t3_tesm5q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RsManKilla"
+        },
+        "i171c3m": {
+            "comment": "That's totally fair! Everyone has their method of learning/practicing their skills.",
+            "timeStamp": "2022/03/18-12:57:29",
+            "id": "i171c3m",
+            "is_submitter": false,
+            "link_id": "t3_tesm5q",
+            "parent_id": "t1_i16xch1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RampantRetard"
+        },
+        "i16xch1": {
+            "comment": "All good, just my Opinion and my approach.",
+            "timeStamp": "2022/03/18-12:30:19",
+            "id": "i16xch1",
+            "is_submitter": false,
+            "link_id": "t3_tesm5q",
+            "parent_id": "t1_i16u4l5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "HomeGrownCoder"
+        },
+        "i16u4l5": {
+            "comment": "I think using one in tandem with a viable resource is perfectly fine personally.",
+            "timeStamp": "2022/03/18-12:08:06",
+            "id": "i16u4l5",
+            "is_submitter": false,
+            "link_id": "t3_tesm5q",
+            "parent_id": "t1_i0tc1xe",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RampantRetard"
+        },
+        "i0tqpuh": {
+            "comment": "Within VirtualBox there are a few networking options. If you're really worried about keeping your home network safe, the host-only mode will do that. It creates an isolated intranet without using your NIC for your VMs with no outside connection. In theory your C2 infrastructure should be fine routing over this. Personally, I've used a Nat-Network which allows for outgoing internet traffic and traffic between VMs on the same nat network. I've been working on my masters in Cybersecurity over the last year with some some C2 infrastructure both cloud and local based and Nat-Network was fine. Just don't drop your beacons outside your VMs (or click on them within your host).",
+            "timeStamp": "2022/03/15-17:57:55",
+            "id": "i0tqpuh",
+            "is_submitter": false,
+            "link_id": "t3_tesm5q",
+            "parent_id": "t3_tesm5q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Rmcsherry19327"
+        },
+        "i0tc1xe": {
+            "comment": "There is the issue with getting pointed to a pack of tools without understanding what each one does. \n\nI would honestly not do anything with any VM until you have tested and understand each h of the tools you listed above.\n\nNew analyst should not just grab flarevm and go. That is the worst way to learn a trade.",
+            "timeStamp": "2022/03/15-16:10:55",
+            "id": "i0tc1xe",
+            "is_submitter": false,
+            "link_id": "t3_tesm5q",
+            "parent_id": "t3_tesm5q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "HomeGrownCoder"
+        },
+        "i0t9yjq": {
+            "comment": "**local network settings on network adapter.\n+Fake net should be enough.\n+Use Wireshark while detonating the malware.\n+https://cuckoosandbox.org/\n\nMany options out there",
+            "timeStamp": "2022/03/15-15:56:04",
+            "id": "i0t9yjq",
+            "is_submitter": false,
+            "link_id": "t3_tesm5q",
+            "parent_id": "t3_tesm5q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "redhatorian"
+        },
+        "i0rw0f9": {
+            "comment": "To use Remnux to capture C2 traffic, you need to setup inetsim. If you aren\u2019t super comfortable with networking, it might be time consuming and not worth your time. Basically what you do is create a virtual network in VMWare and then point your flare VM to remnux as the default gateway. Inetsim is nice because you can configure a lot of options on how the C2 responds but most of the time it is overkill. \n\nThe easiest thing to do to get started is by using Fakenet. All you do is make sure your VM is in a host-only network, disable folder sharing, and run. All fakenet does is respond to network requests so that the malware can keep executing. It also takes a pcap for you which is critical. \n\nWith fakenet you can customize it to serve different honey binaries but the default settings are good for almost 100% of what you will be doing trying to learn this stuff. I will only use fakenet unless something special lands on my desk.",
+            "timeStamp": "2022/03/15-10:32:00",
+            "id": "i0rw0f9",
+            "is_submitter": false,
+            "link_id": "t3_tesm5q",
+            "parent_id": "t3_tesm5q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Trolling_turd"
+        },
+        "i0rjzst": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators **and be sure to include the link to the post** - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2022/03/15-09:14:50",
+            "id": "i0rjzst",
+            "is_submitter": false,
+            "link_id": "t3_tesm5q",
+            "parent_id": "t3_tesm5q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I am in search of Chameleon bot sample [ http://www.spider.io/blog/2013/03/chameleon-botnet] for my project.  Some repos have lot of malwares with only the hash name. \nAre there some way to know the hash of the malware that I need?\nIf someone have this malware, please do share. ",
+        "title": "Need Chameleon Bot sample",
+        "score": 5,
+        "id": "2abkn7",
+        "commsNum": 1,
+        "timeStamp": "2014/07/10-03:07:38",
+        "author_name": "sreepriya",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2abkn7/need_chameleon_bot_sample/"
+    },
+    "posts": {}
+}

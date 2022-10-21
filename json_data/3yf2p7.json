@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Some malware allows the user to \"build\" a new and unique binary executable. How does this work without exposing the source code or without needing a compiler installed. An example would be the infamous DarkComet RAT which allows you to \"build\" as many unique binaries as you want, all with different settings.\n\nThanks for any help!",
+        "title": "How do malware \"builders\" work without exposing the source code or needing a compiler?",
+        "score": 32,
+        "id": "3yf2p7",
+        "commsNum": 16,
+        "timeStamp": "2015/12/27-10:00:35",
+        "author_name": "l0n3_w4nder3r",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 16,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/3yf2p7/how_do_malware_builders_work_without_exposing_the/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "All of my training and experience in malware analysis so far has been regular Win32 portable executable files, but I know that malware for embedded systems like ICS and PoS are becoming more popular. What sorts of differences should I expect to see in these malware samples? \n\nI know that malware basically leverages the APIs of the underlying system to perform actions on that system. Looking for system calls for functions such as CreateFile, InternetConnect, etc. go a long way when performing code analysis of these samples to determine what the file is doing. I suspect that its a similar process for embedded system malware, except that rather than calls to Windows, you might see system calls for the underlying system. But I know that oftentimes hardware platforms have Windows embedded running on top of them. Would I see an API call for something like \"open that door,\" \"read that credit card data,\" or \"spin that centrifuge faster?\" Are these things visible when analyzing the malware in a disassembler or debugger? How does the malware interact with the underlying embedded system? What sort of analysis environment should I set up?  \n\nAny tips or advice is helpful. Thanks a lot!",
+        "title": "What differences can I expect between ICS/PoS malware vs regular portable executables?",
+        "score": 3,
+        "id": "41zwhn",
+        "commsNum": 1,
+        "timeStamp": "2016/01/21-05:14:27",
+        "author_name": "BarkyCarnation",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/41zwhn/what_differences_can_i_expect_between_icspos/"
+    },
+    "posts": {}
+}

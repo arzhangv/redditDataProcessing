@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "TCP Backdoor.Zincite.A , Runs on port 1034 . Now my understanding is that one has to communicate with the service running on a particular port.\n\nThe malware is a decade old, and although I found plenty of details about the malware, not talked about which commands the malware responds to. I am assuming I have to send specific commands that the service responds to using nc or something ?\n\nSo is there any archive, where the detailed analysis of the malware is present ? Or some other method by which to figure out which commands the malware responds to ?\n\nThanks\n",
+        "title": "Is there some sort of malware archive ? Stumbled upon a old malware running on a site and am trying to send 'commands' to it.",
+        "score": 9,
+        "id": "4ctrsy",
+        "commsNum": 6,
+        "timeStamp": "2016/03/31-20:50:26",
+        "author_name": "evil_maddy",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/4ctrsy/is_there_some_sort_of_malware_archive_stumbled/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Defeating Return-Oriented Rootkits With \"Return-less\" Kernels",
+        "score": 10,
+        "id": "3tyae6",
+        "commsNum": 13,
+        "timeStamp": "2015/11/23-07:43:55",
+        "author_name": "HairyNopper",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 13,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://dl.acm.org/citation.cfm?id=1755934&amp;dl=ACM&amp;coll=DL"
+    },
+    "posts": {}
+}

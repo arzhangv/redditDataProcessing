@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "WannaCry, Uiwix and more samples [HERE]",
+        "score": 1,
+        "id": "6c02o1",
+        "commsNum": 0,
+        "timeStamp": "2017/05/18-16:46:49",
+        "author_name": "axpatito",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://github.com/fabrimagic72/malware-samples/tree/master/Ransomware/Wannacry"
+    },
+    "posts": {}
+}

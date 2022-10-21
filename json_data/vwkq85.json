@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hello!\n\nI'm writing to ask help about an email I just received. \n\nToday I was expecting a delivery from DHL.\nTen minutes before the courier delivering it at my door, I received an email, supposedly by DHL, claiming that the delivery attempt failed and I needed to reschedule and pay for the delivery. \nI clicked on the link and Avast alerted me about the website being a malware, but I still had the chance to navigate the website.\nImmediately after I checked the email address of the sender and it was an address registered with outlook.fr.\nNow, I ran a scan of the whole phone (I opened the email on the Gmail app on Android) and Avast didn't detect anything suspicious. \n\nIs there any risk my phone is infected in anyway since I visited the website?\n\nIs there an option to have all the website Avast detects as malware blocked?\n\nAlso, how is that possible they knew exactly what type of email to send and at what moment?\n\nThanks in advance.",
+        "title": "Malware detected in email",
+        "score": 1,
+        "id": "vwkq85",
+        "commsNum": 0,
+        "timeStamp": "2022/07/11-08:11:36",
+        "author_name": "Xena993",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/vwkq85/malware_detected_in_email/"
+    },
+    "posts": {
+        "ifqkw5d": {
+            "comment": "Thanks!\nI'm usually careful, but this was a very unfortunate coincidence",
+            "timeStamp": "2022/07/11-09:14:18",
+            "id": "ifqkw5d",
+            "is_submitter": true,
+            "link_id": "t3_vwkq85",
+            "parent_id": "t1_ifqkjlq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Xena993"
+        },
+        "ifqkjlq": {
+            "comment": "Since you didn't pay, you probably don't have anything to worry about. Just be careful clicking random links out there, even if they come from seemingly trustworthy recipients.",
+            "timeStamp": "2022/07/11-09:11:59",
+            "id": "ifqkjlq",
+            "is_submitter": false,
+            "link_id": "t3_vwkq85",
+            "parent_id": "t1_ifqewnn",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Ponptc"
+        },
+        "ifqewnn": {
+            "comment": "Thanks for your reply!\nThe website was trying to make me schedule a delivery and pay for it.\nI didn't download anything and didn't provide any information",
+            "timeStamp": "2022/07/11-08:34:21",
+            "id": "ifqewnn",
+            "is_submitter": true,
+            "link_id": "t3_vwkq85",
+            "parent_id": "t1_ifqen91",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Xena993"
+        },
+        "ifqen91": {
+            "comment": "&gt;Also, how is that possible they knew exactly what type of email to send and at what moment?\n\nThey didn't. These e-mails are sent randomly, in the hopes of someone falling for the trick the exact same way as you did. It was just coincidental (and unfortunate) that you received that e-mail at the same time as your package.\n\n&amp;#x200B;\n\n&gt;Is there any risk my phone is infected in anyway since I visited the website?\n\nThere's always a risk, but usually these websites are just phishing websites, so they rely on you doing something before doing any harm. It depends on what happened once you visited the website. Were they asking for personal information or account credentials? Were they asking you to download something?",
+            "timeStamp": "2022/07/11-08:32:34",
+            "id": "ifqen91",
+            "is_submitter": false,
+            "link_id": "t3_vwkq85",
+            "parent_id": "t3_vwkq85",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Ponptc"
+        },
+        "ifqdhgf": {
+            "comment": "Avast should tell you the type of malware it is, this will give you an indication of what to do next.",
+            "timeStamp": "2022/07/11-08:24:45",
+            "id": "ifqdhgf",
+            "is_submitter": false,
+            "link_id": "t3_vwkq85",
+            "parent_id": "t3_vwkq85",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Several-Listen7915"
+        }
+    }
+}

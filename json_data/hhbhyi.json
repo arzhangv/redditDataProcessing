@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "[Blog post] Deobfuscate PowerShell using PowerShell Logging",
+        "score": 1,
+        "id": "hhbhyi",
+        "commsNum": 0,
+        "timeStamp": "2020/06/28-02:24:33",
+        "author_name": "securityinbits",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.securityinbits.com/malware-analysis/deobfuscate-powershell-using-powershell-logging/"
+    },
+    "posts": {}
+}

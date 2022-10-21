@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hello,\n\n&amp;#x200B;\n\nsuspected new Ransomware \".Jumper\". \n\n&amp;#x200B;\n\nI can't find anything on the Internet that even mentions this extension. Has anyone seen this ?\n\n&amp;#x200B;\n\nThe client saw all the files renamed to \\*.jumper. They took a photo with their phone. \n\n&amp;#x200B;\n\nthen the ransom came up. They freaked out and powered down.\n\n&amp;#x200B;\n\n&amp;#x200B;\n\nWe have been to site to take a look however, server now does not boot due to corrupted RAID.\n\nthe machines are on the way back to the office now but I wanted to jump in and ask if anyone has seen this before.\n\n&amp;#x200B;\n\n&amp;#x200B;\n\nID Ransomware called it \"Jamper\" which I assume is a spelling error\n\n&amp;#x200B;\n\n[https://id-ransomware.malwarehunterteam.com/identify.php?case=ae2ad39165dbba8ffb71446db6ff3620d1386b07](https://id-ransomware.malwarehunterteam.com/identify.php?case=ae2ad39165dbba8ffb71446db6ff3620d1386b07)\n\n&amp;#x200B;\n\nWe have resurrected the server (when they downed it, it killed the RAID).\n\n&amp;#x200B;\n\nWe have worked out that the process began at 5 am Monday morning before staff arrived at work.\n\n&amp;#x200B;\n\nWe know who is the owner of the file.\n\nWe are now trying to get his PC.\n\n&amp;#x200B;\n\nLooks like another RDP attack as this client runs their own IT and will not listen about passwords and RDP access. \n\n&amp;#x200B;\n\nAt that time of the morning, Likely came in via RDP.\n\n&amp;#x200B;\n\n\\---README---.TXT\n\n&amp;#x200B;\n\nYour personal id 159A31C3C3\n\nAll your important files are encrypted! \n\nThere is only one way to get your files back: \n\n1. Contact with us \n\n2. Send us 1 any encrypted your file and your personal id \n\n3. We will decrypt 1 file for test, its guarantee what we can decrypt your files \n\n4. Pay \n\n5. We send for you decryptor software \n\n \n\nWe accept Bitcoin \n\n \n\nAttention! \n\nDo not rename encrypted files. \n\nDo not try to decrypt using third party software, it may cause permanent data loss. \n\nDecryption of your files with the help of third parties may cause increased price (they add their fee to our) \n\n \n\nContact information: \n\n \n\nEmail 1:  [greenworksh@mail.com](mailto:greenworksh@mail.com)\n\n \n\nEmail 2:  [greenworksh@countermail.com](mailto:greenworksh@countermail.com)\n\n&amp;#x200B;\n\n&amp;#x200B;",
+        "title": "suspected new Ransomware \".Jumper\".",
+        "score": 12,
+        "id": "banusy",
+        "commsNum": 3,
+        "timeStamp": "2019/04/07-18:40:23",
+        "author_name": "mickyj_j",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/banusy/suspected_new_ransomware_jumper/"
+    },
+    "posts": {
+        "ekrs5vr": {
+            "comment": "I can back this guy up in saying a client was also struck over what I believe to have been open RDP ports and the extensions are all .jumper.",
+            "timeStamp": "2019/04/12-19:47:32",
+            "id": "ekrs5vr",
+            "is_submitter": false,
+            "link_id": "t3_banusy",
+            "parent_id": "t1_ekd3rwu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MSPAdventures"
+        },
+        "ekd5jiw": {
+            "comment": "Awesome, thank you ",
+            "timeStamp": "2019/04/07-20:42:24",
+            "id": "ekd5jiw",
+            "is_submitter": true,
+            "link_id": "t3_banusy",
+            "parent_id": "t1_ekd3rwu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mickyj_j"
+        },
+        "ekd3rwu": {
+            "comment": "You may want to contact this researcher about your ransomware.\n\nhttps://mobile.twitter.com/demonslay335/status/1106319560502849536\n\nIt\u2019s quite likely that the extension is actually .jamper and not .jumper as the information you have provided (email and readme file) match the characteristics of the Jamper ransomware.",
+            "timeStamp": "2019/04/07-20:16:42",
+            "id": "ekd3rwu",
+            "is_submitter": false,
+            "link_id": "t3_banusy",
+            "parent_id": "t3_banusy",
+            "score": 5,
+            "stickied": false,
+            "author_name": "wjlow"
+        }
+    }
+}

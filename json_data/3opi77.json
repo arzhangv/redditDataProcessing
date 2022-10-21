@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Years ago, when looking into malware analysis I was listening to a podcast that described a particular system.\n\nI've been trying to track it down but I'm now beginning to think I might have imagined it. Hopefully the description below might ring some bells, and I'd be very grateful if someone could point me in the right direction...\n\nEssentially, once a PC was infected (this was Windows XP days), you could hook it up to an isolated network with one other box attached. This box acted as 'the internet' and would return any file that was requested, or rather a dummy file with whatever filename was requested.\n\nThe idea being that if Malware X was asking server 1.1.1.1 for filename.bat, the box would respond as if it was server 1.1.1.1 and send an empty file named filename.bat. All the while the requests and interactions could be logged with WireShark (Ethereal as it was then)\n\nDoes this exist or did I just dream it?\n",
+        "title": "REQUEST - Looking for a particular honeypot system",
+        "score": 5,
+        "id": "3opi77",
+        "commsNum": 4,
+        "timeStamp": "2015/10/14-03:55:32",
+        "author_name": "StoveyJ",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/3opi77/request_looking_for_a_particular_honeypot_system/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I have a list of malware files (mostly phishing attempts via embedding in documents) that I need to do some analysis on. I have a machine running Arch Linux that has Cuckoo sandbox installed, as well as a Windows 7 Virtualbox guest. I have done some static analysis already on a few pieces of malware and it looks like they are trying to make some HTTP requests, but cannot get responses due to the host machine being completely disconnected from the internet. I am interested to see exactly what this malware will do (or try to do) to the machine, and checking out what kinds of logs it will churn out. \n\nThat said, I'm looking into setting up a malware lab of sorts with internet access that would allow this. I have an old router that I am planning to use for my \"dirty line\" out to the internet which would replace the router which already services the devices in my house. I have also planned to use a VPN on the host machine to proxy the connections, with the intent to hide metadata about my internet service &amp; location.\n\nMy first question is: \n&gt; Is giving malware access to the internet a bad idea?\n\nIn this scenario, though, I wouldn't be able to get internet access on any of my household devices while running malware in my sandbox. This is an issue, because the other people living in this house also need internet access while I would be doing this- so I've been looking for a solution to achieve two separate, isolated networks, where network A would supply *clean* internet to my home network, and network B would supply internet to my small malware lab network.\n\n---\n\nThe two methods that I've been looking into are as follows:\n\n1) Do a triple-router Y configuration with:\n\n* (Master Router/Modem) - Router 1 connected to the fiber ONT, wifi disabled, static IPs for both router 2 and router 3\n* (\"Clean\" Router) - Router 2 with subnet 192.168.2.x, DNS set to Router 1's IP, dhcp enabled\n* (\"Dirty\" Router) - Router 3 with subnet 192.168.3.x, DNS set to Router 1's IP, dhcp enabled \n\n2) Use a network switch to split the fiber connection via VLAN to two routers:\n\n* (\"Clean\" Router) - Router 2 with subnet 192.168.2.x\n* (\"Dirty\" Router) - Router 3 with subnet 192.168.3.x\n\n---\n\nAre either of those methods complete overkill? I've never really worked with malware much before now, so it could just be paranoia setting in... How dangerous would either of those two methods mentioned above be? If configured either way, would malware be able to spread from the isolated \"dirty\" network to other devices on my clean network?\n\nThanks for any input that you can give!\n\n**TL;DR**: Is running malware in a sandbox VM with proxied network traffic (via a VPN) on an isolated network safe *enough*?",
+        "title": "Is it a bad idea to give a sandbox that is running malware full internet access?",
+        "score": 18,
+        "id": "82tvcq",
+        "commsNum": 17,
+        "timeStamp": "2018/03/07-17:53:57",
+        "author_name": "bitpixii",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 17,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/82tvcq/is_it_a_bad_idea_to_give_a_sandbox_that_is/"
+    },
+    "posts": {}
+}

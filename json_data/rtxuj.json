@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I am a computer tech for a major company.  One of my duties includes removal of malware.  I just finished creating two virtual machines (1 XP, 1 Win 7) on a quarantined machine with the intent of loading malware to practice removal.  \nI understand but underestimated the difficulty of actually finding maleware to download.  I had seen a youtube video of a gent with a zip of 150 assorted pieces of malware and a list of certain known infected urls.   This is exactly what I am looking for.  Rouges would be great but really nasty rootkits would be more challenging.  \nAgain I understand the fact that this is uncommon knowledge and I can provide my credentials to parties willing to grant me access to their ftp or email me a zip.  Let me know if I am out of line asking this here or if it makes you feel better, respond in a pm.  \nThank you for your time.",
+        "title": "Where is a good place to start my hunt for downloading malware?",
+        "score": 1,
+        "id": "rtxuj",
+        "commsNum": 0,
+        "timeStamp": "2012/04/04-18:39:16",
+        "author_name": "[deleted]",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": null,
+        "url": "http://www.reddit.com/r/Malware/comments/rtxuj/where_is_a_good_place_to_start_my_hunt_for/"
+    },
+    "posts": {}
+}

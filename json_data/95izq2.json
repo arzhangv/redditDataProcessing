@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I thought I was pretty careful with third party apps but it seems something got into my android phone but I don't know what app it could have been. On my home screen an animation played that floated in an app with an anime character as its icon inside of a soap bubble. I didn't click on it and it disappeared by itself. A full size ad also played from my home screen which just started today. Now the only third party app that I downloaded was tutu and that was over a month ago and since I haven't updated or even opened it in over a month i'm not sure it is playing these ads. \n\ntldr; I got an ad for some anime app on my home screen with a bubble animation to make me click on it and a full size ad as well\n\nHas anyone seen this animation before and what did you do to remove it?",
+        "title": "An app inside of a bubble just appeared on my home screen.",
+        "score": 1,
+        "id": "95izq2",
+        "commsNum": 4,
+        "timeStamp": "2018/08/07-21:43:07",
+        "author_name": "Golden_Shadow64",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/95izq2/an_app_inside_of_a_bubble_just_appeared_on_my/"
+    },
+    "posts": {
+        "e3t5j99": {
+            "comment": "Then why don't make some rules to clarify instead of lashing out. Dumbass",
+            "timeStamp": "2018/08/07-22:28:29",
+            "id": "e3t5j99",
+            "is_submitter": true,
+            "link_id": "t3_95izq2",
+            "parent_id": "t1_e3t59m5",
+            "score": 3,
+            "stickied": false,
+            "author_name": "Golden_Shadow64"
+        },
+        "e3t59m5": {
+            "comment": "Right, which is not \u201chelp I\u2019m a fucking idiot who downloaded anime malware how do I remove?\u201d",
+            "timeStamp": "2018/08/07-22:21:58",
+            "id": "e3t59m5",
+            "is_submitter": false,
+            "link_id": "t3_95izq2",
+            "parent_id": "t1_e3t48wz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "edward_snowedin"
+        },
+        "e3t48wz": {
+            "comment": "Yea, the description of the sub says \"A place for malware reports and information\"",
+            "timeStamp": "2018/08/07-21:58:31",
+            "id": "e3t48wz",
+            "is_submitter": true,
+            "link_id": "t3_95izq2",
+            "parent_id": "t1_e3t401c",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Golden_Shadow64"
+        },
+        "e3t401c": {
+            "comment": "Does this look like a tech support subreddit to you",
+            "timeStamp": "2018/08/07-21:52:55",
+            "id": "e3t401c",
+            "is_submitter": false,
+            "link_id": "t3_95izq2",
+            "parent_id": "t3_95izq2",
+            "score": 1,
+            "stickied": true,
+            "author_name": "edward_snowedin"
+        }
+    }
+}

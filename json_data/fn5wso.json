@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[https://www.dropbox.com/s/f4uulu2rhyj4leb/Girl.scr\\_malware\\_report.pdf?dl=0](https://www.dropbox.com/s/f4uulu2rhyj4leb/Girl.scr_malware_report.pdf?dl=0)",
+        "title": "Girl.scr (Erica Ransomware) Analysis",
+        "score": 1,
+        "id": "fn5wso",
+        "commsNum": 4,
+        "timeStamp": "2020/03/22-12:51:11",
+        "author_name": "dkaye_mal_anst18",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/fn5wso/girlscr_erica_ransomware_analysis/"
+    },
+    "posts": {
+        "fl8krav": {
+            "comment": "Yeah no problem. If you want to collaborate I'm all for it, compare notes :)",
+            "timeStamp": "2020/03/22-18:12:43",
+            "id": "fl8krav",
+            "is_submitter": true,
+            "link_id": "t3_fn5wso",
+            "parent_id": "t1_fl8klnv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "dkaye_mal_anst18"
+        },
+        "fl8klnv": {
+            "comment": "Thank you, I also do this for a hobby and I was looking for tools to analyze what files are being placed. This helps a ton!",
+            "timeStamp": "2020/03/22-18:10:57",
+            "id": "fl8klnv",
+            "is_submitter": false,
+            "link_id": "t3_fn5wso",
+            "parent_id": "t1_fl8i6g6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "aprillols"
+        },
+        "fl8i6g6": {
+            "comment": "Mainly Process Monitor for malicious activity on the local machine, Wireshark for network activity, Disk and Registry Alert for what files have been added or removed from the system (also can give away where a copy of the malware is hiding), Process Explorer which is a better version of task manager.\n\nSometimes also regshot which can show registry changes and I just started using API monitor trying to learn what certain API function calls do. But I am definitely still very new to this. I do it mainly for a hobby and it is very interesting studying malware behavior.",
+            "timeStamp": "2020/03/22-17:44:03",
+            "id": "fl8i6g6",
+            "is_submitter": true,
+            "link_id": "t3_fn5wso",
+            "parent_id": "t1_fl86gdw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "dkaye_mal_anst18"
+        },
+        "fl86gdw": {
+            "comment": "Great analysis. May I ask what programs you tend to use for analysis? I normally have to rely on hybrid-analysis or other sites",
+            "timeStamp": "2020/03/22-15:41:06",
+            "id": "fl86gdw",
+            "is_submitter": false,
+            "link_id": "t3_fn5wso",
+            "parent_id": "t3_fn5wso",
+            "score": 1,
+            "stickied": false,
+            "author_name": "aprillols"
+        }
+    }
+}

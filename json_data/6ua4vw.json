@@ -1,0 +1,99 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Bypassing Malicious Office Password Protection for Analysis",
+        "score": 17,
+        "id": "6ua4vw",
+        "commsNum": 7,
+        "timeStamp": "2017/08/17-06:59:38",
+        "author_name": "majorllama",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.ringzerolabs.com/2017/08/bypassing-anti-analysis-technique-in.html"
+    },
+    "posts": {
+        "dlx6h9r": {
+            "comment": "I appreciate it! Good pointing out oletools works though. That's basically the short-of-the-long-of-it lol :)",
+            "timeStamp": "2017/08/21-05:41:59",
+            "id": "dlx6h9r",
+            "is_submitter": true,
+            "link_id": "t3_6ua4vw",
+            "parent_id": "t1_dlx6esu",
+            "score": 2,
+            "stickied": false,
+            "author_name": "majorllama"
+        },
+        "dlx6esu": {
+            "comment": "ah, yes, but its 'easy to see' that its used as the increment to something incrementing with the counter*..\n\nAnyhow.. well done!",
+            "timeStamp": "2017/08/21-05:39:59",
+            "id": "dlx6esu",
+            "is_submitter": false,
+            "link_id": "t3_6ua4vw",
+            "parent_id": "t1_dlx40xp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sigtran"
+        },
+        "dlx40xp": {
+            "comment": "Yup sure does :) emulating the macro with vipermonkey fails due to the missing variable assignment though. Had to reverse the function to find the value.",
+            "timeStamp": "2017/08/21-04:19:20",
+            "id": "dlx40xp",
+            "is_submitter": true,
+            "link_id": "t3_6ua4vw",
+            "parent_id": "t1_dlx0axx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "majorllama"
+        },
+        "dlx0axx": {
+            "comment": "[oletools](https://www.decalage.info/python/oletools) extracts the macro just fine.",
+            "timeStamp": "2017/08/21-01:24:37",
+            "id": "dlx0axx",
+            "is_submitter": false,
+            "link_id": "t3_6ua4vw",
+            "parent_id": "t3_6ua4vw",
+            "score": 2,
+            "stickied": false,
+            "author_name": "sigtran"
+        },
+        "dlswl4l": {
+            "comment": ":)",
+            "timeStamp": "2017/08/18-08:30:35",
+            "id": "dlswl4l",
+            "is_submitter": false,
+            "link_id": "t3_6ua4vw",
+            "parent_id": "t1_dlstkdt",
+            "score": 1,
+            "stickied": false,
+            "author_name": "BadMoles"
+        },
+        "dlstkdt": {
+            "comment": "Absolutely agree. Analysis tools that detect malicious-ness work just fine. This is clearly a malicious document that is heavily detected by AV and other heuristic scanning engines. The point of the article was to show that malware analysts can't always rely on automatic analysis tools (tools specifically designed to analyze binaries/scripts to discover how they work and to reverse engineer their logic, not tools to detect maliciousness). I hope this helps clarify the intent of the article and apologies for any confusion :)",
+            "timeStamp": "2017/08/18-07:36:57",
+            "id": "dlstkdt",
+            "is_submitter": true,
+            "link_id": "t3_6ua4vw",
+            "parent_id": "t1_dlsrsv4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "majorllama"
+        },
+        "dlsrsv4": {
+            "comment": "From the article intro:\n\"**Automatic analysis tools do not work**, but we show how to get past all these anti-analysis obstacles.\"\n\nBollocks.  Lastline detects this as malicious *easily*.  ",
+            "timeStamp": "2017/08/18-07:03:07",
+            "id": "dlsrsv4",
+            "is_submitter": false,
+            "link_id": "t3_6ua4vw",
+            "parent_id": "t3_6ua4vw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "BadMoles"
+        }
+    }
+}

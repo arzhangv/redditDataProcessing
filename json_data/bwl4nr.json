@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi, first post. Back in the day, I listened to the Tech Guy podcast, and he was fond of NOD32 antivirus, and they had an online free version, which i took advantage of to what i thought was doing a deeper scan. recently have eset online scanner showing up on start up, not showing up in revo or add and remove, and a few days of google searches,   not finding how to stop or remove it, or anyone else with this worry. Am I the only one?",
+        "title": "eset online scanner spoof???",
+        "score": 1,
+        "id": "bwl4nr",
+        "commsNum": 1,
+        "timeStamp": "2019/06/03-22:38:13",
+        "author_name": "gene789",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/bwl4nr/eset_online_scanner_spoof/"
+    },
+    "posts": {
+        "epybndr": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2019/06/03-22:38:14",
+            "id": "epybndr",
+            "is_submitter": false,
+            "link_id": "t3_bwl4nr",
+            "parent_id": "t3_bwl4nr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hi, so I recently was using my computer for the first time in a week as I have not been home. Went I booted it up Windows Defender notified me of threats on my PC, and it said there were threats about a week ago before I left. I do not recall downloading anything that might've caused this, but I could've easily clicked on a link or something, or my sister who sometimes uses my PC could've done something.  The Threat listed is Trojan Coinhive. I did multiple scans and tried using Windows Defender to resolve the issue but I kinda expected it wouldnt work and I don't think it did. Now when I scan the virus is not listed but it still says threats found and an option to take action. That button does not work and I am having trouble finding how to combat this on the internet. Is this the right subreddit for this or is there a better subreddit suited for helping my situation ? Thank you.",
+        "title": "Trojan CoinHive",
+        "score": 1,
+        "id": "w7dge8",
+        "commsNum": 0,
+        "timeStamp": "2022/07/24-19:53:20",
+        "author_name": "BoopedPotato",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/w7dge8/trojan_coinhive/"
+    },
+    "posts": {
+        "ihjj0nf": {
+            "comment": "And if you need help somewhere just dm me.",
+            "timeStamp": "2022/07/24-22:15:06",
+            "id": "ihjj0nf",
+            "is_submitter": false,
+            "link_id": "t3_w7dge8",
+            "parent_id": "t1_ihjir5p",
+            "score": 1,
+            "stickied": false,
+            "author_name": "roidrage84"
+        },
+        "ihjir5p": {
+            "comment": "It's super easy. Just take any USB stick with enough space and download the windows Creation tool directly from windows. \nFollow the steps there. \nThen go into bios and set to boot from USB first. \nThen follow the installation there.\nChange back to boot from where you windows sits. \nEz pz you got this.",
+            "timeStamp": "2022/07/24-22:12:16",
+            "id": "ihjir5p",
+            "is_submitter": false,
+            "link_id": "t3_w7dge8",
+            "parent_id": "t1_ihjhoql",
+            "score": 1,
+            "stickied": false,
+            "author_name": "roidrage84"
+        },
+        "ihjhoql": {
+            "comment": "Yeah I checked with Malwarebytes and they said everything was clear too. But you are probably right and I will start seeing what steps I need to do to wipe my PC. Never done that before as this was first PC my dad set up but he can't really help with it now. Thanks for the advice.",
+            "timeStamp": "2022/07/24-22:00:57",
+            "id": "ihjhoql",
+            "is_submitter": true,
+            "link_id": "t3_w7dge8",
+            "parent_id": "t1_ihjg0r3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "BoopedPotato"
+        },
+        "ihjg0r3": {
+            "comment": "And if you don't already have a SSD, i would recommend it. Just a small one with like 60+gb just for windows. That speeds everything up massively. Especially situations like this when u have to reinstall windows.",
+            "timeStamp": "2022/07/24-21:43:43",
+            "id": "ihjg0r3",
+            "is_submitter": false,
+            "link_id": "t3_w7dge8",
+            "parent_id": "t1_ihjfpl9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "roidrage84"
+        },
+        "ihjfpl9": {
+            "comment": "You have a few options here. \nGet a Antivirus software like Malewarebytes and check your system with that. \n\nBut I would recommend, safe all your important files somewhere external and just wipe Windows and install it new. If you have an SSD this should not take longer than an hour to setup everything. \nThat's the safest way. Because even if Win Defender and other Antivirus software don't find anything, you can never be sure.",
+            "timeStamp": "2022/07/24-21:40:37",
+            "id": "ihjfpl9",
+            "is_submitter": false,
+            "link_id": "t3_w7dge8",
+            "parent_id": "t3_w7dge8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "roidrage84"
+        }
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I just joined a new company and here we don't have an in-house malware analysis in place. Business solutions are a no-no here, so I have to develop an in-house sandbox. \n\nThe caveat is that people who will access this system are all around the globe and many work from home, so we will need something networked to the internal Network so people can connect over VPN to submit malware samples. \n\nRight now I am looking at cuckoo sandbox. How wise is it to have this sandbox attached to network ?  what precaution should I take and What are my other options?",
+        "title": "(request) in house dynamic malware analysis",
+        "score": 18,
+        "id": "bs90qp",
+        "commsNum": 6,
+        "timeStamp": "2019/05/23-15:11:29",
+        "author_name": "sky-reader",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/bs90qp/request_in_house_dynamic_malware_analysis/"
+    },
+    "posts": {
+        "eomrqzp": {
+            "comment": "Yes, the VMs in a virtual network, outgoing traffic of it routed through a VPN.\n\ni have not done it myself, but I have seen some people speak about it. Can be expensive, though. Processing collected results etc uses a lot of CPU and memory.\n\nIt is not supported by Cuckoo by default, but I am sure someone has made a guide or some code for it.",
+            "timeStamp": "2019/05/24-03:50:17",
+            "id": "eomrqzp",
+            "is_submitter": false,
+            "link_id": "t3_bs90qp",
+            "parent_id": "t1_eom9c87",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DeliciousLasagne"
+        },
+        "eom9c87": {
+            "comment": "So, make VMs in a separate vlan, and allow only host to be accessible from company network? \n\nAlso, have you tried successfully to deploy cuckoo on aws?",
+            "timeStamp": "2019/05/24-00:52:05",
+            "id": "eom9c87",
+            "is_submitter": true,
+            "link_id": "t3_bs90qp",
+            "parent_id": "t1_eokdohs",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sky-reader"
+        },
+        "eom8y3l": {
+            "comment": "It's more for security concerns. This company handles 3rd party confidential documents and wouldn't want to share it with anyone else outside the room.",
+            "timeStamp": "2019/05/24-00:48:23",
+            "id": "eom8y3l",
+            "is_submitter": true,
+            "link_id": "t3_bs90qp",
+            "parent_id": "t1_eokn96f",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sky-reader"
+        },
+        "eokn96f": {
+            "comment": "More out of curiosity than anything why no commercial solutions? Is it cost?\n\nIn this case with malware sandboxes I prefer in house over cots anyways.",
+            "timeStamp": "2019/05/23-17:43:27",
+            "id": "eokn96f",
+            "is_submitter": false,
+            "link_id": "t3_bs90qp",
+            "parent_id": "t3_bs90qp",
+            "score": 2,
+            "stickied": false,
+            "author_name": "compsecmonkey"
+        },
+        "eokichi": {
+            "comment": "DeliciousLasagne I agree with you. I would also like to Flare VM into the mix, as it does come with many tools on windows and REMnux for the Linux side. they are both free to use and easy to deploy into your malware environment",
+            "timeStamp": "2019/05/23-16:48:42",
+            "id": "eokichi",
+            "is_submitter": false,
+            "link_id": "t3_bs90qp",
+            "parent_id": "t1_eokdohs",
+            "score": 4,
+            "stickied": false,
+            "author_name": "Cypher848"
+        },
+        "eokdohs": {
+            "comment": "Cuckoo Sandbox user here. I have set up a bunch of them. Alternatives: it has many forks, I don't know of other open source solutions.\n\nMy advice would be:\nRoute all VM traffic to the internet over a VPN. Giving the VM internet greatly increases the accuracy of an analysis. The VMs should definitely be on their own virtual network.\n\nYou can safely expose the web interface to the internet, if you serve it using UWSGI+NGINX. You could maybe use a htpass with NGINX?\n\nA tip on VM creation: take a look at VMCloak. It is a tool that automatically creates Virtualbox VMs, allows for automatic software installation etc.",
+            "timeStamp": "2019/05/23-15:57:15",
+            "id": "eokdohs",
+            "is_submitter": false,
+            "link_id": "t3_bs90qp",
+            "parent_id": "t3_bs90qp",
+            "score": 8,
+            "stickied": false,
+            "author_name": "DeliciousLasagne"
+        }
+    }
+}

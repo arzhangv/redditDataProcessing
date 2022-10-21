@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "UAC bypass ransomware analysis using CMSTPLUA COM - T1218",
+        "score": 1,
+        "id": "ivrd6l",
+        "commsNum": 0,
+        "timeStamp": "2020/09/19-05:06:45",
+        "author_name": "securityinbits",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.securityinbits.com/malware-analysis/uac-bypass-analysis-stage-1-ataware-ransomware-part-2/"
+    },
+    "posts": {}
+}

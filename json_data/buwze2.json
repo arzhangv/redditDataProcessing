@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "A dive into Turla's PowerShell usage",
+        "score": 21,
+        "id": "buwze2",
+        "commsNum": 1,
+        "timeStamp": "2019/05/30-11:53:29",
+        "author_name": "goretsky",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.welivesecurity.com/2019/05/29/turla-powershell-usage/"
+    },
+    "posts": {
+        "epirsu4": {
+            "comment": "Hello,\n\nAn update on how the Turla threat actor group has switched to PowerShell and RDP for exploitation and lateral movement.\n\nNo separate paper.  \n\nIoCs are mirrored at https://github.com/eset/malware-ioc/tree/master/turla#turla-powershell-indicators-of-compromise.\n\nRegards,\n\nAryeh Goretsky",
+            "timeStamp": "2019/05/30-11:55:28",
+            "id": "epirsu4",
+            "is_submitter": true,
+            "link_id": "t3_buwze2",
+            "parent_id": "t3_buwze2",
+            "score": 5,
+            "stickied": false,
+            "author_name": "goretsky"
+        }
+    }
+}

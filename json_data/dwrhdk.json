@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Breach affecting 1 million was caught only after hacker maxed out target\u2019s storage",
+        "score": 1,
+        "id": "dwrhdk",
+        "commsNum": 2,
+        "timeStamp": "2019/11/15-06:25:44",
+        "author_name": "banet",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://arstechnica.com/information-technology/2019/11/breach-affecting-1-million-was-caught-only-after-hacker-maxed-out-targets-storage/"
+    },
+    "posts": {
+        "f7nlgrv": {
+            "comment": "That's pretty standard. You grab all the data you want, stage it, and then exfil from there. \n\nIntruders lying dormant in a network is way more common than you think. Statistically in average it takes 90 days that respond to an incident, but given that's around what most organizations retain in logs, it is probably much higher.",
+            "timeStamp": "2019/11/16-05:03:44",
+            "id": "f7nlgrv",
+            "is_submitter": false,
+            "link_id": "t3_dwrhdk",
+            "parent_id": "t1_f7m3h0t",
+            "score": 1,
+            "stickied": false,
+            "author_name": "commandlineinterface"
+        },
+        "f7m3h0t": {
+            "comment": "The complaint said InfoTrax employees did not discover the breach until March 7, 2016, when they received alerts that one of the company's servers had reached its maximum storage capacity. The alert was the result of the intruder creating a data archive file that had grown so large that a hard drive ran out of space.\n\n\nLOL the hacker had so much time they made themselves a little home in the server.",
+            "timeStamp": "2019/11/15-13:36:35",
+            "id": "f7m3h0t",
+            "is_submitter": false,
+            "link_id": "t3_dwrhdk",
+            "parent_id": "t3_dwrhdk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AslanTheKitten"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "A king's ransom: an analysis of the CTB-locker ransomware",
+        "score": 13,
+        "id": "3tl3m7",
+        "commsNum": 0,
+        "timeStamp": "2015/11/20-09:00:10",
+        "author_name": "2ROT13",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://samvartaka.github.io/malware/2015/11/20/ctb-locker/"
+    },
+    "posts": {}
+}

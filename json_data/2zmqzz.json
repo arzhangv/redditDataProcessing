@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "When attempting to download freedownload manager the site served up malware being served by http://showmehorses .com. The payload is being served up from http://showmehorses .com/updbrs/. In case that they clean up before others get a hand on what is being offered up I have packed it all into a file and posted elsewhere. \n\nObvious warning contains malware:\n\nhttp://www.solidfiles.com/d/c6bf391800/showmehorses.com.tar.gz\n\nDiscovered Another Package masqurading as adobe antivirus.\n\nhttp://www.solidfiles.com/d/b609613d86/adobe_flashplayer_install.zip\n\nBest guess is that both the have been hacked.\n\nSite Links:\nhttp://www.freedownloadmanager .org/ redirecting to infections.\n\nhttp://showmehorses .com/updbrs/ payload and exploit panel. \n\nFinal Edit: It seems my ip is listed in the package under book ips, if any one decides to investigate further 82.9.182.xxx is me dumping the directory for any info of value. \n",
+        "title": "Free Download Manager Serving Up Malware.",
+        "score": 15,
+        "id": "2zmqzz",
+        "commsNum": 6,
+        "timeStamp": "2015/03/19-14:44:47",
+        "author_name": "throway929291",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2zmqzz/free_download_manager_serving_up_malware/"
+    },
+    "posts": {
+        "hsn3ldc": {
+            "comment": "so what kinda malware is it though",
+            "timeStamp": "2022/01/14-07:52:30",
+            "id": "hsn3ldc",
+            "is_submitter": false,
+            "link_id": "t3_2zmqzz",
+            "parent_id": "t3_2zmqzz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "NNNoscopeBoi"
+        },
+        "hospzlf": {
+            "comment": "[removed]",
+            "timeStamp": "2021/12/16-08:33:47",
+            "id": "hospzlf",
+            "is_submitter": false,
+            "link_id": "t3_2zmqzz",
+            "parent_id": "t1_cpkzyji",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

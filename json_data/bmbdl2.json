@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Watch out for paradise ransomware team , I just got all my data encrypted , from what I know this ransom is fairly new.",
+        "score": 2,
+        "id": "bmbdl2",
+        "commsNum": 4,
+        "timeStamp": "2019/05/08-14:56:43",
+        "author_name": "karolvpanus",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://i.redd.it/f9l5dplk42x21.jpg"
+    },
+    "posts": {
+        "enha9v3": {
+            "comment": "You shouldve used a virtual machine to do that. Risky business.",
+            "timeStamp": "2019/05/14-08:41:13",
+            "id": "enha9v3",
+            "is_submitter": false,
+            "link_id": "t3_bmbdl2",
+            "parent_id": "t3_bmbdl2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "IlikeFTL"
+        },
+        "emvfn0z": {
+            "comment": "I'm removing this thread as this type of post does not belong here.  Please see the sidebar and post threads like this to /r/antivirus or /r/techsupport.",
+            "timeStamp": "2019/05/08-15:46:18",
+            "id": "emvfn0z",
+            "is_submitter": false,
+            "link_id": "t3_bmbdl2",
+            "parent_id": "t3_bmbdl2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mjuad"
+        },
+        "emvc2js": {
+            "comment": "Ok so I'm an active torrent user as you can tell of my profile and I don't know what happened but i was playing a steam game and a setup came admisistrator pop up came and out of instinct I pressed accept and then everything goes black and I realise what happens , I suspect I downloaded a infected file .",
+            "timeStamp": "2019/05/08-15:07:13",
+            "id": "emvc2js",
+            "is_submitter": true,
+            "link_id": "t3_bmbdl2",
+            "parent_id": "t1_emvbh54",
+            "score": 2,
+            "stickied": false,
+            "author_name": "karolvpanus"
+        },
+        "emvbh54": {
+            "comment": "I feel like I'm gonna get malware clicking on this. How did you manage to catch said malware?",
+            "timeStamp": "2019/05/08-15:01:05",
+            "id": "emvbh54",
+            "is_submitter": false,
+            "link_id": "t3_bmbdl2",
+            "parent_id": "t3_bmbdl2",
+            "score": 2,
+            "stickied": false,
+            "author_name": "IlikeFTL"
+        }
+    }
+}

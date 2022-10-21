@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "a really good website for malware analysis",
+        "score": 1,
+        "id": "a8klj8",
+        "commsNum": 2,
+        "timeStamp": "2018/12/22-04:53:08",
+        "author_name": "david_bazooka",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://app.any.run/#"
+    },
+    "posts": {
+        "ecc4tr2": {
+            "comment": "This is nice.\n",
+            "timeStamp": "2018/12/22-11:20:20",
+            "id": "ecc4tr2",
+            "is_submitter": false,
+            "link_id": "t3_a8klj8",
+            "parent_id": "t3_a8klj8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Bmjslider"
+        },
+        "ecbo08u": {
+            "comment": "I like Joe sandbox personally",
+            "timeStamp": "2018/12/22-07:20:42",
+            "id": "ecbo08u",
+            "is_submitter": false,
+            "link_id": "t3_a8klj8",
+            "parent_id": "t3_a8klj8",
+            "score": 3,
+            "stickied": false,
+            "author_name": "3pIcenTer"
+        }
+    }
+}

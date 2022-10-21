@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Tool to yara scan for exploits within Office documents and unxor embedded executables",
+        "score": 22,
+        "id": "5ikdn4",
+        "commsNum": 2,
+        "timeStamp": "2016/12/15-13:54:06",
+        "author_name": "tylabs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://github.com/tylabs/quicksand_lite"
+    },
+    "posts": {}
+}

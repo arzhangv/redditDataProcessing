@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hey folks!\n\nAn add opened up in a new tab in my browser as I was trying to downlaod something and I clicked on the big blue button in the middle of the screen \"I am human\". Nothing happened yet I was wondering if I am infected with malware of sorts?\nIt states on the site that by pressing this button you accept to install an extention.\n\nhttps://funny.justssb.cool/?test=1\n\nThat is the site\nI cleared cache and all browser data afterwards.\nCan I be infected with malware even though I haven't downloaded anything?\n\nRegards",
+        "title": "Unsure if this website has infected me with a malware?",
+        "score": 0,
+        "id": "8h7frs",
+        "commsNum": 3,
+        "timeStamp": "2018/05/05-06:12:22",
+        "author_name": "persason",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8h7frs/unsure_if_this_website_has_infected_me_with_a/"
+    },
+    "posts": {
+        "dyi1ogi": {
+            "comment": "[removed]",
+            "timeStamp": "2018/05/05-11:46:00",
+            "id": "dyi1ogi",
+            "is_submitter": false,
+            "link_id": "t3_8h7frs",
+            "parent_id": "t3_8h7frs",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "dyhna8t": {
+            "comment": "Much appreciated thanks! :) ",
+            "timeStamp": "2018/05/05-07:04:45",
+            "id": "dyhna8t",
+            "is_submitter": true,
+            "link_id": "t3_8h7frs",
+            "parent_id": "t1_dyhmyvt",
+            "score": 2,
+            "stickied": false,
+            "author_name": "persason"
+        },
+        "dyhmyvt": {
+            "comment": "It seems to be a legit page. I'm pretty sure that you're not infected.\n\nhttps://www.virustotal.com/#/url/313b198f8cf43b67dcb5208169a9b5d110cf32d2b825caac7c65e0048ff24aba/detection",
+            "timeStamp": "2018/05/05-06:57:31",
+            "id": "dyhmyvt",
+            "is_submitter": false,
+            "link_id": "t3_8h7frs",
+            "parent_id": "t3_8h7frs",
+            "score": 5,
+            "stickied": false,
+            "author_name": "Nicusor26"
+        }
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "We have a device that is hitting domains maltrail says are related to malware. I added a non-root firewall app that allows me to see what is being requested, but I don't have any affirmative hits. I confirmed the time on both systems is under a second apart. \n\nI started checking the domains and while they look bad they really arent on many lists as known-bad. But I see it try only twice a day, which makes it even more suspicious. \n\nSuggestions?  \n\n\n[https://i.imgur.com/uBnSExL.png](https://i.imgur.com/uBnSExL.png)  \n[https://i.imgur.com/uQiUQul.png](https://i.imgur.com/uQiUQul.png)  \n[https://i.imgur.com/2AX0wmT.png](https://i.imgur.com/2AX0wmT.png)",
+        "title": "Android Device Suggestions",
+        "score": 1,
+        "id": "tt327d",
+        "commsNum": 0,
+        "timeStamp": "2022/03/31-09:03:26",
+        "author_name": "MagicalSpacePope",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/tt327d/android_device_suggestions/"
+    },
+    "posts": {
+        "i2w5l8c": {
+            "comment": "I finally caught the app, it's Audible... Why?!",
+            "timeStamp": "2022/03/31-13:14:44",
+            "id": "i2w5l8c",
+            "is_submitter": true,
+            "link_id": "t3_tt327d",
+            "parent_id": "t3_tt327d",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MagicalSpacePope"
+        },
+        "i2w3rx1": {
+            "comment": "I failed to include the list of domains:\n\nint . akisinn . site\r  \nint . akisinn . info\r  \nint . dewrain . life\r  \nint . dewrain . site\r  \nint . dewrain . world\r  \nint . vaicore . site\r  \nint . vaicore . store\r  \nint . vaicore . xyz",
+            "timeStamp": "2022/03/31-13:03:02",
+            "id": "i2w3rx1",
+            "is_submitter": true,
+            "link_id": "t3_tt327d",
+            "parent_id": "t3_tt327d",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MagicalSpacePope"
+        },
+        "i2vews6": {
+            "comment": "No good, rewrite worked but it doesnt seem to have made any attempts to reach out on 80 or 443. I need to change to listen on all ports and just pcap it.",
+            "timeStamp": "2022/03/31-10:23:42",
+            "id": "i2vews6",
+            "is_submitter": true,
+            "link_id": "t3_tt327d",
+            "parent_id": "t1_i2v8k9p",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MagicalSpacePope"
+        },
+        "i2v8k9p": {
+            "comment": "I'm not seeing the requests because dns is blocking it. I added a dns rewrite and pointed it at a netcat listener so I can see what's going on. Hopefully that'll solve this mystery...",
+            "timeStamp": "2022/03/31-09:43:23",
+            "id": "i2v8k9p",
+            "is_submitter": true,
+            "link_id": "t3_tt327d",
+            "parent_id": "t1_i2v3z5t",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MagicalSpacePope"
+        },
+        "i2v3z5t": {
+            "comment": "I just checked again, it's not only twice a day. I'm also checking more time stamps, there are no smoking guns here. The apps that match the time range are different in every scenario. It's possible that the app is somehow bypassing the \"NoRoot Firewall\" app, but it builds a local vpn profile to route the traffic through to confirm it's being seen, and it feels like it's working.",
+            "timeStamp": "2022/03/31-09:14:43",
+            "id": "i2v3z5t",
+            "is_submitter": true,
+            "link_id": "t3_tt327d",
+            "parent_id": "t3_tt327d",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MagicalSpacePope"
+        }
+    }
+}

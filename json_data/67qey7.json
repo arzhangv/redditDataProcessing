@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi guys, I am working on some malware as hobby and usually have no issue dumping the macros out of docx files but recently have stumbled upon a number of docx files that are \"encrypted\" with password. These files as result of being so locked up are failing to identify as malicious in VT/sandbox and I am very curious how to go about working them.\n\nThe email gives the password to unlock the doc.. given that I know the password what is the best way to go about extracting the information for the deeper dive short of just opening the file and entering pass?\n\nAre there tools that can be used to decrypt the encrypted data manually from the document?  \n\nTried a few searches but so many \"hey how do i crack this file\" posts I couldn't find any real information.",
+        "title": "\"Encrypted\" docx malware",
+        "score": 14,
+        "id": "67qey7",
+        "commsNum": 16,
+        "timeStamp": "2017/04/26-12:20:23",
+        "author_name": "Nilaats",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 16,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/67qey7/encrypted_docx_malware/"
+    },
+    "posts": {}
+}

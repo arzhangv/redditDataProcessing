@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Yet another security / programming blog: stack based binary obfuscation from hell",
+        "score": 6,
+        "id": "3gbbcw",
+        "commsNum": 0,
+        "timeStamp": "2015/08/08-20:38:29",
+        "author_name": "madm0use",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://aaronyool.blogspot.com/2015/08/stack-based-binary-obfuscation-from-hell.html"
+    },
+    "posts": {}
+}

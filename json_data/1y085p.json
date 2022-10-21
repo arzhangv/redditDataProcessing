@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "200-400 Gbps NTP Amplification Attack (DDoS)",
+        "score": 12,
+        "id": "1y085p",
+        "commsNum": 0,
+        "timeStamp": "2014/02/15-12:33:12",
+        "author_name": "solidsnake15",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://krebsonsecurity.com/2014/02/the-new-normal-200-400-gbps-ddos-attacks/"
+    },
+    "posts": {}
+}

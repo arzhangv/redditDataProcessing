@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Stantinko: A massive adware campaign operating covertly since 2012",
+        "score": 25,
+        "id": "6on3tg",
+        "commsNum": 3,
+        "timeStamp": "2017/07/21-03:38:26",
+        "author_name": "goretsky",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.welivesecurity.com/2017/07/20/stantinko-massive-adware-campaign-operating-covertly-since-2012/"
+    },
+    "posts": {
+        "dkitv42": {
+            "comment": "$15 per 1000 Facebook likes. ",
+            "timeStamp": "2017/07/21-07:30:14",
+            "id": "dkitv42",
+            "is_submitter": false,
+            "link_id": "t3_6on3tg",
+            "parent_id": "t3_6on3tg",
+            "score": 2,
+            "stickied": false,
+            "author_name": "0xFEE"
+        },
+        "dkiqkyr": {
+            "comment": "It's actually insane, how such a massively elaborate plan can remain hidden for so many years. I have a feeling they got detected mostly because of the recent Ukraine and Russia cyber attacks......",
+            "timeStamp": "2017/07/21-06:21:55",
+            "id": "dkiqkyr",
+            "is_submitter": false,
+            "link_id": "t3_6on3tg",
+            "parent_id": "t3_6on3tg",
+            "score": 2,
+            "stickied": false,
+            "author_name": "JoshRosserino"
+        },
+        "dkilfcq": {
+            "comment": "Hello,\n\nAlso see the 99(!) page white paper at [http://welivesecurity.com/wp-content/uploads/2017/07/Stantinko.pdf](http://welivesecurity.com/wp-content/uploads/2017/07/Stantinko.pdf) for a lot more detail, including message decryption algorithms, IoCs, hashes, URLs, browser plugins and scripts used by the actors.\n\nRegards,\n\nAryeh Goretsky\n",
+            "timeStamp": "2017/07/21-03:45:29",
+            "id": "dkilfcq",
+            "is_submitter": true,
+            "link_id": "t3_6on3tg",
+            "parent_id": "t3_6on3tg",
+            "score": 4,
+            "stickied": false,
+            "author_name": "goretsky"
+        }
+    }
+}

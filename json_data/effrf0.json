@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I was watching porn yesterday night when I got redirected from a site called waaw.tv. It asked me to disable my adblocker which I did otherwise I thought I could not view the content. Which in fact I could not watch at all and my pc opened like 5 shitty camsites at once. Looking through my browse history I saw a suspicious site multiple times with adress oyi9f1kbaj. Looking this up on google it states that it is in fact a malicious site. \n\nMy F-Secure did not throw any notification whatsoever. What would you guys recommend me to do in order to keep my machine safe? I ran a virusscan and malicious software detection tool and both came out with no virus.\n\nThanks",
+        "title": "oyi9f1kbaj",
+        "score": 1,
+        "id": "effrf0",
+        "commsNum": 3,
+        "timeStamp": "2019/12/25-04:03:01",
+        "author_name": "Horzine",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/effrf0/oyi9f1kbaj/"
+    },
+    "posts": {
+        "fc059pc": {
+            "comment": "Those are called popups and are harmless, please use common sense next time when browsing websites to ensure you don't get a real virus",
+            "timeStamp": "2019/12/25-05:06:22",
+            "id": "fc059pc",
+            "is_submitter": false,
+            "link_id": "t3_effrf0",
+            "parent_id": "t3_effrf0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mitchy93"
+        },
+        "fc04hfr": {
+            "comment": "I'm being serious here mate, not trolling and I admit I don't know much of this stuff.",
+            "timeStamp": "2019/12/25-04:49:07",
+            "id": "fc04hfr",
+            "is_submitter": true,
+            "link_id": "t3_effrf0",
+            "parent_id": "t1_fc049zq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Horzine"
+        },
+        "fc049zq": {
+            "comment": "I was hoping for better content in this post after checking your most-frequented subs. \n\nWeak attempt at trolling.",
+            "timeStamp": "2019/12/25-04:44:26",
+            "id": "fc049zq",
+            "is_submitter": false,
+            "link_id": "t3_effrf0",
+            "parent_id": "t3_effrf0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "13_letters"
+        }
+    }
+}

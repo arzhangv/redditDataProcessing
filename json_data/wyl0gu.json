@@ -1,0 +1,176 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I am currently working on a project where I will be using image-based malware as materials for a deep learning model. \n\nTo produce the materials I have a selection of PE files from VirusShare. Which, for each one I have extracted the binary data and converted it into a greyscale image. I have also extracted the MD5 hash for each file and submitted it to the VirusTotal (VT) API to produce a result. All of the results are collected in a .CSV file.\n\nI am now at the stage where I need to link the data for training. But I\u2019ve hit a bit of a stalemate in terms of research. A lot of what I can find uses prediction models to produce a class for each PE, and label it that way. I would like to use the VT results to produce labels. \n\nIf there is someone who is familiar this this type of analysis, I would greatly appreciate a bit of wisdom or a point in the right direction. And if this post gets some attention I can provide more details and some outputs in the comments.",
+        "title": "Looking for insight on labelling portable executable (PE) malware files using a VirusTotal API response report.",
+        "score": 1,
+        "id": "wyl0gu",
+        "commsNum": 0,
+        "timeStamp": "2022/08/26-14:38:29",
+        "author_name": "McFlurrage",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/wyl0gu/looking_for_insight_on_labelling_portable/"
+    },
+    "posts": {
+        "im7i1j8": {
+            "comment": "Grab the PE files in \\[family\\] directory, convert them to images, put them in a training\\_data/family/sha256.png, split into train and test sets, train an image classifier using the family folders as your labels. I think that is most in line with your original project intentions. Family is more interesting than a clean / dirty label.",
+            "timeStamp": "2022/08/28-19:27:54",
+            "id": "im7i1j8",
+            "is_submitter": false,
+            "link_id": "t3_wyl0gu",
+            "parent_id": "t1_im6b1aa",
+            "score": 1,
+            "stickied": false,
+            "author_name": "tacixat"
+        },
+        "im6b1aa": {
+            "comment": "Thank you for the website! It seems like a fantastic resource for malware research. In the samples I notice VirusShare, which is where I have my current files from. \n\nAny tips for making the family classifier?",
+            "timeStamp": "2022/08/28-13:57:36",
+            "id": "im6b1aa",
+            "is_submitter": true,
+            "link_id": "t3_wyl0gu",
+            "parent_id": "t1_im62550",
+            "score": 1,
+            "stickied": false,
+            "author_name": "McFlurrage"
+        },
+        "im62550": {
+            "comment": "Download all the samples from vxug, convert to images, make a classifier for family. That'd be sick.\n\nhttps://www.vx-underground.org/",
+            "timeStamp": "2022/08/28-12:55:49",
+            "id": "im62550",
+            "is_submitter": false,
+            "link_id": "t3_wyl0gu",
+            "parent_id": "t1_im4o9o0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "tacixat"
+        },
+        "im5qwxf": {
+            "comment": "You certainly can, I\u2019ll be sure to send you a copy!",
+            "timeStamp": "2022/08/28-11:37:56",
+            "id": "im5qwxf",
+            "is_submitter": true,
+            "link_id": "t3_wyl0gu",
+            "parent_id": "t1_im5lidq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "McFlurrage"
+        },
+        "im5lidq": {
+            "comment": "Exactly! ML is fun, and working with malware adds some fun but additional complexities. May I read it when you\u2019re done?",
+            "timeStamp": "2022/08/28-11:01:00",
+            "id": "im5lidq",
+            "is_submitter": false,
+            "link_id": "t3_wyl0gu",
+            "parent_id": "t1_im5he1p",
+            "score": 1,
+            "stickied": false,
+            "author_name": "rjzak"
+        },
+        "im5he1p": {
+            "comment": "You are correct! I\u2019ll be finishing in September. I hope so too, there is a world of interest out there when it comes to computer security. Mixing ML into it just makes things extra fun.",
+            "timeStamp": "2022/08/28-10:33:03",
+            "id": "im5he1p",
+            "is_submitter": true,
+            "link_id": "t3_wyl0gu",
+            "parent_id": "t1_im5d09b",
+            "score": 1,
+            "stickied": false,
+            "author_name": "McFlurrage"
+        },
+        "im5d09b": {
+            "comment": "Nice! Congrats on the masters, sounds like you're almost done and this is the thesis? Hopefully this isn't the end of your paper-writing and malware+ML research!",
+            "timeStamp": "2022/08/28-10:03:10",
+            "id": "im5d09b",
+            "is_submitter": false,
+            "link_id": "t3_wyl0gu",
+            "parent_id": "t1_im4ovxd",
+            "score": 1,
+            "stickied": false,
+            "author_name": "rjzak"
+        },
+        "im4ovxd": {
+            "comment": "That is some really interesting work you have done! I think it definitly might get a mention in my final report for alternative approaches. It's part of my masters degree, so the venue is just the institution I guess, although VirusTotal have said they would publish it if they think its good enough.",
+            "timeStamp": "2022/08/28-07:16:46",
+            "id": "im4ovxd",
+            "is_submitter": true,
+            "link_id": "t3_wyl0gu",
+            "parent_id": "t1_im2axm3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "McFlurrage"
+        },
+        "im4o9o0": {
+            "comment": "I would be inclined to agree with you on this being a horrible approach. A lot of what I have learned is what can't be done, but I have also learnt a lot of PE files in general. Something I knew nothing about at the beginning of my project. \n\nWhat brought me to this research was these studies [\\[1\\]](https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=1901&amp;context=etd_projects) [\\[2\\]](https://www.sciencedirect.com/science/article/pii/S1110016821003185), which demonstrates how image-based malware classification can be done using a CNN (convolutional neural network). Since I had a bit of a background with malware, and I recently completed a CNN model, I figured I would try to do something similar. It was only after investigating different materials I hit a bit of a roadblock. I found this one dataset, [malimg \\[3\\]](https://www.kaggle.com/datasets/keerthicheepurupalli/malimg-dataset9010), which is made up of PE files that have been converted into images already. I didn't want to just use the images, I wanted to demonstrate how to get them, only the method used to classify them turned out to be a bit out of my depth, kind of like this whole project, it's discussed in [Section 4.2 of this paper \\[4\\]](https://www.researchgate.net/publication/228811247_Malware_Images_Visualization_and_Automatic_Classification) . There's also this set [\\[5\\]](https://www.kaggle.com/datasets/ang3loliveira/malware-analysis-datasets-raw-pe-as-image), which contains the pixel content for each file record. And as for the static disassembly you mention, I think you are right, the training data might not exist. During my investigation the best I could find was this study [\\[6\\]](https://github.com/islem-esi/DeepMalwareDetector). \n\nThank you for the insight though! I will see what research I can continue to find on the methods you have suggested. It's too late for me to change my process at this point, and will just have use my horrible approach as a talking point in my final report on 'What not to do!'. \n\nI am thinking if it comes to it I can use the malimg dataset to train and the unlabled files for testing.",
+            "timeStamp": "2022/08/28-07:12:04",
+            "id": "im4o9o0",
+            "is_submitter": true,
+            "link_id": "t3_wyl0gu",
+            "parent_id": "t1_im1qu5t",
+            "score": 1,
+            "stickied": false,
+            "author_name": "McFlurrage"
+        },
+        "im2axm3": {
+            "comment": "My former colleagues and I did some work with CNNs in raw malware bytes: https://arxiv.org/abs/2012.09390, https://github.com/NeuromorphicComputationResearchProgram/MalConv2. Maybe that can help, if you\u2019re interested in other options to replace the images.",
+            "timeStamp": "2022/08/27-16:23:32",
+            "id": "im2axm3",
+            "is_submitter": false,
+            "link_id": "t3_wyl0gu",
+            "parent_id": "t1_im15qmc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "rjzak"
+        },
+        "im1qu5t": {
+            "comment": "I started my career in malware analysis and have seen so many ML projects trained on PE attributes. I think this is a horrible approach. It is like trying to classify a nasty letter based on the envelope and stamp. \n\nMalicious classification should consider what the code is doing. The simplest way to do that is dynamic analysis and classification of the results. You can do static, but you will want to disassemble and I don't think that training data exists.\n\nWhat are you expecting the model to pick up on? Compile time? Imports / exports? Section entropy? Section names?\n\nMost of the time these ML models are just overfitting on PE attributes making them an overly expensive hashing algorithm. There is nothing inherently malicious about the PE attributes.",
+            "timeStamp": "2022/08/27-13:50:11",
+            "id": "im1qu5t",
+            "is_submitter": false,
+            "link_id": "t3_wyl0gu",
+            "parent_id": "t3_wyl0gu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "tacixat"
+        },
+        "im15qmc": {
+            "comment": "Thank you for the suggestion! After having a quick look, it seems as though the scripts are doing something along the lines of what I am trying to do. You are right about the images though, they do not make the best materials for malware analysis-based ML. Unfortunately I am too far into the project to turn back now. \n\nThere are a good few studies that explore this technique, which is where my research started, along with some knowledge of convolutional models. However, when I was looking for malware image datasets, most of them seemed to have an imbalance. Others were spreadsheets containing API calls from dynamic analysis, which can also be converted into some form of image, but wasn't what I was looking for. In the end I chose to make my own materials, but boy what that a mistake. \n\nI do think there's still some potential here to acheive good results within the final model. To counter some of the issues you mentioned about when working with images, I plan to implement different filters such as RGB and Gaussian Noise over greyscale images, which look like [this example](https://imgur.com/a/kDsycr7). Research I have collected tells me this should improve results. I guess I will see if I manage to get either the PNG or the EXE files labelled in a usuable format.",
+            "timeStamp": "2022/08/27-11:20:08",
+            "id": "im15qmc",
+            "is_submitter": true,
+            "link_id": "t3_wyl0gu",
+            "parent_id": "t1_ilye1bq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "McFlurrage"
+        },
+        "ilye1bq": {
+            "comment": "AVClass is a great tool which takes the various AV labels from some course, like VT, and comes up with a deterministic name which makes sense. https://github.com/malicialab/avclass\n\nAs for images, do you mean turning malware files into images and using image-based ML techniques to do work on malware data? You may want to reconsider, as this adds false relationships which may hurt model performance. Consider this: in a picture, adjacent and nearby pixels are related. Pixels above, below, left, and right of any given pixel are likely part of the same object in the view. However, for executable file types, this often isn\u2019t the case. Think about section boundaries, jump/call statements, data types, etc. Making an image is to use incorrect assumptions, even if the resulting images are sometimes interesting to look at :)",
+            "timeStamp": "2022/08/26-19:45:56",
+            "id": "ilye1bq",
+            "is_submitter": false,
+            "link_id": "t3_wyl0gu",
+            "parent_id": "t3_wyl0gu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "rjzak"
+        },
+        "ilxxk2o": {
+            "comment": "[removed]",
+            "timeStamp": "2022/08/26-17:33:10",
+            "id": "ilxxk2o",
+            "is_submitter": false,
+            "link_id": "t3_wyl0gu",
+            "parent_id": "t3_wyl0gu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I've been wondering about specific instances of what I've heard called \"retroviruses\". That is, malware which actively attacks and compromises AV products when scanned by them. Not to put too fine a point on it, but how often do we see malware which, when scanned by the AV program (without being executed), actually compromises the AV engine and uses it to attack the system? ",
+        "title": "What do we know about \"retroviruses\"?",
+        "score": 5,
+        "id": "stp8x",
+        "commsNum": 4,
+        "timeStamp": "2012/04/26-08:52:24",
+        "author_name": "mr_daydream",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": null,
+        "url": "http://www.reddit.com/r/Malware/comments/stp8x/what_do_we_know_about_retroviruses/"
+    },
+    "posts": {}
+}

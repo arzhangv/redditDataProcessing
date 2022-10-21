@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "So this is a pretty crazy question but i don't any other active forum that i can ask rootkit related questions (don't tell me OSR..)\n\nA rootkit is hooking nt\\_KiTrap01 ISR routine in IDT during some specific disk operations, and for some strange reason this function is called when the TF flag in EFLAGS is enabled manually by it. \n\nAnyone has any idea what's happening? What's the job of this ISR? Also where can i find what are the arguments that is passed to this function? Literally no one is calling it, checking the callstack shows no clue..",
+        "title": "A rootkit is hooking ISR routine nt_KiTrap01 in IDT during disk operations",
+        "score": 1,
+        "id": "s7ofn5",
+        "commsNum": 0,
+        "timeStamp": "2022/01/19-03:50:55",
+        "author_name": "Ro0o0otkit",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/s7ofn5/a_rootkit_is_hooking_isr_routine_nt_kitrap01_in/"
+    },
+    "posts": {
+        "htc5p4u": {
+            "comment": "[removed]",
+            "timeStamp": "2022/01/19-08:50:38",
+            "id": "htc5p4u",
+            "is_submitter": false,
+            "link_id": "t3_s7ofn5",
+            "parent_id": "t3_s7ofn5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

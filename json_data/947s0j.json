@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Recently I am observing http connections towards multiple DoD ips.. all the destination ips seems to be down or not responding.. the traffic emitted are from windows machine including win7. Have any one stumbled upon such a situation?",
+        "title": "Http Connections towards DoD ips",
+        "score": 1,
+        "id": "947s0j",
+        "commsNum": 3,
+        "timeStamp": "2018/08/03-01:14:44",
+        "author_name": "dh4wk7492",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/947s0j/http_connections_towards_dod_ips/"
+    },
+    "posts": {
+        "e3jbhwu": {
+            "comment": "Some VPN providers (LogMeIn Hamachi being one) and telcos (TMobile) use DoD IPs for internal addressing. Are there any signs of unexpected VPN software being dropped on the machine?",
+            "timeStamp": "2018/08/03-07:03:29",
+            "id": "e3jbhwu",
+            "is_submitter": false,
+            "link_id": "t3_947s0j",
+            "parent_id": "t3_947s0j",
+            "score": 2,
+            "stickied": false,
+            "author_name": "O10Ackbar"
+        },
+        "e3j9c2b": {
+            "comment": "DoD use the IPs internally.\n\nThere has been lots of people \"hijacking\" their IP ranges via BGP, over the years.\n\nEdit:\n\nIt could also be a check if the malware is running in a sandbox. Since they one the IPs will not reachable, if they do get a reply, then they kill the process.\n\n",
+            "timeStamp": "2018/08/03-06:28:31",
+            "id": "e3j9c2b",
+            "is_submitter": false,
+            "link_id": "t3_947s0j",
+            "parent_id": "t3_947s0j",
+            "score": 1,
+            "stickied": false,
+            "author_name": "WOLF3D_exe"
+        },
+        "e3j1htn": {
+            "comment": "Best you make tracks towards the nearest Ecuadorian embassy. ",
+            "timeStamp": "2018/08/03-03:32:51",
+            "id": "e3j1htn",
+            "is_submitter": false,
+            "link_id": "t3_947s0j",
+            "parent_id": "t3_947s0j",
+            "score": 1,
+            "stickied": false,
+            "author_name": "gonzo_au"
+        }
+    }
+}

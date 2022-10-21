@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Embedded malware: How OLE objects can harbor threats",
+        "score": 1,
+        "id": "6g6tzr",
+        "commsNum": 0,
+        "timeStamp": "2017/06/08-23:58:50",
+        "author_name": "demetriacutting",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://searchsecurity.techtarget.com/tip/Embedded-malware-How-OLE-objects-can-harbor-threats"
+    },
+    "posts": {}
+}

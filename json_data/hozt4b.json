@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Analysis of Remcos RAT Dropper",
+        "score": 1,
+        "id": "hozt4b",
+        "commsNum": 1,
+        "timeStamp": "2020/07/10-16:40:01",
+        "author_name": "TorchedXorph",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://github.com/1d8/analyses/blob/master/RemcosDocDropper.MD"
+    },
+    "posts": {
+        "fxlsxhx": {
+            "comment": "[deleted]",
+            "timeStamp": "2020/07/10-21:26:36",
+            "id": "fxlsxhx",
+            "is_submitter": false,
+            "link_id": "t3_hozt4b",
+            "parent_id": "t3_hozt4b",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

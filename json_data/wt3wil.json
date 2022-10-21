@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Today I noticed a black video icon at the top of my mac, almost hidden, called BlueJeans, apparently from Disney, which appears to be a zoom style conferencing program, but I never downloaded this, nor have even heard of it, so I deleted it. \n\nAnyone know what it is, or if I need to be worried that my webcam has been compromised?",
+        "title": "BlueJeans",
+        "score": 1,
+        "id": "wt3wil",
+        "commsNum": 0,
+        "timeStamp": "2022/08/20-03:30:36",
+        "author_name": "DCmarvelman",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/wt3wil/bluejeans/"
+    },
+    "posts": {
+        "in0r2kp": {
+            "comment": "I don\u2019t think the people in the comments realize that some apps can disguise themselves as other apps. That is very suspicious, but I don\u2019t use Mac so I wouldn\u2019t know how to do anything about it",
+            "timeStamp": "2022/09/03-22:20:47",
+            "id": "in0r2kp",
+            "is_submitter": false,
+            "link_id": "t3_wt3wil",
+            "parent_id": "t3_wt3wil",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MightyIsBestMCPE"
+        },
+        "il4lf60": {
+            "comment": "Maybe it is something else called bluejeans.",
+            "timeStamp": "2022/08/20-16:23:43",
+            "id": "il4lf60",
+            "is_submitter": false,
+            "link_id": "t3_wt3wil",
+            "parent_id": "t1_il2vx47",
+            "score": 1,
+            "stickied": false,
+            "author_name": "jbmartin6"
+        },
+        "il2vx47": {
+            "comment": "Weird. The program had a walt disney corporation logo in the corner.",
+            "timeStamp": "2022/08/20-08:57:12",
+            "id": "il2vx47",
+            "is_submitter": true,
+            "link_id": "t3_wt3wil",
+            "parent_id": "t1_il2l2fc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DCmarvelman"
+        },
+        "il2l2fc": {
+            "comment": "We use that at work but I never saw any connection with disney",
+            "timeStamp": "2022/08/20-07:39:44",
+            "id": "il2l2fc",
+            "is_submitter": false,
+            "link_id": "t3_wt3wil",
+            "parent_id": "t3_wt3wil",
+            "score": 1,
+            "stickied": false,
+            "author_name": "jbmartin6"
+        },
+        "il29o4c": {
+            "comment": "I think they use it to stop people recording their content.",
+            "timeStamp": "2022/08/20-06:09:05",
+            "id": "il29o4c",
+            "is_submitter": false,
+            "link_id": "t3_wt3wil",
+            "parent_id": "t3_wt3wil",
+            "score": 1,
+            "stickied": false,
+            "author_name": "patchmau5"
+        },
+        "il22h0z": {
+            "comment": "Bluejeans is a safe video conferencing program created by Verizon.",
+            "timeStamp": "2022/08/20-05:02:37",
+            "id": "il22h0z",
+            "is_submitter": false,
+            "link_id": "t3_wt3wil",
+            "parent_id": "t3_wt3wil",
+            "score": 1,
+            "stickied": false,
+            "author_name": "salt12345678910"
+        }
+    }
+}

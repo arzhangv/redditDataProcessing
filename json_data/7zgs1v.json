@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Encryption 101: a Malware Analyst's Primer",
+        "score": 1,
+        "id": "7zgs1v",
+        "commsNum": 0,
+        "timeStamp": "2018/02/22-09:49:33",
+        "author_name": "TechLord2",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://blog.malwarebytes.com/threat-analysis/2018/02/encryption-101-malware-analysts-primer/"
+    },
+    "posts": {}
+}

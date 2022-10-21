@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "So after downloading some MAME ROMs I managed to infect my MacBook Pro with some malware. I noticed some odd Apple OSA scripts running in my process table and immediately captured as much information as I could. I've uploaded it to the following GitHub repo.\n\nhttps://github.com/S73417H/Pirrit\n\nIs there a security group that would care to take a look and if so who should I forward the information to?",
+        "title": "Found this Malware running on my new MacBook. ESET and AVG don't recognise it. Thought I'd upload to GitHub.",
+        "score": 47,
+        "id": "5ea9bd",
+        "commsNum": 21,
+        "timeStamp": "2016/11/22-03:34:56",
+        "author_name": "S73417H",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 21,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5ea9bd/found_this_malware_running_on_my_new_macbook_eset/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Xerox printing company breached by MAZE Ransomware",
+        "score": 1,
+        "id": "hiu5yg",
+        "commsNum": 1,
+        "timeStamp": "2020/06/30-12:20:34",
+        "author_name": "samsepi0le",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://twitter.com/shad0wintel/status/1277926342248615937"
+    },
+    "posts": {
+        "fwirhqh": {
+            "comment": "For further reading: https://www.bleepingcomputer.com/news/security/business-giant-xerox-allegedly-suffers-maze-ransomware-attack/",
+            "timeStamp": "2020/06/30-14:50:52",
+            "id": "fwirhqh",
+            "is_submitter": false,
+            "link_id": "t3_hiu5yg",
+            "parent_id": "t3_hiu5yg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "blahdidbert"
+        }
+    }
+}

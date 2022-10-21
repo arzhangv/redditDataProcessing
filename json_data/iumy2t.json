@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Cerberus banking Trojan source code released for free to cyberattackers",
+        "score": 1,
+        "id": "iumy2t",
+        "commsNum": 1,
+        "timeStamp": "2020/09/17-09:30:29",
+        "author_name": "TheCreecer",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.zdnet.com/google-amp/article/cerberus-banking-trojan-source-code-released-for-free-to-cyberattackers/"
+    },
+    "posts": {
+        "g5pdhip": {
+            "comment": "For those who are interested in Cerberus. It contains some source code. \n\nhttps://github.com/ics-iot-bootcamp/cerberus_research",
+            "timeStamp": "2020/09/18-07:25:52",
+            "id": "g5pdhip",
+            "is_submitter": false,
+            "link_id": "t3_iumy2t",
+            "parent_id": "t3_iumy2t",
+            "score": 1,
+            "stickied": false,
+            "author_name": "PixelatedDream"
+        }
+    }
+}

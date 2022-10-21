@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I quarantine and delete these 4 trojan taskers every day and still come back Idk why or how?\n\nI tried to use the Tron script but the same result after I used it, they disappeared the next day they came back can anyone help me with these annoying trojan taskers.\n\nhere is a screenshot and report of the result.\n\n[https://drive.google.com/file/d/1lKf0J4tlRgtaYiXn3LebpBWz4upCUMTs/view?usp=sharing](https://drive.google.com/file/d/1lKf0J4tlRgtaYiXn3LebpBWz4upCUMTs/view?usp=sharing)\n\nhttps://preview.redd.it/esrw0ukbsu191.png?width=1188&amp;format=png&amp;auto=webp&amp;s=58eada83019d1887dbcfc2f899f231985c792429",
+        "title": "Trojan Tasker",
+        "score": 1,
+        "id": "uychuv",
+        "commsNum": 0,
+        "timeStamp": "2022/05/26-10:14:07",
+        "author_name": "Hosam_Ayoub",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/uychuv/trojan_tasker/"
+    },
+    "posts": {
+        "ia6davj": {
+            "comment": "[removed]",
+            "timeStamp": "2022/05/27-03:20:41",
+            "id": "ia6davj",
+            "is_submitter": false,
+            "link_id": "t3_uychuv",
+            "parent_id": "t3_uychuv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ia3zosn": {
+            "comment": "Uh runtimebroker is something from Windows. You can see it in task manager after a clean install",
+            "timeStamp": "2022/05/26-13:31:58",
+            "id": "ia3zosn",
+            "is_submitter": false,
+            "link_id": "t3_uychuv",
+            "parent_id": "t3_uychuv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Bakoubak"
+        },
+        "ia3yvj4": {
+            "comment": "[removed]",
+            "timeStamp": "2022/05/26-13:26:12",
+            "id": "ia3yvj4",
+            "is_submitter": false,
+            "link_id": "t3_uychuv",
+            "parent_id": "t3_uychuv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ia3j8d3": {
+            "comment": "Not a support subreddit",
+            "timeStamp": "2022/05/26-11:37:58",
+            "id": "ia3j8d3",
+            "is_submitter": false,
+            "link_id": "t3_uychuv",
+            "parent_id": "t3_uychuv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Rakanisheu"
+        }
+    }
+}

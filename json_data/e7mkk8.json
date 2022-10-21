@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hello! So I let my friend use my PC for like 20 min, and the Windows Security said it blocked a severe trojan called \"Trojan:HTML/FakeAlert.A!MTB\", I've never had this happen before and this is a new pc, so should I be worried?\n\nI did run the windows safety scanner and ran a full scan and it didn't find any viruses. Thank you!",
+        "title": "A severe trojan was was blocked by Windows Defender while friend used my PC, should i be worried?",
+        "score": 1,
+        "id": "e7mkk8",
+        "commsNum": 1,
+        "timeStamp": "2019/12/07-16:37:00",
+        "author_name": "Xstrolite",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/e7mkk8/a_severe_trojan_was_was_blocked_by_windows/"
+    },
+    "posts": {
+        "fa16m1m": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2019/12/07-16:37:00",
+            "id": "fa16m1m",
+            "is_submitter": false,
+            "link_id": "t3_e7mkk8",
+            "parent_id": "t3_e7mkk8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

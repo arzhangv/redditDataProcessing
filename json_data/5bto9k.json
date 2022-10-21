@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi,\n\nHere is a VT sample: https://www.virustotal.com/en/file/75e337b7d7729ce064e11444b9c781f27c4e16cf634a4119908b96385b4b5523/analysis/\n\nThis ransomware adds the extension &lt;Filename&gt;.&lt;original extension&gt;._airacropencrypted! and creates ransom notes called \"How to decrypt your files\". Looking for any information on how it is spread, i've not found anything to indicate spam emails. Could be hacked servers and then deployed manually. Anyone got any info?",
+        "title": "._AiraCropEncrypted! ransomware, any idea of infection vector?",
+        "score": 0,
+        "id": "5bto9k",
+        "commsNum": 6,
+        "timeStamp": "2016/11/08-07:01:55",
+        "author_name": "peter_mack",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5bto9k/airacropencrypted_ransomware_any_idea_of/"
+    },
+    "posts": {}
+}

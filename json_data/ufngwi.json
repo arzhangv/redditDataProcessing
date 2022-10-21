@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "[https://www.bleepingcomputer.com/news/security/emocheck-now-detects-new-64-bit-versions-of-emotet-malware/](https://www.bleepingcomputer.com/news/security/emocheck-now-detects-new-64-bit-versions-of-emotet-malware/)",
+        "title": "EmoCheck detects Emotet",
+        "score": 1,
+        "id": "ufngwi",
+        "commsNum": 0,
+        "timeStamp": "2022/04/30-17:02:42",
+        "author_name": "dkayem",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ufngwi/emocheck_detects_emotet/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "OP for analysis: TorBundleProject - fake Tor bundle, anybody want to investigate?",
+        "score": 9,
+        "id": "28z0ij",
+        "commsNum": 2,
+        "timeStamp": "2014/06/24-08:31:30",
+        "author_name": "miserlou",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/onions/comments/28z0dl/psa_tor_browser_phishing_site_torbundleprojectorg/"
+    },
+    "posts": {}
+}

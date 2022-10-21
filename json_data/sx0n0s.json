@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Analysis of Katana Malware in Last Weeks DDoS Attacks Against Ukrainian Websites",
+        "score": 1,
+        "id": "sx0n0s",
+        "commsNum": 0,
+        "timeStamp": "2022/02/20-04:53:55",
+        "author_name": "0x636f6f6c",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.cadosecurity.com/technical-analysis-of-the-ddos-attacks-against-ukrainian-websites/"
+    },
+    "posts": {}
+}

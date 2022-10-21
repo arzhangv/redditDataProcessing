@@ -1,0 +1,143 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[removed]",
+        "title": "Difference between a downloader Malware and dropper Malware?",
+        "score": 24,
+        "id": "bo68rv",
+        "commsNum": 10,
+        "timeStamp": "2019/05/13-10:11:44",
+        "author_name": "yanirian",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 10,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/bo68rv/difference_between_a_downloader_malware_and/"
+    },
+    "posts": {
+        "hhneri3": {
+            "comment": "[removed]",
+            "timeStamp": "2021/10/22-11:15:05",
+            "id": "hhneri3",
+            "is_submitter": false,
+            "link_id": "t3_bo68rv",
+            "parent_id": "t3_bo68rv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "enrif5o": {
+            "comment": "\"downloaders\" &amp; \"droppers\" typically pass execution to another stage. Some refer to downloaders as types of droppers, and that can cause heated debate. The only times I can think you'd really need to worry about distinguishing between them is if you are writing signatures for a vendor that distinguishes the two in their AV signatures, or you are taking some test where both are options.. it's best to be as specific as possible. \n\nIf you are publishing a blog, report, vlog and you use \"dropper\" instead of \"downloader\" the worst thing that's going to happen is that the published work will have better engagement ratings for advertisers. \n\nToday, I would say \"downloaders\" are far more common.. it seems like all of the major players in cybercrime are using this technique over embedding further stages in \"droppers\".",
+            "timeStamp": "2019/05/16-07:08:28",
+            "id": "enrif5o",
+            "is_submitter": false,
+            "link_id": "t3_bo68rv",
+            "parent_id": "t3_bo68rv",
+            "score": 2,
+            "stickied": false,
+            "author_name": "acalarch"
+        },
+        "enpe8bw": {
+            "comment": "Nah, dropper is classically defined specifically as a self extracting malware.",
+            "timeStamp": "2019/05/15-19:36:35",
+            "id": "enpe8bw",
+            "is_submitter": false,
+            "link_id": "t3_bo68rv",
+            "parent_id": "t1_enge8o1",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Invinciblex"
+        },
+        "enge8o1": {
+            "comment": "/u/getChester is correct. I would say every downloader is a dropper but not every dropper is a downloader. At least around the people I work with, a dropper just means the malware *drops* something on the system that wasn't there before. Often this is embedded in the original file but could also be downloaded. A \"downloader\" on the other hand downloads a second stage which requires internet.",
+            "timeStamp": "2019/05/14-04:31:55",
+            "id": "enge8o1",
+            "is_submitter": false,
+            "link_id": "t3_bo68rv",
+            "parent_id": "t3_bo68rv",
+            "score": 6,
+            "stickied": false,
+            "author_name": "specter800"
+        },
+        "enf5anz": {
+            "comment": "[removed]",
+            "timeStamp": "2019/05/13-21:55:18",
+            "id": "enf5anz",
+            "is_submitter": false,
+            "link_id": "t3_bo68rv",
+            "parent_id": "t1_endbvfd",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ene8af1": {
+            "comment": "No problem!",
+            "timeStamp": "2019/05/13-17:58:28",
+            "id": "ene8af1",
+            "is_submitter": false,
+            "link_id": "t3_bo68rv",
+            "parent_id": "t1_ene70p3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "getChester"
+        },
+        "ene70p3": {
+            "comment": "Thanks, that was actually really useful :)",
+            "timeStamp": "2019/05/13-17:47:20",
+            "id": "ene70p3",
+            "is_submitter": true,
+            "link_id": "t3_bo68rv",
+            "parent_id": "t1_endljb1",
+            "score": 2,
+            "stickied": false,
+            "author_name": "yanirian"
+        },
+        "endp3xj": {
+            "comment": "This",
+            "timeStamp": "2019/05/13-15:16:16",
+            "id": "endp3xj",
+            "is_submitter": false,
+            "link_id": "t3_bo68rv",
+            "parent_id": "t1_endljb1",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Hiepnotiq"
+        },
+        "endljb1": {
+            "comment": "Downloader requires network resource to get Malware from internet. A dropper has a PE embedded and just drops it onto operating system.",
+            "timeStamp": "2019/05/13-14:52:36",
+            "id": "endljb1",
+            "is_submitter": false,
+            "link_id": "t3_bo68rv",
+            "parent_id": "t3_bo68rv",
+            "score": 33,
+            "stickied": false,
+            "author_name": "getChester"
+        },
+        "endbvfd": {
+            "comment": "Not really a difference. Both drop/download malware onto an infected device.",
+            "timeStamp": "2019/05/13-13:50:38",
+            "id": "endbvfd",
+            "is_submitter": false,
+            "link_id": "t3_bo68rv",
+            "parent_id": "t3_bo68rv",
+            "score": -6,
+            "stickied": false,
+            "author_name": "lawrenceabrams"
+        },
+        "encim0u": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2019/05/13-10:11:45",
+            "id": "encim0u",
+            "is_submitter": false,
+            "link_id": "t3_bo68rv",
+            "parent_id": "t3_bo68rv",
+            "score": 0,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

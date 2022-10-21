@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "US-CERT issued an alert on two malware associated with North Korea-linked APT Hidden Cobra",
+        "score": 1,
+        "id": "8nb09o",
+        "commsNum": 0,
+        "timeStamp": "2018/05/30-11:33:56",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://securityaffairs.co/wordpress/73062/apt/hidden-cobra-malware.html"
+    },
+    "posts": {}
+}

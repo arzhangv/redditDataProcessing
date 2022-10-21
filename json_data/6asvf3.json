@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "New Ransomware strain makes use of NSA exploits",
+        "score": 1,
+        "id": "6asvf3",
+        "commsNum": 1,
+        "timeStamp": "2017/05/12-10:53:20",
+        "author_name": "CaseCosmix",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.theregister.co.uk/2017/05/12/spain_ransomware_outbreak/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Symantec is monitoring the Hajime IoT malware, is it the work of vigilante hacker?",
+        "score": 1,
+        "id": "66g4x1",
+        "commsNum": 0,
+        "timeStamp": "2017/04/20-00:05:00",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/58151/malware/hajime-iot-malware.html"
+    },
+    "posts": {}
+}

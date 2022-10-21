@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I recently noticed poweliks at a totally different location in the registry than I'm used to. \n\n[HKEY_CLASSES_ROOT\\CLSID\\{73E709EA-5D93-4B2E-BBB0-99B7938DA9E4}]\n \"AppId\"=\"{73E709EA-5D93-4B2E-BBB0-99B7938DA9E4}\"\n\nHas anyone else seen this? Anyone have any hashes/sha's of this dropper? ",
+        "title": "New Poweliks???",
+        "score": 2,
+        "id": "2ze1jf",
+        "commsNum": 1,
+        "timeStamp": "2015/03/17-13:22:13",
+        "author_name": "galactictango88",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2ze1jf/new_poweliks/"
+    },
+    "posts": {}
+}

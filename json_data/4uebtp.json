@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I'd like to do some malware analysis, but my laptop just can't handle a virtual machine. Is renting cloud computing for malware analysis feasible? I worry that cloud computing might add an extra layer of difficulty in observing and deconstructing malware. I also question the legality(violating term&amp;conditions) of running malware on someone else's computer. I'm in a transitional phase in life right now and would only plan on using the cloud services for 3 to 4 months before buying my own machine that can handle several VMs. Do you guys have any insights on this topic? Know of any relative cloud computing websites? Thanks for your help!",
+        "title": "Cloud Computing for Malware Analysis?",
+        "score": 3,
+        "id": "4uebtp",
+        "commsNum": 6,
+        "timeStamp": "2016/07/24-11:26:27",
+        "author_name": "quartzClockCycle",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/4uebtp/cloud_computing_for_malware_analysis/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "As per title",
+        "title": "Any good Ghidra Tutorials available for free",
+        "score": 1,
+        "id": "i6ie5n",
+        "commsNum": 6,
+        "timeStamp": "2020/08/09-05:17:31",
+        "author_name": "Ali_Alnuaimi",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/i6ie5n/any_good_ghidra_tutorials_available_for_free/"
+    },
+    "posts": {
+        "g27kbkg": {
+            "comment": "I've read about half of the first chapter. It holds your hand pretty tight, from what I've read so far. I'm not sure how great of a resource this will be for learning about a random ghidra feature. Currently, I'm interested in knowing more about renaming and retyping variables in the decompiler window. I see, at least what I think to be, strange behavior. Upon committing changes, the decompiler creates more variables for the previous variables that I have renamed or retyped.\n\nPersonally I'm glad I bought it, but I'm not too focused on it till the epub version is released. I typically read this kind of material electronically and the current early access PDF is not very flexible in e-readers.",
+            "timeStamp": "2020/08/20-06:17:53",
+            "id": "g27kbkg",
+            "is_submitter": false,
+            "link_id": "t3_i6ie5n",
+            "parent_id": "t1_g1c6lo8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "c0wb0yc0d3r"
+        },
+        "g1c6lo8": {
+            "comment": "Thank you... Is it noob friendly?",
+            "timeStamp": "2020/08/13-08:47:59",
+            "id": "g1c6lo8",
+            "is_submitter": true,
+            "link_id": "t3_i6ie5n",
+            "parent_id": "t1_g1avik3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Ali_Alnuaimi"
+        },
+        "g1avik3": {
+            "comment": "I know you asked for the free ones but it is worth noting that \"The Ghidra Book\" is coming out in September and it is already available in early access:  [https://nostarch.com/GhidraBook](https://nostarch.com/GhidraBook) \n\nIt is written by the same guy who wrote famous \"The IDA Book\" ( Chris Eagle) and if you only have 50 dollars to spend it is definitely worth every penny.",
+            "timeStamp": "2020/08/12-23:14:12",
+            "id": "g1avik3",
+            "is_submitter": false,
+            "link_id": "t3_i6ie5n",
+            "parent_id": "t3_i6ie5n",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Lasq"
+        },
+        "g0w6m2m": {
+            "comment": "https://youtu.be/6p5Qviusskk\n\nI\u2019ve assumed you\u2019ve done a YouTube search but this guy has some good vids and goes through the crackmes",
+            "timeStamp": "2020/08/09-07:20:16",
+            "id": "g0w6m2m",
+            "is_submitter": false,
+            "link_id": "t3_i6ie5n",
+            "parent_id": "t3_i6ie5n",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ivie1976"
+        },
+        "g0w4oaq": {
+            "comment": "This guys playlist has many ghidra tuts from malware analysis to bare metal re\n\nhttps://www.youtube.com/channel/UC3S8vxwRfqLBdIhgRlDRVzw",
+            "timeStamp": "2020/08/09-06:59:56",
+            "id": "g0w4oaq",
+            "is_submitter": false,
+            "link_id": "t3_i6ie5n",
+            "parent_id": "t3_i6ie5n",
+            "score": 1,
+            "stickied": false,
+            "author_name": "nishan8583"
+        },
+        "g0w29wp": {
+            "comment": "https://tryhackme.com/room/ccghidra",
+            "timeStamp": "2020/08/09-06:34:45",
+            "id": "g0w29wp",
+            "is_submitter": false,
+            "link_id": "t3_i6ie5n",
+            "parent_id": "t3_i6ie5n",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sicKurity"
+        }
+    }
+}

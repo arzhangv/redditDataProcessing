@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "New KPOT v2.0 stealer brings zero persistence and in-memory features to silently steal credentials",
+        "score": 6,
+        "id": "bwqk4l",
+        "commsNum": 0,
+        "timeStamp": "2019/06/04-09:14:35",
+        "author_name": "DrinkMoreCodeMore",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.proofpoint.com/us/threat-insight/post/new-kpot-v20-stealer-brings-zero-persistence-and-memory-features-silently-steal"
+    },
+    "posts": {}
+}

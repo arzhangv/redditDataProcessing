@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I came across a suspicious email on my phone about a purchase I did not make with my apple ID. The title of the email was something like #HSGF8018. I accidentally clicked on the email attachment on Gmail which showed the \"receipt\"( it was in PDF preview. I didn't download the image). After restarting Gmail I went to find the email but it disappeared. \n\nWhat are the chances that my phone got infected with malware?( I read online about how the picture contains the virus smth like that)\n\nWhy did the email disappear after being read?\n\n[TL:DR] : opened an attachment of a potentially malicious email and now paranoid as hell.",
+        "title": "Opened a potentially malicious email on gmail",
+        "score": 1,
+        "id": "f6tf44",
+        "commsNum": 4,
+        "timeStamp": "2020/02/20-05:56:58",
+        "author_name": "Reeyans",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/f6tf44/opened_a_potentially_malicious_email_on_gmail/"
+    },
+    "posts": {
+        "fi6x4h3": {
+            "comment": "It has likely moved to \"Spam\" folder automatically. I sometimes catch spam emails hanging out for a while in my GMail inbox before the spam recognition algorithms have time to kick in and move it to the spam folder.\n\nIt is *possible* that the PDF could contain a zero-day, but this is quite unlikely. Most likely the attack scenario is that they are trying to phish you, in which case you are safe just by not reacting to the spam.",
+            "timeStamp": "2020/02/20-06:38:52",
+            "id": "fi6x4h3",
+            "is_submitter": false,
+            "link_id": "t3_f6tf44",
+            "parent_id": "t1_fi6ul1f",
+            "score": 1,
+            "stickied": false,
+            "author_name": "kurav"
+        },
+        "fi6vt50": {
+            "comment": "Are you sure it didn't just go to the unread section of your email?",
+            "timeStamp": "2020/02/20-06:24:16",
+            "id": "fi6vt50",
+            "is_submitter": false,
+            "link_id": "t3_f6tf44",
+            "parent_id": "t1_fi6ul1f",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MisterSpock2n"
+        },
+        "fi6ul1f": {
+            "comment": "I see. But why did the email suddenly disappear though?",
+            "timeStamp": "2020/02/20-06:09:50",
+            "id": "fi6ul1f",
+            "is_submitter": true,
+            "link_id": "t3_f6tf44",
+            "parent_id": "t1_fi6tuoi",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Reeyans"
+        },
+        "fi6tuoi": {
+            "comment": "Sounds like it was a phishing email that was trying to entice you to enter Apple-related credentials. You're very likely fine.",
+            "timeStamp": "2020/02/20-06:00:51",
+            "id": "fi6tuoi",
+            "is_submitter": false,
+            "link_id": "t3_f6tf44",
+            "parent_id": "t3_f6tf44",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RamblinWreckGT"
+        }
+    }
+}

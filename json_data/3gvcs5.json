@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I'm self learning how to reverse engineer malware. I have some idea of the basic concepts in operational systems,but I don't know which book to start reading? I'm hesitating between Operating System Concepts(the one with dinosaur) and Windows internals(by microsoft press). What's your recommendation?",
+        "title": "Sould I read Operating System Concepts or jump to Windows internals?",
+        "score": 12,
+        "id": "3gvcs5",
+        "commsNum": 7,
+        "timeStamp": "2015/08/13-10:13:25",
+        "author_name": "DrivenByCuriosity",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/3gvcs5/sould_i_read_operating_system_concepts_or_jump_to/"
+    },
+    "posts": {}
+}

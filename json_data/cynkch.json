@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "The Art of Becoming TrustedInstaller - Task Scheduler Edition",
+        "score": 33,
+        "id": "cynkch",
+        "commsNum": 4,
+        "timeStamp": "2019/09/02-04:03:42",
+        "author_name": "Struppigel",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://tyranidslair.blogspot.com/2019/09/the-art-of-becoming-trustedinstaller.html"
+    },
+    "posts": {
+        "eyvado4": {
+            "comment": "Didn't worked for me, getting Access Denied on Windows 10 Pro 1803\n\nIs this applyable for Windows 10? Or did I something wrong? I just wrote the Content to the Powershell",
+            "timeStamp": "2019/09/02-21:47:14",
+            "id": "eyvado4",
+            "is_submitter": false,
+            "link_id": "t3_cynkch",
+            "parent_id": "t3_cynkch",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Rafael20002000"
+        },
+        "eyuqy5y": {
+            "comment": "I did check task manager and didn't see it under details but let me boot up my VM again and take a look.\n\nChained with the `SilentCleanup`, this would be incredibly powerful.",
+            "timeStamp": "2019/09/02-17:15:43",
+            "id": "eyuqy5y",
+            "is_submitter": false,
+            "link_id": "t3_cynkch",
+            "parent_id": "t1_eyuqkif",
+            "score": 1,
+            "stickied": false,
+            "author_name": "therein"
+        },
+        "eyuqkif": {
+            "comment": "Did you check Task Manager? It will be spawned in session 0 so you won't get a Notepad window pop up",
+            "timeStamp": "2019/09/02-17:10:45",
+            "id": "eyuqkif",
+            "is_submitter": false,
+            "link_id": "t3_cynkch",
+            "parent_id": "t1_eyudhwv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "anonymous_dev"
+        },
+        "eyudhwv": {
+            "comment": "Very interesting. Thank you for sharing.\n\nAs always a Microsoft classic:\n\n&gt; One important thing to know is that UAC is not a security boundary. UAC helps people be more secure, but it is not a cure all. UAC helps most by being the prompt before software is installed. \n\n:D",
+            "timeStamp": "2019/09/02-14:21:05",
+            "id": "eyudhwv",
+            "is_submitter": false,
+            "link_id": "t3_cynkch",
+            "parent_id": "t3_cynkch",
+            "score": 1,
+            "stickied": false,
+            "author_name": "therein"
+        }
+    }
+}

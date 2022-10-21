@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Does anyone know any other working/relatively recent DNS faking tools besides ApateDNS that works on Win32? I've been having some trouble with Apate (Keeps giving me CLR runtime errors despite having the runtimes installed) and wanted to know if there was anything else out there. The only other tool I found was something called FakeNet but I just tried to use it and it straight-up didn't work; why it didn't, I am not sure yet.",
+        "title": "ApateDNS Alternatives?",
+        "score": 6,
+        "id": "5wmskc",
+        "commsNum": 9,
+        "timeStamp": "2017/02/27-23:59:57",
+        "author_name": "null_endian",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 9,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5wmskc/apatedns_alternatives/"
+    },
+    "posts": {}
+}

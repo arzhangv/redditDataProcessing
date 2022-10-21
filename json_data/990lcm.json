@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Organizations worldwide are hacked and extorted using Ryuk ransomware. Possible DPRK connection?",
+        "score": 35,
+        "id": "990lcm",
+        "commsNum": 2,
+        "timeStamp": "2018/08/20-22:46:45",
+        "author_name": "ynvb",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://research.checkpoint.com/ryuk-ransomware-targeted-campaign-break/"
+    },
+    "posts": {
+        "e4lro9c": {
+            "comment": "Do you have more in notepad? Your writing amuses me holy shit",
+            "timeStamp": "2018/08/21-17:35:02",
+            "id": "e4lro9c",
+            "is_submitter": false,
+            "link_id": "t3_990lcm",
+            "parent_id": "t1_e4klij2",
+            "score": 3,
+            "stickied": false,
+            "author_name": "darkfroggy"
+        },
+        "e4klij2": {
+            "comment": "If you search for \"Ryuk\" on google, you'll find these guys named their ransomware after a character from the series *Death Note*. In the show, Ryuk is a grim reaper who, out of boredom, descends into the human world and leaves his \"death note\" there to see what would happen. This \"death note\" has the property that if you write a person's name there, including a time and cause of death, they will die per the description you used.\n\nThis choice of \"Ryuk\" as a name *can't* be a coincidence, given that the attacks are so targeted, with personally crafted key pairs and ransom notes and so on. You can just see how the attackers fancy themselves to be deliberately writing down the names of their victims, email addresses and ransom payment amounts, to the tune of [o-fortuna-esque ominous latin chanting](https://www.youtube.com/watch?v=x-xpMRCnJRE), as portrayed in the show.\n\nThe main character in the show, Kira, goes on quite the power trip after obtaining the Death Note, and the authors here don't do too shabbily either with their $600,000 bounty. Somewhere, someone in North Korea is laughing manically and screaming \"I am justice!!!\". And swimming in bitcoin. Mostly the bitcoin part.",
+            "timeStamp": "2018/08/21-07:21:45",
+            "id": "e4klij2",
+            "is_submitter": false,
+            "link_id": "t3_990lcm",
+            "parent_id": "t3_990lcm",
+            "score": 14,
+            "stickied": false,
+            "author_name": "Triple_Elation"
+        }
+    }
+}

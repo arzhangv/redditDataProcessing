@@ -1,0 +1,121 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi /r/Malware. I'm a machine learning researcher and I'm trying to build a robust classifier for malware v/s benignware. However, I am having trouble finding a large enough dataset for benign files. I have used files from Windows32 folders, but I'm concerned it will skew the features since they are all from a single company and they have strict coding rules and optimization features. Any help would be greatly appreciated",
+        "title": "Benignware dataset",
+        "score": 2,
+        "id": "bu2tvc",
+        "commsNum": 9,
+        "timeStamp": "2019/05/28-10:27:09",
+        "author_name": "thatphotoguy89",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 9,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/bu2tvc/benignware_dataset/"
+    },
+    "posts": {
+        "f5sqvjb": {
+            "comment": "Not really.",
+            "timeStamp": "2019/10/30-06:05:01",
+            "id": "f5sqvjb",
+            "is_submitter": true,
+            "link_id": "t3_bu2tvc",
+            "parent_id": "t1_f5sm49b",
+            "score": 1,
+            "stickied": false,
+            "author_name": "thatphotoguy89"
+        },
+        "f5sm49b": {
+            "comment": "I've found portable apps, and exe files, do you know of any others?",
+            "timeStamp": "2019/10/30-04:51:56",
+            "id": "f5sm49b",
+            "is_submitter": false,
+            "link_id": "t3_bu2tvc",
+            "parent_id": "t1_f4mfnjz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "griblygook"
+        },
+        "f4mfnjz": {
+            "comment": "Not really. You will have to scrape freeware distribution sites if you want to make a large, up-to-date repo",
+            "timeStamp": "2019/10/21-10:09:31",
+            "id": "f4mfnjz",
+            "is_submitter": true,
+            "link_id": "t3_bu2tvc",
+            "parent_id": "t1_f4io2rf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "thatphotoguy89"
+        },
+        "f4io2rf": {
+            "comment": "Any update on this? i'm in the same position",
+            "timeStamp": "2019/10/20-14:33:09",
+            "id": "f4io2rf",
+            "is_submitter": false,
+            "link_id": "t3_bu2tvc",
+            "parent_id": "t3_bu2tvc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "griblygook"
+        },
+        "epvhwla": {
+            "comment": "Do any of them have large repos that can be used to train a machine learning system?",
+            "timeStamp": "2019/06/02-21:07:17",
+            "id": "epvhwla",
+            "is_submitter": true,
+            "link_id": "t3_bu2tvc",
+            "parent_id": "t1_epv2le5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "thatphotoguy89"
+        },
+        "epv2le5": {
+            "comment": "The leading [freeware](https://google.com/search?q=freeware+download) sites have large collections.",
+            "timeStamp": "2019/06/02-17:43:20",
+            "id": "epv2le5",
+            "is_submitter": false,
+            "link_id": "t3_bu2tvc",
+            "parent_id": "t1_ephwrqq",
+            "score": 2,
+            "stickied": false,
+            "author_name": "ahazred8vt"
+        },
+        "ephwrqq": {
+            "comment": "I just found what you were talking about. But these seem to be only metadata about files. Is there a set of files that I can download rather than data about the files?",
+            "timeStamp": "2019/05/30-08:59:51",
+            "id": "ephwrqq",
+            "is_submitter": true,
+            "link_id": "t3_bu2tvc",
+            "parent_id": "t1_ep9vh6o",
+            "score": 1,
+            "stickied": false,
+            "author_name": "thatphotoguy89"
+        },
+        "ephu7b0": {
+            "comment": "Sorry for the delayed response. I'm going through the linked website right now and I see data for different topics, but I can't find a software dataset. What am I missing?",
+            "timeStamp": "2019/05/30-08:45:39",
+            "id": "ephu7b0",
+            "is_submitter": true,
+            "link_id": "t3_bu2tvc",
+            "parent_id": "t1_ep9vh6o",
+            "score": 1,
+            "stickied": false,
+            "author_name": "thatphotoguy89"
+        },
+        "ep9vh6o": {
+            "comment": "[NSRL](https://www.nist.gov/srd/nist-special-database-28) is your best bet",
+            "timeStamp": "2019/05/29-01:02:45",
+            "id": "ep9vh6o",
+            "is_submitter": false,
+            "link_id": "t3_bu2tvc",
+            "parent_id": "t3_bu2tvc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "NinjaYoda"
+        }
+    }
+}

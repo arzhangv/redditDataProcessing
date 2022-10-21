@@ -1,0 +1,165 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I got a number of detections labeled SEVERE by windows defender over the last few days. It appears there is something trying to open a backdoor being blocked. The reason I am asking here is because I am used to windows defender, but with the changed to \"apps\" in windows 10, the renamed \"windows security\" does not appear to have any quarantine option for these detections, and when I do a quick scan no threats are found. It's been a while since I have had to deal with a virus, and this sounds pretty serious. What is the best current way, I should be tackling this. as windows security doesn't seems to be handling it?\n\nThanks \n\n&amp;#x200B;\n\n[Details of threat](https://preview.redd.it/juj4ssjc7xh41.png?width=437&amp;format=png&amp;auto=webp&amp;s=2373d9f9cffcd6bbc619b2aa58a44dd879c2e664)\n\n&amp;#x200B;\n\nhttps://preview.redd.it/f4uccgwh7xh41.png?width=452&amp;format=png&amp;auto=webp&amp;s=5515af2990a191787a3f9aae2c14eb8f74c2261b",
+        "title": "Virus advice",
+        "score": 1,
+        "id": "f6eln6",
+        "commsNum": 13,
+        "timeStamp": "2020/02/19-10:04:21",
+        "author_name": "shebbbb",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 13,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/f6eln6/virus_advice/"
+    },
+    "posts": {
+        "fi6oz9m": {
+            "comment": "**Web shell**\n\nA web shell is a web security threat, which is a web-based implementation of the shell concept. A web shell is able to be uploaded to a web server to allow remote access to the web server, such as the web server's file system. A web shell is unique in that it enables users to access a web server by way of a web browser that acts like a command-line interface. A user can access a remote computer via the World Wide Web using a web browser on any type of system, whether it's a desktop computer or a mobile phone with a web browser, and perform tasks on the remote system.\n\n***\n\n^[ [^PM](https://www.reddit.com/message/compose?to=kittens_from_space) ^| [^Exclude ^me](https://reddit.com/message/compose?to=WikiTextBot&amp;message=Excludeme&amp;subject=Excludeme) ^| [^Exclude ^from ^subreddit](https://np.reddit.com/r/Malware/about/banned) ^| [^FAQ ^/ ^Information](https://np.reddit.com/r/WikiTextBot/wiki/index) ^| [^Source](https://github.com/kittenswolf/WikiTextBot)   ^]\n^Downvote ^to ^remove ^| ^v0.28",
+            "timeStamp": "2020/02/20-04:56:46",
+            "id": "fi6oz9m",
+            "is_submitter": false,
+            "link_id": "t3_f6eln6",
+            "parent_id": "t1_fi6oywx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "WikiTextBot"
+        },
+        "fi6oywx": {
+            "comment": "1) This is not a techsupport subreddit... Why , why are people UNABLE to READ...\nNext time ask elsewhere please.\n\n2) Ever heard of [Web Shellsl](https://en.wikipedia.org/wiki/Web_shell) ? \n\nI do not see any scenario where a web shell would be a threat on your computer unless you got a web server program (Apache most likely? Xampp for noobs/devs? ) where the webshell is installed.\n\nOr... There is a russian tool (forgot the name ) where you can embed php with scripts and run them as an exe... I am not sure it would work but..\n\nFile names \"Readme.md\" suggest they are readme files from GitHub repositories. Its just a name but why would they be detected as threats? Why would they be on your computer in the first place? \n\nI'd bet you downloaded some php backdoor for malicious purposes and are scared because your av flag them. I dont want to be that guy but if i am not wrong : dont play with things you dont understand, you'll get infected yourself.",
+            "timeStamp": "2020/02/20-04:56:38",
+            "id": "fi6oywx",
+            "is_submitter": false,
+            "link_id": "t3_f6eln6",
+            "parent_id": "t3_f6eln6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RCEdude"
+        },
+        "fi5pnp3": {
+            "comment": "Those are just README files. View the contents to figure out why they are triggering the alerts. Open them in a text editor.",
+            "timeStamp": "2020/02/19-19:07:02",
+            "id": "fi5pnp3",
+            "is_submitter": false,
+            "link_id": "t3_f6eln6",
+            "parent_id": "t3_f6eln6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ComputerPizza"
+        },
+        "fi5knqy": {
+            "comment": "Download Malwarebytes and give it a go.",
+            "timeStamp": "2020/02/19-18:19:29",
+            "id": "fi5knqy",
+            "is_submitter": false,
+            "link_id": "t3_f6eln6",
+            "parent_id": "t3_f6eln6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TheCrowGrandfather"
+        },
+        "fi5ec30": {
+            "comment": "Try Malwarebytes.",
+            "timeStamp": "2020/02/19-17:13:21",
+            "id": "fi5ec30",
+            "is_submitter": false,
+            "link_id": "t3_f6eln6",
+            "parent_id": "t3_f6eln6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "kabob8933"
+        },
+        "fi53dml": {
+            "comment": "this subreddit isn't for tech support or malware removal.\n\nthis is for more reverse engineering / research",
+            "timeStamp": "2020/02/19-15:14:00",
+            "id": "fi53dml",
+            "is_submitter": false,
+            "link_id": "t3_f6eln6",
+            "parent_id": "t1_fi48lut",
+            "score": 1,
+            "stickied": false,
+            "author_name": "steamport"
+        },
+        "fi4tiqp": {
+            "comment": "As per the sidebar:\n\n&gt;A place for malware reports and information. This is NOT a place for help with malware removal or various other end-user questions.\n&gt;Please redirect questions related to malware removal to /r/antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware",
+            "timeStamp": "2020/02/19-13:35:39",
+            "id": "fi4tiqp",
+            "is_submitter": false,
+            "link_id": "t3_f6eln6",
+            "parent_id": "t3_f6eln6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "WhAtEvErYoUmEaN101"
+        },
+        "fi4lufr": {
+            "comment": "Have you downloaded any tools such as what would come in the kali linux suite? Things like backdoor tools downloaded from github will show up in windows defender as malware or whatnot but in actuality it's just your cyber security tools.",
+            "timeStamp": "2020/02/19-12:23:15",
+            "id": "fi4lufr",
+            "is_submitter": false,
+            "link_id": "t3_f6eln6",
+            "parent_id": "t3_f6eln6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RayRay_Tyreese"
+        },
+        "fi4ighu": {
+            "comment": "Try r/techsupport",
+            "timeStamp": "2020/02/19-11:50:34",
+            "id": "fi4ighu",
+            "is_submitter": false,
+            "link_id": "t3_f6eln6",
+            "parent_id": "t3_f6eln6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Carb0n_C0py"
+        },
+        "fi494jn": {
+            "comment": "yeah, I think that might have to happen.",
+            "timeStamp": "2020/02/19-10:21:01",
+            "id": "fi494jn",
+            "is_submitter": true,
+            "link_id": "t3_f6eln6",
+            "parent_id": "t1_fi48uvz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "shebbbb"
+        },
+        "fi48vk5": {
+            "comment": "Read the subs rules. This isn't a sub for tech support",
+            "timeStamp": "2020/02/19-10:18:35",
+            "id": "fi48vk5",
+            "is_submitter": false,
+            "link_id": "t3_f6eln6",
+            "parent_id": "t1_fi48lut",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Rakanisheu"
+        },
+        "fi48uvz": {
+            "comment": "I'm a bit old fashioned there. If this was my machine I'd backup my stuff and do a complete wipe of my system drive and a fresh Windows install after that.\n\nThis seems to be the same thing that keeps popping up without you triggering it in any way, like browsing \"inofficial\" streaming sites if you know what I mean.\n\nMy best guess is that some other malicious piece of software keeps trying to load malware while doing nothing evil itself, so Windows Defender gets only triggered by the actual malware.\n\nCleaning this off your system witout a hard wipe might be a bit tedious, especially since you don't know where or how deep the actual problem sits.",
+            "timeStamp": "2020/02/19-10:18:24",
+            "id": "fi48uvz",
+            "is_submitter": false,
+            "link_id": "t3_f6eln6",
+            "parent_id": "t3_f6eln6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AnActualHousecat"
+        },
+        "fi48lut": {
+            "comment": "Could someone tell me why this is downvoted?",
+            "timeStamp": "2020/02/19-10:16:00",
+            "id": "fi48lut",
+            "is_submitter": true,
+            "link_id": "t3_f6eln6",
+            "parent_id": "t3_f6eln6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "shebbbb"
+        }
+    }
+}

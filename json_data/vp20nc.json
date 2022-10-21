@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "CVE-2022-28219 Detection: Critical RCE Vulnerability in Zoho ManageEngine ADAudit Plus",
+        "score": 1,
+        "id": "vp20nc",
+        "commsNum": 0,
+        "timeStamp": "2022/07/01-07:22:39",
+        "author_name": "alertnoalert",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://socprime.com/blog/cve-2022-28219-detection-critical-rce-vulnerability-in-zoho-manageengine-adaudit-plus/"
+    },
+    "posts": {
+        "iegki3p": {
+            "comment": "Basically, you search for any CVE, APT or whatever, and get the context, threat intel, binaries, simulations for pen testing, and detection/hunting sigma rules with translations for siems.",
+            "timeStamp": "2022/07/01-08:05:49",
+            "id": "iegki3p",
+            "is_submitter": true,
+            "link_id": "t3_vp20nc",
+            "parent_id": "t1_iegje1j",
+            "score": 1,
+            "stickied": false,
+            "author_name": "alertnoalert"
+        },
+        "iegje1j": {
+            "comment": "Whats this engine?",
+            "timeStamp": "2022/07/01-07:58:15",
+            "id": "iegje1j",
+            "is_submitter": false,
+            "link_id": "t3_vp20nc",
+            "parent_id": "t3_vp20nc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "SubstantialTangelo35"
+        }
+    }
+}

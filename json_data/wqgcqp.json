@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "DotDumper: an open-source automatic unpacker for DotNet Framework targeting files",
+        "score": 1,
+        "id": "wqgcqp",
+        "commsNum": 0,
+        "timeStamp": "2022/08/16-22:17:36",
+        "author_name": "ThisIsLibra",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://github.com/advanced-threat-research/DotDumper"
+    },
+    "posts": {
+        "ikn84t2": {
+            "comment": "Noice!",
+            "timeStamp": "2022/08/17-04:52:11",
+            "id": "ikn84t2",
+            "is_submitter": false,
+            "link_id": "t3_wqgcqp",
+            "parent_id": "t3_wqgcqp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "concmap"
+        }
+    }
+}

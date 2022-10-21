@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Malware Must Die!: MMD-0030-2015 New ELF malware on Shellshock: the ChinaZ",
+        "score": 1,
+        "id": "2sdzek",
+        "commsNum": 0,
+        "timeStamp": "2015/01/14-02:18:56",
+        "author_name": "[deleted]",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://blog.malwaremustdie.org/2015/01/mmd-0030-2015-new-elf-malware-on.html"
+    },
+    "posts": {}
+}

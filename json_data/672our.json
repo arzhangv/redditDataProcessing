@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Unpacking RIG EK shellcode using ESIL",
+        "score": 10,
+        "id": "672our",
+        "commsNum": 0,
+        "timeStamp": "2017/04/23-08:07:29",
+        "author_name": "knightmare01",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://medium.com/@nicholas.rafter/unpacking-rig-ek-shellcode-using-esil-71aba07366b0"
+    },
+    "posts": {}
+}

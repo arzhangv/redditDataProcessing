@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 0.67,
+        "selftext": "Malware the collective name for a number of malicious software variants, including viruses, ransomware and spyware. Shorthand for malicious software,\u00a0malware\u00a0typically consists of code developed by cyberattackers, designed to cause extensive damage to data and systems or to gain unauthorized access to a network.",
+        "title": "For newbies to malware",
+        "score": 1,
+        "id": "hczwwd",
+        "commsNum": 1,
+        "timeStamp": "2020/06/20-20:29:01",
+        "author_name": "Thefeared16",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/hczwwd/for_newbies_to_malware/"
+    },
+    "posts": {
+        "fvi7a92": {
+            "comment": "This is info about malware",
+            "timeStamp": "2020/06/20-20:30:58",
+            "id": "fvi7a92",
+            "is_submitter": true,
+            "link_id": "t3_hczwwd",
+            "parent_id": "t3_hczwwd",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Thefeared16"
+        }
+    }
+}

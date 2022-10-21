@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi, I've been looking around for information on this. Is there any way to fake the time and date stamp on the IMAGE FILE HEADER section of a PE32 file? If there is, how would one go about that? Thanks. ",
+        "title": "Any way to fake the compile time on a PE32?",
+        "score": 4,
+        "id": "7x4ipg",
+        "commsNum": 14,
+        "timeStamp": "2018/02/12-14:14:13",
+        "author_name": "Midge_Mong",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 14,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/7x4ipg/any_way_to_fake_the_compile_time_on_a_pe32/"
+    },
+    "posts": {
+        "dyouy7j": {
+            "comment": "Have your stager manipulate the contents of the payload using it's base address after execution from memory. After you are done, free it's memory and write it to the disk.",
+            "timeStamp": "2018/05/09-02:43:42",
+            "id": "dyouy7j",
+            "is_submitter": false,
+            "link_id": "t3_7x4ipg",
+            "parent_id": "t3_7x4ipg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "CoderGuy95"
+        }
+    }
+}

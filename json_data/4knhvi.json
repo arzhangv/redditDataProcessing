@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Inside Nuclear\u2019s Core: Unraveling a Malware-as-a-Service Infrastructure (Part II)",
+        "score": 1,
+        "id": "4knhvi",
+        "commsNum": 0,
+        "timeStamp": "2016/05/23-04:28:52",
+        "author_name": "linuxjava",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://blog.checkpoint.com/2016/05/17/inside-nuclears-core-unraveling-a-ransomware-as-a-service-infrastructure/"
+    },
+    "posts": {}
+}

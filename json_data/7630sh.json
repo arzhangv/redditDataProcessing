@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Does anyone know any good places to find a repository of yara rules (similar to the yara-rule github) that gets regular/semiregular upates for new samples seen?",
+        "title": "Yara rule repos?",
+        "score": 6,
+        "id": "7630sh",
+        "commsNum": 3,
+        "timeStamp": "2017/10/12-23:35:50",
+        "author_name": "ZiggyPredicts",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/7630sh/yara_rule_repos/"
+    },
+    "posts": {}
+}

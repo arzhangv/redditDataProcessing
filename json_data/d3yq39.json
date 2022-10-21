@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hello guys. I was watching the documentary Zero Days and had suddenly popped up with a question.\n\nStuxnet is a worm that targets Siemens PLCs. But in the doc, they said it only attacks the PLCs after those PLCs are proven to be the ones in the Natanz. In other words, Stuxnet won't attack a PLC device which is not it Natanz.\n\nHowever, during the balloon test(where they infect the air pump by Stuxnet and let the balloon blow up), the experiment environment was not the same as the Natanz facility. Why did Stuxnet attack the PLC which does not have the same configuration with the ones in Natanz?",
+        "title": "Question about Stuxnet",
+        "score": 1,
+        "id": "d3yq39",
+        "commsNum": 1,
+        "timeStamp": "2019/09/13-18:20:18",
+        "author_name": "jjhjjm0922",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/d3yq39/question_about_stuxnet/"
+    },
+    "posts": {
+        "f05z33f": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2019/09/13-18:20:19",
+            "id": "f05z33f",
+            "is_submitter": false,
+            "link_id": "t3_d3yq39",
+            "parent_id": "t3_d3yq39",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

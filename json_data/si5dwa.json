@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hi all, I'm in the process of writing an unpacker for a crypter commonly used by BazarLoader called SPLCrypt. (Or at least that's what I've seen it called.) The packer takes 2 sections containing ciphertext, combines them, RC4 decrypts and then decompresses BazarLoader. \n\nThe hash of the sample I'm looking at is: 62a7b273f763f92fd683d9248ae9ab7f5bc115b8c15e995291fdeb91d1aecc4b\n\nHere are some screenshots indicating the RC4 Decryption Routine, the compressed data and the Decompression Routine: https://imgur.com/a/TyiyZeY\n\nI'd greatly appreciate any help in identifying what this is using for decompression so I can finish my unpacker. Thanks!",
+        "title": "Assistance Identifying Compression Algorithm in BazarLoader",
+        "score": 1,
+        "id": "si5dwa",
+        "commsNum": 0,
+        "timeStamp": "2022/02/01-12:56:57",
+        "author_name": "_BMW_M3_",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/si5dwa/assistance_identifying_compression_algorithm_in/"
+    },
+    "posts": {
+        "iak93m5": {
+            "comment": "[removed]",
+            "timeStamp": "2022/05/30-09:49:21",
+            "id": "iak93m5",
+            "is_submitter": false,
+            "link_id": "t3_si5dwa",
+            "parent_id": "t3_si5dwa",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hv6o6hr": {
+            "comment": "You're right - I didn't have it handy at the moment. Let me get it and add to the post.",
+            "timeStamp": "2022/02/01-13:07:30",
+            "id": "hv6o6hr",
+            "is_submitter": true,
+            "link_id": "t3_si5dwa",
+            "parent_id": "t1_hv6nwqf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "_BMW_M3_"
+        },
+        "hv6nwqf": {
+            "comment": "You may get better responses if you post the actual disassembly of the compression routine rather than 'call compress'",
+            "timeStamp": "2022/02/01-13:05:50",
+            "id": "hv6nwqf",
+            "is_submitter": false,
+            "link_id": "t3_si5dwa",
+            "parent_id": "t3_si5dwa",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Krombuchar2"
+        }
+    }
+}

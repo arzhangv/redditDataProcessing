@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Here is my word macro analysis. Macro which executes PowerShell and drops Emotet. very basic.  [https://malwr-analysis.com/2019/05/04/word-macro-drops-emotet-malware/](https://malwr-analysis.com/2019/05/04/word-macro-drops-emotet-malware/)",
+        "title": "Word macro analysis",
+        "score": 12,
+        "id": "bkk83f",
+        "commsNum": 0,
+        "timeStamp": "2019/05/04-04:32:20",
+        "author_name": "anuraggawande",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/bkk83f/word_macro_analysis/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hackers target Microsoft SQL and MySQL database servers to deploy the Gh0stCringe remote access trojans on vulnerable devices. The recent Gh0stCringe (also known as CirenegRAT) variant of Gh0stRAT malware was most recently deployed in 2020 Chinese cyber-espionage operations but dates back to 2018. Security researchers have found that the GhostCringe threat actors are targeting database servers with weak account credentials and no oversight, which could lead to more victims.\n\n[**Continue Reading**](https://technews.pw/gh0stcringe-malware-targets-microsoft-sql-mysql-servers/)\n\nhttps://preview.redd.it/9cb4d2609wn81.png?width=1718&amp;format=png&amp;auto=webp&amp;s=da8011f7a218c2469c8b5ef0415a2ba234181834",
+        "title": "Gh0stCringe Malware Targets Microsoft SQL, MySQL Servers",
+        "score": 1,
+        "id": "tg4cl3",
+        "commsNum": 0,
+        "timeStamp": "2022/03/17-00:11:13",
+        "author_name": "No_Coffee_4638",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/tg4cl3/gh0stcringe_malware_targets_microsoft_sql_mysql/"
+    },
+    "posts": {
+        "i11qru0": {
+            "comment": "i cringed at them",
+            "timeStamp": "2022/03/17-11:06:53",
+            "id": "i11qru0",
+            "is_submitter": false,
+            "link_id": "t3_tg4cl3",
+            "parent_id": "t3_tg4cl3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "shavitush"
+        },
+        "i10sy8s": {
+            "comment": "The article goes more into details of the malware itself than infection vector but from their protections it seems like SQL servers exposed to the internet with weak credentials. \n\nI cant really find many other sites online discussing this malware at the moment.",
+            "timeStamp": "2022/03/17-07:27:15",
+            "id": "i10sy8s",
+            "is_submitter": false,
+            "link_id": "t3_tg4cl3",
+            "parent_id": "t1_i1087nf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "xxdcmast"
+        },
+        "i1087nf": {
+            "comment": "What is the access method?",
+            "timeStamp": "2022/03/17-04:31:52",
+            "id": "i1087nf",
+            "is_submitter": false,
+            "link_id": "t3_tg4cl3",
+            "parent_id": "t3_tg4cl3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sephstorm"
+        }
+    }
+}

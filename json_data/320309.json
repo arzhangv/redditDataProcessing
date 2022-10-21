@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "It Takes a Village \u2013 Collaborative Steps to Breaking Botnets: How Level 3 and Cisco Worked Together to Improve the Internet\u2019s Security and Stop SSHPsychos",
+        "score": 13,
+        "id": "320309",
+        "commsNum": 13,
+        "timeStamp": "2015/04/09-07:35:10",
+        "author_name": "craiwill",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 13,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://blog.level3.com/security/breaking-botnets-how-level-3-and-cisco-worked-together-to-improve-the-internets-security-and-stop-sshpsychos/"
+    },
+    "posts": {}
+}

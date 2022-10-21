@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "\nI just read the [following](http://stopmalvertising.com/spam-scams/invoice-attachment-leads-to-zeusvm-2.0.html) article and was wondering if anyone here could explain a little bit more about the decryption process needed to extract the config from the image file? \n\nIn the article they write to decode the config file you need to \"Base64 + RC6 + VisualDecrypt + UCL Decompress\" the config file data \n\nDoes that mean I seperate the encrypted config from the image data, base64 that data, decrypt the base64 strings using the RC6 key, use the zeus VisualDecrypt algorithm on the resulting data, and then finally UCL Decompress the whole thing? \n\nI was thinking of trying to write a script to do all this, but then I realized that I need the RC6 key, not the RC4 key. I know carberp started using RC6 keys, but I've never actually understood how to extract it. Would it be similar to extracting the RC4 key from the binary?\n\nI know Xylitol and some others have already figured this out on kernelmode.info I understand the concept, but am not sure how to accomplish this task fully. \n\nI am pretty new to malware analysis, so any tips on this would be great.\n",
+        "title": "ZeusVM Config Decryption",
+        "score": 1,
+        "id": "27x1bf",
+        "commsNum": 0,
+        "timeStamp": "2014/06/11-15:53:27",
+        "author_name": "tohitsugu",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/27x1bf/zeusvm_config_decryption/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Good morning,\n\nI just published a new video in my Introduction to Windows Forensics series, for those who may be interested:\n\nRemote Desktop Protocol (RDP) Cache Forensics. Learn about this artifact and how to parse the resulting bitmap data.\n\nhttps://www.youtube.com/watch?v=NnEOk5-Dstw\n\nPlenty more at youtube.com/13cubed.",
+        "title": "Remote Desktop Protocol (RDP) Cache Forensics (X-Post)",
+        "score": 21,
+        "id": "7x0dx5",
+        "commsNum": 3,
+        "timeStamp": "2018/02/12-04:26:18",
+        "author_name": "13Cubed",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/7x0dx5/remote_desktop_protocol_rdp_cache_forensics_xpost/"
+    },
+    "posts": {}
+}

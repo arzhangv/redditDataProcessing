@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi, I visited gen.lib, a Russian website with downloadable literature (yes, I know it is wrong). Now when I open LinkedIn, the language of the sign-in page is in Russian, which is not my setting. Could this mean that this LinkedIn page is fake, like one of those fake pages that want you to enter your information and password? If yes, is there some kind of malware on my computer? How do I fight it? I own a mac.",
+        "title": "After visiting a Russian site when I open LinkedIn, the language setting is in Russian (not logged in)",
+        "score": 1,
+        "id": "eany32",
+        "commsNum": 6,
+        "timeStamp": "2019/12/14-11:18:15",
+        "author_name": "sdkfjshd",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/eany32/after_visiting_a_russian_site_when_i_open/"
+    },
+    "posts": {
+        "faz9u4d": {
+            "comment": "No, in Incognito mode it is in English.",
+            "timeStamp": "2019/12/15-04:43:38",
+            "id": "faz9u4d",
+            "is_submitter": true,
+            "link_id": "t3_eany32",
+            "parent_id": "t1_fausuoo",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sdkfjshd"
+        },
+        "faz9qxj": {
+            "comment": "Other websites are not in Russian. I signed out of FB just in case to check and it is in English.",
+            "timeStamp": "2019/12/15-04:43:00",
+            "id": "faz9qxj",
+            "is_submitter": true,
+            "link_id": "t3_eany32",
+            "parent_id": "t1_faur3ld",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sdkfjshd"
+        },
+        "faz9kqv": {
+            "comment": "I downloaded something :(",
+            "timeStamp": "2019/12/15-04:41:51",
+            "id": "faz9kqv",
+            "is_submitter": true,
+            "link_id": "t3_eany32",
+            "parent_id": "t1_faurd3v",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sdkfjshd"
+        },
+        "fausuoo": {
+            "comment": "Do you go to LinkedIn.com directly and get Russian? If you open the tab in inxognito mode and go to LinkedIn is it still in Rusdian?",
+            "timeStamp": "2019/12/14-11:38:44",
+            "id": "fausuoo",
+            "is_submitter": false,
+            "link_id": "t3_eany32",
+            "parent_id": "t3_eany32",
+            "score": 1,
+            "stickied": false,
+            "author_name": "blabbities"
+        },
+        "faurd3v": {
+            "comment": "Did you just visit the site or actually downloaded something? If yes, it could be malware. In that case even the green lock cannot be trusted because it could have installed its own certificates.",
+            "timeStamp": "2019/12/14-11:29:28",
+            "id": "faurd3v",
+            "is_submitter": false,
+            "link_id": "t3_eany32",
+            "parent_id": "t3_eany32",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ptrsimon"
+        },
+        "faur3ld": {
+            "comment": "What happens when you try another website? And are you connecting through a russian vpn?",
+            "timeStamp": "2019/12/14-11:27:02",
+            "id": "faur3ld",
+            "is_submitter": false,
+            "link_id": "t3_eany32",
+            "parent_id": "t3_eany32",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Schnitzel725"
+        }
+    }
+}

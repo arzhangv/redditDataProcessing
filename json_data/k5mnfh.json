@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "The trojan called trojan.kws.banker1 by dr web antivirus article came about in 2018. The same exact trojan infected my father's office and accessed their bank account.\n\nWindows Defender failed to detect this blatant IN-YOUR-FACE trojan that would literally open random cmd windows randomly (title of cmd execution same as zip files name this trojan uses).\n\nThis blatant incompetence of an anti-virus that with a 4 hour scan cannot detect something so simple sitting the in the downloads folder should be the last straw for anybody or any institution currenly using it.\n\nYou can run the experiment yourself, I could show you the files and watch windows defender fail to detect it. Utterly embarrasing and dangerous.\n\n[Maybe it's a modified version of that trojan because it survives CLEAN USB WIPE FORMATS](https://media.discordapp.net/attachments/742433870955151432/783845424481959976/545d6a75-db59-4c7f-b706-76edca00238e.png?width=1116&amp;height=628)",
+        "title": "Windows Defender failed to detect a 2018 trojan - possible rootkit",
+        "score": 1,
+        "id": "k5mnfh",
+        "commsNum": 0,
+        "timeStamp": "2020/12/02-16:48:27",
+        "author_name": "Orc_",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/k5mnfh/windows_defender_failed_to_detect_a_2018_trojan/"
+    },
+    "posts": {}
+}

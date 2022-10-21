@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Possible CryptoNote Miner Analysis",
+        "score": 21,
+        "id": "74ydri",
+        "commsNum": 2,
+        "timeStamp": "2017/10/07-16:43:46",
+        "author_name": "g0jirasan",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.g0jirasan.com/2017/10/malware-analysis-fuckyoumm2-cryptonote.html"
+    },
+    "posts": {
+        "do2bj11": {
+            "comment": "If anybody wants a copy of the binaries from this, let me know.",
+            "timeStamp": "2017/10/07-21:04:32",
+            "id": "do2bj11",
+            "is_submitter": true,
+            "link_id": "t3_74ydri",
+            "parent_id": "t3_74ydri",
+            "score": 2,
+            "stickied": false,
+            "author_name": "g0jirasan"
+        }
+    }
+}

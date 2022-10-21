@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I was recently infected with a virus with the name of \"Segurazo\". I finally got help with uninstalling it, but the damage was already done. I found out that it had a lot of other software bundled into it. \"Driver Updater (Malware)\", \"Chromium (PuP)\" and others. I have a screenshot attached of the leftover junk that Segurazo left behind. It also hid windows files into it's folder so there was no possible way of uninstalling it. \n\n&amp;#x200B;\n\n(Edit: Yes, that uninstaller.exe program has the Segurazo logo. It's also junk.)",
+        "title": "PuP - Segurazo.exe \"Antivirus\"",
+        "score": 1,
+        "id": "ehltgi",
+        "commsNum": 3,
+        "timeStamp": "2019/12/30-05:05:29",
+        "author_name": "N4nuke",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ehltgi/pup_segurazoexe_antivirus/"
+    },
+    "posts": {
+        "ffgg078": {
+            "comment": "[removed]",
+            "timeStamp": "2020/01/24-14:36:28",
+            "id": "ffgg078",
+            "is_submitter": false,
+            "link_id": "t3_ehltgi",
+            "parent_id": "t3_ehltgi",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fck7hje": {
+            "comment": "Its not because people don't like you, its because this isn't a tech support sub.\n\nAlso, even if this was a tech support sub, you haven't requested support, you've just made what looks like a blog post",
+            "timeStamp": "2019/12/30-07:12:05",
+            "id": "fck7hje",
+            "is_submitter": false,
+            "link_id": "t3_ehltgi",
+            "parent_id": "t1_fcjz2e1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "_KnightBoat_"
+        },
+        "fcjz2e1": {
+            "comment": "Yes I might get my post deleted because nobody likes me.",
+            "timeStamp": "2019/12/30-05:06:45",
+            "id": "fcjz2e1",
+            "is_submitter": true,
+            "link_id": "t3_ehltgi",
+            "parent_id": "t3_ehltgi",
+            "score": 1,
+            "stickied": false,
+            "author_name": "N4nuke"
+        }
+    }
+}

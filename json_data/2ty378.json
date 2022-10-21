@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "A Different Exploit Angle on Adobe's Recent Zero-Day",
+        "score": 4,
+        "id": "2ty378",
+        "commsNum": 0,
+        "timeStamp": "2015/01/28-01:03:58",
+        "author_name": "Horgh",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.fireeye.com/blog/threat-research/2015/01/a_different_exploit.html"
+    },
+    "posts": {}
+}

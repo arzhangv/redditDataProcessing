@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "AndroidProjectCreator: easily convert an APK to an Android Studio project to reverse engineer the application",
+        "score": 1,
+        "id": "9zmx7n",
+        "commsNum": 0,
+        "timeStamp": "2018/11/23-01:32:45",
+        "author_name": "ThisIsLibra",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://maxkersten.nl/2018/11/21/androidprojectcreator-the-how-and-why/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[removed]",
+        "title": "Trojan[Ransom]/Win32.Gen",
+        "score": 1,
+        "id": "e5bwkj",
+        "commsNum": 0,
+        "timeStamp": "2019/12/02-20:53:59",
+        "author_name": "Bwilcox7",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/e5bwkj/trojanransomwin32gen/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "hi there guys, how do you share files to an isolated vm? I'm trying installing another vm that have internet connection and then switching to the isolated lan and host an ftp, but when I try to connect it doesn't work dunno why",
+        "title": "Sharing files between isolated machines",
+        "score": 1,
+        "id": "t64w0l",
+        "commsNum": 5,
+        "timeStamp": "2022/03/03-15:34:36",
+        "author_name": "TaryG19",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/t64w0l/sharing_files_between_isolated_machines/"
+    },
+    "posts": {
+        "hzanjoo": {
+            "comment": "What's the command you're using and is there an error message?",
+            "timeStamp": "2022/03/04-00:49:47",
+            "id": "hzanjoo",
+            "is_submitter": false,
+            "link_id": "t3_t64w0l",
+            "parent_id": "t3_t64w0l",
+            "score": 1,
+            "stickied": false,
+            "author_name": "robendboua"
+        },
+        "hza8ioc": {
+            "comment": "python3 -m http.server / python -m SimpleHTTPServer 8000",
+            "timeStamp": "2022/03/03-21:50:21",
+            "id": "hza8ioc",
+            "is_submitter": false,
+            "link_id": "t3_t64w0l",
+            "parent_id": "t3_t64w0l",
+            "score": 1,
+            "stickied": false,
+            "author_name": "vinumsv"
+        },
+        "hz9yd68": {
+            "comment": "Add a second nic and create a share on the vm with internet.\n\nOr copy to the host then to the isolated vm.\n\nSmb share, python web server, ftp there are lots of ways to share.",
+            "timeStamp": "2022/03/03-20:15:17",
+            "id": "hz9yd68",
+            "is_submitter": false,
+            "link_id": "t3_t64w0l",
+            "parent_id": "t3_t64w0l",
+            "score": 1,
+            "stickied": false,
+            "author_name": "jumpinjelly789"
+        },
+        "hz9gku2": {
+            "comment": "Winscp",
+            "timeStamp": "2022/03/03-17:48:23",
+            "id": "hz9gku2",
+            "is_submitter": false,
+            "link_id": "t3_t64w0l",
+            "parent_id": "t3_t64w0l",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mxo130330"
+        },
+        "hz9gf5k": {
+            "comment": "Use a USB",
+            "timeStamp": "2022/03/03-17:47:13",
+            "id": "hz9gf5k",
+            "is_submitter": false,
+            "link_id": "t3_t64w0l",
+            "parent_id": "t3_t64w0l",
+            "score": 5,
+            "stickied": false,
+            "author_name": "blue_Kazoo82"
+        }
+    }
+}

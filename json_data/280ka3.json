@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Banking malware using Windows to block anti-malware apps",
+        "score": 5,
+        "id": "280ka3",
+        "commsNum": 1,
+        "timeStamp": "2014/06/12-18:26:43",
+        "author_name": "k-h",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://arstechnica.com/security/2014/06/banking-malware-using-windows-itself-to-block-anti-malware-apps/"
+    },
+    "posts": {}
+}

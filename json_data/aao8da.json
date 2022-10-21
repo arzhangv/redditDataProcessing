@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I have had two things happen in the last couple of days. One: some weird notification popped up within Windows. It was like the standard notification in the bottom right corner, that has an arrow you click to close it. But the contents of it looked like spam. Then I did a search on Bing and clicked one of the results and it redirected me to this page: [http://prize9546.dreamteam10.life/8076410511/?u=gmqk605&amp;o=55hppzy&amp;t=main7&amp;f=1](http://prize9546.dreamteam10.life/8076410511/?u=gmqk605&amp;o=55hppzy&amp;t=main7&amp;f=1)\n\nI went back to Bing and did the same search again and clicked the same link again and this time it went to the website instead of redirecting me. I have run Malwarebytes and it didn't find anything.\n\nI never go to shady websites, and don't install that many programs. The last program I installed was Audacity, that I downloaded from [https://www.audacityteam.org/download/](https://www.audacityteam.org/download/). I don't know if that came with some sort of spyware or what, because I cannot understand what else could be causing this. Any ideas?",
+        "title": "Windows 10 spam notification and redirect when clicking links in Bing search results.",
+        "score": 1,
+        "id": "aao8da",
+        "commsNum": 9,
+        "timeStamp": "2018/12/29-11:40:23",
+        "author_name": "22878",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 9,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/aao8da/windows_10_spam_notification_and_redirect_when/"
+    },
+    "posts": {
+        "ecv83zu": {
+            "comment": "You subscribed to notifications on that site. You need to remove the subscription. Surprised they would send a notification that was for something other than a news story though.",
+            "timeStamp": "2018/12/30-03:42:16",
+            "id": "ecv83zu",
+            "is_submitter": false,
+            "link_id": "t3_aao8da",
+            "parent_id": "t1_ectkkrr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "lawrenceabrams"
+        },
+        "ectnxvl": {
+            "comment": "Unfortunately, this type of stuff is very common.  Malicious advertising is well known and it's a serious threat to consumers.  \n\nMy recommendation is to make use of advertisement blocking tools.  \n\n",
+            "timeStamp": "2018/12/29-12:32:12",
+            "id": "ectnxvl",
+            "is_submitter": false,
+            "link_id": "t3_aao8da",
+            "parent_id": "t1_ectnrp4",
+            "score": 2,
+            "stickied": false,
+            "author_name": "FOOLS_GOLD"
+        },
+        "ectnrp4": {
+            "comment": "I made the link non-clickable. So what is causing this malvertising in Chrome? I haven't installed any extensions lately. Malwarebytes didn't find anything. I remember this redirect happening in Google search results before (on an older laptop), but I don't think I ever figured out the cause.",
+            "timeStamp": "2018/12/29-12:29:59",
+            "id": "ectnrp4",
+            "is_submitter": true,
+            "link_id": "t3_aao8da",
+            "parent_id": "t1_ectlit6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "22878"
+        },
+        "ectnmil": {
+            "comment": "It had a domain listed: www.windowscentral.com and the contents said I won something or there was a deal or some kind. I can't remember.",
+            "timeStamp": "2018/12/29-12:28:06",
+            "id": "ectnmil",
+            "is_submitter": true,
+            "link_id": "t3_aao8da",
+            "parent_id": "t1_ectkkrr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "22878"
+        },
+        "ectlit6": {
+            "comment": "Hey, quick heads up when asking for assistance.  Don't post the suspect URL as a hyperlink.  That leads to potential infections if the URL is associated with dropping malware.  \n\nPlease remove the hyperlink or at least change the 'http' to 'hxxp'.\n\nedit: I ran the URI through hybrid-analysis and it looks like your typical malvertising adware/spyware nonsense.  \n\nhttps://www.hybrid-analysis.com/sample/5ea5991d55b2cca86bde54bff1105b318da0c5289c39d57167e04a23e2a3c5b0/5c27d2317ca3e17b3f1f0601\n\nPlease remove the URL from the post.\n",
+            "timeStamp": "2018/12/29-12:01:24",
+            "id": "ectlit6",
+            "is_submitter": false,
+            "link_id": "t3_aao8da",
+            "parent_id": "t3_aao8da",
+            "score": 4,
+            "stickied": false,
+            "author_name": "FOOLS_GOLD"
+        },
+        "ectkkrr": {
+            "comment": "Do you know what the contents of the notification said?",
+            "timeStamp": "2018/12/29-11:49:32",
+            "id": "ectkkrr",
+            "is_submitter": false,
+            "link_id": "t3_aao8da",
+            "parent_id": "t3_aao8da",
+            "score": 1,
+            "stickied": false,
+            "author_name": "wozeparrot"
+        }
+    }
+}

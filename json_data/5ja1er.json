@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "A new variant of the notorious ransomware Petya is back - again - and with yet another James Bond reference for a name: Goldeneye",
+        "score": 1,
+        "id": "5ja1er",
+        "commsNum": 0,
+        "timeStamp": "2016/12/19-16:13:56",
+        "author_name": "Battledoom_2",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://blog.cylance.com/petya-returns-as-goldeneye-strikes-germany"
+    },
+    "posts": {}
+}

@@ -1,0 +1,143 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I'm reading practical malware analysis, and while very useful and relevant, it is significantly outdated on its software suggestions. One of them being it's suggested packer detection software, PEiD, which many of you may know went out of style 9 years ago and hasn't been updated since. If there's more modern software to put into my arsenal, I'd love to hear about it.",
+        "title": "Alternatives To PEiD",
+        "score": 1,
+        "id": "h9ypep",
+        "commsNum": 11,
+        "timeStamp": "2020/06/16-00:01:52",
+        "author_name": "ThrowAWayyyy53232",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 11,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/h9ypep/alternatives_to_peid/"
+    },
+    "posts": {
+        "fw8ab5m": {
+            "comment": "I would also endorse DiE (Detect It Easy).  Keep in mind that DiE includes the standalone yara signatures for quite a few packers, which I find helpful for scanning a bunch of binaries pretty quickly.",
+            "timeStamp": "2020/06/27-19:51:22",
+            "id": "fw8ab5m",
+            "is_submitter": false,
+            "link_id": "t3_h9ypep",
+            "parent_id": "t3_h9ypep",
+            "score": 1,
+            "stickied": false,
+            "author_name": "revolver-ocelot-saa"
+        },
+        "fv5ir9z": {
+            "comment": "ExeInfo PE: http://www.exeinfo.xn.pl",
+            "timeStamp": "2020/06/17-12:15:54",
+            "id": "fv5ir9z",
+            "is_submitter": false,
+            "link_id": "t3_h9ypep",
+            "parent_id": "t3_h9ypep",
+            "score": 1,
+            "stickied": false,
+            "author_name": "edi25"
+        },
+        "fv55jfd": {
+            "comment": "[removed]",
+            "timeStamp": "2020/06/17-10:35:36",
+            "id": "fv55jfd",
+            "is_submitter": false,
+            "link_id": "t3_h9ypep",
+            "parent_id": "t3_h9ypep",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fv1kv2h": {
+            "comment": "I'm also slowly working on the book, and this exact question popped in my mind. Ultimately what I decided was to just keep working with PeID until I'm reversing real malware.",
+            "timeStamp": "2020/06/16-12:11:37",
+            "id": "fv1kv2h",
+            "is_submitter": false,
+            "link_id": "t3_h9ypep",
+            "parent_id": "t3_h9ypep",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Rikks"
+        },
+        "fv1924n": {
+            "comment": "Yara also works as well",
+            "timeStamp": "2020/06/16-10:42:36",
+            "id": "fv1924n",
+            "is_submitter": false,
+            "link_id": "t3_h9ypep",
+            "parent_id": "t3_h9ypep",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mikiozen"
+        },
+        "fv0gu3o": {
+            "comment": "Trid https://www.mark0.net/soft-trid-e.html",
+            "timeStamp": "2020/06/16-07:10:30",
+            "id": "fv0gu3o",
+            "is_submitter": false,
+            "link_id": "t3_h9ypep",
+            "parent_id": "t3_h9ypep",
+            "score": 1,
+            "stickied": false,
+            "author_name": "tekproxy"
+        },
+        "fv0909t": {
+            "comment": "You could also look into pindemonium which was made by black hat",
+            "timeStamp": "2020/06/16-05:53:14",
+            "id": "fv0909t",
+            "is_submitter": false,
+            "link_id": "t3_h9ypep",
+            "parent_id": "t3_h9ypep",
+            "score": 1,
+            "stickied": false,
+            "author_name": "supermuffinsecret"
+        },
+        "fv08awm": {
+            "comment": "I would say not really. There\u2019s research right now that people are building tools combined with deep learning but I\u2019ve only really read about them in papers. Hell im trying to build something like PEiD myself but have the packing based on hardware performance counters. I love that book btw. It will give you some strong basics",
+            "timeStamp": "2020/06/16-05:45:28",
+            "id": "fv08awm",
+            "is_submitter": false,
+            "link_id": "t3_h9ypep",
+            "parent_id": "t3_h9ypep",
+            "score": 1,
+            "stickied": false,
+            "author_name": "supermuffinsecret"
+        },
+        "fuzsufo": {
+            "comment": "Upvote for Detect it easy!\n [Explanation](https://github.com/horsicq/Detect-It-Easy/issues/48#issuecomment-591678244)",
+            "timeStamp": "2020/06/16-01:59:01",
+            "id": "fuzsufo",
+            "is_submitter": false,
+            "link_id": "t3_h9ypep",
+            "parent_id": "t3_h9ypep",
+            "score": 1,
+            "stickied": false,
+            "author_name": "packmad"
+        },
+        "fuzpas3": {
+            "comment": "DiE (Detect It Easy)",
+            "timeStamp": "2020/06/16-00:59:39",
+            "id": "fuzpas3",
+            "is_submitter": false,
+            "link_id": "t3_h9ypep",
+            "parent_id": "t3_h9ypep",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mr-satan"
+        },
+        "fuzlyn4": {
+            "comment": "[removed]",
+            "timeStamp": "2020/06/16-00:07:04",
+            "id": "fuzlyn4",
+            "is_submitter": false,
+            "link_id": "t3_h9ypep",
+            "parent_id": "t3_h9ypep",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

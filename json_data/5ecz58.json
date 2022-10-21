@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Analysing malicious JavaScript within HWP files",
+        "score": 3,
+        "id": "5ecz58",
+        "commsNum": 0,
+        "timeStamp": "2016/11/22-12:26:44",
+        "author_name": "secaggr",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.vxsecurity.sg/2016/11/22/technical-teardown-exploit-malware-in-hwp-files/"
+    },
+    "posts": {}
+}

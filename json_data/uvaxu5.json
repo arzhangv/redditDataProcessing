@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hi all.  \nSo as of a few hours ago my google chrome has started behaving weird.  \n\n\nIt will randomly close and reopen, all tabs are still intact, but it will have a new one open trying to reach appdata/local/chrome\\_storage with a dns\\_probe\\_finished\\_nxdomain.  \n\n\nI have scanned using MalwareBytes and the only thing that repeatedly comes up is PUP.Optional.Agent no matter how many times I quarantine.  \n\n\nAlso, every time chrome closes there is a cmd window that opens and closes within .5 seconds.   \n\n\nNot sure if this is Malware or another virus. But if it is, what the hell should I do?",
+        "title": "Conscerned",
+        "score": 1,
+        "id": "uvaxu5",
+        "commsNum": 0,
+        "timeStamp": "2022/05/22-06:25:48",
+        "author_name": "TheeBlackMage",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/uvaxu5/conscerned/"
+    },
+    "posts": {
+        "i9uc35t": {
+            "comment": "just reinstall windows",
+            "timeStamp": "2022/05/24-12:13:42",
+            "id": "i9uc35t",
+            "is_submitter": false,
+            "link_id": "t3_uvaxu5",
+            "parent_id": "t3_uvaxu5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "zkww"
+        },
+        "i9lsaez": {
+            "comment": "You should contact tech support /r/techsupport",
+            "timeStamp": "2022/05/22-13:33:05",
+            "id": "i9lsaez",
+            "is_submitter": false,
+            "link_id": "t3_uvaxu5",
+            "parent_id": "t3_uvaxu5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Wouldratherplaymtg"
+        },
+        "i9kmu2h": {
+            "comment": "When in doubt pave the earth and wipe the OS",
+            "timeStamp": "2022/05/22-08:29:42",
+            "id": "i9kmu2h",
+            "is_submitter": false,
+            "link_id": "t3_uvaxu5",
+            "parent_id": "t3_uvaxu5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "isashasec"
+        },
+        "i9keabo": {
+            "comment": "[removed]",
+            "timeStamp": "2022/05/22-07:25:05",
+            "id": "i9keabo",
+            "is_submitter": false,
+            "link_id": "t3_uvaxu5",
+            "parent_id": "t3_uvaxu5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

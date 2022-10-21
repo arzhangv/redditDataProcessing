@@ -1,0 +1,253 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Cybersecurity researchers have discovered multiple ongoing malware distribution campaigns that target internet users who seek to download copies of pirated software.",
+        "score": 1,
+        "id": "ww640p",
+        "commsNum": 0,
+        "timeStamp": "2022/08/23-18:26:56",
+        "author_name": "Late_Ice_9288",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.bleepingcomputer.com/news/security/pirated-3dmark-benchmark-tool-delivering-info-stealer-malware/"
+    },
+    "posts": {
+        "imbyooj": {
+            "comment": "It's an LLD file.",
+            "timeStamp": "2022/08/29-18:31:55",
+            "id": "imbyooj",
+            "is_submitter": false,
+            "link_id": "t3_ww640p",
+            "parent_id": "t1_imadhqk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "riggycat"
+        },
+        "imadhqk": {
+            "comment": "&gt; The cmd.exe process downloads a JPG file that is, in reality, a DLL file with its *contents arranged in reverse*.\n\nWhat is that supposed to mean?",
+            "timeStamp": "2022/08/29-11:29:28",
+            "id": "imadhqk",
+            "is_submitter": false,
+            "link_id": "t3_ww640p",
+            "parent_id": "t3_ww640p",
+            "score": 1,
+            "stickied": false,
+            "author_name": "reginwillis"
+        },
+        "ilpaxeq": {
+            "comment": "Come on if you download pirated software your gonna give your computer aids. It\u2019s so sketchy lol",
+            "timeStamp": "2022/08/24-23:44:49",
+            "id": "ilpaxeq",
+            "is_submitter": false,
+            "link_id": "t3_ww640p",
+            "parent_id": "t3_ww640p",
+            "score": 1,
+            "stickied": false,
+            "author_name": "pentesticals"
+        },
+        "ilmatb6": {
+            "comment": "Anything .exe on PirateBay has been absolutely filthy for years, I'm sure we are all shocked that something on \"*freeprosoftz.com\"* is malicious",
+            "timeStamp": "2022/08/24-10:21:34",
+            "id": "ilmatb6",
+            "is_submitter": false,
+            "link_id": "t3_ww640p",
+            "parent_id": "t3_ww640p",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Krombuchar2"
+        },
+        "illrvyb": {
+            "comment": "We had a user's system recently flag malware. It came from an iso. The iso was purporting to be an ebook the user wanted to read. He didn't see anything wrong with that. \n\nWe had to remind him not to download from sketchy sites, not to try and pirate things, and that iso is not a valid file type for ebooks. -\\_- \n\nI like how windows will inherently allow you to open ISO files, but there was a lot more \"maybe I shouldn't do this\" when a user would have to figure out how to mount an iso before opening it, often with other software.",
+            "timeStamp": "2022/08/24-08:22:19",
+            "id": "illrvyb",
+            "is_submitter": false,
+            "link_id": "t3_ww640p",
+            "parent_id": "t1_ilknhe7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Sam-Gunn"
+        },
+        "illrvpi": {
+            "comment": "Cool story",
+            "timeStamp": "2022/08/24-08:22:16",
+            "id": "illrvpi",
+            "is_submitter": false,
+            "link_id": "t3_ww640p",
+            "parent_id": "t1_ilknhe7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "gbdavidx"
+        },
+        "illrc24": {
+            "comment": "\"SERIOUSLY\\_ITS\\_SAFE\\_DISABLE\\_AV\\_AND\\_RUN\\_IT\"\n\nThough with the \"cracks\" for software, anti-malware flags almost all that stuff by default, usually as trojans, because of how it works. Not necessarily due to malware.\n\nBut it's not uncommon to find malware on them as well. In fact, it might even be better for attackers to use these as delivery vehicles because people will go \"Oh it's just flagging the crack behavior, I can ignore it\".",
+            "timeStamp": "2022/08/24-08:18:45",
+            "id": "illrc24",
+            "is_submitter": false,
+            "link_id": "t3_ww640p",
+            "parent_id": "t1_iljggwc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Sam-Gunn"
+        },
+        "illr0al": {
+            "comment": "And there is conflict in the middle east.",
+            "timeStamp": "2022/08/24-08:16:38",
+            "id": "illr0al",
+            "is_submitter": false,
+            "link_id": "t3_ww640p",
+            "parent_id": "t1_iljim2f",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Sam-Gunn"
+        },
+        "illofe9": {
+            "comment": "[removed]",
+            "timeStamp": "2022/08/24-07:59:32",
+            "id": "illofe9",
+            "is_submitter": false,
+            "link_id": "t3_ww640p",
+            "parent_id": "t1_ilk2zak",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "illlrlk": {
+            "comment": "[removed]",
+            "timeStamp": "2022/08/24-07:41:41",
+            "id": "illlrlk",
+            "is_submitter": false,
+            "link_id": "t3_ww640p",
+            "parent_id": "t1_iljiq8x",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "illivny": {
+            "comment": "I've seen Jurassic park and know how this ends....",
+            "timeStamp": "2022/08/24-07:22:17",
+            "id": "illivny",
+            "is_submitter": false,
+            "link_id": "t3_ww640p",
+            "parent_id": "t3_ww640p",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mattmre"
+        },
+        "ilkv8ty": {
+            "comment": "Well bot, what is \"wet\" is determined by how we define the word \"wet\".  While you are correct in your statement, it's not the only answer.\n\n&gt;If we define \"wet\" as a sensation that we get when a liquid comes in contact with us, then yes, water is wet to us.\n&gt;\n&gt;If we define \"wet\" as \"made of liquid or moisture\", then water is definitely wet because it is made of liquid, and in this sense, all liquids are wet because they are all made of liquids. I think that this is a case of a word being useful only in appropriate contexts.",
+            "timeStamp": "2022/08/24-04:12:33",
+            "id": "ilkv8ty",
+            "is_submitter": false,
+            "link_id": "t3_ww640p",
+            "parent_id": "t1_iljiq8x",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Moose_Overlord"
+        },
+        "ilkr121": {
+            "comment": "I'm shocked, I tell you, really shocked...",
+            "timeStamp": "2022/08/24-03:24:53",
+            "id": "ilkr121",
+            "is_submitter": false,
+            "link_id": "t3_ww640p",
+            "parent_id": "t3_ww640p",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mishaxz"
+        },
+        "ilkpzck": {
+            "comment": "&gt; In other news, water is wet\n\nand now, over to Janet - who is out on the street with the general public to find out what colour grass is.",
+            "timeStamp": "2022/08/24-03:11:57",
+            "id": "ilkpzck",
+            "is_submitter": false,
+            "link_id": "t3_ww640p",
+            "parent_id": "t1_iljim2f",
+            "score": 1,
+            "stickied": false,
+            "author_name": "boli99"
+        },
+        "ilknhe7": {
+            "comment": "My favourite video file extension is .exe",
+            "timeStamp": "2022/08/24-02:39:29",
+            "id": "ilknhe7",
+            "is_submitter": false,
+            "link_id": "t3_ww640p",
+            "parent_id": "t1_ilk2zak",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MechaCoffeeBean"
+        },
+        "ilkls5e": {
+            "comment": "[deleted]",
+            "timeStamp": "2022/08/24-02:16:14",
+            "id": "ilkls5e",
+            "is_submitter": false,
+            "link_id": "t3_ww640p",
+            "parent_id": "t1_iljggwc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ilk2zak": {
+            "comment": "Good thing I only download movies and tv shows",
+            "timeStamp": "2022/08/23-22:14:42",
+            "id": "ilk2zak",
+            "is_submitter": false,
+            "link_id": "t3_ww640p",
+            "parent_id": "t3_ww640p",
+            "score": 1,
+            "stickied": false,
+            "author_name": "gbdavidx"
+        },
+        "iljw6r4": {
+            "comment": "[removed]",
+            "timeStamp": "2022/08/23-21:06:11",
+            "id": "iljw6r4",
+            "is_submitter": false,
+            "link_id": "t3_ww640p",
+            "parent_id": "t3_ww640p",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "iljiq8x": {
+            "comment": "Water is actually not wet; It makes other materials/objects wet. Wetness is the state of a non-liquid when a liquid adheres to, and/or permeates its substance while maintaining chemically distinct structures. So if we say something is wet we mean the liquid is sticking to the object.\n\n&amp;nbsp;\n\nLove watching running water on the internet.\n\nWas watching a live stream.",
+            "timeStamp": "2022/08/23-19:16:25",
+            "id": "iljiq8x",
+            "is_submitter": false,
+            "link_id": "t3_ww640p",
+            "parent_id": "t1_iljim2f",
+            "score": 1,
+            "stickied": false,
+            "author_name": "WaterIsWetBot"
+        },
+        "iljim2f": {
+            "comment": "In other news, water is wet",
+            "timeStamp": "2022/08/23-19:15:33",
+            "id": "iljim2f",
+            "is_submitter": false,
+            "link_id": "t3_ww640p",
+            "parent_id": "t3_ww640p",
+            "score": 1,
+            "stickied": false,
+            "author_name": "hacksauce"
+        },
+        "iljggwc": {
+            "comment": "the more things change, the more they stay the same.. looking back at the late 90s and  2000 me downloading:\n\nFULL_DvD_MATRIX_NOT_A_VIRUS \n(This was probably a virus)\n\n and \n\nLEGIT_PHOTOSHOP_CRACKED_NO_TROJAN\n(This probably came with a backdoor reverse tcp shell)\n\nlol",
+            "timeStamp": "2022/08/23-18:59:46",
+            "id": "iljggwc",
+            "is_submitter": false,
+            "link_id": "t3_ww640p",
+            "parent_id": "t3_ww640p",
+            "score": 1,
+            "stickied": false,
+            "author_name": "concmap"
+        }
+    }
+}

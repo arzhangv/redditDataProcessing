@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "There's finally a way to remove xHelper, the unremovable Android malware",
+        "score": 1,
+        "id": "f5fru2",
+        "commsNum": 3,
+        "timeStamp": "2020/02/17-13:12:12",
+        "author_name": "Snardley",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.zdnet.com/article/theres-finally-a-way-to-remove-xhelper-the-unremovable-android-malware/"
+    },
+    "posts": {
+        "fi0sx9e": {
+            "comment": "People looking fo hacks or mods or just plain users downloading apps from Google that isnt reported for giving you instructions to download apps like these...",
+            "timeStamp": "2020/02/18-08:41:59",
+            "id": "fi0sx9e",
+            "is_submitter": false,
+            "link_id": "t3_f5fru2",
+            "parent_id": "t1_fhzlgw6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ZenDendou"
+        },
+        "fhzpvfo": {
+            "comment": "\u201cThe Malwarebytes team says that xHelper has apparently found a way to use a process inside the Google Play Store app in order to trigger the re-install operation.\u201d\n\nWhat is the actual fuck.",
+            "timeStamp": "2020/02/17-22:23:23",
+            "id": "fhzpvfo",
+            "is_submitter": false,
+            "link_id": "t3_f5fru2",
+            "parent_id": "t3_f5fru2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "gloomndoom"
+        },
+        "fhzlgw6": {
+            "comment": "How do you lack the common sense to download one of these apps in the first place?",
+            "timeStamp": "2020/02/17-21:14:53",
+            "id": "fhzlgw6",
+            "is_submitter": false,
+            "link_id": "t3_f5fru2",
+            "parent_id": "t3_f5fru2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "GaMonkey07"
+        }
+    }
+}

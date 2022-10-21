@@ -1,0 +1,143 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I recently got this email in my spam folder. The subject was an old password I have used way back in the day but I'm not part of any porn site that would use a password. \nIs this email BS? How did they get an old used password if it is crap? I've never gone to a porn site on my pc before but a few times on my phone under incognito if that matters. \n I'll post the email in the comments.",
+        "title": "Malware on porn site ransom email",
+        "score": 1,
+        "id": "kd7hai",
+        "commsNum": 12,
+        "timeStamp": "2020/12/14-13:52:17",
+        "author_name": "muksak",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 12,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/kd7hai/malware_on_porn_site_ransom_email/"
+    },
+    "posts": {
+        "gfy81qt": {
+            "comment": "literally no one has sent bitcoin to that address so they failed",
+            "timeStamp": "2020/12/15-11:11:26",
+            "id": "gfy81qt",
+            "is_submitter": false,
+            "link_id": "t3_kd7hai",
+            "parent_id": "t1_gfxma3b",
+            "score": 1,
+            "stickied": false,
+            "author_name": "noodles19191919"
+        },
+        "gfy7y8p": {
+            "comment": "i looked up the bitcoin address too as I got this same email... no one has payed this idiot bc all their emails are getting filtered and no one gives a shit if you jerk off these days",
+            "timeStamp": "2020/12/15-11:10:41",
+            "id": "gfy7y8p",
+            "is_submitter": false,
+            "link_id": "t3_kd7hai",
+            "parent_id": "t1_gfuuxk6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "noodles19191919"
+        },
+        "gfy3ba0": {
+            "comment": "Oh wow thank you! I just checked and they seem like really benign websites but now I know where to change!",
+            "timeStamp": "2020/12/15-10:36:27",
+            "id": "gfy3ba0",
+            "is_submitter": true,
+            "link_id": "t3_kd7hai",
+            "parent_id": "t1_gfxpvvc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "muksak"
+        },
+        "gfxpvvc": {
+            "comment": "you can check if any of your accounts have been comprimised in a data breach at [https://haveibeenpwned.com/](https://haveibeenpwned.com/)",
+            "timeStamp": "2020/12/15-08:52:23",
+            "id": "gfxpvvc",
+            "is_submitter": false,
+            "link_id": "t3_kd7hai",
+            "parent_id": "t3_kd7hai",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ArgentumYC"
+        },
+        "gfxm7b5": {
+            "comment": "Thanks! I can imagine this would be a scary email for lots of people!",
+            "timeStamp": "2020/12/15-08:22:49",
+            "id": "gfxm7b5",
+            "is_submitter": true,
+            "link_id": "t3_kd7hai",
+            "parent_id": "t1_gfx3eqq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "muksak"
+        },
+        "gfx4vz1": {
+            "comment": "its from the breach compilation of over 1.4 billion passwords... I have it, its 44 gigs of crazy old passwords",
+            "timeStamp": "2020/12/15-05:45:24",
+            "id": "gfx4vz1",
+            "is_submitter": false,
+            "link_id": "t3_kd7hai",
+            "parent_id": "t3_kd7hai",
+            "score": 1,
+            "stickied": false,
+            "author_name": "noodles19191919"
+        },
+        "gfx3eqq": {
+            "comment": "https://krebsonsecurity.com/2018/07/sextortion-scam-uses-recipients-hacked-passwords/\n\nHere is an article discussing this kind of extortion",
+            "timeStamp": "2020/12/15-05:28:44",
+            "id": "gfx3eqq",
+            "is_submitter": false,
+            "link_id": "t3_kd7hai",
+            "parent_id": "t3_kd7hai",
+            "score": 1,
+            "stickied": false,
+            "author_name": "HCStiaan"
+        },
+        "gfwouts": {
+            "comment": "[removed]",
+            "timeStamp": "2020/12/15-01:42:15",
+            "id": "gfwouts",
+            "is_submitter": false,
+            "link_id": "t3_kd7hai",
+            "parent_id": "t3_kd7hai",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "gfuuxk6": {
+            "comment": "Oh did not think of that route. That seems more plausible since a lot of stores that have been breached have some bland requirements for passwords. Thank you!",
+            "timeStamp": "2020/12/14-14:04:25",
+            "id": "gfuuxk6",
+            "is_submitter": true,
+            "link_id": "t3_kd7hai",
+            "parent_id": "t1_gfuu9ua",
+            "score": 2,
+            "stickied": false,
+            "author_name": "muksak"
+        },
+        "gfuu9ua": {
+            "comment": "They took a password from a data breach and are scaring you into giving them money. If the password isn't yours just ignore it. If the password is yours, change said password and then ignore it.",
+            "timeStamp": "2020/12/14-13:59:04",
+            "id": "gfuu9ua",
+            "is_submitter": false,
+            "link_id": "t3_kd7hai",
+            "parent_id": "t1_gfuti2a",
+            "score": 2,
+            "stickied": false,
+            "author_name": "bruh-man0"
+        },
+        "gfuti2a": {
+            "comment": "\n\nI\u00a0know\u00a0*******  is\u00a0one\u00a0of\u00a0your\u00a0password\u00a0on\u00a0day\u00a0of\u00a0hack..\nLets\u00a0get\u00a0directly\u00a0to\u00a0the\u00a0point.\n\nNot\u00a0one\u00a0person\u00a0has\u00a0paid\u00a0me\u00a0to\u00a0check\u00a0about\u00a0you.\n\n\nYou\u00a0do\u00a0not\u00a0know\u00a0me\u00a0and\u00a0you're\u00a0probably\u00a0thinking\u00a0why\u00a0you\u00a0are\u00a0getting\u00a0this\u00a0email?\n\nin\u00a0fact,\u00a0i\u00a0actually\u00a0placed\u00a0a\u00a0malware\u00a0on\u00a0the\u00a0adult\u00a0vids\u00a0(adult\u00a0porn)\u00a0website\u00a0and\u00a0you\u00a0know\u00a0what,\u00a0you\u00a0visited\u00a0this\u00a0site\u00a0to\u00a0experience\u00a0fun\u00a0(you\u00a0know\u00a0what\u00a0i\u00a0mean).\n\n\nWhen\u00a0you\u00a0were\u00a0viewing\u00a0videos,\u00a0your\u00a0browser\u00a0started\u00a0out\u00a0operating\u00a0as\u00a0a\u00a0RDP\u00a0having\u00a0a\u00a0key\u00a0logger\u00a0which\u00a0provided\u00a0me\u00a0with\u00a0accessibility\u00a0to\u00a0your\u00a0display\u00a0and\u00a0web\u00a0cam.\nimmediately\u00a0after\u00a0that,\u00a0my\u00a0malware\u00a0obtained\u00a0every\u00a0one\u00a0of\u00a0your\u00a0contacts\u00a0from\u00a0your\u00a0Messenger,\u00a0FB,\u00a0as\u00a0well\u00a0as\u00a0email\u00a0account.\n\nafter\u00a0that\u00a0i\u00a0created\u00a0a\u00a0double-screen\u00a0video.\u00a01st\u00a0part\u00a0shows\u00a0the\u00a0video\u00a0you\u00a0were\u00a0viewing\u00a0(you\u00a0have\u00a0a\u00a0nice\u00a0taste\u00a0omg),\u00a0and\u00a02nd\u00a0part 2nd\u00a0part\u00a0displays\u00a0the\u00a0recording\u00a0of\u00a0your\u00a0cam,\u00a0and\u00a0its\u00a0you.\n\nBest\u00a0solution\u00a0would\u00a0be\u00a0to\u00a0pay\u00a0me\u00a0$1590.\n\nWe\u00a0are\u00a0going\u00a0to\u00a0refer\u00a0to\u00a0it\u00a0as\u00a0a\u00a0donation.\u00a0in\u00a0this\u00a0situation,\u00a0i\u00a0most\u00a0certainly\u00a0will\u00a0without\u00a0delay\u00a0remove\u00a0your\u00a0video.\n\n\n\nMy\u00a0-BTC\u00a0-address: 1P1wrTDsTMCN4sEYU7jnGvwRW2zwRX7y8D\n[case\u00a0SeNSiTiVe,\u00a0copy\u00a0&amp;\u00a0paste\u00a0it]\n\n\nYou\u00a0could\u00a0go\u00a0on\u00a0your\u00a0life\u00a0like\u00a0this\u00a0never\u00a0happened\u00a0and\u00a0you\u00a0will\u00a0not\u00a0ever\u00a0hear\u00a0back\u00a0again\u00a0from\u00a0me.\n\nYou'll\u00a0make\u00a0the\u00a0payment\u00a0via\u00a0Bitcoin\u00a0(if\u00a0you\u00a0do\u00a0not\u00a0know\u00a0this,\u00a0search\u00a0'how\u00a0to\u00a0buy\u00a0bitcoin'\u00a0in\u00a0Google).\n\nI\u00a0have\u00a0taken\u00a0care\u00a0of\u00a0my\u00a0actions.\u00a0i\u00a0am\u00a0not\u00a0looking\u00a0to\u00a0ask\u00a0you\u00a0for\u00a0a\u00a0lot,\u00a0i\u00a0simply\u00a0want\u00a0to\u00a0be\u00a0paid.\nif\u00a0i\u00a0do\u00a0not\u00a0receive\u00a0the\u00a0bitcoin;,\u00a0i\u00a0definitely\u00a0will\u00a0send\u00a0out\u00a0your\u00a0video\u00a0recording\u00a0to\u00a0all\u00a0of\u00a0your\u00a0contacts\u00a0including\u00a0friends\u00a0and\u00a0family,\u00a0co-workers,\u00a0and\u00a0so\u00a0on.\n\n\nNevertheless,\u00a0if\u00a0i\u00a0do\u00a0get\u00a0paid,\u00a0i\u00a0will\u00a0destroy\u00a0the\u00a0recording\u00a0immediately.\nIf\u00a0you\u00a0need\u00a0proof,\u00a0reply\u00a0with\u00a0Yeah\u00a0then\u00a0i\u00a0will\u00a0send\u00a0out\u00a0your\u00a0video\u00a0recording\u00a0to\u00a0your\u00a08\u00a0friends.\n\nit's\u00a0a\u00a0nonnegotiable\u00a0offer\u00a0and\u00a0thus\u00a0please\u00a0don't\u00a0waste\u00a0mine\u00a0time\u00a0&amp;\u00a0yours\u00a0by\u00a0replying\u00a0to\u00a0this\u00a0message.",
+            "timeStamp": "2020/12/14-13:52:50",
+            "id": "gfuti2a",
+            "is_submitter": true,
+            "link_id": "t3_kd7hai",
+            "parent_id": "t3_kd7hai",
+            "score": 2,
+            "stickied": false,
+            "author_name": "muksak"
+        }
+    }
+}

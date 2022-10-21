@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Something evil on 192.95.6.196/30",
+        "score": 7,
+        "id": "20sul9",
+        "commsNum": 2,
+        "timeStamp": "2014/03/19-03:48:09",
+        "author_name": "TheUglyStranger",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://blog.dynamoo.com/2014/03/something-evil-on-19295619630.html"
+    },
+    "posts": {}
+}

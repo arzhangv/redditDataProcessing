@@ -1,0 +1,110 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Log4j Vulnerabilities and How Exploits Can Affect Businesses",
+        "score": 1,
+        "id": "v2vkm5",
+        "commsNum": 0,
+        "timeStamp": "2022/06/01-17:05:38",
+        "author_name": "Ill-Psychology7461",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.analyticsinsight.net/log4j-vulnerability-what-do-tech-flaws-mean-for-your-business/"
+    },
+    "posts": {
+        "ib09hcn": {
+            "comment": "Log4j vulnerabilities are pretty serious, Log4Shell being the worst one yet. Can't take any of it lightly, need to make sure everything's protected.",
+            "timeStamp": "2022/06/02-22:58:45",
+            "id": "ib09hcn",
+            "is_submitter": true,
+            "link_id": "t3_v2vkm5",
+            "parent_id": "t1_iaysj7r",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Ill-Psychology7461"
+        },
+        "ib092m8": {
+            "comment": "You can't fully prevent them but companies like Checkpoint and other companies can patch them preemptively within hours.\n\nIf you want a more in-depth guide on how they patch them you can [check out this blog](https://blog.checkpoint.com/2021/12/13/cloudguard-appsec-the-only-solution-providing-preemptive-web-application-protection-against-the-log4j-vulnerability/) and learn more about them.",
+            "timeStamp": "2022/06/02-22:53:34",
+            "id": "ib092m8",
+            "is_submitter": true,
+            "link_id": "t3_v2vkm5",
+            "parent_id": "t1_iavrcz8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Ill-Psychology7461"
+        },
+        "iaz5aw1": {
+            "comment": "You cant prevent log4j vulnerabilities, only mitigate or patch them.",
+            "timeStamp": "2022/06/02-17:01:18",
+            "id": "iaz5aw1",
+            "is_submitter": false,
+            "link_id": "t3_v2vkm5",
+            "parent_id": "t1_iavrcz8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "fsereicikas"
+        },
+        "iaysj7r": {
+            "comment": "&gt;In fact, 31% of all ransomware attacks over the last four months (since the vulnerability was discovered) have been due to this exploitation, demonstrating the extent of the risk involved.\n\nNever realized how brutal this exploitation really was until you contextualize it",
+            "timeStamp": "2022/06/02-15:21:00",
+            "id": "iaysj7r",
+            "is_submitter": false,
+            "link_id": "t3_v2vkm5",
+            "parent_id": "t3_v2vkm5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Public_Garage4728"
+        },
+        "iawqz3x": {
+            "comment": "[removed]",
+            "timeStamp": "2022/06/02-06:24:35",
+            "id": "iawqz3x",
+            "is_submitter": false,
+            "link_id": "t3_v2vkm5",
+            "parent_id": "t1_iavrcz8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "iavrcz8": {
+            "comment": "What were the methods companies used to prevent Log4j vulnerabilities? Do they all follow the same formula or did each company switch it up?",
+            "timeStamp": "2022/06/01-23:00:51",
+            "id": "iavrcz8",
+            "is_submitter": false,
+            "link_id": "t3_v2vkm5",
+            "parent_id": "t3_v2vkm5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "wehivo9"
+        },
+        "iavjuc7": {
+            "comment": "[removed]",
+            "timeStamp": "2022/06/01-21:33:48",
+            "id": "iavjuc7",
+            "is_submitter": false,
+            "link_id": "t3_v2vkm5",
+            "parent_id": "t3_v2vkm5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "iav3ygf": {
+            "comment": "Remember reading all about Log4Shell back in December. Both a blessing and a curse as it forced security companies to up their game to combat the isuses.",
+            "timeStamp": "2022/06/01-19:07:56",
+            "id": "iav3ygf",
+            "is_submitter": false,
+            "link_id": "t3_v2vkm5",
+            "parent_id": "t3_v2vkm5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "psaiful28"
+        }
+    }
+}

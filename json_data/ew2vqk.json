@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[removed]",
+        "title": "On attracting malware into the wild",
+        "score": 1,
+        "id": "ew2vqk",
+        "commsNum": 2,
+        "timeStamp": "2020/01/30-01:36:27",
+        "author_name": "gibbersen",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ew2vqk/on_attracting_malware_into_the_wild/"
+    },
+    "posts": {
+        "figss81": {
+            "comment": "I have an old gmail account for this, what I did was created accounts on many unsecured and questionable forums and sites under a different alias for each site for tracking leaks.\n\nI get sometimes up to 40 emails a day, these I take apart and send interesting samples to VirusTotal to \"share with the class\":)",
+            "timeStamp": "2020/02/22-12:25:33",
+            "id": "figss81",
+            "is_submitter": false,
+            "link_id": "t3_ew2vqk",
+            "parent_id": "t3_ew2vqk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "bughunter47"
+        },
+        "fggh6hl": {
+            "comment": "Install a keylogger and \"accidentally\" type in a few emails in gmail. You'll get what you want in maybe a month.",
+            "timeStamp": "2020/02/03-12:29:47",
+            "id": "fggh6hl",
+            "is_submitter": false,
+            "link_id": "t3_ew2vqk",
+            "parent_id": "t3_ew2vqk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "The_OP_Troller"
+        }
+    }
+}

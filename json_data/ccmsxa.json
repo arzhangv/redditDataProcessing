@@ -1,0 +1,121 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi everyone :) There\u2019s a problem with my mom\u2019s laptop and we\u2019ve been trying to fix it since a couple hours ago :/\n\nWe\u2019re pretty sure that her laptop is infected and it might be a fake Adobe Flash Player updater that she used earlier in the day. We can\u2019t find the fake one and there\u2019s only the real one left.\n\nWe changed the default engine back to chrome, use malwarebytes to scan, deleted all the files she downloaded recently, clean the trash and restarted her laptop at least 3 times. \n\nWhen we open a new tab, it doesn\u2019t open google but it shows a research engine that shows \u201csearch\u201d instead of google. We tried to delete it with all the advance settings and even try block the website, but it won\u2019t even let us enter the URL.\n\nDoes anyone have a similar situation? And does anyone know what to do with it? Thank you so much for responding :))",
+        "title": "Malwarebytes can\u2019t detect malware",
+        "score": 0,
+        "id": "ccmsxa",
+        "commsNum": 9,
+        "timeStamp": "2019/07/13-00:53:31",
+        "author_name": "A_whole_shrimpo",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 9,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ccmsxa/malwarebytes_cant_detect_malware/"
+    },
+    "posts": {
+        "etqatb9": {
+            "comment": "Backup and use ComboFix in safe mode.",
+            "timeStamp": "2019/07/13-21:20:35",
+            "id": "etqatb9",
+            "is_submitter": false,
+            "link_id": "t3_ccmsxa",
+            "parent_id": "t3_ccmsxa",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Jklipsch"
+        },
+        "etphf5e": {
+            "comment": "Not the subreddit for this type of post, removed.\n\nPlease redirect questions related to malware removal to /r/antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware",
+            "timeStamp": "2019/07/13-15:05:30",
+            "id": "etphf5e",
+            "is_submitter": false,
+            "link_id": "t3_ccmsxa",
+            "parent_id": "t3_ccmsxa",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mjuad"
+        },
+        "etofgn0": {
+            "comment": "It changed the default search engine in chrome. Check in your settings and reset it back to google",
+            "timeStamp": "2019/07/13-06:54:37",
+            "id": "etofgn0",
+            "is_submitter": false,
+            "link_id": "t3_ccmsxa",
+            "parent_id": "t3_ccmsxa",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Trolling_turd"
+        },
+        "etob2fa": {
+            "comment": "Your title could cause unnecessary alarm and panic, causing people to think it is broken. That's not fair when you could be using the wrong tools.",
+            "timeStamp": "2019/07/13-05:43:14",
+            "id": "etob2fa",
+            "is_submitter": false,
+            "link_id": "t3_ccmsxa",
+            "parent_id": "t3_ccmsxa",
+            "score": 2,
+            "stickied": false,
+            "author_name": "nyxx88"
+        },
+        "eto85tn": {
+            "comment": "also remove the appdata/chrome profile since that's what's likely to be infected ;-)",
+            "timeStamp": "2019/07/13-04:47:15",
+            "id": "eto85tn",
+            "is_submitter": false,
+            "link_id": "t3_ccmsxa",
+            "parent_id": "t1_etnzokb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "lrgame1983"
+        },
+        "eto3r6c": {
+            "comment": "It looks like you're having issues with Adware and PUP (potentially unwanted programs) rather than malware. Try malwarebyte's AdwCleaner, or some anti-adware programs.",
+            "timeStamp": "2019/07/13-03:02:15",
+            "id": "eto3r6c",
+            "is_submitter": false,
+            "link_id": "t3_ccmsxa",
+            "parent_id": "t3_ccmsxa",
+            "score": 2,
+            "stickied": false,
+            "author_name": "BrianKernighan"
+        },
+        "eto0208": {
+            "comment": "This sounds rather like an infection with Potentially Unwanted Software (PUP). Tools aimed at removing adware can usually deal better with this than anti malware tools. Run [AdwCleaner](https://www.malwarebytes.com/adwcleaner/) and reset **all** of your browsers.",
+            "timeStamp": "2019/07/13-01:40:34",
+            "id": "eto0208",
+            "is_submitter": false,
+            "link_id": "t3_ccmsxa",
+            "parent_id": "t3_ccmsxa",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Struppigel"
+        },
+        "etnzokb": {
+            "comment": "Thank you for answering! But we tried that and it\u2019s still there ://",
+            "timeStamp": "2019/07/13-01:32:51",
+            "id": "etnzokb",
+            "is_submitter": true,
+            "link_id": "t3_ccmsxa",
+            "parent_id": "t1_etnyqkk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "A_whole_shrimpo"
+        },
+        "etnyqkk": {
+            "comment": "Try to uninstall and then reinstall chrome!",
+            "timeStamp": "2019/07/13-01:13:20",
+            "id": "etnyqkk",
+            "is_submitter": false,
+            "link_id": "t3_ccmsxa",
+            "parent_id": "t3_ccmsxa",
+            "score": 1,
+            "stickied": false,
+            "author_name": "alien_invader17"
+        }
+    }
+}

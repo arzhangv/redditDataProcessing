@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "A friend told me that there was this project which offered VPN servers to analyze clients' traffic for malware and caught a bunch of zerodays with it. I have been thinking about the idea for a while but I forgot the details of that conversation and I cannot find anything online, so please please please help me find it.",
+        "title": "Malware analysis on a VPN server",
+        "score": 17,
+        "id": "3w3k7v",
+        "commsNum": 4,
+        "timeStamp": "2015/12/09-09:33:01",
+        "author_name": "blindcolor",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/3w3k7v/malware_analysis_on_a_vpn_server/"
+    },
+    "posts": {}
+}

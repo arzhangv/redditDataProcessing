@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Top 10 files from ShadowBrokers leak sharing code from previously known EquationGroup malware",
+        "score": 1,
+        "id": "65qiih",
+        "commsNum": 0,
+        "timeStamp": "2017/04/16-11:14:50",
+        "author_name": "desegel",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://gist.github.com/ItaiTevet/c4613f22b4b2aee9e32ad6f04d78b0d0"
+    },
+    "posts": {}
+}

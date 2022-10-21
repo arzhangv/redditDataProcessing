@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[removed]",
+        "title": "How do malware detection works?",
+        "score": 0,
+        "id": "bi459a",
+        "commsNum": 3,
+        "timeStamp": "2019/04/27-14:59:53",
+        "author_name": "I_AM_ALWAYS_ANGRY",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/bi459a/how_do_malware_detection_works/"
+    },
+    "posts": {
+        "elz57d5": {
+            "comment": "For details about how Sophos AV works (or used to work), check out this pdf by @taviso https://lock.cmpxchg8b.com/sophail.pdf",
+            "timeStamp": "2019/04/28-05:08:26",
+            "id": "elz57d5",
+            "is_submitter": false,
+            "link_id": "t3_bi459a",
+            "parent_id": "t1_elxziy6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "kankertje"
+        },
+        "elxziy6": {
+            "comment": "It's sort of both, depending on the engine that's running. For something like Cylance, they strictly use a database-less type of analyzing that checks for file heuristics and behavior as to whether something is a virus. For example, it will examine the files interacted with, registry keys changed etc to find abnormal behavior. While this is great in theory for system speed and resource utilization (since it does not need to rely on a database or the latest updates to be 'good' at what it does) it also can make it less effective on traditional viruses.\n\n&amp;#x200B;\n\nFor something like Sophos Anti-Virus (and not Sophos ML, or Machine Learning, which works similarly to Cylance) it uses a database of MD5 hashes and other key file traits for determining whether something is a virus or not. For example, if you download an executable file that has a known MD5 hash in the database, it will remove it and know that it's a specific malware type.\n\n&amp;#x200B;\n\nJust FYI - I'm not a pro by any stretch of the mind :)",
+            "timeStamp": "2019/04/27-15:57:30",
+            "id": "elxziy6",
+            "is_submitter": false,
+            "link_id": "t3_bi459a",
+            "parent_id": "t3_bi459a",
+            "score": 1,
+            "stickied": false,
+            "author_name": "danstheman7"
+        },
+        "elxuxix": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2019/04/27-14:59:53",
+            "id": "elxuxix",
+            "is_submitter": false,
+            "link_id": "t3_bi459a",
+            "parent_id": "t3_bi459a",
+            "score": 2,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Identification of Return-Oriented Programming Attacks Using RISC-V Instruction Trace Data",
+        "score": 1,
+        "id": "ujg6bo",
+        "commsNum": 0,
+        "timeStamp": "2022/05/05-22:16:35",
+        "author_name": "paran0ide",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://ieeexplore.ieee.org/document/9762913"
+    },
+    "posts": {
+        "i7j71oo": {
+            "comment": "My general inclination towards AI and detecting malware is: don't do it. AI (that is, using neural networks to do pattern detection) is great for recognizing street signs, garbage bins, cats, faces, handwriting etc, but not so great for things that conspire against you. Such as malware.",
+            "timeStamp": "2022/05/06-02:01:24",
+            "id": "i7j71oo",
+            "is_submitter": false,
+            "link_id": "t3_ujg6bo",
+            "parent_id": "t3_ujg6bo",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RedWineAndWomen"
+        }
+    }
+}

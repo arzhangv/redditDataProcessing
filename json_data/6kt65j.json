@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Reversing Malware Series - Remcos RAT",
+        "score": 1,
+        "id": "6kt65j",
+        "commsNum": 0,
+        "timeStamp": "2017/07/02-06:14:19",
+        "author_name": "maxxori",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://secrary.com/ReversingMalware/RemcosRAT/"
+    },
+    "posts": {}
+}

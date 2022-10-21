@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "IDS triggered on content \u201cPRIVMSG\u201d and I found 100s of payloads containing malicious strings like sp0rkeh, myg0t, botnet, spyware. Etc.  \n\nCollected forensic image and memory dump.  A strings search shows all those terms residing in memory only.  I CANNOT find the source.  I ran Avast against everything with negative results.  I can\u2019t find any obvious IRC software installed. \n\nComputers aren\u2019t communicating externally either so no c&amp;c traffic.  I am assuming this is an OLD infection.  I just can\u2019t seem to find anything. \n\nI ran volatility and all the processes seem legit.  Although ldrmodules and malfind do give me results.  \n\nThat may tell me there\u2019s been dll injection.  But how can I find the source file of all of this? \n\nHelp! I\u2019m racking my brain.  Thanks - and new here.  \n\n-Bitchy",
+        "title": "Can\u2019t find IRC Traffic \u2014Help!",
+        "score": 1,
+        "id": "9tgo7a",
+        "commsNum": 0,
+        "timeStamp": "2018/11/01-20:43:19",
+        "author_name": "Bitch_Checker",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/9tgo7a/cant_find_irc_traffic_help/"
+    },
+    "posts": {}
+}

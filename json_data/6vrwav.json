@@ -1,0 +1,198 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Any suggestions on some obscure places/methods to find malware samples in the wild? \n\nAs a side hobby i try to look for samples and reverse/analyse in a VM to try and find out what the malware is, where it's connecting to etc. I'm always looking for something i haven't seen before.\n\nI typically browse youtube for alot of \"hack generator tools\", eg; fake paypal money generators and obvious malicious bait, but i only tend to find kiddie related tools, like the common RAT's or ancient IRC bots -- which are boring and uninteresting, even if not detected by antivirus software. File sharing sites etc are mostly the same. They tend to be a mix of Turkojan / njRAT / mbot. the standard kiddie tools. Obviously, places like youtube tend to be a go-to option for the kiddies spreading their RAT's and IRC bots, but the more interesting things like rootkits and/or ransomware seems to be much harder to find.\n\nJust wondering if anyone else that does this, looking for wild samples, knows some interesting methods to obtain malware. It actually seems quite hard to find a decent sample when you're actively looking for it via malicious downloads. I've been trying to find some form of ransomware in the wild for a while now, but still unsuccessful. The only ones i've obtained have been through anti-virus discussion forums (where samples are allowed to be posted).",
+        "title": "Finding malware in the wild, any tips or methods?",
+        "score": 2,
+        "id": "6vrwav",
+        "commsNum": 17,
+        "timeStamp": "2017/08/24-09:13:44",
+        "author_name": "Jigoku1337",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 17,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6vrwav/finding_malware_in_the_wild_any_tips_or_methods/"
+    },
+    "posts": {
+        "dma5e5j": {
+            "comment": "For spam emails, register to a bunch of fake websites, all of the shopping, gear, and random forums allow news letters exclusively and your eMail will eventually get leaked. Afterward, try surfing later pages of Google search and go through multiple advertisements. Another quick way, are questionable adult websites.",
+            "timeStamp": "2017/08/29-07:17:03",
+            "id": "dma5e5j",
+            "is_submitter": false,
+            "link_id": "t3_6vrwav",
+            "parent_id": "t3_6vrwav",
+            "score": 1,
+            "stickied": false,
+            "author_name": "JoshRosserino"
+        },
+        "dm817mp": {
+            "comment": "Thanks that's really interesting.  As far as reversing I've only ever reversed some USB devices where Linux drivers are not present,  but I'll take a look at that, sounds fun to fiddle about with.",
+            "timeStamp": "2017/08/27-21:56:19",
+            "id": "dm817mp",
+            "is_submitter": true,
+            "link_id": "t3_6vrwav",
+            "parent_id": "t1_dm7vdbt",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Jigoku1337"
+        },
+        "dm7vdbt": {
+            "comment": "I posted my code for doing the callin on a previous post. Forgot about it until now.\n\nhttps://www.reddit.com/r/Malware/comments/6qtccr/reversing_enough_of_rat_network_protocol_to_make/dl0sv70/\n\nThe njrat protocol is very simple, i think its probably one of the best rats to get started with reversing. Its protocol is nearly all human readable, you can download the builder off of rekings.com. The 3 main versions are 0.6.4, 0.7d and 0.7d golden edition. There isn't a whole lot different between the 0.7d and 0.7d golden edition. I think they added a few new fields to the call in message and changed the delimiter to a different value. 0.6.4 and 0.7d they changed some of the command codes and changed how messages are encoded. In 0.6.4 the length of the message was not prepended and instead it just ended each message with [endof], 0.7d the length was prepended as a null terminated string to the message. \n\nFor njrat if you want to make your own fake client it isn't too hard. The server doesn't remove clients that don't respond to commands and the server does not give the operator the ability to remove clients. If you just connect, send the call in message, and then properly respond to the heartbeat/keep alive messages then they can't get rid of you. You can implement any commands at your leisure. \n\nFor reversing njrat I suggest you download the builder from rekings. Build a payload, then open the payload in dnspy. The builder is obfucated, its far less difficult to reverse the payload. I suggest using dnspy to patch out the CAP command, it generates much less traffic that way making it a little easier to analyze the packet capture in wireshark. \n\nThese are the fwo files for the chat client.\n\n[asynchat.py](https://gist.github.com/anonymous/e65bb91fd3e371c3eecaf5892f42233c)\n\nand \n\n[commander.py](https://gist.github.com/anonymous/24690ca977eb8a343405f722593fd718)\n\n\n\n",
+            "timeStamp": "2017/08/27-19:43:27",
+            "id": "dm7vdbt",
+            "is_submitter": false,
+            "link_id": "t3_6vrwav",
+            "parent_id": "t1_dm7odbj",
+            "score": 2,
+            "stickied": false,
+            "author_name": "4e4f5045"
+        },
+        "dm7ou0n": {
+            "comment": "There is one on GitHub that sends prebuild call in strings. I had one that built it but I deleted it. I can upload my chat client for it when I get home if you are interested.",
+            "timeStamp": "2017/08/27-17:19:30",
+            "id": "dm7ou0n",
+            "is_submitter": false,
+            "link_id": "t3_6vrwav",
+            "parent_id": "t1_dm7odbj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "4e4f5045"
+        },
+        "dm7odbj": {
+            "comment": "Fair enough, i am tempted to find the njRAT sources and try to reverse the protocol to play around with that. Do you know if anyone has published any code that spoofs a fake njRAT client? As i'd rather not reinvent the wheel... ",
+            "timeStamp": "2017/08/27-17:09:16",
+            "id": "dm7odbj",
+            "is_submitter": true,
+            "link_id": "t3_6vrwav",
+            "parent_id": "t1_dm7lujs",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Jigoku1337"
+        },
+        "dm7lujs": {
+            "comment": "It's not really an exploit, it's just the server does not verify if it sent a chat request. It doesn't verify for the rdp, mic spy, or webcam spy either. With a single connection you can cause 4 windows to be opened on the C2 side.",
+            "timeStamp": "2017/08/27-16:10:48",
+            "id": "dm7lujs",
+            "is_submitter": false,
+            "link_id": "t3_6vrwav",
+            "parent_id": "t1_dm7l7cq",
+            "score": 2,
+            "stickied": false,
+            "author_name": "4e4f5045"
+        },
+        "dm7lb14": {
+            "comment": "I do daily. But never get anything besides plaintext on the several email services i use. The built in spam protection seems to be working. \n\nWhat are some email providers that lack spam filtering? (outside of setting up my own mail server)",
+            "timeStamp": "2017/08/27-15:58:34",
+            "id": "dm7lb14",
+            "is_submitter": true,
+            "link_id": "t3_6vrwav",
+            "parent_id": "t1_dm2j6ks",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Jigoku1337"
+        },
+        "dm7l7cq": {
+            "comment": "Is that opening the chat on the C&amp;C server? I'm aware things like DarkComet have an exploit for file uploading (potentially allowing anyone to take over the C&amp;C), but didn't known njRAT could be exploitable.\n\nHowever, that's crazy if irc bots like that are still around today. I used to find alot of irc bot binaries about a decade ago which were highly insecure, usually having the nickname alone set as the auth.",
+            "timeStamp": "2017/08/27-15:56:10",
+            "id": "dm7l7cq",
+            "is_submitter": true,
+            "link_id": "t3_6vrwav",
+            "parent_id": "t1_dm4nxs7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Jigoku1337"
+        },
+        "dm6z3i2": {
+            "comment": "Google + \"porn\" = honeypot",
+            "timeStamp": "2017/08/27-07:55:45",
+            "id": "dm6z3i2",
+            "is_submitter": false,
+            "link_id": "t3_6vrwav",
+            "parent_id": "t3_6vrwav",
+            "score": 1,
+            "stickied": false,
+            "author_name": "daonewithnoteef"
+        },
+        "dm4nxs7": {
+            "comment": "I'm kind of in the same boat as use. I have a lot of fun with the njrat samples though, I wrote a chat client for it so I can pop open a chat box on their screen with just the ip:port and version. If you set up a ssh honeypot you can find some new interesting iot botnets, those are sort of cool. Or incredibly insecure irc botnets that can easily be taken over.",
+            "timeStamp": "2017/08/25-15:10:05",
+            "id": "dm4nxs7",
+            "is_submitter": false,
+            "link_id": "t3_6vrwav",
+            "parent_id": "t3_6vrwav",
+            "score": 2,
+            "stickied": false,
+            "author_name": "4e4f5045"
+        },
+        "dm3r58p": {
+            "comment": "I'm a networkadministrator, I get literally thousands of malicious emails quarantined every day for the domains I administer. I also have a few honeypots that get hit with new malware a lot. Get in touch with a friended networkadmin or make friends with one ;-) ",
+            "timeStamp": "2017/08/25-04:06:27",
+            "id": "dm3r58p",
+            "is_submitter": false,
+            "link_id": "t3_6vrwav",
+            "parent_id": "t3_6vrwav",
+            "score": 3,
+            "stickied": false,
+            "author_name": "lrgame1983"
+        },
+        "dm2wnrc": {
+            "comment": "When testing freshly installed honeypots in our environment, we'll usually do a google search for \"How to freely download...\" and just go through each recommendation Google gives us, find really shady looking websites, and go to town hitting the \"Download\" button. ",
+            "timeStamp": "2017/08/24-13:53:14",
+            "id": "dm2wnrc",
+            "is_submitter": false,
+            "link_id": "t3_6vrwav",
+            "parent_id": "t3_6vrwav",
+            "score": 3,
+            "stickied": false,
+            "author_name": "TheCreamyGentleman"
+        },
+        "dm2rh7n": {
+            "comment": "Create a throwaway email account to some small email provider that lacks proper filtering and then just register to every dodgy website you can find.",
+            "timeStamp": "2017/08/24-12:23:16",
+            "id": "dm2rh7n",
+            "is_submitter": false,
+            "link_id": "t3_6vrwav",
+            "parent_id": "t3_6vrwav",
+            "score": 3,
+            "stickied": false,
+            "author_name": "Stenwalden"
+        },
+        "dm2q4db": {
+            "comment": "Nice idea,  I guess I'll try that. ",
+            "timeStamp": "2017/08/24-11:58:20",
+            "id": "dm2q4db",
+            "is_submitter": true,
+            "link_id": "t3_6vrwav",
+            "parent_id": "t1_dm2pknm",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Jigoku1337"
+        },
+        "dm2pknm": {
+            "comment": "Create an email address and post it plain text in public forums -- places that can be crawled.\n\nAggregate spam emails.",
+            "timeStamp": "2017/08/24-11:48:45",
+            "id": "dm2pknm",
+            "is_submitter": false,
+            "link_id": "t3_6vrwav",
+            "parent_id": "t3_6vrwav",
+            "score": 2,
+            "stickied": false,
+            "author_name": "TufinDan"
+        },
+        "dm2j6ks": {
+            "comment": " Check your spam folder",
+            "timeStamp": "2017/08/24-09:56:21",
+            "id": "dm2j6ks",
+            "is_submitter": false,
+            "link_id": "t3_6vrwav",
+            "parent_id": "t3_6vrwav",
+            "score": 5,
+            "stickied": false,
+            "author_name": "pres82"
+        }
+    }
+}

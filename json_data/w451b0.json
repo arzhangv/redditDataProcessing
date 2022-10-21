@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "From app I got from github\n\n[App link](https://github.com/telegram-sms/telegram-sms)\n\n[VirusTotal](https://www.virustotal.com/gui/file/9717138193965860216ca30e017744e8b63f8985e688788663ac9549ca7bd652)",
+        "title": "Android.Malware.General (score:8) -- false or real malware",
+        "score": 1,
+        "id": "w451b0",
+        "commsNum": 0,
+        "timeStamp": "2022/07/20-19:38:25",
+        "author_name": "rubenespanyol",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/w451b0/androidmalwaregeneral_score8_false_or_real_malware/"
+    },
+    "posts": {
+        "ih07ptn": {
+            "comment": "Looks like telegram, shows the privacy terms in hex, permissions are all SMS stuff. Normally with VirusTotal if 5+ mark it as malicious, you should start to be worried. Just one it\u2019s likely a behavior signature that\u2019s similar to the malware. Your file is good and is signed by the creator of Telegram",
+            "timeStamp": "2022/07/20-20:35:05",
+            "id": "ih07ptn",
+            "is_submitter": false,
+            "link_id": "t3_w451b0",
+            "parent_id": "t3_w451b0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "HerbSmokington420"
+        }
+    }
+}

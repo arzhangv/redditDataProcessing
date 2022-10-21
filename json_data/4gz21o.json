@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Locky Ransomware Spreads via Flash and Windows Kernel Exploits",
+        "score": 5,
+        "id": "4gz21o",
+        "commsNum": 0,
+        "timeStamp": "2016/04/29-05:04:41",
+        "author_name": "sh3dow",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://blog.trendmicro.com/trendlabs-security-intelligence/locky-ransomware-spreads-flash-windows-kernel-exploits/"
+    },
+    "posts": {}
+}

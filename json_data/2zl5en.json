@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I very recently noticed that one of my Wordpress websites was infected - probably through the revslider vulnerability. Redirections for Android devices were setup in htaccess, sending people off to a russian IP address. Also, index.php had been infected with base64 encoded code... It's that code that I haven't fully deciphered, even after decoding and googling.\n\nChanging eval() to echo() produces the following, but I can't make sense of the escaped and extended characters. Can anyone help tell me what this is doing? Thanks in advance.\n\nedit: removed the [echoed, unencoded/unzipped code](http://ddecode.com/phpdecoder/?results=c8a7100d88b3a90d0ac3947bfad1b09a) from this post, and pasted the raw code [here](http://pastebin.com/PLpTrg6z) instead, as that seems more useful.\n\nIt's really interesting to me that they've added comments that quote from [bloodcyber.html](http://www.megalomaniac.com/~andrew/funny/bloodcyber.html), but I can't seem to find the specific code on Google.",
+        "title": "Help unencoding php malware.",
+        "score": 6,
+        "id": "2zl5en",
+        "commsNum": 14,
+        "timeStamp": "2015/03/19-07:24:52",
+        "author_name": "tollie",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 14,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2zl5en/help_unencoding_php_malware/"
+    },
+    "posts": {}
+}

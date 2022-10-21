@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Feds Target $100M \u2018GozNym\u2019 Cybercrime Network",
+        "score": 19,
+        "id": "bps57w",
+        "commsNum": 4,
+        "timeStamp": "2019/05/17-07:44:22",
+        "author_name": "DrinkMoreCodeMore",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://krebsonsecurity.com/2019/05/feds-target-100m-goznym-cybercrime-network/"
+    },
+    "posts": {
+        "etl3clo": {
+            "comment": "The GozNym CyberCrime Network has been broken up, but this is not the end for the venerable Gozi family banking malware. [GozNym](https://www.enigmasoftware.com/goznym-removal/) has been spread through corrupted email attachments. Malicious files associated with GozNym may leverage a vulnerability in Microsoft Office that allows the execution of corrupted code when macros are enabled.",
+            "timeStamp": "2019/07/12-01:18:09",
+            "id": "etl3clo",
+            "is_submitter": false,
+            "link_id": "t3_bps57w",
+            "parent_id": "t3_bps57w",
+            "score": 2,
+            "stickied": false,
+            "author_name": "FineInfluence0"
+        },
+        "eofil4u": {
+            "comment": "Lmao",
+            "timeStamp": "2019/05/22-07:29:54",
+            "id": "eofil4u",
+            "is_submitter": false,
+            "link_id": "t3_bps57w",
+            "parent_id": "t1_enydmp9",
+            "score": 2,
+            "stickied": false,
+            "author_name": "peoplearesleeping"
+        },
+        "enydmp9": {
+            "comment": "[no one can fuck with hackerman](https://www.youtube.com/watch?v=fQGbXmkSArs)",
+            "timeStamp": "2019/05/17-14:20:17",
+            "id": "enydmp9",
+            "is_submitter": true,
+            "link_id": "t3_bps57w",
+            "parent_id": "t1_eny9idc",
+            "score": 3,
+            "stickied": false,
+            "author_name": "DrinkMoreCodeMore"
+        },
+        "eny9idc": {
+            "comment": "The fbi wanted poster actually has a picture that resembles a stock photo interpretation of hackerman.",
+            "timeStamp": "2019/05/17-13:52:30",
+            "id": "eny9idc",
+            "is_submitter": false,
+            "link_id": "t3_bps57w",
+            "parent_id": "t3_bps57w",
+            "score": 3,
+            "stickied": false,
+            "author_name": "Robots_Never_Die"
+        }
+    }
+}

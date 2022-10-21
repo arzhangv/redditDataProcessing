@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I've seen this used a lot lately in those large GandCrab phishing campaigns to spread the actual phishing emails. I've only found maybe a handful of samples with the IRC server C&amp;C  still live.\n\nDoes anyone happen to have a list of hashes for this family (preferably past few months), and/or IOCs for the Phorphiex IRC bot C&amp;C servers being used?\n\nTypically it'll be TCP traffic on port 5050 following a GandCrab infection.. Also if anyone knows of other ports used that'd be fantastic as well ",
+        "title": "Phorphiex spreader samples / IRC servers request (GandCrab campaign recently)",
+        "score": 1,
+        "id": "8j6bxm",
+        "commsNum": 0,
+        "timeStamp": "2018/05/13-12:36:39",
+        "author_name": "lesunivers",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8j6bxm/phorphiex_spreader_samples_irc_servers_request/"
+    },
+    "posts": {}
+}

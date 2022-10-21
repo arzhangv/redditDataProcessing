@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi, I tend to avoid posting such questions online when I've done good research but I can't find any good info about malwaredev implementation with the Win API.\n\nI think it's a good idea to look into something more general like Charles Petzold's book Programming Windows book but are there any ones similar to say Violent Python?\n\nMost results online have to do with malwaredev in .NET unfortunately.\n\nDoes any one of you know any good resources/books I may have missed or is mastering the Win API and \"getting creative\" the only choice here.\n\nThank you!",
+        "title": "Resources for offensive Win32 API dev",
+        "score": 1,
+        "id": "dxn1fd",
+        "commsNum": 3,
+        "timeStamp": "2019/11/17-06:17:13",
+        "author_name": "malwareanalys7",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/dxn1fd/resources_for_offensive_win32_api_dev/"
+    },
+    "posts": {
+        "f7v3230": {
+            "comment": "[removed]",
+            "timeStamp": "2019/11/17-11:49:31",
+            "id": "f7v3230",
+            "is_submitter": false,
+            "link_id": "t3_dxn1fd",
+            "parent_id": "t3_dxn1fd",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "f7u4uhw": {
+            "comment": "Anyone ? No ? Ok",
+            "timeStamp": "2019/11/17-09:11:02",
+            "id": "f7u4uhw",
+            "is_submitter": false,
+            "link_id": "t3_dxn1fd",
+            "parent_id": "t3_dxn1fd",
+            "score": -1,
+            "stickied": false,
+            "author_name": "Kaanixir"
+        },
+        "f7t6g13": {
+            "comment": "Could you give us an example of what you are asking for ?",
+            "timeStamp": "2019/11/17-06:36:10",
+            "id": "f7t6g13",
+            "is_submitter": false,
+            "link_id": "t3_dxn1fd",
+            "parent_id": "t3_dxn1fd",
+            "score": 1,
+            "stickied": false,
+            "author_name": "edward_snowedin"
+        }
+    }
+}

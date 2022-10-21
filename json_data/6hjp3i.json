@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi \n\nI am hoping that someone from avast will read this. So there was a vulnerability which I reported back in 2015 and they still have a open ticket for it. They are not responding to that open ticket also.",
+        "title": "Avast bug bounty program",
+        "score": 19,
+        "id": "6hjp3i",
+        "commsNum": 5,
+        "timeStamp": "2017/06/15-19:13:13",
+        "author_name": "pm_me_your_findings",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6hjp3i/avast_bug_bounty_program/"
+    },
+    "posts": {}
+}

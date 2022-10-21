@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I'm not entirely sure this is malware, but given the filename, I'm pretty suspicious.\n\nThis was set up as a service on a legacy Windows 2000 server.  The service name was \"svchost\", and the filename was \"svchost.exs\", dumped into C:\\WINNT\\System32\\. Clearly he was trying to hide it, based on the name and location.\n\nIt looks like it was compiled with something called [WinBatch](http://winbatch.com/).\n\nAnyone have an idea what this does?  I'm assuming it'd need decompiled in some way, as it apparently ends up as compiled C, and from what I've found on Google, [it can't easily be decompiled](http://techsupt.winbatch.com/webcgi/webbatch.exe?techsupt/tsleft.web+winbatch/Compiler+Decompile~a~Compiled~WB~EXE.txt).\n\n* https://malwr.com/analysis/YmQ1M2YwNjRjMTM1NDY4NThhM2Q4ODE3MmE0ODNmZWI/\n* https://virusscan.jotti.org/en-US/filescanjob/pgauuinppq\n* https://www.virustotal.com/en/file/020cb0ed2cf6b3d88ccec53f7d8b7d7893700ddd0f7721896e5fd5cf16927182/analysis/1447530014/\n\nIt looks like malwr will allow you to redownload the file, but if anyone would rather I upload it somewhere, just let me know where you'd like it (or I can send it via email).\n\n**EDIT:**  I updated the malwr link with a version that has the file shared properly, sorry about that!\n\n**EDIT 2:**  Some people have run into a missing DLL error, so I've grabbed the DLL in question, and a few other s that looked similar.  See my comment here: https://www.reddit.com/r/Malware/comments/3stcpf/malware_created_by_previous_admin_found_hidden_on/cx3ya2p",
+        "title": "Malware (?) created by previous admin, found hidden on old server. Any way to figure out what it does?",
+        "score": 26,
+        "id": "3stcpf",
+        "commsNum": 30,
+        "timeStamp": "2015/11/14-11:59:20",
+        "author_name": "Mikecom32",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 30,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/3stcpf/malware_created_by_previous_admin_found_hidden_on/"
+    },
+    "posts": {}
+}

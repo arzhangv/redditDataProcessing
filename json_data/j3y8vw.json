@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "how do i get a winxp vm cuz i can't find ISO file",
+        "score": 1,
+        "id": "j3y8vw",
+        "commsNum": 6,
+        "timeStamp": "2020/10/02-09:54:21",
+        "author_name": "y33ty33ty33tyeet",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/j3y8vw/how_do_i_get_a_winxp_vm_cuz_i_cant_find_iso_file/"
+    },
+    "posts": {
+        "gazjgfa": {
+            "comment": "Cough cough umm you know a guy?",
+            "timeStamp": "2020/11/03-00:18:46",
+            "id": "gazjgfa",
+            "is_submitter": false,
+            "link_id": "t3_j3y8vw",
+            "parent_id": "t1_g7fvtda",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Holland993"
+        },
+        "g7hh302": {
+            "comment": "https://youtu.be/mGVOvyUxqtM",
+            "timeStamp": "2020/10/02-21:41:01",
+            "id": "g7hh302",
+            "is_submitter": false,
+            "link_id": "t3_j3y8vw",
+            "parent_id": "t1_g7f8p4p",
+            "score": 1,
+            "stickied": false,
+            "author_name": "anxious_ibex"
+        },
+        "g7fvtda": {
+            "comment": "You could always compile it from the source that leaked recently ;)",
+            "timeStamp": "2020/10/02-13:23:24",
+            "id": "g7fvtda",
+            "is_submitter": false,
+            "link_id": "t3_j3y8vw",
+            "parent_id": "t3_j3y8vw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "oiwot"
+        },
+        "g7ffonx": {
+            "comment": "[removed]",
+            "timeStamp": "2020/10/02-11:41:27",
+            "id": "g7ffonx",
+            "is_submitter": false,
+            "link_id": "t3_j3y8vw",
+            "parent_id": "t3_j3y8vw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "g7f8vud": {
+            "comment": "[clicky linky](https://archive.org/search.php?query=windows+xp)",
+            "timeStamp": "2020/10/02-10:47:29",
+            "id": "g7f8vud",
+            "is_submitter": false,
+            "link_id": "t3_j3y8vw",
+            "parent_id": "t3_j3y8vw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ForSquirel"
+        },
+        "g7f8p4p": {
+            "comment": "Look harder",
+            "timeStamp": "2020/10/02-10:45:53",
+            "id": "g7f8p4p",
+            "is_submitter": false,
+            "link_id": "t3_j3y8vw",
+            "parent_id": "t3_j3y8vw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Salax_"
+        }
+    }
+}

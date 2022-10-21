@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[https://isc.sans.edu/forums/diary/Reader+Malware+Submission+MHT+File+Inside+a+ZIP+File/24392/](https://isc.sans.edu/forums/diary/Reader+Malware+Submission+MHT+File+Inside+a+ZIP+File/24392/)\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;",
+        "title": "Zero detections on Virustotal deserve a second look",
+        "score": 1,
+        "id": "a4nsk0",
+        "commsNum": 4,
+        "timeStamp": "2018/12/09-11:23:25",
+        "author_name": "vickiearse",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/a4nsk0/zero_detections_on_virustotal_deserve_a_second/"
+    },
+    "posts": {
+        "ebha1cu": {
+            "comment": "[deleted]",
+            "timeStamp": "2018/12/09-21:09:36",
+            "id": "ebha1cu",
+            "is_submitter": false,
+            "link_id": "t3_a4nsk0",
+            "parent_id": "t3_a4nsk0",
+            "score": -2,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ebghyrz": {
+            "comment": "Nope you are not missing anything!   Yes, context is indeed important.  This was part of a rapid-fire round question and my sentiments were exactly the same as yours.  I am sorry, I forgot to include a question mark at the end of my post title!",
+            "timeStamp": "2018/12/09-14:26:37",
+            "id": "ebghyrz",
+            "is_submitter": true,
+            "link_id": "t3_a4nsk0",
+            "parent_id": "t1_ebgcked",
+            "score": 0,
+            "stickied": false,
+            "author_name": "vickiearse"
+        },
+        "ebgcked": {
+            "comment": "&gt; Files that purport to be documents, but actually download \n&gt; and execute programs, are clearly malicious.\n\nAm I missing something? It's an HTML file which would redirect to a jar. Most browsers will at that point complain that this is dangerous, but even if it didn't it would only download it, not execute it.\n\nI won't argue that this is still not the best behavior, but I'm not sure I would consider this a \"0 detections, for shame\" style moment. This is an HTML file which doesn't do anything and the link is dead. Context is important.... Then again maybe that's just me.",
+            "timeStamp": "2018/12/09-13:19:38",
+            "id": "ebgcked",
+            "is_submitter": false,
+            "link_id": "t3_a4nsk0",
+            "parent_id": "t3_a4nsk0",
+            "score": 6,
+            "stickied": false,
+            "author_name": "diff-t"
+        },
+        "ebg8ykm": {
+            "comment": "Agreed. ",
+            "timeStamp": "2018/12/09-12:38:58",
+            "id": "ebg8ykm",
+            "is_submitter": false,
+            "link_id": "t3_a4nsk0",
+            "parent_id": "t3_a4nsk0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Jeff_Rand3ll"
+        }
+    }
+}

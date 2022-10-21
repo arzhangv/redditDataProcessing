@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Got hit by Cryptowall 3.0 - no problem, I've got backups.  Wipe the system and reinstall windows.\n\nThen realize there is a super duper important USB drive that also got encrypted, and was not backed up.\n\nI'm willing to pay to get the files back, but what I can't figure out is if the decrypter you pay for has to be run from the originally infected computer, or will work from any PC.  If it stores anything important for decrypting (for example, a symmetrical encryption key stored on the PC, encrypted with their asymetrical key), I'm probably SOL.  It sucks paying the bad guys.  It would REALLY suck paying the bad guys and still not getting my files back.\n\nHas anyone gotten hit by CryptoWall 3.0, paid, and decrypted files from a separate PC?",
+        "title": "Does CryptoWall 3.0 require the original PC/OS install to decrypt?",
+        "score": 7,
+        "id": "3j5m4i",
+        "commsNum": 10,
+        "timeStamp": "2015/08/31-17:31:58",
+        "author_name": "igotthecrypto",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 10,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/3j5m4i/does_cryptowall_30_require_the_original_pcos/"
+    },
+    "posts": {}
+}

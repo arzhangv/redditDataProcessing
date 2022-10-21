@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": 0.85,
+        "selftext": "",
+        "title": "Fake Black Lives Matter voting campaign spreads Trickbot malware",
+        "score": 41,
+        "id": "h12zla",
+        "commsNum": 4,
+        "timeStamp": "2020/06/11-09:48:49",
+        "author_name": "DrinkMoreCodeMore",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.bleepingcomputer.com/news/security/fake-black-lives-matter-voting-campaign-spreads-trickbot-malware/"
+    },
+    "posts": {
+        "funj2p2": {
+            "comment": "Do you happen to have any recommendations for users on Twitter that post malware samples?",
+            "timeStamp": "2020/06/12-16:49:52",
+            "id": "funj2p2",
+            "is_submitter": false,
+            "link_id": "t3_h12zla",
+            "parent_id": "t1_fuml5mm",
+            "score": 2,
+            "stickied": false,
+            "author_name": "A-Cold-Wall"
+        },
+        "fuml5mm": {
+            "comment": "You might be able to find them on infosec Twitter",
+            "timeStamp": "2020/06/12-11:53:43",
+            "id": "fuml5mm",
+            "is_submitter": true,
+            "link_id": "t3_h12zla",
+            "parent_id": "t1_fuml23j",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DrinkMoreCodeMore"
+        },
+        "fuml23j": {
+            "comment": "The article doesn't include any hashes or URLs.",
+            "timeStamp": "2020/06/12-11:52:53",
+            "id": "fuml23j",
+            "is_submitter": false,
+            "link_id": "t3_h12zla",
+            "parent_id": "t3_h12zla",
+            "score": 2,
+            "stickied": false,
+            "author_name": "lurker10001000"
+        },
+        "fullmdl": {
+            "comment": "I figured this would happen, but I figured it would go after supporters instead of those looking to (probably) vote against. With all of the people clicking on links to donate or watch videos, etc to support the movement it just feels like something that would happen.",
+            "timeStamp": "2020/06/12-07:23:18",
+            "id": "fullmdl",
+            "is_submitter": false,
+            "link_id": "t3_h12zla",
+            "parent_id": "t3_h12zla",
+            "score": 1,
+            "stickied": false,
+            "author_name": "my_name_still_jeff"
+        },
+        "fulljxi": {
+            "comment": "I was waiting for this to happen, but I figured it would go after supporters instead of those looking to (probably) vote against. With all of the people clicking on links to donate or watch videos, etc to support the movement it just feels like something that would happen.",
+            "timeStamp": "2020/06/12-07:22:41",
+            "id": "fulljxi",
+            "is_submitter": false,
+            "link_id": "t3_h12zla",
+            "parent_id": "t3_h12zla",
+            "score": 1,
+            "stickied": false,
+            "author_name": "my_name_still_jeff"
+        }
+    }
+}

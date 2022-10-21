@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Just a PSA since I can't find anything via google about this except for articles about an old virus from 2000 and 2004.\n\nI received an email today from a yahoo address with subject \"Resume\" and contents:\n\n&gt; Hi! \n\n&gt; Please see my attached resume.\n\n&gt; Thanks,\n\n&gt; James\n\nI use google apps for mail, so I looked at the attached Resume.doc via preview (I didn't download it), and it reads:\n\n&gt; Resume\n\n&gt; Please enable Editing and Macros to see resume.\n\n&gt; \\*If you\u2019re previewing this online, you need to download and open it in Microsoft Office\\*\n\n\nObviously nobody reading this subreddit is likely stupid enough to download and run this - but you might want to let family/friends know, because my google searches for this one have been fruitless aside from really, really old similar attacks and so it may or may not be caught by your favorite malware scanner.",
+        "title": "Old malware is apparently new again - resume malware / scam",
+        "score": 0,
+        "id": "205zz0",
+        "commsNum": 0,
+        "timeStamp": "2014/03/11-13:11:22",
+        "author_name": "[deleted]",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/205zz0/old_malware_is_apparently_new_again_resume/"
+    },
+    "posts": {}
+}

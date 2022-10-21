@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Zombieland CTF \u2013 Reverse Engineering for Beginners",
+        "score": 57,
+        "id": "dgfb3z",
+        "commsNum": 4,
+        "timeStamp": "2019/10/11-06:38:51",
+        "author_name": "mcb-ma",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://mcb101.blog/2019/10/11/zombieland-ctf-reverse-engineering-for-beginners/"
+    },
+    "posts": {
+        "f46bcb4": {
+            "comment": "[removed]",
+            "timeStamp": "2019/10/18-06:49:32",
+            "id": "f46bcb4",
+            "is_submitter": false,
+            "link_id": "t3_dgfb3z",
+            "parent_id": "t3_dgfb3z",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "f3czj4q": {
+            "comment": "Hope it's helpful",
+            "timeStamp": "2019/10/11-14:40:53",
+            "id": "f3czj4q",
+            "is_submitter": true,
+            "link_id": "t3_dgfb3z",
+            "parent_id": "t1_f3b925m",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mcb-ma"
+        },
+        "f3bcgle": {
+            "comment": "[removed]",
+            "timeStamp": "2019/10/11-08:17:19",
+            "id": "f3bcgle",
+            "is_submitter": false,
+            "link_id": "t3_dgfb3z",
+            "parent_id": "t3_dgfb3z",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "f3b925m": {
+            "comment": "This is exactly what I've been looking for. Thank you!!",
+            "timeStamp": "2019/10/11-07:38:48",
+            "id": "f3b925m",
+            "is_submitter": false,
+            "link_id": "t3_dgfb3z",
+            "parent_id": "t3_dgfb3z",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Shana-na-na"
+        }
+    }
+}

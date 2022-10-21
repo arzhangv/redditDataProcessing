@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "A friend has been getting slammed with these \"FedEx International MailService\" emails that say something along the lines of\n\n&gt; This is to confirm that one or more of your parcels has been shipped.\n&gt;\n&gt; You can review complete details of your order in the find attached.\n\nas well as the ones that have a notice to appear in court. Fortunately, she didn't open any of them. I took a look inside and de-obfuscated the js file inside the .zip. Here's the pastebin. Glad she didn't open it!\n\nhttp://pastebin.com/g1zTnBrr\n\nEdit: virus total https://www.virustotal.com/en/file/8dd88efc405e3b42c2aa5576927bc7ab9696ea47ba0c97d604c6b8641e102543/analysis/1458091012/\n\nStill waiting on the hybrid-analysis and malwr.",
+        "title": "Ransomware Emails",
+        "score": 24,
+        "id": "4alvvx",
+        "commsNum": 14,
+        "timeStamp": "2016/03/15-19:48:26",
+        "author_name": "tucsonflyer",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 14,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/4alvvx/ransomware_emails/"
+    },
+    "posts": {}
+}

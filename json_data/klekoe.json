@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Vermont Hospital confirmed the ransomware attack",
+        "score": 1,
+        "id": "klekoe",
+        "commsNum": 0,
+        "timeStamp": "2020/12/27-15:57:13",
+        "author_name": "nisubsole",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://securityaffairs.co/wordpress/112694/malware/vermont-hospital-ransomware-attack.html"
+    },
+    "posts": {}
+}

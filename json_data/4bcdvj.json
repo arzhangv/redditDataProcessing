@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "TeslaCrypt updated to 4.0",
+        "score": 25,
+        "id": "4bcdvj",
+        "commsNum": 4,
+        "timeStamp": "2016/03/21-07:07:17",
+        "author_name": "Playmore96",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.bleepingcomputer.com/news/security/teslacrypt-4-0-released-with-bug-fixes-and-stops-adding-extensions/"
+    },
+    "posts": {}
+}

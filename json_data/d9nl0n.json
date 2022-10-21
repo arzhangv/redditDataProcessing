@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "A Deep Dive into macOS MDM (and how it can be compromised)",
+        "score": 8,
+        "id": "d9nl0n",
+        "commsNum": 1,
+        "timeStamp": "2019/09/26-11:20:45",
+        "author_name": "g0relics",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://i.blackhat.com/us-18/Thu-August-9/us-18-Endahl-A-Deep-Dive-Into-macOS-MDM-And-How-It-Can-Be-Compromised-wp.pdf"
+    },
+    "posts": {
+        "f1jnrod": {
+            "comment": "[removed]",
+            "timeStamp": "2019/09/26-12:18:23",
+            "id": "f1jnrod",
+            "is_submitter": false,
+            "link_id": "t3_d9nl0n",
+            "parent_id": "t3_d9nl0n",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

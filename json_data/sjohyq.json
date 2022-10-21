@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "The second article of MAS (Malware Analysis Series) is available for reading. The PDF version (96 pages) can be downloaded from:\n\n[https://exploitreversing.com/2022/02/03/malware-analysis-series-mas-article-2/](https://exploitreversing.com/2022/02/03/malware-analysis-series-mas-article-2/)  \n\n\nHave an excellent day.",
+        "title": "Malware Analysis Series (MAS): second article (PDF: 96 pages)",
+        "score": 1,
+        "id": "sjohyq",
+        "commsNum": 0,
+        "timeStamp": "2022/02/03-09:11:13",
+        "author_name": "alexandreborges",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/sjohyq/malware_analysis_series_mas_second_article_pdf_96/"
+    },
+    "posts": {
+        "hvhrcju": {
+            "comment": "Thanks for sharing! It looks amazing!",
+            "timeStamp": "2022/02/03-16:03:45",
+            "id": "hvhrcju",
+            "is_submitter": false,
+            "link_id": "t3_sjohyq",
+            "parent_id": "t3_sjohyq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "HappyPopniks"
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "For what it's worth... I rewrote a few tools coming from old papers for studying **executable packing** as I couldn't find descent versions for testing and automating them.\n\n- [Bintropy](https://github.com/dhondta/bintropy): Entropy-based packing detection featuring multiple modes (whole binary, per section or segment). Based on the awesome [LIEF](https://github.com/lief-project/LIEF) library, therefore supports ELF, PE, Mach-O.\n- [PEiD](https://github.com/dhondta/peid) (Python version): Yet another version of it (I found a few others, but always with an outdated `userdb.txt`), but with a `userdb.txt` merged from various repositories and an additional tool for making new signatures.\n- [PyPackerDetect](https://github.com/dhondta/PyPackerDetect) (upgraded fork): Refactored version of the [original](https://github.com/cylance/PyPackerDetect) that seems to be discontinued.\n\nAll these are automated/mechanized in a [Docker image](https://github.com/dhondta/docker-packing-box) that allows to do far more than just playing with some packing detectors.\n\nStill work in progress... Any comment/contribution/... welcome.",
+        "title": "Collection of tools for executable packing detection",
+        "score": 1,
+        "id": "s4i5e1",
+        "commsNum": 0,
+        "timeStamp": "2022/01/15-03:12:09",
+        "author_name": "dhondta",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/s4i5e1/collection_of_tools_for_executable_packing/"
+    },
+    "posts": {
+        "hw49uwf": {
+            "comment": "FYI ; if you want a nice example of a comparison of the entropy for many packers, check the plot in this README : https://github.com/dhondta/dataset-packed-pe",
+            "timeStamp": "2022/02/08-11:00:37",
+            "id": "hw49uwf",
+            "is_submitter": true,
+            "link_id": "t3_s4i5e1",
+            "parent_id": "t1_hsrdz2d",
+            "score": 1,
+            "stickied": false,
+            "author_name": "dhondta"
+        },
+        "hsrdz2d": {
+            "comment": "Entropy is probably the best generic detection as it will work on new compression methods. Also it is trivial to change some headers in compressed files (like UPX) to make detection and unpacking fail.",
+            "timeStamp": "2022/01/15-05:01:17",
+            "id": "hsrdz2d",
+            "is_submitter": false,
+            "link_id": "t3_s4i5e1",
+            "parent_id": "t3_s4i5e1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "GoranLind"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "MS malware classification challenge : winners explain their solution",
+        "score": 11,
+        "id": "337xm2",
+        "commsNum": 0,
+        "timeStamp": "2015/04/20-03:35:37",
+        "author_name": "alain_proviste",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.kaggle.com/c/malware-classification/forums/t/13490/say-no-to-overfitting-approaches-sharing/72311"
+    },
+    "posts": {}
+}

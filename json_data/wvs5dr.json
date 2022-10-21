@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Filename: Insidious.exe\nDetection Ratio 2/42 - KleenScan\nLanguage: .NET\n\n\nHow it works:  \n\nBuilder- \n1.) Reads bytes of target file  \n2.)  Compresses Bytes with an unknown form of compression.  \n3.) Converts compressed bytes to base64  \n4.)  Encrypts variables with a seemingly custom cipher.\n5.)  Injects the information into the stub, and saves the output.\n\nStub-\n1.) Does a multi check on system information to determine if a VM. (Pinged CPU, Ram, and HDD size in tests)  \n2.) Runs a decryption algorithm which is protected by control flow, and a seemingly custom VM.  \n3.) Executes the Byte array Into memory using assembly.load (or equivalent) - Code is virtualized, again.\n\nTakeaway: The crypter uses very standardized methods of crypting, but the obfuscation and protections used within the output are very advanced from my analysis. The low detection ratio is due to this, not the core behavior.",
+        "title": "Insidious Crypter - Technical Analysis",
+        "score": 1,
+        "id": "wvs5dr",
+        "commsNum": 0,
+        "timeStamp": "2022/08/23-08:44:53",
+        "author_name": "MysticalTeamMember",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/wvs5dr/insidious_crypter_technical_analysis/"
+    },
+    "posts": {}
+}

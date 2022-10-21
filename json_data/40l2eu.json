@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "MMD-0050-2016 - Incident report: ELF Linux/Torte infection (in Wordpress)",
+        "score": 7,
+        "id": "40l2eu",
+        "commsNum": 2,
+        "timeStamp": "2016/01/11-21:18:12",
+        "author_name": "mmd0xFF",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://blog.malwaremustdie.org/2016/01/mmd-0050-2016-incident-report-elf.html"
+    },
+    "posts": {}
+}

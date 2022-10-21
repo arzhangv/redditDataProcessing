@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "An examination of a piece of PHP Malware",
+        "score": 1,
+        "id": "9vljxh",
+        "commsNum": 5,
+        "timeStamp": "2018/11/09-07:52:59",
+        "author_name": "phpsystems",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://blog.manchestergreyhats.co.uk/2018/11/07/php-malware-examination/"
+    },
+    "posts": {
+        "e9lb9w5": {
+            "comment": "Excellent write-up, and it would be great to see more context, if you can do it.  I caught 3 batches of similar malware, albeit older versions:\n\n* https://github.com/bediger4000/php-malware-analysis/tree/master/cscript\n* https://github.com/bediger4000/php-malware-analysis/tree/master/cscript/cscript2\n* https://github.com/bediger4000/php-malware-analysis/tree/master/campaignE\n\nI caught them with a WordPress honey pot that has a  fake WSO web shell, which was used in the installs, so I have no examples of how it actually gets used, and I'd love to see that.\n\nI think this paste](https://pastebin.com/qUM2RubB) may be the same malware, but it has no context.\n\nI also think [this analysis](https://medium.com/@pmarrapese/analysis-of-a-php-backdoor-c9ee3e60e810) is of the same malware.",
+            "timeStamp": "2018/11/12-17:37:01",
+            "id": "e9lb9w5",
+            "is_submitter": false,
+            "link_id": "t3_9vljxh",
+            "parent_id": "t1_e9f69zh",
+            "score": 2,
+            "stickied": false,
+            "author_name": "bediger4000"
+        },
+        "e9js28g": {
+            "comment": "To be fair most obfuscation is like that. It doesn't push the bar up by much, but it does raise it.",
+            "timeStamp": "2018/11/12-04:27:08",
+            "id": "e9js28g",
+            "is_submitter": true,
+            "link_id": "t3_9vljxh",
+            "parent_id": "t1_e9izg0o",
+            "score": 1,
+            "stickied": false,
+            "author_name": "phpsystems"
+        },
+        "e9izg0o": {
+            "comment": "Seconded, great write up. Odd technique of using comments to \"obfuscate\" the code though, almost seems pointless -- from my point of view that is only attracting attention to anyone skimming through a source file...",
+            "timeStamp": "2018/11/11-17:34:00",
+            "id": "e9izg0o",
+            "is_submitter": false,
+            "link_id": "t3_9vljxh",
+            "parent_id": "t1_e9eymp7",
+            "score": 2,
+            "stickied": false,
+            "author_name": "unixjig"
+        },
+        "e9f69zh": {
+            "comment": "Glad you enjoyed it. I am considering now a follow-up, with extra tools, and more context of how the program was used.",
+            "timeStamp": "2018/11/10-06:55:03",
+            "id": "e9f69zh",
+            "is_submitter": true,
+            "link_id": "t3_9vljxh",
+            "parent_id": "t1_e9eymp7",
+            "score": 2,
+            "stickied": false,
+            "author_name": "phpsystems"
+        },
+        "e9eymp7": {
+            "comment": "That was an awesome write up!",
+            "timeStamp": "2018/11/10-04:02:38",
+            "id": "e9eymp7",
+            "is_submitter": false,
+            "link_id": "t3_9vljxh",
+            "parent_id": "t3_9vljxh",
+            "score": 2,
+            "stickied": false,
+            "author_name": "alcon835"
+        }
+    }
+}

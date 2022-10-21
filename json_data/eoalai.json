@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi everyone, looking out for bitcoin stealer sample to analyze. Thank you!!",
+        "title": "Bitcoin stealer sample",
+        "score": 1,
+        "id": "eoalai",
+        "commsNum": 0,
+        "timeStamp": "2020/01/13-13:22:53",
+        "author_name": "PerfectDescription1",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/eoalai/bitcoin_stealer_sample/"
+    },
+    "posts": {}
+}

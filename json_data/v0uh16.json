@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "[removed]",
+        "title": "Will learning Windows System and/or Kernel programming help learn malware development?",
+        "score": 1,
+        "id": "v0uh16",
+        "commsNum": 1,
+        "timeStamp": "2022/05/30-00:06:47",
+        "author_name": "Flaky_Card2907",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/v0uh16/will_learning_windows_system_andor_kernel/"
+    },
+    "posts": {
+        "iaksjt2": {
+            "comment": "No worries. Been there myself",
+            "timeStamp": "2022/05/30-12:15:35",
+            "id": "iaksjt2",
+            "is_submitter": false,
+            "link_id": "t3_v0uh16",
+            "parent_id": "t1_iaki3sz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "americaneagle98"
+        },
+        "iakkz8b": {
+            "comment": "[removed]",
+            "timeStamp": "2022/05/30-11:17:37",
+            "id": "iakkz8b",
+            "is_submitter": false,
+            "link_id": "t3_v0uh16",
+            "parent_id": "t3_v0uh16",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "iaki3sz": {
+            "comment": "Thank you! Sorry for the noob question.",
+            "timeStamp": "2022/05/30-10:55:57",
+            "id": "iaki3sz",
+            "is_submitter": true,
+            "link_id": "t3_v0uh16",
+            "parent_id": "t1_iak57sz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Flaky_Card2907"
+        },
+        "iak57sz": {
+            "comment": "Yes",
+            "timeStamp": "2022/05/30-09:20:59",
+            "id": "iak57sz",
+            "is_submitter": false,
+            "link_id": "t3_v0uh16",
+            "parent_id": "t3_v0uh16",
+            "score": 1,
+            "stickied": false,
+            "author_name": "americaneagle98"
+        },
+        "iaipso6": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators **and be sure to include the link to the post** - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2022/05/30-00:06:48",
+            "id": "iaipso6",
+            "is_submitter": false,
+            "link_id": "t3_v0uh16",
+            "parent_id": "t3_v0uh16",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

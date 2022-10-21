@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "We have been trying to run our yearly test of AV software and seem to be having trouble getting a good sample set.\n\nWe have the following sources\n\n* Latest Virusshare torrent (65k-ish samples)\n* malshare API setup for pulling daily samples\n\nOur issue is each of the repositories seems not to execute fully our process is to copy sample files down to local C drive of VM and run the following in sample folder in elevated command prompt:\n\n* rename * *.exe\n* for %i in (*) do start %i\n\nWe are running into TONS of 16 bit applications that will not detonate on windows 7, last year when we did this test this was not an issue.  I feel like I'm missing something or maybe there's a better windows targeted sample set to pull from.  Anyone have some pointers?\n\n\n\n",
+        "title": "Troubles finding and executing malware in test environment",
+        "score": 14,
+        "id": "6hv6w3",
+        "commsNum": 8,
+        "timeStamp": "2017/06/17-12:07:25",
+        "author_name": "dirtyggg",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 8,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6hv6w3/troubles_finding_and_executing_malware_in_test/"
+    },
+    "posts": {}
+}

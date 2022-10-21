@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Watch out! Most Android apps vulnerable to the StrandHogg flaw",
+        "score": 1,
+        "id": "e6biip",
+        "commsNum": 1,
+        "timeStamp": "2019/12/04-19:53:56",
+        "author_name": "Mathster0598",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/cybersecurity/comments/e6a7l5/watch_out_most_android_apps_vulnerable_to_the/"
+    },
+    "posts": {
+        "f9pm5bi": {
+            "comment": "Users are unaware that they are giving permission to the hacker and not the authentic app they believe they are using. CyberSecurity and [malware detection](https://www.lastline.com/understanding-advanced-threat-malware-detection/) is needed in the digital world.",
+            "timeStamp": "2019/12/05-02:32:50",
+            "id": "f9pm5bi",
+            "is_submitter": false,
+            "link_id": "t3_e6biip",
+            "parent_id": "t3_e6biip",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Alexrider046"
+        }
+    }
+}

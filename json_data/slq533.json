@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Reversing NodeJS malware, part 2: Analysing the source code",
+        "score": 1,
+        "id": "slq533",
+        "commsNum": 0,
+        "timeStamp": "2022/02/05-22:39:31",
+        "author_name": "izanagi_1995",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://medium.com/@devops-guy/reversing-nodejs-malware-part-2-analysing-the-source-code-a31c316ff4f"
+    },
+    "posts": {
+        "hvy5u87": {
+            "comment": "Verification would be done from the EXE stored at (default) C:\\ requiring admin rights, making it a bit more secure.\n\nBut yes, in the end you can keep on bypassing and making your way to the user credentials.",
+            "timeStamp": "2022/02/07-06:36:28",
+            "id": "hvy5u87",
+            "is_submitter": false,
+            "link_id": "t3_slq533",
+            "parent_id": "t1_hvux1q3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Ferib"
+        },
+        "hvvk11v": {
+            "comment": "[removed]",
+            "timeStamp": "2022/02/06-15:40:19",
+            "id": "hvvk11v",
+            "is_submitter": false,
+            "link_id": "t3_slq533",
+            "parent_id": "t3_slq533",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hvux1q3": {
+            "comment": "Ah that might help. You would still need a way keep the verification from from being altered as well.",
+            "timeStamp": "2022/02/06-13:00:26",
+            "id": "hvux1q3",
+            "is_submitter": false,
+            "link_id": "t3_slq533",
+            "parent_id": "t1_hvtdlhh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "NightWolf56"
+        },
+        "hvtdlhh": {
+            "comment": "Nice read, but was kinda hoping to see code injection from C level hehe.\n\nMy opinion on securing Discord code execution wouldnt be obfuscation, but instead to have the js files hashed and only allow the client to run approved files.",
+            "timeStamp": "2022/02/06-06:44:29",
+            "id": "hvtdlhh",
+            "is_submitter": false,
+            "link_id": "t3_slq533",
+            "parent_id": "t3_slq533",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Ferib"
+        }
+    }
+}

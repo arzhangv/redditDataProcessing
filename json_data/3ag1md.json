@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Newfag here: how effective is antivirus software?\n\nOn one hand, most antivirus websites claim to be highly effective, and I've seen antivirus \"test\" videos claiming 95%+ detection rates for new malware (as in less than a day old, not old samples that have already been added to AV databases).  In addition, just about every OS protection guide recommends antivirus software as the number one method of preventing malware infection.\n\nOn the other hand, I've seen other videos advertising crypter software that seems to render AV software useless.  In many of these examples, the \"crypted\" malware is undetected by any AV systems, even when pitted against 70+ antivirus systems on online testing sites like virustotal.  The fact that it's so simple to hide malware -- there are dozens of crypters, some completely free, available from a number of forums and websites, and usable by even the simplest script kiddies -- and the fact that these crypters are so effective, would seem to indicate that antivirus software isn't very effective.\n\nSo how effective are antivirus suites like Avast and Norton, and how could one explain the discrepancies between the 95%+ detection rates that are advertised and the prevalence of crypting software that makes malware virtually undetectable?",
+        "title": "How effective is antivirus software?",
+        "score": 1,
+        "id": "3ag1md",
+        "commsNum": 0,
+        "timeStamp": "2015/06/19-14:09:37",
+        "author_name": "[deleted]",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/3ag1md/how_effective_is_antivirus_software/"
+    },
+    "posts": {}
+}

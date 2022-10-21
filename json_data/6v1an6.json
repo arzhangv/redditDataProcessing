@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "SyncCrypt Ransomware hides its components in image files",
+        "score": 1,
+        "id": "6v1an6",
+        "commsNum": 0,
+        "timeStamp": "2017/08/21-00:02:30",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/62191/malware/synccrypt-ransomware.html"
+    },
+    "posts": {}
+}

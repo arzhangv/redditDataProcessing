@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "[removed]",
+        "title": "Are code caves removed from malware?",
+        "score": 1,
+        "id": "s3vdin",
+        "commsNum": 1,
+        "timeStamp": "2022/01/14-07:44:54",
+        "author_name": "greyyit",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/s3vdin/are_code_caves_removed_from_malware/"
+    },
+    "posts": {
+        "htc6dvk": {
+            "comment": "[removed]",
+            "timeStamp": "2022/01/19-08:54:56",
+            "id": "htc6dvk",
+            "is_submitter": false,
+            "link_id": "t3_s3vdin",
+            "parent_id": "t1_hsrke90",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hsypq4j": {
+            "comment": "[removed]",
+            "timeStamp": "2022/01/16-15:08:22",
+            "id": "hsypq4j",
+            "is_submitter": false,
+            "link_id": "t3_s3vdin",
+            "parent_id": "t3_s3vdin",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hss3wqf": {
+            "comment": "It is standard that program files have zero paddings. The system tries to align (round up) data on a 512 byte boundary because that is the block size of most file systems. It is not advisable to get rid of these zero filled areas.\n\nSpecifically because zero bytes are so common in files, it is also not good for detection signatures.\n\nThe only programs that might not have such alignment are kernel drivers in low-alignment mode that need to have small memory footprint. I am not sure how to develop those, though.",
+            "timeStamp": "2022/01/15-08:22:25",
+            "id": "hss3wqf",
+            "is_submitter": false,
+            "link_id": "t3_s3vdin",
+            "parent_id": "t1_hsrke90",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Struppigel"
+        },
+        "hsrke90": {
+            "comment": "You're right, I wasn't using the correct term.  I'm talking about empty space padding, not the code within it.  How common is it for a binary to have padding?  And are code caves always within a binary, or is there a compiler option to remove them?  It just seems like if there's a series of null bytes that it could be used to create a signature.",
+            "timeStamp": "2022/01/15-05:59:44",
+            "id": "hsrke90",
+            "is_submitter": true,
+            "link_id": "t3_s3vdin",
+            "parent_id": "t1_hsqrg6y",
+            "score": 1,
+            "stickied": false,
+            "author_name": "greyyit"
+        },
+        "hsqrg6y": {
+            "comment": "I am not sure I understand your question. A code cave is a previously empty space (which occurs naturaly in many files) that has been filled with foreign code, which is usually malicious code. \n\nWhat should remove code caves from malware in your scenario and why?\n\nFor old viruses that use code caves to infect, AV software has special cleaning procedures which may be able to remove the injected code (however, sometimes they just remove the references to this code but leave it in there). Maybe that's along of what you were asking.\n\nI don't know how AV software would use code caves to detect malware. They can have patterns on the injected code in the code cave, but I doubt there is anything more specific.",
+            "timeStamp": "2022/01/15-00:27:22",
+            "id": "hsqrg6y",
+            "is_submitter": false,
+            "link_id": "t3_s3vdin",
+            "parent_id": "t3_s3vdin",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Struppigel"
+        },
+        "hsn2flo": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators **and be sure to include the link to the post** - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2022/01/14-07:44:55",
+            "id": "hsn2flo",
+            "is_submitter": false,
+            "link_id": "t3_s3vdin",
+            "parent_id": "t3_s3vdin",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi Folks, \n\nIs there anyone aware of binary samples of ransomwares targeted for linux from real world. So far, I've looked around and found ransomware samples for other platforms but not linux. If you're aware of them, please provide the downloadable links or their hashes. I am currently working on evaluating a dynamic detection approach and would like some samples from real world in this regard. Thanks in advance for your help and insights!",
+        "title": "Ransomware Samples for Linux",
+        "score": 2,
+        "id": "c8ki96",
+        "commsNum": 4,
+        "timeStamp": "2019/07/02-23:08:32",
+        "author_name": "jvarsyand",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/c8ki96/ransomware_samples_for_linux/"
+    },
+    "posts": {
+        "et7x2ga": {
+            "comment": " [https://github.com/ytisf/theZoo/tree/master/malwares/Binaries/Linux.Encoder.1](https://github.com/ytisf/theZoo/tree/master/malwares/Binaries/Linux.Encoder.1)",
+            "timeStamp": "2019/07/07-16:00:42",
+            "id": "et7x2ga",
+            "is_submitter": false,
+            "link_id": "t3_c8ki96",
+            "parent_id": "t3_c8ki96",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Sasser39a"
+        },
+        "estha9n": {
+            "comment": "Well it doesn't matter, as long as its was meant to infect linux based system. At the bare minimum a distro can be as simple as alpine linux",
+            "timeStamp": "2019/07/04-12:09:06",
+            "id": "estha9n",
+            "is_submitter": true,
+            "link_id": "t3_c8ki96",
+            "parent_id": "t1_esso58v",
+            "score": 1,
+            "stickied": false,
+            "author_name": "jvarsyand"
+        },
+        "esso58v": {
+            "comment": "is that for all linux distributions or somethong related to it?",
+            "timeStamp": "2019/07/04-08:44:39",
+            "id": "esso58v",
+            "is_submitter": false,
+            "link_id": "t3_c8ki96",
+            "parent_id": "t3_c8ki96",
+            "score": 1,
+            "stickied": false,
+            "author_name": "hax404inj3t404"
+        },
+        "esob6gh": {
+            "comment": "[https://www.virustotal.com/gui/file/6db0299f073d8c83f70e52f382d1fd952e6d7d544cdb7eebd73867ddb9b9d176/detection](https://www.virustotal.com/gui/file/6db0299f073d8c83f70e52f382d1fd952e6d7d544cdb7eebd73867ddb9b9d176/detection), maybe not to many research done about this file",
+            "timeStamp": "2019/07/03-07:25:22",
+            "id": "esob6gh",
+            "is_submitter": false,
+            "link_id": "t3_c8ki96",
+            "parent_id": "t3_c8ki96",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Thehockeyguy213"
+        }
+    }
+}

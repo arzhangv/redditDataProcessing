@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi!\n\nI am interested in JS malware and I want to try to study some recent samples. I know that they are usually obfuscated but I think I can slowly de-obfuscate them.\n\nThe problem is that the few samples I found are kind of old. Is there anything from 2014? Any tips on how to collect such samples?\n\nThanks!",
+        "title": "Javascript Malware Samples",
+        "score": 2,
+        "id": "2cbd1t",
+        "commsNum": 4,
+        "timeStamp": "2014/07/31-23:40:14",
+        "author_name": "the_morbid_reality",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2cbd1t/javascript_malware_samples/"
+    },
+    "posts": {}
+}

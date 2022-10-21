@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hello,\n\nI'm trying to determine the C2 server of the malware that I'm analyzing. My question is do I consider the IP address within the connect API as the C2 server or do I consider the DNS hostname within DNSQuery API as the C2 server?",
+        "title": "Malware Reports within Cuckoo",
+        "score": 1,
+        "id": "sxy7af",
+        "commsNum": 2,
+        "timeStamp": "2022/02/21-08:52:06",
+        "author_name": "calpolygon",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/sxy7af/malware_reports_within_cuckoo/"
+    },
+    "posts": {
+        "hxw52s0": {
+            "comment": "I'm not familiar with Cuckoo but I would tend to say both. The URL can be used for redirects to other compromised infra and the IP is one of the IPs part of the list \"owned\" by the actor",
+            "timeStamp": "2022/02/21-14:56:14",
+            "id": "hxw52s0",
+            "is_submitter": false,
+            "link_id": "t3_sxy7af",
+            "parent_id": "t3_sxy7af",
+            "score": 3,
+            "stickied": false,
+            "author_name": "d3vk47"
+        },
+        "hxvn2wj": {
+            "comment": "I'm not too familiar with Cuckoo but you can run your malware in any of these free sandbox's and it could tell you what network traffic the malware it trying to perform and to where or can you share the Cuckoo report?\n\nAnyrun:\n\n[https://any.run/](https://any.run/)\n\nJoes:\n\n[https://www.joesecurity.org/joe-sandbox-cloud#accounts](https://www.joesecurity.org/joe-sandbox-cloud#accounts)",
+            "timeStamp": "2022/02/21-12:55:15",
+            "id": "hxvn2wj",
+            "is_submitter": false,
+            "link_id": "t3_sxy7af",
+            "parent_id": "t3_sxy7af",
+            "score": 4,
+            "stickied": false,
+            "author_name": "antmar9041"
+        }
+    }
+}

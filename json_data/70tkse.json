@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Malware attacks leverage the Hangul Word Processor and PostScript to spread malware",
+        "score": 1,
+        "id": "70tkse",
+        "commsNum": 0,
+        "timeStamp": "2017/09/18-01:01:10",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/63092/hacking/hangul-word-processor-attacks.html"
+    },
+    "posts": {}
+}

@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hey guys, I think I may have just fallen victim to a web virus. I was typing in the url for github.com but I missed the o and this started redirecting me to random urls before landing me on the classic \"You've got a virus\" page with a popup. It took a couple tries to click out of the popup.\n\nRight after I quite that browser page I noticed my computer was going slower. Did I just F*ck myself with a virus? I put a fresh install of ubuntu on my laptop today, do I have to wipe it again? Could anyone follow that link in a virtual box and let me know if I'm at risk?",
+        "title": "Did I just download a virus?",
+        "score": 0,
+        "id": "75dtsw",
+        "commsNum": 4,
+        "timeStamp": "2017/10/09-18:38:28",
+        "author_name": "__hipster",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/75dtsw/did_i_just_download_a_virus/"
+    },
+    "posts": {
+        "dsnzk0d": {
+            "comment": "it's fake ur computer doesnt get infected\n\nit's social engineering",
+            "timeStamp": "2018/01/14-06:59:30",
+            "id": "dsnzk0d",
+            "is_submitter": false,
+            "link_id": "t3_75dtsw",
+            "parent_id": "t3_75dtsw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "bobsadino"
+        }
+    }
+}

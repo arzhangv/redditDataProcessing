@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Security experts warn of a new piece of the Silex malware that is bricking thousands of IoT devices, and the situation could rapidly go worse.",
+        "score": 20,
+        "id": "c5ymlg",
+        "commsNum": 2,
+        "timeStamp": "2019/06/26-17:34:23",
+        "author_name": "TekOg",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://securityaffairs.co/wordpress/87609/iot/silex-malware-bricks-iot-devices.html"
+    },
+    "posts": {
+        "es5r9qi": {
+            "comment": "Very good, these unpatched Internet of Shit devices should get off the internet.",
+            "timeStamp": "2019/06/27-01:29:58",
+            "id": "es5r9qi",
+            "is_submitter": false,
+            "link_id": "t3_c5ymlg",
+            "parent_id": "t3_c5ymlg",
+            "score": 3,
+            "stickied": false,
+            "author_name": "0xf3e"
+        },
+        "es51jv7": {
+            "comment": "Oof",
+            "timeStamp": "2019/06/26-18:37:29",
+            "id": "es51jv7",
+            "is_submitter": false,
+            "link_id": "t3_c5ymlg",
+            "parent_id": "t3_c5ymlg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Explodingstuff_"
+        }
+    }
+}

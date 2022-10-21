@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "DMA Locker: New Ransomware, But No Reason To Panic",
+        "score": 2,
+        "id": "43ytd3",
+        "commsNum": 0,
+        "timeStamp": "2016/02/02-23:34:35",
+        "author_name": "Maijin",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://blog.malwarebytes.org/news/2016/02/draft-dma-locker-a-new-ransomware-but-no-reason-to-panic/"
+    },
+    "posts": {}
+}

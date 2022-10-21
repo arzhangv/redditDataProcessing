@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hello,i made small btc malicious code in java. Im interesting how taht can be stopped witout losing data(reinstalling pc).I'm new in programming and probably that my code is worst and easy to solve.  \n\n\nHow to run code:You need to have java wm .Export project and save it as startupMalware.jar and run it.  \nWhat the code does?When it run,program put itself to startup folder and if you restart computer,that will start again(cannot escape),put mouse on the right up corner for disabling used of it.Program want btc payment for stop itself.When you pay,code delete itself from startup(didn't delete itself(startupMalware.jar),i must add it).Im interesting is there any way to stop it without sending btc to address?  \n\n\nP.S. Probably this is harmless code since i'm a beginner.Please do not condemn or offend me, because, as I said, I am a beginner.Download the program and run it, then comment. I would like to hear your opinions and suggestions.\n\n [https://github.com/holle197/Bitcoin-malicious-code](https://github.com/holle197/Bitcoin-malicious-code) \n\nI will be so happy if i get some start for this little project :)",
+        "title": "Bitcoin malicious code",
+        "score": 3,
+        "id": "do8lw7",
+        "commsNum": 4,
+        "timeStamp": "2019/10/28-06:08:57",
+        "author_name": "holle197",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/do8lw7/bitcoin_malicious_code/"
+    },
+    "posts": {
+        "f5kuk9d": {
+            "comment": "Thanks, I have been in the programming world for about a year and am learning it myself. This will be my next task. Thanks again.And if you can give me star on github i will be happy a lot.",
+            "timeStamp": "2019/10/28-06:42:34",
+            "id": "f5kuk9d",
+            "is_submitter": true,
+            "link_id": "t3_do8lw7",
+            "parent_id": "t1_f5ktgto",
+            "score": 1,
+            "stickied": false,
+            "author_name": "holle197"
+        },
+        "f5ktgto": {
+            "comment": "A suggestion I have is to create a basic form of ransomware, as with this design I can simply turn off the computer and from a live disk I could delete it from the startup folder. Try seeing if there are multiple methods for having it start up automatically to make it harder to remove. Nice project though.",
+            "timeStamp": "2019/10/28-06:35:34",
+            "id": "f5ktgto",
+            "is_submitter": false,
+            "link_id": "t3_do8lw7",
+            "parent_id": "t3_do8lw7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "IThobby"
+        },
+        "f5ks9r6": {
+            "comment": "thanks a lot, I'll take a look at this. I think I might have come up with something already, but I'll tell you later once I test it out. Interesting project, hopefully, we'll learn a lot from this.",
+            "timeStamp": "2019/10/28-06:27:24",
+            "id": "f5ks9r6",
+            "is_submitter": false,
+            "link_id": "t3_do8lw7",
+            "parent_id": "t1_f5kq5k7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "IThobby"
+        },
+        "f5kq5k7": {
+            "comment": "it should only work in Windows OS.",
+            "timeStamp": "2019/10/28-06:10:12",
+            "id": "f5kq5k7",
+            "is_submitter": true,
+            "link_id": "t3_do8lw7",
+            "parent_id": "t3_do8lw7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "holle197"
+        }
+    }
+}

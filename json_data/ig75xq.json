@@ -1,0 +1,110 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "HOW?: I was trying to legally download Plants Vs. Zombies, but not finding any good place to download it, not even from the official site, so after googling something along the lines of \"Buy Plants Vs. Zombies\" I ended up at [games.lol](https://games.lol) (without realizing it) and downloading it and [games.lol](https://games.lol). I ended up buying it on Steam shortly after because I stopped the download in time, or so I thought.\n\n&amp;#x200B;\n\nWHAT ?: Every times I log onto my computer, it appears. It really overwhelms the PC, as it starts sounding like a jet engine every time it appears.\n\n&amp;#x200B;\n\nHELP?: I've tried googling the answer, but all that comes up is \"Is League of Legends a Virus???\" posts by Karens on Facebook and Buzzfeed.\n\nI've tried looking for the files and deleting the source. When I thought I found the source, I proceeded to put it in the recycling bin and empty it. It didn't change anything.\n\n&amp;#x200B;\n\nPC?: I have a Dell PC with Windows 10 on it, if that helps.\n\n&amp;#x200B;\n\nIf more info is needed, I'll happily oblige",
+        "title": "I accidentally downloaded games.lol onto my computer, and I don't know how to delete it",
+        "score": 1,
+        "id": "ig75xq",
+        "commsNum": 8,
+        "timeStamp": "2020/08/24-23:59:33",
+        "author_name": "StarComet04",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 8,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ig75xq/i_accidentally_downloaded_gameslol_onto_my/"
+    },
+    "posts": {
+        "g2tfv7d": {
+            "comment": "np",
+            "timeStamp": "2020/08/25-09:45:37",
+            "id": "g2tfv7d",
+            "is_submitter": false,
+            "link_id": "t3_ig75xq",
+            "parent_id": "t1_g2tfha2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "lscsmasterrace"
+        },
+        "g2tfha2": {
+            "comment": "Update: Tried everything you and another person suggested, and sadly had to reinstall Windows. It removed it effortlessly, and all I have to do is log into stuff again. Thank you so so so much!",
+            "timeStamp": "2020/08/25-09:42:44",
+            "id": "g2tfha2",
+            "is_submitter": true,
+            "link_id": "t3_ig75xq",
+            "parent_id": "t1_g2s0gsr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "StarComet04"
+        },
+        "g2s94hf": {
+            "comment": "I tried looking for the official game where I could buy it, but I was tired and reckless, and accidentally downloaded bad shit. I do intend to be honest and pay for the stuff I want",
+            "timeStamp": "2020/08/25-02:38:14",
+            "id": "g2s94hf",
+            "is_submitter": true,
+            "link_id": "t3_ig75xq",
+            "parent_id": "t1_g2s0sv9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "StarComet04"
+        },
+        "g2s8yzf": {
+            "comment": "Thank you so much!",
+            "timeStamp": "2020/08/25-02:35:26",
+            "id": "g2s8yzf",
+            "is_submitter": true,
+            "link_id": "t3_ig75xq",
+            "parent_id": "t1_g2s0gsr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "StarComet04"
+        },
+        "g2s70w9": {
+            "comment": "/r/Techsupport please.",
+            "timeStamp": "2020/08/25-01:59:26",
+            "id": "g2s70w9",
+            "is_submitter": false,
+            "link_id": "t3_ig75xq",
+            "parent_id": "t3_ig75xq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RCEdude"
+        },
+        "g2s4oul": {
+            "comment": "https://www.reddit.com/r/techsupport/comments/33evdi/suggested_reading_official_malware_removal_guide/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf",
+            "timeStamp": "2020/08/25-01:16:42",
+            "id": "g2s4oul",
+            "is_submitter": false,
+            "link_id": "t3_ig75xq",
+            "parent_id": "t3_ig75xq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Kiwi_in_a_bag"
+        },
+        "g2s0sv9": {
+            "comment": "I agree with the other guy, run an AV kind of software (maybe start with WinDefender, then Malwarebytes) to see if anything pops up. Worse case scenario, nuke the pc and reinstall windows. Keep in mind when you're backing up your files to install back into the new windows, make sure those files are clean and not possibly infected with malware (would defeat the purpose of reinstall if it just reinfected it all). \n\nalso, we talk about malware-related stuff around here, r/techsupport might be better suited for your post.",
+            "timeStamp": "2020/08/25-00:09:15",
+            "id": "g2s0sv9",
+            "is_submitter": false,
+            "link_id": "t3_ig75xq",
+            "parent_id": "t3_ig75xq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Schnitzel725"
+        },
+        "g2s0gsr": {
+            "comment": "Run MalwareBytes. Scan and remove items. If problem persists, reinstall windows and backup import files to cloud/usb stick. Good luck.",
+            "timeStamp": "2020/08/25-00:03:37",
+            "id": "g2s0gsr",
+            "is_submitter": false,
+            "link_id": "t3_ig75xq",
+            "parent_id": "t3_ig75xq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "lscsmasterrace"
+        }
+    }
+}

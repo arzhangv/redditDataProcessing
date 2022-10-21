@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "VMCloak - Automated Virtual Machine Generation and Cloaking for Cuckoo Sandbox",
+        "score": 29,
+        "id": "3wn0rc",
+        "commsNum": 10,
+        "timeStamp": "2015/12/13-03:48:28",
+        "author_name": "Maijin",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 10,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://vmcloak.org/"
+    },
+    "posts": {}
+}

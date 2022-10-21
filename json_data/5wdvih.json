@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I was looking through my cache and I came across files like Search[1].htm and Search[2].xml and Google[1].htm and thought it was weird for these files to be there since they were basically a snap shot of past searches. Basically the entire google results page when I opened it in chrome. Is this malware related or is it normal to see that in there?\n\nEDIT: Actually its like every page I went to within a certain timeframe was saved into here. Not just pictures and graphics and whatever, but the full page. Is that normal??",
+        "title": "Couple questions about Internet Explorers cache/temp internet files.",
+        "score": 0,
+        "id": "5wdvih",
+        "commsNum": 2,
+        "timeStamp": "2017/02/26-17:34:03",
+        "author_name": "fredfredburger88",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5wdvih/couple_questions_about_internet_explorers/"
+    },
+    "posts": {}
+}

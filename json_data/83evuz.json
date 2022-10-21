@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Sophisticated APT group compromised routers to deliver Slingshot Spyware",
+        "score": 1,
+        "id": "83evuz",
+        "commsNum": 0,
+        "timeStamp": "2018/03/10-04:28:35",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/70067/apt/slingshot-spyware-campaign.html"
+    },
+    "posts": {}
+}

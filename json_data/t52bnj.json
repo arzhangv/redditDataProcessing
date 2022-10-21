@@ -1,0 +1,110 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Conti Ransomware source code leaked by Ukrainian researcher",
+        "score": 1,
+        "id": "t52bnj",
+        "commsNum": 7,
+        "timeStamp": "2022/03/02-07:16:44",
+        "author_name": "DrinkMoreCodeMore",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.bleepingcomputer.com/news/security/conti-ransomware-source-code-leaked-by-ukrainian-researcher/"
+    },
+    "posts": {
+        "i4dbdza": {
+            "comment": "I would assume so, I have been teaching myself to RE using NotPetya as practice and i can definitely say I would prefer the source code hahahaha",
+            "timeStamp": "2022/04/11-18:15:00",
+            "id": "i4dbdza",
+            "is_submitter": false,
+            "link_id": "t3_t52bnj",
+            "parent_id": "t1_hz34cb5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Herr4chan"
+        },
+        "hz5sjc3": {
+            "comment": "The locker.exe encrypts certain files, drops a ransom note in each directory, and adds the file extension \"EXTEN\".   \n\n\nI'm not sure how builder.exe and decryptor.exe work yet.",
+            "timeStamp": "2022/03/03-00:34:53",
+            "id": "hz5sjc3",
+            "is_submitter": false,
+            "link_id": "t3_t52bnj",
+            "parent_id": "t3_t52bnj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "wolfford"
+        },
+        "hz3bsr2": {
+            "comment": "Yeah but they can ignore all of that but instead they actively chose to post on their News/Blog site that they stand with Russia.",
+            "timeStamp": "2022/03/02-12:04:42",
+            "id": "hz3bsr2",
+            "is_submitter": true,
+            "link_id": "t3_t52bnj",
+            "parent_id": "t1_hz3b8z4",
+            "score": 2,
+            "stickied": false,
+            "author_name": "DrinkMoreCodeMore"
+        },
+        "hz3b8z4": {
+            "comment": "kind of hard to remain apolitical though when journalists start reporting out that you were contracted by the FSB to hack and gather intel on an enemy of the state that was opposed to the Kremlin.",
+            "timeStamp": "2022/03/02-12:01:09",
+            "id": "hz3b8z4",
+            "is_submitter": false,
+            "link_id": "t3_t52bnj",
+            "parent_id": "t1_hz2vftx",
+            "score": 3,
+            "stickied": false,
+            "author_name": "bigt252002"
+        },
+        "hz34cb5": {
+            "comment": "&gt;If you are a reverse engineer, the source code may not provide   \nadditional information. However, the source code provides enormous   \ninsight into how the malware works for those who can program in C, but   \nnot necessarily reverse engineer.\n\nI don't get why they would say this. An RE would get just as much info from source code as a programmer would. Do they mean that an RE **who already reversed the binaries** would not gain any new info from the code?",
+            "timeStamp": "2022/03/02-11:17:03",
+            "id": "hz34cb5",
+            "is_submitter": false,
+            "link_id": "t3_t52bnj",
+            "parent_id": "t3_t52bnj",
+            "score": 21,
+            "stickied": false,
+            "author_name": "lurker10001000"
+        },
+        "hz30784": {
+            "comment": "[removed]",
+            "timeStamp": "2022/03/02-10:50:36",
+            "id": "hz30784",
+            "is_submitter": false,
+            "link_id": "t3_t52bnj",
+            "parent_id": "t3_t52bnj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hz2vftx": {
+            "comment": "It really is pretty interesting.\n\nGoes to really show that crime groups should remain apolitical or they then open themselves to be targets by those with opposing views.",
+            "timeStamp": "2022/03/02-10:20:30",
+            "id": "hz2vftx",
+            "is_submitter": true,
+            "link_id": "t3_t52bnj",
+            "parent_id": "t1_hz2ukgd",
+            "score": 9,
+            "stickied": false,
+            "author_name": "DrinkMoreCodeMore"
+        },
+        "hz2ukgd": {
+            "comment": "This is kind of a mind-boggling side effect of Putin invading Ukraine.",
+            "timeStamp": "2022/03/02-10:15:00",
+            "id": "hz2ukgd",
+            "is_submitter": false,
+            "link_id": "t3_t52bnj",
+            "parent_id": "t3_t52bnj",
+            "score": 16,
+            "stickied": false,
+            "author_name": "dataslinger"
+        }
+    }
+}

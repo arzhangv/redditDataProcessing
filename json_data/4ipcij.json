@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I'm a programmer/infosec student, getting into Windows malware analysis. I started by reading the Practical Malware Analysis book, as often recommended. I have finished it, and it was a great starting point.\n\nBut the book is pretty old now, it doesn't really cover anything that happened after Windows XP. I would like to learn more about the topics not covered in this book. I'm thinking ransomware, malicious documents, security techniques since Vista (like ASLR) and how it changed malware. \n\nI'm mainly looking for theoretical resources (books, papers) preferably with some exercises. Even a list of topics or words to Google would be very helpful (topics about Windows malware analysis not covered in Practical Malware Analysis). ",
+        "title": "Learning resources after Practical Malware Analysis?",
+        "score": 24,
+        "id": "4ipcij",
+        "commsNum": 25,
+        "timeStamp": "2016/05/10-07:04:08",
+        "author_name": "bbluff",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 25,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/4ipcij/learning_resources_after_practical_malware/"
+    },
+    "posts": {}
+}

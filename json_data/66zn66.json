@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Learn how to inject code into an ELF binary:\n\nFind the entrypoint, overwrite it with your own:\nPart 1: https://www.youtube.com/watch?v=bdNCcYddYEU\n\nFind a place in the binary to inject code and inject it\nPart 2: https://www.youtube.com/watch?v=PIPGbzurhhI&amp;feature=youtu.be\n\nPart 3 to come -- will show how to backdoor a binary or write your own ELF encryptor (of sorts.)\n\nRelatively basic but I think it's good to understand how this works as I'm sure it can be used to write basic elf cryptors/virii etc ",
+        "title": "Injecting code into an ELF binary how-to",
+        "score": 32,
+        "id": "66zn66",
+        "commsNum": 6,
+        "timeStamp": "2017/04/22-18:22:01",
+        "author_name": "shekkys",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/66zn66/injecting_code_into_an_elf_binary_howto/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Can someone help me determine if theres any risk on this website analyzed by Hybrid Analysis?\n\nIt shows a DNS request to [indestructibletype\\*com](https://www.hybrid-analysis.com/search?query=domain%3Aindestructibletype.com) which appears to be a github repo hosting malware?",
+        "title": "Hybrid Analysis - Review of website",
+        "score": 1,
+        "id": "vnfij6",
+        "commsNum": 0,
+        "timeStamp": "2022/06/29-06:12:23",
+        "author_name": "oleoc",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/vnfij6/hybrid_analysis_review_of_website/"
+    },
+    "posts": {
+        "ihujhkl": {
+            "comment": "indestructibletype . com is a site for font hosting and not malicious.\nApart from that the site needs you to log in. No one can tell you what happens if you do.",
+            "timeStamp": "2022/07/27-06:15:45",
+            "id": "ihujhkl",
+            "is_submitter": false,
+            "link_id": "t3_vnfij6",
+            "parent_id": "t3_vnfij6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Struppigel"
+        }
+    }
+}

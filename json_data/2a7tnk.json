@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Attacks before system startup",
+        "score": 4,
+        "id": "2a7tnk",
+        "commsNum": 1,
+        "timeStamp": "2014/07/08-22:51:09",
+        "author_name": "N3mes1s",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://securelist.com/blog/research/63725/attacks-before-system-startup/"
+    },
+    "posts": {}
+}

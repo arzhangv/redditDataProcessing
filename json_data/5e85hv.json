@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Complete malware/sec noob (though long time computer professional). Recently I've been taking time to try and figure out what a piece of malware is trying to do, rather than just running scans/cleanup on machines. \n\nHad one today that was a very obvious macro virus. Even I was able to figure out how to get into the macros and see it was trying to open Powershell and download some PHP stuff, though the macros were password protected (found a script to remove the password).\n\nI uploaded the file to VirusTotal, however, and only like 25 of the 55 engines flagged it as bad. I would have thought this would have been a no-brainer detection, but some fairly major ones like McAfee didn't see it.\n\nAre there any other sites like VirusTotal that are useful for analyzing files? ",
+        "title": "Malware analysis sites?",
+        "score": 17,
+        "id": "5e85hv",
+        "commsNum": 12,
+        "timeStamp": "2016/11/21-18:07:44",
+        "author_name": "jayhawk88",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 12,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5e85hv/malware_analysis_sites/"
+    },
+    "posts": {}
+}

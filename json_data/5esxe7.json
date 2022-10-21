@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "(Yes I read the rules! I'm not asking for technical support, technically)  \n  \nSo today I got the first spam email within month and it even had a zip file attached. ( Thats actually it, no body, no subject)   \nBeing very curious about what this file called \"INFO_387381851_myfirstname\" is I immediately started my shitty 300mb RAM Debian box and after 5min of intense booting logged in and downloaded it. Taking a look inside the zip I found... another zip file  (Someone probaly thought It'll compress it even more ^^ )   \n\nThe second zip is called \"MONEY_28966_ZIP.zip\", heck - is that nigerian prince finally sending me my money back?   \nI guess not, in there is just a single .js file. At this point I expected some executable with a sneaky hideous name... but just a js file was kinda dissapointing.  \nOpening it up only revealed some thoroughly obfuscated JavaScript code:\nhttp://hastebin.com/sijexegoqo.sm  \nDeobfuscating this manually was only considered for a fraction of a second after looking at it so I just ended up pushing it through some online deobfuscators. After all, I couldn't even run it. But the furthest they got was:\n`0. return upvuqab[idwunharg].pop  `  \n`1. return 'Scripting.FileSystemObject';`  \n`2. var ahcicx = WScript.CreateObject(puxijug6); var rezlime31 = ahcicx.GetFileVersion('C:\\\\\\\\Windows'); if(rezlime31 == '') return true;`  \n`3. TypeError: WScript.CreateObject is not a function`  \n  \n\nAs it turns out, the script is trying to use WScript which is according to my research an object provided by the W/CScript.exe hosts so I probably had to use Windows's MSHTA.exe to even run the thing.  \nUnfortunately im on a Mac. I really wan't to know what it's doing tho...   \n\nWhat can I do at this point?\n",
+        "title": "Trying to deobfuscate windows targeted malicious JS file",
+        "score": 23,
+        "id": "5esxe7",
+        "commsNum": 7,
+        "timeStamp": "2016/11/25-02:14:33",
+        "author_name": "Minzkraut",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5esxe7/trying_to_deobfuscate_windows_targeted_malicious/"
+    },
+    "posts": {}
+}

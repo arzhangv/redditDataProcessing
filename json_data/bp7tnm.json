@@ -1,0 +1,187 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[removed]",
+        "title": "Is there a fix (or even an identification) for thumbnail drive malware at Mar-a-lago?",
+        "score": 1,
+        "id": "bp7tnm",
+        "commsNum": 15,
+        "timeStamp": "2019/05/15-20:41:38",
+        "author_name": "PeterfromNY",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 15,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/bp7tnm/is_there_a_fix_or_even_an_identification_for/"
+    },
+    "posts": {
+        "eqace85": {
+            "comment": "I found an article in [Ars Technica](https://stackoverflow.com/questions/56498907/can-you-stop-a-virus-running-itself-from-flash-memories-thumbnail-drive) from 5 years ago calling this BadUSB.  And apparently, Stuxnet was such a virus.\n\nI escalated this problem to [StackOverflow](https://stackoverflow.com/questions/56498907/can-you-stop-a-virus-running-itself-from-flash-memories-thumbnail-drive), since I've sadly hit a dead end on Reddit.",
+            "timeStamp": "2019/06/07-10:56:24",
+            "id": "eqace85",
+            "is_submitter": true,
+            "link_id": "t3_bp7tnm",
+            "parent_id": "t1_ens3nk0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "PeterfromNY"
+        },
+        "enzt853": {
+            "comment": "&gt;Linux live CD\n\nTIL:\n\n&gt; [Linux live operating systems](https://www.pcsuggest.com/best-linux-live-distro/) are the **linux** distributions which can be booted directly from a **CD** or USB drive without installation, without making any changes to the existing system. \n\nAnd thus: cannot be altered by a virus.",
+            "timeStamp": "2019/05/17-20:22:44",
+            "id": "enzt853",
+            "is_submitter": true,
+            "link_id": "t3_bp7tnm",
+            "parent_id": "t1_enww7lj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "PeterfromNY"
+        },
+        "enzs831": {
+            "comment": "&gt;Linux live CD\n\nTIL:\n\n&gt; [Linux live operating systems](https://www.pcsuggest.com/best-linux-live-distro/) are the **linux** distributions which can be booted directly from a **CD** or USB drive without installation, without making any changes to the existing system. \n\nAnd thus: cannot be altered by a virus.",
+            "timeStamp": "2019/05/17-20:18:24",
+            "id": "enzs831",
+            "is_submitter": true,
+            "link_id": "t3_bp7tnm",
+            "parent_id": "t1_enww7lj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "PeterfromNY"
+        },
+        "enzs3tf": {
+            "comment": "&gt;Linux live CD\n\nTIL:\n\n&gt; [Linux live operating systems](https://www.pcsuggest.com/best-linux-live-distro/) are the **linux** distributions which can be booted directly from a **CD** or USB drive without installation, without making any changes to the existing system. \n\nAnd thus: cannot be altered by a virus.",
+            "timeStamp": "2019/05/17-20:17:53",
+            "id": "enzs3tf",
+            "is_submitter": true,
+            "link_id": "t3_bp7tnm",
+            "parent_id": "t1_enww7lj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "PeterfromNY"
+        },
+        "enzrkou": {
+            "comment": "&gt;Linux live CD\n\nTIL:\n\n&gt; [Linux live operating systems](https://www.pcsuggest.com/best-linux-live-distro/) are the **linux** distributions which can be booted directly from a **CD** or USB drive without installation, without making any changes to the existing system. \n\nAnd thus: cannot be altered by a virus.",
+            "timeStamp": "2019/05/17-20:15:35",
+            "id": "enzrkou",
+            "is_submitter": true,
+            "link_id": "t3_bp7tnm",
+            "parent_id": "t1_enww7lj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "PeterfromNY"
+        },
+        "enzrjfy": {
+            "comment": "&gt;Linux live CD\n\nTIL:\n\n&gt; [Linux live operating systems](https://www.pcsuggest.com/best-linux-live-distro/) are the **linux** distributions which can be booted directly from a **CD** or USB drive without installation, without making any changes to the existing system. \n\nAnd thus: cannot be altered by a virus.",
+            "timeStamp": "2019/05/17-20:15:26",
+            "id": "enzrjfy",
+            "is_submitter": true,
+            "link_id": "t3_bp7tnm",
+            "parent_id": "t1_enww7lj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "PeterfromNY"
+        },
+        "enysiyy": {
+            "comment": "But is it that difficult for McAfee to have that ability?",
+            "timeStamp": "2019/05/17-16:00:33",
+            "id": "enysiyy",
+            "is_submitter": true,
+            "link_id": "t3_bp7tnm",
+            "parent_id": "t1_enww7lj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "PeterfromNY"
+        },
+        "enww7lj": {
+            "comment": "There's no software besides anti-virus and endpoint protection tools which would disable access to the USB ports or only permit certain kinds of devices to be inserted.\n\nYour best bet is an offline machine, possibly running a Linux live CD.",
+            "timeStamp": "2019/05/17-07:57:06",
+            "id": "enww7lj",
+            "is_submitter": false,
+            "link_id": "t3_bp7tnm",
+            "parent_id": "t1_enww42z",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RussianToCollusion"
+        },
+        "enww42z": {
+            "comment": "I agree. But I\u2019d like to get software that guards against such drives.",
+            "timeStamp": "2019/05/17-07:56:11",
+            "id": "enww42z",
+            "is_submitter": true,
+            "link_id": "t3_bp7tnm",
+            "parent_id": "t1_enwvz93",
+            "score": 1,
+            "stickied": false,
+            "author_name": "PeterfromNY"
+        },
+        "enwvz93": {
+            "comment": "&gt; Well, if you were on Mar-a-lago, how would you test the thumbnail drive?\n\nI'd send it to some kind of lab where it could be plugged into a special computer (no network access, maybe read only storage or something) and test it there.",
+            "timeStamp": "2019/05/17-07:54:54",
+            "id": "enwvz93",
+            "is_submitter": false,
+            "link_id": "t3_bp7tnm",
+            "parent_id": "t1_enwvoh3",
+            "score": 2,
+            "stickied": false,
+            "author_name": "RussianToCollusion"
+        },
+        "enwvrvl": {
+            "comment": "It was later determined to be malware (and malicious activity).  \n\nI think the problem is that the AV software doesn't do an automatic scan when you insert a thumbnail drive.",
+            "timeStamp": "2019/05/17-07:52:54",
+            "id": "enwvrvl",
+            "is_submitter": true,
+            "link_id": "t3_bp7tnm",
+            "parent_id": "t1_enu1d9r",
+            "score": 1,
+            "stickied": false,
+            "author_name": "PeterfromNY"
+        },
+        "enwvoh3": {
+            "comment": "Yes, I was expecting a public report; at least so the good guys can try to stop it.\n\n&gt; Plugging random drives into a Secret Service laptop is the problem. \n\nWell, if you were on Mar-a-lago, how would you test the thumbnail drive?",
+            "timeStamp": "2019/05/17-07:51:56",
+            "id": "enwvoh3",
+            "is_submitter": true,
+            "link_id": "t3_bp7tnm",
+            "parent_id": "t1_ens3nk0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "PeterfromNY"
+        },
+        "enu1d9r": {
+            "comment": "Realize in a lot of cases, when you insert a new device, be it a thumb drive or peripheral, it tries to install drivers by default. I\u2019d need a bit more of an understanding before I look at this as malicious activity.",
+            "timeStamp": "2019/05/16-16:51:59",
+            "id": "enu1d9r",
+            "is_submitter": false,
+            "link_id": "t3_bp7tnm",
+            "parent_id": "t3_bp7tnm",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Quasimorte"
+        },
+        "ens3nk0": {
+            "comment": "&gt; Does anyone know the name of the virus?\n\nWhat are you expecting? A public report documenting how stupid that Secret Service agent was?\n\n&gt; Can standard anti-virus software (e.g. McAfee) handle this situation? (I don't think so.)\n\nImpossible to say without knowing the malware. Most likely. \n\n&gt; I believe McAfee (which I use, so I'm not picking on them) passively allows the thumbnail drive to be inserted, and only then can you request a custom scan. I'm not sure how that's done.\n\nThat doesn't sound accurate. An AV that doesn't automatically scan an inserted USB drive?\n\n&gt; So, is this a big problem?\n\nPlugging random drives into a Secret Service laptop is the problem.",
+            "timeStamp": "2019/05/16-09:23:19",
+            "id": "ens3nk0",
+            "is_submitter": false,
+            "link_id": "t3_bp7tnm",
+            "parent_id": "t3_bp7tnm",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RussianToCollusion"
+        },
+        "enpn743": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2019/05/15-20:41:39",
+            "id": "enpn743",
+            "is_submitter": false,
+            "link_id": "t3_bp7tnm",
+            "parent_id": "t3_bp7tnm",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

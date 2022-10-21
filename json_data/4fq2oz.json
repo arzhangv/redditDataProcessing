@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "This is somewhat new to me. Doc came to us and our av didnt detect anything and the person already executed the word doc. Since it didnt appear to do anything I took no chance and had the system wiped. I been messing around with oledump but most of the code is obfuscated so I can't really make heads or tales from it. Anyone good at this sort of thing?\n\nhttp://pastebin.com/gC7f9GYz",
+        "title": "Obfuscating Malware word doc",
+        "score": 2,
+        "id": "4fq2oz",
+        "commsNum": 3,
+        "timeStamp": "2016/04/20-15:56:41",
+        "author_name": "greyclear",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/4fq2oz/obfuscating_malware_word_doc/"
+    },
+    "posts": {}
+}

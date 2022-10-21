@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Reversing Engineering Syscalls - How RedTeamers Are Using Them To Evade Detection (OALABS Stream)",
+        "score": 1,
+        "id": "qt7nzp",
+        "commsNum": 0,
+        "timeStamp": "2021/11/13-10:57:10",
+        "author_name": "herrcore",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://youtu.be/Uba3SQH2jNE"
+    },
+    "posts": {}
+}

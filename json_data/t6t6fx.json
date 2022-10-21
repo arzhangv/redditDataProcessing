@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "[removed]",
+        "title": "anybody know what this is i tried searching it up and could not find it.",
+        "score": 1,
+        "id": "t6t6fx",
+        "commsNum": 1,
+        "timeStamp": "2022/03/04-13:17:15",
+        "author_name": "AshIsAturtle",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/t6t6fx/anybody_know_what_this_is_i_tried_searching_it_up/"
+    },
+    "posts": {
+        "hzgpdrf": {
+            "comment": "[removed]",
+            "timeStamp": "2022/03/05-08:02:30",
+            "id": "hzgpdrf",
+            "is_submitter": false,
+            "link_id": "t3_t6t6fx",
+            "parent_id": "t3_t6t6fx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

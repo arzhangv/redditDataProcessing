@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "TeslaCrypt 4.0 - Unbreakable Encryption and Worse Data Leakage",
+        "score": 1,
+        "id": "4b9r3r",
+        "commsNum": 0,
+        "timeStamp": "2016/03/20-16:02:36",
+        "author_name": "tomisnik",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://heimdalsecurity.com/blog/security-alert-teslacrypt-4-0-unbreakable-encryption-worse-data-leakage/"
+    },
+    "posts": {}
+}

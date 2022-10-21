@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I\u2019m trying to take a bunch of fuzzed domains and run them through some sort of OSINT website/API and get back a Malicious/Risk score, however I\u2019m having trouble finding a good website/API to do so. Any suggestions? (~40 Domains)",
+        "title": "Risk/Mal Score Suggestions",
+        "score": 3,
+        "id": "castyn",
+        "commsNum": 3,
+        "timeStamp": "2019/07/08-16:40:11",
+        "author_name": "ovviorivolta",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/castyn/riskmal_score_suggestions/"
+    },
+    "posts": {
+        "etb85a4": {
+            "comment": "If you have money, [SpiderFoot](https://www.spiderfoot.net/).",
+            "timeStamp": "2019/07/08-19:31:17",
+            "id": "etb85a4",
+            "is_submitter": false,
+            "link_id": "t3_castyn",
+            "parent_id": "t3_castyn",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DrinkMoreCodeMore"
+        },
+        "etax8l1": {
+            "comment": "Try this python script located on GitHub:\n\nhttps://github.com/markbaggett/freq",
+            "timeStamp": "2019/07/08-17:18:46",
+            "id": "etax8l1",
+            "is_submitter": false,
+            "link_id": "t3_castyn",
+            "parent_id": "t3_castyn",
+            "score": 2,
+            "stickied": false,
+            "author_name": "washedupturtle"
+        },
+        "etaw65a": {
+            "comment": "domaintools.com",
+            "timeStamp": "2019/07/08-17:05:51",
+            "id": "etaw65a",
+            "is_submitter": false,
+            "link_id": "t3_castyn",
+            "parent_id": "t3_castyn",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mr-satan"
+        }
+    }
+}

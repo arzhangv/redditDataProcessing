@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I have malware I run across daily at my job. I don't *have* to keep track of them or anything but I'd like to start a personal/internal database. I have a very expensive appliance that does analysis, but the reporting lacks in a lot of ways and I'm looking for more of a good storage system.  \n\nSo I'm looking for a system that maybe does barebones static analysis of executables (hashes, strings, imports, etc). I'm looking for something with a web interface to upload files and a decent search function. Like show me all samples with \"something\" in strings, show me all files with user32.dll as an import, show me all files compiled before X time that are larger than X, files with \"something else\" in the notes, etc. Something like mastiff looks good for data gathering but there's no search interface as far as I can tell from reading up on it. I've just been storing samples in a folder but I need something better.\n\nSo what do you guys use? Or do you have any suggestions?",
+        "title": "What do you use for a malware zoo?",
+        "score": 5,
+        "id": "307mwr",
+        "commsNum": 4,
+        "timeStamp": "2015/03/24-19:58:40",
+        "author_name": "[deleted]",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/307mwr/what_do_you_use_for_a_malware_zoo/"
+    },
+    "posts": {}
+}

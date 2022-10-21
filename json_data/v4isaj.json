@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "A detailed analysis of North Korea's Lazarus APT malware disguised as Notepad++ Shell Extension",
+        "score": 1,
+        "id": "v4isaj",
+        "commsNum": 0,
+        "timeStamp": "2022/06/03-23:19:25",
+        "author_name": "CyberMasterV",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://cybergeeks.tech/a-detailed-analysis-of-lazarus-malware-disguised-as-notepad-shell-extension/"
+    },
+    "posts": {
+        "ib7us6c": {
+            "comment": "Out of curiosity any reason why my VPN (DigitalOcean VPS via WireGuard) gets a 403 forbidden? I can access just fine without my VPN.",
+            "timeStamp": "2022/06/04-21:05:39",
+            "id": "ib7us6c",
+            "is_submitter": false,
+            "link_id": "t3_v4isaj",
+            "parent_id": "t1_ib4l8yc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "KindOne"
+        },
+        "ib5j5d6": {
+            "comment": "Thanks for your feedback!",
+            "timeStamp": "2022/06/04-08:20:40",
+            "id": "ib5j5d6",
+            "is_submitter": true,
+            "link_id": "t3_v4isaj",
+            "parent_id": "t1_ib511yj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "CyberMasterV"
+        },
+        "ib511yj": {
+            "comment": "Very good write up on the guts of this malware.\n\nThe only thing I would add is a short \"Summary\" section on the file itself.\n\ne.x.:\nMD5 \t\t35cc6016d1b316eaa6af1cc0713715c9\nSHA-1 \t\t984512ec588ebcfc743aee25a94a4e71fec65968\nSHA-256 \t803dda6c8dc426f1005acdf765d9ef897dd502cd8a80632eef4738d1d7947269 \n\nFile type \tWin32 DLL\nMagic \t\tPE32 executable for MS Windows (DLL) (GUI) Intel 80386 32-bit\nTrID \t\tWindows ActiveX control (81.7%) \n\nAnd a short summary of where the .DLL was obtained.",
+            "timeStamp": "2022/06/04-05:10:33",
+            "id": "ib511yj",
+            "is_submitter": false,
+            "link_id": "t3_v4isaj",
+            "parent_id": "t3_v4isaj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Farstone"
+        },
+        "ib4l8yc": {
+            "comment": "Thank you!",
+            "timeStamp": "2022/06/04-00:57:08",
+            "id": "ib4l8yc",
+            "is_submitter": true,
+            "link_id": "t3_v4isaj",
+            "parent_id": "t1_ib4ks5e",
+            "score": 1,
+            "stickied": false,
+            "author_name": "CyberMasterV"
+        },
+        "ib4ks5e": {
+            "comment": "A genuinely technically informative write up. Nice.",
+            "timeStamp": "2022/06/04-00:49:07",
+            "id": "ib4ks5e",
+            "is_submitter": false,
+            "link_id": "t3_v4isaj",
+            "parent_id": "t3_v4isaj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mepher"
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "What kind of knowledge do you need for it? Is it something you learn automatically the more you program? (\" If you've got talent you'll learn in due time\")? I'm merely curious since I've been reading a lot about coding in general and it seems malware coding is even more difficult then game coding. And you need high tier math for shadows/physics for animating. Apologies for being a script kiddy with silly questions but curiosity gets the best of me.\n\nHumiliated myself, huh?",
+        "title": "How hard is it to code or learn to write Malware?",
+        "score": 0,
+        "id": "4e7rgf",
+        "commsNum": 15,
+        "timeStamp": "2016/04/10-14:45:29",
+        "author_name": "PinkPantherino",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 15,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/4e7rgf/how_hard_is_it_to_code_or_learn_to_write_malware/"
+    },
+    "posts": {
+        "id7knxy": {
+            "comment": "Sorry - got pretty busy planning a trip, but glad to see you found some good answers in that Discord server. If you want to learn how to make a reverse shell, honestly, just start making one in C# if you are already interested in learning it. Start with an HTTP server. This is what your malware will call out to. Then write an operator client that lets you set the next command to be executed. Finally, create the malware itself which will call out to the server and execute whatever command is there. Try to do this in an isolated environment or just on your own computer. Once you've got that working, just start adding features. Obviously, you will need to encrypt the communication channel - so look into using HTTPS. After that, maybe add some special commands... for example, something like `getinfo` which gets the OS version, current username, and uptime (or whatever). You can look into process injection and all sorts of cool windows exploitation techniques. It's a great platform to learn about Winapi, malware dev, and basic security concepts. You can even add silly stuff and work on graphics programming if you want to do something like, I dunno, render a 3d skull on the client side. Feel free to just go with whatever you are interested in, but try to lay out plans for features you want it to do. If you don't know what features you want, maybe spend some time learning what other malware like cobalt strike or meterpreter are doing. \n\nI don't really have any great books on this. A lot of the commonly recommended ones are pretty old, but they do get updates - like gray hat python, black hat python, etc. I haven't read any books on this specific topic. I think others have made this pretty clear, but really, your goal is to learn how to code well. Then you just write malicious code.",
+            "timeStamp": "2022/06/21-11:20:26",
+            "id": "id7knxy",
+            "is_submitter": false,
+            "link_id": "t3_4e7rgf",
+            "parent_id": "t1_icvx3yn",
+            "score": 1,
+            "stickied": false,
+            "author_name": "p337"
+        },
+        "icvx3yn": {
+            "comment": "Thanks so much! The reason I'm talking about malware dev is that's what really interested with me. I love learning how it behaves with Windows and how diverse it is. I'll definitely take your advice about learning more about anti cheat for games. I still want to look into malware dev though. The kind of malware I'm interested in is reverse shells, keyloggers, RATs and meme viruses like the MEMZ virus cuz it's funny. What would you recommend I look at to learn. Any courses, books or websites that cab really help? \nThanks",
+            "timeStamp": "2022/06/18-16:24:32",
+            "id": "icvx3yn",
+            "is_submitter": false,
+            "link_id": "t3_4e7rgf",
+            "parent_id": "t1_icv4d62",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Astral_Parallax"
+        },
+        "icv4d62": {
+            "comment": "Hey, if it's cool, I prefer responding here rather than chat. So, things have changed a bit in the last 6 years, but I still work in OffSec. I currently am on the main red team for one of the big tech companies. \n\n&gt; How did you get your job and how would i get a career in that field\n\nSo, everyone takes a different path. I studied computer science for my bachelors, then worked as a web developer, then got a masters in cybersecurity, and finally landed a job in offsec while I was working on my masters (about 60% of the way through). That does not need to be your path. The main thing I would impart on you is that you need to be persistent. You may have heard the term \"APT\" or Advanced Persistent Threat, which refers to nation state attackers. Our job in offsec is to emulate their behavior (or approximate it at least), so focus on being advanced and persistent. Of course \"persistent\" is referring to something a little different for them, lol, but I think it's the biggest factor in me landing a job in offsec. I had terrible grades, I am not a prodigy or master coder or anything like that, but I stuck with it. I would recommend /r/netsecstudents and the discord server associated with it. I mod that subreddit, and I try really hard not to let it get spammy like other cyber subreddits on this site tend to get. There's a lot of smart folks in the discord server, but it's pretty quiet unless someone brings up a topic/question - so feel free to do that there. \n\nI think you should think about malware dev a little differently. For the most part, it's not really that different from any kind of development. I write malware for various exercises, but it always has some purpose. I recently wrote a very basic python script that checks for certain conditions and runs a company-specific command. It's dead simple, but it helped us accomplish a key goal of our exercise. It was also something a beginner programmer could have written. As far as CTFs, I haven't done many, but they are great to work on. I would say just jump in and try to find some beginner-friendly ones. You'll get better with time and probably not know wtf is going on at the beginning - just don't let that discourage you. As far as programming language, C++ is fine. Python is good. It really doesn't matter too much. Just learn one, and then learn another,  and eventually you'll choose the language based on the use case. \n\nAs far as what to do after you learned a programming language, I would say to come up with a cool project. It doesn't have to be some novel thing no one has ever done. It can just be something you're interested in or a project idea you find online. It kind of depends on your skill level there... but that's the most effective way for me to learn. A bonus is that you get to post it to github (or similar) and start building a portfolio. \n\nI think reverse engineering malware is an entire area of study on it's own, and it's probably the hardest way I could think of learning how to make malware. I don't really know anything about reverse engineering myself. It's still a great skillset to have, but it's not easy. The main takeaway for this is that a good malware developer is a good developer first. There are some malware specific tricks, but often those are what get your malware detected anyway. Since you like game dev and malware, you may want to look into anticheat software as well as anticheat bypasses. You can sometimes find these on github. I wouldn't really suggest you getting into cheating development, but I find it really interesting to see what they do. \n\nOkay, I kinda just word vomited whatever was on my mind. Feel free to reply with followups any time. Good luck in your studies!",
+            "timeStamp": "2022/06/18-12:28:27",
+            "id": "icv4d62",
+            "is_submitter": false,
+            "link_id": "t3_4e7rgf",
+            "parent_id": "t1_ict7fvt",
+            "score": 1,
+            "stickied": false,
+            "author_name": "p337"
+        },
+        "ict7fvt": {
+            "comment": "Hey i sent you a DM about some advice for pentesting. Could you please take a look? :)",
+            "timeStamp": "2022/06/18-01:01:00",
+            "id": "ict7fvt",
+            "is_submitter": false,
+            "link_id": "t3_4e7rgf",
+            "parent_id": "t1_d1xsq3s",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Astral_Parallax"
+        }
+    }
+}

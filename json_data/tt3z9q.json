@@ -1,0 +1,220 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hey guys, I'm new here, and I want to ask if anybody knows a huge malware sample collection, like 2000-2010 malwares, since I'm starting to collect those and just curious on what they do, their behaviors and everything else, they are fascinating to me and I want to learn more about them thanks for the response",
+        "title": "Any ideas on a good Malware Archives",
+        "score": 1,
+        "id": "tt3z9q",
+        "commsNum": 0,
+        "timeStamp": "2022/03/31-09:44:56",
+        "author_name": "briangwapo81",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/tt3z9q/any_ideas_on_a_good_malware_archives/"
+    },
+    "posts": {
+        "i77a4cl": {
+            "comment": "I put together around 200K raw PE samples labeled as best I could.\n\nhttps://practicalsecurityanalytics.com/pe-malware-machine-learning-dataset/",
+            "timeStamp": "2022/05/03-13:00:54",
+            "id": "i77a4cl",
+            "is_submitter": false,
+            "link_id": "t3_tt3z9q",
+            "parent_id": "t3_tt3z9q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "FusionCarcass"
+        },
+        "i4jlrav": {
+            "comment": "Next step: Malware can now reside in integers",
+            "timeStamp": "2022/04/13-02:21:56",
+            "id": "i4jlrav",
+            "is_submitter": false,
+            "link_id": "t3_tt3z9q",
+            "parent_id": "t1_i2xsbyu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "coconut_dot_jpg"
+        },
+        "i30y2cr": {
+            "comment": "https://github.com/fabrimagic72/malware-samples",
+            "timeStamp": "2022/04/01-13:05:29",
+            "id": "i30y2cr",
+            "is_submitter": false,
+            "link_id": "t3_tt3z9q",
+            "parent_id": "t1_i30xxzj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "External-Plus"
+        },
+        "i30xxzj": {
+            "comment": "https://github.com/R00tS3c/DDOS-RootSec",
+            "timeStamp": "2022/04/01-13:04:38",
+            "id": "i30xxzj",
+            "is_submitter": false,
+            "link_id": "t3_tt3z9q",
+            "parent_id": "t3_tt3z9q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "External-Plus"
+        },
+        "i2z6bkp": {
+            "comment": "Here are a few:\n\nhttps://bazaar.abuse.ch/browse/\n\nhttps://thezoo.morirt.com/\n\nhttps://samples.vx-underground.org/",
+            "timeStamp": "2022/04/01-05:46:59",
+            "id": "i2z6bkp",
+            "is_submitter": false,
+            "link_id": "t3_tt3z9q",
+            "parent_id": "t3_tt3z9q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "lawrencesystems"
+        },
+        "i2y4jd1": {
+            "comment": "malwat.ch",
+            "timeStamp": "2022/03/31-22:13:47",
+            "id": "i2y4jd1",
+            "is_submitter": false,
+            "link_id": "t3_tt3z9q",
+            "parent_id": "t3_tt3z9q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Bakoubak"
+        },
+        "i2xsbyu": {
+            "comment": "the malware... is evolving",
+            "timeStamp": "2022/03/31-20:18:01",
+            "id": "i2xsbyu",
+            "is_submitter": false,
+            "link_id": "t3_tt3z9q",
+            "parent_id": "t1_i2xb5gk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "tech_hundredaire"
+        },
+        "i2xqsvm": {
+            "comment": "[removed]",
+            "timeStamp": "2022/03/31-20:05:11",
+            "id": "i2xqsvm",
+            "is_submitter": false,
+            "link_id": "t3_tt3z9q",
+            "parent_id": "t3_tt3z9q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "i2xb5gk": {
+            "comment": "How is the password infected???! I didn\u2019t know a string could be infected with malware",
+            "timeStamp": "2022/03/31-18:04:31",
+            "id": "i2xb5gk",
+            "is_submitter": false,
+            "link_id": "t3_tt3z9q",
+            "parent_id": "t1_i2vvtli",
+            "score": 1,
+            "stickied": false,
+            "author_name": "blue_Kazoo82"
+        },
+        "i2wgkkf": {
+            "comment": "[removed]",
+            "timeStamp": "2022/03/31-14:24:46",
+            "id": "i2wgkkf",
+            "is_submitter": false,
+            "link_id": "t3_tt3z9q",
+            "parent_id": "t1_i2wf8lw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "i2wgiml": {
+            "comment": "[removed]",
+            "timeStamp": "2022/03/31-14:24:25",
+            "id": "i2wgiml",
+            "is_submitter": false,
+            "link_id": "t3_tt3z9q",
+            "parent_id": "t3_tt3z9q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "i2wf8lw": {
+            "comment": "I ain't got anything but be safe like use 2 vm and stuff",
+            "timeStamp": "2022/03/31-14:16:07",
+            "id": "i2wf8lw",
+            "is_submitter": false,
+            "link_id": "t3_tt3z9q",
+            "parent_id": "t3_tt3z9q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "tesla_fanboy_reddit"
+        },
+        "i2wcot4": {
+            "comment": "[removed]",
+            "timeStamp": "2022/03/31-13:59:32",
+            "id": "i2wcot4",
+            "is_submitter": false,
+            "link_id": "t3_tt3z9q",
+            "parent_id": "t3_tt3z9q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "i2waiq0": {
+            "comment": "There's also https://www.virusshare.com/",
+            "timeStamp": "2022/03/31-13:45:52",
+            "id": "i2waiq0",
+            "is_submitter": false,
+            "link_id": "t3_tt3z9q",
+            "parent_id": "t3_tt3z9q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Nonner_Party"
+        },
+        "i2vvtli": {
+            "comment": "[vx-underground.org](https://vx-underground.org)\n\nDo not forget to ask passwords of the files.",
+            "timeStamp": "2022/03/31-12:11:36",
+            "id": "i2vvtli",
+            "is_submitter": false,
+            "link_id": "t3_tt3z9q",
+            "parent_id": "t3_tt3z9q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "umuttosun"
+        },
+        "i2vux4i": {
+            "comment": "[https://www.malware-traffic-analysis.net/](https://www.malware-traffic-analysis.net/)\n\nHas samples, pcaps, analysis.",
+            "timeStamp": "2022/03/31-12:05:40",
+            "id": "i2vux4i",
+            "is_submitter": false,
+            "link_id": "t3_tt3z9q",
+            "parent_id": "t3_tt3z9q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Ottonym"
+        },
+        "i2vos81": {
+            "comment": "Check out vx-underground",
+            "timeStamp": "2022/03/31-11:26:08",
+            "id": "i2vos81",
+            "is_submitter": false,
+            "link_id": "t3_tt3z9q",
+            "parent_id": "t3_tt3z9q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "n0bugz"
+        },
+        "i2vli9i": {
+            "comment": "Malshare",
+            "timeStamp": "2022/03/31-11:05:12",
+            "id": "i2vli9i",
+            "is_submitter": false,
+            "link_id": "t3_tt3z9q",
+            "parent_id": "t3_tt3z9q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Tear-Sensitive"
+        }
+    }
+}

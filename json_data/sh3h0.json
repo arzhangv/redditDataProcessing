@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Sorry if this isn't the right place to post this, though I hope it is.\n\nFrom my point of view, there are a lot of features malware uses that are treated almost like dark arts, they just 'happen'.  An example of this that I've come across is that *the scary virus waits until your computer becomes idle before replicating itself*, however I've yet to understand how exactly the program detects when the user is actually idle.\n\nOne of the first things that comes to mind is monitoring CPU usage, but obviously there's only a small portion of computers where this is actually a possible test.  I leave software running, downloading and compiling, while servers would likely frequently have people viewing it, but not necessarily in any position to monitor the system's activity.\n\nIn windows for instance, one of the things I imagine a writer could do is monitor the same idle time counter that's used to detect when the display should sleep or something similar, but I have no idea the accuracy or implantation of this.\n\nI have no intention of actually putting any of this in place, however I really am interested in understanding one piece of what seems to be simply regarded as *\"it does this, this is scary, don't ask questions\"*, though I suppose that can be said about malicious software as a whole.",
+        "title": "What methods do modern malware put into place to  detect user activity?",
+        "score": 1,
+        "id": "sh3h0",
+        "commsNum": 0,
+        "timeStamp": "2012/04/18-18:49:15",
+        "author_name": "[deleted]",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": null,
+        "url": "http://www.reddit.com/r/Malware/comments/sh3h0/what_methods_do_modern_malware_put_into_place_to/"
+    },
+    "posts": {}
+}

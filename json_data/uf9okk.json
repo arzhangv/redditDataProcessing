@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Surely it has to be safe if SpySherrif says so",
+        "title": "SpySherrif said Bonzi Buddy was safe",
+        "score": 1,
+        "id": "uf9okk",
+        "commsNum": 0,
+        "timeStamp": "2022/04/30-05:02:41",
+        "author_name": "Doggo_man023",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/uf9okk/spysherrif_said_bonzi_buddy_was_safe/"
+    },
+    "posts": {
+        "i6x7dlp": {
+            "comment": "[removed]",
+            "timeStamp": "2022/05/01-09:39:40",
+            "id": "i6x7dlp",
+            "is_submitter": false,
+            "link_id": "t3_uf9okk",
+            "parent_id": "t1_i6x7c41",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "i6x7c41": {
+            "comment": "A lot of spyware that requires you enter your info isn't detected by antiviruses because it is common sense to not enter your info. Also, you could've downloaded a safe version.\n\nAlso, SpySheriff is malware itself. It isn't trustable. [Read Me!](https://en.wikipedia.org/wiki/SpySheriff)",
+            "timeStamp": "2022/05/01-09:39:22",
+            "id": "i6x7c41",
+            "is_submitter": false,
+            "link_id": "t3_uf9okk",
+            "parent_id": "t3_uf9okk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DeepBlve"
+        }
+    }
+}

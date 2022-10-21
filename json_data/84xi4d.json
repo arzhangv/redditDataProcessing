@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "GandCrab Ransomware - Technical analysis and a look into its development mindset",
+        "score": 1,
+        "id": "84xi4d",
+        "commsNum": 0,
+        "timeStamp": "2018/03/16-11:10:55",
+        "author_name": "ynvb",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://research.checkpoint.com/gandcrab-ransomware-mindset/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "New Malware Sheds Light on How Cryptocurrency Exchanges Get Hacked",
+        "score": 14,
+        "id": "dioo1m",
+        "commsNum": 2,
+        "timeStamp": "2019/10/16-05:33:17",
+        "author_name": "Ichi_MokuM",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://beincrypto.com/new-malware-attempt-sheds-light-on-how-cryptocurrency-exchanges-get-hacked/?utm_campaign=malware&amp;utm_medium=social&amp;utm_source=reddit&amp;utm_content=JM"
+    },
+    "posts": {
+        "f3xadxk": {
+            "comment": "That's all this bot posts",
+            "timeStamp": "2019/10/16-07:08:06",
+            "id": "f3xadxk",
+            "is_submitter": false,
+            "link_id": "t3_dioo1m",
+            "parent_id": "t1_f3x36ih",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RussianToCollusion"
+        },
+        "f3x36ih": {
+            "comment": "Holy shit, that article is fucking terrible.",
+            "timeStamp": "2019/10/16-06:03:50",
+            "id": "f3x36ih",
+            "is_submitter": false,
+            "link_id": "t3_dioo1m",
+            "parent_id": "t3_dioo1m",
+            "score": 1,
+            "stickied": false,
+            "author_name": "EatMyPoopiePies"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Equation APT group report by Kaspersky Lab",
+        "score": 1,
+        "id": "2w3wn6",
+        "commsNum": 0,
+        "timeStamp": "2015/02/16-11:44:16",
+        "author_name": "bbuc",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://securelist.com/blog/research/68750/equation-the-death-star-of-malware-galaxy/"
+    },
+    "posts": {}
+}

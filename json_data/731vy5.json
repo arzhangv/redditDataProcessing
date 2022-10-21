@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[removed]",
+        "title": "Facebookprofileview Mal?",
+        "score": 6,
+        "id": "731vy5",
+        "commsNum": 7,
+        "timeStamp": "2017/09/28-11:04:07",
+        "author_name": "Commando_Joe",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/731vy5/facebookprofileview_mal/"
+    },
+    "posts": {
+        "do0rz4z": {
+            "comment": "Might be something more sinister, try this:\nhttps://www.bleepingcomputer.com/download/roguekiller/\n\nSame guidelines for disabling AV. ",
+            "timeStamp": "2017/10/06-19:44:06",
+            "id": "do0rz4z",
+            "is_submitter": false,
+            "link_id": "t3_731vy5",
+            "parent_id": "t1_do0gngg",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Wynardtage"
+        },
+        "do0gngg": {
+            "comment": "No, nothing.",
+            "timeStamp": "2017/10/06-15:27:44",
+            "id": "do0gngg",
+            "is_submitter": false,
+            "link_id": "t3_731vy5",
+            "parent_id": "t1_do0f8xa",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MereEclipse"
+        },
+        "do0f8xa": {
+            "comment": "Did they find anything at all? ",
+            "timeStamp": "2017/10/06-14:58:21",
+            "id": "do0f8xa",
+            "is_submitter": false,
+            "link_id": "t3_731vy5",
+            "parent_id": "t1_do0emtq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Wynardtage"
+        },
+        "do0emtq": {
+            "comment": "Alright, I ran the virus scanners without antivirus on, but it still didn't fix the problem. Anything else I could do?",
+            "timeStamp": "2017/10/06-14:45:55",
+            "id": "do0emtq",
+            "is_submitter": false,
+            "link_id": "t3_731vy5",
+            "parent_id": "t1_dnu5rfy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MereEclipse"
+        },
+        "dnu5rfy": {
+            "comment": "One time virus scanners run much more reliably if they do not have a real time scanning engine working against it. ",
+            "timeStamp": "2017/10/02-23:40:49",
+            "id": "dnu5rfy",
+            "is_submitter": false,
+            "link_id": "t3_731vy5",
+            "parent_id": "t1_dnu5d53",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Wynardtage"
+        },
+        "dnu5d53": {
+            "comment": "May I ask why you disable the antivirus programs when using the Malwarebytes software? I have the same issue too, but I trying it without disabling any sort of antivirus shield.",
+            "timeStamp": "2017/10/02-23:24:47",
+            "id": "dnu5d53",
+            "is_submitter": false,
+            "link_id": "t3_731vy5",
+            "parent_id": "t1_dnnhb7m",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MereEclipse"
+        }
+    }
+}

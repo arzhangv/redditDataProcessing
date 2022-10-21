@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Vala ELF infector: Linux.Zariche",
+        "score": 12,
+        "id": "2zgv7i",
+        "commsNum": 0,
+        "timeStamp": "2015/03/18-07:09:59",
+        "author_name": "guitmz",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://vx.thomazi.me/posts/vala-virus"
+    },
+    "posts": {}
+}

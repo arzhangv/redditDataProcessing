@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Should SOCs monitor application or infrastructure logs for suspicious events?",
+        "score": 1,
+        "id": "49idc4",
+        "commsNum": 0,
+        "timeStamp": "2016/03/08-04:57:39",
+        "author_name": "gszathmari",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://blog.gaborszathmari.me/2016/03/08/should-socs-monitor-application-infrastructure-logs-suspicious-events/"
+    },
+    "posts": {}
+}

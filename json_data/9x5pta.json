@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "The title may be incorrect, I\u2019m far from an expert on the subject. I recently had a virus which I\u2019ve removed but it seems to have updated my ssl certificate and prevents me from accessing Netflix, dailymotion and similar sites. \n\nThe ssl certificate is issued by \u201cplumix.com\u201d which doesn\u2019t seem to exist. I\u2019m sorry if there isn\u2019t much information to go on here. Just wanted to see if anyone had any useful information or similar experiences with ssl certificate errors. ",
+        "title": "Unknown SSL Certificate error",
+        "score": 1,
+        "id": "9x5pta",
+        "commsNum": 3,
+        "timeStamp": "2018/11/14-16:00:35",
+        "author_name": "jamiemollaghan124",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/9x5pta/unknown_ssl_certificate_error/"
+    },
+    "posts": {
+        "e9q92ej": {
+            "comment": "[deleted]",
+            "timeStamp": "2018/11/14-20:52:33",
+            "id": "e9q92ej",
+            "is_submitter": false,
+            "link_id": "t3_9x5pta",
+            "parent_id": "t3_9x5pta",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "e9q6n2e": {
+            "comment": "Wrong sub. But honestly your best bet is to nuke and pave. Reimage. Save your data and wipe everything else out. There's no telling what else was modified.",
+            "timeStamp": "2018/11/14-20:08:37",
+            "id": "e9q6n2e",
+            "is_submitter": false,
+            "link_id": "t3_9x5pta",
+            "parent_id": "t3_9x5pta",
+            "score": 1,
+            "stickied": false,
+            "author_name": "red8lue"
+        },
+        "e9pqeqt": {
+            "comment": "[removed]",
+            "timeStamp": "2018/11/14-16:00:42",
+            "id": "e9pqeqt",
+            "is_submitter": false,
+            "link_id": "t3_9x5pta",
+            "parent_id": "t3_9x5pta",
+            "score": -6,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

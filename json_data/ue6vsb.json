@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "[removed]",
+        "title": "I got this trojan alert from a game I *legally* bought from the Epic Games Store. How can this be possible?",
+        "score": 1,
+        "id": "ue6vsb",
+        "commsNum": 1,
+        "timeStamp": "2022/04/28-15:20:32",
+        "author_name": "Joaco_Gomez_1",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ue6vsb/i_got_this_trojan_alert_from_a_game_i_legally/"
+    },
+    "posts": {
+        "i6lb0eu": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators **and be sure to include the link to the post** - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2022/04/28-15:20:32",
+            "id": "i6lb0eu",
+            "is_submitter": false,
+            "link_id": "t3_ue6vsb",
+            "parent_id": "t3_ue6vsb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

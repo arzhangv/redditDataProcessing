@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Subject is \"You have received a invoice\". Has a zipfile attached when opened runs and turns the machine into a spambot. After user clicked on it, they called. Had her restart in safe mode and I logged in as admin. I ran Malwarebytes which supposedly got rid of 3 trojans. After reboot, Herd Protect found nothing, ADWcleaner found nothing. Then I rebooted, logged in as her then opened Outlook. It immediately started sending the same spam email to hundreds of addresses. Brought it to our lab and now Malwarebytes isn't even showing as installed.",
+        "title": "Careful of new Spam \"You have received a invoice\"",
+        "score": 4,
+        "id": "32h3mb",
+        "commsNum": 13,
+        "timeStamp": "2015/04/13-12:22:36",
+        "author_name": "bubba0929",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 13,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/32h3mb/careful_of_new_spam_you_have_received_a_invoice/"
+    },
+    "posts": {}
+}

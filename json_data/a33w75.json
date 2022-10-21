@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "URL shorteners, multistage delivery, global ambitions: An analysis of Brazilian financial malware from @Cybereason's Team Nocturnus",
+        "score": 1,
+        "id": "a33w75",
+        "commsNum": 0,
+        "timeStamp": "2018/12/04-11:25:00",
+        "author_name": "Eliad-Cybereason",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.cybereason.com/blog/brazilian-financial-malware-banking-europe-south-america"
+    },
+    "posts": {}
+}

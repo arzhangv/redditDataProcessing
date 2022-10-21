@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Emotet Malware Revives Old Email Conversations Threads to Increase Infection Rates",
+        "score": 21,
+        "id": "bhku46",
+        "commsNum": 3,
+        "timeStamp": "2019/04/26-03:37:25",
+        "author_name": "home348756",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.spamtitan.com/blog/emotet-malware-revives-old-email-conversations-threads-to-increase-infection-rates/"
+    },
+    "posts": {
+        "elvja21": {
+            "comment": "this is becoming a \"go to\" for attackers. Also wrote about it here:  \n [https://blog.minerva-labs.com/attackers-insert-themselves-into-the-email-conversation-to-spread-malware](https://blog.minerva-labs.com/attackers-insert-themselves-into-the-email-conversation-to-spread-malware)",
+            "timeStamp": "2019/04/26-16:40:15",
+            "id": "elvja21",
+            "is_submitter": false,
+            "link_id": "t3_bhku46",
+            "parent_id": "t3_bhku46",
+            "score": 1,
+            "stickied": false,
+            "author_name": "GelosSnake"
+        },
+        "elvdgru": {
+            "comment": "I wonder if this is what I've been seeing at work. A lot of different people have been sending malware in, they are all legitimate clients though.",
+            "timeStamp": "2019/04/26-15:33:00",
+            "id": "elvdgru",
+            "is_submitter": false,
+            "link_id": "t3_bhku46",
+            "parent_id": "t3_bhku46",
+            "score": 2,
+            "stickied": false,
+            "author_name": "throwaway12-ffs"
+        },
+        "elui79g": {
+            "comment": "pain in the butt to get rid of this one is.",
+            "timeStamp": "2019/04/26-10:21:29",
+            "id": "elui79g",
+            "is_submitter": false,
+            "link_id": "t3_bhku46",
+            "parent_id": "t3_bhku46",
+            "score": 3,
+            "stickied": false,
+            "author_name": "redrage97"
+        }
+    }
+}

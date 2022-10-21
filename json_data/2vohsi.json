@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Somehow I was infected with this and Administrator.exe. Probably one of my bad habits with downloading something that was fake. First time this has happened in a long time to me.\n\nAnyhow, Malwarebytes finds Adminstrator.exe but it came back right away. I was looking through Task Manager and found Tinto.exe. A quick Google search brought up it being a Trojan virus. \n\nI could show the File Location via Task Manager but the file was hidden, even though I had hidden files shown. I was able to go to Properties from within Task Manager to see that Hidden was checked but greyed out, so I couldn't uncheck. I downloaded [HFV](http://sourceforge.net/projects/hfv/files/), which was able to make it appear in my Folder. \n\nI ran Malwarebytes and MSE but neither detected it as being bad. So manually Ended Task via Task Manager and deleted the file. I did find that it was set to run on start up via MSCONFIG. I just hope that was the only iteration of it.\n\nAny other recommended scanners to use to find other possible files?",
+        "title": "How to remove Tinto.exe",
+        "score": 0,
+        "id": "2vohsi",
+        "commsNum": 1,
+        "timeStamp": "2015/02/12-11:06:08",
+        "author_name": "[deleted]",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2vohsi/how_to_remove_tintoexe/"
+    },
+    "posts": {}
+}

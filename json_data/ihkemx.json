@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Quark Engine is an Open Source malware scoring system for Android applications. Decoded from the criminal law, quark developed its own unique scoring system. Further, this scoring system failed the obfuscation techniques used in the apk. Our goal is to boost up the analysis for the malware analyst. So when analyzing the malware with quark, call graphs for every potential malicious activity will be generated automatically.\n\nQuark is also selected to present in DEF CON Blue Team Village, HITB LOCKDOWN 002 and ROOTCONF.\n\nGithub: [https://github.com/quark-engine/quark-engine](https://github.com/quark-engine/quark-engine)  \nOur talk @ DEF CON: [https://www.youtube.com/watch?v=3yFhNG2LN44](https://www.youtube.com/watch?v=3yFhNG2LN44)  \nCall Graph (obfuscated sample): [https://i.imgur.com/hdTbvuq.png](https://i.imgur.com/hdTbvuq.png)",
+        "title": "[Tool] Quark Engine - An Obfuscation-Neglect Android Malware Scoring System",
+        "score": 1,
+        "id": "ihkemx",
+        "commsNum": 3,
+        "timeStamp": "2020/08/27-05:47:50",
+        "author_name": "quark-engine",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ihkemx/tool_quark_engine_an_obfuscationneglect_android/"
+    },
+    "posts": {
+        "g331b83": {
+            "comment": "Thank you! :D",
+            "timeStamp": "2020/08/27-17:35:38",
+            "id": "g331b83",
+            "is_submitter": false,
+            "link_id": "t3_ihkemx",
+            "parent_id": "t1_g30sv9b",
+            "score": 2,
+            "stickied": false,
+            "author_name": "kunyChen"
+        },
+        "g312bb3": {
+            "comment": "thank you for your feedback., we will keep pushing!!",
+            "timeStamp": "2020/08/27-08:11:55",
+            "id": "g312bb3",
+            "is_submitter": true,
+            "link_id": "t3_ihkemx",
+            "parent_id": "t1_g30sv9b",
+            "score": 1,
+            "stickied": false,
+            "author_name": "quark-engine"
+        },
+        "g30sv9b": {
+            "comment": "Watched the DEFCON talk the other day, very interesting and I personally loved the scoring system and it's understandability",
+            "timeStamp": "2020/08/27-06:52:17",
+            "id": "g30sv9b",
+            "is_submitter": false,
+            "link_id": "t3_ihkemx",
+            "parent_id": "t3_ihkemx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "A_Deadly_Mind"
+        }
+    }
+}

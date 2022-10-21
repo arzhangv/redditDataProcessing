@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi there,\n\nI am currently undertaking a project in network forensics. The only malware sub-type which I have yet to collect is in-browser cryptominers, such as those that utilise conhive.\n\nI don't suppose anyone has any links to malware samples of this variant so that I can run it on my virtualised infrastructure.\n\nMany Thanks,\n\nthickofits",
+        "title": "Browser Cryptojacking Samples",
+        "score": 11,
+        "id": "8takla",
+        "commsNum": 2,
+        "timeStamp": "2018/06/23-08:14:59",
+        "author_name": "thickofits",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8takla/browser_cryptojacking_samples/"
+    },
+    "posts": {
+        "e16owen": {
+            "comment": "Contact him: https://twitter.com/bad_packets or them https://twitter.com/HackRead",
+            "timeStamp": "2018/06/23-16:14:08",
+            "id": "e16owen",
+            "is_submitter": false,
+            "link_id": "t3_8takla",
+            "parent_id": "t3_8takla",
+            "score": 4,
+            "stickied": false,
+            "author_name": "Cyber-Homie"
+        },
+        "e15z7te": {
+            "comment": "Nevermind, found a bunch of samples by searching on virusshare for malware classified with the string ' JScoinminer' as per [https://www.symantec.com/blogs/threat-intelligence/browser-mining-cryptocurrency](https://www.symantec.com/blogs/threat-intelligence/browser-mining-cryptocurrency)",
+            "timeStamp": "2018/06/23-08:28:42",
+            "id": "e15z7te",
+            "is_submitter": true,
+            "link_id": "t3_8takla",
+            "parent_id": "t3_8takla",
+            "score": 5,
+            "stickied": false,
+            "author_name": "thickofits"
+        }
+    }
+}

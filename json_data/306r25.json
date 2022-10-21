@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "CNET.com putting HTTPS bypassing malware in every software download!",
+        "score": 79,
+        "id": "306r25",
+        "commsNum": 35,
+        "timeStamp": "2015/03/24-15:48:53",
+        "author_name": "CNET_Is_Our_Enemy",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 35,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.howtogeek.com/210265/download.com-and-others-bundle-superfish-style-https-breaking-adware/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hello,\n\nI was wondering if anyone can help me get the BlastBtn Joke Program...\n\nThank you..\n\n&amp;#x200B;",
+        "title": "Hoax.Win32.BlastBtn",
+        "score": 1,
+        "id": "aaweg9",
+        "commsNum": 3,
+        "timeStamp": "2018/12/30-06:45:45",
+        "author_name": "WoozyDragon4018",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/aaweg9/hoaxwin32blastbtn/"
+    },
+    "posts": {
+        "ecxc3oy": {
+            "comment": "wow! Thanks\n\ngotta try it out on my Win98 VM",
+            "timeStamp": "2018/12/30-21:07:51",
+            "id": "ecxc3oy",
+            "is_submitter": true,
+            "link_id": "t3_aaweg9",
+            "parent_id": "t1_ecvkbjc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "WoozyDragon4018"
+        },
+        "ecw3ufx": {
+            "comment": "https://www.lmgtfy.com",
+            "timeStamp": "2018/12/30-11:34:48",
+            "id": "ecw3ufx",
+            "is_submitter": false,
+            "link_id": "t3_aaweg9",
+            "parent_id": "t1_ecvkbjc",
+            "score": 0,
+            "stickied": false,
+            "author_name": "krypt0kn1gh7"
+        },
+        "ecvkbjc": {
+            "comment": "this? [https://github.com/classyjakey/2003ryans.github.io/blob/master/Hoax.Win32.BadJoke.BlastBtn.a.exe](https://github.com/classyjakey/2003ryans.github.io/blob/master/Hoax.Win32.BadJoke.BlastBtn.a.exe)",
+            "timeStamp": "2018/12/30-07:28:35",
+            "id": "ecvkbjc",
+            "is_submitter": false,
+            "link_id": "t3_aaweg9",
+            "parent_id": "t3_aaweg9",
+            "score": 2,
+            "stickied": false,
+            "author_name": "lazyinvader"
+        }
+    }
+}

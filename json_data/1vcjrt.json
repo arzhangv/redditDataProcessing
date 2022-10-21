@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Win32/64:Blackbeard &amp; Pigeon: Stealthiness techniques in 64-bit Windows, Part 1",
+        "score": 3,
+        "id": "1vcjrt",
+        "commsNum": 0,
+        "timeStamp": "2014/01/15-23:54:34",
+        "author_name": "N3mes1s",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://blog.avast.com/2014/01/15/win3264blackbeard-pigeon-stealthiness-techniques-in-64-bit-windows-part-1/"
+    },
+    "posts": {}
+}

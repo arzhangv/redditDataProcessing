@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "A new variant of OSX/DOK using a new Apple Developer ID. UPX Packed.",
+        "score": 1,
+        "id": "69cyfw",
+        "commsNum": 0,
+        "timeStamp": "2017/05/04-22:55:25",
+        "author_name": "ynvb",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://blog.checkpoint.com/2017/05/04/update-osxdok-campaign/"
+    },
+    "posts": {}
+}

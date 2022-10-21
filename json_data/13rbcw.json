@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Hiding env./tools from malware a.k.a. fight fire with fire (but only inside VM)",
+        "score": 3,
+        "id": "13rbcw",
+        "commsNum": 4,
+        "timeStamp": "2012/11/25-05:16:41",
+        "author_name": "N3mes1s",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.hexacorn.com/blog/2012/11/25/hiding-env-tools-from-malware-a-k-a-fight-fire-with-fire-but-only-inside-vm/"
+    },
+    "posts": {}
+}

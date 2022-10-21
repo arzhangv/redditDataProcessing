@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi all.\nFor a variety of reason I started looking into what my browsers were doing when started. Using Procexp/Procmon/TcpLogView/Tcpview/etc I found many thing, but one thing of note that I cannot research a good explanation for was he fact that my shortcuts I use to start Chrome seemed hijacked to a 'shadow' copy of chrome running at:\n\n     \"C:\\Program Files (x86)\\Footlook\\chrome.exe\"\n\nI since quarantined away from its original location, the pastebin file listing is from the quarantined location: http://pastebin.com/fxHiXwsd\n\nI've never analysed a suspected malware install before so I don't know any procedures. \nA PEStudio initial assessment didnt seem to throw up flags, but I'm not sure what I'm looking for.\n\nMY question is ... Has anyone come across something designated as Footlook before?\n\nThanks in advance.",
+        "title": "Have you encountered: Footlook\\Application\\chrome.exe",
+        "score": 3,
+        "id": "5reprj",
+        "commsNum": 1,
+        "timeStamp": "2017/02/01-02:14:46",
+        "author_name": "Gakster",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5reprj/have_you_encountered_footlookapplicationchromeexe/"
+    },
+    "posts": {}
+}

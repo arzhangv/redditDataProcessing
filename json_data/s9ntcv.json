@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "i keep getting this warning. sometimes hitting F5 will load the page fine, sometimes no. i would have to F5 many times for the site to load.  it happens on multiple browsers. here im trying to open [engadget.com](https://engadget.com) and [petapixel.com](https://petapixel.com)\n\n&amp;#x200B;\n\nhttps://preview.redd.it/9y3xulwwh4d81.png?width=2652&amp;format=png&amp;auto=webp&amp;s=a724bbc25af0eaf89c78e499c38ed28631b2151b\n\nwhen i click on view certificate, i see Netgear. why is that???  this is only happening on the desktop. no problem with other devices in the house\n\n&amp;#x200B;\n\nhttps://preview.redd.it/epkkkxsei4d81.png?width=1680&amp;format=png&amp;auto=webp&amp;s=7ba7970e8354808456429cb8ac9d73e515cbfbed\n\nhttps://preview.redd.it/dn0kazqci4d81.png?width=1231&amp;format=png&amp;auto=webp&amp;s=f260d011b16aa4dd73cdd5bacd22643a17916cd8",
+        "title": "problems loading websites, even Reddit....",
+        "score": 1,
+        "id": "s9ntcv",
+        "commsNum": 0,
+        "timeStamp": "2022/01/21-15:12:44",
+        "author_name": "tungvu256",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/s9ntcv/problems_loading_websites_even_reddit/"
+    },
+    "posts": {
+        "hts1obs": {
+            "comment": "it started to affect other devices in the house.\n\nstrangely, resetting the fios modem works! everything is back to normal. weird",
+            "timeStamp": "2022/01/22-11:17:42",
+            "id": "hts1obs",
+            "is_submitter": true,
+            "link_id": "t3_s9ntcv",
+            "parent_id": "t1_htprrk2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "tungvu256"
+        },
+        "htr4w37": {
+            "comment": "No luck. I also tried to restore to factory. Strange only this 1 desktop is affected. No other machines on the home network.\nI am factory resetting the router but same issue....",
+            "timeStamp": "2022/01/22-07:41:58",
+            "id": "htr4w37",
+            "is_submitter": true,
+            "link_id": "t3_s9ntcv",
+            "parent_id": "t1_htprrk2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "tungvu256"
+        },
+        "htprrk2": {
+            "comment": "Try to reset browser to browser default settings ( google it for your browser). Maybe a browser hijacker",
+            "timeStamp": "2022/01/21-23:19:28",
+            "id": "htprrk2",
+            "is_submitter": false,
+            "link_id": "t3_s9ntcv",
+            "parent_id": "t3_s9ntcv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "m1nky"
+        }
+    }
+}

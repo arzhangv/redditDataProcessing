@@ -1,0 +1,121 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hello all,\n\nI just wanted to share a malware block list I created, the TLDR version is this is scraping open source security intelligence for urls that are associated with new malware. If you have a pihole or something, this should do the trick. (I use it on mine). Obviously this isn't the ultimate list or anything.\n\nNote - DGA's are not covered here as they are non deterministic usually, so... you know... you cant generate their urls.\n\n[https://raw.githubusercontent.com/Xenios91/AlienVaultURLS/main/alien\\_vault\\_urls.txt](https://raw.githubusercontent.com/Xenios91/AlienVaultURLS/main/alien_vault_urls.txt)",
+        "title": "Malware domains",
+        "score": 1,
+        "id": "ucdx43",
+        "commsNum": 0,
+        "timeStamp": "2022/04/26-07:32:41",
+        "author_name": "Squiggyline91",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ucdx43/malware_domains/"
+    },
+    "posts": {
+        "if2umg3": {
+            "comment": "Thanks, that's good to hear. When you're ready with the new one, if you remember, let me know here and I'll subscribe to it from my pihole.",
+            "timeStamp": "2022/07/06-07:34:57",
+            "id": "if2umg3",
+            "is_submitter": false,
+            "link_id": "t3_ucdx43",
+            "parent_id": "t1_if2qfet",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Phragmites"
+        },
+        "if2qi2a": {
+            "comment": "I am working on building a new version of it all.",
+            "timeStamp": "2022/07/06-07:05:34",
+            "id": "if2qi2a",
+            "is_submitter": true,
+            "link_id": "t3_ucdx43",
+            "parent_id": "t1_ibyach9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Squiggyline91"
+        },
+        "if2qfet": {
+            "comment": "Yes, I am working on replacing it all with a newer list built a little differently, but until then i kicked it.",
+            "timeStamp": "2022/07/06-07:05:03",
+            "id": "if2qfet",
+            "is_submitter": true,
+            "link_id": "t3_ucdx43",
+            "parent_id": "t1_ic7i0zg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Squiggyline91"
+        },
+        "ic7i0zg": {
+            "comment": "Hi u/Squiggyline91. That link/list is missing now. Are you intending to replace it, and if not do you know of any alternative sources for a similar list?   \n\n\nThanks.",
+            "timeStamp": "2022/06/13-07:36:18",
+            "id": "ic7i0zg",
+            "is_submitter": false,
+            "link_id": "t3_ucdx43",
+            "parent_id": "t3_ucdx43",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Phragmites"
+        },
+        "ibyach9": {
+            "comment": "And... it's gone! \ud83d\ude1e",
+            "timeStamp": "2022/06/11-00:44:35",
+            "id": "ibyach9",
+            "is_submitter": false,
+            "link_id": "t3_ucdx43",
+            "parent_id": "t3_ucdx43",
+            "score": 1,
+            "stickied": false,
+            "author_name": "hugthispanda"
+        },
+        "i6c7irs": {
+            "comment": "[removed]",
+            "timeStamp": "2022/04/26-17:34:04",
+            "id": "i6c7irs",
+            "is_submitter": false,
+            "link_id": "t3_ucdx43",
+            "parent_id": "t3_ucdx43",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "i6c7cqk": {
+            "comment": "thanks",
+            "timeStamp": "2022/04/26-17:32:50",
+            "id": "i6c7cqk",
+            "is_submitter": true,
+            "link_id": "t3_ucdx43",
+            "parent_id": "t1_i6afopn",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Squiggyline91"
+        },
+        "i6afopn": {
+            "comment": "Seems like a great idea. Thanks for putting it together!",
+            "timeStamp": "2022/04/26-10:12:45",
+            "id": "i6afopn",
+            "is_submitter": false,
+            "link_id": "t3_ucdx43",
+            "parent_id": "t3_ucdx43",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Nonner_Party"
+        },
+        "i69s2bt": {
+            "comment": "This list is updated every 6 hours, fyi.",
+            "timeStamp": "2022/04/26-07:40:41",
+            "id": "i69s2bt",
+            "is_submitter": true,
+            "link_id": "t3_ucdx43",
+            "parent_id": "t3_ucdx43",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Squiggyline91"
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Any help would be superb.",
+        "title": "I think I got some malware called pmls64.dll, and I want to remove it.",
+        "score": 1,
+        "id": "j1mvyr",
+        "commsNum": 4,
+        "timeStamp": "2020/09/28-15:51:25",
+        "author_name": "bananabeast07",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/j1mvyr/i_think_i_got_some_malware_called_pmls64dll_and_i/"
+    },
+    "posts": {
+        "g76jezi": {
+            "comment": "Hitman pro, Emsisoft Emergency Kit, Kaspersky Free, Roguekiller, and others can get rid of a lot of viruses",
+            "timeStamp": "2020/09/30-08:43:38",
+            "id": "g76jezi",
+            "is_submitter": false,
+            "link_id": "t3_j1mvyr",
+            "parent_id": "t3_j1mvyr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Senior-Resident-1592"
+        },
+        "g70oevj": {
+            "comment": "[any.run](https://any.run) will give you a great analysis if the file is malicious. Basically running it on an online virtual sandboxed environment. Use it for any future files.",
+            "timeStamp": "2020/09/28-18:53:02",
+            "id": "g70oevj",
+            "is_submitter": false,
+            "link_id": "t3_j1mvyr",
+            "parent_id": "t3_j1mvyr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TheCyberPost1"
+        },
+        "g707097": {
+            "comment": "I also asked a tech friend, he gave the same advice, and its gone. Thanks for the help",
+            "timeStamp": "2020/09/28-16:07:12",
+            "id": "g707097",
+            "is_submitter": true,
+            "link_id": "t3_j1mvyr",
+            "parent_id": "t1_g706tlf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "bananabeast07"
+        },
+        "g706tlf": {
+            "comment": "Run Malwarebytes to delete it.",
+            "timeStamp": "2020/09/28-16:05:20",
+            "id": "g706tlf",
+            "is_submitter": false,
+            "link_id": "t3_j1mvyr",
+            "parent_id": "t3_j1mvyr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "kornkid42"
+        }
+    }
+}

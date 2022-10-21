@@ -1,0 +1,99 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Had a client hit by a lockcrypt variant. It Encrypted files with a .mich extension. Seems to target servers. Sophos AV / Intercept X stopped for the most part with the exception of two servers. It launched a process hacker to disable the AV and was successful on the two servers somehow. Luckily we restored from backup and are on our way.\n\nAnyone else see this in the wild or have any experience with it?",
+        "title": ".Mich Malware",
+        "score": 10,
+        "id": "8gdau1",
+        "commsNum": 7,
+        "timeStamp": "2018/05/01-17:31:16",
+        "author_name": "manofdos",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8gdau1/mich_malware/"
+    },
+    "posts": {
+        "dydaweh": {
+            "comment": ".mich is not a malware but whatever extension. do you have hash of that ransomware sample? do you have a screenshot of screen with ransom request, did you try to correlate with that? did you upload it to virustotal? what have you done so far with investigation, except for rolling backups out (which is a mitigation, not investigation, anyways)?",
+            "timeStamp": "2018/05/02-23:15:44",
+            "id": "dydaweh",
+            "is_submitter": false,
+            "link_id": "t3_8gdau1",
+            "parent_id": "t3_8gdau1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "apatrid"
+        },
+        "dycsu49": {
+            "comment": "I believe the lob vendor through their rdp session.",
+            "timeStamp": "2018/05/02-17:18:02",
+            "id": "dycsu49",
+            "is_submitter": true,
+            "link_id": "t3_8gdau1",
+            "parent_id": "t1_dyav7kr",
+            "score": 2,
+            "stickied": false,
+            "author_name": "manofdos"
+        },
+        "dycsspt": {
+            "comment": "I\u2019m going to attempt to get one from a backup. I know it launched an executable called processhacker2.exe which was the app attempting to disable the security products.",
+            "timeStamp": "2018/05/02-17:17:20",
+            "id": "dycsspt",
+            "is_submitter": true,
+            "link_id": "t3_8gdau1",
+            "parent_id": "t1_dyb6ifr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "manofdos"
+        },
+        "dycsqho": {
+            "comment": "Don\u2019t need help with removal. Already removed. Just looking to provide &amp; acquire information on it.",
+            "timeStamp": "2018/05/02-17:16:16",
+            "id": "dycsqho",
+            "is_submitter": true,
+            "link_id": "t3_8gdau1",
+            "parent_id": "t1_dybu04q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "manofdos"
+        },
+        "dybu04q": {
+            "comment": "A place for malware reports and information. This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware",
+            "timeStamp": "2018/05/02-08:27:38",
+            "id": "dybu04q",
+            "is_submitter": false,
+            "link_id": "t3_8gdau1",
+            "parent_id": "t3_8gdau1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mikiozen"
+        },
+        "dyb6ifr": {
+            "comment": "Sample anywhere?",
+            "timeStamp": "2018/05/01-22:19:56",
+            "id": "dyb6ifr",
+            "is_submitter": false,
+            "link_id": "t3_8gdau1",
+            "parent_id": "t3_8gdau1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "jyggorath"
+        },
+        "dyav7kr": {
+            "comment": "What was the infection vector?",
+            "timeStamp": "2018/05/01-18:51:44",
+            "id": "dyav7kr",
+            "is_submitter": false,
+            "link_id": "t3_8gdau1",
+            "parent_id": "t3_8gdau1",
+            "score": 8,
+            "stickied": false,
+            "author_name": "sephstorm"
+        }
+    }
+}

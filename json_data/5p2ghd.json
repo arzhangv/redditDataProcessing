@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Satan, the ransomware-as-a-service surfaced in the dark web",
+        "score": 1,
+        "id": "5p2ghd",
+        "commsNum": 0,
+        "timeStamp": "2017/01/19-22:51:27",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/55487/malware/satan-raas.html"
+    },
+    "posts": {}
+}

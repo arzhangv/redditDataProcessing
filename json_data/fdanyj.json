@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "A billion Wi-Fi devices suffer from a newly discovered security flaw",
+        "score": 1,
+        "id": "fdanyj",
+        "commsNum": 3,
+        "timeStamp": "2020/03/04-01:37:07",
+        "author_name": "Cyberthere",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.technologyreview.com/f/615285/a-billion-wi-fi-devices-suffer-from-a-newly-discovered-security-flaw/"
+    },
+    "posts": {
+        "fjhbv10": {
+            "comment": "3.1",
+            "timeStamp": "2020/03/04-10:05:18",
+            "id": "fjhbv10",
+            "is_submitter": false,
+            "link_id": "t3_fdanyj",
+            "parent_id": "t1_fjh4nh5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "combatmonk"
+        },
+        "fjh4nh5": {
+            "comment": "[Link to CVE](https://nvd.nist.gov/vuln/detail/CVE-2019-15126)",
+            "timeStamp": "2020/03/04-08:59:17",
+            "id": "fjh4nh5",
+            "is_submitter": false,
+            "link_id": "t3_fdanyj",
+            "parent_id": "t3_fdanyj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Noble_Almonds"
+        },
+        "fjgp20i": {
+            "comment": "&gt; Wh00ps: The vulnerability, dubbed Kr00k by researchers, affects devices with Wi-Fi chips by Broadcom and Cypress\u2014used in a vast range of devices with wireless internet, including Apple, Google, and Samsung phones. But security updates have already been deployed to fix the issue, so the best advice is to make sure your computers, phones, and all internet-connected devices have the latest software and firmware.\n&gt; \n&gt; \n&gt; Not good, not terrible: In a worst-case scenario, a significant amount of data would be exposed, including the websites you're visiting or messages you are sending. However, a lot of private communication on your Wi-Fi network should still be safe because of encryption used by websites themselves. So keep calm, salute the folks finding these problems, and carry on.",
+            "timeStamp": "2020/03/04-06:32:53",
+            "id": "fjgp20i",
+            "is_submitter": false,
+            "link_id": "t3_fdanyj",
+            "parent_id": "t3_fdanyj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "robahearts"
+        }
+    }
+}

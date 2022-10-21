@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "While collecting malware samples on pastebin, my bot found an anonymous paste that contained a large amount of data relating to emotet.\n\nIt includes a section of file hashes, malicious IP addresses, compromised servers, compromised domains, and a few obfuscated powershell artifacts that look to either be post-exploitation or an alternative infection method.\n\nFile samples can be collected by simply using wget  on a live compromised domain.\n\n\nHere is a link to a reupload of the document:\nhttps://pastebin.com/V6GGEPVA",
+        "title": "Emotet file hashes, Compromised IP addresses and domains, and malicious powershell artifacts",
+        "score": 1,
+        "id": "es6xyx",
+        "commsNum": 1,
+        "timeStamp": "2020/01/21-20:39:28",
+        "author_name": "NovateI",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/es6xyx/emotet_file_hashes_compromised_ip_addresses_and/"
+    },
+    "posts": {
+        "ffhz09f": {
+            "comment": "The powershell is from the docs, the compromised urls are the doc and emotet delivery systems, the rest are hashes and probably emotet c2 IPs",
+            "timeStamp": "2020/01/25-05:43:56",
+            "id": "ffhz09f",
+            "is_submitter": false,
+            "link_id": "t3_es6xyx",
+            "parent_id": "t3_es6xyx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sysopfb"
+        }
+    }
+}

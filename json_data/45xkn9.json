@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Cross-posting this to a couple of subs...\n\nAnybody know of a ransomware that encrypts/renames files to [hash].locky? Had a user get it this morning and don't see much on the interwebz about it. It encrypted her Desktop/MyDocs/Downloads, etc. It didn't seem to jump to the mapped network drives. I'm trying to figure out how it got in.",
+        "title": "Any info on *.locky ransomware",
+        "score": 43,
+        "id": "45xkn9",
+        "commsNum": 144,
+        "timeStamp": "2016/02/15-09:28:44",
+        "author_name": "gmr2048",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 144,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/45xkn9/any_info_on_locky_ransomware/"
+    },
+    "posts": {
+        "hq6q3ip": {
+            "comment": "[removed]",
+            "timeStamp": "2021/12/27-12:09:26",
+            "id": "hq6q3ip",
+            "is_submitter": false,
+            "link_id": "t3_45xkn9",
+            "parent_id": "t3_45xkn9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

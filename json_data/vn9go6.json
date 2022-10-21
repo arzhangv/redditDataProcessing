@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "New multistage remote access trojan (#RAT) targeting SOHO routers called #ZuoRAT",
+        "score": 1,
+        "id": "vn9go6",
+        "commsNum": 0,
+        "timeStamp": "2022/06/28-23:59:04",
+        "author_name": "0xor0ne",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://blog.lumen.com/zuorat-hijacks-soho-routers-to-silently-stalk-networks"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Steam Malware, A quick writeup",
+        "score": 23,
+        "id": "36n3l2",
+        "commsNum": 2,
+        "timeStamp": "2015/05/20-09:22:11",
+        "author_name": "Mega1mpact",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://ioexception.at/Steam-malware"
+    },
+    "posts": {}
+}

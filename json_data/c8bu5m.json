@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[removed]",
+        "title": "Lmao",
+        "score": 1,
+        "id": "c8bu5m",
+        "commsNum": 1,
+        "timeStamp": "2019/07/02-10:09:36",
+        "author_name": "Panmarmolada",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/c8bu5m/lmao/"
+    },
+    "posts": {
+        "esll4gt": {
+            "comment": "LMAO",
+            "timeStamp": "2019/07/02-10:12:23",
+            "id": "esll4gt",
+            "is_submitter": false,
+            "link_id": "t3_c8bu5m",
+            "parent_id": "t3_c8bu5m",
+            "score": 1,
+            "stickied": true,
+            "author_name": "edward_snowedin"
+        }
+    }
+}

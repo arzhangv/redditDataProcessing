@@ -1,0 +1,110 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": " According to a report, around 9.3 million Andriod devices are affected by a new type of malware. This malware is said to be disguising itself in the form of various arcades, strategies, and shooter games on Huawei\u2019s AppGallery marketplace.\n\nThe object of this malware has been to steal the victim\u2019s information from their mobile device such as phone numbers.\n\nOnce the user has installed these malicious apps, they prompt the user for permission reading to manage the phone calls. Additionally, this method collects their phone numbers and gathers sensitive device information such as system metadata, network parameter, and geolocation data.\n\nKnow more:[https://www.vpnranks.com/news/new-android-malware-discovered-9-million-android-phones-infected/](https://www.vpnranks.com/news/new-android-malware-discovered-9-million-android-phones-infected/)",
+        "title": "New Android Malware Discovered: 9 Million Android Phones Infected",
+        "score": 1,
+        "id": "r1u2p3",
+        "commsNum": 8,
+        "timeStamp": "2021/11/25-02:55:50",
+        "author_name": "Comfortable_Flower80",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 8,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/r1u2p3/new_android_malware_discovered_9_million_android/"
+    },
+    "posts": {
+        "hm4t0rj": {
+            "comment": "There are better places to get your security news from than a site being ghostwritten for an alleged English-speaker whose sole purpose is to sell VPN subscriptions with affiliate links.",
+            "timeStamp": "2021/11/25-23:58:34",
+            "id": "hm4t0rj",
+            "is_submitter": false,
+            "link_id": "t3_r1u2p3",
+            "parent_id": "t3_r1u2p3",
+            "score": 3,
+            "stickied": false,
+            "author_name": "boli99"
+        },
+        "hm4pq9z": {
+            "comment": "Even Lenovo? How many people in here use Lenovo?",
+            "timeStamp": "2021/11/25-23:17:27",
+            "id": "hm4pq9z",
+            "is_submitter": false,
+            "link_id": "t3_r1u2p3",
+            "parent_id": "t1_hm4bjz2",
+            "score": 0,
+            "stickied": false,
+            "author_name": "jjkus2"
+        },
+        "hm4bjz2": {
+            "comment": "Don't trust any tech that comes from a Chinese-owned company, period.",
+            "timeStamp": "2021/11/25-20:42:49",
+            "id": "hm4bjz2",
+            "is_submitter": false,
+            "link_id": "t3_r1u2p3",
+            "parent_id": "t3_r1u2p3",
+            "score": 0,
+            "stickied": false,
+            "author_name": "onequbit"
+        },
+        "hm3rdp0": {
+            "comment": "Yes!",
+            "timeStamp": "2021/11/25-17:40:21",
+            "id": "hm3rdp0",
+            "is_submitter": false,
+            "link_id": "t3_r1u2p3",
+            "parent_id": "t1_hm200zs",
+            "score": -3,
+            "stickied": false,
+            "author_name": "stateofmind109"
+        },
+        "hm2i3ac": {
+            "comment": "that's what I thought, but thanks for confirming!",
+            "timeStamp": "2021/11/25-11:33:45",
+            "id": "hm2i3ac",
+            "is_submitter": false,
+            "link_id": "t3_r1u2p3",
+            "parent_id": "t1_hm2hx92",
+            "score": 5,
+            "stickied": false,
+            "author_name": "Nugget2450"
+        },
+        "hm2hx92": {
+            "comment": "You are at risk if you used Huawei\u2019s AppGallery marketplace to install apps. Most likely not applicable to you unless you have a Huawei phone",
+            "timeStamp": "2021/11/25-11:32:31",
+            "id": "hm2hx92",
+            "is_submitter": false,
+            "link_id": "t3_r1u2p3",
+            "parent_id": "t1_hm200zs",
+            "score": 7,
+            "stickied": false,
+            "author_name": "JJenkx"
+        },
+        "hm200zs": {
+            "comment": "I use an andriod, but it's a motorolla and I've only installed 1 app (school app) in the past month. \n\nAm I at risk?",
+            "timeStamp": "2021/11/25-09:26:24",
+            "id": "hm200zs",
+            "is_submitter": false,
+            "link_id": "t3_r1u2p3",
+            "parent_id": "t3_r1u2p3",
+            "score": -2,
+            "stickied": false,
+            "author_name": "Nugget2450"
+        },
+        "hm1gww0": {
+            "comment": "[removed]",
+            "timeStamp": "2021/11/25-07:06:32",
+            "id": "hm1gww0",
+            "is_submitter": false,
+            "link_id": "t3_r1u2p3",
+            "parent_id": "t3_r1u2p3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

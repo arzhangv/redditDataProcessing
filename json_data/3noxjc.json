@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[deleted]",
+        "title": "Akamai's report about XOR.DDOS (thx to mention MMD)",
+        "score": 1,
+        "id": "3noxjc",
+        "commsNum": 0,
+        "timeStamp": "2015/10/06-03:54:36",
+        "author_name": "[deleted]",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.stateoftheinternet.com/downloads/pdfs/2015-threat-advisory-xor-ddos-attacks-linux-botnet-malware-removal-ddos-mitigation-yara-snort.pdf"
+    },
+    "posts": {}
+}

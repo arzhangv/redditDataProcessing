@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "[Blog] IceRat evades antivirus by running PHP on Java VM",
+        "score": 1,
+        "id": "k4mali",
+        "commsNum": 0,
+        "timeStamp": "2020/12/01-06:52:49",
+        "author_name": "Struppigel",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.gdatasoftware.com/blog/icerat-evades-antivirus-by-using-jphp"
+    },
+    "posts": {}
+}

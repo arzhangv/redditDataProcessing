@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi all, I just tried installing driver software from the Logitech website for my G930 headset.\n\nI freaked when I noticed the icon for the installer has the classic little trojan horse on the computer display in the icon. Of course I noticed this after installing the software..\n\nShortly after, I got an error that Au_.exe had stopped working. Looked it up and it is supposed to be part of the Spyfalcon malware.\n\nI downloaded the file from here: `http://download01.logitech.com/web/ftp/pub/techsupport/gaming/LGS_8.76.155_x64_Logitech.exe`\n\nCan anyone confirm? I am amazed that my GData antivirus didn't catch this..\n\nEdit: formatted link as code so it is not clickable..",
+        "title": "Logitech distributing malware?",
+        "score": 1,
+        "id": "3wgcmk",
+        "commsNum": 18,
+        "timeStamp": "2015/12/11-16:56:02",
+        "author_name": "ShiftAlpha",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 18,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/3wgcmk/logitech_distributing_malware/"
+    },
+    "posts": {}
+}

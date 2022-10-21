@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "[removed]",
+        "title": "Yopcgames",
+        "score": 1,
+        "id": "w3360d",
+        "commsNum": 0,
+        "timeStamp": "2022/07/19-13:50:48",
+        "author_name": "Haruba2",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/w3360d/yopcgames/"
+    },
+    "posts": {
+        "igtuoyg": {
+            "comment": "[removed]",
+            "timeStamp": "2022/07/19-13:51:29",
+            "id": "igtuoyg",
+            "is_submitter": false,
+            "link_id": "t3_w3360d",
+            "parent_id": "t3_w3360d",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

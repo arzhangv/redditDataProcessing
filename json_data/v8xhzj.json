@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Mincraft Server port: \"25565\"\n\nEven after the log4j disaster, security of minecraft seems weak.. Only after finding mincraft servers, It seems possible to penetrate from outside to inside. They need attentions\n\nhttps://preview.redd.it/f1o2uuehgp491.png?width=1510&amp;format=png&amp;auto=webp&amp;s=a8ce67b174947e18e1bcc0b487ac3e605d24c27f",
+        "title": "Minecraft security seems weak even after Log4j..",
+        "score": 1,
+        "id": "v8xhzj",
+        "commsNum": 0,
+        "timeStamp": "2022/06/09-19:37:46",
+        "author_name": "Late_Ice_9288",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/v8xhzj/minecraft_security_seems_weak_even_after_log4j/"
+    },
+    "posts": {
+        "ibthzhl": {
+            "comment": "Are you saying they're vulnerable due to the version they are running? Regardless that doesn't seem too surprising - I would actually bet these servers are already compromised.",
+            "timeStamp": "2022/06/09-21:32:34",
+            "id": "ibthzhl",
+            "is_submitter": false,
+            "link_id": "t3_v8xhzj",
+            "parent_id": "t1_ibt7r21",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Tiktoor"
+        },
+        "ibthr6q": {
+            "comment": "What is it that you think this screenshot shows you? How do you believe these systems can be penetrated?",
+            "timeStamp": "2022/06/09-21:30:02",
+            "id": "ibthr6q",
+            "is_submitter": false,
+            "link_id": "t3_v8xhzj",
+            "parent_id": "t1_ibt7r21",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sumdude1849"
+        },
+        "ibtcfav": {
+            "comment": "Is it because on minecraft specifically or because the minecraft server market is flooded with cheap vps resellers who do little in the way of security",
+            "timeStamp": "2022/06/09-20:36:07",
+            "id": "ibtcfav",
+            "is_submitter": false,
+            "link_id": "t3_v8xhzj",
+            "parent_id": "t1_ibt7r21",
+            "score": 1,
+            "stickied": false,
+            "author_name": "alnarra_1"
+        },
+        "ibt7r21": {
+            "comment": "just by searching open source intelligence, there were over 50 mincraft severs that can be penetrated.",
+            "timeStamp": "2022/06/09-19:53:02",
+            "id": "ibt7r21",
+            "is_submitter": true,
+            "link_id": "t3_v8xhzj",
+            "parent_id": "t1_ibt78zn",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Late_Ice_9288"
+        },
+        "ibt78zn": {
+            "comment": "What are you saying exactly?",
+            "timeStamp": "2022/06/09-19:48:43",
+            "id": "ibt78zn",
+            "is_submitter": false,
+            "link_id": "t3_v8xhzj",
+            "parent_id": "t3_v8xhzj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Tiktoor"
+        }
+    }
+}

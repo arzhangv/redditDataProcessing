@@ -1,0 +1,121 @@
+{
+    "op": {
+        "upvote_ratio": 0.67,
+        "selftext": "Hi\n\nAny good tools on GitHub that will scrap the Dark Web for key words I specify?",
+        "title": "Dark Web Scrapting",
+        "score": 4,
+        "id": "q24fh3",
+        "commsNum": 15,
+        "timeStamp": "2021/10/05-13:07:49",
+        "author_name": "antmar9041",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 15,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/q24fh3/dark_web_scrapting/"
+    },
+    "posts": {
+        "hfn7cla": {
+            "comment": "Sure thing!",
+            "timeStamp": "2021/10/06-13:00:41",
+            "id": "hfn7cla",
+            "is_submitter": false,
+            "link_id": "t3_q24fh3",
+            "parent_id": "t1_hflnqem",
+            "score": 1,
+            "stickied": false,
+            "author_name": "jt_dunnski"
+        },
+        "hflnqem": {
+            "comment": "thank you for the detailed info!",
+            "timeStamp": "2021/10/06-06:26:54",
+            "id": "hflnqem",
+            "is_submitter": true,
+            "link_id": "t3_q24fh3",
+            "parent_id": "t1_hflnkwd",
+            "score": 1,
+            "stickied": false,
+            "author_name": "antmar9041"
+        },
+        "hflnkwd": {
+            "comment": "There\u2019s a big reason that these companies charge a decent amount for their services. They usually build personas on these forums and actually interact with members to gather intel. It requires building \u201ccred\u201d with the members of these groups so that you don\u2019t appear suspicious. There\u2019s a lot that goes into monitoring these types of sites that a script won\u2019t just be able to do for you. \nIf your company has the budget and it\u2019s a priority for your company they should definitely consider outsourcing that to one of the established companies that do that work.",
+            "timeStamp": "2021/10/06-06:25:38",
+            "id": "hflnkwd",
+            "is_submitter": false,
+            "link_id": "t3_q24fh3",
+            "parent_id": "t1_hfjcgso",
+            "score": 4,
+            "stickied": false,
+            "author_name": "jt_dunnski"
+        },
+        "hfjox7v": {
+            "comment": "You might get some success asking some of the people in r/cybersecurity",
+            "timeStamp": "2021/10/05-17:29:27",
+            "id": "hfjox7v",
+            "is_submitter": false,
+            "link_id": "t3_q24fh3",
+            "parent_id": "t1_hfjcgso",
+            "score": 5,
+            "stickied": false,
+            "author_name": "HangingWillChaloner"
+        },
+        "hfjcgso": {
+            "comment": "Really just looking to see if any of my companies info is being sold on the dark net.  I know there are paid services that provide this but trying to keep cost down.",
+            "timeStamp": "2021/10/05-15:49:16",
+            "id": "hfjcgso",
+            "is_submitter": true,
+            "link_id": "t3_q24fh3",
+            "parent_id": "t3_q24fh3",
+            "score": 2,
+            "stickied": false,
+            "author_name": "antmar9041"
+        },
+        "hfj6ghc": {
+            "comment": "Tor is one way sure. Dark Web doesn\u2019t just mean Tor though. It\u2019s also just unindexed parts of the internet. There are also vulnerabilities with Tor as well that might allow things to be traced back to you.",
+            "timeStamp": "2021/10/05-15:02:46",
+            "id": "hfj6ghc",
+            "is_submitter": false,
+            "link_id": "t3_q24fh3",
+            "parent_id": "t1_hfj28sz",
+            "score": 4,
+            "stickied": false,
+            "author_name": "jt_dunnski"
+        },
+        "hfj28sz": {
+            "comment": "&gt;take proper care to mask your IP\n\nDark web implies not accessible to the normal \"clear net\", e.g. Tor hidden services. You cannot access Tor hidden services without using Tor, so there shouldn't be any concern about leaking your real IP.",
+            "timeStamp": "2021/10/05-14:31:10",
+            "id": "hfj28sz",
+            "is_submitter": false,
+            "link_id": "t3_q24fh3",
+            "parent_id": "t1_hfixjk8",
+            "score": 5,
+            "stickied": false,
+            "author_name": "kill_box"
+        },
+        "hfj1qbj": {
+            "comment": "By dark web, people usually mean Tor, if so, you're probably better off asking on r/tor.\n\nScraping Tor is the same as scraping clear net. It seems like what you are asking is how to find hidden services, so that you can scrape, which you know is kinda opposite the whole design of hidden services.\n\nIt used to be that you could run a malicious Tor directory server to snoop on requests and discover hidden services. IIRC, this now gets your directory node banned very quickly thanks to honeypot requests.",
+            "timeStamp": "2021/10/05-14:27:21",
+            "id": "hfj1qbj",
+            "is_submitter": false,
+            "link_id": "t3_q24fh3",
+            "parent_id": "t3_q24fh3",
+            "score": 10,
+            "stickied": false,
+            "author_name": "kill_box"
+        },
+        "hfixjk8": {
+            "comment": "I\u2019ve never seen anything specifically for the \u201cDark Web\u201d.  \n\nI\u2019m not sure that would be something that you would want to do either even if there were. You would be potentially exposing yourself to an untold number of threats if you don\u2019t take proper care to mask your IP and other identifiable network/machine info. \n\nPlus, if you\u2019re looking to pull data from member only forums and other places where you\u2019re likely trying to get value, you would need a log in to enter to even begin to scrape anything and doing so would very likely and quickly get your access revoked while also likely dealing with my point above.",
+            "timeStamp": "2021/10/05-13:56:56",
+            "id": "hfixjk8",
+            "is_submitter": false,
+            "link_id": "t3_q24fh3",
+            "parent_id": "t3_q24fh3",
+            "score": 5,
+            "stickied": false,
+            "author_name": "jt_dunnski"
+        }
+    }
+}

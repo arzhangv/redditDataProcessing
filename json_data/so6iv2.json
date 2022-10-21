@@ -1,0 +1,165 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Seriously it hasn\u2019t affected my pc in any way? Should I reset it or? Very confusing",
+        "title": "I have malware according to windows security but nothing has happened at all to prove that fact.",
+        "score": 1,
+        "id": "so6iv2",
+        "commsNum": 0,
+        "timeStamp": "2022/02/08-22:16:17",
+        "author_name": "N0sey_Bonk",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/so6iv2/i_have_malware_according_to_windows_security_but/"
+    },
+    "posts": {
+        "hw883d2": {
+            "comment": "I think it\u2019s just a false positive thing. Since the file which I downloaded was form a safe site. Which I always use. The website hasn\u2019t been hacked to my knowledge. And my pc is old and makes weird noises from windows 7 all the time.",
+            "timeStamp": "2022/02/09-06:31:06",
+            "id": "hw883d2",
+            "is_submitter": true,
+            "link_id": "t3_so6iv2",
+            "parent_id": "t1_hw76bx9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "N0sey_Bonk"
+        },
+        "hw87tol": {
+            "comment": "I don\u2019t know where the file is and it never said it was deleted. It says it may or may not be deleted. How the hell does windows defender even do that?",
+            "timeStamp": "2022/02/09-06:29:11",
+            "id": "hw87tol",
+            "is_submitter": true,
+            "link_id": "t3_so6iv2",
+            "parent_id": "t1_hw6zoir",
+            "score": 1,
+            "stickied": false,
+            "author_name": "N0sey_Bonk"
+        },
+        "hw87p6q": {
+            "comment": "It says I have malware but it says it didn\u2019t delete it? Even though it\u2019s not on my files anymore?",
+            "timeStamp": "2022/02/09-06:28:17",
+            "id": "hw87p6q",
+            "is_submitter": true,
+            "link_id": "t3_so6iv2",
+            "parent_id": "t1_hw7gc8c",
+            "score": 1,
+            "stickied": false,
+            "author_name": "N0sey_Bonk"
+        },
+        "hw7gc8c": {
+            "comment": "what does the thing say?",
+            "timeStamp": "2022/02/09-01:54:45",
+            "id": "hw7gc8c",
+            "is_submitter": false,
+            "link_id": "t3_so6iv2",
+            "parent_id": "t3_so6iv2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DM-ME-UR-GORE"
+        },
+        "hw79b9z": {
+            "comment": "This isn't a support subreddit",
+            "timeStamp": "2022/02/09-00:23:04",
+            "id": "hw79b9z",
+            "is_submitter": false,
+            "link_id": "t3_so6iv2",
+            "parent_id": "t3_so6iv2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Rakanisheu"
+        },
+        "hw76bx9": {
+            "comment": "Windows defender will proactively scan your computer every so often as a preventative measure. Not all malware is actively running when it's found. Without knowing exactly what signature and file it took action against, I can only speculate. However given recent experience, I've noticed that defender has been alerting on   files that are not malicious themselves, but are vulnerable to some big name CVEs like Log4Shell and a python library thing I forget the name of. Both were resident on most of my machines because I use programs that need the files in question, but not frequently, and certainly not at 3am when the scan and alert happened on my systems.\n\nBig takeaway here though should be that malware has evolved to the point where it's tricky enough to usually execute and do it's nastiness without a user knowing. Stealth capabilities used to be the exclusive domain of big bad nation-state APTs. Nowadays, everyone has that baked into their executables.",
+            "timeStamp": "2022/02/08-23:46:11",
+            "id": "hw76bx9",
+            "is_submitter": false,
+            "link_id": "t3_so6iv2",
+            "parent_id": "t3_so6iv2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Rokhmal112358"
+        },
+        "hw707ce": {
+            "comment": "No virustotal is a website 5hat takes a file and scans it through every imaginable AV you can think of.",
+            "timeStamp": "2022/02/08-22:36:06",
+            "id": "hw707ce",
+            "is_submitter": false,
+            "link_id": "t3_so6iv2",
+            "parent_id": "t1_hw6ymfx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "macgeek89"
+        },
+        "hw702mt": {
+            "comment": "If you received a Windows alert it likely already took action against whatever it was. So it was quarantined or removed. If you are skeptical you may want to consider downloading Malwarebytes and running a secondary scan.",
+            "timeStamp": "2022/02/08-22:34:44",
+            "id": "hw702mt",
+            "is_submitter": false,
+            "link_id": "t3_so6iv2",
+            "parent_id": "t3_so6iv2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "kullus"
+        },
+        "hw700we": {
+            "comment": "No!! your not dumb. Just didnt know better. We all make mistakes!!",
+            "timeStamp": "2022/02/08-22:34:12",
+            "id": "hw700we",
+            "is_submitter": false,
+            "link_id": "t3_so6iv2",
+            "parent_id": "t1_hw6ylii",
+            "score": 1,
+            "stickied": false,
+            "author_name": "macgeek89"
+        },
+        "hw6zoir": {
+            "comment": "If windows defender says the malware was successfully quarantined or deleted, it did it\u2019s job and you have nothing to worry about. Next time, be careful with downloading files off the internet",
+            "timeStamp": "2022/02/08-22:30:33",
+            "id": "hw6zoir",
+            "is_submitter": false,
+            "link_id": "t3_so6iv2",
+            "parent_id": "t3_so6iv2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "_urn"
+        },
+        "hw6ymfx": {
+            "comment": "Probably how this malware got into my pc to begin with",
+            "timeStamp": "2022/02/08-22:19:31",
+            "id": "hw6ymfx",
+            "is_submitter": true,
+            "link_id": "t3_so6iv2",
+            "parent_id": "t1_hw6yhsi",
+            "score": 1,
+            "stickied": false,
+            "author_name": "N0sey_Bonk"
+        },
+        "hw6ylii": {
+            "comment": "??? Sorry I\u2019m extremely dumb",
+            "timeStamp": "2022/02/08-22:19:16",
+            "id": "hw6ylii",
+            "is_submitter": true,
+            "link_id": "t3_so6iv2",
+            "parent_id": "t1_hw6yhsi",
+            "score": 1,
+            "stickied": false,
+            "author_name": "N0sey_Bonk"
+        },
+        "hw6yhsi": {
+            "comment": "You could try submitting the file to virus total and see what creeps up?",
+            "timeStamp": "2022/02/08-22:18:13",
+            "id": "hw6yhsi",
+            "is_submitter": false,
+            "link_id": "t3_so6iv2",
+            "parent_id": "t3_so6iv2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "macgeek89"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I do research about the evolution of ransomware, perform an analysis on some of them and find a solution excluding signature-based detection that can be used for prevention. These are some reading that already on my list:\n\n- [Understanding Crypto-Ransomware by Bromium](http://www.bromium.com/sites/default/files/bromium-report-ransomware.pdf)\n- [Cryptoviral extortion using Microsoft's Crypto API](http://link.springer.com/article/10.1007%2Fs10207-006-0082-7)\n- [Cryptovirology: Extortion-Based Security Threats and Countermeasures](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&amp;arnumber=502676&amp;url=http%3A%2F%2Fieeexplore.ieee.org%2Fiel3%2F3742%2F10940%2F00502676.pdf%3Farnumber%3D502676)\n- [Malicious cryptography...reloaded and also malicious statics](https://cansecwest.com/csw08/csw08-raynal.pdf)\n- [The Evolution of Ransomware](https://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/the-evolution-of-ransomware.pdf)\n- [Malicious Cryptography: Exposing Cryptovirology](http://as.wiley.com/WileyCDA/WileyTitle/productCd-0764549758.html)\n\nIf you have anything that not on my list (whitepaper/paper/journal/PDF/etc.), Put it on comment below. Thanks!",
+        "title": "Suggested reading about ransomware?",
+        "score": 14,
+        "id": "3phqk9",
+        "commsNum": 3,
+        "timeStamp": "2015/10/20-06:58:23",
+        "author_name": "pe3zx",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/3phqk9/suggested_reading_about_ransomware/"
+    },
+    "posts": {}
+}

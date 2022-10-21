@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "https://youtu.be/fMKas2R4I1k\n\n\nhttps://youtu.be/0C8UXwVQlHQ",
+        "title": "looking for the downloads to these relics",
+        "score": 1,
+        "id": "f2rtj2",
+        "commsNum": 3,
+        "timeStamp": "2020/02/12-06:15:07",
+        "author_name": "OldSportxD",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/f2rtj2/looking_for_the_downloads_to_these_relics/"
+    },
+    "posts": {
+        "fhgcvo6": {
+            "comment": "I would recommend creating a hybrid-analysis account so that you'd be able to get hands of tonnes of malware",
+            "timeStamp": "2020/02/12-19:18:56",
+            "id": "fhgcvo6",
+            "is_submitter": false,
+            "link_id": "t3_f2rtj2",
+            "parent_id": "t3_f2rtj2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "LMJR500Army"
+        },
+        "fherfpf": {
+            "comment": "here you go be careful\n\nhttps://www.youtube.com/watch?v=rMDEvoeqaHA",
+            "timeStamp": "2020/02/12-09:26:26",
+            "id": "fherfpf",
+            "is_submitter": false,
+            "link_id": "t3_f2rtj2",
+            "parent_id": "t3_f2rtj2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Eureka_sevenfold"
+        },
+        "fhege1u": {
+            "comment": "Google \"github thezoo\" &lt; the zoo is all one word. It might be in that massive collection of malware. Else, check various malware forums.",
+            "timeStamp": "2020/02/12-07:37:14",
+            "id": "fhege1u",
+            "is_submitter": false,
+            "link_id": "t3_f2rtj2",
+            "parent_id": "t3_f2rtj2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "the-bit-slinger"
+        }
+    }
+}

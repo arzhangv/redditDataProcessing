@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "It seems that a lot of antivirus scanners still rely somewhat (if not primarily) upon byte signatures. How do they know that a particular sequence of bytes is unique to that particular virus? Given that these signatures typically represent just a couple assembly instructions (I've heard that most signatures are, at most, sixteen to thirty two bytes), how do they know that there aren't a million other legitimate programs with the same sequence of bytes? It's not like there are a series of \"malware instructions\" that only malicious programs use. And AV companies surely can't keep copies of every legitimate program in existence on record so they can scan through them. So how do they know that 1234 5678 9ABC DEF1 is a signature just for the malware, and not for any legitimate program?",
+        "title": "How do AV vendors know a signature is unique?",
+        "score": 6,
+        "id": "4s9oxd",
+        "commsNum": 21,
+        "timeStamp": "2016/07/11-00:07:45",
+        "author_name": "exosphere6",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 21,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/4s9oxd/how_do_av_vendors_know_a_signature_is_unique/"
+    },
+    "posts": {}
+}

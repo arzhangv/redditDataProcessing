@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "got this javascript file as an mail attachment and it seems to be humorously obfuscated malware. i haven't found anything about it online. does somebody has a test setup or is willing to deobfuscate it?\n\nhttp://pastebin.com/Nt3e8P72",
+        "title": "funny obfuscated malware. what does it do?",
+        "score": 13,
+        "id": "4lcyye",
+        "commsNum": 9,
+        "timeStamp": "2016/05/27-14:39:10",
+        "author_name": "etwas",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 9,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/4lcyye/funny_obfuscated_malware_what_does_it_do/"
+    },
+    "posts": {}
+}

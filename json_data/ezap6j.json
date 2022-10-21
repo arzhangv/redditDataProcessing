@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I somehow got the routgveriprt virus. My laptop started going super slow and then random windows popped up, stuff dissapeared, the screen turned black. I shut it down and after one day I turned it on, but without plugging it to power. For some reason it worked perfectly. I took the opportunity to download malwarebytes and scan. 52 threats were detected and deleted. I thought it was over but... The minute I plugged it to power, it started going slow again. I shut it down and it took about 5 minutes (my laptop is expensive and fast, ususally it takes less than a minute to shut down). \n\nTo cut a long story short, the virus seems to still be in there, but only when the laptop is plugged to power. \n\nI did another scan and nothing appeared.\n\nIt doesn't make sense, please help me. \n\nAlso, in the control panel, the only program downloaded the day I got the virus is Panda Endpoint Protection. I didn't do that. I already have Panda. Should I just uninstall it?\n\nAlso, I haven't downloaded a torrent since 2019, and I am generally carefull. I understand I got this virus by accidentaly clicking \"allow notifications\" in some random website.",
+        "title": "routgveriprt virus: used malwarebytes to remove threats but there is still something going on",
+        "score": 1,
+        "id": "ezap6j",
+        "commsNum": 3,
+        "timeStamp": "2020/02/05-06:55:11",
+        "author_name": "jeni43",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ezap6j/routgveriprt_virus_used_malwarebytes_to_remove/"
+    },
+    "posts": {
+        "fgokbej": {
+            "comment": "[Bootable AV tools](https://www.lifewire.com/free-bootable-antivirus-tools-2625785)",
+            "timeStamp": "2020/02/05-23:14:12",
+            "id": "fgokbej",
+            "is_submitter": false,
+            "link_id": "t3_ezap6j",
+            "parent_id": "t1_fgnf6m5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "harrybarracuda"
+        },
+        "fgnf6m5": {
+            "comment": "do you have a link?",
+            "timeStamp": "2020/02/05-14:59:28",
+            "id": "fgnf6m5",
+            "is_submitter": true,
+            "link_id": "t3_ezap6j",
+            "parent_id": "t1_fgn1rhz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "jeni43"
+        },
+        "fgn1rhz": {
+            "comment": "Download a bootable virus scanner and clean with that. A lot of malware is persistent.",
+            "timeStamp": "2020/02/05-12:53:53",
+            "id": "fgn1rhz",
+            "is_submitter": false,
+            "link_id": "t3_ezap6j",
+            "parent_id": "t3_ezap6j",
+            "score": 1,
+            "stickied": false,
+            "author_name": "harrybarracuda"
+        }
+    }
+}

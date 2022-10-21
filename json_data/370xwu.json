@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hello,\n\nI'm just getting into malware analysis as a hobby. I was wondering where I can get help for a couple of questions I have. Is there a irc channel for the community :)?\n\nSome of my questions are:\nI'm looking at a win32 binary that loads a resource via LoadResource and returns a pointer to the loaded resources. How can I save or disassemble the loaded resource ?\nAnother question is regarding DLL injection related to service DLLs.\n\nThanks,",
+        "title": "Getting help",
+        "score": 6,
+        "id": "370xwu",
+        "commsNum": 3,
+        "timeStamp": "2015/05/23-14:03:04",
+        "author_name": "qwe0asd",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/370xwu/getting_help/"
+    },
+    "posts": {}
+}

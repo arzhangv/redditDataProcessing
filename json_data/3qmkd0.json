@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hoping I could get some help here... I am getting blacklisted by Google just about once every two weeks due to malware.  According to Google, there is a malicious URL appearing in their scans (...176.102.34.137/).  The site is www.paradigmtrainingcenter.com\n\nSome backstory: Previous developer used Wordpress and I removed all files from the Filer Manager in GoDaddy, also changed the sftp passwords.  I basically started from scratch using SquareSpace to rebuild the site.  The Google black listing has been happening ever since the new site went live and for the life of me cannot find this malicious URL they are mentioning.  I have used tools like Sucuri, SiteLock and neither could find a malicious URL.  At the moment the site is not flagged, but its only a matter of time.  Here is the latest from Google support:\n\n\"As mentioned previously, it looks like the Malware is in the form of an IP Address (176.102.34.137/). It is possible that there is something on your website that is dynamically generating content and this may be the root of the issue. Also, keep an eye out on user generated content, such as comments or reviews, as well as ensuring that your firewall did not get compromised.\nFinally, I noticed that you have a photo slideshow on your page. If, for whatever reason, one of these images were to be infected with Malware, this would also cause the same problem.\"\n\nAny advice?",
+        "title": "Google Blacklisting Squarespace Website",
+        "score": 1,
+        "id": "3qmkd0",
+        "commsNum": 13,
+        "timeStamp": "2015/10/28-15:48:23",
+        "author_name": "air4borne",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 13,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/3qmkd0/google_blacklisting_squarespace_website/"
+    },
+    "posts": {}
+}

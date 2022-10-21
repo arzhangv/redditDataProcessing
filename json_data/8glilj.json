@@ -1,0 +1,143 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I'm seeing this tagged in a few places as Qrat \\(qarallax\\) but it looks an awful lot like adwind RAT characteristics to me. I'm a complete beginner to mal analysis so any help is appreciated!\n\nMD5: c320b2fc6c8c4a32d3bad710c06de194\n\nhttps://app.any.run/tasks/913d9a87\\-d892\\-4c9f\\-b2fb\\-7be48f37853d",
+        "title": "Java Based RAT",
+        "score": 15,
+        "id": "8glilj",
+        "commsNum": 11,
+        "timeStamp": "2018/05/02-15:32:33",
+        "author_name": "thehoodedidiot",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 11,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8glilj/java_based_rat/"
+    },
+    "posts": {
+        "dykj40a": {
+            "comment": "It's refreshing to see a genuinely helpful, good, and accurate post on /r/malware. Good work.",
+            "timeStamp": "2018/05/06-20:56:25",
+            "id": "dykj40a",
+            "is_submitter": false,
+            "link_id": "t3_8glilj",
+            "parent_id": "t1_dydp4ey",
+            "score": 1,
+            "stickied": false,
+            "author_name": "catcradle5"
+        },
+        "dyffz5r": {
+            "comment": "That video is on Adwind. jRAT is a separate family (also called JacksBot). People confuse the two after Adwind started referring to the website for jRAT in its config in the latest version (presumably as a false flag after Adwind received a lot of attention and was the target of a few takedowns).",
+            "timeStamp": "2018/05/04-01:01:27",
+            "id": "dyffz5r",
+            "is_submitter": false,
+            "link_id": "t3_8glilj",
+            "parent_id": "t1_dyctysg",
+            "score": 2,
+            "stickied": false,
+            "author_name": "f00l"
+        },
+        "dydpqb7": {
+            "comment": "Awesome! Thanks for the details, apologies for the broken link",
+            "timeStamp": "2018/05/03-06:38:30",
+            "id": "dydpqb7",
+            "is_submitter": true,
+            "link_id": "t3_8glilj",
+            "parent_id": "t1_dydp4ey",
+            "score": 1,
+            "stickied": false,
+            "author_name": "thehoodedidiot"
+        },
+        "dydp4ey": {
+            "comment": "Most people get this wrong. The people behind QRat (also known as Qarallax RAT and QUAverse RAT) also make a packer called QRypter. Several blog posts from both amateurs and professionals keep misidentifying one as the other, when in reality all you need to do is unpack the dang thing to see the original files.\n\nThe sample you provided was packed with QRypter.\n\nAfter unpacking (left as an exercise to the reader), you'll find ANOTHER QRypter-packed sample (as well as the PDF shown when running it). Unpack that as well, and you get QRat.\n\nFor unpacking, get a decent Java Decompiler (I prefer Krakatou), a decent hex editor, some familiarity with Java and serialized java objects and proficiency in a programming language of your choice (for decrypting and ecompressing stuff). A Java REPL can be handy for some manual stuff, but after unpacking a few of these by hand you'll know enough to be able to write an automatic unpacker.\n\n",
+            "timeStamp": "2018/05/03-06:27:32",
+            "id": "dydp4ey",
+            "is_submitter": false,
+            "link_id": "t3_8glilj",
+            "parent_id": "t3_8glilj",
+            "score": 9,
+            "stickied": false,
+            "author_name": "f00l"
+        },
+        "dydizc2": {
+            "comment": "Thanks! I should have noticed.",
+            "timeStamp": "2018/05/03-04:08:33",
+            "id": "dydizc2",
+            "is_submitter": false,
+            "link_id": "t3_8glilj",
+            "parent_id": "t1_dydfv7j",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DavidB-TPW"
+        },
+        "dydfv7j": {
+            "comment": "There are backslashes in the URL which shouldn't be there. [This](https://app.any.run/tasks/913d9a87-d892-4c9f-b2fb-7be48f37853d) is this correct link.",
+            "timeStamp": "2018/05/03-02:14:56",
+            "id": "dydfv7j",
+            "is_submitter": false,
+            "link_id": "t3_8glilj",
+            "parent_id": "t1_dyctbtg",
+            "score": 3,
+            "stickied": false,
+            "author_name": "ThisIsLibra"
+        },
+        "dydfto9": {
+            "comment": "The link results in a 404 page not found error, hence my remark\n\nEDIT: if you remove the backslashes it works, so [this](https://app.any.run/tasks/913d9a87-d892-4c9f-b2fb-7be48f37853d) is this correct link.",
+            "timeStamp": "2018/05/03-02:13:12",
+            "id": "dydfto9",
+            "is_submitter": false,
+            "link_id": "t3_8glilj",
+            "parent_id": "t1_dycqbt0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ThisIsLibra"
+        },
+        "dyctysg": {
+            "comment": "OALabs video on a JRAT which looked like adwind https://www.youtube.com/watch?v=yHrr9v0E6MQ\n\nThere are two configs for JRAT one is a dummy one and the actual config which is only in memory. ",
+            "timeStamp": "2018/05/02-17:38:16",
+            "id": "dyctysg",
+            "is_submitter": false,
+            "link_id": "t3_8glilj",
+            "parent_id": "t3_8glilj",
+            "score": 5,
+            "stickied": false,
+            "author_name": "r30ng1n3rd"
+        },
+        "dyctbtg": {
+            "comment": "Unfortunately the link you posted is broken.",
+            "timeStamp": "2018/05/02-17:26:54",
+            "id": "dyctbtg",
+            "is_submitter": false,
+            "link_id": "t3_8glilj",
+            "parent_id": "t3_8glilj",
+            "score": 5,
+            "stickied": false,
+            "author_name": "DavidB-TPW"
+        },
+        "dycqbt0": {
+            "comment": "Link in post, there's a download sample option on the page",
+            "timeStamp": "2018/05/02-16:32:06",
+            "id": "dycqbt0",
+            "is_submitter": true,
+            "link_id": "t3_8glilj",
+            "parent_id": "t1_dycowx8",
+            "score": 2,
+            "stickied": false,
+            "author_name": "thehoodedidiot"
+        },
+        "dycowx8": {
+            "comment": "If you PM me a link to the sample, I will take a look at it. Cant promise anything though",
+            "timeStamp": "2018/05/02-16:06:39",
+            "id": "dycowx8",
+            "is_submitter": false,
+            "link_id": "t3_8glilj",
+            "parent_id": "t3_8glilj",
+            "score": 5,
+            "stickied": false,
+            "author_name": "ThisIsLibra"
+        }
+    }
+}

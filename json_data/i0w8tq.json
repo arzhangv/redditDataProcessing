@@ -1,0 +1,176 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "After TikTok ban in India, there is Android Malware that spreads via SMS in India as TikTok Pro",
+        "score": 1,
+        "id": "i0w8tq",
+        "commsNum": 14,
+        "timeStamp": "2020/07/30-16:01:20",
+        "author_name": "barakadua131",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 14,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://youtu.be/mzkDxBjshI4"
+    },
+    "posts": {
+        "g0ll3bw": {
+            "comment": "India\u2019s influence on TikTok\u2019s trending popularity (2019/2020) ~ About 611 million downloads so far made by Indians which is 30.3 % of the total making India the number #1 in the list. Even the China 9.7 % downloads making them the number #2 in the list. Find more facts here : https://knovhov.com/tiktok-banned-in-india/",
+            "timeStamp": "2020/08/06-12:52:31",
+            "id": "g0ll3bw",
+            "is_submitter": false,
+            "link_id": "t3_i0w8tq",
+            "parent_id": "t3_i0w8tq",
+            "score": 2,
+            "stickied": false,
+            "author_name": "knovhov"
+        },
+        "fzuge85": {
+            "comment": "Awesome analysis, thanks!",
+            "timeStamp": "2020/07/31-02:17:38",
+            "id": "fzuge85",
+            "is_submitter": true,
+            "link_id": "t3_i0w8tq",
+            "parent_id": "t1_fztvfb4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "barakadua131"
+        },
+        "fzu51hp": {
+            "comment": "The link from the SMS is still alive, http://tiny .cc/Tiktok_pro.\nHash: DE1CC17586FC8662A81A7901BE40D68CDEE95576",
+            "timeStamp": "2020/07/30-23:14:02",
+            "id": "fzu51hp",
+            "is_submitter": true,
+            "link_id": "t3_i0w8tq",
+            "parent_id": "t1_fzu0mro",
+            "score": 1,
+            "stickied": false,
+            "author_name": "barakadua131"
+        },
+        "fzu0mro": {
+            "comment": "Can u provide the link for the sample?",
+            "timeStamp": "2020/07/30-22:14:32",
+            "id": "fzu0mro",
+            "is_submitter": false,
+            "link_id": "t3_i0w8tq",
+            "parent_id": "t3_i0w8tq",
+            "score": 2,
+            "stickied": false,
+            "author_name": "pr0bl3m_ch1ld"
+        },
+        "fztzl5v": {
+            "comment": "That\u2019s what I was thinking! It\u2019s a weird strategy but I assume that 1 ad * a couple thousand people is a viable strategy to gain a bit of income. It\u2019s just a really odd one worm haha !",
+            "timeStamp": "2020/07/30-22:01:28",
+            "id": "fztzl5v",
+            "is_submitter": false,
+            "link_id": "t3_i0w8tq",
+            "parent_id": "t1_fztyvyl",
+            "score": 1,
+            "stickied": false,
+            "author_name": "0x843"
+        },
+        "fztyvyl": {
+            "comment": "Good writeup. Seems your idea of it being a test of the population is a good one. If we start seeing witch hunts I wouldn't be surprised. I dont see any other angle besides ad revenue. But just displaying one ad isn't going to make much. And the Indian gov't probably wouldn't include an ad.",
+            "timeStamp": "2020/07/30-21:53:07",
+            "id": "fztyvyl",
+            "is_submitter": false,
+            "link_id": "t3_i0w8tq",
+            "parent_id": "t1_fztvfb4",
+            "score": 2,
+            "stickied": false,
+            "author_name": "MisterCBax"
+        },
+        "fztvi1q": {
+            "comment": "thanks bro.",
+            "timeStamp": "2020/07/30-21:15:21",
+            "id": "fztvi1q",
+            "is_submitter": false,
+            "link_id": "t3_i0w8tq",
+            "parent_id": "t1_fztux1a",
+            "score": 1,
+            "stickied": false,
+            "author_name": "zer1-1"
+        },
+        "fztvfb4": {
+            "comment": "Replying again because I accidentally put the malicious link shortener in my original reply.\n\nTLDR: The app just grabs peoples contacts and messages them all the worm and when they try to log into what they believe is their Tiktok account it says that they should use Indian apps, etc and it spreads the the original message. I do not know why the creator of this worm is checking if people are apart of certain networks. All in all the worm itself doesn't seem malicious other than it's spreading itself.\n\nWhen you install the APK it requests the following permissions: \"android.permission.READ\\_CONTACTS\", \"android.permission.SEND\\_SMS\", \"android.permission.READ\\_PHONE\\_STATE\", \"android.permission.ACCESS\\_COARSE\\_LOCATION\", \"android.permission.ACCESS\\_FINE\\_LOCATION\".\n\nFrom there it displays one(Don't actually know if its one) video ad from the ad provider AppLovin. While its doing all that it gets all the contacts phone numbers and checks whether or not the person is a part of the [JIO network](https://www.jio.com/) through an api that they have.\n\n~~It also sends the phone numbers it gets a specific phone number that is encrypted with tripleDES(lol) so I'm currently trying to get the phone number its all being sent to.~~\n\nThe apk itself isn't really obfuscated for an android app ~~and it has quite a bit of personal info, namely the developer bundle(com.name.thing) has the persons name in it I think?.~~ So I thought the developer bundle id or w/e was the persons actual name but it turns out that ben stokes is a famous cricket player lol.\n\nInteresting thing is that the app is designed to spread the apk in order to find people who support chinese apps and then I guess they are going to do something with the phone numbers of the people that tried to sign in, into what they thought was tiktok.\n\nI'm currently trying to pull the ~~number~~ that is encrypted from the app, going to be using frida to get it probably.\n\nI was wrong about the encrypted part being a phone number, I initially thought it was a phone number because I read a variable incorrectly, the encrypted string `xejgFDJopbKApWH14X1D2VYpVmIzkO6dfEmBm2BmQS2PjY4/z7ly2magueQLl5Lxdiodz4lmlBXu9UQ6pBXE/stzfTMA21Y2Py8hJiItTSi1tgOUbL+2FuBjdoCL+/VY/2zQq5eF6EOfrE/IZOkA7naQof8Plnj/FJtbWLCvk7uj2DVdLFAXJcxRI5nnJudBH7wFTqXwcvWM1Piw6mMqUw==` is actually just the initially wormed message which is just\n\n    Enjoy Tiktok Videos and also make Creative Videos again.\n    Now Tiktok is only Available in (Tiktok pro) So Download from below.\n    \n    Link: REMOVED BC VIRUS\n\nif anyone is interested.",
+            "timeStamp": "2020/07/30-21:14:35",
+            "id": "fztvfb4",
+            "is_submitter": false,
+            "link_id": "t3_i0w8tq",
+            "parent_id": "t1_fzsy6b6",
+            "score": 7,
+            "stickied": false,
+            "author_name": "0x843"
+        },
+        "fztux1a": {
+            "comment": "The key is actually not hidden well in the app :D The key needed to decrypt the data was just set to \"ThisIsSpartaThisIsSparta\"\n\n  \nI will admit this was a bit of a rollercoaster to figure out since I'm a complete newbie at Android, but nothing some searching couldn't fix!  \n\n\nIf you have questions feel free to ask.",
+            "timeStamp": "2020/07/30-21:09:31",
+            "id": "fztux1a",
+            "is_submitter": false,
+            "link_id": "t3_i0w8tq",
+            "parent_id": "t1_fztsh3s",
+            "score": 2,
+            "stickied": false,
+            "author_name": "0x843"
+        },
+        "fztsh3s": {
+            "comment": "Okay, sorry don't know much about android. So key might be hidden somewhere in app right ? , can not you just sniff traffic to find phone number ?",
+            "timeStamp": "2020/07/30-20:45:12",
+            "id": "fztsh3s",
+            "is_submitter": false,
+            "link_id": "t3_i0w8tq",
+            "parent_id": "t1_fztrslm",
+            "score": 1,
+            "stickied": false,
+            "author_name": "zer1-1"
+        },
+        "fztrslm": {
+            "comment": "DES is a symmetric encryption algorithm like AES or Camellia, you just need an IV and key to decrypt/encrypt.",
+            "timeStamp": "2020/07/30-20:38:35",
+            "id": "fztrslm",
+            "is_submitter": false,
+            "link_id": "t3_i0w8tq",
+            "parent_id": "t1_fztrc77",
+            "score": 3,
+            "stickied": false,
+            "author_name": "0x843"
+        },
+        "fztrc77": {
+            "comment": "How do you decrypt Des ?",
+            "timeStamp": "2020/07/30-20:34:25",
+            "id": "fztrc77",
+            "is_submitter": false,
+            "link_id": "t3_i0w8tq",
+            "parent_id": "t1_fztlawu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "zer1-1"
+        },
+        "fztlawu": {
+            "comment": "[removed]",
+            "timeStamp": "2020/07/30-19:36:57",
+            "id": "fztlawu",
+            "is_submitter": false,
+            "link_id": "t3_i0w8tq",
+            "parent_id": "t1_fzsy6b6",
+            "score": 2,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fzsy6b6": {
+            "comment": "I'd love to see an analysis of that tiktok pro malware",
+            "timeStamp": "2020/07/30-16:29:04",
+            "id": "fzsy6b6",
+            "is_submitter": false,
+            "link_id": "t3_i0w8tq",
+            "parent_id": "t3_i0w8tq",
+            "score": 3,
+            "stickied": false,
+            "author_name": "Schnitzel725"
+        }
+    }
+}

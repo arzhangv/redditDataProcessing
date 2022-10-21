@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Im roughly new to RE (6 months and counting) and need your superior technical background in this master. I particularly left 1 of my PC get *infected* by all means. And this one caught my attention \n\n-&gt; https://imgur.com/a/0Zhjg\n\n\nA powershell instance running on background and auto-start at boot. Upon inspecting and following the trace, I discovered a reg file unknowingly inserted to the system. The 1st trick I saw was the **1stpass** was converted to base64 so I decrypted it. And I got \n\n-&gt; https://gist.github.com/dinosaurfiles/376408865928adb13ca4#file-1stpass-txt\n\nThe next step I should take was to figure out what those 2 other functions does but I was so busy that week that I totally forgot about it. And here I am after 4 months to continue my trails. \n\nCodes and reg files here\n\n-&gt; https://gist.github.com/dinosaurfiles/376408865928adb13ca4",
+        "title": "Help me on analyzing this malware. Details inside!",
+        "score": 0,
+        "id": "4iw2xl",
+        "commsNum": 5,
+        "timeStamp": "2016/05/11-10:35:25",
+        "author_name": "dinosaurfiles",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/4iw2xl/help_me_on_analyzing_this_malware_details_inside/"
+    },
+    "posts": {}
+}

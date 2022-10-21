@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hey guys,\n\ngot [this](http://pastebin.com/fHYF8Ysr) (pastebin) via e-mail and thought, you might be interested in it. \nThe JS code is obfuscated by replace statements and bit shifting operations. Since I'm not familiar enough with JS and/or typical malware I dind't dare to reverse engineer it on my own.\n\nCan anyone tell, what this code is supposed to do?",
+        "title": "Possibly malicious JS \"invoice_copy_UPncoQ.docx.js\"",
+        "score": 8,
+        "id": "478k8v",
+        "commsNum": 7,
+        "timeStamp": "2016/02/23-12:21:32",
+        "author_name": "odysseus_polytropos",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/478k8v/possibly_malicious_js_invoice_copy_upncoqdocxjs/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,121 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "What is Npcap LoopBack adapter? Not sure how it ended up on my computer.",
+        "score": 0,
+        "id": "6vffio",
+        "commsNum": 9,
+        "timeStamp": "2017/08/22-17:44:57",
+        "author_name": "Sarcasm4m3",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 9,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6vffio/what_is_npcap_loopback_adapter_not_sure_how_it/"
+    },
+    "posts": {
+        "dm1rmq4": {
+            "comment": "Ended up figuring out it was Bitdefender Home scanner. I forgotten i had installed it, since I never actually used it after installation. ",
+            "timeStamp": "2017/08/23-20:47:45",
+            "id": "dm1rmq4",
+            "is_submitter": true,
+            "link_id": "t3_6vffio",
+            "parent_id": "t1_dm0j7qf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Sarcasm4m3"
+        },
+        "dm1rkej": {
+            "comment": "So it turns out I'm an idiot. It was part of Bitdefender Home Scanner program. I forgot I had installed it. And was slightly thrown of its trail because it had been updated like 2-3days ago. So it didn't show that it had been installed on the same day as the npcap (1 month ago) in revo uninstaller. I believe wireshark and Bitdefender home scanner go hand in hand. But just to confirm it, I uninstalled both and reinstalled the home scanner. Doing so reinstalled the npcap. So all should be fine. I'm a very paranoid person, and was about to do a clean install. Glad I didn't.  ",
+            "timeStamp": "2017/08/23-20:46:05",
+            "id": "dm1rkej",
+            "is_submitter": true,
+            "link_id": "t3_6vffio",
+            "parent_id": "t1_dm0qqow",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Sarcasm4m3"
+        },
+        "dm0qqow": {
+            "comment": "If you didn't install this and are unaware of why it's on there, I'd say the best advice to give you is that you should assume your computer is compromised and its time to wipe the drive. If this is a work computer it may be something your security department installed. If its your home computer you should look at any other computers on your home network with this installed and consider the same treatment for them as well.\n",
+            "timeStamp": "2017/08/23-08:57:08",
+            "id": "dm0qqow",
+            "is_submitter": false,
+            "link_id": "t3_6vffio",
+            "parent_id": "t3_6vffio",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Ironface077"
+        },
+        "dm0j7qf": {
+            "comment": "Do you have wireshark or nmap on your computer?",
+            "timeStamp": "2017/08/23-06:34:40",
+            "id": "dm0j7qf",
+            "is_submitter": false,
+            "link_id": "t3_6vffio",
+            "parent_id": "t3_6vffio",
+            "score": 2,
+            "stickied": false,
+            "author_name": "PolarBill"
+        },
+        "dm0eqzh": {
+            "comment": "Sounds like you installed a fake Adobe Flash update.",
+            "timeStamp": "2017/08/23-04:34:53",
+            "id": "dm0eqzh",
+            "is_submitter": false,
+            "link_id": "t3_6vffio",
+            "parent_id": "t1_dlzwmuu",
+            "score": 2,
+            "stickied": false,
+            "author_name": "WOLF3D_exe"
+        },
+        "dlzwmuu": {
+            "comment": "When I went to remove it using Revo uninstaller. The only other program downloaded on the same day was Adobe flash. Is it possible it came with that? ",
+            "timeStamp": "2017/08/22-18:45:43",
+            "id": "dlzwmuu",
+            "is_submitter": true,
+            "link_id": "t3_6vffio",
+            "parent_id": "t1_dlzwj0t",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Sarcasm4m3"
+        },
+        "dlzwj0t": {
+            "comment": "This might not be the case but some autoKMS tools install those kinds of loopback adapters. It is mostly used to illegally activate windows or the microsoft office pack. ",
+            "timeStamp": "2017/08/22-18:43:35",
+            "id": "dlzwj0t",
+            "is_submitter": false,
+            "link_id": "t3_6vffio",
+            "parent_id": "t3_6vffio",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mu71l473d"
+        },
+        "dlzuejv": {
+            "comment": "I did google it. I'm not familiar with most computer terminology. Was concerned when I saw packet sniffing/network inspection. As I'm not sure how it got installed on my computer. ",
+            "timeStamp": "2017/08/22-18:01:24",
+            "id": "dlzuejv",
+            "is_submitter": true,
+            "link_id": "t3_6vffio",
+            "parent_id": "t1_dlzuamv",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Sarcasm4m3"
+        },
+        "dlzuamv": {
+            "comment": "[deleted]",
+            "timeStamp": "2017/08/22-17:59:17",
+            "id": "dlzuamv",
+            "is_submitter": false,
+            "link_id": "t3_6vffio",
+            "parent_id": "t3_6vffio",
+            "score": 2,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Pretty funny/helpful video on phishing",
+        "score": 1,
+        "id": "wmegun",
+        "commsNum": 0,
+        "timeStamp": "2022/08/11-23:54:12",
+        "author_name": "storyparty",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.youtube.com/watch?v=2oaAF8rYOm8&amp;t=6s"
+    },
+    "posts": {
+        "inwbi31": {
+            "comment": "Generic questions, marketing fluff, and non-technical content will be removed.",
+            "timeStamp": "2022/09/10-13:03:35",
+            "id": "inwbi31",
+            "is_submitter": false,
+            "link_id": "t3_wmegun",
+            "parent_id": "t3_wmegun",
+            "score": 1,
+            "stickied": true,
+            "author_name": "Malware-ModTeam"
+        },
+        "ik2o8kc": {
+            "comment": "I normally HATE when videos use cartoons to teach grown ass adults about shit like this isn\u2019t kindergarten we just had a meeting before this where Jim solved a critical infrastructure problem and Sandra reduced our supply chain footprint by 15%. \n\nHowever this speaks to me. It uses sarcasm and dark humor. It is ART.",
+            "timeStamp": "2022/08/12-18:25:18",
+            "id": "ik2o8kc",
+            "is_submitter": false,
+            "link_id": "t3_wmegun",
+            "parent_id": "t3_wmegun",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Sabrinacolada"
+        },
+        "ik0zu2d": {
+            "comment": "Instantly imaged this being a sketch on the IT Crowd... anyone else?",
+            "timeStamp": "2022/08/12-11:22:26",
+            "id": "ik0zu2d",
+            "is_submitter": false,
+            "link_id": "t3_wmegun",
+            "parent_id": "t3_wmegun",
+            "score": 1,
+            "stickied": false,
+            "author_name": "supersecretsquirel"
+        },
+        "ijyzldp": {
+            "comment": "Seems like some highschool awareness campaign. The part where he kept trying to open that attachment made me chuckle though",
+            "timeStamp": "2022/08/12-01:49:49",
+            "id": "ijyzldp",
+            "is_submitter": false,
+            "link_id": "t3_wmegun",
+            "parent_id": "t1_ijyt1rp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "SpookyWA"
+        },
+        "ijyt1rp": {
+            "comment": "Autistic as fuck but had funny moments, I like it 9/10",
+            "timeStamp": "2022/08/12-00:22:06",
+            "id": "ijyt1rp",
+            "is_submitter": false,
+            "link_id": "t3_wmegun",
+            "parent_id": "t3_wmegun",
+            "score": 1,
+            "stickied": false,
+            "author_name": "itguy_tyson"
+        }
+    }
+}

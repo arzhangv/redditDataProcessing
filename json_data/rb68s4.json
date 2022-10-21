@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 0.94,
+        "selftext": "",
+        "title": "Google disrupts massive Glupteba botnet, sues Russian operators",
+        "score": 39,
+        "id": "rb68s4",
+        "commsNum": 2,
+        "timeStamp": "2021/12/07-10:47:25",
+        "author_name": "DrinkMoreCodeMore",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.bleepingcomputer.com/news/security/google-disrupts-massive-glupteba-botnet-sues-russian-operators/"
+    },
+    "posts": {
+        "hnp03ng": {
+            "comment": "I wonder is suing Russian malware operators is anything more than a formality? It is cool what Google has done either way",
+            "timeStamp": "2021/12/07-23:46:45",
+            "id": "hnp03ng",
+            "is_submitter": false,
+            "link_id": "t3_rb68s4",
+            "parent_id": "t3_rb68s4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "JJenkx"
+        }
+    }
+}

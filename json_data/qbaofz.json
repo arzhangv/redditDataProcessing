@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "IcedID to XingLocker Ransomware in 24 hours - Towards the end of July, we observed an intrusion that began with IcedID malware and ended in XingLocker ransomware, a Mountlocker variant.",
+        "score": 1,
+        "id": "qbaofz",
+        "commsNum": 0,
+        "timeStamp": "2021/10/19-05:40:41",
+        "author_name": "TheDFIRReport",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://thedfirreport.com/2021/10/18/icedid-to-xinglocker-ransomware-in-24-hours/"
+    },
+    "posts": {}
+}

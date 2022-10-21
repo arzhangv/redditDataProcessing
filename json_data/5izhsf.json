@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hello there, \nI am new to malware reverse engineering (and reddit). I found my USB got infected due to sharing and there was a VBE encoded script. In hex dump of that found some encrypting function. \n\nHere is the pastbin of the function: http://pastebin.com/t1EzpV2Y\n\nAny help of deciphering it will be appreciated.\n\n\n",
+        "title": "Little Help on deciphering this VBScript found in Hexdump of a USB malware",
+        "score": 3,
+        "id": "5izhsf",
+        "commsNum": 12,
+        "timeStamp": "2016/12/18-01:15:51",
+        "author_name": "HackSpirit",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 12,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5izhsf/little_help_on_deciphering_this_vbscript_found_in/"
+    },
+    "posts": {}
+}

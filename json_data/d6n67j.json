@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "So had this window pop up on my computer while I was playing borderlands 3 and didn't press okay or cancel I just shut off my computer then turned it back on and all of a sudden I couldn't access chrome. So I decided that this could be a new form of malware that malwarebytes couldn't find cause i checked, and I need to just reset windows and keep my old files and it will go away. As I finish the reset I went into my external HD and my 1.8 tb storage has only 183 GB left of free space! Checked to see which file had the most space taken and it was my steam library but the thing is I had like 4 -5 games installed on my computer their's no way 4 games can take that much space. So my question is should I just format my HD just to be safe?",
+        "title": "\"PC needs a new update\" window made by yahoo",
+        "score": 0,
+        "id": "d6n67j",
+        "commsNum": 3,
+        "timeStamp": "2019/09/19-17:47:10",
+        "author_name": "Holobethinetape",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/d6n67j/pc_needs_a_new_update_window_made_by_yahoo/"
+    },
+    "posts": {
+        "f0ultb2": {
+            "comment": "This sub is generally for malware reverse-engineering and research. I think you'll get more help over there, as there are more people.\n\nThat said, this doesn't really sound like an infection. Most malware isn't going to take up a bunch of space like that, because it would be more obvious and have little to gain from doing so.\n\nBest of luck!",
+            "timeStamp": "2019/09/19-18:49:22",
+            "id": "f0ultb2",
+            "is_submitter": false,
+            "link_id": "t3_d6n67j",
+            "parent_id": "t1_f0ulgkd",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AbsoZed"
+        },
+        "f0ulgkd": {
+            "comment": "Okay :(",
+            "timeStamp": "2019/09/19-18:44:55",
+            "id": "f0ulgkd",
+            "is_submitter": true,
+            "link_id": "t3_d6n67j",
+            "parent_id": "t1_f0ulc22",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Holobethinetape"
+        },
+        "f0ulc22": {
+            "comment": "Try /r/TechSupport.",
+            "timeStamp": "2019/09/19-18:43:22",
+            "id": "f0ulc22",
+            "is_submitter": false,
+            "link_id": "t3_d6n67j",
+            "parent_id": "t3_d6n67j",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AbsoZed"
+        }
+    }
+}

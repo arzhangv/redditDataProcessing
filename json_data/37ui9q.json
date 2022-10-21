@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Locker Ransomware Utilizes a Unique Delivery Mechanism",
+        "score": 1,
+        "id": "37ui9q",
+        "commsNum": 0,
+        "timeStamp": "2015/05/30-07:37:04",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/37325/malware/locker-ransomware-analysis.html"
+    },
+    "posts": {}
+}

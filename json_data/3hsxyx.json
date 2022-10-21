@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hello fellow malware analyst. Whats the best way to discover new instances of \"malvertsing\".\n\n I thought \"thug.py\" (browser emulator that records interactions) might be useful for this, but the limitation might come in the fact that malware sometimes is fileless (ie Poweliks). ",
+        "title": "Malvertising detection",
+        "score": 5,
+        "id": "3hsxyx",
+        "commsNum": 3,
+        "timeStamp": "2015/08/20-20:13:45",
+        "author_name": "_DMEW",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/3hsxyx/malvertising_detection/"
+    },
+    "posts": {}
+}

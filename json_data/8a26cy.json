@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "OSX_OCEANLOTUS.D, a new macOS backdoor linked to APT 32 group",
+        "score": 1,
+        "id": "8a26cy",
+        "commsNum": 0,
+        "timeStamp": "2018/04/05-11:24:55",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://securityaffairs.co/wordpress/71096/apt/apt-32-group-backdoor.html"
+    },
+    "posts": {}
+}

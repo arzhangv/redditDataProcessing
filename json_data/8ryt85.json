@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Good morning,\n\nI just released \u201cRDP Event Log Forensics\u201d, a new video in the Introduction to Windows Forensics series. This episode takes a comprehensive look at the Windows event IDs and associated logs that will be of interest when investigating RDP-related activity. This content is based upon research by Jonathon Poling, and covers six (6) scenarios, including:\n\n\u2022 A successful RDP logon\n\u2022 An RDP logon attempt that was unsuccessful\n\u2022 An RDP session disconnect via someone closing the window without clicking Start, Disconnect\n\u2022 An RDP session disconnect via someone clicking Start, Disconnect\n\u2022 An RDP session reconnect\n\u2022 An RDP session logoff\n\nVideo: https://www.youtube.com/watch?v=myzG11BP3Sk\nChannel: https://www.youtube.com/13cubed\n\nIf you enjoy this content, please help support 13Cubed on Patreon: https://www.patreon.com/13cubed",
+        "title": "RDP Event Log Forensics (X-Post)",
+        "score": 5,
+        "id": "8ryt85",
+        "commsNum": 0,
+        "timeStamp": "2018/06/18-04:35:50",
+        "author_name": "13Cubed",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8ryt85/rdp_event_log_forensics_xpost/"
+    },
+    "posts": {}
+}

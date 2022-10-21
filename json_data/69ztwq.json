@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Malwaresearch \u2013 A command line tool to find malware on Openmalware.org",
+        "score": 1,
+        "id": "69ztwq",
+        "commsNum": 0,
+        "timeStamp": "2017/05/08-11:11:29",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/58883/malware/malwaresearch.html"
+    },
+    "posts": {}
+}

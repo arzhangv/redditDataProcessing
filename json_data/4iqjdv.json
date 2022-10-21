@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Locky being distributed as .hta file, 0/55 on Virustotal.",
+        "score": 56,
+        "id": "4iqjdv",
+        "commsNum": 18,
+        "timeStamp": "2016/05/10-11:07:26",
+        "author_name": "bluesoul",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 18,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reverse.it/sample/1605e4192277f587050d399a6221fdebce8a66796c5e757af06ee31a0230af54?environmentId=100"
+    },
+    "posts": {}
+}

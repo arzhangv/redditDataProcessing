@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": null,
+        "title": "Trickbot Banking Trojan Initial Infection Vector Analysis",
+        "score": 1,
+        "id": "6sssny",
+        "commsNum": 0,
+        "timeStamp": "2017/08/10-04:53:32",
+        "author_name": "RingZeroLabs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.ringzerolabs.com/2017/07/trickbot-banking-trojan-doc00039217doc.html"
+    },
+    "posts": {}
+}

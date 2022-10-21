@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "There is a Trojan that Windows found and it is located in the \"Local\\\\Temp\\\\RarSFX0\" and I can't access it  can anybody tell me how to get it",
+        "title": "How can I access AppData\\Local\\Temp\\RarSFX0",
+        "score": 1,
+        "id": "poeahk",
+        "commsNum": 3,
+        "timeStamp": "2021/09/14-16:31:21",
+        "author_name": "GA3_659",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/poeahk/how_can_i_access_appdatalocaltemprarsfx0/"
+    },
+    "posts": {
+        "hcyaxxu": {
+            "comment": "Lol",
+            "timeStamp": "2021/09/15-07:15:43",
+            "id": "hcyaxxu",
+            "is_submitter": false,
+            "link_id": "t3_poeahk",
+            "parent_id": "t3_poeahk",
+            "score": 3,
+            "stickied": false,
+            "author_name": "Za_Inat"
+        },
+        "hcwlqgh": {
+            "comment": "Start menu or folder\u2026.",
+            "timeStamp": "2021/09/14-19:58:13",
+            "id": "hcwlqgh",
+            "is_submitter": false,
+            "link_id": "t3_poeahk",
+            "parent_id": "t3_poeahk",
+            "score": -3,
+            "stickied": false,
+            "author_name": "gbdavidx"
+        },
+        "hcw0kci": {
+            "comment": "Press Win key + r, then write: %temp%\\RarSFX0\nAnd press enter",
+            "timeStamp": "2021/09/14-17:14:02",
+            "id": "hcw0kci",
+            "is_submitter": false,
+            "link_id": "t3_poeahk",
+            "parent_id": "t3_poeahk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ftabr"
+        }
+    }
+}

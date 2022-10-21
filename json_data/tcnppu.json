@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "So I don't know if any one has heard of Agent Tesla spyware. I haven't heard of the Agent Tesla malware until now. But here's some information about the spyware. Agent Tesla is a powerful, easy-to-use form of spyware. Specifically, Agent Tesla is a Remote Access Trojan (RAT) that exfiltrates credentials, logs keystrokes, copies clipboard data and collects images from a victim\u2019s computer. In recent years, the malware has seen a huge surge in popularity, and more than 6,000 nefarious persons pay subscription fees in order to license the software. \n\nThe malware includes a wealth of features designed to help it remain undetected by network systems and often arrives in the form of an email attachment.",
+        "title": "Agent Tesla spyware information",
+        "score": 1,
+        "id": "tcnppu",
+        "commsNum": 0,
+        "timeStamp": "2022/03/12-10:33:13",
+        "author_name": "monidoki",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/tcnppu/agent_tesla_spyware_information/"
+    },
+    "posts": {
+        "i0xaqjq": {
+            "comment": "yes found it metaspoit",
+            "timeStamp": "2022/03/16-12:43:39",
+            "id": "i0xaqjq",
+            "is_submitter": false,
+            "link_id": "t3_tcnppu",
+            "parent_id": "t1_i0geg9r",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Comprehensive_Ship42"
+        },
+        "i0geg9r": {
+            "comment": "Yeah, the web",
+            "timeStamp": "2022/03/12-20:24:01",
+            "id": "i0geg9r",
+            "is_submitter": false,
+            "link_id": "t3_tcnppu",
+            "parent_id": "t1_i0fnz6v",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Tyyphoon9"
+        },
+        "i0fnz6v": {
+            "comment": "anyone know where i can get it from . for eduction purpose only",
+            "timeStamp": "2022/03/12-16:30:49",
+            "id": "i0fnz6v",
+            "is_submitter": false,
+            "link_id": "t3_tcnppu",
+            "parent_id": "t3_tcnppu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Comprehensive_Ship42"
+        },
+        "i0eusyd": {
+            "comment": "Pretty old RAT first seen 2017 on VT, got sold on some hackerforums.\n\n[https://bazaar.abuse.ch/browse/signature/AgentTesla/](https://bazaar.abuse.ch/browse/signature/AgentTesla/)",
+            "timeStamp": "2022/03/12-12:44:31",
+            "id": "i0eusyd",
+            "is_submitter": false,
+            "link_id": "t3_tcnppu",
+            "parent_id": "t3_tcnppu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ssy449"
+        },
+        "i0ed2tt": {
+            "comment": "You just copied and pasted [https://www.cybertalk.org/2022/02/15/10-of-the-most-dangerous-malware-threats/](https://www.cybertalk.org/2022/02/15/10-of-the-most-dangerous-malware-threats/)? There is lots of threat intelligence out there about it, it's incredibly well known",
+            "timeStamp": "2022/03/12-10:37:13",
+            "id": "i0ed2tt",
+            "is_submitter": false,
+            "link_id": "t3_tcnppu",
+            "parent_id": "t3_tcnppu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Krombuchar2"
+        },
+        "i0eczas": {
+            "comment": "Agent Tesla has had a huge amount of attention, I recommend looking on Malpedia ([https://malpedia.caad.fkie.fraunhofer.de/details/win.agent\\_tesla](https://malpedia.caad.fkie.fraunhofer.de/details/win.agent_tesla)) for a lot of write-ups about it, from surface to deep-level reverse engineering.",
+            "timeStamp": "2022/03/12-10:36:32",
+            "id": "i0eczas",
+            "is_submitter": false,
+            "link_id": "t3_tcnppu",
+            "parent_id": "t3_tcnppu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "divbyda0"
+        }
+    }
+}

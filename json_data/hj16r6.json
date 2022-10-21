@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "New EvilQuest ransomware discovered targeting macOS users",
+        "score": 1,
+        "id": "hj16r6",
+        "commsNum": 1,
+        "timeStamp": "2020/06/30-18:58:39",
+        "author_name": "TheMildEngineer",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.zdnet.com/article/new-evilquest-ransomware-discovered-targeting-macos-users/"
+    },
+    "posts": {
+        "fxkkytr": {
+            "comment": "50 bucks isn't too bad actually",
+            "timeStamp": "2020/07/10-14:13:06",
+            "id": "fxkkytr",
+            "is_submitter": false,
+            "link_id": "t3_hj16r6",
+            "parent_id": "t3_hj16r6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MrSmiley____"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Ghostrings: Ghidra scripts for recovering string definitions in Go binaries with P-Code analysis",
+        "score": 1,
+        "id": "uvuryr",
+        "commsNum": 0,
+        "timeStamp": "2022/05/23-00:29:28",
+        "author_name": "digicat",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://research.nccgroup.com/2022/05/20/tool-release-ghostrings/"
+    },
+    "posts": {}
+}

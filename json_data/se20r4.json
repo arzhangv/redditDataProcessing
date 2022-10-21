@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Linux-Targeted Malware Increases by 35% in 2021: XorDDoS, Mirai and Mozi Most Prevalent",
+        "score": 1,
+        "id": "se20r4",
+        "commsNum": 0,
+        "timeStamp": "2022/01/27-08:16:31",
+        "author_name": "greyyit",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.crowdstrike.com/blog/linux-targeted-malware-increased-by-35-percent-in-2021/"
+    },
+    "posts": {
+        "huvwjt8": {
+            "comment": "It's not that surprising to me. Malware authors will target what's plentiful and easy. Most of these are looking for the low hanging fruit, unpatched exposed IoT devices, default credentials, etc. \n\nLanguages like golang also make cross compilation simple and interpreted languages exist. Linux has only had less malware targeting it as a rule thus far because there are more desktop Windows users. By default, it tends to be a lot more open than Windows. I predict we will only see increasing amounts of Linux targeted malware.",
+            "timeStamp": "2022/01/30-10:52:48",
+            "id": "huvwjt8",
+            "is_submitter": false,
+            "link_id": "t3_se20r4",
+            "parent_id": "t1_huge3j1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "NightWolf56"
+        },
+        "hugmy36": {
+            "comment": "[removed]",
+            "timeStamp": "2022/01/27-09:12:45",
+            "id": "hugmy36",
+            "is_submitter": false,
+            "link_id": "t3_se20r4",
+            "parent_id": "t1_huge3j1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "huge3j1": {
+            "comment": "I found this interesting that there is malware compiled for ARM.  I wonder how much Linux malware is compiled for ARM.  Linux is already significantly lower risk than Windows.  Maybe a Raspberry Pi with its ARM processor would help reduce risk even further.  Apparently they make a decent desktop for causal use.",
+            "timeStamp": "2022/01/27-08:19:32",
+            "id": "huge3j1",
+            "is_submitter": true,
+            "link_id": "t3_se20r4",
+            "parent_id": "t3_se20r4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "greyyit"
+        }
+    }
+}

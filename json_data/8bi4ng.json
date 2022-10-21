@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi !  \nI'm trying to unpack a malware but the malware seems to detect the debugger or the VM, so I'm looking in IDA for some anti VM/Anti debug tricks and I can see nothing except an isProcessorFeaturePresent call with the argument 0xa which is PF_XMMI64_INSTRUCTIONS_AVAILABLE\nDoes this call is a anti VM trick or I'm missing something ?\n\nhere is the sample : https://beta.virusbay.io/sample/browse/a6933d1262da26403faf968672a1baf0?q=a6933d1262da26403faf968672a1baf0\n\nThanks",
+        "title": "Does IsProcessorFeaturePresent is use for VM detection ?",
+        "score": 2,
+        "id": "8bi4ng",
+        "commsNum": 4,
+        "timeStamp": "2018/04/11-08:52:59",
+        "author_name": "neolex29",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8bi4ng/does_isprocessorfeaturepresent_is_use_for_vm/"
+    },
+    "posts": {
+        "dxbmfz4": {
+            "comment": "In the past I've written some concept VM detection malware, and there are numerous methods to detect VMs. The motherboard manufacturer on VMs typically shows up as the VM manufacturer, for example \"VirtualBox/VBOX\" or \"VMware\". Some VM detectors will look for this string, and if it is found, terminate. Other malware can detect if anything is hooked into it, and if there is, terminate. VM &amp; Debug detection is not the hardest thing to do, but it can be fairly difficult to get around. ",
+            "timeStamp": "2018/04/13-14:32:00",
+            "id": "dxbmfz4",
+            "is_submitter": false,
+            "link_id": "t3_8bi4ng",
+            "parent_id": "t3_8bi4ng",
+            "score": 1,
+            "stickied": false,
+            "author_name": "lmaonoodles"
+        },
+        "dxadfub": {
+            "comment": "I did and I break on IsDebuggerPresent too but I can't go to CreateRemoteThread to unpack the sample...\nIt finish before that :/ \nI have no idea what I miss ...",
+            "timeStamp": "2018/04/12-23:46:25",
+            "id": "dxadfub",
+            "is_submitter": true,
+            "link_id": "t3_8bi4ng",
+            "parent_id": "t1_dx88bjn",
+            "score": 1,
+            "stickied": false,
+            "author_name": "neolex29"
+        },
+        "dx8aib7": {
+            "comment": "[removed]",
+            "timeStamp": "2018/04/11-23:09:56",
+            "id": "dx8aib7",
+            "is_submitter": false,
+            "link_id": "t3_8bi4ng",
+            "parent_id": "t3_8bi4ng",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "dx88bjn": {
+            "comment": "can you not just nop the func call and see if it works ?",
+            "timeStamp": "2018/04/11-22:09:06",
+            "id": "dx88bjn",
+            "is_submitter": false,
+            "link_id": "t3_8bi4ng",
+            "parent_id": "t3_8bi4ng",
+            "score": 1,
+            "stickied": false,
+            "author_name": "edward_snowedin"
+        }
+    }
+}

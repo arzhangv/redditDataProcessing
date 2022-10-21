@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Evasion techniques - Malware Evasion Encyclopedia, which contains over 50 techniques used by various malwares to detect virtualized and sandboxed environments.",
+        "score": 1,
+        "id": "fbuwmn",
+        "commsNum": 1,
+        "timeStamp": "2020/03/01-06:40:31",
+        "author_name": "digicat",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://evasions.checkpoint.com/"
+    },
+    "posts": {
+        "fj914m3": {
+            "comment": "thats kool, but the fact that even few of these checks are run should be enough for the sandbox to flag it as malware.",
+            "timeStamp": "2020/03/01-21:52:10",
+            "id": "fj914m3",
+            "is_submitter": false,
+            "link_id": "t3_fbuwmn",
+            "parent_id": "t3_fbuwmn",
+            "score": 1,
+            "stickied": false,
+            "author_name": "nightmareuki"
+        }
+    }
+}

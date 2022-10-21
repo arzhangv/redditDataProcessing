@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Fixed a serious flaw in Adobe Flash Player exploited in \u201cthe Mask APT\u201d",
+        "score": 1,
+        "id": "1x0vc4",
+        "commsNum": 0,
+        "timeStamp": "2014/02/04-14:16:59",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/21937/cyber-crime/fixed-serious-flaw-adobe-flash-player-exploited-mask-apt.html"
+    },
+    "posts": {}
+}

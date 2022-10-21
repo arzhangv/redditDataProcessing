@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Overview on OWASP, and how to enforce best cybersecurity practices",
+        "score": 1,
+        "id": "qcmlol",
+        "commsNum": 2,
+        "timeStamp": "2021/10/21-00:48:23",
+        "author_name": "lotmapivy",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.perforce.com/blog/kw/what-is-owasp-top-10"
+    },
+    "posts": {
+        "hhhgs3i": {
+            "comment": "Do we know - do we have any hard figures - on what this stuff prevents?",
+            "timeStamp": "2021/10/21-05:49:08",
+            "id": "hhhgs3i",
+            "is_submitter": false,
+            "link_id": "t3_qcmlol",
+            "parent_id": "t3_qcmlol",
+            "score": 2,
+            "stickied": false,
+            "author_name": "RedWineAndWomen"
+        },
+        "hhgu5mh": {
+            "comment": "I always read about OWASP but I had no idea what it stood for and now I decided no more! so after short research:\n\nThe Open Web Application Security Project\u00ae (OWASP) is a nonprofit foundation that works to improve the security of software\n\nyou're welcome",
+            "timeStamp": "2021/10/21-01:01:28",
+            "id": "hhgu5mh",
+            "is_submitter": false,
+            "link_id": "t3_qcmlol",
+            "parent_id": "t3_qcmlol",
+            "score": 5,
+            "stickied": false,
+            "author_name": "flytoypro"
+        }
+    }
+}

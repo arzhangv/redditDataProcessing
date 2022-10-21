@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I have to choose a language to start in Mal Analysis and MalDev (for ethical purposes of course) I already have basic knowledge of C so I need to take one : C++, Rust, Go...\nMy question here is which one to pick as a newbie. \nNote : I want to focus on Windows.",
+        "title": "Malware 101",
+        "score": 1,
+        "id": "wkcud3",
+        "commsNum": 0,
+        "timeStamp": "2022/08/09-12:49:10",
+        "author_name": "Leblancless",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/wkcud3/malware_101/"
+    },
+    "posts": {
+        "ijuj0d1": {
+            "comment": "C++ because C is an early language that is very close to machine language.   What this provides is an easy jump from the machine code to mips to C.  When I was learning reverse engineering there where many moments where I'd hit a realization why C works as it does.  Its based on how the processor actually works.  That made it easier to look at the code.  \n   \nAlso it will allow you to write tight code with minimal added junk by the compiler.",
+            "timeStamp": "2022/08/11-05:14:48",
+            "id": "ijuj0d1",
+            "is_submitter": false,
+            "link_id": "t3_wkcud3",
+            "parent_id": "t3_wkcud3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "reduhl"
+        },
+        "ijp5b18": {
+            "comment": "If you want to focus on Windows, C/C++ is really the most beneficial. For one, the Windows API is based in C. Two, rust and Go have seen some use in modern malware (blackcat for rust) but really the more prolific stuff is written in C.",
+            "timeStamp": "2022/08/10-02:42:29",
+            "id": "ijp5b18",
+            "is_submitter": false,
+            "link_id": "t3_wkcud3",
+            "parent_id": "t3_wkcud3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "v1nd1cated"
+        },
+        "ijngge5": {
+            "comment": "Good understanding of c is good, if you can write c code then u will get used to write c++. So c/c++ is good beginning. Go and rust used in things like backend of c2 server, can be used to  write malwares oc but not too common at this moment i believe. \nFor analysis you will need any scripting lang to automates things in your work",
+            "timeStamp": "2022/08/09-16:54:46",
+            "id": "ijngge5",
+            "is_submitter": false,
+            "link_id": "t3_wkcud3",
+            "parent_id": "t3_wkcud3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "dola2173"
+        },
+        "ijmvxf6": {
+            "comment": "[removed]",
+            "timeStamp": "2022/08/09-14:31:31",
+            "id": "ijmvxf6",
+            "is_submitter": false,
+            "link_id": "t3_wkcud3",
+            "parent_id": "t3_wkcud3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

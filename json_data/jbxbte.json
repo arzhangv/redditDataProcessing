@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "A friend of mine just had their identity stolen. They claim that they received a text message saying 'Hello Salut' and then once they replied, were getting notifications that information was being changed (as such would happen normally if it were you). Everything was stolen, bank info, Social Insurance (this is in Canada). Everything was stolen within 15 minutes.\n\nHow is this possible? This seems incredibly scary.",
+        "title": "Malware via SMS",
+        "score": 1,
+        "id": "jbxbte",
+        "commsNum": 5,
+        "timeStamp": "2020/10/15-15:03:30",
+        "author_name": "Minimum_Fix",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/jbxbte/malware_via_sms/"
+    },
+    "posts": {
+        "g8y6z63": {
+            "comment": "It was definitely iMessage --they showed me the conversation on their apple watch. I'm pretty sure that's how it happened. The conversation was \"hello\" they replied \"who is this\" and then \"sorry wrong number\" and then started getting emails about info being changed.",
+            "timeStamp": "2020/10/15-16:23:37",
+            "id": "g8y6z63",
+            "is_submitter": true,
+            "link_id": "t3_jbxbte",
+            "parent_id": "t1_g8y5xv4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Minimum_Fix"
+        },
+        "g8y5xv4": {
+            "comment": "Was it a SMS or iMessage? what kind of phone?\n\nMost likely, your friend uses the same password on multiple services and one had a data breach. Tell him to check haveibeenpwned.com\n\nI have not heard of SMS as being an exploit vector (aside from sending someone a link over SMS)",
+            "timeStamp": "2020/10/15-16:13:26",
+            "id": "g8y5xv4",
+            "is_submitter": false,
+            "link_id": "t3_jbxbte",
+            "parent_id": "t3_jbxbte",
+            "score": 1,
+            "stickied": false,
+            "author_name": "moreofthat_"
+        },
+        "g8y48hg": {
+            "comment": "[removed]",
+            "timeStamp": "2020/10/15-15:57:05",
+            "id": "g8y48hg",
+            "is_submitter": false,
+            "link_id": "t3_jbxbte",
+            "parent_id": "t1_g8y0wxq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "g8y2hq8": {
+            "comment": "Ah! Yes that could be why --if it's via iMessage. That's probably the missing link. I've never used an iPhone, always had BlackBerry.",
+            "timeStamp": "2020/10/15-15:41:08",
+            "id": "g8y2hq8",
+            "is_submitter": true,
+            "link_id": "t3_jbxbte",
+            "parent_id": "t1_g8y0wxq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Minimum_Fix"
+        },
+        "g8y0wxq": {
+            "comment": "[Yeah, it is possible.](https://www.wired.com/story/imessage-interactionless-hacks-google-project-zero/) Others on this sub might know more about actual cases in the wild, since I don't know of any. Regardless, your friend should get their phone checked out for malware.",
+            "timeStamp": "2020/10/15-15:26:32",
+            "id": "g8y0wxq",
+            "is_submitter": false,
+            "link_id": "t3_jbxbte",
+            "parent_id": "t3_jbxbte",
+            "score": 1,
+            "stickied": false,
+            "author_name": "CappyRawr"
+        }
+    }
+}

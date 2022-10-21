@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "http://www.fireeye.com/blog/uncategorized/2014/02/operation-snowman-deputydog-actor-compromises-us-veterans-of-foreign-wars-website.html\n\nI did a little research on this yesterday. You can see the attack here. WARNING malicious link: HXXP://exchenage{.}doomdns.com\n\nThe malicious content is the iframe to: hXXp://gifas{.}assso.net/include.html which has: hXXp://gifas{.}assso.net/tope.swf hXXp://gifas{.}assso.net/erido.jpg\n\nThere is an embedded PE within the .jpg: https://www.virustotal.com/en/file/097afc8d1e62e63fa64da6c34465c351b0ce37e881f9feccee5bd42633f1ee1a/analysis/\n\nSome of the IP's hosting this exploit:\nhttps://www.virustotal.com/en/ip-address/184.168.46.18/information/\nhttps://www.virustotal.com/en/ip-address/173.252.252.204/information/ ",
+        "title": "Operation Snowman (free malware links)",
+        "score": 19,
+        "id": "1xwtlo",
+        "commsNum": 0,
+        "timeStamp": "2014/02/14-09:22:02",
+        "author_name": "itwwakak",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/1xwtlo/operation_snowman_free_malware_links/"
+    },
+    "posts": {}
+}

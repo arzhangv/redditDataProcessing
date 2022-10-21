@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I got information about the takedown of Kelihos.E in April 2017 and the arrestment of its owner but I was wondering whether Kelihos is still remaining in its Version F. Since its selfmanaging and I find a very few information about it I hope there is a chance it still exists since the topic of my bachelor thesis is to analyse a p2p botnet and my advisor told me to choose Kelihos.",
+        "title": "Looking for some information about Kelihos for my bachelor thesis.",
+        "score": 1,
+        "id": "994nx4",
+        "commsNum": 1,
+        "timeStamp": "2018/08/21-09:32:34",
+        "author_name": "n-three",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/994nx4/looking_for_some_information_about_kelihos_for_my/"
+    },
+    "posts": {
+        "e5vd90j": {
+            "comment": "https://www.justice.gov/opa/pr/russian-national-who-operated-kelihos-botnet-pleads-guilty-fraud-conspiracy-computer-crime",
+            "timeStamp": "2018/09/12-15:10:59",
+            "id": "e5vd90j",
+            "is_submitter": false,
+            "link_id": "t3_994nx4",
+            "parent_id": "t3_994nx4",
+            "score": 2,
+            "stickied": false,
+            "author_name": "James-Incandenza"
+        }
+    }
+}

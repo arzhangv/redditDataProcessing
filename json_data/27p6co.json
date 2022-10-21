@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I'm gathering information about android malware samples that exploit linux kernel vulnerabilities. So far I have found malware based on CVE-2013-2094(http://www.symantec.com/connect/blogs/linux-kernel-exploit-ported-android), but I'm having trouble finding more.\n\nAre you aware of any other such malware?",
+        "title": "Android malware and kernel vulnerabilities",
+        "score": 6,
+        "id": "27p6co",
+        "commsNum": 3,
+        "timeStamp": "2014/06/09-07:36:15",
+        "author_name": "blahfish",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/27p6co/android_malware_and_kernel_vulnerabilities/"
+    },
+    "posts": {}
+}

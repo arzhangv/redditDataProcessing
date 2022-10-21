@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I'm looking for opinions on antivirus software the following is a list of things we care about.\n\n-Obviously good malware detection rate\n\n-Host Based Firewall\n\n-Central Management\n\n-Ability to easily manage users outside the network (without VPN, or having to just opening the ports into our internal network)\n\n-HIDS/HIPS of some sort",
+        "title": "Which Antivirus to choose for business of over 300 users?",
+        "score": 0,
+        "id": "7xswbk",
+        "commsNum": 15,
+        "timeStamp": "2018/02/15-11:36:38",
+        "author_name": "tymoo",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 15,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/7xswbk/which_antivirus_to_choose_for_business_of_over/"
+    },
+    "posts": {}
+}

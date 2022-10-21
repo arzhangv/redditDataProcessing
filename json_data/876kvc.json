@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "XPost Possible zero-day malware samples through image files and other documents along with possible privilege escalation vulnerabilities in Windows 10 default applications. Adds explorer.exe OLE32 Extensions and modifies services, all signed binaries by M$, maybe a DLL injection.",
+        "score": 3,
+        "id": "876kvc",
+        "commsNum": 0,
+        "timeStamp": "2018/03/25-21:56:29",
+        "author_name": "PseudoSecuritay",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.sendspace.com/filegroup/X3WKsxVVLK1YIjK%2F3xqJfg"
+    },
+    "posts": {}
+}

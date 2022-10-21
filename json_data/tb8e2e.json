@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Chaos ransomware v4",
+        "score": 1,
+        "id": "tb8e2e",
+        "commsNum": 0,
+        "timeStamp": "2022/03/10-12:46:46",
+        "author_name": "divbyda0",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://brianstadnicki.github.io/posts/malware-chaos-ransomware-v4/"
+    },
+    "posts": {
+        "i0daj6c": {
+            "comment": "[removed]",
+            "timeStamp": "2022/03/12-06:01:20",
+            "id": "i0daj6c",
+            "is_submitter": false,
+            "link_id": "t3_tb8e2e",
+            "parent_id": "t3_tb8e2e",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "red|blue: Empire Post-Exploitation Analysis with Rekall and PowerShell Windows Event Logs",
+        "score": 16,
+        "id": "3m4od7",
+        "commsNum": 0,
+        "timeStamp": "2015/09/23-16:08:48",
+        "author_name": "0x00410041",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.redblue.team/2015/09/empire-post-exploitation-analysis-with.html"
+    },
+    "posts": {}
+}

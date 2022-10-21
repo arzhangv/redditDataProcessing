@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 0.92,
+        "selftext": " \n\nHey, all,  A few days ago, I started getting weird pop-ups from very bizarre sites called IGCritic and PPCorn. I won't link to the sites directly as they've already had record levels of traffic as a result of this scam, but both of the links are weird old articles about cute animals. Strange, right?  I got in touch with a bunch of people who were having the same issue (which was surprisingly hard to do as this time 2 days ago there was basically nothing online about the problem) and we've been working in a Discord to isolate what's going on. Here's what we know:  - A scammer from a 'company\u2019 called extensionmetric.com  has been contacting the developers of popular extensions with an offer to pay them in exchange for adding a harmless looking and sounding analytics script. The scam is very credible-sounding, the site looks legit on first glance, and it's done over the phone (with an American accent).  - We've identified four Chrome extensions/apps which have been compromised:  1. Github Gloc 2. Chrome Currency Converter 3. Promoted Pin Hider 4. Notepad (the Chrome app)  - There are definitely more, we just don't know what they are yet.  \n\n\n\\- The code causes your browser to, at somewhat regular intervals, call up a series of bizarre sites which (using some kind of API thing which I don\u2019t understand) redirect you to the sites in question. Sometimes to Google. The sites open in their own window (in the bottom-right of your monitor, I think) and are usually inaccessible. It opens behind everything else you have open.   - I can go into more detail if you\u2019re interested, but the mechanism of how the scammer is profiting from this is a little obscure to us at this stage. It\u2019s hard to know what the vector of the scam is, but it doesn\u2019t take much imagination to realise that the ability for an extension to consistently open windows without your permission isn\u2019t great.  - If you\u2019ve got any of these extensions, uninstall them. You\u2019re gonna be redirected to a page called NativeAutomation when you do--this is part of the code the scammer has had added to the extensions. I recommend deleting the cookies which you get from this site for obvious reasons.  We\u2019ve been doing a lot of digging, but we still don't know the full extent of what the malicious code is doing. The guy perpetrating this scam was previously investigated by the FBI for a similar crime  about a decade ago in which he tried to sell half a million dollars of data to a company which reported him to the FBI. So that\u2019s pretty wild.",
+        "title": "Repost due to false DMCA (Presumably by the person who created the script)",
+        "score": 21,
+        "id": "h8bxwa",
+        "commsNum": 2,
+        "timeStamp": "2020/06/13-10:40:07",
+        "author_name": "real_ModzFTW",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/h8bxwa/repost_due_to_false_dmca_presumably_by_the_person/"
+    },
+    "posts": {
+        "fuqda8j": {
+            "comment": "Would possibly chrome adding a permission yes/no to allow extensions to open popups be able to fix the issue in case other scammers try to get on board with the idea? Its a scammer metric now but who knows what kind of website it'll ping next",
+            "timeStamp": "2020/06/13-12:53:18",
+            "id": "fuqda8j",
+            "is_submitter": false,
+            "link_id": "t3_h8bxwa",
+            "parent_id": "t3_h8bxwa",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Schnitzel725"
+        },
+        "fuq4a9o": {
+            "comment": " [you suck reddit](https://www.reddit.com/r/brave_browser/comments/gk0hv8/multiple_popular_chrome_extensions_have_been/) \n\nAlso [thread about it](https://support.google.com/chrome/thread/46798301?hl=en) on the chrome page, seems mostly purged from known apps",
+            "timeStamp": "2020/06/13-11:34:19",
+            "id": "fuq4a9o",
+            "is_submitter": false,
+            "link_id": "t3_h8bxwa",
+            "parent_id": "t3_h8bxwa",
+            "score": 1,
+            "stickied": false,
+            "author_name": "nre_graphico"
+        }
+    }
+}

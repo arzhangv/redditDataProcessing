@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "New singular Android Ransomware relies on the XMPP protocol",
+        "score": 1,
+        "id": "3jl801",
+        "commsNum": 0,
+        "timeStamp": "2015/09/03-23:44:55",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/39846/cyber-crime/xmpp-android-ransomware.html"
+    },
+    "posts": {}
+}

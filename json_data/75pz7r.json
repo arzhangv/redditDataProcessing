@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Kaspersky spotted ATMii, a new strain of ATM malware",
+        "score": 1,
+        "id": "75pz7r",
+        "commsNum": 0,
+        "timeStamp": "2017/10/11-08:55:12",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/64196/malware/atmii-atm-malware.html"
+    },
+    "posts": {}
+}

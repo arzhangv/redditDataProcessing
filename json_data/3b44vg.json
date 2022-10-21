@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Malware Must Die!: MMD-0034-2015 - New ELF Linux/DES.Downloader (FUD) hits Elasticsearch (CVE-2015-1427)",
+        "score": 15,
+        "id": "3b44vg",
+        "commsNum": 1,
+        "timeStamp": "2015/06/25-13:32:18",
+        "author_name": "mmd0xFF",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://blog.malwaremustdie.org/2015/06/mmd-0034-2015-new-elf.html"
+    },
+    "posts": {}
+}

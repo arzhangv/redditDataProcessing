@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "It was confusing at first because I had TWO \"Anti Malware Executable\" running on my background.  \nI didn't have any doubts at first because everyone says it's \"Windows Defender's service to scan viruses inside your computer\" and everyone have the same problem. There was two anti malware services that was running and I thought the other one was just some kind of branch service. The first one uses only 3% of my CPU but the second one used up to 60% of my CPU. I had it for 6 months and my laptop was in brink of being burned. Also, it uses a lot of power too.  \n\n\nSo I had to check where it was coming from. The anti malware service that uses only 3% was coming from MsMpEng.exe. The other anti malware service was coming from MsMpEngs.exe. Now I had more reason to assume that it was a malware. I searched it and had an info about it.   \n\n\n [https://virus-removal-guide.net/48786-remove-msmpengs-exe-miner-easy-steps-to-uninstall/](https://virus-removal-guide.net/48786-remove-msmpengs-exe-miner-easy-steps-to-uninstall/)",
+        "title": "MsMpEngs.exe Malware that destroys your CPU and GPU",
+        "score": 1,
+        "id": "bort3y",
+        "commsNum": 2,
+        "timeStamp": "2019/05/14-18:57:21",
+        "author_name": "krisfhugz",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/bort3y/msmpengsexe_malware_that_destroys_your_cpu_and_gpu/"
+    },
+    "posts": {
+        "enk8h5f": {
+            "comment": "That's simply some crypto miner that had renamed the executable to copy it. Didn't even do it well.",
+            "timeStamp": "2019/05/14-20:54:40",
+            "id": "enk8h5f",
+            "is_submitter": false,
+            "link_id": "t3_bort3y",
+            "parent_id": "t3_bort3y",
+            "score": 2,
+            "stickied": false,
+            "author_name": "The_White_Light"
+        },
+        "enk3gj8": {
+            "comment": "oh boy",
+            "timeStamp": "2019/05/14-20:18:27",
+            "id": "enk3gj8",
+            "is_submitter": false,
+            "link_id": "t3_bort3y",
+            "parent_id": "t3_bort3y",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Rogue2166"
+        }
+    }
+}

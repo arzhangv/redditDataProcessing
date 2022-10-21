@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Process Hacker vs Process Explorer vs Autoruns for analysis",
+        "score": 1,
+        "id": "q3rknx",
+        "commsNum": 5,
+        "timeStamp": "2021/10/07-22:53:31",
+        "author_name": "KiryaBRO",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/q3rknx/process_hacker_vs_process_explorer_vs_autoruns/"
+    },
+    "posts": {
+        "hp2ppa8": {
+            "comment": "you are awesome",
+            "timeStamp": "2021/12/18-10:31:40",
+            "id": "hp2ppa8",
+            "is_submitter": false,
+            "link_id": "t3_q3rknx",
+            "parent_id": "t1_hfuaob1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Doccks71"
+        },
+        "hfwsakk": {
+            "comment": "Process Hacker is just an enhanced version of Process Explorer, so I always just default to process Hacker. Autoruns is a completely different tool and would be run alongside Process Hacker. For a good triage picture when running a sample you would ideally want to use Process Hacker, Process Monitor, Autoruns, and a traffic capture tool of choice.",
+            "timeStamp": "2021/10/08-15:26:37",
+            "id": "hfwsakk",
+            "is_submitter": false,
+            "link_id": "t3_q3rknx",
+            "parent_id": "t3_q3rknx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Th3_Pr0f3ss0r"
+        },
+        "hfuar8y": {
+            "comment": "Oh I just noticed this is a malware sub..no idea how useful it is for that.. but for disabling unwanted startup programs it's great",
+            "timeStamp": "2021/10/08-04:17:15",
+            "id": "hfuar8y",
+            "is_submitter": false,
+            "link_id": "t3_q3rknx",
+            "parent_id": "t1_hfuaob1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mishaxz"
+        },
+        "hfuaob1": {
+            "comment": "Autoruns is awesome",
+            "timeStamp": "2021/10/08-04:16:15",
+            "id": "hfuaob1",
+            "is_submitter": false,
+            "link_id": "t3_q3rknx",
+            "parent_id": "t3_q3rknx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mishaxz"
+        },
+        "hftodr8": {
+            "comment": "[deleted]",
+            "timeStamp": "2021/10/07-22:59:52",
+            "id": "hftodr8",
+            "is_submitter": false,
+            "link_id": "t3_q3rknx",
+            "parent_id": "t1_hfto83s",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hfto83s": {
+            "comment": "There\u2019s no \u201cor\u201d or \u201cvs\u201d here. \n\nIt\u2019s process hacker, process explorer, and autoruns to give me a complete image and understanding of what\u2019s going on.",
+            "timeStamp": "2021/10/07-22:57:49",
+            "id": "hfto83s",
+            "is_submitter": false,
+            "link_id": "t3_q3rknx",
+            "parent_id": "t3_q3rknx",
+            "score": 11,
+            "stickied": false,
+            "author_name": "heytchap_"
+        }
+    }
+}

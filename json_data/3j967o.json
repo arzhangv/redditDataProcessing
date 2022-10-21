@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Whats the best way to go about scanning unpacked malware for byte patterns? I was thinking about running a job on the memory dump of the entire machine after analysis, but this may be a poor idea since malware can unpack itself in memory, then exit for what ever reason, thus causing my memory snapshot to not have the running malware. Should I hook Memory allocations, then scan each time?",
+        "title": "Cuckoo unpacked scan",
+        "score": 8,
+        "id": "3j967o",
+        "commsNum": 4,
+        "timeStamp": "2015/09/01-11:59:53",
+        "author_name": "_DMEW",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/3j967o/cuckoo_unpacked_scan/"
+    },
+    "posts": {}
+}

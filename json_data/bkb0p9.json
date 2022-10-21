@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "MwEmu: Malware analysis emulator written in Python 3 (based on Unicorn) - ALPHA version",
+        "score": 23,
+        "id": "bkb0p9",
+        "commsNum": 0,
+        "timeStamp": "2019/05/03-10:22:04",
+        "author_name": "vtopan",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://gitlab.com/vtopan/mwemu"
+    },
+    "posts": {}
+}

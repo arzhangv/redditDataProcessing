@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Is this possible? I hear about a routers DNS settings getting changed, but I never hear anything about a router being infected with malware that just sends all the traffic to a remote hacker. Is this even possible? Are there any examples of it?\n\nWhat about this marai botnet? Does this have that capability? The Moon malware? \n\nI still don't know if its even possible. \n",
+        "title": "Malware that infects router/modem directly and has the ability to record/send the network traffic to the attacker?",
+        "score": 13,
+        "id": "6ec8t6",
+        "commsNum": 12,
+        "timeStamp": "2017/05/30-20:02:28",
+        "author_name": "fredfredburger88",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 12,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6ec8t6/malware_that_infects_routermodem_directly_and_has/"
+    },
+    "posts": {}
+}

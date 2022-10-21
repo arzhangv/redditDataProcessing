@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I went to an illegal nba streaming website and now whenever I google something in chrome the results appear in Indonesian and it says translate to English at the top of my screen even though I type in English. How can I fix this and how can I locate the virus?",
+        "title": "How to locate and remove malware that is making my google language switch to Indonesian every time I google.",
+        "score": 1,
+        "id": "kjccsu",
+        "commsNum": 3,
+        "timeStamp": "2020/12/24-01:15:14",
+        "author_name": "Wantingknowledge",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/kjccsu/how_to_locate_and_remove_malware_that_is_making/"
+    },
+    "posts": {
+        "ggxdyyx": {
+            "comment": "I did that an it still shows up In Indonesian",
+            "timeStamp": "2020/12/24-12:08:01",
+            "id": "ggxdyyx",
+            "is_submitter": true,
+            "link_id": "t3_kjccsu",
+            "parent_id": "t1_ggvw08n",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Wantingknowledge"
+        },
+        "ggvwhax": {
+            "comment": "I did try them but they said they are closed for the holidays when I posted",
+            "timeStamp": "2020/12/24-01:26:51",
+            "id": "ggvwhax",
+            "is_submitter": true,
+            "link_id": "t3_kjccsu",
+            "parent_id": "t1_ggvw08n",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Wantingknowledge"
+        }
+    }
+}

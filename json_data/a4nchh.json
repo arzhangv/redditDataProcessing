@@ -1,0 +1,242 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Happened to be at Black Hat Europe couple of days ago and learned about a new platform that achieves dynamic and static analyses of malware.  It can be accessed here:  [https://app.sndbox.com/login](https://app.sndbox.com/login)  In one of the workshops I attended, it outperformed a number of others.  It would be interesting to develop comparison profiles and benchmarks for assessing outcomes form AI-based and conventional malware analysis protocols.  ",
+        "title": "AI-assisted malware analysis",
+        "score": 1,
+        "id": "a4nchh",
+        "commsNum": 20,
+        "timeStamp": "2018/12/09-10:35:51",
+        "author_name": "vickiearse",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 20,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/a4nchh/aiassisted_malware_analysis/"
+    },
+    "posts": {
+        "eblenx0": {
+            "comment": "I would also want to add, SNDBOX offers a really nice visibility, if you look at malware behavior, for example Spora ransomware:  \n[https://app.sndbox.com/sample/3978c038-a275-4ab7-b50d-9cc3109db8a9/dynamic/overview](https://app.sndbox.com/sample/3978c038-a275-4ab7-b50d-9cc3109db8a9/dynamic/overview)   \nYou can actually see the whole behavior, and how all processes are connected to each other. \n\nFull visibility in process relationships, this includes RPC communications (Such as Services, WMI, RTF Exploits and more). For example in this analysis you can actually see \\`wmic.exe\\` executing a WMI query, passes it forward to the WMI services and the service creating the processes requested by the WMI query. \n\nThis is actually something no other platform is offering and quite amazing by itself. So in terms of visibility and understanding the behavior or abnormalities, SNDBOX wins for me in competition with the alternatives. \n\nFinally, seems like SNDBOX has a beta searchengine so you could literally find any malware behavior you like and study it your self later.",
+            "timeStamp": "2018/12/11-14:50:32",
+            "id": "eblenx0",
+            "is_submitter": false,
+            "link_id": "t3_a4nchh",
+            "parent_id": "t3_a4nchh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ta1s0n"
+        },
+        "ebl2i4f": {
+            "comment": "Funny that... may be were were both in the same session! :)",
+            "timeStamp": "2018/12/11-12:20:38",
+            "id": "ebl2i4f",
+            "is_submitter": true,
+            "link_id": "t3_a4nchh",
+            "parent_id": "t1_ebktgdw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "vickiearse"
+        },
+        "ebktgdw": {
+            "comment": "I saw these gentlmen at black hat europe too and they were absolutely lovely, additionally their product looked very impressive.",
+            "timeStamp": "2018/12/11-10:30:50",
+            "id": "ebktgdw",
+            "is_submitter": false,
+            "link_id": "t3_a4nchh",
+            "parent_id": "t3_a4nchh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "thickofits"
+        },
+        "ebhzqrl": {
+            "comment": "[https://finder.startupnationcentral.org/company\\_page/sndbox](https://finder.startupnationcentral.org/company_page/sndbox)\n\n[https://thehackernews.com/2018/12/sndbox-malware-analysis-tool.html](https://thehackernews.com/2018/12/sndbox-malware-analysis-tool.html)\n\n&amp;#x200B;",
+            "timeStamp": "2018/12/10-07:23:52",
+            "id": "ebhzqrl",
+            "is_submitter": true,
+            "link_id": "t3_a4nchh",
+            "parent_id": "t1_ebhoipu",
+            "score": 0,
+            "stickied": false,
+            "author_name": "vickiearse"
+        },
+        "ebhx78h": {
+            "comment": "As the old adage goes, \"absence of evidence is not evidence of absence\".  Stoecklin's treatise from August makes a compelling case for why this is not 'touting'.\n\n[https://securityintelligence.com/deeplocker-how-ai-can-power-a-stealthy-new-breed-of-malware/](https://securityintelligence.com/deeplocker-how-ai-can-power-a-stealthy-new-breed-of-malware/)\n\n&amp;#x200B;",
+            "timeStamp": "2018/12/10-06:44:36",
+            "id": "ebhx78h",
+            "is_submitter": true,
+            "link_id": "t3_a4nchh",
+            "parent_id": "t1_ebh03ob",
+            "score": 1,
+            "stickied": false,
+            "author_name": "vickiearse"
+        },
+        "ebhoipu": {
+            "comment": "How is this different from VirusTotal, HybridAnalysis or even Cuckoo sandbox?",
+            "timeStamp": "2018/12/10-03:48:20",
+            "id": "ebhoipu",
+            "is_submitter": false,
+            "link_id": "t3_a4nchh",
+            "parent_id": "t3_a4nchh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Neo-Bubba"
+        },
+        "ebh34lu": {
+            "comment": "DARPA has put a lot of money into this thing.  Check out 'Capture the flag' competition: \n\n[https://www.darpa.mil/news-events/2016-08-05a](https://www.darpa.mil/news-events/2016-08-05a)\n\n&amp;#x200B;",
+            "timeStamp": "2018/12/09-19:15:52",
+            "id": "ebh34lu",
+            "is_submitter": true,
+            "link_id": "t3_a4nchh",
+            "parent_id": "t1_ebh03ob",
+            "score": 1,
+            "stickied": false,
+            "author_name": "vickiearse"
+        },
+        "ebh2jhc": {
+            "comment": "This is the first representative example of a potential AI-powered attack from November 2017\n\n[https://blogs.wsj.com/cio/2017/11/16/the-morning-download-first-ai-powered-cyberattacks-are-detected/](https://blogs.wsj.com/cio/2017/11/16/the-morning-download-first-ai-powered-cyberattacks-are-detected/)\n\n[https://blogs.wsj.com/cio/2017/11/15/artificial-intelligence-transforms-hacker-arsenal/](https://blogs.wsj.com/cio/2017/11/15/artificial-intelligence-transforms-hacker-arsenal/)\n\n&amp;#x200B;",
+            "timeStamp": "2018/12/09-19:06:35",
+            "id": "ebh2jhc",
+            "is_submitter": true,
+            "link_id": "t3_a4nchh",
+            "parent_id": "t1_ebh03ob",
+            "score": 1,
+            "stickied": false,
+            "author_name": "vickiearse"
+        },
+        "ebh1ml5": {
+            "comment": "Proof-of-concept has just been generated by IBM (DeepLocker) where the researchers hid WannaCry inside videoconferenng app (a\\` la SocialMapper [https://github.com/SpiderLabs/social\\_mapper](https://github.com/SpiderLabs/social_mapper)).   Neither AV engines nor sandboxing succeeded in detecting it.  I wouldn't go so far as to say that they 'simply do not exist'  -- this would be the equivalent of saying that Higgs boson is an imaginary entity (without coming up with a way to test the hypothesis).  Furthermore, the point is not to belabor what we are pursuing at the moment, but to predict what we should be prepare against.  It is just a matter of time before AI-powered attacks come into play.  This is not a doomsday scenario, but being aware that 'unknown unknowns' do exist!  Formulating behavior-based rules and signatures to overcome Dosfuscation ([https://www.gdatasoftware.com/blog/2018/07/30924-g-data-analysis-discovers-dosfuscation-in-the-wild](https://www.gdatasoftware.com/blog/2018/07/30924-g-data-analysis-discovers-dosfuscation-in-the-wild)) and higher dimension scenarios are likely to be beneficial in the future.  ",
+            "timeStamp": "2018/12/09-18:52:12",
+            "id": "ebh1ml5",
+            "is_submitter": true,
+            "link_id": "t3_a4nchh",
+            "parent_id": "t1_ebh03ob",
+            "score": 1,
+            "stickied": false,
+            "author_name": "vickiearse"
+        },
+        "ebh03ob": {
+            "comment": "Let me clarify - what \"AI-powered\" attacks have you, or anyone in the field ever observed used in the wild by any known or unknown threat actor? The answer is \"none.\"\n\nI am completely in favor of using ML algorithms for defenses, which is something pretty much everyone has been doing for a while now. What bothers me is when people seem to go around touting AI drive/powered/embedded attacks which *simply do not exist* and even if they did, would be completely transparent to the victim as they would only see the result of the ML algorithm, not the underlying functionality.",
+            "timeStamp": "2018/12/09-18:28:32",
+            "id": "ebh03ob",
+            "is_submitter": false,
+            "link_id": "t3_a4nchh",
+            "parent_id": "t1_ebgzsyr",
+            "score": 3,
+            "stickied": false,
+            "author_name": "xace"
+        },
+        "ebgzsyr": {
+            "comment": "Check out this patent as well for inspiration:\n\n[https://patents.google.com/patent/US20180211043A1/en](https://patents.google.com/patent/US20180211043A1/en)\n\nAnd, the following articles summarize the state-of-the-art:\n\n[https://arxiv.org/abs/1802.07228](https://arxiv.org/abs/1802.07228)\n\n[https://securityintelligence.com/deeplocker-how-ai-can-power-a-stealthy-new-breed-of-malware/](https://securityintelligence.com/deeplocker-how-ai-can-power-a-stealthy-new-breed-of-malware/)\n\n&amp;#x200B;\n\n&amp;#x200B;",
+            "timeStamp": "2018/12/09-18:23:59",
+            "id": "ebgzsyr",
+            "is_submitter": true,
+            "link_id": "t3_a4nchh",
+            "parent_id": "t1_ebgwvtl",
+            "score": 0,
+            "stickied": false,
+            "author_name": "vickiearse"
+        },
+        "ebgz2kx": {
+            "comment": "You can also find additional info from this new book on the subject.\n\n[https://www.springer.com/us/book/9783319988412](https://www.springer.com/us/book/9783319988412)\n\n&amp;#x200B;\n\n&amp;#x200B;",
+            "timeStamp": "2018/12/09-18:12:56",
+            "id": "ebgz2kx",
+            "is_submitter": true,
+            "link_id": "t3_a4nchh",
+            "parent_id": "t1_ebgwvtl",
+            "score": 0,
+            "stickied": false,
+            "author_name": "vickiearse"
+        },
+        "ebgy1wh": {
+            "comment": "**This would be my primary go to citation (August 2018) for AI-powered attacks (courtesy of IBM).  The presentation was awesome**:  [https://i.blackhat.com/us-18/Thu-August-9/us-18-Kirat-DeepLocker-Concealing-Targeted-Attacks-with-AI-Locksmithing.pdf](https://i.blackhat.com/us-18/Thu-August-9/us-18-Kirat-DeepLocker-Concealing-Targeted-Attacks-with-AI-Locksmithing.pdf)\n\n&amp;#x200B;",
+            "timeStamp": "2018/12/09-17:57:22",
+            "id": "ebgy1wh",
+            "is_submitter": true,
+            "link_id": "t3_a4nchh",
+            "parent_id": "t1_ebgwvtl",
+            "score": 0,
+            "stickied": false,
+            "author_name": "vickiearse"
+        },
+        "ebgwvtl": {
+            "comment": "Just out of curiosity, what kind of \"AI-powered\" attacks have you seen?",
+            "timeStamp": "2018/12/09-17:39:37",
+            "id": "ebgwvtl",
+            "is_submitter": false,
+            "link_id": "t3_a4nchh",
+            "parent_id": "t1_ebg1k6i",
+            "score": 1,
+            "stickied": false,
+            "author_name": "xace"
+        },
+        "ebg5dh4": {
+            "comment": "oh yes.. thank you for that.",
+            "timeStamp": "2018/12/09-11:58:48",
+            "id": "ebg5dh4",
+            "is_submitter": true,
+            "link_id": "t3_a4nchh",
+            "parent_id": "t1_ebfzw34",
+            "score": 1,
+            "stickied": false,
+            "author_name": "vickiearse"
+        },
+        "ebg5afa": {
+            "comment": "yup... and MIASM too  [https://github.com/cea-sec/miasm](https://github.com/cea-sec/miasm)",
+            "timeStamp": "2018/12/09-11:57:49",
+            "id": "ebg5afa",
+            "is_submitter": true,
+            "link_id": "t3_a4nchh",
+            "parent_id": "t1_ebg10os",
+            "score": 3,
+            "stickied": false,
+            "author_name": "vickiearse"
+        },
+        "ebg1k6i": {
+            "comment": "Agreed.  I was trying to steer the discussion toward AI-powered and AI-embedded attack modes for which new defense strategies are necessary and [sndbox.com](https://sndbox.com) is offering vistas to explore.",
+            "timeStamp": "2018/12/09-11:14:01",
+            "id": "ebg1k6i",
+            "is_submitter": true,
+            "link_id": "t3_a4nchh",
+            "parent_id": "t1_ebfzoog",
+            "score": 1,
+            "stickied": false,
+            "author_name": "vickiearse"
+        },
+        "ebg10os": {
+            "comment": "Reminds me of this..\n\nhttps://app.any.run/",
+            "timeStamp": "2018/12/09-11:07:29",
+            "id": "ebg10os",
+            "is_submitter": false,
+            "link_id": "t3_a4nchh",
+            "parent_id": "t3_a4nchh",
+            "score": 5,
+            "stickied": false,
+            "author_name": "Jeff_Rand3ll"
+        },
+        "ebfzw34": {
+            "comment": "You might also be interested in this talk by Malachi Jones at CAMLIS a couple months ago, including links to slides and video in the upper right.\n\n[https://www.camlis.org/malachi-jones](https://www.camlis.org/malachi-jones)",
+            "timeStamp": "2018/12/09-10:54:25",
+            "id": "ebfzw34",
+            "is_submitter": false,
+            "link_id": "t3_a4nchh",
+            "parent_id": "t3_a4nchh",
+            "score": 3,
+            "stickied": false,
+            "author_name": "bugoid"
+        },
+        "ebfzoog": {
+            "comment": "There has been no conventional malware analysis protocols for almost 10 years anymore.\n\nEvery company that does malware analysis does bulk of their work with AIs, there is no way to deal with the load without them.\n\nThis kind of analysis sandboxes combined with AI have been in proprietary use for almost 10 years.",
+            "timeStamp": "2018/12/09-10:51:59",
+            "id": "ebfzoog",
+            "is_submitter": false,
+            "link_id": "t3_a4nchh",
+            "parent_id": "t3_a4nchh",
+            "score": 2,
+            "stickied": false,
+            "author_name": "4745454B"
+        }
+    }
+}

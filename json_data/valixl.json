@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Anyone know what this is? Sounds like a cache for snooping phone usage.  I talked to Mac support, but all they would say was that it sounded like something from a 3rd party app.  Geez, that was really helpful.  Github talks about collecting keys--hmm.  What kind of keys?  Encryption keys?",
+        "title": "Found 'phone-to-name.kvcache' in Mac Recovered Files folder",
+        "score": 1,
+        "id": "valixl",
+        "commsNum": 0,
+        "timeStamp": "2022/06/12-06:02:04",
+        "author_name": "BarnieGo",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/valixl/found_phonetonamekvcache_in_mac_recovered_files/"
+    },
+    "posts": {
+        "ic5rrnu": {
+            "comment": "If they found a weird file name and one of their steps was to talk to mac support\u2026 they probably don\u2019t know what a cache is lmao",
+            "timeStamp": "2022/06/12-19:39:32",
+            "id": "ic5rrnu",
+            "is_submitter": false,
+            "link_id": "t3_valixl",
+            "parent_id": "t1_ic4i9eb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Gotta_Git_Fast"
+        },
+        "ic4i9eb": {
+            "comment": "Do you know what a cache is?",
+            "timeStamp": "2022/06/12-13:12:49",
+            "id": "ic4i9eb",
+            "is_submitter": false,
+            "link_id": "t3_valixl",
+            "parent_id": "t1_ic4cldl",
+            "score": 1,
+            "stickied": false,
+            "author_name": "lmore3"
+        },
+        "ic4eggi": {
+            "comment": "I\u2019m not sure what you expect from Apple support it\u2019s not like they can magically know what every single third-party app does.",
+            "timeStamp": "2022/06/12-12:43:12",
+            "id": "ic4eggi",
+            "is_submitter": false,
+            "link_id": "t3_valixl",
+            "parent_id": "t3_valixl",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Chongulator"
+        },
+        "ic4dxql": {
+            "comment": "Not random.  Thanks.  KVcache: \" scalable high-performance web-object cache for Manycore...\"",
+            "timeStamp": "2022/06/12-12:39:09",
+            "id": "ic4dxql",
+            "is_submitter": true,
+            "link_id": "t3_valixl",
+            "parent_id": "t3_valixl",
+            "score": 1,
+            "stickied": false,
+            "author_name": "BarnieGo"
+        },
+        "ic4cldl": {
+            "comment": "Vche: A Scalable High-Performance Web-Object Cache for Manycore",
+            "timeStamp": "2022/06/12-12:28:42",
+            "id": "ic4cldl",
+            "is_submitter": true,
+            "link_id": "t3_valixl",
+            "parent_id": "t1_ic3wrwk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "BarnieGo"
+        },
+        "ic3wrwk": {
+            "comment": "Looks like it's part of the OS, maybe phone to name conversions like when searching in spotlight. The github thing you're looking at is just a random system log that happened to have that file name in it",
+            "timeStamp": "2022/06/12-10:27:41",
+            "id": "ic3wrwk",
+            "is_submitter": false,
+            "link_id": "t3_valixl",
+            "parent_id": "t3_valixl",
+            "score": 1,
+            "stickied": false,
+            "author_name": "lmore3"
+        }
+    }
+}

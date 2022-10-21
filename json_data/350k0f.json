@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi guys, I'm normally a lurker here in this and it's very informative. I'm getting into network security and was wondering what techniques some of you guys use in searching for malware used in phishing campaigns. I've been putting my email out there for months and have been getting the occasional \"Fedex\" shipment lables (lol) and other droppers. Out of the emails I been receiving, they've all been the exact same file! Just a different name. Anyone got advice on how I can crawl the web for these emails/attachments? ",
+        "title": "Phishing email campaigns",
+        "score": 6,
+        "id": "350k0f",
+        "commsNum": 1,
+        "timeStamp": "2015/05/05-19:31:03",
+        "author_name": "galacticlurker",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/350k0f/phishing_email_campaigns/"
+    },
+    "posts": {}
+}

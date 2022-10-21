@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Was tryna download optifine was defo the right website, first it disabled half of my keyboard I ran scans but nothing. Then it logged me out and changed my password, now I can\u2019t get on and can\u2019t reset. Basically I got fucked any suggestions on what I can do",
+        "title": "Got a virus or smthin",
+        "score": 1,
+        "id": "ffgjud",
+        "commsNum": 1,
+        "timeStamp": "2020/03/08-11:21:17",
+        "author_name": "StoleYourPillow",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ffgjud/got_a_virus_or_smthin/"
+    },
+    "posts": {
+        "fjy9ayw": {
+            "comment": "Wrong sub my friend, we're about studying malware. There are tech support subs that'll be better equipped to help you.",
+            "timeStamp": "2020/03/08-11:31:58",
+            "id": "fjy9ayw",
+            "is_submitter": false,
+            "link_id": "t3_ffgjud",
+            "parent_id": "t3_ffgjud",
+            "score": 1,
+            "stickied": false,
+            "author_name": "seanprefect"
+        }
+    }
+}

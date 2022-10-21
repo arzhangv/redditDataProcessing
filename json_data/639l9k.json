@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Analysis of Red Leaves implant used by APT10",
+        "score": 1,
+        "id": "639l9k",
+        "commsNum": 0,
+        "timeStamp": "2017/04/03-14:05:53",
+        "author_name": "rexrage",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://github.com/nccgroup/Cyber-Defence/blob/master/Technical%20Notes/Red%20Leaves/Red%20Leaves%20technical%20note%20v1.0.pdf"
+    },
+    "posts": {}
+}

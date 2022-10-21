@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Deobfuscating Shifu",
+        "score": 17,
+        "id": "3ohd0o",
+        "commsNum": 0,
+        "timeStamp": "2015/10/12-11:27:43",
+        "author_name": "asciilifeform",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://binaryguard.com/bgc/malware/2015/10/09/deobfuscating_shifu.html"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "A Steganographic .NET Executable",
+        "score": 2,
+        "id": "32ipdv",
+        "commsNum": 0,
+        "timeStamp": "2015/04/13-19:41:36",
+        "author_name": "guitmz",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://vx.thomazi.me/posts/a-steganographic-net-executable"
+    },
+    "posts": {}
+}

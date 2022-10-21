@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Thought this would fit here. A demonstration of the MEMZ trojan, a trojan based on memes originally created by Leurak for danooct1's Viewer Made Malware series, which was later featured by Vargskelethor, a member of Vinesauce. It looks better than the damage it does to your Windows PC.",
+        "score": 1,
+        "id": "khsro8",
+        "commsNum": 3,
+        "timeStamp": "2020/12/21-15:15:59",
+        "author_name": "yuki93920noirnoggat",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.youtube.com/watch?v=f8LNz6gE_20"
+    },
+    "posts": {
+        "ggmw216": {
+            "comment": "That isn't a question.",
+            "timeStamp": "2020/12/21-15:17:13",
+            "id": "ggmw216",
+            "is_submitter": false,
+            "link_id": "t3_khsro8",
+            "parent_id": "t1_ggmvx8e",
+            "score": 1,
+            "stickied": false,
+            "author_name": "yuki93920noirnoggat"
+        },
+        "ggmvx8e": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2020/12/21-15:16:00",
+            "id": "ggmvx8e",
+            "is_submitter": false,
+            "link_id": "t3_khsro8",
+            "parent_id": "t3_khsro8",
+            "score": 0,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

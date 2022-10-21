@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Found this on my dads old mac, can anyone tell me what it is? It\u2019s very obviously malware due to all the Java files in there, but still?",
+        "score": 1,
+        "id": "tn6bu5",
+        "commsNum": 0,
+        "timeStamp": "2022/03/24-14:42:52",
+        "author_name": "Immediate-Tonight-81",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://i.redd.it/gro3cmowiep81.jpg"
+    },
+    "posts": {
+        "i1znxw8": {
+            "comment": "[removed]",
+            "timeStamp": "2022/03/24-15:23:58",
+            "id": "i1znxw8",
+            "is_submitter": false,
+            "link_id": "t3_tn6bu5",
+            "parent_id": "t1_i1zjrrp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "i1zjrrp": {
+            "comment": "It is, you're correct.",
+            "timeStamp": "2022/03/24-14:55:50",
+            "id": "i1zjrrp",
+            "is_submitter": false,
+            "link_id": "t3_tn6bu5",
+            "parent_id": "t1_i1ziajg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "jgs2765"
+        },
+        "i1zihuy": {
+            "comment": "I\u2019m not that good at tech stuff, do u have any idea what this is?",
+            "timeStamp": "2022/03/24-14:47:13",
+            "id": "i1zihuy",
+            "is_submitter": true,
+            "link_id": "t3_tn6bu5",
+            "parent_id": "t1_i1ziajg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Immediate-Tonight-81"
+        },
+        "i1ziajg": {
+            "comment": "I thought .js files were JavaScript",
+            "timeStamp": "2022/03/24-14:45:50",
+            "id": "i1ziajg",
+            "is_submitter": false,
+            "link_id": "t3_tn6bu5",
+            "parent_id": "t3_tn6bu5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "digital_nomada"
+        }
+    }
+}

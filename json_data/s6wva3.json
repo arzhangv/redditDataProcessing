@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hey, I installed a piece of software called Betblocker. The idea was that it blocks gambling sites on this device. I came to realise that it is also blocking all my investment websites that I use and charting websites. This is a problem as I am now unable to manage my investments from this device, which is a huge problem.\n\n&amp;#x200B;\n\nBetblocker is set to run for 5 years and has a pre-made list of websites that it should block. I have contacted their support team but they don't seem to respond, so I really just want to find a way to fully remove this from my computer and get it back to normal again, as this is a big problem.\n\n&amp;#x200B;\n\nLet me know if anyone has any suggestions of what I can do, as there is nothing online that I can find at all and its really frustrating me.\n\n&amp;#x200B;\n\nThanks",
+        "title": "Betblocker STUCK on PC",
+        "score": 1,
+        "id": "s6wva3",
+        "commsNum": 0,
+        "timeStamp": "2022/01/18-04:53:46",
+        "author_name": "Vegetable_Method1790",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/s6wva3/betblocker_stuck_on_pc/"
+    },
+    "posts": {
+        "ht79md5": {
+            "comment": "Aren\u2019t investments considered gambles after all and this software is doing its job?",
+            "timeStamp": "2022/01/18-09:32:47",
+            "id": "ht79md5",
+            "is_submitter": false,
+            "link_id": "t3_s6wva3",
+            "parent_id": "t3_s6wva3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "xAndreeei"
+        },
+        "ht68sig": {
+            "comment": "You've got my curiosity - I can see the ethical arguments for not disclosing how this works but on the other hand it is your computer. I'll take a quick look after work but you can probably just reinstall windows to get rid of it.",
+            "timeStamp": "2022/01/18-05:22:06",
+            "id": "ht68sig",
+            "is_submitter": false,
+            "link_id": "t3_s6wva3",
+            "parent_id": "t3_s6wva3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "testudobinarii"
+        },
+        "ht688e2": {
+            "comment": "I understand this may be frustrating for you, but this reads like a top tier shitpost, and it made my morning",
+            "timeStamp": "2022/01/18-05:17:01",
+            "id": "ht688e2",
+            "is_submitter": false,
+            "link_id": "t3_s6wva3",
+            "parent_id": "t3_s6wva3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "veoko"
+        },
+        "ht67vmt": {
+            "comment": "This isn't a support subreddit",
+            "timeStamp": "2022/01/18-05:13:43",
+            "id": "ht67vmt",
+            "is_submitter": false,
+            "link_id": "t3_s6wva3",
+            "parent_id": "t3_s6wva3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Rakanisheu"
+        },
+        "ht67n8f": {
+            "comment": "Can't it be uninstalled from programs and features?\n\nA workaround would be using a VPN if you have access to that.",
+            "timeStamp": "2022/01/18-05:11:30",
+            "id": "ht67n8f",
+            "is_submitter": false,
+            "link_id": "t3_s6wva3",
+            "parent_id": "t3_s6wva3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mdgsec"
+        }
+    }
+}

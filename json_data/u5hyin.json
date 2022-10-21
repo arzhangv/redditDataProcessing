@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Reversing a NSIS dropper using quick and dirty shellcode emulation",
+        "score": 1,
+        "id": "u5hyin",
+        "commsNum": 0,
+        "timeStamp": "2022/04/17-00:31:20",
+        "author_name": "kaze0mx",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://malcat.fr/blog/reversing-a-nsis-dropper-using-quick-and-dirty-shellcode-emulation/"
+    },
+    "posts": {}
+}

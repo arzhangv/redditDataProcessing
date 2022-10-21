@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Experts from CloudFlare spotted a new dangerous botnet",
+        "score": 1,
+        "id": "5get88",
+        "commsNum": 0,
+        "timeStamp": "2016/12/04-02:01:01",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/54042/malware/new-mirai-like-botnet.html"
+    },
+    "posts": {}
+}

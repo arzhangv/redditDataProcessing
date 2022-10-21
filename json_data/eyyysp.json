@@ -1,0 +1,143 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Segurzo is malware not an antivirus as it says. Uninstall it from the file uninstaller. \nIt has been messing up my laptop for months. \nDO NOT TRUST THEIR CLAIMS.",
+        "title": "Be Aware of Segurzo",
+        "score": 1,
+        "id": "eyyysp",
+        "commsNum": 11,
+        "timeStamp": "2020/02/04-15:03:52",
+        "author_name": "Merdia_is_eevee",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 11,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/eyyysp/be_aware_of_segurzo/"
+    },
+    "posts": {
+        "fhi7x80": {
+            "comment": "ah okay",
+            "timeStamp": "2020/02/13-10:44:02",
+            "id": "fhi7x80",
+            "is_submitter": false,
+            "link_id": "t3_eyyysp",
+            "parent_id": "t1_fhgq6pd",
+            "score": 1,
+            "stickied": false,
+            "author_name": "whynamehardtofind"
+        },
+        "fhgq6pd": {
+            "comment": "It was almost like the blue screen of death for windows 10",
+            "timeStamp": "2020/02/12-22:20:37",
+            "id": "fhgq6pd",
+            "is_submitter": true,
+            "link_id": "t3_eyyysp",
+            "parent_id": "t1_fhgq54c",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Merdia_is_eevee"
+        },
+        "fhgq54c": {
+            "comment": "What blue screen ?",
+            "timeStamp": "2020/02/12-22:19:52",
+            "id": "fhgq54c",
+            "is_submitter": false,
+            "link_id": "t3_eyyysp",
+            "parent_id": "t1_fhgaxns",
+            "score": 1,
+            "stickied": false,
+            "author_name": "whynamehardtofind"
+        },
+        "fhgaxns": {
+            "comment": "I uninstalled the malware and had to go to safe mode to stop the blue screen",
+            "timeStamp": "2020/02/12-18:56:57",
+            "id": "fhgaxns",
+            "is_submitter": true,
+            "link_id": "t3_eyyysp",
+            "parent_id": "t1_fhg9mxn",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Merdia_is_eevee"
+        },
+        "fhg9mxn": {
+            "comment": "I have it too because I was too excited to download a free game lol I was able to remove it by activating safe mode and then deleting it",
+            "timeStamp": "2020/02/12-18:42:47",
+            "id": "fhg9mxn",
+            "is_submitter": false,
+            "link_id": "t3_eyyysp",
+            "parent_id": "t3_eyyysp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "whynamehardtofind"
+        },
+        "fh0r8t4": {
+            "comment": "I'm beginning analysis and I notice that the Segurazo Setup file attempts to install a driver (as alerted by Program Capability Program pop-up) that points to c:\\Program Files (x86)\\Segurazo\\SegurazoKD.sys, however Windows didn't allow the unsigned driver to be installed. \n\nI don't think AV engines typically do this but I could be wrong.",
+            "timeStamp": "2020/02/08-16:05:53",
+            "id": "fh0r8t4",
+            "is_submitter": false,
+            "link_id": "t3_eyyysp",
+            "parent_id": "t3_eyyysp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "dkaye_mal_anst18"
+        },
+        "fgorfov": {
+            "comment": "[removed]",
+            "timeStamp": "2020/02/06-01:55:45",
+            "id": "fgorfov",
+            "is_submitter": false,
+            "link_id": "t3_eyyysp",
+            "parent_id": "t1_fgk7k8h",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fgk8lwe": {
+            "comment": "Im not the only one that had this there are many more people with this",
+            "timeStamp": "2020/02/04-15:44:01",
+            "id": "fgk8lwe",
+            "is_submitter": true,
+            "link_id": "t3_eyyysp",
+            "parent_id": "t1_fgk7k8h",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Merdia_is_eevee"
+        },
+        "fgk7lb6": {
+            "comment": "They messaged me, thanks anyway",
+            "timeStamp": "2020/02/04-15:33:25",
+            "id": "fgk7lb6",
+            "is_submitter": false,
+            "link_id": "t3_eyyysp",
+            "parent_id": "t1_fgk7k8h",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Chengers"
+        },
+        "fgk7k8h": {
+            "comment": "I think this is what he is referring to:\n\n[https://www.segurazo.com/basic.html](https://www.segurazo.com/basic.html)\n\n&amp;#x200B;\n\nYou can download it here for free off their website. I think I am going to look into as well. If you want to compare notes.",
+            "timeStamp": "2020/02/04-15:33:06",
+            "id": "fgk7k8h",
+            "is_submitter": false,
+            "link_id": "t3_eyyysp",
+            "parent_id": "t1_fgk651o",
+            "score": 1,
+            "stickied": false,
+            "author_name": "dkaye_mal_anst18"
+        },
+        "fgk651o": {
+            "comment": "Send a link and let me investigate",
+            "timeStamp": "2020/02/04-15:18:25",
+            "id": "fgk651o",
+            "is_submitter": false,
+            "link_id": "t3_eyyysp",
+            "parent_id": "t3_eyyysp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Chengers"
+        }
+    }
+}

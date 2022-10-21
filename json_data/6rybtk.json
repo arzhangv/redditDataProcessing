@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hey, I'm currently doing some malware analysis. Where do you look up functions and DLLs? MSDN?\n\nAny source recommendations are welcomed!\nThanks!",
+        "title": "Good resource for Win DLLs/Functions?",
+        "score": 9,
+        "id": "6rybtk",
+        "commsNum": 3,
+        "timeStamp": "2017/08/06-06:25:45",
+        "author_name": "zenpaticx",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6rybtk/good_resource_for_win_dllsfunctions/"
+    },
+    "posts": {
+        "dlfkn81": {
+            "comment": "https://www.redcanary.com/blog/windows-technical-deep-dive/",
+            "timeStamp": "2017/08/10-09:25:51",
+            "id": "dlfkn81",
+            "is_submitter": false,
+            "link_id": "t3_6rybtk",
+            "parent_id": "t3_6rybtk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "thehermitcoder"
+        },
+        "dla1hl9": {
+            "comment": "+1 to MSDN, it's one of the best online resources",
+            "timeStamp": "2017/08/07-04:31:09",
+            "id": "dla1hl9",
+            "is_submitter": false,
+            "link_id": "t3_6rybtk",
+            "parent_id": "t3_6rybtk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "j_lemz"
+        },
+        "dl8x1z6": {
+            "comment": "Some resources that have helped me in the past:  \n[MSDN](https://msdn.microsoft.com/en-us/library/windows/desktop/ff818516(v=vs.85\\).aspx)  \n[ReactOS Source](https://doxygen.reactos.org/dir_19195024a3ec4692e5a00770e45b418b.html)  \n[j00ru's Syscall Tables](http://j00ru.vexillium.org/?p=2197)  \n[UnDoc'd - Undocumented Functions](http://undoc.airesoft.co.uk/)  \n[ntinternals - Undocumented Functions](https://undocumented.ntinternals.net/)",
+            "timeStamp": "2017/08/06-10:44:24",
+            "id": "dl8x1z6",
+            "is_submitter": false,
+            "link_id": "t3_6rybtk",
+            "parent_id": "t3_6rybtk",
+            "score": 9,
+            "stickied": false,
+            "author_name": "dsrakroute"
+        },
+        "dl8srte": {
+            "comment": "MSDN is what I have been using. The documentation is pretty good",
+            "timeStamp": "2017/08/06-09:13:17",
+            "id": "dl8srte",
+            "is_submitter": false,
+            "link_id": "t3_6rybtk",
+            "parent_id": "t3_6rybtk",
+            "score": 5,
+            "stickied": false,
+            "author_name": "pimmytrousers"
+        }
+    }
+}

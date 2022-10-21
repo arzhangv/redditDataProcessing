@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Today we became aware that a certificate (eDellRoot), installed by our Dell Foundation Services application on our PCs, unintentionally introduced a security vulnerability.",
+        "score": 41,
+        "id": "3u2xwr",
+        "commsNum": 1,
+        "timeStamp": "2015/11/24-06:33:38",
+        "author_name": "obfsproxied",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://en.community.dell.com/dell-blogs/direct2dell/b/direct2dell/archive/2015/11/23/response-to-concerns-regarding-edellroot-certificate"
+    },
+    "posts": {}
+}

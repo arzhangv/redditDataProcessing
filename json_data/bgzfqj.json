@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I have come across a client that had Eset file security installed on his 2003 server.  It was infected with malware that installed a service called \"Network Remote Awareness\".   Siggen5 possibly?  It disabled Eset. The thing is if you google it, there are only **3-4 web results**.  Did I win the malware lottery with such a nitch infection?  \n\nI was able to gain control of the server and get Eset File Security running again.  Every malware scan I have run now is clean.   The server is going to be retired but is a business critical function currently.",
+        "title": "\"Network Remote Awareness\"(NRA)",
+        "score": 10,
+        "id": "bgzfqj",
+        "commsNum": 5,
+        "timeStamp": "2019/04/24-13:16:37",
+        "author_name": "staplebench",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/bgzfqj/network_remote_awarenessnra/"
+    },
+    "posts": {
+        "elw8nsi": {
+            "comment": "Dr web is a good antivirus I think",
+            "timeStamp": "2019/04/26-22:53:52",
+            "id": "elw8nsi",
+            "is_submitter": false,
+            "link_id": "t3_bgzfqj",
+            "parent_id": "t1_eloq2nd",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ruslan-fortnite-"
+        },
+        "elta2cj": {
+            "comment": "I did contact Eset via chat and was told to make sure that detection of unwanted, unsafe, and suspicious applications settings was selected and to run a full scan.  I was then disconnected from the chat session.  I submitted the suspicious file already and sent an email to their support channel.  I don't expect much to happen now though.",
+            "timeStamp": "2019/04/25-23:21:06",
+            "id": "elta2cj",
+            "is_submitter": true,
+            "link_id": "t3_bgzfqj",
+            "parent_id": "t3_bgzfqj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "staplebench"
+        },
+        "elsme8b": {
+            "comment": "Hello,\n\nLike [OpenLibram](/u/OpenLibram), I would suggest contacting ESET as the first step in removing the malware and getting ESET File Security for Microsoft Windows Server back and running correctly on the Windows Server 2003 box.\n\nRegards,\n\nAryeh Goretsky",
+            "timeStamp": "2019/04/25-18:04:37",
+            "id": "elsme8b",
+            "is_submitter": false,
+            "link_id": "t3_bgzfqj",
+            "parent_id": "t3_bgzfqj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "goretsky"
+        },
+        "elor4kl": {
+            "comment": "It might be worth contacting Eset for some clarification about it. I'm sure if it disabled a product of theirs, they either know something about it, or would be very interested to know more.",
+            "timeStamp": "2019/04/24-13:31:01",
+            "id": "elor4kl",
+            "is_submitter": false,
+            "link_id": "t3_bgzfqj",
+            "parent_id": "t3_bgzfqj",
+            "score": 3,
+            "stickied": false,
+            "author_name": "OpenLibram"
+        },
+        "eloq2nd": {
+            "comment": "Drweb . xx is a Russian AV company apparently and seems to be a player in Siggen5 and is the only website with info related to \"Network Remote Awareness\"",
+            "timeStamp": "2019/04/24-13:21:06",
+            "id": "eloq2nd",
+            "is_submitter": true,
+            "link_id": "t3_bgzfqj",
+            "parent_id": "t3_bgzfqj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "staplebench"
+        }
+    }
+}

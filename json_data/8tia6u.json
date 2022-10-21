@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "hi recently i downloaded a torrent and it made my PC bootup without explorer.exe and i get a black screen with only a blank cmd is this a virus or not? i tried scanning for virusses it couldnt find nothing",
+        "title": "explorer.exe wont startup after downloading a torrent",
+        "score": 2,
+        "id": "8tia6u",
+        "commsNum": 1,
+        "timeStamp": "2018/06/24-07:51:39",
+        "author_name": "guitarpunkmasta",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8tia6u/explorerexe_wont_startup_after_downloading_a/"
+    },
+    "posts": {
+        "e17o5dk": {
+            "comment": "Does this look like a tech support subreddit ",
+            "timeStamp": "2018/06/24-07:57:18",
+            "id": "e17o5dk",
+            "is_submitter": false,
+            "link_id": "t3_8tia6u",
+            "parent_id": "t3_8tia6u",
+            "score": 1,
+            "stickied": true,
+            "author_name": "edward_snowedin"
+        }
+    }
+}

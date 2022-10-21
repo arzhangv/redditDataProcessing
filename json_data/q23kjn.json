@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": 0.67,
+        "selftext": "ClamAV has a 4GB file size limitation. Some posts on Stackoverflow recommend using the Linux Split command to split the files. But wouldn\u2019t splitting the files possibly help some malware evade detection? I don\u2019t know enough about how ClamAV works to know if this would create issues or not.\n\nFor context, I need to scan gigantic database files, audio and/or video sensor data, and it needs to scale.",
+        "title": "ClamAV file limitation and split",
+        "score": 1,
+        "id": "q23kjn",
+        "commsNum": 5,
+        "timeStamp": "2021/10/05-12:25:15",
+        "author_name": "atonaltensor",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/q23kjn/clamav_file_limitation_and_split/"
+    },
+    "posts": {
+        "hsm3hnu": {
+            "comment": "remarkable",
+            "timeStamp": "2022/01/14-02:46:00",
+            "id": "hsm3hnu",
+            "is_submitter": false,
+            "link_id": "t3_q23kjn",
+            "parent_id": "t3_q23kjn",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Whynutbetty"
+        },
+        "hfqkrum": {
+            "comment": "Sorry I don\u2019t have much advice there since I mostly deal with network and file detection, but I would assume there are products out there that iterate through databases and such.",
+            "timeStamp": "2021/10/07-08:21:45",
+            "id": "hfqkrum",
+            "is_submitter": false,
+            "link_id": "t3_q23kjn",
+            "parent_id": "t1_hfmqbc9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Trolling_turd"
+        },
+        "hfmqbc9": {
+            "comment": "Thank you for the informative answer! What would be a solution here? For instance, what would an enterprise that is particularly concerned about something like this (say, espionage or targeted sabotage) use?",
+            "timeStamp": "2021/10/06-10:59:37",
+            "id": "hfmqbc9",
+            "is_submitter": true,
+            "link_id": "t3_q23kjn",
+            "parent_id": "t1_hfmj7pf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "atonaltensor"
+        },
+        "hfmj7pf": {
+            "comment": "Splitting the files would introduce the possibility of conditions not being met and causing an FN. This isn\u2019t a malware evasion technique, but caused because you are using clam for something it wasn\u2019t really designed for. \n\nAdditionally, you are going to cause a shit load of FP\u2019s so the clam alerts will be useless. For example, a clam sig might look for the strings \u201cpowershell, http://&lt;ip address pcre&gt;, .exe\u201d. This would likely be targeting a macro doc. If your database contained any of those words anywhere, it would cause an alert. \n\nMost AV\u2019s you look for will have a size limit because it isn\u2019t common to see large malware samples. There are exceptions, but actors like to keep it small so it can be sent by email or easily downloaded. AV is not a sustainable solution for what you are trying to do.",
+            "timeStamp": "2021/10/06-10:10:52",
+            "id": "hfmj7pf",
+            "is_submitter": false,
+            "link_id": "t3_q23kjn",
+            "parent_id": "t3_q23kjn",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Trolling_turd"
+        },
+        "hfireae": {
+            "comment": "Wouldnt you rely on the accuracy of the malware signatures in the clamav signature database?",
+            "timeStamp": "2021/10/05-13:13:40",
+            "id": "hfireae",
+            "is_submitter": false,
+            "link_id": "t3_q23kjn",
+            "parent_id": "t3_q23kjn",
+            "score": 1,
+            "stickied": false,
+            "author_name": "theRunAroundGroup"
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Quick Analysis of AgentTesla SMTP Variant Sample (dated 08-05-2019)",
+        "score": 17,
+        "id": "bo5tgc",
+        "commsNum": 2,
+        "timeStamp": "2019/05/13-09:38:45",
+        "author_name": "peppermalware",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.peppermalware.com/2019/05/quick-analysis-of-agenttesla-smtp-variant-stealer.html"
+    },
+    "posts": {
+        "end35ff": {
+            "comment": "Ill do it! Thanks for the feedback! :)",
+            "timeStamp": "2019/05/13-12:51:55",
+            "id": "end35ff",
+            "is_submitter": true,
+            "link_id": "t3_bo5tgc",
+            "parent_id": "t1_encwscb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "peppermalware"
+        },
+        "encwscb": {
+            "comment": "Good analysis, just post the code snippets don't take pictures of it.",
+            "timeStamp": "2019/05/13-12:06:21",
+            "id": "encwscb",
+            "is_submitter": false,
+            "link_id": "t3_bo5tgc",
+            "parent_id": "t3_bo5tgc",
+            "score": 2,
+            "stickied": false,
+            "author_name": "iNCEPTiON_V_K"
+        }
+    }
+}

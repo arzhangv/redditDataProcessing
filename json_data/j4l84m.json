@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "[https://superuser.com/questions/1534167/fake-broken-pixel-on-windows-10](https://superuser.com/questions/1534167/fake-broken-pixel-on-windows-10)\n\n Today when I opened the pc I noticed \\* a dead pixel \\*, which in fact if I opened the notepad and clicked next to it the mouse in the text mode appeared in the window mode. Everything is good and beautiful, I said it's nothing serious, after the restart it goes, I played about 5/6 hours on the pc / I did my daily activities (watching yt, etc), after I played all of a sudden someone pressed another + tab and shut me out of lawsuits while I was playing. (I mean I actually saw not having my hand on the mouse immediately after I saw another + tab that the mouse was closing my applications -&gt; Steam closed / the game / other applications started. The strange phase is that I only surf on facebook / youtube / reddit / softpedia every day (rarely softpedia) and I don't download fools to download. (all games and applicable are original and licensed). I use Malwarebytes premium as protection. (which did not detect anything).",
+        "title": "Problem with a virus &gt; keylogger i think or rat",
+        "score": 1,
+        "id": "j4l84m",
+        "commsNum": 3,
+        "timeStamp": "2020/10/03-12:32:39",
+        "author_name": "ClaudiuAndrei22",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/j4l84m/problem_with_a_virus_keylogger_i_think_or_rat/"
+    },
+    "posts": {
+        "g7nvstd": {
+            "comment": "Yeah, but he have another problem no person loggingn and use her pc.",
+            "timeStamp": "2020/10/04-04:11:23",
+            "id": "g7nvstd",
+            "is_submitter": true,
+            "link_id": "t3_j4l84m",
+            "parent_id": "t1_g7js5z2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ClaudiuAndrei22"
+        },
+        "g7js5z2": {
+            "comment": "Did you read the comments on the link you posted",
+            "timeStamp": "2020/10/03-13:06:25",
+            "id": "g7js5z2",
+            "is_submitter": false,
+            "link_id": "t3_j4l84m",
+            "parent_id": "t3_j4l84m",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Wouldratherplaymtg"
+        },
+        "g7jrjtk": {
+            "comment": "r/techsupport",
+            "timeStamp": "2020/10/03-13:03:00",
+            "id": "g7jrjtk",
+            "is_submitter": false,
+            "link_id": "t3_j4l84m",
+            "parent_id": "t3_j4l84m",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Schnitzel725"
+        }
+    }
+}

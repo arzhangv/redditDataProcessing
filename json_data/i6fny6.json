@@ -1,0 +1,110 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I would like an answer from experts once and for all- can iPhones be tapped? Can they be tapped easily? I know it is very uncommon for any type of virus to affect iPhones, but are iPhones easily tapped?",
+        "title": "Tapped iPhones",
+        "score": 1,
+        "id": "i6fny6",
+        "commsNum": 8,
+        "timeStamp": "2020/08/09-00:54:50",
+        "author_name": "samrahahah",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 8,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/i6fny6/tapped_iphones/"
+    },
+    "posts": {
+        "g138ig9": {
+            "comment": "[removed]",
+            "timeStamp": "2020/08/11-03:44:20",
+            "id": "g138ig9",
+            "is_submitter": false,
+            "link_id": "t3_i6fny6",
+            "parent_id": "t1_g0wy814",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "g10qy0g": {
+            "comment": "[removed]",
+            "timeStamp": "2020/08/10-11:48:27",
+            "id": "g10qy0g",
+            "is_submitter": false,
+            "link_id": "t3_i6fny6",
+            "parent_id": "t1_g0wy814",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "g0x3cs2": {
+            "comment": "[removed]",
+            "timeStamp": "2020/08/09-12:14:30",
+            "id": "g0x3cs2",
+            "is_submitter": false,
+            "link_id": "t3_i6fny6",
+            "parent_id": "t1_g0wy814",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "g0wy814": {
+            "comment": "Would it be possible for my phone to be tapped if I clicked on a suspicious link on google? Similar to how a computer can get a virus if you click on the wrong thing.",
+            "timeStamp": "2020/08/09-11:30:54",
+            "id": "g0wy814",
+            "is_submitter": true,
+            "link_id": "t3_i6fny6",
+            "parent_id": "t1_g0vjpde",
+            "score": 1,
+            "stickied": false,
+            "author_name": "samrahahah"
+        },
+        "g0wjljb": {
+            "comment": "[removed]",
+            "timeStamp": "2020/08/09-09:23:43",
+            "id": "g0wjljb",
+            "is_submitter": false,
+            "link_id": "t3_i6fny6",
+            "parent_id": "t3_i6fny6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "g0vnefe": {
+            "comment": "[removed]",
+            "timeStamp": "2020/08/09-03:03:45",
+            "id": "g0vnefe",
+            "is_submitter": false,
+            "link_id": "t3_i6fny6",
+            "parent_id": "t3_i6fny6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "g0vjpde": {
+            "comment": "This answer to this question varies widely depending on your adversary's capabilities and intent. It also depends on what you mean by \"tap.\" But to put it simply, for someone with the right resources it is not that difficult to compromise an iPhone or any other mobile device. If your threat model includes governments etc, you'd want to assume that your iPhone could be easily breached at any time. If not, then it is a reasonably secure device that should provide a good degree of confidentiality against most threats.",
+            "timeStamp": "2020/08/09-01:59:47",
+            "id": "g0vjpde",
+            "is_submitter": false,
+            "link_id": "t3_i6fny6",
+            "parent_id": "t3_i6fny6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "blawlt"
+        },
+        "g0vh4n2": {
+            "comment": "[removed]",
+            "timeStamp": "2020/08/09-01:15:56",
+            "id": "g0vh4n2",
+            "is_submitter": false,
+            "link_id": "t3_i6fny6",
+            "parent_id": "t3_i6fny6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

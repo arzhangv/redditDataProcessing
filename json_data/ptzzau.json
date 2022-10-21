@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "The number of malicious Office documents we see has been steadily rising for the past year or so.  Last month, almost half of the downloads we blocked were malicious Office docs.\n\nWe started writing about some of the more interesting samples we have come across to break down how they work:\n\n[https://www.netskope.com/blog/microsoft-office-document-triggering-new-zero-day](https://www.netskope.com/blog/microsoft-office-document-triggering-new-zero-day)\n\n[https://www.netskope.com/blog/bazarloader-using-lolbins-through-office-documents-to-deliver-payloads](https://www.netskope.com/blog/bazarloader-using-lolbins-through-office-documents-to-deliver-payloads)",
+        "title": "Malicious Office document analysis",
+        "score": 1,
+        "id": "ptzzau",
+        "commsNum": 1,
+        "timeStamp": "2021/09/23-10:16:48",
+        "author_name": "canzar",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ptzzau/malicious_office_document_analysis/"
+    },
+    "posts": {
+        "hdzkbpo": {
+            "comment": "Why are you categorizing them as generic detections? \n\nGeneric detections tend to be used for IOCs that are not determined to be specific enough to warrant a proper name/ID, and in most platforms (including yours) are more often than not false positives vs named detections. You also don't provide a way to search for these generic names and determine more info unless you publish something like this article. \n\nYour malware dashboard for Threat Protection doesn't give enough information for someone to determine if this is a false positive or not, beyond showing a single domain. This is an issue I've found again and again with that dashboard. \n\nYour network indicator is \"document has an embedded external link\" which is misleading and again doesn't give nearly enough information to make a determination. There should be (at minimum) two indicators here, one of which is moderate only because of the second (otherwise by itself it would be informational or low).\n\nModerate - Embedded link\n\nHigh - known malicious URL\n\nA single embedded link is not enough to flag anything as \"high\" (nor a jar file, yet you do that too) or even moderate unless it has other indicators that you should convey. \n\nYou just wrote a great article on how this malware works, and yet you're conveying nothing to the customer within the platform or through your threat protection engine.",
+            "timeStamp": "2021/09/23-10:26:35",
+            "id": "hdzkbpo",
+            "is_submitter": false,
+            "link_id": "t3_ptzzau",
+            "parent_id": "t3_ptzzau",
+            "score": 9,
+            "stickied": false,
+            "author_name": "Sam-Gunn"
+        }
+    }
+}

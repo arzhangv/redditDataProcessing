@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "http://www.kernelmode.info/forum/viewtopic.php?f=16&amp;t=3026\nI am trying to understand this malware. Is creating multiple threads an anti debugging technique.",
+        "title": "Why does this Nivdort sample creating so many threads? Is it an anti debugging technique?",
+        "score": 2,
+        "id": "3er660",
+        "commsNum": 0,
+        "timeStamp": "2015/07/27-02:44:29",
+        "author_name": "mysarun88",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/3er660/why_does_this_nivdort_sample_creating_so_many/"
+    },
+    "posts": {}
+}

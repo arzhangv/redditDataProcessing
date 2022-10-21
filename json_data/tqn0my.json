@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "CobaltStrike UUID stager",
+        "score": 1,
+        "id": "tqn0my",
+        "commsNum": 0,
+        "timeStamp": "2022/03/28-17:06:45",
+        "author_name": "sysopfb",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://medium.com/walmartglobaltech/cobaltstrike-uuid-stager-ca7e82f7bb64"
+    },
+    "posts": {}
+}

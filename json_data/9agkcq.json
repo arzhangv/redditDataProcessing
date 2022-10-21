@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "DEFCON 25: Offensive Malware Analysis - Fruit Fly",
+        "score": 2,
+        "id": "9agkcq",
+        "commsNum": 1,
+        "timeStamp": "2018/08/26-08:58:06",
+        "author_name": "edward_snowedin",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://media.defcon.org/DEF%20CON%2025/DEF%20CON%2025%20presentations/DEFCON-25-Patrick-Wardle-Offensive-Malware-Analysis-Fruit-Fly-UPDATED..pdf"
+    },
+    "posts": {
+        "e4x9m74": {
+            "comment": "Hey, does the link work for you? All I see is a grey screen with some sort of light grey pip or something in the exact middle. Almost like it's supposed to be dynamic, but something isn't functioning correctly. \n\nIf it works for you, it may be my browser or something. Chrome gives me that grey screen. Edge won't even load this. \n\nEDIT: whoops, I spoke too soon. sorry. Edge loaded it after a minute or two. Must've been chrome breaking something.\n\nLooks pretty cool!",
+            "timeStamp": "2018/08/27-09:30:23",
+            "id": "e4x9m74",
+            "is_submitter": false,
+            "link_id": "t3_9agkcq",
+            "parent_id": "t3_9agkcq",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Sam-Gunn"
+        }
+    }
+}

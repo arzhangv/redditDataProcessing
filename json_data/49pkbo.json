@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I do a bit of support for friends/family, and one of them keeps getting DNSUnlocker installed on their machine. I know there are a ton of guides to remove it, but I want to actually infect a test machine with it so that I can get a better idea of what is happening. The only problem is, this particular PUP/Trojan is not coming up in any of the streams I normal go through. Does anyone know where I can get a copy of this program so that I can dig deeper into it? From what I gather, it gets bundled with other junk software, but the bundlers tend to go in spurts with what they offer up, and I'm never in the right place at the right time. ",
+        "title": "Looking for DNSUnlocker",
+        "score": 15,
+        "id": "49pkbo",
+        "commsNum": 11,
+        "timeStamp": "2016/03/09-11:08:06",
+        "author_name": "tinyj316",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 11,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/49pkbo/looking_for_dnsunlocker/"
+    },
+    "posts": {}
+}

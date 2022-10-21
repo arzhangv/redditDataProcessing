@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi, I\u00b4ve been downloading too much things this days and I think my PC got infected with a thing.\n\nWell, I don\u00b4t actually think that it is a virus, trojan, adware or any type of malware but it\u00b4s just kind ofr annoying and I don\u00b4t actually like it.\n\nBasically, every time I power up or restart my OS, a 360 Security setup starts. I can\u00b4t understand anything because it is in chinese/japanese or some symbol language like that.\n\nI\u00b4ve gone to my task manager and this setup cames from a temp file and even deleting, it comes back everytime.\n\nThere\u00b4s any suspicious program on \"unninstal a program\" feature of windows, nor anything realted to 360 security at all.\n\nUsefull information:\nOS ---&gt; Windows 10 Pro (64-bit)",
+        "title": "Problem with temp file virus",
+        "score": 1,
+        "id": "a5aq08",
+        "commsNum": 3,
+        "timeStamp": "2018/12/11-12:37:31",
+        "author_name": "IceTapzOfficial",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/a5aq08/problem_with_temp_file_virus/"
+    },
+    "posts": {
+        "ebl62kr": {
+            "comment": "Your issue is ... you use Windows. Stop doing that and your machine will feel better after a long recuperation and rehabilitation.",
+            "timeStamp": "2018/12/11-13:03:30",
+            "id": "ebl62kr",
+            "is_submitter": false,
+            "link_id": "t3_a5aq08",
+            "parent_id": "t3_a5aq08",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mforce1"
+        },
+        "ebl5nht": {
+            "comment": "This sub is for malware analysis and not end user help with virus removal",
+            "timeStamp": "2018/12/11-12:58:24",
+            "id": "ebl5nht",
+            "is_submitter": false,
+            "link_id": "t3_a5aq08",
+            "parent_id": "t3_a5aq08",
+            "score": 2,
+            "stickied": false,
+            "author_name": "weresmytriple"
+        },
+        "ebl5ami": {
+            "comment": "360 Security is an anti-malware \u201ctool\u201d which is often bundled inside other software. These guys did a summary of how to get rid and why it\u2019s shit: \nhttps://www.2-spyware.com/remove-360-total-security-virus.html\n",
+            "timeStamp": "2018/12/11-12:54:05",
+            "id": "ebl5ami",
+            "is_submitter": false,
+            "link_id": "t3_a5aq08",
+            "parent_id": "t3_a5aq08",
+            "score": 1,
+            "stickied": false,
+            "author_name": "plkijn"
+        }
+    }
+}

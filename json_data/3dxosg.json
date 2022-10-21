@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi all, I am beginning to take an interest in learning more around how to best approach an infected endpoint (please let me know if this isn't the best subreddit). I've always wondered given an OS with adequate protection suite such as host IPS or antivirus, it would help sysadmins or ITsec folks a head start in what to look for with alerts and log files. However, if  you were presented with an OS state that is already infected without any host IPS, antivirus or Windows Firewall for that matter but were told it was infected with \"something\", what tools would you start analysis the OS with? (Let's assume Windows now for simplicity)",
+        "title": "How to approach IR",
+        "score": 17,
+        "id": "3dxosg",
+        "commsNum": 14,
+        "timeStamp": "2015/07/20-04:47:14",
+        "author_name": "im_not_that_clever",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 14,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/3dxosg/how_to_approach_ir/"
+    },
+    "posts": {}
+}

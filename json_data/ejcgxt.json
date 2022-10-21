@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "RAT resources. 100+ open source RAT, 500+ RAT analysis blog/video.",
+        "score": 1,
+        "id": "ejcgxt",
+        "commsNum": 0,
+        "timeStamp": "2020/01/03-00:08:22",
+        "author_name": "seyyid_",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://github.com/alphaSeclab/awesome-rat"
+    },
+    "posts": {}
+}

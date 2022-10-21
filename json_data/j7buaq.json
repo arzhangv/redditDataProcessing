@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I have downloads for FIFA 14 Mobile offline mode but I am not sure if I should install them on my phone. I ran the apk and obb files through virus total and came out with 1 suspicion report but otherwise it was clean. I did a test installation and it ran fine, but it was ported by a Russian source who I am not sure if I should trust. It's from oceanofapk but I don't know how reliable they are. Please see the image below for the virus report. Thing is, that game has always been free so (not sure if ) I am breaking some DMCA law. It's just a port for a game that is no longer available but can be played offline. \n\nhttps://preview.redd.it/oahap4ov2vr51.png?width=3358&amp;format=png&amp;auto=webp&amp;s=9024d2687b013770b84b0b50abb995822e0314f4",
+        "title": "FIFA 14 APK",
+        "score": 1,
+        "id": "j7buaq",
+        "commsNum": 2,
+        "timeStamp": "2020/10/08-05:06:41",
+        "author_name": "naeeeem",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/j7buaq/fifa_14_apk/"
+    },
+    "posts": {
+        "g88v763": {
+            "comment": "Probably a false positive",
+            "timeStamp": "2020/10/09-12:28:51",
+            "id": "g88v763",
+            "is_submitter": false,
+            "link_id": "t3_j7buaq",
+            "parent_id": "t3_j7buaq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "JonesPedrones"
+        },
+        "g88ul97": {
+            "comment": "[removed]",
+            "timeStamp": "2020/10/09-12:23:18",
+            "id": "g88ul97",
+            "is_submitter": false,
+            "link_id": "t3_j7buaq",
+            "parent_id": "t3_j7buaq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

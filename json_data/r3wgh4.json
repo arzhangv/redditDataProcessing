@@ -1,0 +1,110 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "i just want to know how deadly a just connecting to a site can be to your pc",
+        "title": "what is the worst thing that connecting to a website can do to your pc without downloading anything",
+        "score": 1,
+        "id": "r3wgh4",
+        "commsNum": 8,
+        "timeStamp": "2021/11/27-21:07:39",
+        "author_name": "Avocado_Express",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 8,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/r3wgh4/what_is_the_worst_thing_that_connecting_to_a/"
+    },
+    "posts": {
+        "hmtatb7": {
+            "comment": "fingerprint you.",
+            "timeStamp": "2021/12/01-08:41:59",
+            "id": "hmtatb7",
+            "is_submitter": false,
+            "link_id": "t3_r3wgh4",
+            "parent_id": "t3_r3wgh4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "0x33336"
+        },
+        "hmfbn58": {
+            "comment": "Unless there's a browser exploit involved, a website can't harm your computer just because you visited it. These days, it is difficult to escape the browser sandbox from what I've heard, so browser exploits are not that common, but that's just my anecdata.",
+            "timeStamp": "2021/11/28-10:00:22",
+            "id": "hmfbn58",
+            "is_submitter": false,
+            "link_id": "t3_r3wgh4",
+            "parent_id": "t3_r3wgh4",
+            "score": 2,
+            "stickied": false,
+            "author_name": "abhaynayar"
+        },
+        "hmdouuv": {
+            "comment": "Connecting to a website by definition is downloading something",
+            "timeStamp": "2021/11/28-00:32:57",
+            "id": "hmdouuv",
+            "is_submitter": false,
+            "link_id": "t3_r3wgh4",
+            "parent_id": "t3_r3wgh4",
+            "score": 20,
+            "stickied": false,
+            "author_name": "SignificantGolf9871"
+        },
+        "hmdigwp": {
+            "comment": "https://www.kaspersky.com/resource-center/definitions/drive-by-download",
+            "timeStamp": "2021/11/27-23:13:54",
+            "id": "hmdigwp",
+            "is_submitter": false,
+            "link_id": "t3_r3wgh4",
+            "parent_id": "t3_r3wgh4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sa_zh_"
+        },
+        "hmdhrhv": {
+            "comment": "Cross Site Scripting basically, or redirecting to another site with a Cross Site Scripting payload. Which could steal your cookies and thus your session or do actions on your behalf",
+            "timeStamp": "2021/11/27-23:05:59",
+            "id": "hmdhrhv",
+            "is_submitter": false,
+            "link_id": "t3_r3wgh4",
+            "parent_id": "t3_r3wgh4",
+            "score": 3,
+            "stickied": false,
+            "author_name": "sorhinco"
+        },
+        "hmdb28w": {
+            "comment": "In my experience blue screens are almost always driver bugs.  Unless you have Javascript blocked that is a vector.",
+            "timeStamp": "2021/11/27-21:52:20",
+            "id": "hmdb28w",
+            "is_submitter": false,
+            "link_id": "t3_r3wgh4",
+            "parent_id": "t1_hmd9y2k",
+            "score": 2,
+            "stickied": false,
+            "author_name": "mossman"
+        },
+        "hmd9y2k": {
+            "comment": "id like to know more about them crash packets   \ndoes it make your bluescreen or just crash the browser",
+            "timeStamp": "2021/11/27-21:40:51",
+            "id": "hmd9y2k",
+            "is_submitter": true,
+            "link_id": "t3_r3wgh4",
+            "parent_id": "t1_hmd9924",
+            "score": 0,
+            "stickied": false,
+            "author_name": "Avocado_Express"
+        },
+        "hmd9924": {
+            "comment": "Well it could view your IP address, that and it could send some misconfigured packets to make your computer crash or something, that hasn't been a thing for a minute though.",
+            "timeStamp": "2021/11/27-21:33:56",
+            "id": "hmd9924",
+            "is_submitter": false,
+            "link_id": "t3_r3wgh4",
+            "parent_id": "t3_r3wgh4",
+            "score": 5,
+            "stickied": false,
+            "author_name": "jesus-da-wizard"
+        }
+    }
+}

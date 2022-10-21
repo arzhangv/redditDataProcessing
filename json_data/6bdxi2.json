@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I'm trying to put together some DPI rules on a LogRhythm NetMon appliance, to detect when MS17-010 is being exploited, so I can either quarantine the host, or send RSTs to the Wireless interface it's coming from.  \nI don't have a live sample of the worm, but I'm wondering if anyone has a PCAP of it, or something else which exploits the same vulnerability?",
+        "title": "MS17-010 / WannaCry - PCAP file or exploit sample?",
+        "score": 14,
+        "id": "6bdxi2",
+        "commsNum": 8,
+        "timeStamp": "2017/05/15-16:30:54",
+        "author_name": "perpetual_C000009A",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 8,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6bdxi2/ms17010_wannacry_pcap_file_or_exploit_sample/"
+    },
+    "posts": {}
+}

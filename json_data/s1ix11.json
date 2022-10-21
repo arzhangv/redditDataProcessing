@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Anyone remember the Krotten ransomware? I found a fix.",
+        "title": "Krotten Ransomware",
+        "score": 1,
+        "id": "s1ix11",
+        "commsNum": 0,
+        "timeStamp": "2022/01/11-09:51:46",
+        "author_name": "sunixtc",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/s1ix11/krotten_ransomware/"
+    },
+    "posts": {
+        "hsqru47": {
+            "comment": "Are you referring to this 18 year old malware that already has removal instructions: https://malwiki.org/index.php?title=Krotten\n\nI doubt any system still gets infected by this one.",
+            "timeStamp": "2022/01/15-00:32:12",
+            "id": "hsqru47",
+            "is_submitter": false,
+            "link_id": "t3_s1ix11",
+            "parent_id": "t3_s1ix11",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Struppigel"
+        },
+        "hs8z1we": {
+            "comment": "Yes.\n\nIf it's \"infamous,\" then people have been hit with it. This sort of \"clickbait\" sort of request to grovel is kind of lowbrow. Post it on Github, share it, reap karma. And if no one SEEMS to be interested, then just let yourself know that you did a good thing for the Internet today.\n\nSome posts don't see ANY traffic until MUCH later. And those people who try to find specific phrases and terms on Google later who find your post will be VERY MUCH grateful.\n\nDon't gatekeep. We tend to remember the folks who gave it their all publicly, u/sunixtc. And in return, if you keep up with giving, people are probably going to be flocking to you and paying for your services later.\n\nThat's how that works.\n\nDisclaimer: I have no idea what the Krotten ransomware is. I just have an idea of how ransomware behaves... so if you know something we don't, I think it would be in your favor to share something and garner respect/reputation for future endeavors.",
+            "timeStamp": "2022/01/11-11:44:56",
+            "id": "hs8z1we",
+            "is_submitter": false,
+            "link_id": "t3_s1ix11",
+            "parent_id": "t3_s1ix11",
+            "score": 1,
+            "stickied": false,
+            "author_name": "rayzoredge"
+        },
+        "hs8yves": {
+            "comment": "Why would you not want to type it out? It's good information sharing.",
+            "timeStamp": "2022/01/11-11:43:50",
+            "id": "hs8yves",
+            "is_submitter": false,
+            "link_id": "t3_s1ix11",
+            "parent_id": "t3_s1ix11",
+            "score": 1,
+            "stickied": false,
+            "author_name": "LightningRurik"
+        },
+        "hs8x4g9": {
+            "comment": "I really don't care.",
+            "timeStamp": "2022/01/11-11:33:08",
+            "id": "hs8x4g9",
+            "is_submitter": false,
+            "link_id": "t3_s1ix11",
+            "parent_id": "t3_s1ix11",
+            "score": 1,
+            "stickied": false,
+            "author_name": "soutsos"
+        },
+        "hs8nw0j": {
+            "comment": "Not directly interested, but maybe make a git entry with your fix and share it here?",
+            "timeStamp": "2022/01/11-10:36:42",
+            "id": "hs8nw0j",
+            "is_submitter": false,
+            "link_id": "t3_s1ix11",
+            "parent_id": "t3_s1ix11",
+            "score": 1,
+            "stickied": false,
+            "author_name": "stephenmjay"
+        },
+        "hs8kdz1": {
+            "comment": "no thanks",
+            "timeStamp": "2022/01/11-10:15:38",
+            "id": "hs8kdz1",
+            "is_submitter": false,
+            "link_id": "t3_s1ix11",
+            "parent_id": "t3_s1ix11",
+            "score": 1,
+            "stickied": false,
+            "author_name": "simpaholic"
+        }
+    }
+}

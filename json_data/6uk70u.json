@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Almost all AV programs have live-CD scanners. Which you boot from.\n\nBut I need the ones which come with the latest signatures and updates when I download it **as an ISO** . Most of them has to be updated within its operating system, they usually have virus databases from 2015-2016...\n\nI'll use it on offline computers, so I can't run its update when booted.\n\nI think trend micro comes updated beforehand but I'm not sure. Any other?\n",
+        "title": "Looking for Live-CD Virus Scanners",
+        "score": 8,
+        "id": "6uk70u",
+        "commsNum": 6,
+        "timeStamp": "2017/08/18-12:30:12",
+        "author_name": "Kannular",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6uk70u/looking_for_livecd_virus_scanners/"
+    },
+    "posts": {
+        "dm0ccm8": {
+            "comment": "How do you scan for viruses when you can't start Windows to do a virus scan? i suggest theses antivirus: Anvi Rescue Disk, AVG Rescue CD, Avira Rescue System, Comodo Rescue Disk, Bitdefender Rescue CD, Dr.Web LiveDisk, F-Secure Rescue CD, Kaspersky Rescue Disk, Panda Cloud Cleaner Rescue ISO,  Sophos Bootable Anti-Virus.",
+            "timeStamp": "2017/08/23-02:58:15",
+            "id": "dm0ccm8",
+            "is_submitter": false,
+            "link_id": "t3_6uk70u",
+            "parent_id": "t3_6uk70u",
+            "score": 1,
+            "stickied": false,
+            "author_name": "grogerysolberg"
+        },
+        "dlu8geg": {
+            "comment": "You can made it by yourself.\n\nsome antivirus have that feature to create a live CD virus scanner (an ISO file), you need a Windows AIK to build it.\n\nIf you don't want to made it, it pretty easy to find on google using this keyword \"antivirus rescue disk\"\n\nHere's some..\n\nKAV : http://rescuedisk.kaspersky-labs.com/rescuedisk/updatable/kav_rescue_10.iso\n\nESET : https://www.eset.com/int/support/sysrescue/#download",
+            "timeStamp": "2017/08/19-05:12:55",
+            "id": "dlu8geg",
+            "is_submitter": false,
+            "link_id": "t3_6uk70u",
+            "parent_id": "t3_6uk70u",
+            "score": 2,
+            "stickied": false,
+            "author_name": "dlu_ulb"
+        },
+        "dlu0xpf": {
+            "comment": "Usually the boot media based scanners support reading updates from USB stick or other media, otherwise they would be pointless. Check documentation.",
+            "timeStamp": "2017/08/18-23:15:28",
+            "id": "dlu0xpf",
+            "is_submitter": false,
+            "link_id": "t3_6uk70u",
+            "parent_id": "t3_6uk70u",
+            "score": 1,
+            "stickied": false,
+            "author_name": "4745454B"
+        },
+        "dltj1qk": {
+            "comment": "Hello,\n\nFor ESET SysRescue Live, perform an upate before you go to the non-networked machine, and then use the option to make a copy of itself.  This will give you a new USB with the latest module updates on it.\n\nRegards, \n\nAryeh Goretsky ",
+            "timeStamp": "2017/08/18-15:27:41",
+            "id": "dltj1qk",
+            "is_submitter": false,
+            "link_id": "t3_6uk70u",
+            "parent_id": "t3_6uk70u",
+            "score": 6,
+            "stickied": false,
+            "author_name": "goretsky"
+        },
+        "dltgq97": {
+            "comment": "https://support.microsoft.com/en-us/help/17466/windows-defender-offline-help-protect-my-pc\n",
+            "timeStamp": "2017/08/18-14:40:17",
+            "id": "dltgq97",
+            "is_submitter": false,
+            "link_id": "t3_6uk70u",
+            "parent_id": "t3_6uk70u",
+            "score": 2,
+            "stickied": false,
+            "author_name": "RanmaSao"
+        },
+        "dltdoqs": {
+            "comment": "It's been awhile but there used to be few of them that I used. Avira was good a couple of years ago, not sure how good they still are. \n\nhttps://www.avira.com/en/download/product/avira-rescue-system\n\nI was always a bigger fan of usb Linux distros with persistent storage. ",
+            "timeStamp": "2017/08/18-13:40:47",
+            "id": "dltdoqs",
+            "is_submitter": false,
+            "link_id": "t3_6uk70u",
+            "parent_id": "t3_6uk70u",
+            "score": 2,
+            "stickied": false,
+            "author_name": "avgsmoe"
+        }
+    }
+}

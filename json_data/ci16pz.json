@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Just read these are the latest Mac OS threats.  I'm currently using [**Bit Defender**](https://www.bitdefender.com/) and [**AiroAV**](https://www.airoav.com/) and quite happy with both.  But wondering if they are enough as there are so many types of [**malware**](https://medium.com/@AiroSecurity/airoav-is-shedding-some-light-on-a-malware-definitions-83a790c920e).  Also, is there a way on IOS (iPhone) to check certificates and also search text on websites?\n\n\u2014 A new form of Mac malware evades Apple's Gatekeeper program and hides from antivirus software. ADVICE: Run Mac antivirus software, since the malware won't run at all if it detects it on a machine.\n\n\u2014 An Instagram phishing campaign masquerades as a method by which your Instagram account can be receive a \"verified\" badge. But of course, you have to provide your email address and password. ADVICE: Check the URL of the website pretending to be Instagram; the real Instagram won't ask for your email address as verification.\n\n\u2014 The widely used video-playing software VLC got a hefty security update to thwart all sorts of exploits. ADVICE: Update your VLC software to version 3.0.7.",
+        "title": "BitDefender and AiroAV Mac Anti Virus",
+        "score": 12,
+        "id": "ci16pz",
+        "commsNum": 5,
+        "timeStamp": "2019/07/26-03:30:54",
+        "author_name": "Minitag",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ci16pz/bitdefender_and_airoav_mac_anti_virus/"
+    },
+    "posts": {
+        "ew5ez1j": {
+            "comment": "Hello,\n\nAnyone who is reading this thread should take a very careful look at the post histories of the people replying in it.\n\nRegards,\n\nAryeh Goretsky",
+            "timeStamp": "2019/08/06-16:37:23",
+            "id": "ew5ez1j",
+            "is_submitter": false,
+            "link_id": "t3_ci16pz",
+            "parent_id": "t3_ci16pz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "goretsky"
+        },
+        "ev8tyhj": {
+            "comment": "**AIROAV does a great job of cleaning malware and improving Mac OS performance.  Unfortunately, there is no way to CTRL F to search on the webpages visited using Safari on the iPhone.**",
+            "timeStamp": "2019/07/27-22:24:05",
+            "id": "ev8tyhj",
+            "is_submitter": false,
+            "link_id": "t3_ci16pz",
+            "parent_id": "t3_ci16pz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Uyersuyer"
+        },
+        "ev2p5pr": {
+            "comment": "Tried everything - but my computer as well immediately sped up performance after installing Airoav anti virus software.  This world has to many viruses in them!!!!",
+            "timeStamp": "2019/07/26-15:46:44",
+            "id": "ev2p5pr",
+            "is_submitter": true,
+            "link_id": "t3_ci16pz",
+            "parent_id": "t3_ci16pz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Minitag"
+        },
+        "ev2fqmk": {
+            "comment": "I'm also using **AiroAV** on my **Mac Pro**.  Seems to be much better than everything else and **speeds up my computer.**",
+            "timeStamp": "2019/07/26-14:20:59",
+            "id": "ev2fqmk",
+            "is_submitter": false,
+            "link_id": "t3_ci16pz",
+            "parent_id": "t3_ci16pz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "nolsen01"
+        },
+        "ev0g3d0": {
+            "comment": "I'm using Avast and Airoav.",
+            "timeStamp": "2019/07/26-03:46:27",
+            "id": "ev0g3d0",
+            "is_submitter": false,
+            "link_id": "t3_ci16pz",
+            "parent_id": "t3_ci16pz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "elle_nor69"
+        }
+    }
+}

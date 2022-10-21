@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "The new variant is spreading like fire...ive heard about it infecting PCs for the 3rd time.\nthe files are being renamed with .mass ext.\n\nanywhere i can get a sample?",
+        "title": "New Djvu/STOP ransomwr in the wild",
+        "score": 1,
+        "id": "hojutm",
+        "commsNum": 2,
+        "timeStamp": "2020/07/09-23:20:01",
+        "author_name": "sike_nikka",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/hojutm/new_djvustop_ransomwr_in_the_wild/"
+    },
+    "posts": {
+        "fxund3f": {
+            "comment": "Noicee...",
+            "timeStamp": "2020/07/12-11:18:43",
+            "id": "fxund3f",
+            "is_submitter": true,
+            "link_id": "t3_hojutm",
+            "parent_id": "t1_fxk9xgm",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sike_nikka"
+        },
+        "fxk9xgm": {
+            "comment": " [https://app.any.run/tasks/c33ab9da-568f-41a3-9add-85a4c400d9aa/](https://app.any.run/tasks/c33ab9da-568f-41a3-9add-85a4c400d9aa/) \n\nDownload that sample.",
+            "timeStamp": "2020/07/10-12:39:23",
+            "id": "fxk9xgm",
+            "is_submitter": false,
+            "link_id": "t3_hojutm",
+            "parent_id": "t3_hojutm",
+            "score": 1,
+            "stickied": false,
+            "author_name": "danstheman7"
+        }
+    }
+}

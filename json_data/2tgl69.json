@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "So here's the situation.  I have no idea how this got on my computer, but as of recently (with my attempts to try and stop it) it isn't being detected anymore with my malwarebytes scans.  However, when I finish a scan and it says all clean, ardyux.exe is still running as a process or as several processes in my task manager.\n\nSymptoms: If I unplug my internet card it still says that I have internet until I run a scan.\n\nOpening any browser (tried chrome, nightly, firefox, and explorer) will result in the browser not responding, and after you force close the browser it still appears as a process in the task manager that I cannot delete.\n\nIf anyone has any idea about how to get rid of this, please let me know.  This is incredibly frustrating and I've been at it for hours now.  I'm posting this on a mobile because of the whole pseudo internet thing.",
+        "title": "Help with ardyux.exe / Erdoaem Vire Studaa 2021",
+        "score": 3,
+        "id": "2tgl69",
+        "commsNum": 9,
+        "timeStamp": "2015/01/23-15:47:49",
+        "author_name": "[deleted]",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 9,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2tgl69/help_with_ardyuxexe_erdoaem_vire_studaa_2021/"
+    },
+    "posts": {}
+}

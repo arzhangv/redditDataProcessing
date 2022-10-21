@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "according to virustotal. this setup file i created by installforge is a virus, yet all the files it extracts are not.\n\n\nhttps://www.virustotal.com/en/file/a1cad0b7e8d9807288167b15309b13f37663001e509adeab288b14ba3a00c6b8/analysis/1453356761/\n\nshould i find another installer creation program or is this just a false report?",
+        "title": "setup file created with 'installforge'",
+        "score": 0,
+        "id": "41ynn3",
+        "commsNum": 2,
+        "timeStamp": "2016/01/20-22:13:34",
+        "author_name": "SilicaAndPina",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/41ynn3/setup_file_created_with_installforge/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "As title states, it keeps reappearing in my windows temp folder along with a bunch of other files. It (the pcds64.exe) was quarantined by Bitdefender. I've tried deleting them over and over again, but they reappear. I've run my antivirus, malware-bytes, and windows malicious software removal. Apparently it's a Trojan according to the results. It still remains. Oh and I cannot delete the file named \"tmp00006cb6\" because it requires admin privileges.  \n  \nThe Folder and the files(the bottom file is called pcds64.exe):  \nhttps://gyazo.com/c3ae150e6a173f48e6adc6f9e30b0fde  \n  \nThe details of the three executables:  \nhttps://gyazo.com/8269c8972d85e2288d4ae3c43f775769  \n  \nwhat the .bat file has:  \nhttps://gyazo.com/f01b5647daef73d31b73d33ea863dfa6  \n  \nAre they in anyway malicious? What exactly should I do to remove them?",
+        "title": "Need help with potentially malicious executable",
+        "score": 4,
+        "id": "41rlwb",
+        "commsNum": 3,
+        "timeStamp": "2016/01/19-16:10:57",
+        "author_name": "Blazerek",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/41rlwb/need_help_with_potentially_malicious_executable/"
+    },
+    "posts": {}
+}

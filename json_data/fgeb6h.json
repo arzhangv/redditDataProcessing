@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "macOS Malware Researchers | How To Bypass XProtect on Catalina",
+        "score": 1,
+        "id": "fgeb6h",
+        "commsNum": 1,
+        "timeStamp": "2020/03/10-07:04:59",
+        "author_name": "Cyberthere",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.sentinelone.com/blog/macos-malware-researchers-how-to-bypass-xprotect-on-catalina/"
+    },
+    "posts": {
+        "fk43aaf": {
+            "comment": "Has this been patched?",
+            "timeStamp": "2020/03/10-08:00:04",
+            "id": "fk43aaf",
+            "is_submitter": false,
+            "link_id": "t3_fgeb6h",
+            "parent_id": "t3_fgeb6h",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MiKeMcDnet"
+        }
+    }
+}

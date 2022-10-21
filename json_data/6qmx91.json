@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[deleted]",
+        "title": "How do I know if my router is infected?",
+        "score": 0,
+        "id": "6qmx91",
+        "commsNum": 4,
+        "timeStamp": "2017/07/31-00:36:13",
+        "author_name": "[deleted]",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6qmx91/how_do_i_know_if_my_router_is_infected/"
+    },
+    "posts": {
+        "dkys6u9": {
+            "comment": "You can't find anything online about this? LOL.",
+            "timeStamp": "2017/07/31-07:22:46",
+            "id": "dkys6u9",
+            "is_submitter": false,
+            "link_id": "t3_6qmx91",
+            "parent_id": "t3_6qmx91",
+            "score": 1,
+            "stickied": false,
+            "author_name": "packetstorms"
+        },
+        "dkynj98": {
+            "comment": "/r/techsupport",
+            "timeStamp": "2017/07/31-05:25:01",
+            "id": "dkynj98",
+            "is_submitter": false,
+            "link_id": "t3_6qmx91",
+            "parent_id": "t3_6qmx91",
+            "score": 1,
+            "stickied": false,
+            "author_name": "trunksbomb"
+        },
+        "dkymo6a": {
+            "comment": "Check your router logs for strange traffic as described already, and strange log times. Or the absence of logs.",
+            "timeStamp": "2017/07/31-04:56:42",
+            "id": "dkymo6a",
+            "is_submitter": false,
+            "link_id": "t3_6qmx91",
+            "parent_id": "t3_6qmx91",
+            "score": 1,
+            "stickied": false,
+            "author_name": "shredu2"
+        },
+        "dkyiyan": {
+            "comment": "Strange DNS is common, if they are after your traffic. Otherwise, excess traffic coming from it or slow internet. If you thinking might be, flash the latest firmware or replace it. ",
+            "timeStamp": "2017/07/31-02:16:15",
+            "id": "dkyiyan",
+            "is_submitter": false,
+            "link_id": "t3_6qmx91",
+            "parent_id": "t3_6qmx91",
+            "score": 1,
+            "stickied": false,
+            "author_name": "GuidoZ"
+        }
+    }
+}

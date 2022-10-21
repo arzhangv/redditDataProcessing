@@ -1,0 +1,253 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Why is it so hard to setup cuckoo? I've probably followed 3 different tutorials and something always breaks or goes wrong. Are there an .ova's or vmx's of a cuckoo sandbox prebuilt?",
+        "title": "Setting up a cuckoo sandbox is quite the challenge",
+        "score": 1,
+        "id": "euoyii",
+        "commsNum": 21,
+        "timeStamp": "2020/01/27-06:56:51",
+        "author_name": "knock_on_wood_yall",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 21,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/euoyii/setting_up_a_cuckoo_sandbox_is_quite_the_challenge/"
+    },
+    "posts": {
+        "fmrfgdt": {
+            "comment": "I will say I managed to get it working with boombox on my Windows pc using separate virtual box vms for cuckoo and the sandbox, I still have to manually restore the sandbox after detonation but it does the job",
+            "timeStamp": "2020/04/07-21:54:11",
+            "id": "fmrfgdt",
+            "is_submitter": true,
+            "link_id": "t3_euoyii",
+            "parent_id": "t1_fmrf3bg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "knock_on_wood_yall"
+        },
+        "fmrf3bg": {
+            "comment": "It's hard man... I hope you have had good luck in the last 2 months getting this operational. I have had one issue after another, guacd remote control never works, networking through anything other than direct connection has worked (what a pain), and have not got url analysis working. There has been some positives, I have been getting reports on executables being run on the actual system and it does report wealth of good information, but it was NOT as simple as following the guides online.",
+            "timeStamp": "2020/04/07-21:49:22",
+            "id": "fmrf3bg",
+            "is_submitter": false,
+            "link_id": "t3_euoyii",
+            "parent_id": "t3_euoyii",
+            "score": 1,
+            "stickied": false,
+            "author_name": "nathangl"
+        },
+        "fhv8tls": {
+            "comment": "If you want to see mine just take look around my video here : \n[videos](https://youtu.be/M0k_aR8vpXU)",
+            "timeStamp": "2020/02/16-15:09:30",
+            "id": "fhv8tls",
+            "is_submitter": false,
+            "link_id": "t3_euoyii",
+            "parent_id": "t1_fhr8swv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Ethnical_Info"
+        },
+        "fhs0d6x": {
+            "comment": "Using Centos 8 inside my Vmware.. quite a challenge but working great !",
+            "timeStamp": "2020/02/16-02:04:37",
+            "id": "fhs0d6x",
+            "is_submitter": false,
+            "link_id": "t3_euoyii",
+            "parent_id": "t1_fhr8swv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Ethnical_Info"
+        },
+        "fhr8swv": {
+            "comment": "What os/ version did you use? I ended up going with another install script but it does have some trouble connecting to the sandbox vm.",
+            "timeStamp": "2020/02/15-18:29:36",
+            "id": "fhr8swv",
+            "is_submitter": true,
+            "link_id": "t3_euoyii",
+            "parent_id": "t1_fhpo9cd",
+            "score": 1,
+            "stickied": false,
+            "author_name": "knock_on_wood_yall"
+        },
+        "fhpo9cd": {
+            "comment": "Hi ! \n\nI was thinking exactly as you.. Hopefully i found this \u2192  [https://github.com/nbeede/BoomBox](https://github.com/nbeede/BoomBox) \n\nI made it today, and it's working great !! :) \n\nGood luck !",
+            "timeStamp": "2020/02/15-10:55:51",
+            "id": "fhpo9cd",
+            "is_submitter": false,
+            "link_id": "t3_euoyii",
+            "parent_id": "t3_euoyii",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Ethnical_Info"
+        },
+        "fftahzs": {
+            "comment": "I did it with this script a year ago.\nhttps://gist.github.com/braimee/bf570a62f53f71bad1906c6e072ce993",
+            "timeStamp": "2020/01/28-04:27:17",
+            "id": "fftahzs",
+            "is_submitter": false,
+            "link_id": "t3_euoyii",
+            "parent_id": "t3_euoyii",
+            "score": 1,
+            "stickied": false,
+            "author_name": "rushBMO"
+        },
+        "fft3gp1": {
+            "comment": "Yes, however  You lose control of a file once you upload it and a public report is generated.\n\nAlso I have some people integrate cuckoo into their security stack where any files it comes over the network is automatically run against cuckoo",
+            "timeStamp": "2020/01/28-01:50:58",
+            "id": "fft3gp1",
+            "is_submitter": false,
+            "link_id": "t3_euoyii",
+            "parent_id": "t1_ffroz9c",
+            "score": 1,
+            "stickied": false,
+            "author_name": "julietscause"
+        },
+        "ffsywhe": {
+            "comment": "It's fairly easy once you understand the approach. You can post here the issues and where you get stuck, it would be easier to guide you this way.",
+            "timeStamp": "2020/01/27-23:59:29",
+            "id": "ffsywhe",
+            "is_submitter": false,
+            "link_id": "t3_euoyii",
+            "parent_id": "t3_euoyii",
+            "score": 1,
+            "stickied": false,
+            "author_name": "pardaillans"
+        },
+        "ffsjb5f": {
+            "comment": "don't forget to baseline all the filetype launches you intend to support before you shrinkwrap that image, otherwise you'll be tracking \"welcome to microsoft word\" in all your analyses too. you'll be missing half the fun if you don't.",
+            "timeStamp": "2020/01/27-19:44:50",
+            "id": "ffsjb5f",
+            "is_submitter": false,
+            "link_id": "t3_euoyii",
+            "parent_id": "t3_euoyii",
+            "score": 1,
+            "stickied": false,
+            "author_name": "0x7262"
+        },
+        "ffs23aj": {
+            "comment": "Ahahaha oh did my heart sink reading this",
+            "timeStamp": "2020/01/27-16:27:23",
+            "id": "ffs23aj",
+            "is_submitter": false,
+            "link_id": "t3_euoyii",
+            "parent_id": "t1_ffrdz2w",
+            "score": 1,
+            "stickied": false,
+            "author_name": "craybobnee"
+        },
+        "ffs0xtl": {
+            "comment": "I just went through this. I threw this together if you want to give it a try and tell me if it works for you or not.\n\n\nhttps://github.com/kimobu/cuckoo-kvm",
+            "timeStamp": "2020/01/27-16:14:24",
+            "id": "ffs0xtl",
+            "is_submitter": false,
+            "link_id": "t3_euoyii",
+            "parent_id": "t3_euoyii",
+            "score": 1,
+            "stickied": false,
+            "author_name": "kimobu"
+        },
+        "ffrvq56": {
+            "comment": "[removed]",
+            "timeStamp": "2020/01/27-15:15:32",
+            "id": "ffrvq56",
+            "is_submitter": false,
+            "link_id": "t3_euoyii",
+            "parent_id": "t3_euoyii",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ffroz9c": {
+            "comment": "There's a free cuckoo website the stuff upload malware there",
+            "timeStamp": "2020/01/27-14:03:37",
+            "id": "ffroz9c",
+            "is_submitter": false,
+            "link_id": "t3_euoyii",
+            "parent_id": "t3_euoyii",
+            "score": 1,
+            "stickied": false,
+            "author_name": "buck8ochickn"
+        },
+        "ffrnlmu": {
+            "comment": "Worthy alternative is CAPE\n\n\"Derived from Cuckoo and is designed to automate the process of malware analysis with the goal of extracting payloads and configuration from malware\"\n\n[https://github.com/kevoreilly/CAPEv2](https://github.com/kevoreilly/CAPEv2)",
+            "timeStamp": "2020/01/27-13:49:33",
+            "id": "ffrnlmu",
+            "is_submitter": false,
+            "link_id": "t3_euoyii",
+            "parent_id": "t3_euoyii",
+            "score": 1,
+            "stickied": false,
+            "author_name": "intercake"
+        },
+        "ffrn35d": {
+            "comment": "[removed]",
+            "timeStamp": "2020/01/27-13:44:23",
+            "id": "ffrn35d",
+            "is_submitter": false,
+            "link_id": "t3_euoyii",
+            "parent_id": "t3_euoyii",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ffrdz2w": {
+            "comment": "I had the same struggle, took a room full of cyber security engineers and analysts a few weeks to get it working right. Unnecessarily complicated. Good luck!",
+            "timeStamp": "2020/01/27-12:15:29",
+            "id": "ffrdz2w",
+            "is_submitter": false,
+            "link_id": "t3_euoyii",
+            "parent_id": "t3_euoyii",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Flight-Junkie"
+        },
+        "ffr5grk": {
+            "comment": "lol tried, Ill give it a shot again though",
+            "timeStamp": "2020/01/27-10:47:52",
+            "id": "ffr5grk",
+            "is_submitter": true,
+            "link_id": "t3_euoyii",
+            "parent_id": "t1_ffr1cs1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "knock_on_wood_yall"
+        },
+        "ffr1cs1": {
+            "comment": "https://github.com/nbeede/BoomBox",
+            "timeStamp": "2020/01/27-10:05:07",
+            "id": "ffr1cs1",
+            "is_submitter": false,
+            "link_id": "t3_euoyii",
+            "parent_id": "t3_euoyii",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Centurion89"
+        },
+        "ffqsecz": {
+            "comment": "[removed]",
+            "timeStamp": "2020/01/27-08:29:17",
+            "id": "ffqsecz",
+            "is_submitter": false,
+            "link_id": "t3_euoyii",
+            "parent_id": "t3_euoyii",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ffqmvqz": {
+            "comment": "Have you tried reading the documentations? I\u2019ve found online tutorials a little iffy at times, or outdated, so it\u2019s always best to give documentation\u2019s a read/try. \n\nhttps://cuckoo.readthedocs.io/en/latest/installation/",
+            "timeStamp": "2020/01/27-07:26:43",
+            "id": "ffqmvqz",
+            "is_submitter": false,
+            "link_id": "t3_euoyii",
+            "parent_id": "t3_euoyii",
+            "score": 1,
+            "stickied": false,
+            "author_name": "LaqueredSpring"
+        }
+    }
+}

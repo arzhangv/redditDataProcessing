@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "QNAP vulnerability and backdoor (still active distribution server)",
+        "score": 1,
+        "id": "rk8z54",
+        "commsNum": 0,
+        "timeStamp": "2021/12/19-15:37:41",
+        "author_name": "pwnzerfaust2000",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "/r/cybersecurity_help/comments/rk8bsl/qnap_vulnerability_and_backdoor_still_active/"
+    },
+    "posts": {
+        "hp9dtsc": {
+            "comment": "[removed]",
+            "timeStamp": "2021/12/19-20:59:56",
+            "id": "hp9dtsc",
+            "is_submitter": false,
+            "link_id": "t3_rk8z54",
+            "parent_id": "t1_hp9dl8b",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hp9dl8b": {
+            "comment": "[removed]",
+            "timeStamp": "2021/12/19-20:57:37",
+            "id": "hp9dl8b",
+            "is_submitter": false,
+            "link_id": "t3_rk8z54",
+            "parent_id": "t3_rk8z54",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hp8aqx6": {
+            "comment": "I hope this post is okay regarding your rules, but given I cannot find any additional information and the threat is still active, maybe some of you would be interested in reverse engineering this?",
+            "timeStamp": "2021/12/19-15:38:46",
+            "id": "hp8aqx6",
+            "is_submitter": true,
+            "link_id": "t3_rk8z54",
+            "parent_id": "t3_rk8z54",
+            "score": 1,
+            "stickied": false,
+            "author_name": "pwnzerfaust2000"
+        }
+    }
+}

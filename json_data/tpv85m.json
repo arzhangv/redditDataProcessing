@@ -1,0 +1,143 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "FCC adds Kaspersky to its list of national security threats - The Verge",
+        "score": 1,
+        "id": "tpv85m",
+        "commsNum": 0,
+        "timeStamp": "2022/03/27-15:46:12",
+        "author_name": "user_4_user",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.theverge.com/2022/3/26/22997532/fcc-kaspersky-list-national-security-threats-huawei-zte"
+    },
+    "posts": {
+        "i2qrxjo": {
+            "comment": "I work in local government and we just dropped them this past year because our vendor no longer was able to sell licenses, lol.",
+            "timeStamp": "2022/03/30-11:01:00",
+            "id": "i2qrxjo",
+            "is_submitter": false,
+            "link_id": "t3_tpv85m",
+            "parent_id": "t3_tpv85m",
+            "score": 1,
+            "stickied": false,
+            "author_name": "BezniaAtWork"
+        },
+        "i2grvx0": {
+            "comment": "Security isnt 100%. Its a risk mitigation calculation. People with WAY more information than you or me made this decision. You don't have to respect it, but you should understand it.",
+            "timeStamp": "2022/03/28-11:04:46",
+            "id": "i2grvx0",
+            "is_submitter": false,
+            "link_id": "t3_tpv85m",
+            "parent_id": "t1_i2gmbli",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Bisping"
+        },
+        "i2gmbli": {
+            "comment": "I feel like any PC that has acually sensitiv data on it should not be connected directly with the internet. A server checking the internet traffic before it even goes on your companys PC is quite common, making antivirus on the Individual PCs a higher risk then anything.",
+            "timeStamp": "2022/03/28-10:26:33",
+            "id": "i2gmbli",
+            "is_submitter": false,
+            "link_id": "t3_tpv85m",
+            "parent_id": "t1_i2glcue",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Tony1697"
+        },
+        "i2glcue": {
+            "comment": "Its as simple as dropping malware in a targeted campaign that kaspersky picks up and sends back to Russia and they could collect all manners of sensitive data. No idea who their corporate customers are anymore.\n\nIts less about a political decision and more of logical. It would be trivial to weaponize it in conjuction with malware. Theyd already know the signature, as they are known to have ties to Russian agency's. Its logical to protect the supply chain and citizens.\n\nDont pretend when push comes to shove, theyd [Kaspersky] have a choice in the matter.\n\nI know you're German, i checked your profile because i wondered if you were a Russian bot lol. Its a threat because of the privileges and its being handled.",
+            "timeStamp": "2022/03/28-10:20:01",
+            "id": "i2glcue",
+            "is_submitter": false,
+            "link_id": "t3_tpv85m",
+            "parent_id": "t1_i2gk97g",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Bisping"
+        },
+        "i2gk97g": {
+            "comment": "It's simply a political decision. For Private users it's not very relevant. If you want only US Software on your phone and PC then good luck findling replacements for 99% of your Apps. I'm not from the US or Russia but as a German I feel like I woud still rather trust a Russian/Chinese Anti-Virus company then an US/German one, the US is well known to spy on everyone already and to force companys to do that too. If I woud life in Russia on the other hand I woud definitiv use an US Anti Virus Software \ud83d\ude09",
+            "timeStamp": "2022/03/28-10:12:37",
+            "id": "i2gk97g",
+            "is_submitter": false,
+            "link_id": "t3_tpv85m",
+            "parent_id": "t1_i2gj1t9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Tony1697"
+        },
+        "i2gj1t9": {
+            "comment": "Then you know why its a logical decision...? Like, you know how invasive anti-virus is and their position could be abused....?\n\nHonestly, if you can't understand why both of those things are yes, you are in the wrong career field.",
+            "timeStamp": "2022/03/28-10:04:34",
+            "id": "i2gj1t9",
+            "is_submitter": false,
+            "link_id": "t3_tpv85m",
+            "parent_id": "t1_i2gieee",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Bisping"
+        },
+        "i2gieee": {
+            "comment": "I did read it, did you?",
+            "timeStamp": "2022/03/28-10:00:15",
+            "id": "i2gieee",
+            "is_submitter": false,
+            "link_id": "t3_tpv85m",
+            "parent_id": "t1_i2f2dyg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Tony1697"
+        },
+        "i2f9vpn": {
+            "comment": "It\u2019s not just about  Malware, it\u2019s probably related to  collection of information, file hashes, URLs, and I have not confirmed but probably suspect files.  \n\nWhen a program on windows crashes Microsoft collects the files, other vendors do something similar, to do file analysis.  KSN does this so technically your sending content to the company that could be private.  This works if you trust the company, the reason I think the government has blacklisted them is because they have proven untrustworthy.  Was it the company or or was it unscrupulous workers that caused this lack of trust, hard to say.  I have always suspected the Shadow brokers collected files from a automatic file collection system.   It\u2019s speculation but the timeline works, the charges also line up with the blacklisting and other interesting things the government did not say.",
+            "timeStamp": "2022/03/28-04:05:46",
+            "id": "i2f9vpn",
+            "is_submitter": false,
+            "link_id": "t3_tpv85m",
+            "parent_id": "t1_i2f1s21",
+            "score": 1,
+            "stickied": false,
+            "author_name": "tarlack"
+        },
+        "i2f8t2d": {
+            "comment": "Wow that\u2019s interesting. Had no idea that trump signed a ban on Kaspersky. I guess there\u2019s more going on behind the scenes than we know, if also the FCC don\u2019t allow it anymore.",
+            "timeStamp": "2022/03/28-03:52:14",
+            "id": "i2f8t2d",
+            "is_submitter": false,
+            "link_id": "t3_tpv85m",
+            "parent_id": "t3_tpv85m",
+            "score": 1,
+            "stickied": false,
+            "author_name": "I-Made-You-Read-This"
+        },
+        "i2f2dyg": {
+            "comment": "Did you bother reading it or just reacting to the headline?",
+            "timeStamp": "2022/03/28-02:23:00",
+            "id": "i2f2dyg",
+            "is_submitter": false,
+            "link_id": "t3_tpv85m",
+            "parent_id": "t1_i2f1s21",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Bisping"
+        },
+        "i2f1s21": {
+            "comment": "Another political desicion, or did they find any maleware harm? If not I still see no reason to not trust Kasperky right now.",
+            "timeStamp": "2022/03/28-02:13:54",
+            "id": "i2f1s21",
+            "is_submitter": false,
+            "link_id": "t3_tpv85m",
+            "parent_id": "t3_tpv85m",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Tony1697"
+        }
+    }
+}

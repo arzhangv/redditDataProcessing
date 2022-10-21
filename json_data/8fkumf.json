@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Collaborative malware analysis framework from ANSSI (French Government)",
+        "score": 1,
+        "id": "8fkumf",
+        "commsNum": 0,
+        "timeStamp": "2018/04/28-09:10:37",
+        "author_name": "digicat",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://github.com/ANSSI-FR/polichombr"
+    },
+    "posts": {}
+}

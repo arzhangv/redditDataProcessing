@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I came across some malware today while browsing Reddit and did some research. My browser was redirecting the links that I clicked on to something like the following: \n\n        https://lnkr.us/get?sourceId=5&amp;uid=50639x1409x&amp;format=go&amp;host=icontent.us&amp;out=https%3A%2F%2Fwww.washingtonpost.com%2Fnews%2Fthe-watch%2Fwp%2F2016%2F01%2F29%2F80-percent-of-chicago-pd-dash-cam-videos-are-missing-audio-due-to-officer-error-or-intentional-destruction%2F%3Fpostshare%3D7901454147211893%26tid%3Dss_fb&amp;ref=https%3A%2F%2Fwww.reddit.com%2Fr%2Fnews\"\n        \n\nAnd then it would re-direct the browser again from the above link to an advertised website that they probably had on a list. uBlock Origin luckily halted both redirects. If you want to go and hack the hackers and test for an insecure redirect/forward on them, I wont tell you no, but I'm not going to do it.\n\nThis only happened probably around 50% of the time I clicked an HTTP link.\n\nAn extension that I've been using called Better History is infected with this \"lnkr.us\" redirect malware since March 23rd.\n        \nA review from the store page says: \"One star until shady permissions are verified, and there is outdated content on github and the twitter feed. it would appear this extension has been hijacked and could be used for nefarious purposes. I would think carefully before you install it.\"\n\nThe version on github is 3.9.5, the version on the store page is 3.9.8. Definitely hijacked. The permission that clearly throws the red flag is that it can read and change all data on the websites you visit.\n\nThe newly added permissions in the manifest.json which was not posted to github: \n\n    \"http://*/*\", \"https://*/*\", \"idle\", \"webNavigation\", \"webRequest\", \"webRequestBlocking\"\n\nIt also calls for a new script called \"common.js\". Common.js contains the following:\n\n    if(localStorage)\n    {\n    \tlocalStorage[\"ipirat_isInstalled\"] = true;\n    }\n\nHuh, weird eh?\n\nipirat seems to be a Russian proxy extension that gets installed on your machine and redirects you to the highest bidder occasionally.\n\nOther infected extensions I've seen so far in my research: Chrome Currency Converter, Web Timer, User-Agent Switcher, Better History, 4chan Plus, Hide My Adblocker",
+        "title": "lnkr.us Re-Direct Malware Report",
+        "score": 33,
+        "id": "4cw9fz",
+        "commsNum": 14,
+        "timeStamp": "2016/04/01-08:43:09",
+        "author_name": "Scarazer",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 14,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/4cw9fz/lnkrus_redirect_malware_report/"
+    },
+    "posts": {}
+}

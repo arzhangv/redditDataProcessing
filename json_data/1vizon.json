@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Is there any open source symbolic execution tool available for Windows malware binary analysis. I have tried FuzzBall, from BitBlaze team, but thats more suitable for Linux binaries. Any other options? Thanks",
+        "score": 1,
+        "id": "1vizon",
+        "commsNum": 0,
+        "timeStamp": "2014/01/18-07:52:26",
+        "author_name": "[deleted]",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/1vizon/is_there_any_open_source_symbolic_execution_tool/"
+    },
+    "posts": {}
+}

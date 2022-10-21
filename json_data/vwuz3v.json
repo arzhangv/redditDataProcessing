@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hi, I'm making this post to ask for help with a problem my brother is having. Today both his Steam and Epic Games accounts have been hacked. He never clicks on any weird links and has two factor authentication enabled on both accounts. The hacker changed all the account details but luckily he was able to get at least his Steam account back already. I believe that he has some kind of malware/spyware on his pc that is stealing all of his data.  I adviced him to reset his pc and change all of his passwords, does anyone have any advice on what else to do? Or know what else could be the cause of the account takeovers? Thanks.",
+        "title": "Accounts getting hacked",
+        "score": 1,
+        "id": "vwuz3v",
+        "commsNum": 0,
+        "timeStamp": "2022/07/11-15:23:15",
+        "author_name": "Lautje2314",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/vwuz3v/accounts_getting_hacked/"
+    },
+    "posts": {
+        "ifsysf2": {
+            "comment": "Take it to /r/techsupport",
+            "timeStamp": "2022/07/11-18:59:09",
+            "id": "ifsysf2",
+            "is_submitter": false,
+            "link_id": "t3_vwuz3v",
+            "parent_id": "t3_vwuz3v",
+            "score": 1,
+            "stickied": false,
+            "author_name": "BP8270"
+        },
+        "ifshrza": {
+            "comment": "I\u2019m not even in college yet but what I would to in your position is re-format your SSD. Just a complete clean wipe. And randomly generate your passwords, then store them into a password manager. Whatever is important back it up somewhere and make sure there is nothing infected in it. Might seem overkill, but if you ran a antivirus scan and nothing was found, this is really the only option.",
+            "timeStamp": "2022/07/11-16:52:30",
+            "id": "ifshrza",
+            "is_submitter": false,
+            "link_id": "t3_vwuz3v",
+            "parent_id": "t3_vwuz3v",
+            "score": 1,
+            "stickied": false,
+            "author_name": "PopSmokeDaWoo"
+        },
+        "ifscwxx": {
+            "comment": "Oh , my bad, sorry. I didn't really know where to ask this. Also of course we ran a virus scan. These malwares are usually encrypted and can't be found by most antivirus softwares. That's why I'm asking for advice, I've never dealt with this kind of malware before and it's so strange to me that the accounts were just taken over without any other sign.",
+            "timeStamp": "2022/07/11-16:16:37",
+            "id": "ifscwxx",
+            "is_submitter": true,
+            "link_id": "t3_vwuz3v",
+            "parent_id": "t1_ifs9fqv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Lautje2314"
+        },
+        "ifsagul": {
+            "comment": "[removed]",
+            "timeStamp": "2022/07/11-15:58:53",
+            "id": "ifsagul",
+            "is_submitter": false,
+            "link_id": "t3_vwuz3v",
+            "parent_id": "t1_ifs9fqv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ifsad5f": {
+            "comment": "[removed]",
+            "timeStamp": "2022/07/11-15:58:08",
+            "id": "ifsad5f",
+            "is_submitter": false,
+            "link_id": "t3_vwuz3v",
+            "parent_id": "t3_vwuz3v",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ifs9fqv": {
+            "comment": "This is a sub for malware and analysis not a sub to troubleshoot your infected pc. You think there's malware or spyware on the machine... did you run any virus scans? Maybe start there.",
+            "timeStamp": "2022/07/11-15:51:33",
+            "id": "ifs9fqv",
+            "is_submitter": false,
+            "link_id": "t3_vwuz3v",
+            "parent_id": "t3_vwuz3v",
+            "score": 1,
+            "stickied": false,
+            "author_name": "eodgooch"
+        }
+    }
+}

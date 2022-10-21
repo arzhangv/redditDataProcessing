@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Macs can be remotely infected with firmware malware that remains af",
+        "score": 20,
+        "id": "3fpgli",
+        "commsNum": 5,
+        "timeStamp": "2015/08/03-20:54:40",
+        "author_name": "JamieatCujo",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.computerworld.com/article/2955641/cybercrime-hacking/macs-can-be-remotely-infected-with-firmware-malware-that-remains-after-reformatting.html"
+    },
+    "posts": {}
+}

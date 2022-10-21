@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "MADLIRA - Malware detection using learning and information retrieval for Android",
+        "score": 1,
+        "id": "7z1igt",
+        "commsNum": 1,
+        "timeStamp": "2018/02/20-17:21:42",
+        "author_name": "TechLord2",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://github.com/dkhuuthe/MADLIRA"
+    },
+    "posts": {}
+}

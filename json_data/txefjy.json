@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Chinese hackers abuse VLC Media Player to launch malware loader",
+        "score": 1,
+        "id": "txefjy",
+        "commsNum": 0,
+        "timeStamp": "2022/04/05-22:02:23",
+        "author_name": "user_4_user",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-abuse-vlc-media-player-to-launch-malware-loader/"
+    },
+    "posts": {
+        "i3u15kb": {
+            "comment": "Yeah, basically they\u2019re executing VLC which searches for a DLL to load which they replace with their own in order to execute malicious code. It\u2019s also commonly called DLL search order hijacking.",
+            "timeStamp": "2022/04/07-17:12:12",
+            "id": "i3u15kb",
+            "is_submitter": false,
+            "link_id": "t3_txefjy",
+            "parent_id": "t1_i3rf3dq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "jershmagersh"
+        },
+        "i3rf3dq": {
+            "comment": "Hey Jers, so basically, it's not VLC's ( player itself, which is downloaded from official source etc.) problem per se, but additional files are being obtained from somewhere else and side loaded manually by user ?",
+            "timeStamp": "2022/04/07-06:37:55",
+            "id": "i3rf3dq",
+            "is_submitter": false,
+            "link_id": "t3_txefjy",
+            "parent_id": "t1_i3m5bkn",
+            "score": 1,
+            "stickied": false,
+            "author_name": "KoldFaya"
+        },
+        "i3m5bkn": {
+            "comment": "This is DLL side-loading which is extremely common and this is a click bait title.",
+            "timeStamp": "2022/04/06-05:00:09",
+            "id": "i3m5bkn",
+            "is_submitter": false,
+            "link_id": "t3_txefjy",
+            "parent_id": "t3_txefjy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "jershmagersh"
+        },
+        "i3m40va": {
+            "comment": "Thanks I\u2019ll look into it another day.",
+            "timeStamp": "2022/04/06-04:47:48",
+            "id": "i3m40va",
+            "is_submitter": false,
+            "link_id": "t3_txefjy",
+            "parent_id": "t1_i3m3ywe",
+            "score": 1,
+            "stickied": false,
+            "author_name": "dontbenebby"
+        },
+        "i3m3ywe": {
+            "comment": "I don't know if its a option but [https://kodi.tv/](https://kodi.tv/) its open source.",
+            "timeStamp": "2022/04/06-04:47:15",
+            "id": "i3m3ywe",
+            "is_submitter": false,
+            "link_id": "t3_txefjy",
+            "parent_id": "t1_i3lz66n",
+            "score": 1,
+            "stickied": false,
+            "author_name": "_valkorn_"
+        },
+        "i3lz66n": {
+            "comment": "Are there any other good open source video players?",
+            "timeStamp": "2022/04/06-03:55:50",
+            "id": "i3lz66n",
+            "is_submitter": false,
+            "link_id": "t3_txefjy",
+            "parent_id": "t3_txefjy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "dontbenebby"
+        }
+    }
+}

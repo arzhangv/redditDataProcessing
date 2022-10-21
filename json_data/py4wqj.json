@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "A file called CCmaker, it's a keygen for adobe products. Here is an analysis. Would one say this is a false positive, or an actual threat to a computer system.[ - File - a1573615e24023dd4af2ed8061d06b0e6822fe09bca921581e54a6aced4e2bce](https://www.virustotal.com/gui/file/a1573615e24023dd4af2ed8061d06b0e6822fe09bca921581e54a6aced4e2bce/detection)",
+        "title": "False positive. Or actual Malware",
+        "score": 1,
+        "id": "py4wqj",
+        "commsNum": 1,
+        "timeStamp": "2021/09/29-14:16:10",
+        "author_name": "xX_Ep1c_Sh1tpostR_Xx",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/py4wqj/false_positive_or_actual_malware/"
+    },
+    "posts": {
+        "herxc0i": {
+            "comment": "It's just a crack",
+            "timeStamp": "2021/09/29-14:43:21",
+            "id": "herxc0i",
+            "is_submitter": false,
+            "link_id": "t3_py4wqj",
+            "parent_id": "t3_py4wqj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "boli99"
+        }
+    }
+}

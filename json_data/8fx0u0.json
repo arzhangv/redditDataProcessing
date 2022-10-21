@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Binary Exploitation ELI5- Part 1",
+        "score": 1,
+        "id": "8fx0u0",
+        "commsNum": 0,
+        "timeStamp": "2018/04/29-21:43:49",
+        "author_name": "bcdefense",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://medium.com/@danielabloom/binary-exploitation-eli5-part-1-9bc23855a3d8"
+    },
+    "posts": {}
+}

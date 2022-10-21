@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I am using Kaspersky's stand alone AV tool and am running it in silent. Using the switche's I am telling it to create report and log files. It looks like they are all enc1 files.\nIs there a way to view whats inside these enc1 files to see what if anything came back on the scan?\nhttps://usa.kaspersky.com/downloads/thank-you/free-virus-removal-tool\\",
+        "title": "CrossPost From AntiVirus: Kaspersky enc1 log files",
+        "score": 2,
+        "id": "6d3sy0",
+        "commsNum": 1,
+        "timeStamp": "2017/05/24-10:55:37",
+        "author_name": "Ging3rMing3",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6d3sy0/crosspost_from_antivirus_kaspersky_enc1_log_files/"
+    },
+    "posts": {}
+}

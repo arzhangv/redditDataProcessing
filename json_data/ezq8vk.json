@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Tetrane launches REVEN Professional Edition for RE as requested by many. \n\nAnnouncement: [https://blog.tetrane.com/REVEN\\_Professional\\_Edition\\_launch.html](https://blog.tetrane.com/REVEN_Professional_Edition_launch.html)\n\nOne example with the analysis of Uroburos: [https://blog.tetrane.com/2019/Analysis-Uroburos-Malware-REVEN.html](https://blog.tetrane.com/2019/Analysis-Uroburos-Malware-REVEN.html)\n\nDemos with Uroburos &amp; Formbook: [https://www.tetrane.com/demos.html](https://www.tetrane.com/demos.html)",
+        "title": "REVEN - Full-system timeless analysis for malware analysis",
+        "score": 1,
+        "id": "ezq8vk",
+        "commsNum": 1,
+        "timeStamp": "2020/02/06-02:00:13",
+        "author_name": "m2r3t1",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ezq8vk/reven_fullsystem_timeless_analysis_for_malware/"
+    },
+    "posts": {
+        "fgpk28r": {
+            "comment": "This is an ad for a commercial product.  Nice analysis, and feel free to post your blogs, but leave the ad out of it. Removing this post.",
+            "timeStamp": "2020/02/06-08:26:14",
+            "id": "fgpk28r",
+            "is_submitter": false,
+            "link_id": "t3_ezq8vk",
+            "parent_id": "t3_ezq8vk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mjuad"
+        }
+    }
+}

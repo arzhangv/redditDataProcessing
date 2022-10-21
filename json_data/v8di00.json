@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "May 2022\u2019s Most Wanted Malware: Snake Keylogger Returns to the Top Ten after a long absence",
+        "score": 1,
+        "id": "v8di00",
+        "commsNum": 0,
+        "timeStamp": "2022/06/09-03:08:38",
+        "author_name": "HotMomentumStocks",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://crweworld.com/article/news-provided-by-globenewswire/2413617/may-2022s-most-wanted-malware-snake-keylogger-returns-to-the-top-ten-after-a-long-absence"
+    },
+    "posts": {
+        "ibr8nvu": {
+            "comment": "That blog post is a re-wording of the original blog post over at checkpoint. Seems spammy.\n\nhttps://blog.checkpoint.com/2022/06/09/may-2022s-most-wanted-malware-snake-keylogger-returns-to-the-index-in-eighth-place-following-email-campaigns-delivering-the-malware-via-pdf-files/",
+            "timeStamp": "2022/06/09-10:41:42",
+            "id": "ibr8nvu",
+            "is_submitter": false,
+            "link_id": "t3_v8di00",
+            "parent_id": "t3_v8di00",
+            "score": 1,
+            "stickied": false,
+            "author_name": "scootscoot"
+        }
+    }
+}

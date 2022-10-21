@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi, here in Massachusetts the Tewksbury Police Department recently was victimized by the crypto locker malware.\n\nI remember reading in 2014 that the decryption keys for cryptolocker encryption were freely available from various security companies.\n\nIs is no longer the case?\n\nHas cryptolocker change their encryption algorithm and are we once again in the position where a Cryptolocker infection leaves you with few viable options, the most direct of which is to purchase a decryption key from Cryptolocker?\n\nAlso are there any open source or public collaboration efforts working on cracking the cryptolocker encryption system?\n",
+        "title": "Are Cryptolocker free decryption keys busted?",
+        "score": 6,
+        "id": "31zyn6",
+        "commsNum": 10,
+        "timeStamp": "2015/04/09-07:01:08",
+        "author_name": "Geohump",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 10,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/31zyn6/are_cryptolocker_free_decryption_keys_busted/"
+    },
+    "posts": {}
+}

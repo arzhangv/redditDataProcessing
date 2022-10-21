@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hello everyone,\n\nI am trying to analyze a possible gootkit-infection we got a few days ago.\n\nAfter some decoding and analyzing I am down to a base64 encoded powershell-script which loads the code into a memory stream. I am kinda lost here on how to proceed. How do I get the memory stream down to a file which I can throw into IDA or similar?\n\nThe code in question looks like this:\n\n$EnCoFi = @'\\[BASE64 encoded code\\]'@\n\n$DefSt = New-Object IO.Compression.DeflateStream(\\[IO.MemoryStream\\]\\[Convert\\]::FromBase64String($EnCoFi),\\[IO.Compression.CompressionMode\\]::Decompress)\n\n$UnFiBy = New-Object Byte\\[\\](587776)\n\n$[DefSt.Read](https://DefSt.Read)($UnFiBy, 0, 587776) | Out-Null\n\n\\[Reflection.Assembly\\]::Load($UnFiBy)\n\n\\[Test\\]::Install1()",
+        "title": "MemoryStream to file/disk",
+        "score": 1,
+        "id": "jl0qwv",
+        "commsNum": 2,
+        "timeStamp": "2020/10/30-10:06:46",
+        "author_name": "Keks411",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/jl0qwv/memorystream_to_filedisk/"
+    },
+    "posts": {
+        "gk4eowy": {
+            "comment": "So it turned out that the whole thing is a variant of Gootkit. The actual sample is here: https://www.hybrid-analysis.com/sample/8f6def3065a5b17de521abd8d4a7b862fdb32a50b6d98fac50d2f99332dee428/5f918e6df55554303766a7a0",
+            "timeStamp": "2021/01/21-16:22:37",
+            "id": "gk4eowy",
+            "is_submitter": true,
+            "link_id": "t3_jl0qwv",
+            "parent_id": "t1_gk3ipmo",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Keks411"
+        },
+        "gk3ipmo": {
+            "comment": "Hey there,\n\nSure, I will be back in the office in a few hours then I will update you.",
+            "timeStamp": "2021/01/21-12:06:51",
+            "id": "gk3ipmo",
+            "is_submitter": true,
+            "link_id": "t3_jl0qwv",
+            "parent_id": "t1_gk2w90b",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Keks411"
+        },
+        "gk2w90b": {
+            "comment": "I just saw the same malware sample. Exactly the same variable names and binary. Did you get further with this analysis? Can you tell what the .NET executable does?",
+            "timeStamp": "2021/01/21-09:19:25",
+            "id": "gk2w90b",
+            "is_submitter": false,
+            "link_id": "t3_jl0qwv",
+            "parent_id": "t3_jl0qwv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "SecureThisShit"
+        },
+        "gamu4dk": {
+            "comment": "Thank you :)\n\nTurns out this way I get a executable:\n\n...\\*all the other code\\*...\n\n\\[io.file\\]::WriteAllBytes(\"C:\\\\out\", $UnFiBy)",
+            "timeStamp": "2020/10/30-13:06:03",
+            "id": "gamu4dk",
+            "is_submitter": true,
+            "link_id": "t3_jl0qwv",
+            "parent_id": "t1_gamosxp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Keks411"
+        },
+        "gamosxp": {
+            "comment": "In C# you can use System.IO.File.WriteAllBytes(filename, bytearray). No clue if it works in powershell.",
+            "timeStamp": "2020/10/30-12:20:16",
+            "id": "gamosxp",
+            "is_submitter": false,
+            "link_id": "t3_jl0qwv",
+            "parent_id": "t3_jl0qwv",
+            "score": 2,
+            "stickied": false,
+            "author_name": "verriond"
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I got a letter from my ISP telling me they \"detected a botnet\" on one of my computers and theyre telling me to download their security suite but for some reason i feel like it isnt trust worthy and theyre just trying to have me install some spyware garbage so they can sneak around and see what im doing or looking at, does anyone here have any experience with this thing or have knowledge of whether its any good or not?",
+        "title": "Spectrum Security Suite",
+        "score": 1,
+        "id": "e9t6rg",
+        "commsNum": 4,
+        "timeStamp": "2019/12/12-12:33:48",
+        "author_name": "NippleFeet",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/e9t6rg/spectrum_security_suite/"
+    },
+    "posts": {
+        "falzxtu": {
+            "comment": "[removed]",
+            "timeStamp": "2019/12/12-15:29:26",
+            "id": "falzxtu",
+            "is_submitter": false,
+            "link_id": "t3_e9t6rg",
+            "parent_id": "t1_falkf35",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "falkf35": {
+            "comment": "Bro that sounds hella shady, dude lol.\n\nHow did they \"detect a botnet on your computer\"? The most I'd expect them to do is detect botnet traffic from your computer. Though, even that is vauge (and kinda dumb because what type of serious botnet doesnt use TLS or some encryption scheme for C2...other than the for the shitty one's I've programmed? lol). I mean I doubt they logged in to your machines and scanned them as they would need credentials or to be hacking you. So the most that can be said is they saw something coming out of your  ports.  I'd ask for what hours and what source ports and dst remote addresses it they have and see if you can verify his yourself. But yea shady....man",
+            "timeStamp": "2019/12/12-13:24:01",
+            "id": "falkf35",
+            "is_submitter": false,
+            "link_id": "t3_e9t6rg",
+            "parent_id": "t3_e9t6rg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "blabbities"
+        },
+        "falhdc3": {
+            "comment": "Are you sure its your ISP? contact them and make sure its actually them.",
+            "timeStamp": "2019/12/12-12:59:48",
+            "id": "falhdc3",
+            "is_submitter": false,
+            "link_id": "t3_e9t6rg",
+            "parent_id": "t3_e9t6rg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "EndangeredPootis"
+        },
+        "falfdwl": {
+            "comment": "Last I heard Spectrum Security Suite is actually F-Secure software. They\u2019re a decent company. That being said, I would scan with multiple products and see if you can actually locate malware on your system. Maybe do a Wireshark capture for a while and look for beacons.",
+            "timeStamp": "2019/12/12-12:44:11",
+            "id": "falfdwl",
+            "is_submitter": false,
+            "link_id": "t3_e9t6rg",
+            "parent_id": "t3_e9t6rg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "XUtYwYzz"
+        }
+    }
+}

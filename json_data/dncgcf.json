@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "How to Become (and Remain) a Malware Researcher",
+        "score": 43,
+        "id": "dncgcf",
+        "commsNum": 1,
+        "timeStamp": "2019/10/26-04:01:50",
+        "author_name": "Z3r0s3c4",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.peerlyst.com/posts/how-to-become-and-remain-a-malware-researcher-todd-cullum?trk=search_page_search_result"
+    },
+    "posts": {
+        "f6y8gg6": {
+            "comment": "I don\u2019t want a peerlyst account, it\u2019s a no for me dawg.",
+            "timeStamp": "2019/11/08-19:41:36",
+            "id": "f6y8gg6",
+            "is_submitter": false,
+            "link_id": "t3_dncgcf",
+            "parent_id": "t3_dncgcf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "metapwnage"
+        }
+    }
+}

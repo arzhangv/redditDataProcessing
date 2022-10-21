@@ -1,0 +1,187 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi all. Where to download collection/archive of the most recent malware samples? Maybe there is a torrent?",
+        "title": "Collection",
+        "score": 1,
+        "id": "ei73jp",
+        "commsNum": 15,
+        "timeStamp": "2019/12/31-10:55:23",
+        "author_name": "ArthurStr0ng",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 15,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ei73jp/collection/"
+    },
+    "posts": {
+        "fcre1n2": {
+            "comment": "[removed]",
+            "timeStamp": "2020/01/01-09:42:51",
+            "id": "fcre1n2",
+            "is_submitter": false,
+            "link_id": "t3_ei73jp",
+            "parent_id": "t3_ei73jp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fcqw8de": {
+            "comment": "Virusshare.com - millions of samples, freely available via torrent",
+            "timeStamp": "2020/01/01-07:39:16",
+            "id": "fcqw8de",
+            "is_submitter": false,
+            "link_id": "t3_ei73jp",
+            "parent_id": "t3_ei73jp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "CharlieDeltaBravo27"
+        },
+        "fcqvcs8": {
+            "comment": "https://github.com/guitmz/virii",
+            "timeStamp": "2020/01/01-07:32:48",
+            "id": "fcqvcs8",
+            "is_submitter": false,
+            "link_id": "t3_ei73jp",
+            "parent_id": "t3_ei73jp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mito88"
+        },
+        "fcpd963": {
+            "comment": "with the right (paid) subscription you could search by hash in [virustotal.com](https://virustotal.com) and download as zip",
+            "timeStamp": "2019/12/31-22:11:33",
+            "id": "fcpd963",
+            "is_submitter": false,
+            "link_id": "t3_ei73jp",
+            "parent_id": "t1_fcnvpzs",
+            "score": 1,
+            "stickied": false,
+            "author_name": "tandulim"
+        },
+        "fcp7nmn": {
+            "comment": "Check the about section",
+            "timeStamp": "2019/12/31-20:33:18",
+            "id": "fcp7nmn",
+            "is_submitter": false,
+            "link_id": "t3_ei73jp",
+            "parent_id": "t1_fcp6jht",
+            "score": 1,
+            "stickied": false,
+            "author_name": "pr0bl3m_ch1ld"
+        },
+        "fcp6jht": {
+            "comment": "Excuse me, but how to register account?",
+            "timeStamp": "2019/12/31-20:15:19",
+            "id": "fcp6jht",
+            "is_submitter": true,
+            "link_id": "t3_ei73jp",
+            "parent_id": "t1_fcp2sh1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ArthurStr0ng"
+        },
+        "fcp40x4": {
+            "comment": "TheZoo is probably the best if you are looking for a named sample that exists in the repository. It's pretty extensive, and typically has good samples that aren't corrupted.",
+            "timeStamp": "2019/12/31-19:36:30",
+            "id": "fcp40x4",
+            "is_submitter": false,
+            "link_id": "t3_ei73jp",
+            "parent_id": "t1_fco6ylu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "FusionCarcass"
+        },
+        "fcp2sh1": {
+            "comment": "https://virusshare.com/",
+            "timeStamp": "2019/12/31-19:18:37",
+            "id": "fcp2sh1",
+            "is_submitter": false,
+            "link_id": "t3_ei73jp",
+            "parent_id": "t3_ei73jp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "pr0bl3m_ch1ld"
+        },
+        "fcp2n2f": {
+            "comment": "I host a repository of malware. You can read about it and download the client at the link below. You can search by malware name or YARA signature name to find samples using the built-in query language.\n\nhttps://practicalsecurityanalytics.com/malware-analysis-center/about/",
+            "timeStamp": "2019/12/31-19:16:25",
+            "id": "fcp2n2f",
+            "is_submitter": false,
+            "link_id": "t3_ei73jp",
+            "parent_id": "t3_ei73jp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "FusionCarcass"
+        },
+        "fcohtex": {
+            "comment": "[removed]",
+            "timeStamp": "2019/12/31-14:49:27",
+            "id": "fcohtex",
+            "is_submitter": false,
+            "link_id": "t3_ei73jp",
+            "parent_id": "t1_fcnwbj6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fco88e6": {
+            "comment": "Oh thanks!",
+            "timeStamp": "2019/12/31-12:59:16",
+            "id": "fco88e6",
+            "is_submitter": true,
+            "link_id": "t3_ei73jp",
+            "parent_id": "t1_fco6ylu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ArthurStr0ng"
+        },
+        "fco6ylu": {
+            "comment": "Would [TheZoo](https://github.com/ytisf/theZoo) cover what you\u2019re after?",
+            "timeStamp": "2019/12/31-12:47:42",
+            "id": "fco6ylu",
+            "is_submitter": false,
+            "link_id": "t3_ei73jp",
+            "parent_id": "t3_ei73jp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MattikusNZ"
+        },
+        "fcnwbj6": {
+            "comment": "That I have no idea how to find",
+            "timeStamp": "2019/12/31-11:15:38",
+            "id": "fcnwbj6",
+            "is_submitter": false,
+            "link_id": "t3_ei73jp",
+            "parent_id": "t1_fcnvpzs",
+            "score": 1,
+            "stickied": false,
+            "author_name": "EndangeredPootis"
+        },
+        "fcnvpzs": {
+            "comment": "Thanks. But is there something to download as a zipped archive?",
+            "timeStamp": "2019/12/31-11:09:43",
+            "id": "fcnvpzs",
+            "is_submitter": true,
+            "link_id": "t3_ei73jp",
+            "parent_id": "t1_fcnvfyg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ArthurStr0ng"
+        },
+        "fcnvfyg": {
+            "comment": " [https://urlhaus.abuse.ch/browse/](https://urlhaus.abuse.ch/browse/)",
+            "timeStamp": "2019/12/31-11:07:00",
+            "id": "fcnvfyg",
+            "is_submitter": false,
+            "link_id": "t3_ei73jp",
+            "parent_id": "t3_ei73jp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "EndangeredPootis"
+        }
+    }
+}

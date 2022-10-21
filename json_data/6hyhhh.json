@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Kasperagent malware used in a new campaign leveraging Palestine-Themed decoy files",
+        "score": 1,
+        "id": "6hyhhh",
+        "commsNum": 0,
+        "timeStamp": "2017/06/18-00:27:07",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/60191/apt/kasperagent-malware-campaign.html"
+    },
+    "posts": {}
+}

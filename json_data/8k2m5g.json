@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Russian Telegrab malware harvesting Telegram Desktop credentials, cookies, desktop cache, and key files",
+        "score": 1,
+        "id": "8k2m5g",
+        "commsNum": 0,
+        "timeStamp": "2018/05/17-01:17:08",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://securityaffairs.co/wordpress/72612/malware/telegrab-malware-telegram.html"
+    },
+    "posts": {}
+}

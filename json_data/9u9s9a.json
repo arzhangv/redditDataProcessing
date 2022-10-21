@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[removed]",
+        "title": "Help on ARES course and eCRE cert",
+        "score": 1,
+        "id": "9u9s9a",
+        "commsNum": 1,
+        "timeStamp": "2018/11/04-18:44:43",
+        "author_name": "algebgeo",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/9u9s9a/help_on_ares_course_and_ecre_cert/"
+    },
+    "posts": {
+        "e9aac3d": {
+            "comment": "Having only done the GREM I cannot say which is better in content, however SANS certifications do have more weight when it comes to applying for jobs afterwards.\n\nHowever, what is more important with these fairly practical courses is what you put into it and what you then get out. If at the end you have learnt some valuable skills which you can out to use, then the course has been useful to you.\n\nUnsure how much the Ares course is, but the GREM is north of $6K.\n\nPersonally I think the elearnsecurity courses are great value for money and the content is always great, so why not do that one first and then try and get an employer pay for the GREM.\n\nEDIT: I now see the ARES course is a pure Reverse Engineering course, where as GREM will teach you some of these skills, but mainly focus on malware.",
+            "timeStamp": "2018/11/08-03:25:54",
+            "id": "e9aac3d",
+            "is_submitter": false,
+            "link_id": "t3_9u9s9a",
+            "parent_id": "t3_9u9s9a",
+            "score": 2,
+            "stickied": false,
+            "author_name": "stuxnet_blues"
+        }
+    }
+}

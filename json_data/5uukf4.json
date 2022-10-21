@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I had infected svchost.exe and winlogon.exe processes (detected as Win32/Patched) on an old computer. \n\nThis computer was infected with a rootkit called zeroaccess, and I was wondering if that was the culprit. The thing is, I knew people who knew how to hack with that meterpreter/metasploit thing, which does inject code into system processes like svchost.exe and winlogon.exe, and would not be surprised if they tried it out on me.\n\nSo I guess my question is, did botnets and the like (such as zeroaccess) also take advantage of injecting malicious code into system processes, similar to how meterpreter does it and why?\n\nIs there a way to know for sure if meterpreter was used?",
+        "title": "Malware that injects malicious code into multiple system processes. Is this common? Why?",
+        "score": 9,
+        "id": "5uukf4",
+        "commsNum": 7,
+        "timeStamp": "2017/02/18-12:54:48",
+        "author_name": "Thrones33",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5uukf4/malware_that_injects_malicious_code_into_multiple/"
+    },
+    "posts": {}
+}

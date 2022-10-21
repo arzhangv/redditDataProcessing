@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Fake Game of Thrones Video Files Embedded with Malware",
+        "score": 9,
+        "id": "bqh53l",
+        "commsNum": 5,
+        "timeStamp": "2019/05/19-06:49:03",
+        "author_name": "askdjgfczx",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.webtitan.com/blog/fake-game-of-thrones-video-files-embedded-with-malware/"
+    },
+    "posts": {
+        "eo8qmcq": {
+            "comment": "Poor baby got his butt hurt \ud83d\ude2d",
+            "timeStamp": "2019/05/20-10:18:00",
+            "id": "eo8qmcq",
+            "is_submitter": false,
+            "link_id": "t3_bqh53l",
+            "parent_id": "t1_eo4k8is",
+            "score": 1,
+            "stickied": false,
+            "author_name": "SoccerName"
+        },
+        "eo4xe19": {
+            "comment": "Sharing sites are rife with trojans and malware, and it's usually the same old stuff: renamed exe files, zips with scripts, mostly stuff that is easy to spot. \n\nThe fact most malware is easy to spot is PRECISELY why well-hidden and hard to detect stuff (what this article implies they found) should have some proof... to make such tactics known so they are no longer hard to detect. \n\nAnd the fact it's a security vendor doesn't help. yeah, being a security vendor doesn't negate the possibility of providing useful information, but when they do, it's usually well-sourced.",
+            "timeStamp": "2019/05/19-10:25:46",
+            "id": "eo4xe19",
+            "is_submitter": false,
+            "link_id": "t3_bqh53l",
+            "parent_id": "t3_bqh53l",
+            "score": 1,
+            "stickied": false,
+            "author_name": "skaaii"
+        },
+        "eo4pflm": {
+            "comment": "actually now that you mention it, this account looks super shady. banned!",
+            "timeStamp": "2019/05/19-09:13:26",
+            "id": "eo4pflm",
+            "is_submitter": false,
+            "link_id": "t3_bqh53l",
+            "parent_id": "t1_eo4oua6",
+            "score": 2,
+            "stickied": false,
+            "author_name": "edward_snowedin"
+        },
+        "eo4oua6": {
+            "comment": "This \"article\" is obviously a commercial for a brand of web filtering software. Who even upvotes astroturfing ads like this?",
+            "timeStamp": "2019/05/19-09:08:20",
+            "id": "eo4oua6",
+            "is_submitter": false,
+            "link_id": "t3_bqh53l",
+            "parent_id": "t1_eo4k8is",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MurkyCola"
+        },
+        "eo4k8is": {
+            "comment": "Anyone have any other information on payload embedded in video files because this article blows",
+            "timeStamp": "2019/05/19-08:25:40",
+            "id": "eo4k8is",
+            "is_submitter": false,
+            "link_id": "t3_bqh53l",
+            "parent_id": "t3_bqh53l",
+            "score": 1,
+            "stickied": false,
+            "author_name": "edward_snowedin"
+        }
+    }
+}

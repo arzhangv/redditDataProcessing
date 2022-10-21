@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I was able to find the location of the folder that malware AVG detected were all stored in. That being a folder inside the Files folder in LocalState. I tried moving the folder to my recycle bin to delete them, but Windows gave me an alert saying that they will harm my computer if I move them. They are quarantined in my AVG, but I don\u2019t want to accidentally release the files to harm my PC. What should I do?",
+        "title": "I Have Malware in My LocalState Folder",
+        "score": 1,
+        "id": "fmkexp",
+        "commsNum": 0,
+        "timeStamp": "2020/03/21-12:16:34",
+        "author_name": "samryn_",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/fmkexp/i_have_malware_in_my_localstate_folder/"
+    },
+    "posts": {}
+}

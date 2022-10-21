@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Received a cold call from a school district that is entirely infected with the 2016-2017 variant of Qakbot. \n\nOf course SCCM went offline \"a while ago\" and nothing is up to date on the network including all security software. The web filter had default credentials. \n\n\n\n\nThis being a target rich environment, if anyone would like samples I'll upload some shortly.\n\n\n[NEW SAMPLE](https://www.sendspace.com/file/lgs8dw)  - Only a few AVs have picked up the file on VirusTotal.com\n\nNote: Sample ~~is missing~~ now includes generated exe",
+        "title": "Qakbot 2017 variant in the wild",
+        "score": 11,
+        "id": "6eu3g1",
+        "commsNum": 16,
+        "timeStamp": "2017/06/02-05:34:27",
+        "author_name": "camblabasso",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 16,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6eu3g1/qakbot_2017_variant_in_the_wild/"
+    },
+    "posts": {}
+}

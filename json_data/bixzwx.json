@@ -1,0 +1,132 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": " Recently passed the GIAC GREM exam without access to any SANS course materials, in large part thanks to the amazing book and video course recommendations posted on this subreddit years ago. I decided to post an updated guide to passing the GREM without the course in order to help those who are in the position that I was.\n\nSomething that I did not include: Cybrary has a free [malware analysis course](https://www.cybrary.it/course/malware-analysis/) similar to some of the ones you'd see on Udemy. It's great for those who would like to familiarize themselves with RE tools before they begin to learn Malware Analysis.",
+        "title": "Article on Self Study for the GIAC Reverse Engineering Malware (GREM) Certification",
+        "score": 6,
+        "id": "bixzwx",
+        "commsNum": 10,
+        "timeStamp": "2019/04/29-19:20:08",
+        "author_name": "R2Bgn",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 10,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/bixzwx/article_on_self_study_for_the_giac_reverse/"
+    },
+    "posts": {
+        "emgelmi": {
+            "comment": "CONGRATS!!!",
+            "timeStamp": "2019/05/03-18:30:10",
+            "id": "emgelmi",
+            "is_submitter": true,
+            "link_id": "t3_bixzwx",
+            "parent_id": "t1_emf4wa3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "R2Bgn"
+        },
+        "emf4wa3": {
+            "comment": "Passed with a 92.  whoo.",
+            "timeStamp": "2019/05/03-09:18:05",
+            "id": "emf4wa3",
+            "is_submitter": false,
+            "link_id": "t3_bixzwx",
+            "parent_id": "t1_emd6blx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Invinciblex"
+        },
+        "emd6blx": {
+            "comment": "Good luck!",
+            "timeStamp": "2019/05/02-17:11:40",
+            "id": "emd6blx",
+            "is_submitter": true,
+            "link_id": "t3_bixzwx",
+            "parent_id": "t1_embw9rd",
+            "score": 1,
+            "stickied": false,
+            "author_name": "R2Bgn"
+        },
+        "embw9rd": {
+            "comment": "Thanks for the insight - I'm just nervous I guess.  Will update this when I take it either way, pass or fail.  If I fail I'm definitely rescheduling a month out, really don't want to eat that fee though...",
+            "timeStamp": "2019/05/02-09:42:43",
+            "id": "embw9rd",
+            "is_submitter": false,
+            "link_id": "t3_bixzwx",
+            "parent_id": "t1_ema03kc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Invinciblex"
+        },
+        "ema03kc": {
+            "comment": "I'd say memory forensics, because you have to know not just what every tool does and the appropriate scenarios every tool would be used in, but how every tool works.",
+            "timeStamp": "2019/05/01-18:18:35",
+            "id": "ema03kc",
+            "is_submitter": true,
+            "link_id": "t3_bixzwx",
+            "parent_id": "t1_em7v037",
+            "score": 1,
+            "stickied": false,
+            "author_name": "R2Bgn"
+        },
+        "em7v037": {
+            "comment": "I read in your article you thought the hardest parts were script analysis, likely because you did not get the same tool exposure that the course brings to PDF/JS/DOC analysis.  What other parts of the exam would you say were the most difficult?",
+            "timeStamp": "2019/05/01-05:22:17",
+            "id": "em7v037",
+            "is_submitter": false,
+            "link_id": "t3_bixzwx",
+            "parent_id": "t1_em6dx74",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Invinciblex"
+        },
+        "em6dx74": {
+            "comment": "Doing that well without making an index should make you confident, that's great!",
+            "timeStamp": "2019/04/30-15:32:29",
+            "id": "em6dx74",
+            "is_submitter": true,
+            "link_id": "t3_bixzwx",
+            "parent_id": "t1_em4l24n",
+            "score": 1,
+            "stickied": false,
+            "author_name": "R2Bgn"
+        },
+        "em4l24n": {
+            "comment": "I actually did the practice ones without making my index first and didn't use the books so that makes me slightly more confident. Just nervous I guess",
+            "timeStamp": "2019/04/30-03:06:26",
+            "id": "em4l24n",
+            "is_submitter": false,
+            "link_id": "t3_bixzwx",
+            "parent_id": "t1_em41d5p",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Invinciblex"
+        },
+        "em41d5p": {
+            "comment": "High 90's on the practice exam and a good index? I have no doubt that you'll pass. The practice exam for the GREM is easier than the real exam (not true of all GIAC exams, but I took multiple practice exams for the GREM and am confident in this assessment), but not by more than a 5-10 point difference. I got a 90% on the practice test I took before the exam, and scored an 81% on the exam.",
+            "timeStamp": "2019/04/29-20:01:42",
+            "id": "em41d5p",
+            "is_submitter": true,
+            "link_id": "t3_bixzwx",
+            "parent_id": "t1_em40ki2",
+            "score": 2,
+            "stickied": false,
+            "author_name": "R2Bgn"
+        },
+        "em40ki2": {
+            "comment": "How did you feel the exam compared to your practice ones?",
+            "timeStamp": "2019/04/29-19:51:14",
+            "id": "em40ki2",
+            "is_submitter": false,
+            "link_id": "t3_bixzwx",
+            "parent_id": "t3_bixzwx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Invinciblex"
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "[removed]",
+        "title": "Tool List Sanity Check",
+        "score": 1,
+        "id": "qb44g8",
+        "commsNum": 4,
+        "timeStamp": "2021/10/18-21:42:29",
+        "author_name": "TolkiensLftButtCheek",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/qb44g8/tool_list_sanity_check/"
+    },
+    "posts": {
+        "hhaxn2h": {
+            "comment": "Yeah? I\u2019ll check it out. I\u2019m mostly a hobbyist at this point, always open to new ideas.",
+            "timeStamp": "2021/10/19-17:37:00",
+            "id": "hhaxn2h",
+            "is_submitter": false,
+            "link_id": "t3_qb44g8",
+            "parent_id": "t1_hhai2sv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "cea1990"
+        },
+        "hhai2sv": {
+            "comment": "x64dbg is much better than Imm.",
+            "timeStamp": "2021/10/19-15:35:25",
+            "id": "hhai2sv",
+            "is_submitter": false,
+            "link_id": "t3_qb44g8",
+            "parent_id": "t1_hh7xclc",
+            "score": 2,
+            "stickied": false,
+            "author_name": "the-podstanar"
+        },
+        "hh8ihxt": {
+            "comment": "There are similar lists available that you could review to build out your own toolkit.\n\nhttps://0x1.gitlab.io/security/Malware-Analysis-Tools-List/\n\nhttps://zeltser.com/malware-analysis-cheat-sheet/\n\n\nOnly obvious things would be that I would prefer 010 Editor as a hex editor, even if you have to pay for it (it's cheap). And Process Monitor w/ Noriben for behavior.",
+            "timeStamp": "2021/10/19-07:27:59",
+            "id": "hh8ihxt",
+            "is_submitter": false,
+            "link_id": "t3_qb44g8",
+            "parent_id": "t3_qb44g8",
+            "score": 4,
+            "stickied": false,
+            "author_name": "LightningRurik"
+        },
+        "hh7xclc": {
+            "comment": "For Basic Analysis I like PE Explorer &amp; Dependency Walker.\nFor a debugger, I like Immunity. And Wireshark for network traffic.",
+            "timeStamp": "2021/10/19-04:19:02",
+            "id": "hh7xclc",
+            "is_submitter": false,
+            "link_id": "t3_qb44g8",
+            "parent_id": "t3_qb44g8",
+            "score": 3,
+            "stickied": false,
+            "author_name": "cea1990"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Deobfuscating VBA &amp; PowerShell scripts of an Emotet trojan downloader",
+        "score": 1,
+        "id": "6y8f3u",
+        "commsNum": 0,
+        "timeStamp": "2017/09/05-07:44:33",
+        "author_name": "softScheck",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.softscheck.com/en/deobfuscating-vba-powershell-scripts-of-an-emotet-trojan-downloader/"
+    },
+    "posts": {}
+}

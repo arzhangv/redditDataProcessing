@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Excel malware downloader",
+        "score": 1,
+        "id": "twrgr5",
+        "commsNum": 0,
+        "timeStamp": "2022/04/05-03:04:04",
+        "author_name": "rocksoldieralex",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.virustotal.com/gui/file/34eafb5599180d7b19b1ecfe343ff2a61f3dda15fde2aa765878b3584edcc31e/detection"
+    },
+    "posts": {
+        "i3lu9q1": {
+            "comment": "Thank you for your concern and for this information.  Don't worry I have received this file on MacOS system and very carefully only uploaded it to VT (to be extra careful I even unzipped it from his original zipped file using an online service and not from my system)",
+            "timeStamp": "2022/04/06-02:53:53",
+            "id": "i3lu9q1",
+            "is_submitter": true,
+            "link_id": "t3_twrgr5",
+            "parent_id": "t1_i3ltsro",
+            "score": 1,
+            "stickied": false,
+            "author_name": "rocksoldieralex"
+        },
+        "i3ltsro": {
+            "comment": "Hey, as someone who actively browses hackforums and other related places, there are 2 Microsoft office related 0-days pushing around the market. Definitely be careful as it's likely you may have found one if it's infecting your PC",
+            "timeStamp": "2022/04/06-02:47:26",
+            "id": "i3ltsro",
+            "is_submitter": false,
+            "link_id": "t3_twrgr5",
+            "parent_id": "t3_twrgr5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RazeThe2nd"
+        },
+        "i3h5qf0": {
+            "comment": "Thank you",
+            "timeStamp": "2022/04/05-04:20:37",
+            "id": "i3h5qf0",
+            "is_submitter": true,
+            "link_id": "t3_twrgr5",
+            "parent_id": "t1_i3h38k5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "rocksoldieralex"
+        },
+        "i3h38k5": {
+            "comment": "It\u2019s not supposed to be able to but that\u2019s not something you should play with. Windows does have settings that allow a document to auto run macros. If you\u2019re not satisfied with the vt report, you could always sandbox it and see if the domains are still live",
+            "timeStamp": "2022/04/05-03:52:50",
+            "id": "i3h38k5",
+            "is_submitter": false,
+            "link_id": "t3_twrgr5",
+            "parent_id": "t1_i3gzgws",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Fleischwulf"
+        },
+        "i3gzgws": {
+            "comment": "Hi guys, can this excel infect computer when opened (without consent to run macro) ?",
+            "timeStamp": "2022/04/05-03:06:18",
+            "id": "i3gzgws",
+            "is_submitter": true,
+            "link_id": "t3_twrgr5",
+            "parent_id": "t3_twrgr5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "rocksoldieralex"
+        }
+    }
+}

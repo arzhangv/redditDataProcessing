@@ -1,0 +1,242 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hello there!\n\nI'm writing my thesis about AI within antivirus software and I was wondering what you guys know or think about this. If you came across an interesting article or have some thoughts, concerns or other usefull information , please let me know! Thanks in advance!\n\nPS: I don't want to be lazy and let you guys do all the work for me, I just want to ask you so I can research this from multiple angles. I would like to get as much information as possible and hear new information from people who have experience or a lot of knowledge about this topic.\n",
+        "title": "Thoughts on AI within antivirus software",
+        "score": 16,
+        "id": "8cq06l",
+        "commsNum": 19,
+        "timeStamp": "2018/04/16-11:54:45",
+        "author_name": "Bananacakeman",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 19,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8cq06l/thoughts_on_ai_within_antivirus_software/"
+    },
+    "posts": {
+        "dy0ny9u": {
+            "comment": "Hey, I work at a \"next gen\" anti-virus company, and I've built a few AI-powered malware detection projects (Android, Windows PE files, VisualBasic macros).\n\nIn the beginning, there were only file hashes and byte signatures for detecting malware. File hashes are ultra specific and don't generalize at all. Byte signatures are better, but they're brittle and easily broken with simple off-the-shelf obfuscation tools that can take a file, jumble all the bits up, and still have it work (more or less) exactly the same. VMProtect is a good example, but UPX does just fine too.\n\nSince I was a child, the motivation for malware authors has evolved from the clever prank and occasionally juvenile destructive malware into malware which has the main goal of making money -- i.e. spying, info stealing, and ransomware. As you started to get more monetary incentive, you got more malware both in quantity and quality.\n\nAs soon as file hashes and signatures were cutting into the profits of malware authors, they started creating packers and obfuscators. As vendors would react, adding generic unpacking, memory dumping, behavioral heuristics, etc, malware authors would also react, creating virtualized packers, multi-staged payloads, leveraging unusual execution paths (scheduled tasks, WMI, hiding and executing files in the registry, etc).\n\nThe latest craze is machine learning. This allows vendors to leverage large data sets of labeled data (i.e. malware and non-malware files) and deep domain knowledge of malware. With the domain knowledge, researchers can engineer features (both static and dynamic) for describing how files look and behave. I believe good data and good features are key here. What comes next is the machine learning part -- learning algorithm selection, feature processing, feature selecting, model tuning. There's definitely benefit to having skill in this area, especially since it helps you engineer better features, but a lot of it can be figured out with brute force (https://xkcd.com/1838/). Like with Kaggle competitions, the way to get the most out of your data and features is to stack or blend your models -- basically train multiple models which have different ways of \"seeing\" the problem (random forest, neural network, etc) then combine them together in various clever ways. Finally, you gotta setup some automation to continuously acquire new labeled data (malware samples) and model performance.\n\nAll of the papers I've seen on Android feature engineering are kinda boring. They all use intents and permissions and a small vocabulary of APIs.\n\nWindows malware has a bit better literature but a lot of it is imports, exports, opcode histograms, PE header field values, section count, and entropy. I think this is because most of the papers are written by grad students that know a lot about math and machine learning but not a lot about malware (and that's fine).\n\nFor VB Macros, this project is a really good starter - https://github.com/egaus/MaliciousMacroBot\nThere's a good presentation on it too - https://www.rsaconference.com/writable/presentations/file_upload/ht-w02-applied-machine-learning-defeating-modern-malicious-documents.pdf\n\nAlso, you might be interested to see this \"How to make an anti-virus in 5 minutes\" - https://www.youtube.com/watch?v=iLNHVwSu9EA",
+            "timeStamp": "2018/04/26-12:22:40",
+            "id": "dy0ny9u",
+            "is_submitter": false,
+            "link_id": "t3_8cq06l",
+            "parent_id": "t3_8cq06l",
+            "score": 3,
+            "stickied": false,
+            "author_name": "tekproxy"
+        },
+        "dxwl4ts": {
+            "comment": "I think machine learning is a great tool for modeling real world things. Big blobs of binary data is not one of them. Your ML is only as good as your quantifier. You have to know something about the malware before you can train on it. This seems easy but just grabbing the info from virus total won't be enough. You'd have to reverse engineer every binary you use to train so you can insure the quantifier handles all the conditions you want it to. Anyway i'd be very interested in reading your paper. I've been thinking about this for some time and have been learning about deep learning via the traditional route and just now have enough knowledge and experience writing code for it that I'd feel comfortable trying to classify malware. ",
+            "timeStamp": "2018/04/24-13:20:23",
+            "id": "dxwl4ts",
+            "is_submitter": false,
+            "link_id": "t3_8cq06l",
+            "parent_id": "t3_8cq06l",
+            "score": 2,
+            "stickied": false,
+            "author_name": "MisterCBax"
+        },
+        "dxmco6e": {
+            "comment": "Machine Learning helps a lot in automation of detection of files. AV companies also differ in implementation, others based it from the behavioral while others based it from the static features of the file.\n\n [Here's](https://media.kaspersky.com/en/enterprise-security/Kaspersky-Lab-Whitepaper-Machine-Learning.pdf) a paper from kaspersky tackling on how they implement machine learning in one of their approach to detect malware. \n\nAnd like as the other user said, the threat actors continue to evolve so there will be problems if an AV would only rely on ML. So a balance of manual analysis and automation is needed.",
+            "timeStamp": "2018/04/19-05:00:43",
+            "id": "dxmco6e",
+            "is_submitter": false,
+            "link_id": "t3_8cq06l",
+            "parent_id": "t3_8cq06l",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Xanster29"
+        },
+        "dxit5hd": {
+            "comment": "So despite the... virtiol and arguing going on below, I'd like to get more info about what you deem AI.\n\nCurrently, with the exception of unique AI developments like Watson (or including Watson, I've never learned enough about Watson to make a proper determination), the use of the term \"AI\" is greatly abused. For instance, my company claims our automation software contains \"AI\" abilities. It does not. The \"AI\" abilities are basically semi-complex decision trees, but it cannot learn \"outside the box\". If we feed it a file it doesn't understand, it won't run, even if it's got the same information as the proper file, but not the same headers. \n\nMY definition of true \"AI\" does not meet what Anti-virus vendors claim it to be. In my definition, you give the AI a program or line of code, even if it's in a format it doesn't recognize, and the AI will figure out what it is, and analyze it, even if that file was never seen in \"the wild\" before. Basically the ability to take input and parse it out, especially if it was never explicitly programmed to do so, is my laypersons hallmark of what AI is. \n\nWhat does your paper define AI as? What do you think is a reasonable expectation of AI that you would like us to share with you? ",
+            "timeStamp": "2018/04/17-11:05:29",
+            "id": "dxit5hd",
+            "is_submitter": false,
+            "link_id": "t3_8cq06l",
+            "parent_id": "t3_8cq06l",
+            "score": 3,
+            "stickied": false,
+            "author_name": "Sam-Gunn"
+        },
+        "dxhvfeq": {
+            "comment": "no, that is completely incorrect statement but of course you give zero fucks, because only nvidia ever does it! lol, fucktard.",
+            "timeStamp": "2018/04/16-22:26:28",
+            "id": "dxhvfeq",
+            "is_submitter": false,
+            "link_id": "t3_8cq06l",
+            "parent_id": "t1_dxh98x6",
+            "score": -2,
+            "stickied": false,
+            "author_name": "apatrid"
+        },
+        "dxhvf40": {
+            "comment": "no, that is completely incorrect statement but of course you give zero fucks, because only nvidia ever does it! lol, fucktard.",
+            "timeStamp": "2018/04/16-22:26:16",
+            "id": "dxhvf40",
+            "is_submitter": false,
+            "link_id": "t3_8cq06l",
+            "parent_id": "t1_dxh98x6",
+            "score": -2,
+            "stickied": false,
+            "author_name": "apatrid"
+        },
+        "dxhersn": {
+            "comment": "Indeed.  \n\nFrom a computer science perspective, there really isn't a difference between executing a program and tracing the flow of execution via any of a number of ways.  ",
+            "timeStamp": "2018/04/16-17:25:25",
+            "id": "dxhersn",
+            "is_submitter": false,
+            "link_id": "t3_8cq06l",
+            "parent_id": "t1_dxhehme",
+            "score": 1,
+            "stickied": false,
+            "author_name": "K3wp"
+        },
+        "dxhehme": {
+            "comment": "Hah I think we're saying the same thing in different ways.",
+            "timeStamp": "2018/04/16-17:20:46",
+            "id": "dxhehme",
+            "is_submitter": false,
+            "link_id": "t3_8cq06l",
+            "parent_id": "t1_dxhat4y",
+            "score": 3,
+            "stickied": false,
+            "author_name": "inthemixmike"
+        },
+        "dxhat4y": {
+            "comment": "This is exactly what I'm talking about.  They literally wrote an interpreter that can read compiled x86 code and produce what amounts to a flow chart of every possible path of execution:\n\n&gt; The end result of this process is a compressed representation of every possible sequence of API calls that could occur starting from a point where execution enters the program, with parameter values captured as desired and to the extent possible.\n\nIn other words, they are doing runtime analysis on a static binary by tracing the flow of execution.  It gives similar results to sandboxing, just faster.  This is more akin to a decompiler than traditional static analysis, so I'll give them partial credit.\n\nAgain, the Nvidia approach highlighted is just looking at raw data, not the flow of control. ",
+            "timeStamp": "2018/04/16-16:17:32",
+            "id": "dxhat4y",
+            "is_submitter": false,
+            "link_id": "t3_8cq06l",
+            "parent_id": "t1_dxh9jq8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "K3wp"
+        },
+        "dxh9jq8": {
+            "comment": "Thanks for the ad hominem attack.  Here's the Cylance patent calling out static analysis.   \n\nhttps://patents.google.com/patent/US9921830B2/en\n\n",
+            "timeStamp": "2018/04/16-15:55:22",
+            "id": "dxh9jq8",
+            "is_submitter": false,
+            "link_id": "t3_8cq06l",
+            "parent_id": "t1_dxh0mha",
+            "score": 5,
+            "stickied": false,
+            "author_name": "inthemixmike"
+        },
+        "dxh98x6": {
+            "comment": "What the AV vendors are calling \"static\" analysis in this context still relies on a tremendous amount pre-processing based on runtime analysis.  It's really more of a hybrid system, where a NN is used to tune a ruleset created by an analyst.  This isn't a 'pure' ML static analysis approach, though.\n\nAgain, the Nvidia approach is just looking at raw data:\n\n&gt;The paper introduces an artificial neural network trained to differentiate between benign and malicious Windows executable files with only the raw byte sequence of the executable as input.\n\n*That's* ML static analysis. ",
+            "timeStamp": "2018/04/16-15:50:12",
+            "id": "dxh98x6",
+            "is_submitter": false,
+            "link_id": "t3_8cq06l",
+            "parent_id": "t1_dxh7ge0",
+            "score": -1,
+            "stickied": false,
+            "author_name": "K3wp"
+        },
+        "dxh8wti": {
+            "comment": "When testing Cylance last year against our standard builds with different ransomware it was the clear winner. I've been pretty enamored with it since then. I just wish it was easier to get ahold of and slightly cheaper. The two left on my list that I never got around to were Carbon Black and Sentinel One which 'sounded' similar, never heard of DeepInstinct before I'll have to check them out. ",
+            "timeStamp": "2018/04/16-15:44:23",
+            "id": "dxh8wti",
+            "is_submitter": false,
+            "link_id": "t3_8cq06l",
+            "parent_id": "t1_dxgy5fl",
+            "score": 3,
+            "stickied": false,
+            "author_name": "hardwire187"
+        },
+        "dxh7ge0": {
+            "comment": "i know at least one vendor that supplements their av with both static and runtime ML analysis,as well as multiple sandboxes results. i doubt that many aren't using it to some extent.  you might be running with outdated info, sir.",
+            "timeStamp": "2018/04/16-15:19:34",
+            "id": "dxh7ge0",
+            "is_submitter": false,
+            "link_id": "t3_8cq06l",
+            "parent_id": "t1_dxh06hp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "apatrid"
+        },
+        "dxh0mha": {
+            "comment": "&gt; Source: I'm a PM \n\nSo you don't actually have a core-competency in the underlying disciplines you are discussing.  \n\nAgain, literally nobody is using static analysis in the ML space other than the one research project I described.  ",
+            "timeStamp": "2018/04/16-13:30:04",
+            "id": "dxh0mha",
+            "is_submitter": false,
+            "link_id": "t3_8cq06l",
+            "parent_id": "t1_dxgy5fl",
+            "score": -10,
+            "stickied": false,
+            "author_name": "K3wp"
+        },
+        "dxh06hp": {
+            "comment": "&gt;ML is all about comparing some features of the file against a model that separates malicious and safe files, then deciding which side it falls under\n\nThat's what the Nvidia paper I linked to is doing.  No AV product actually works like that, they all use runtime analysis.  It's not executed in a true 'sandbox' though, its more like a tiny optimized VM. ",
+            "timeStamp": "2018/04/16-13:23:25",
+            "id": "dxh06hp",
+            "is_submitter": false,
+            "link_id": "t3_8cq06l",
+            "parent_id": "t1_dxgz8v1",
+            "score": 0,
+            "stickied": false,
+            "author_name": "K3wp"
+        },
+        "dxgz8v1": {
+            "comment": "nope, sanboxing and ML are different things. ML is all about comparing some features of the file against a model that separates malicious and safe files, then deciding which side it falls under",
+            "timeStamp": "2018/04/16-13:09:25",
+            "id": "dxgz8v1",
+            "is_submitter": false,
+            "link_id": "t3_8cq06l",
+            "parent_id": "t1_dxgy1gk",
+            "score": 4,
+            "stickied": false,
+            "author_name": "_TM_dude"
+        },
+        "dxgy5fl": {
+            "comment": "There are several approaches being taken.  Here's some interesting ones and how they differ:\n\n\nDeepInstinct uses deep learning on supervised training sets to do pre-execution blocking.  The benefit of their approach is that they've applied the same technique to both Android and Windows malware without significantly changing their ML engine.\n\n\nCylance uses supervised learning and focuses on subject matter expert defined features for extraction to find features that are common among bad files.  Basically Malware reverse engineers have a laundry list of file attributes/properties that they can use to distinguish good/bad files.  They use this to do pre-execution static analysis and blocking of file execution.\n\n\nI've also seen an Anomaly Detection approach that utilizes training based on 'good' file features.  This approach uses static file analysis and alerts when a file is sufficiently different from what constitutes a good file.  Similar to other static analysis techniques, but rather than trying to say \"this file looks like bad files\" it is providing a score saying  \"this looks sufficiently different to good files to be suspicious\".\n\n\nThen you have ML approaches based on behaviour.  Rules based behaviour has existed for a LONG time in the AV space, but whats new is learning what is normal behaviour in a customers environment and generating warnings when application behaviour is deemed abnormal.  (Differentiate this from UEBA)\n\n\nUltimately I  think AI/ML approaches to AV security is an interesting (though overhyped) area of innovation.  \n\n\nPros:  It's a good way to augment existing technologies to reduce the risk that unknown threats infect a system.  \n\nCons: That said the threat landscape is evolving all the time.  Some new technique will come along that AI/ML just isn't equipped to handle so its no silver bullet.   Similarly people are already coming up with adversarial samples designed specifically to evade the ML techniques vendors like these employ.  Relying solely on AI/ML is a good way to get infected.  The other issues with AI/ML is the FP rate.  It's currently way too high across the board.  You can't tune ML to catch every piece of malware AND have an acceptable FP rate.  \n\n\nSource:  I'm a PM that has worked with and for multiple companies in this space.  I strongly believe in the value of ML in this space, but am skeptical of anyone using it as the SOLE method for protecting an endpoint.",
+            "timeStamp": "2018/04/16-12:53:13",
+            "id": "dxgy5fl",
+            "is_submitter": false,
+            "link_id": "t3_8cq06l",
+            "parent_id": "t3_8cq06l",
+            "score": 16,
+            "stickied": false,
+            "author_name": "inthemixmike"
+        },
+        "dxgy1gk": {
+            "comment": "No they do not.  \n\nWhat they call 'pre-execution' blocking just means they run the sample in a virtualized environment (not a true sandbox) and evaluate the path of execution.  \n\nThe paper I linked to is the only example of anyone doing true deep learning on static binaries and it requires a pretty substantial hardware investment to be effective.  ",
+            "timeStamp": "2018/04/16-12:51:39",
+            "id": "dxgy1gk",
+            "is_submitter": false,
+            "link_id": "t3_8cq06l",
+            "parent_id": "t1_dxgwf18",
+            "score": -4,
+            "stickied": false,
+            "author_name": "K3wp"
+        },
+        "dxgwf18": {
+            "comment": "That's incorrect.  Plenty of products use ML on static feature analysis for pre-execution blocking.  (Cylance for example)",
+            "timeStamp": "2018/04/16-12:27:57",
+            "id": "dxgwf18",
+            "is_submitter": false,
+            "link_id": "t3_8cq06l",
+            "parent_id": "t1_dxguelp",
+            "score": 7,
+            "stickied": false,
+            "author_name": "inthemixmike"
+        },
+        "dxguelp": {
+            "comment": "Everybody in the NextGen space is using ML approaches to some extent.  It's all currently based on behavioral runtime analysis.\n\nI've seen one interesting academic paper describing using ML for static analysis:\n\nhttps://devblogs.nvidia.com/malware-detection-neural-networks/\n\n",
+            "timeStamp": "2018/04/16-11:58:51",
+            "id": "dxguelp",
+            "is_submitter": false,
+            "link_id": "t3_8cq06l",
+            "parent_id": "t3_8cq06l",
+            "score": -3,
+            "stickied": false,
+            "author_name": "K3wp"
+        }
+    }
+}

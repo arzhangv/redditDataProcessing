@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Develop computer malware: Create a untraceable malware using batch script",
+        "score": 1,
+        "id": "i5vbyv",
+        "commsNum": 1,
+        "timeStamp": "2020/08/08-00:47:46",
+        "author_name": "kousik19",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://youtu.be/B__vpJWtmyU"
+    },
+    "posts": {
+        "g1qqrpy": {
+            "comment": "Very interesting stuff. But they cant really access the files or write/read the files or am i wrong ?",
+            "timeStamp": "2020/08/16-08:27:38",
+            "id": "g1qqrpy",
+            "is_submitter": false,
+            "link_id": "t3_i5vbyv",
+            "parent_id": "t3_i5vbyv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "redditjul"
+        }
+    }
+}

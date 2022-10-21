@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "al-khaser is a PoC malware with good intentions that aimes to stress your anti-malware system. It performs a bunch of nowadays malwares tricks and the goal is to see if you catch them all.\n\nsource: https://github.com/LordNoteworthy/al-khaser\n\nWhat's your favorite sandbox-bypass trick ?\n\n",
+        "title": "Collection of public malware anti-analysis techniques used in the wild",
+        "score": 33,
+        "id": "4evjr7",
+        "commsNum": 8,
+        "timeStamp": "2016/04/14-23:53:21",
+        "author_name": "LordNoteworthy",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 8,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/4evjr7/collection_of_public_malware_antianalysis/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,132 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": " \n\nHello,\n\nI   have a problem regarding my public IP address that's always blacklisted. This problem causes a perturbation in my email. My email  domain is bought from my ISP.  I did the procedure of removing it from   Spamhaus and other servers such as Mxtoolbox. The problem is sometimes resolved but after a few days, the problem occurs again. If I buy an electronic certification for my domain will the problem be fixed?\n\nHas anyone had the same problem before and find a solution, please?\n\nThank you",
+        "title": "Blacklisted public IP",
+        "score": 1,
+        "id": "uw058b",
+        "commsNum": 0,
+        "timeStamp": "2022/05/23-06:24:51",
+        "author_name": "Maleficent-Cupcake43",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/uw058b/blacklisted_public_ip/"
+    },
+    "posts": {
+        "ia65rh1": {
+            "comment": "&gt;So like a rented VPS then (you operating system, software, etc)? In this case above checklist still applies - either use a relay server or have to do lots of prep to establish this server/IP as legitimate SMTP server recognized by big email services.\n\nYes. but it's hard to do it",
+            "timeStamp": "2022/05/27-01:29:00",
+            "id": "ia65rh1",
+            "is_submitter": true,
+            "link_id": "t3_uw058b",
+            "parent_id": "t1_i9zi8kq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Maleficent-Cupcake43"
+        },
+        "i9zi8kq": {
+            "comment": "So like a rented VPS then (you operating system, software, etc)? In this case above checklist still applies - either use a relay server or have to do lots of prep to establish this server/IP as legitimate SMTP server recognized by big email services.",
+            "timeStamp": "2022/05/25-14:12:48",
+            "id": "i9zi8kq",
+            "is_submitter": false,
+            "link_id": "t3_uw058b",
+            "parent_id": "t1_i9xnabl",
+            "score": 1,
+            "stickied": false,
+            "author_name": "r21vo"
+        },
+        "i9xnabl": {
+            "comment": "Hello,\n\nThank you for your reply. Is not my own server we buy the IP and domain from our ISP.",
+            "timeStamp": "2022/05/25-06:44:00",
+            "id": "i9xnabl",
+            "is_submitter": true,
+            "link_id": "t3_uw058b",
+            "parent_id": "t1_i9vjsw7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Maleficent-Cupcake43"
+        },
+        "i9xmwgt": {
+            "comment": "&gt;Hello,  \n&gt;  \n&gt;How i can make sure your domain has SPF and DKIM setup? and my ip is static i get it from my isp",
+            "timeStamp": "2022/05/25-06:41:06",
+            "id": "i9xmwgt",
+            "is_submitter": true,
+            "link_id": "t3_uw058b",
+            "parent_id": "t1_i9uot6q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Maleficent-Cupcake43"
+        },
+        "i9vjsw7": {
+            "comment": "What exactly is your setup then? Are you hosting your own SMTP server? If it's just one email domain you wanna use for yourself, probably easier to ask ISP for their SMTP server as a relay (if they have one of course).\n\n\nOtherwise you gonna have to invest a lot of time to make it work. Some of the things that are required to even have a chance of not being auto-marked as spam:\n\n1. have matching reverse dns record for your smtp server's hostname\n2. have spf and dkim configuration in order\n3. use IP that has neutral reputation in first place\n\n\nEven if you do all this and are not on a single blacklist anywhere - your mail is still gonna go straight to spam if you send to gmail/outlook due to having no reputation. It takes weeks or even months to \"warm up reputation of an IP as a legit SMTP service\" (depending on how much legit email traffic is going out from your SMTP that reaches gmail/outlook and other big vendors).",
+            "timeStamp": "2022/05/24-17:37:49",
+            "id": "i9vjsw7",
+            "is_submitter": false,
+            "link_id": "t3_uw058b",
+            "parent_id": "t1_i9s65kw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "r21vo"
+        },
+        "i9uot6q": {
+            "comment": "&gt; the Mxtoolsbox is showing that maybe the whole address range of isp is blacklisted but my ISP denied that and he told me that I'm the only customer that has this issue\n\nIt's likely an ISP issue for sure.\n\nYour best hope would just make sure your domain has SPF and DKIM setup on it and overtime your reputation can increase. \n\nOr perhaps you can purchase a static IP from your ISP or host that is clean.",
+            "timeStamp": "2022/05/24-13:42:51",
+            "id": "i9uot6q",
+            "is_submitter": false,
+            "link_id": "t3_uw058b",
+            "parent_id": "t1_i9s65kw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DrinkMoreCodeMore"
+        },
+        "i9sjdkb": {
+            "comment": "[removed]",
+            "timeStamp": "2022/05/24-03:51:09",
+            "id": "i9sjdkb",
+            "is_submitter": false,
+            "link_id": "t3_uw058b",
+            "parent_id": "t3_uw058b",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "i9s65kw": {
+            "comment": "how I can know which user or device is sending the spam? the Mxtoolsbox is showing that maybe the whole address range of isp is blacklisted but my ISP denied that and he told me that I'm the only customer that has this issue",
+            "timeStamp": "2022/05/24-00:33:49",
+            "id": "i9s65kw",
+            "is_submitter": true,
+            "link_id": "t3_uw058b",
+            "parent_id": "t1_i9qwpyr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Maleficent-Cupcake43"
+        },
+        "i9qwpyr": {
+            "comment": "No, regardless what \"electronic certification\" even means (i'm guessing some kind of SSL certificate for domain).\n\nFirst of all, you have to find where exactly is it blacklisted and why. It can be because someone sent spam from your IP (compromised account or infrastructure), or maybe it's just reputation of netblock (for example, dynamic IPs given out by ISPs are not suitable for hosting email servers and are marked as such). Some of those blacklisting services let you query for a reason as well I believe.",
+            "timeStamp": "2022/05/23-17:03:15",
+            "id": "i9qwpyr",
+            "is_submitter": false,
+            "link_id": "t3_uw058b",
+            "parent_id": "t3_uw058b",
+            "score": 1,
+            "stickied": false,
+            "author_name": "r21vo"
+        },
+        "i9okvb5": {
+            "comment": "[removed]",
+            "timeStamp": "2022/05/23-06:43:55",
+            "id": "i9okvb5",
+            "is_submitter": false,
+            "link_id": "t3_uw058b",
+            "parent_id": "t3_uw058b",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

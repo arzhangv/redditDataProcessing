@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "[https://www.cybertalk.org/2022/05/20/conti-ransomware-gang-shuts-down-rebranding-into-smaller-units/](https://www.cybertalk.org/2022/05/20/conti-ransomware-gang-shuts-down-rebranding-into-smaller-units/)",
+        "title": "Conti ransomware gang shuts down, rebranding into smaller units",
+        "score": 1,
+        "id": "uu884g",
+        "commsNum": 0,
+        "timeStamp": "2022/05/20-14:30:06",
+        "author_name": "Admirable_Baker",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/uu884g/conti_ransomware_gang_shuts_down_rebranding_into/"
+    },
+    "posts": {
+        "ib13g3d": {
+            "comment": "[removed]",
+            "timeStamp": "2022/06/03-05:38:59",
+            "id": "ib13g3d",
+            "is_submitter": false,
+            "link_id": "t3_uu884g",
+            "parent_id": "t3_uu884g",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

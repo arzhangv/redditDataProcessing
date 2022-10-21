@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hello\n\nI have a problem with Yahoo redirect.\nAdwcleaner doesnt see it.\nMalwarebytes doesnt see it.\nNod32 doesnt see it.\nIt is not in add/remove programs, not in chrome extensions, not in processes.\n\nSpyhunter sees it, but it wants 35 EURO for removing it.\n\nIs there any good antimalware program like spyhunter to remove things like this?",
+        "title": "Akamai.hd Yahoo redirect",
+        "score": 0,
+        "id": "42xj1m",
+        "commsNum": 3,
+        "timeStamp": "2016/01/27-05:46:58",
+        "author_name": "ilassa",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/42xj1m/akamaihd_yahoo_redirect/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I'm trying to get Locky to run on my Windows 7 VM for a presentation I'm putting together. I have the malware and when I run it, it shows up in procmon as Locky then to svchost.exe as it should but it never encrypts my files. It's making hundreds of registry changes a minute but it doesn't seem to affect my system.  \n  \n  \n  \nI'm thinking maybe it's an outdated version and it isn't getting commands from the server? Or maybe it's sophisticated enough to know its in a VM and won't run properly?  \n  \n  \n  \nAny thoughts? ",
+        "title": "Help running Locky in a VM?",
+        "score": 3,
+        "id": "4dp5gc",
+        "commsNum": 15,
+        "timeStamp": "2016/04/06-19:39:17",
+        "author_name": "Pavlovs_Hot_Dogs",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 15,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/4dp5gc/help_running_locky_in_a_vm/"
+    },
+    "posts": {}
+}

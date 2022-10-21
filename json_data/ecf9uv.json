@@ -1,0 +1,198 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Backstory: I recently found out that one of my friends used some malware ([DiscordSpyTool.exe](https://app.any.run/tasks/c3072a45-2e43-4808-8f56-a542bc8a73c7/)) to spy on another friend's Discord DMs for a period of months. Full story [here](https://loomermisc.s3.amazonaws.com/kolyas_discord_hack.pdf) if interested (popcorn not included).\n\nThe attacker still denies everything, and recently produced what he says is the original (supposedly non-malicious) executable he sent the victim. It still sets off a ton of malware warnings, but I'm having trouble discerning what it actually does. I haven't run it locally, just uploaded it to Hybrid Analysis [here](https://www.hybrid-analysis.com/sample/950fb2e004b551cf312f4547365941a94dc9126db5a5400730aa313e4ed8258c/5df9aebd8b7c9a3ac20cdfe7). (Note, this 86 KB .exe is \\*supposed\\* to be \"some graphic assets in Unreal 4\" according to the attacker \ud83d\ude44)\n\nSeems like it might just do a bunch of potentially malicious actions and then display a (hard-coded?) error message? Is that right to say? Any insight analyzing this would be greatly appreciated. I also have the actual .exe file of course if that would be OK to post a link to in this subreddit (erring on the side of caution first though).",
+        "title": "Analysis for potential malware",
+        "score": 1,
+        "id": "ecf9uv",
+        "commsNum": 16,
+        "timeStamp": "2019/12/18-09:00:54",
+        "author_name": "loomer979",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 16,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ecf9uv/analysis_for_potential_malware/"
+    },
+    "posts": {
+        "fiqd7ly": {
+            "comment": "[removed]",
+            "timeStamp": "2020/02/25-06:40:22",
+            "id": "fiqd7ly",
+            "is_submitter": false,
+            "link_id": "t3_ecf9uv",
+            "parent_id": "t3_ecf9uv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fe0fcty": {
+            "comment": "[removed]",
+            "timeStamp": "2020/01/11-23:01:02",
+            "id": "fe0fcty",
+            "is_submitter": false,
+            "link_id": "t3_ecf9uv",
+            "parent_id": "t3_ecf9uv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fc79hz9": {
+            "comment": "Any update on the matter? I'd like to read the full report.",
+            "timeStamp": "2019/12/27-18:44:50",
+            "id": "fc79hz9",
+            "is_submitter": false,
+            "link_id": "t3_ecf9uv",
+            "parent_id": "t1_fbblaxw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "aminei"
+        },
+        "fbboj6o": {
+            "comment": "Ok that\u2019s fine.",
+            "timeStamp": "2019/12/18-13:31:45",
+            "id": "fbboj6o",
+            "is_submitter": false,
+            "link_id": "t3_ecf9uv",
+            "parent_id": "t1_fbb9arx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "_W0z"
+        },
+        "fbblaxw": {
+            "comment": "Totally fine by me.",
+            "timeStamp": "2019/12/18-13:00:12",
+            "id": "fbblaxw",
+            "is_submitter": true,
+            "link_id": "t3_ecf9uv",
+            "parent_id": "t1_fbb9arx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "loomer979"
+        },
+        "fbb9arx": {
+            "comment": "If its ok with you and op, when you finished the write up, could you post it on this sub? I'm sort of trying to get into malware analysis and would like to see how it gets done. Thanks",
+            "timeStamp": "2019/12/18-11:01:48",
+            "id": "fbb9arx",
+            "is_submitter": false,
+            "link_id": "t3_ecf9uv",
+            "parent_id": "t1_fbb2wct",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Schnitzel725"
+        },
+        "fbb3jgj": {
+            "comment": "Added a link to the main post, thank you for the help!",
+            "timeStamp": "2019/12/18-10:09:14",
+            "id": "fbb3jgj",
+            "is_submitter": true,
+            "link_id": "t3_ecf9uv",
+            "parent_id": "t1_fbazgwb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "loomer979"
+        },
+        "fbb3ib1": {
+            "comment": "Updated the main post with a URL, thank you!",
+            "timeStamp": "2019/12/18-10:08:54",
+            "id": "fbb3ib1",
+            "is_submitter": true,
+            "link_id": "t3_ecf9uv",
+            "parent_id": "t1_fbb1jm8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "loomer979"
+        },
+        "fbb2wct": {
+            "comment": "Thanks. I\u2019ll take a look once I get home this evening.",
+            "timeStamp": "2019/12/18-10:02:43",
+            "id": "fbb2wct",
+            "is_submitter": false,
+            "link_id": "t3_ecf9uv",
+            "parent_id": "t1_fbb2u09",
+            "score": 1,
+            "stickied": false,
+            "author_name": "_W0z"
+        },
+        "fbb2u09": {
+            "comment": "Sure, here's the mega link (note: had to break it up to get around the filter): mega .nz/#!pgMU2Aab!ECUoDk74LCUGjSFN--SD4yJjwEfo8NAhZfCRnaGmpUg",
+            "timeStamp": "2019/12/18-10:02:02",
+            "id": "fbb2u09",
+            "is_submitter": true,
+            "link_id": "t3_ecf9uv",
+            "parent_id": "t1_fbaxw2i",
+            "score": 1,
+            "stickied": false,
+            "author_name": "loomer979"
+        },
+        "fbb1jm8": {
+            "comment": "Like everyone else, I'd love a link to the sample to analyze",
+            "timeStamp": "2019/12/18-09:49:12",
+            "id": "fbb1jm8",
+            "is_submitter": false,
+            "link_id": "t3_ecf9uv",
+            "parent_id": "t3_ecf9uv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "kindredsec"
+        },
+        "fbb0iwu": {
+            "comment": "[removed]",
+            "timeStamp": "2019/12/18-09:39:02",
+            "id": "fbb0iwu",
+            "is_submitter": false,
+            "link_id": "t3_ecf9uv",
+            "parent_id": "t1_fbazgwb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fbazgwb": {
+            "comment": "I'd like a link too, this looks like it could be interesting to dissect",
+            "timeStamp": "2019/12/18-09:28:24",
+            "id": "fbazgwb",
+            "is_submitter": false,
+            "link_id": "t3_ecf9uv",
+            "parent_id": "t1_fbaxw2i",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sleepless-p03t"
+        },
+        "fbaz86y": {
+            "comment": "[removed]",
+            "timeStamp": "2019/12/18-09:25:55",
+            "id": "fbaz86y",
+            "is_submitter": false,
+            "link_id": "t3_ecf9uv",
+            "parent_id": "t1_fbaxw2i",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fbaxw2i": {
+            "comment": "Could you post a link or pm me a link to it? I\u2019d love to analyzes this in my lab. I\u2019ll make a write up and give you credit for finding this.",
+            "timeStamp": "2019/12/18-09:12:18",
+            "id": "fbaxw2i",
+            "is_submitter": false,
+            "link_id": "t3_ecf9uv",
+            "parent_id": "t3_ecf9uv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "_W0z"
+        },
+        "fbaxilv": {
+            "comment": "Its spyware, so yes, its malicous.",
+            "timeStamp": "2019/12/18-09:08:26",
+            "id": "fbaxilv",
+            "is_submitter": false,
+            "link_id": "t3_ecf9uv",
+            "parent_id": "t3_ecf9uv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "EndangeredPootis"
+        }
+    }
+}

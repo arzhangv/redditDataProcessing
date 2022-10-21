@@ -1,0 +1,121 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "[removed]",
+        "title": "Is it normal for executables supposedly from Microsoft to be not code signed?",
+        "score": 1,
+        "id": "qsf951",
+        "commsNum": 10,
+        "timeStamp": "2021/11/12-08:44:16",
+        "author_name": "var_learner",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 10,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/qsf951/is_it_normal_for_executables_supposedly_from/"
+    },
+    "posts": {
+        "hmeex1a": {
+            "comment": "[removed]",
+            "timeStamp": "2021/11/28-05:52:41",
+            "id": "hmeex1a",
+            "is_submitter": false,
+            "link_id": "t3_qsf951",
+            "parent_id": "t3_qsf951",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hkg2ed3": {
+            "comment": "TIL. Good looking out",
+            "timeStamp": "2021/11/13-03:10:53",
+            "id": "hkg2ed3",
+            "is_submitter": false,
+            "link_id": "t3_qsf951",
+            "parent_id": "t1_hkeh7mg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "blabbities"
+        },
+        "hkfmkl2": {
+            "comment": "Thanks! I am just getting started in this space, and these are very helpful.",
+            "timeStamp": "2021/11/12-23:20:02",
+            "id": "hkfmkl2",
+            "is_submitter": true,
+            "link_id": "t3_qsf951",
+            "parent_id": "t1_hkeil6g",
+            "score": 1,
+            "stickied": false,
+            "author_name": "var_learner"
+        },
+        "hkekz2s": {
+            "comment": "Seems like live.com is the valid Microsoft domain for Outlook, so that doesn't seem too suspicious. If you have more systems in your org, you could check for this file hash on other systems. If you see it a whole bunch, it's probably legitimate.",
+            "timeStamp": "2021/11/12-17:18:07",
+            "id": "hkekz2s",
+            "is_submitter": false,
+            "link_id": "t3_qsf951",
+            "parent_id": "t3_qsf951",
+            "score": 2,
+            "stickied": false,
+            "author_name": "FusionCarcass"
+        },
+        "hkeil6g": {
+            "comment": "If you are really suspicious, you could check for historical behavior of the process. You might be able to find something in the Security event log related to those two files. Child processes, logins, and network activity to Microsoft IP space would be indicators. Sysmon data could really help here. You could configure the Windows Firewall to log all traffic to/from those binaries. If they're implants, they'll call back eventually and you catch the callback.\n\nYou could also dump it in a sandbox such as Cuckoo and see if it does anything suspicious. Those are pretty trivial to bypass these days though.",
+            "timeStamp": "2021/11/12-16:58:28",
+            "id": "hkeil6g",
+            "is_submitter": false,
+            "link_id": "t3_qsf951",
+            "parent_id": "t1_hkctj13",
+            "score": 2,
+            "stickied": false,
+            "author_name": "FusionCarcass"
+        },
+        "hkeh7mg": {
+            "comment": "There are two types of digital signatures: (1) Authenticode and (2) Catalog. Authenticode signatures are embedded in the files themselves and go with the executable, which is convenient as defender because it is easier to validate. Catalog signatures are stored in the System Catalog Database. It loads digitally signed .cat files containing file hashes from the \"C:\\Windows\\System32\\CatRoot\\\" directory. Catalog signatures basically say that here is a collection of file hashes that you can trust. Microsoft tends to sign a bunch of their stuff this way. It can be annoying at times because if you pull back a file to your local system for analysis, you can't verify the authenticity of the file because the catalog signature is sitting in the remote system, and your local Windows box doesn't have that file hash in it's catalog for whatever reason.",
+            "timeStamp": "2021/11/12-16:47:10",
+            "id": "hkeh7mg",
+            "is_submitter": false,
+            "link_id": "t3_qsf951",
+            "parent_id": "t3_qsf951",
+            "score": 1,
+            "stickied": false,
+            "author_name": "FusionCarcass"
+        },
+        "hkctj13": {
+            "comment": "Thanks for the reply!\n\nClearly I have a lot more reading to do, but I just ran sigcheck from sysinternals on some core files, and unless I am mistaken, it does say that they are signed.\n\nSee also the process explorer for cmd.exe: [https://imgur.com/a/a7u7f9K](https://imgur.com/a/a7u7f9K) . It does say that it is signed - I don't know where it's getting this information from if not the header.\n\nThe output of sigcheck for cmd.exe and ntoskernl.exe:\n\n    c:\\windows\\system32\\cmd.exe:\r\n        Verified:       Signed\r\n        Signing date:   06:28 09-04-2021\r\n        Publisher:      Microsoft Windows\r\n        Company:        Microsoft Corporation\r\n        Description:    Windows Command Processor\r\n        Product:        Microsoft\u00ab Windows\u00ab Operating System\r\n        Prod version:   10.0.19041.746\r\n        File version:   10.0.19041.746 (WinBuild.160101.0800)\r\n        MachineType:    64-bit\n    \n    c:\\windows\\system32\\ntoskrnl.exe:\r\n        Verified:       Signed\r\n        Signing date:   06:52 02-11-2021\r\n        Publisher:      Microsoft Windows\r\n        Company:        Microsoft Corporation\r\n        Description:    NT Kernel &amp; System\r\n        Product:        Microsoft\u00ab Windows\u00ab Operating System\r\n        Prod version:   10.0.19041.1348\r\n        File version:   10.0.19041.1348 (WinBuild.160101.0800)\r\n        MachineType:    64-bit\n\nBut notice for the files mentioned above:\n\n    c:\\program files\\windowsapps\\microsoft.549981c3f5f10_3.2109.6305.0_x64__8wekyb3d8bbwe\\Cortana.exe:\r\n        Verified:       Unsigned\r\n        Link date:      19:21 06-09-2021\r\n        Publisher:      n/a\r\n        Company:        Microsoft Corporation\r\n        Description:    Cortana\r\n        Product:        Cortana\r\n        Prod version:   3.2109.6305.0-g8a7f052e\r\n        File version:   3.2109.6305.0\r\n        MachineType:    64-bit\n    \n    c:\\program files\\windowsapps\\microsoft.yourphone_1.21092.149.0_x64__8wekyb3d8bbwe\\YourPhone.exe:\r\n        Verified:       Unsigned\r\n        Link date:      23:41 03-11-2021\r\n        Publisher:      n/a\r\n        Company:        Microsoft Corporation\r\n        Description:    YourPhone\r\n        Product:        Microsoft Your Phone\r\n        Prod version:   1.21092.149.0\r\n        File version:   1.21092.149.0\r\n        MachineType:    64-bit\n    \n\nPractically every other piece of Microsoft material on my computer as far as I can see seem to be signed by Microsoft.\n\nRight now, as things stand, we can't be sure that the unsigned files were not replaced by a malicious actor.\n\nIs there any other method you know of to verify that the files are indeed legit?",
+            "timeStamp": "2021/11/12-09:30:08",
+            "id": "hkctj13",
+            "is_submitter": true,
+            "link_id": "t3_qsf951",
+            "parent_id": "t1_hkcpa5b",
+            "score": 3,
+            "stickied": false,
+            "author_name": "var_learner"
+        },
+        "hkcpa5b": {
+            "comment": "These core system binaries that MS publishes with their OS &amp; Software like Office, Outlook, etc typically do not carry a digital signature like a signed executable. For ex., the command line (cmd.exe) does not carry a signature in the exe header. They are purposely built this way as other programs (benign or malicious) should not be running as a trusted process under the disguise of Microsoft\u2019s signature certificates. However the registry has details to attest to the validity like the digital signatures would normally. Hope this helps!",
+            "timeStamp": "2021/11/12-09:01:35",
+            "id": "hkcpa5b",
+            "is_submitter": false,
+            "link_id": "t3_qsf951",
+            "parent_id": "t3_qsf951",
+            "score": 3,
+            "stickied": false,
+            "author_name": "CatYo"
+        },
+        "hkcmowu": {
+            "comment": "[removed]",
+            "timeStamp": "2021/11/12-08:44:17",
+            "id": "hkcmowu",
+            "is_submitter": false,
+            "link_id": "t3_qsf951",
+            "parent_id": "t3_qsf951",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

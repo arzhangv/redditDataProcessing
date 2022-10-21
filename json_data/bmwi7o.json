@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Here:   [http://youareanidiot.org/youare.swf](http://youareanidiot.org/youare.swf)  \n(yes. and go to [hurr-durr.com](https://hurr-durr.com))",
+        "title": "How to brick your pc:",
+        "score": 0,
+        "id": "bmwi7o",
+        "commsNum": 3,
+        "timeStamp": "2019/05/10-03:12:54",
+        "author_name": "SimonTheFinobeFan123",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/bmwi7o/how_to_brick_your_pc/"
+    },
+    "posts": {
+        "en0cafl": {
+            "comment": "you are mistaken, mr /r/masterhacker",
+            "timeStamp": "2019/05/10-04:51:51",
+            "id": "en0cafl",
+            "is_submitter": false,
+            "link_id": "t3_bmwi7o",
+            "parent_id": "t3_bmwi7o",
+            "score": 2,
+            "stickied": false,
+            "author_name": "sp1der_cat"
+        },
+        "en0bru2": {
+            "comment": "We post actual malware here, sir",
+            "timeStamp": "2019/05/10-04:46:05",
+            "id": "en0bru2",
+            "is_submitter": false,
+            "link_id": "t3_bmwi7o",
+            "parent_id": "t3_bmwi7o",
+            "score": 5,
+            "stickied": false,
+            "author_name": "NovateI"
+        },
+        "en09me4": {
+            "comment": "Umm yeah, fuck off with that shit.",
+            "timeStamp": "2019/05/10-04:17:45",
+            "id": "en09me4",
+            "is_submitter": false,
+            "link_id": "t3_bmwi7o",
+            "parent_id": "t3_bmwi7o",
+            "score": 10,
+            "stickied": false,
+            "author_name": "yertrude"
+        }
+    }
+}

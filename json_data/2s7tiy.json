@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hey all, i'm starting to read PMA, and I have some basic analysis experience. But one issue i've had is how to take notes and copy screenshots, hashes ect. from my infected test machine to my clean pc to write up my analysis notes.\n\nDo you guys have any suggestions, how do you all do it, outside of automated analysis?\n\nHow do I deal with supplemental or dropped files, when I want to upload them to Virustotal? Normally I would disconnect the PC from active internet and use fakenet to respond to requests. I can't upload them to the clean PC.\n\nAnd how do I deal with internet connectivity when I want to analyze malware such as asprox that IIRC correctly is delivered via email. I  know I have some \"UPS notification\" emails that I believe likely contain links to malware. how do I best safely analyze this stuff? Does it execute on download or upon file execution?\n\nI know I have some other questions I can't think of right now. I hope I can ask them here without issue.",
+        "title": "Making notes during analysis?",
+        "score": 12,
+        "id": "2s7tiy",
+        "commsNum": 5,
+        "timeStamp": "2015/01/12-14:57:27",
+        "author_name": "sephstorm",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2s7tiy/making_notes_during_analysis/"
+    },
+    "posts": {}
+}

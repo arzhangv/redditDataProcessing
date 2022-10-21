@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Got Infected with a new ransomware",
+        "score": 1,
+        "id": "rxaom7",
+        "commsNum": 0,
+        "timeStamp": "2022/01/06-01:40:52",
+        "author_name": "TigerBRL",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "/r/techsupport/comments/rxafcd/ransomware_leads_to_boot_loop/"
+    },
+    "posts": {
+        "hs8fs1s": {
+            "comment": "yes, reinstalling windows will remove the ransomware.",
+            "timeStamp": "2022/01/11-09:47:36",
+            "id": "hs8fs1s",
+            "is_submitter": false,
+            "link_id": "t3_rxaom7",
+            "parent_id": "t3_rxaom7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sunixtc"
+        },
+        "hs8fopc": {
+            "comment": "back up your files to a usb or something through a recovery disk then try to repair windows using said recovery disk. What error code does it give you for the bluescreens and RECOVERY screen?",
+            "timeStamp": "2022/01/11-09:47:04",
+            "id": "hs8fopc",
+            "is_submitter": false,
+            "link_id": "t3_rxaom7",
+            "parent_id": "t3_rxaom7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sunixtc"
+        },
+        "hrhb7qn": {
+            "comment": "Why did you post this in here?",
+            "timeStamp": "2022/01/06-03:53:18",
+            "id": "hrhb7qn",
+            "is_submitter": false,
+            "link_id": "t3_rxaom7",
+            "parent_id": "t3_rxaom7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Rakanisheu"
+        },
+        "hrh7br6": {
+            "comment": "[removed]",
+            "timeStamp": "2022/01/06-03:08:25",
+            "id": "hrh7br6",
+            "is_submitter": false,
+            "link_id": "t3_rxaom7",
+            "parent_id": "t3_rxaom7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

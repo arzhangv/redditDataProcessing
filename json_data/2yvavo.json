@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "After logging into my blog, I saw it taking forever to load, and it said \"Waiting for conyouse.com\"... I know for a fact that I never typed that domain into any of my code. After logging out and logging back in again to inspect the process with Developer Tools in Chrome, it showed me it was accessing this resource: **WARNING: THIS LINK MIGHT BE DANGEROUS, I DON'T KNOW** http://conyouse.com/wp.js\n\nIn Developer Tools, it shows inside as having this bit of code:\nhttp://pastebin.com/aHNNhSDf\n\n\nHowever, visiting the URL directly has this bit of code:\nhttp://pastebin.com/NgZSRfAB\n\n\nWhat the heck is it? \n\n\nALSO, I was browsing the root directory of my blog and noticed a file name that I didn't recognize, and a \"date modified\" that wasn't similar to any of the other files. The file name is:\n    ssv3_backup_payload-ISLxVkS5cI.php\n\n\nI googled that, and came up with nothing. I then shortened it since the last few characters looks like some sort of variation or random characters and googled \"ssv3_backup_payload\"... and wow, it looks like this payload is showing up in a lot of people's error_log\n\n\nAny idea what caused it or how I can get rid of it? \n\n\nI did a whois on the domain conyouse.com and the person doesn't have Domain Privacy, is based in Uruguay, and has a bunch of domains that appear to have been hijacked.\n\n\nWhat can I do?\n\n\nEDIT: Looks like someone decoded part of the original code: http://ddecode.com/hexdecoder/?results=21e0485ff3d3ef13694c4c88e8fda7be\n\n\nEDIT 2: The following appears in my error_log:\n\n    1413250896: /home2/myhostingaccount/public_html/blog/ssv3_backup_payload-ISLxVkS5cI.php startup\n    [13-Oct-2014 19:43:22 America/Denver] PHP Notice:  Undefined variable: results in /home2/myhostingaccount/public_html/blog/ssv3_restore_payload-AI9VLg7iwj.php on line 239\n    1416045511: /home2/myhostingaccount/public_html/blog/ssv3_backup_payload-tNCpyoHAOY.php startup\n    [15-Nov-2014 02:58:50 America/Denver] PHP Notice:  Undefined variable: results in /home2/myhostingaccount/public_html/blog/ssv3_backup_payload-tNCpyoHAOY.php on line 243\n    1416045564: /home2/myhostingaccount/public_html/blog/ssv3_payload_extractor-RQHQOIPddu.php startup\n    [11-Feb-2015 13:22:12 UTC] PHP Notice:  Undefined index: sb_instagram_ajax_theme in /home2/myhostingaccount/public_html/blog/wp-content/plugins/instagram-feed/instagram-feed.php on line 214\n",
+        "title": "Think I discovered some new malware affecting WordPress...",
+        "score": 1,
+        "id": "2yvavo",
+        "commsNum": 0,
+        "timeStamp": "2015/03/12-19:38:08",
+        "author_name": "viksra",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2yvavo/think_i_discovered_some_new_malware_affecting/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "[https://github.com/vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode)\n\nalmost 8000+ Malware source code paper and many more....",
+        "title": "World Biggest Malware Source Code Library",
+        "score": 1,
+        "id": "v2a47q",
+        "commsNum": 0,
+        "timeStamp": "2022/05/31-23:04:57",
+        "author_name": "saqfi",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/v2a47q/world_biggest_malware_source_code_library/"
+    },
+    "posts": {
+        "ibriaz3": {
+            "comment": "yes infected",
+            "timeStamp": "2022/06/09-11:50:07",
+            "id": "ibriaz3",
+            "is_submitter": true,
+            "link_id": "t3_v2a47q",
+            "parent_id": "t1_ibcekq8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "saqfi"
+        },
+        "ibcekq8": {
+            "comment": "usually passwords can be either: \"infected\" or \"malware\" or a variation of the previous ones with 123 or something like that.",
+            "timeStamp": "2022/06/06-01:02:47",
+            "id": "ibcekq8",
+            "is_submitter": false,
+            "link_id": "t3_v2a47q",
+            "parent_id": "t3_v2a47q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Monitor-Additional"
+        },
+        "iauqjvj": {
+            "comment": "Please do not 'donate' to receive the password. It is not a secret.\n\n  \n\n\nPlease do not 'donate' to receive the password. It is not a secret.\n\n  \n\n\nPlease do not 'donate' to receive the password. It is not a secret.\n\n  \n\n\nPlease do not 'donate' to receive the password. It is not a secret.",
+            "timeStamp": "2022/06/01-17:21:14",
+            "id": "iauqjvj",
+            "is_submitter": false,
+            "link_id": "t3_v2a47q",
+            "parent_id": "t3_v2a47q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "CleverOldMan"
+        },
+        "iaug6h0": {
+            "comment": "Ayo whats the password tho \ud83e\uddd0\n\nThis is nice though, appreciate the contributions!",
+            "timeStamp": "2022/06/01-15:58:43",
+            "id": "iaug6h0",
+            "is_submitter": false,
+            "link_id": "t3_v2a47q",
+            "parent_id": "t3_v2a47q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Tyyphoon9"
+        },
+        "iat40zc": {
+            "comment": "Yea, but what's the password?",
+            "timeStamp": "2022/06/01-10:17:24",
+            "id": "iat40zc",
+            "is_submitter": false,
+            "link_id": "t3_v2a47q",
+            "parent_id": "t3_v2a47q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "soutsos"
+        }
+    }
+}

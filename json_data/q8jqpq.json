@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Demonstration how Android malware steals recovery phrase from Trust Crypto Wallet without user interaction and restricts access to victims smartphone",
+        "score": 1,
+        "id": "q8jqpq",
+        "commsNum": 2,
+        "timeStamp": "2021/10/15-01:06:40",
+        "author_name": "barakadua131",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://youtu.be/cI9GbhspMYY"
+    },
+    "posts": {
+        "hguhjpd": {
+            "comment": "[removed]",
+            "timeStamp": "2021/10/16-03:41:06",
+            "id": "hguhjpd",
+            "is_submitter": false,
+            "link_id": "t3_q8jqpq",
+            "parent_id": "t3_q8jqpq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hgrbjy5": {
+            "comment": "Giving full access like that is an open invitation for being hacked. \nNever ever give permission blindly.",
+            "timeStamp": "2021/10/15-09:53:47",
+            "id": "hgrbjy5",
+            "is_submitter": false,
+            "link_id": "t3_q8jqpq",
+            "parent_id": "t3_q8jqpq",
+            "score": 2,
+            "stickied": false,
+            "author_name": "sl0w_photon"
+        }
+    }
+}

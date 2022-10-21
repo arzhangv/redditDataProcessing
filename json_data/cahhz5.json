@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi, I have an idle buddy question. I've run both Malwarebytes and Avast antivirus twice after I downloaded some sketchy software. The first time they found something and I deleted/uninstalled anything they found, but idle buddy is still there. I've tried to uninstall it, but the uninstall wizard is messing up, and I can't open it, so I'm thinking that all files have been deleted, leaving it to be an empty shell of a software. Is this possible, and is idle buddy no longer a problem?",
+        "title": "Idle buddy",
+        "score": 1,
+        "id": "cahhz5",
+        "commsNum": 1,
+        "timeStamp": "2019/07/07-23:30:24",
+        "author_name": "the_real_snowbox",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/cahhz5/idle_buddy/"
+    },
+    "posts": {
+        "et93vsg": {
+            "comment": "It looks like \"Idle Buddy\" is a member for .... erm ... \"Crapware\" family of application.  This family includes browser hijackers, Bonzi Buddy, and a host of similar software.\n\nYou'll need to make sure that it is not installed as a plugin for any web browser on your system.  If you have more than one, check them all, even if you don't use one.  These applications have a habit of installing themselves in a lot of different locations.  You might get one, but it will \"restore\" itself from the other locations.",
+            "timeStamp": "2019/07/08-04:19:02",
+            "id": "et93vsg",
+            "is_submitter": false,
+            "link_id": "t3_cahhz5",
+            "parent_id": "t3_cahhz5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Farstone"
+        }
+    }
+}

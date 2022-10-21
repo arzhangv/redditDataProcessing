@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Emotet using a network spreader",
+        "score": 1,
+        "id": "6oob2y",
+        "commsNum": 0,
+        "timeStamp": "2017/07/21-07:38:28",
+        "author_name": "sysopfb",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.fidelissecurity.com/threatgeek/2017/07/emotet-takes-wing-spreader"
+    },
+    "posts": {}
+}

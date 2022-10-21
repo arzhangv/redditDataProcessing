@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I am on Google Chrome and this ad named [en.softonic.com](https://en.softonic.com) keeps on showing on the bottom right of my computer screen.How do I get rid of [en.softonic.com](https://en.softonic.com) on my computer?",
+        "title": "en.softonic.com",
+        "score": 0,
+        "id": "bkrul4",
+        "commsNum": 1,
+        "timeStamp": "2019/05/04-17:39:31",
+        "author_name": "javrules",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/bkrul4/ensoftoniccom/"
+    },
+    "posts": {
+        "emj6dwo": {
+            "comment": "/r/antivirus or /r/techsupport would be a better place to post this question. This subreddit is more about technical discussion rather than troubleshooting.",
+            "timeStamp": "2019/05/04-18:40:47",
+            "id": "emj6dwo",
+            "is_submitter": false,
+            "link_id": "t3_bkrul4",
+            "parent_id": "t3_bkrul4",
+            "score": 2,
+            "stickied": false,
+            "author_name": "UpvoteIfYouDare"
+        }
+    }
+}

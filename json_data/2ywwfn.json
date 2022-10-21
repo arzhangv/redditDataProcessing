@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "A new Facebook Worm exploits multiple cloud services",
+        "score": 1,
+        "id": "2ywwfn",
+        "commsNum": 0,
+        "timeStamp": "2015/03/13-07:40:04",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/34835/malware/facebook-worm-kilim.html"
+    },
+    "posts": {}
+}

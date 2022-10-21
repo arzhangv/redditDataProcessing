@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Has anyone seen that certain docx file in an email? It states that there's a part time opportunity with WHO and to email Dianne.arnold@whocareers.org with a different email address than the one used to receive the email. \n\nTrying to see if anyone has seen this or dealt with this type of phishing attempt. \n\nBtw, the whoocareers.org domain was created on 07-06-22 and the attack occurred on the 4th so it's for sure connected.",
+        "title": "WHO part time employment.docx",
+        "score": 1,
+        "id": "vyadaz",
+        "commsNum": 0,
+        "timeStamp": "2022/07/13-11:34:37",
+        "author_name": "Statutory_Ape69",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/vyadaz/who_part_time_employmentdocx/"
+    },
+    "posts": {
+        "ig5o4zb": {
+            "comment": "[removed]",
+            "timeStamp": "2022/07/14-11:00:51",
+            "id": "ig5o4zb",
+            "is_submitter": false,
+            "link_id": "t3_vyadaz",
+            "parent_id": "t3_vyadaz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

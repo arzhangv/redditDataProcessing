@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi,\n\nfor educational purposes I use the old Hacker Defender root-kit to demonstrate how a root kit works. It's easy to handle becaue you only configure a config.file and just start it.\n\nBut Hacker Defender is quite old so it only works on Windows XP.\n\nSo I was wondering if you could point me to another root-kit that works in Win7 or Win10 and is similar easy to use.\n\nThx and greetings.\n",
+        "title": "Root-Kit for educational purposes",
+        "score": 0,
+        "id": "65mej6",
+        "commsNum": 2,
+        "timeStamp": "2017/04/15-17:24:34",
+        "author_name": "dapansen",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/65mej6/rootkit_for_educational_purposes/"
+    },
+    "posts": {}
+}

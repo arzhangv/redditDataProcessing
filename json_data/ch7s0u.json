@@ -1,0 +1,99 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I need some help. The first half dozen of chapters are simple, but as I'm progressing, it is progressively getting harder. I've only just finished the Chapter 13 labs (Data Encoding), but I didn't complete the last lab because it was just too hard.\n\nMy methodology is to usually do some recon (dynamic/static) before looking up the answers, but I can only ever get so far. I can only get a basic understanding of the assembly until it's time to look up the answers and follow through.\n\nWhenever I'm following through the answers, I get lost very quickly. It's very hard to understand what's going on and how the program flows in order to answer the questions.\n\nAre there any resources that I should be priming myself with before going any further? I don't really want to read any more chapters as I keep getting frustrated. I need to sit back and practice more - any ideas how?\n\nI've ordered the Malware Analysts Cookbook, so I will probably be going through that one. I'm not sure if it will suffice and help me get through these last chapters; that is why I'm asking here.\n\nAny help/suggestions would be greatly appreciated. I'd feel better to know if I was not the only one in this sort of predicament, I really do want to keep going, and I just need the push.",
+        "title": "Keep getting stuck with Practical Malware Analysis labs",
+        "score": 3,
+        "id": "ch7s0u",
+        "commsNum": 7,
+        "timeStamp": "2019/07/24-05:50:34",
+        "author_name": "ayoQuo",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ch7s0u/keep_getting_stuck_with_practical_malware/"
+    },
+    "posts": {
+        "feirpio": {
+            "comment": "you are not alone, buddy, you are not alone.",
+            "timeStamp": "2020/01/15-19:31:57",
+            "id": "feirpio",
+            "is_submitter": false,
+            "link_id": "t3_ch7s0u",
+            "parent_id": "t3_ch7s0u",
+            "score": 1,
+            "stickied": false,
+            "author_name": "faucetfailure_0"
+        },
+        "ev4o4r0": {
+            "comment": "I think it really depends where you struggle. If that's assembly, then I guess a lot of practice and some assembly cheatsheets would help. Such as  [https://cs.brown.edu/courses/cs033/docs/guides/x64\\_cheatsheet.pdf](https://cs.brown.edu/courses/cs033/docs/guides/x64_cheatsheet.pdf) \n\n [https://trailofbits.github.io/ctf/vulnerabilities/references/X86\\_Win32\\_Reverse\\_Engineering\\_Cheat\\_Sheet.pdf](https://trailofbits.github.io/ctf/vulnerabilities/references/X86_Win32_Reverse_Engineering_Cheat_Sheet.pdf) \n\nIf it is other tools, I guess it is as well practice, especially if you read the book. I have made [Udemy course](https://www.udemy.com/malware-analysis-and-reverse-engineering/?couponCode=RND_PROMO_RDT) that follows the book and have some practical advises, but if you really read and understood the book, it won't help that much. After you understand things there, I think it is about breaking your head for some time until you understand. I know it can be frustrated, but frustration is part of the learning experience, especially in malware analysis.",
+            "timeStamp": "2019/07/27-01:58:23",
+            "id": "ev4o4r0",
+            "is_submitter": false,
+            "link_id": "t3_ch7s0u",
+            "parent_id": "t3_ch7s0u",
+            "score": 1,
+            "stickied": false,
+            "author_name": "dreadknight011"
+        },
+        "eusldqx": {
+            "comment": "Thanks! That should help a lot.",
+            "timeStamp": "2019/07/24-16:13:36",
+            "id": "eusldqx",
+            "is_submitter": true,
+            "link_id": "t3_ch7s0u",
+            "parent_id": "t1_euqf4eh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ayoQuo"
+        },
+        "euqjd3r": {
+            "comment": "I find that it's helpful to convert the assembly to C while I am reading it.  Trying to understand different parts and then come back to stuff I've already read - I just forget what I already tried to understand.  Writing it in C cements my understanding.",
+            "timeStamp": "2019/07/24-07:47:30",
+            "id": "euqjd3r",
+            "is_submitter": false,
+            "link_id": "t3_ch7s0u",
+            "parent_id": "t3_ch7s0u",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TParis00ap"
+        },
+        "euqf4eh": {
+            "comment": "Follow this guy\u2019s course. He uses PMA as a textbook and has all of his lectures recorded. These helped me a ton going through PMA. Looks like he has a lecture specifically on the data encoding chapter\n\nhttps://www.youtube.com/playlist?list=PLiXt8dQFKu_RY66U2ocOep1X3H8BxkjCw",
+            "timeStamp": "2019/07/24-07:06:11",
+            "id": "euqf4eh",
+            "is_submitter": false,
+            "link_id": "t3_ch7s0u",
+            "parent_id": "t3_ch7s0u",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Trolling_turd"
+        },
+        "euqdecp": {
+            "comment": "Thanks mate. I think the issue is assembly and following the flow of said assembly so I'll need to dig up some resources on that.",
+            "timeStamp": "2019/07/24-06:48:43",
+            "id": "euqdecp",
+            "is_submitter": true,
+            "link_id": "t3_ch7s0u",
+            "parent_id": "t1_euq9xdg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ayoQuo"
+        },
+        "euq9xdg": {
+            "comment": "The book can be particularly difficult without a strong base in assembly. I really struggled with the later chapters, as well. It didn't matter how well I understood the malware technique, I couldn't follow the assembly well enough to identify solutions. \n\nI was fortunate to have a group of people working with me - this was huge in being able to get past road blocks in the book. However, I had so many long nights scrolling through IDA. You're definitely not alone here, so please keep going! Identify what's holding you back (assembly, for example) and find extra resources to supplement being able to read and follow the code. \n\nI wish I had some specific resources for you, and I'm sorry I don't, but your personal persistence to get through PMA is telling. You got this.",
+            "timeStamp": "2019/07/24-06:13:45",
+            "id": "euq9xdg",
+            "is_submitter": false,
+            "link_id": "t3_ch7s0u",
+            "parent_id": "t3_ch7s0u",
+            "score": 1,
+            "stickied": false,
+            "author_name": "awk_warden"
+        }
+    }
+}

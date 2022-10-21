@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "CIH - 20 years later (April 26, 1999)",
+        "score": 2,
+        "id": "bhowkk",
+        "commsNum": 1,
+        "timeStamp": "2019/04/26-10:19:54",
+        "author_name": "kyle2000tv",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://en.wikipedia.org/wiki/CIH_(computer_virus)"
+    },
+    "posts": {
+        "elv3pb1": {
+            "comment": "I thought this footage is pretty neat to see it effecting a physical machine:  https://www.youtube.com/watch?v=RrnWFAx5vJg",
+            "timeStamp": "2019/04/26-13:48:36",
+            "id": "elv3pb1",
+            "is_submitter": false,
+            "link_id": "t3_bhowkk",
+            "parent_id": "t3_bhowkk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "dkaye_mal_anst18"
+        }
+    }
+}

@@ -1,0 +1,154 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Reposting due to mod removal due to me using a shortened URL...  \n \n\nI encountered this html file in a malicious email instructing the user to download a password protected zip file. I have already reported the zip file as well as the payload downloaded by the Windows shortcut within the zip file.\n\nBut, I have been unable to determine how the html file is downloading the ZIP. I don't know how to deobfuscate the javascript. I ran Wireshark to try to capture any DNS queries or IP address from which the file is downloading from but I'm having no luck. Anyone care to take a crack at this and, if you're feeling it, let me know what you found and how you found it?\n\nGoogle Drive zip file download [here](https://drive.google.com/file/d/1dEeAcHO5-VvGlj46AUhMwttA85epvDvT/view?usp=sharing).",
+        "title": "HTML file downloading payload - repost",
+        "score": 1,
+        "id": "voi9k5",
+        "commsNum": 0,
+        "timeStamp": "2022/06/30-13:38:07",
+        "author_name": "my_good_account",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/voi9k5/html_file_downloading_payload_repost/"
+    },
+    "posts": {
+        "ievi0f1": {
+            "comment": "Qakbot, TrickBot, Async/NJRat, BlisterLoader, etc. all use this method - HTML smuggling via JS has been around for \\~3 years and continues to be an effective delivery method.",
+            "timeStamp": "2022/07/04-15:41:56",
+            "id": "ievi0f1",
+            "is_submitter": false,
+            "link_id": "t3_voi9k5",
+            "parent_id": "t1_iee712s",
+            "score": 1,
+            "stickied": false,
+            "author_name": "v1nd1cated"
+        },
+        "ieg3g9h": {
+            "comment": "I'm sure this is it.",
+            "timeStamp": "2022/07/01-06:00:04",
+            "id": "ieg3g9h",
+            "is_submitter": true,
+            "link_id": "t3_voi9k5",
+            "parent_id": "t1_ieftyqq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "my_good_account"
+        },
+        "ieg3ezd": {
+            "comment": "That's it!",
+            "timeStamp": "2022/07/01-05:59:47",
+            "id": "ieg3ezd",
+            "is_submitter": true,
+            "link_id": "t3_voi9k5",
+            "parent_id": "t1_iee712s",
+            "score": 1,
+            "stickied": false,
+            "author_name": "my_good_account"
+        },
+        "ieg3bof": {
+            "comment": "I believe you're right. The payloads were detected as Qakbot.",
+            "timeStamp": "2022/07/01-05:59:00",
+            "id": "ieg3bof",
+            "is_submitter": true,
+            "link_id": "t3_voi9k5",
+            "parent_id": "t1_ieeb33a",
+            "score": 1,
+            "stickied": false,
+            "author_name": "my_good_account"
+        },
+        "ieftyqq": {
+            "comment": "Sounds like HTML smuggling. It reconstructs the file locally with JS/HTML5 by abusing client side code execution. The file is encoded in base64 then converted using atob() and constructed in memory using blob()\n\nhttps://www.microsoft.com/security/blog/2021/11/11/html-smuggling-surges-highly-evasive-loader-technique-increasingly-used-in-banking-malware-targeted-attacks/\n\nOften associated with info stealers and RATs",
+            "timeStamp": "2022/07/01-04:30:45",
+            "id": "ieftyqq",
+            "is_submitter": false,
+            "link_id": "t3_voi9k5",
+            "parent_id": "t3_voi9k5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "v1nd1cated"
+        },
+        "ieeb33a": {
+            "comment": "(Without seeing the file you\u2019re talking about) Sounds like recent Qakbot phish killchains - the HTML attachment has the ZIP base64-encoded within it and uses embedded JS to decode it and download it as a Blob.",
+            "timeStamp": "2022/06/30-18:33:57",
+            "id": "ieeb33a",
+            "is_submitter": false,
+            "link_id": "t3_voi9k5",
+            "parent_id": "t3_voi9k5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "0xFF0F"
+        },
+        "iee712s": {
+            "comment": "Is this related to the Qakbot execution flow? https://twitter.com/pr0xylife/status/1542172803662856195?s=21&amp;t=CRpwYiwGhc5gn79h4pv_kw",
+            "timeStamp": "2022/06/30-18:01:20",
+            "id": "iee712s",
+            "is_submitter": false,
+            "link_id": "t3_voi9k5",
+            "parent_id": "t3_voi9k5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Flaky_Card2907"
+        },
+        "iee6qj3": {
+            "comment": "[removed]",
+            "timeStamp": "2022/06/30-17:59:00",
+            "id": "iee6qj3",
+            "is_submitter": false,
+            "link_id": "t3_voi9k5",
+            "parent_id": "t1_iee68q0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "iee68q0": {
+            "comment": "[removed]",
+            "timeStamp": "2022/06/30-17:54:59",
+            "id": "iee68q0",
+            "is_submitter": false,
+            "link_id": "t3_voi9k5",
+            "parent_id": "t3_voi9k5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "iedmk2m": {
+            "comment": "Throw the lnk file into virustotal and then look at the behaviors tab. I had a very similar sounding issue this week and was able to find the IPs, etc through that.",
+            "timeStamp": "2022/06/30-15:26:49",
+            "id": "iedmk2m",
+            "is_submitter": false,
+            "link_id": "t3_voi9k5",
+            "parent_id": "t3_voi9k5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Jeremy0548"
+        },
+        "iedj8p2": {
+            "comment": "Google took your file down",
+            "timeStamp": "2022/06/30-15:04:06",
+            "id": "iedj8p2",
+            "is_submitter": false,
+            "link_id": "t3_voi9k5",
+            "parent_id": "t3_voi9k5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Gotta_Git_Fast"
+        },
+        "iedcoaj": {
+            "comment": "[removed]",
+            "timeStamp": "2022/06/30-14:19:45",
+            "id": "iedcoaj",
+            "is_submitter": false,
+            "link_id": "t3_voi9k5",
+            "parent_id": "t3_voi9k5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

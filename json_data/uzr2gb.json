@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "[https://www.bleepingcomputer.com/news/security/bpfdoor-stealthy-linux-malware-bypasses-firewalls-for-remote-access/](https://www.bleepingcomputer.com/news/security/bpfdoor-stealthy-linux-malware-bypasses-firewalls-for-remote-access/)\n\n**READ**",
+        "title": "Stealthy Linux malware bypasses firewalls for remote access",
+        "score": 1,
+        "id": "uzr2gb",
+        "commsNum": 0,
+        "timeStamp": "2022/05/28-09:40:16",
+        "author_name": "saqfi",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/uzr2gb/stealthy_linux_malware_bypasses_firewalls_for/"
+    },
+    "posts": {
+        "iabysu5": {
+            "comment": "hmmm :| https://i.imgur.com/yLh1HJf.png",
+            "timeStamp": "2022/05/28-10:10:04",
+            "id": "iabysu5",
+            "is_submitter": false,
+            "link_id": "t3_uzr2gb",
+            "parent_id": "t3_uzr2gb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "walderf"
+        }
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "doing this exercise for a school project,\n\nhowever, i couldn't find a way to extract the embeded powershell script within the png files.\n\nI also turned on PowerShell\\_transcriptionand logging.\n\nWhen I open any of the png files with powershell scripted embedded . I don't see any logs been generated in windows event logs .\n\nare scripted in these png files not working anymore ?\n\nalso, trying to find a way to extract the scripts from png, any tips would be appreciated .\n\n    \n    the samples are here:\n     https://github.com/InQuest/malware-samples/tree/master/2019-03-PowerShell-Obfuscation-Encryption-Steganography/Images%20containing%20PowerShell%20code",
+        "title": "extracting powershell script from png",
+        "score": 7,
+        "id": "bsj1yp",
+        "commsNum": 7,
+        "timeStamp": "2019/05/24-09:34:03",
+        "author_name": "mc4applesauce",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 7,
+        "over_18": true,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/bsj1yp/extracting_powershell_script_from_png/"
+    },
+    "posts": {
+        "epu0huw": {
+            "comment": "do you have the code to extract ?",
+            "timeStamp": "2019/06/02-11:48:36",
+            "id": "epu0huw",
+            "is_submitter": true,
+            "link_id": "t3_bsj1yp",
+            "parent_id": "t1_epu0gvb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mc4applesauce"
+        },
+        "epu0gvb": {
+            "comment": "thank you so much",
+            "timeStamp": "2019/06/02-11:48:20",
+            "id": "epu0gvb",
+            "is_submitter": true,
+            "link_id": "t3_bsj1yp",
+            "parent_id": "t1_eor88u6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mc4applesauce"
+        },
+        "eor88u6": {
+            "comment": "I have the code for extraction at work. Ping me on monday.  The obfuscation works by using the lower 2 bits of each color channel of each pixel as data storage. Effect on the image is very limited, like a noise.  Malware comes with a tiny powershell that does the extraction. It does not work by opening it with an image viewer.",
+            "timeStamp": "2019/05/25-09:42:41",
+            "id": "eor88u6",
+            "is_submitter": false,
+            "link_id": "t3_bsj1yp",
+            "parent_id": "t3_bsj1yp",
+            "score": 3,
+            "stickied": false,
+            "author_name": "marvuozz"
+        },
+        "eopynx4": {
+            "comment": " This!\n\nAs far as I understand side loaded dlls are most commonly used to pull the commands out of images which is most likely to be XOR obfuscated and maybe even ecrypted!\n\nYou can also try using some of open-source Steganalysis tools specialized in detecting LSB (least significant bit) steganography in lossless images.",
+            "timeStamp": "2019/05/25-03:30:45",
+            "id": "eopynx4",
+            "is_submitter": false,
+            "link_id": "t3_bsj1yp",
+            "parent_id": "t1_eoo56nb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mrcybersalot"
+        },
+        "eopynb7": {
+            "comment": "&gt;https://github.com/InQuest/malware-samples/tree/master/2019-03-PowerShell-Obfuscation-Encryption-Steganography/Images%20containing%20PowerShell%20code\n\nThis! \n\nAs far as I understand side loaded dlls are most commonly used to pull the commands out of images which is most likely to be XOR obfuscated and maybe even ecrypted! \n\nYou can also try using some of open-source Steganalysis tools  specialized in detecting LSB (least significant bit) steganography in lossless images.",
+            "timeStamp": "2019/05/25-03:30:29",
+            "id": "eopynb7",
+            "is_submitter": false,
+            "link_id": "t3_bsj1yp",
+            "parent_id": "t1_eoo56nb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mrcybersalot"
+        },
+        "eoo56nb": {
+            "comment": "I have not looked into these thoroughly but, the point of stego and obfuscation is to bypass detection. The powershell isn\u2019t likely run just by opening the image. It likely is just a delivery method that bypasses detection methods like av and IDS sensors. There is a stage one or unpacker that pulls these out and runs them. \n\nAgain I am not positive on this as I haven\u2019t played with these samples myself. But that\u2019s the feelings I get based on your description.",
+            "timeStamp": "2019/05/24-13:26:40",
+            "id": "eoo56nb",
+            "is_submitter": false,
+            "link_id": "t3_bsj1yp",
+            "parent_id": "t3_bsj1yp",
+            "score": 7,
+            "stickied": false,
+            "author_name": "Quasimorte"
+        },
+        "eonp2xm": {
+            "comment": "Why the NSFW Tag?",
+            "timeStamp": "2019/05/24-10:14:01",
+            "id": "eonp2xm",
+            "is_submitter": false,
+            "link_id": "t3_bsj1yp",
+            "parent_id": "t3_bsj1yp",
+            "score": 4,
+            "stickied": false,
+            "author_name": "kalpeshk9967016292"
+        }
+    }
+}

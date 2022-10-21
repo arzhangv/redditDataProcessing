@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Good day\n\n&amp;#x200B;\n\nSo this happened twice now. The first time it was hard to pinpoint what the issue was but the second time I pretty much had a clean formatted PC and I watched step by step how Bitdefender compromised my computer.\n\nFirst a note\n\nI am a software developer and VERY careful what I download from the internet. The useful thing about this case is that is was a clean computer with nothing new installed. Basically Bitdefender, Steam and Virtual Box. And yes I double checked that these where the real websites and files. Full system Scan with Bitdefender confirmed the PC was clean.\n\nSo here is a step by step of what happened.\n\n(My computer is turned off every night)\n\n1: I tuned my computer on and worked from home all day. Did not download anything as I doing dev work on my VM.\n\n2: Noticed in Bitdefender notification that required action. It said that there are new windows updates.\n\n3: I then went to normal windows updates and updated and restarted. Everything was fine.\n\n4: Then I noticed that Bitdefender still said that there is updates. I went to windows updates again and click checked for update but as I just did that it said there was nothing to install.\n\n5: So to get Bitdefender of my case I click on the notification and click install.\n\n6: This is where the shit hit the fan. It install the update and restarted the computer.\n\n7: As soon as it loaded the login screen the resolution was super low for a split second then looked fine again.\n\n8: After login Bitdefender did not start up. I tried to run the shortcut but it showed the \"broken shortcut\" icon.\n\n9: Could not find any exe to run, Bitdefender was completely broken. More than that if I go to Windows security it is just a blank page. Some research showed that this happens when Windows Security is corrupt and a repair was the only way to fix this.\n\n10: Uninstall and reinstall Bitdefender and then it picked up  \n\nThe file C:\\\\Windows\\\\System32\\\\winlogui.exe is infected with Generic.Application.CoinMiner.1.1E73EB1E and was moved to quarantine. It is recommended that you run a System Scan to make sure your system is clean. \n\n11: Formatted and never load Bitdefender again.\n\nFew important things. I have been running another Antivirus for years and nothing like this ever happened. After switching to Bitdefender this happened twice withing 3 months. I have a 5 man licence so I went to my friend that runs one of the other licences. I did the same thing to test it. He first updated windows and restarted and everything was fine. Then exactly the same Bitdefender still said that there is windows updates. If he where to click it Bitdefender would compromise his pc.\n\n&amp;#x200B;\n\nLike I said this is the second time this happened and the first time ransomware was also loaded not just the coin miner.\n\n&amp;#x200B;\n\nThere are 2 possibilities.\n\n1: Inside Job\n\n2: The source for the update functionlity is Bitdender was compromised severakl month ago and they STILL have not realized this even after I mailed them. (Their support is terrible as the only reply 1 per 2 weeks but it is different person every time so you have to start over. They dont WANT to help)\n\nSo this happened twice now. The first time it was hard to pinpoint what the issue was but the second time I pretty much had a clean formatted PC and I watched step by step how Bitdefender compromised my computer.\n\nFirst a note\n\nI am a software developer and VERY careful what I download from the internet. The useful thing about this case is that is was a clean computer with nothing new installed. Basically Bitdefender, Steam and Virtual Box. And yes I double checked that these where the real websites and files. Full system Scan with Bitdefender confirmed the PC was clean.\n\nSo here is a step by step of what happened.\n\n(My computer is turned off every night)\n\n1: I tuned my computer on and worked from home all day. Did not download anything as I doing dev work on my VM.\n\n2: Noticed in Bitdefender notification that required action. It said that there are new windows updates.\n\n3: I then went to normal windows updates and updated and restarted. Everything was fine.\n\n4: Then I noticed that Bitdefender still said that there is updates. I went to windows updates again and click checked for update but as I just did that it said there was nothing to install.\n\n5: So to get Bitdefender of my case I click on the notification and click install.\n\n6: This is where the shit hit the fan. It install the update and restarted the computer.\n\n7: As soon as it loaded the login screen the resolution was super low for a split second then looked fine again.\n\n8: After login Bitdefender did not start up. I tried to run the shortcut but it showed the \"broken shortcut\" icon.\n\n9: Could not find any exe to run, Bitdefender was completely broken. More than that if I go to Windows security it is just a blank page. Some research showed that this happens when Windows Security is corrupt and a repair was the only way to fix this.\n\n10: Uninstall and reinstall Bitdefender and then it picked up  \n\nThe file C:\\\\Windows\\\\System32\\\\winlogui.exe is infected with Generic.Application.CoinMiner.1.1E73EB1E and was moved to quarantine. It is recommended that you run a System Scan to make sure your system is clean. \n\n11: Formatted and never load Bitdefender again.\n\nFew important things. I have been running another Antivirus for years and nothing like this ever happened. After switching to Bitdefender this happened twice withing 3 months. I have a 5 man licence so I went to my friend that runs one of the other licences. I did the same thing to test it. He first updated windows and restarted and everything was fine. Then exactly the same Bitdefender still said that there is windows updates. If he where to click it Bitdefender would compromise his pc.\n\n&amp;#x200B;\n\nLike I said this is the second time this happened and the first time ransomware was also loaded not just the coin miner.\n\n&amp;#x200B;\n\nThere are 2 possibilities.\n\n1: Inside Job\n\n2: The source for the update functionality is Bitdender was compromised several month ago and they STILL have not realized this even after I mailed them. (Their support is terrible as the only reply 1 per 2 weeks but it is different person every time so you have to start over. They dont WANT to help)",
+        "title": "Serious Bitdefender Compromise beware if you are running Bitdefender",
+        "score": 0,
+        "id": "ddnur1",
+        "commsNum": 2,
+        "timeStamp": "2019/10/05-07:23:03",
+        "author_name": "VexoG",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ddnur1/serious_bitdefender_compromise_beware_if_you_are/"
+    },
+    "posts": {
+        "f33q1mw": {
+            "comment": "Indeed\n\n [https://safebreach.com/Post/BitDefender-Antivirus-Free-2020-Privilege-Escalation-to-SYSTEM](https://safebreach.com/Post/BitDefender-Antivirus-Free-2020-Privilege-Escalation-to-SYSTEM) \n\n [https://www.tomsguide.com/news/hacking-flaw-in-bitdefender-antivirus-free-update-now](https://www.tomsguide.com/news/hacking-flaw-in-bitdefender-antivirus-free-update-now) \n\n&amp;#x200B;\n\nThis is a new one they have not patched yet.\n\nWho know how many more still remain",
+            "timeStamp": "2019/10/09-10:43:46",
+            "id": "f33q1mw",
+            "is_submitter": true,
+            "link_id": "t3_ddnur1",
+            "parent_id": "t1_f2lck6i",
+            "score": 1,
+            "stickied": false,
+            "author_name": "VexoG"
+        },
+        "f2lck6i": {
+            "comment": "This definitely happened twice",
+            "timeStamp": "2019/10/05-09:41:39",
+            "id": "f2lck6i",
+            "is_submitter": false,
+            "link_id": "t3_ddnur1",
+            "parent_id": "t3_ddnur1",
+            "score": 4,
+            "stickied": false,
+            "author_name": "Barnezhilton"
+        }
+    }
+}

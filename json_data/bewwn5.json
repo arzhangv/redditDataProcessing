@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "In-Memory-Only ELF Execution (Without tmpfs)",
+        "score": 23,
+        "id": "bewwn5",
+        "commsNum": 2,
+        "timeStamp": "2019/04/19-01:44:55",
+        "author_name": "milabs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://magisterquis.github.io/2018/03/31/in-memory-only-elf-execution.html"
+    },
+    "posts": {
+        "elaj5t4": {
+            "comment": "Its neat, but it doesn't really protect your payload. Someone can still just \n\n    cat /proc/[PID]/exe &gt; /tmp/malware.exe\n\nand call it a day. If you just want a different name in the process list there are plenty of other ways that don't involve using a syscall that will only work on linux 3.17 and above.",
+            "timeStamp": "2019/04/19-12:37:04",
+            "id": "elaj5t4",
+            "is_submitter": false,
+            "link_id": "t3_bewwn5",
+            "parent_id": "t3_bewwn5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "4e4f5045"
+        },
+        "el96tfq": {
+            "comment": "Could also just link to a `memfd_create` manpage, which is Linux-specific. I didn't know this existed.",
+            "timeStamp": "2019/04/19-02:47:43",
+            "id": "el96tfq",
+            "is_submitter": false,
+            "link_id": "t3_bewwn5",
+            "parent_id": "t3_bewwn5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Exagone313"
+        }
+    }
+}

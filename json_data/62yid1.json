@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Linux Cuckoo Sandbox",
+        "score": 1,
+        "id": "62yid1",
+        "commsNum": 0,
+        "timeStamp": "2017/04/02-00:51:03",
+        "author_name": "Maijin",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://linux.huntingmalware.com/dashboard/"
+    },
+    "posts": {}
+}

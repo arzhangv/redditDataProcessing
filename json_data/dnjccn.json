@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "So I have what appears to be a malware program that keeps launching itself on my MacBook. The icon is a little green circle with a magnifying glass in it and the software keeps appearing under different names, the most recent one being \"IdeaShared.\" I believe I accidentally downloaded it with some screenplays I found on r/Screenwriting. I keep moving the software to the trash via the Finder, but it keeps re-appearing and launching itself while I'm in the midst of doing other things. This is the first time I've dealt with something like this since moving to Apple products and I have no idea the first place to start! A brief Google search didn't yield me much help at all. I could use some help finding, identifying and ridding myself of this malware; if this isn't the appropriate community to post in, I could use a redirect.",
+        "title": "I'm having a hard time permanently removing some malware on my MacBook. Looking for some help here!",
+        "score": 1,
+        "id": "dnjccn",
+        "commsNum": 1,
+        "timeStamp": "2019/10/26-13:32:39",
+        "author_name": "c-nugs_in_the_caf",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/dnjccn/im_having_a_hard_time_permanently_removing_some/"
+    },
+    "posts": {
+        "f5bir80": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2019/10/26-13:32:40",
+            "id": "f5bir80",
+            "is_submitter": false,
+            "link_id": "t3_dnjccn",
+            "parent_id": "t3_dnjccn",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

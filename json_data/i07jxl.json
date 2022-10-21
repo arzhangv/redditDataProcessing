@@ -1,0 +1,121 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "So, I have recently started to look into botnets and how they work and was wondering if anyone knows where I could find some samples.",
+        "title": "Looking for Botnet malware samples",
+        "score": 1,
+        "id": "i07jxl",
+        "commsNum": 9,
+        "timeStamp": "2020/07/29-13:01:32",
+        "author_name": "The-electric-texan",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 9,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/i07jxl/looking_for_botnet_malware_samples/"
+    },
+    "posts": {
+        "fzp619c": {
+            "comment": "you could, if you can get it to isolate particulatar botnet behaviour",
+            "timeStamp": "2020/07/29-21:44:27",
+            "id": "fzp619c",
+            "is_submitter": false,
+            "link_id": "t3_i07jxl",
+            "parent_id": "t1_fzp1z8i",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Interesting-Bus-5370"
+        },
+        "fzp1z8i": {
+            "comment": "With a honeypot or something?",
+            "timeStamp": "2020/07/29-20:57:48",
+            "id": "fzp1z8i",
+            "is_submitter": true,
+            "link_id": "t3_i07jxl",
+            "parent_id": "t1_fzovfzi",
+            "score": 1,
+            "stickied": false,
+            "author_name": "The-electric-texan"
+        },
+        "fzovfzi": {
+            "comment": "you can always do what mutahar did, make a throwaway email, and sign up for spammy stuff, then click on every sketchy link in existance, lol",
+            "timeStamp": "2020/07/29-19:50:02",
+            "id": "fzovfzi",
+            "is_submitter": false,
+            "link_id": "t3_i07jxl",
+            "parent_id": "t3_i07jxl",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Interesting-Bus-5370"
+        },
+        "fzouxud": {
+            "comment": "[removed]",
+            "timeStamp": "2020/07/29-19:45:02",
+            "id": "fzouxud",
+            "is_submitter": false,
+            "link_id": "t3_i07jxl",
+            "parent_id": "t1_fznl46t",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fzooayw": {
+            "comment": "Thanks to all of you",
+            "timeStamp": "2020/07/29-18:41:41",
+            "id": "fzooayw",
+            "is_submitter": true,
+            "link_id": "t3_i07jxl",
+            "parent_id": "t3_i07jxl",
+            "score": 1,
+            "stickied": false,
+            "author_name": "The-electric-texan"
+        },
+        "fznu02z": {
+            "comment": "[https://github.com/jgamblin/Mirai-Source-Code](https://github.com/jgamblin/Mirai-Source-Code)",
+            "timeStamp": "2020/07/29-14:13:47",
+            "id": "fznu02z",
+            "is_submitter": false,
+            "link_id": "t3_i07jxl",
+            "parent_id": "t3_i07jxl",
+            "score": 1,
+            "stickied": false,
+            "author_name": "xcto"
+        },
+        "fznoi95": {
+            "comment": "Malware samples collected for analysis (repost from defsecnsattack)\n\n[Clean MX] http://support.clean-mx.de/clean-mx/viruses.php - Realtime database of malware and malicious domains\n\n[Contagio] http://contagiodump.blogspot.com/ - A collection of recent malware samples and analyses.\n\n[Exploit Database] https://www.exploit-db.com/ - Exploit and shellcode samples\n\n[Infosec - CERT-PA] https://infosec.cert-pa.it/analyze/submission.html - Malware samples collection and analysis\n\n[Malpedia] https://malpedia.caad.fkie.fraunhofer.de/ - A resource providing rapid identification and actionable context for malware investigations\n\n[Malshare] https://malshare.com - Large repository of malware actively scrapped from malicious sites\n\n[Open Malware Project] http://openmalware.org/ - Sample information and downloads. Formerly Offensive Computing\n\n[Ragpicker] https://github.com/robbyFux/Ragpicker - Plugin based malware crawler with pre-analysis and reporting functionalities\n\n[theZoo] https://github.com/ytisf/theZoo - Live malware samples for analysts\n\n[Tracker h3x] http://tracker.h3x.eu/ - Agregator for malware corpus tracker and malicious download sites\n\n[vduddu malware repo] https://github.com/vduddu/Malware - Collection of various malware files and source code\n\n[VirusBay] https://beta.virusbay.io/ - Community-Based malware repository and social network\n\n[ViruSign] http://www.virussign.com/ - Malware database that detected by many anti malware programs except ClamAV\n\n[VirusShare] https://virusshare.com/ - Malware repository, registration required\n\n[VX Vault] http://vxvault.net - Active collection of malware samples.\n\n[Zeltser's Sources] https://zeltser.com/malware-sample-sources/ - A list of malware sample sources put together by Lenny Zeltser\n\n[Zeus Source Code] https://github.com/Visgean/Zeus - Source for the Zeus trojan leaked in 2011",
+            "timeStamp": "2020/07/29-13:29:12",
+            "id": "fznoi95",
+            "is_submitter": false,
+            "link_id": "t3_i07jxl",
+            "parent_id": "t3_i07jxl",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DrinkMoreCodeMore"
+        },
+        "fznmmtg": {
+            "comment": "A bunch of Perl/Shellbot variants:  [https://github.com/bediger4000/malware-phylogeny/tree/master/linuxnet](https://github.com/bediger4000/malware-phylogeny/tree/master/linuxnet)\n\nThese are related perl programs, communicating via IRC. I captured them a while back, during the period when \"shellshock\" bug and the PHP-as-CGI-BIN bugs were being actively exploited.",
+            "timeStamp": "2020/07/29-13:14:20",
+            "id": "fznmmtg",
+            "is_submitter": false,
+            "link_id": "t3_i07jxl",
+            "parent_id": "t3_i07jxl",
+            "score": 1,
+            "stickied": false,
+            "author_name": "bediger4000"
+        },
+        "fznl46t": {
+            "comment": "Urlhaus",
+            "timeStamp": "2020/07/29-13:02:14",
+            "id": "fznl46t",
+            "is_submitter": false,
+            "link_id": "t3_i07jxl",
+            "parent_id": "t3_i07jxl",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Administratr"
+        }
+    }
+}

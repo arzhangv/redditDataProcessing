@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "The\u00a0Sysdig Security Research team\u00a0dug deep into Muhstik botnet architecture and malicious activity targeting Kubernetes to improve the detection systems.\n\nThis attack confirms what we\u2019ve been seeing for quite some time; **Crypto miner attacks are on the rise**, and they come in many different forms. The fact that cryptocurrency prices are over the roof is only making things worse.\n\n[https://sysdig.com/blog/muhstik-malware-botnet-analysis/](https://sysdig.com/blog/muhstik-malware-botnet-analysis/)\n\n[Muhstik botnet](https://preview.redd.it/676scbfkizz71.png?width=1201&amp;format=png&amp;auto=webp&amp;s=b1acda1b89aebc6c13d81e407a409c8d00d1c8a9)",
+        "title": "Step-by-step Muhstik botnet. Malicious activity, Kubernetes Pod victims, and IOCs.",
+        "score": 1,
+        "id": "qvbq3m",
+        "commsNum": 1,
+        "timeStamp": "2021/11/16-08:32:02",
+        "author_name": "MiguelHzBz",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/qvbq3m/stepbystep_muhstik_botnet_malicious_activity/"
+    },
+    "posts": {
+        "hmeenq1": {
+            "comment": "[removed]",
+            "timeStamp": "2021/11/28-05:50:26",
+            "id": "hmeenq1",
+            "is_submitter": false,
+            "link_id": "t3_qvbq3m",
+            "parent_id": "t3_qvbq3m",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

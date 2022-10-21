@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "How Kaspersky Built its CoinVault Decryption Tool",
+        "score": 1,
+        "id": "32k1rw",
+        "commsNum": 0,
+        "timeStamp": "2015/04/14-05:38:26",
+        "author_name": "InfectiousFelonius",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://securelist.com/blog/research/69595/challenging-coinvault-its-time-to-free-those-files/"
+    },
+    "posts": {}
+}

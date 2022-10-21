@@ -1,0 +1,176 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Linux.Fe2O3: a Rust virus",
+        "score": 66,
+        "id": "d0h5ek",
+        "commsNum": 14,
+        "timeStamp": "2019/09/06-07:08:18",
+        "author_name": "guitmz",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 14,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.guitmz.com/linux-fe2o3-rust-virus/"
+    },
+    "posts": {
+        "f7cekiy": {
+            "comment": "Ohh cool lol",
+            "timeStamp": "2019/11/12-12:29:15",
+            "id": "f7cekiy",
+            "is_submitter": false,
+            "link_id": "t3_d0h5ek",
+            "parent_id": "t1_f7ccrre",
+            "score": 1,
+            "stickied": false,
+            "author_name": "alloncm"
+        },
+        "f7ccrre": {
+            "comment": "Compile once with a placeholder value jn the constant, get the binary size, update the source, compile again :)",
+            "timeStamp": "2019/11/12-12:10:24",
+            "id": "f7ccrre",
+            "is_submitter": true,
+            "link_id": "t3_d0h5ek",
+            "parent_id": "t1_f7c9dk1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "guitmz"
+        },
+        "f7c9dk1": {
+            "comment": "Yea I was going over your code and wondered where this number came from. How did you come up with this number without knowing the size of the binaries?.",
+            "timeStamp": "2019/11/12-11:34:53",
+            "id": "f7c9dk1",
+            "is_submitter": false,
+            "link_id": "t3_d0h5ek",
+            "parent_id": "t1_f7c8rld",
+            "score": 1,
+            "stickied": false,
+            "author_name": "alloncm"
+        },
+        "f7c8rld": {
+            "comment": "I don't, its hardcoded in its source, in constant definitions",
+            "timeStamp": "2019/11/12-11:28:32",
+            "id": "f7c8rld",
+            "is_submitter": true,
+            "link_id": "t3_d0h5ek",
+            "parent_id": "t1_f7c8ewh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "guitmz"
+        },
+        "f7c8ewh": {
+            "comment": "Hi how do you the file size of the virus at compile time?",
+            "timeStamp": "2019/11/12-11:24:53",
+            "id": "f7c8ewh",
+            "is_submitter": false,
+            "link_id": "t3_d0h5ek",
+            "parent_id": "t3_d0h5ek",
+            "score": 1,
+            "stickied": false,
+            "author_name": "alloncm"
+        },
+        "ezqu8oc": {
+            "comment": "Can you post it here please?",
+            "timeStamp": "2019/09/09-14:20:19",
+            "id": "ezqu8oc",
+            "is_submitter": false,
+            "link_id": "t3_d0h5ek",
+            "parent_id": "t1_ezad13l",
+            "score": 1,
+            "stickied": false,
+            "author_name": "alloncm"
+        },
+        "ezdkv60": {
+            "comment": "Four!! :D",
+            "timeStamp": "2019/09/07-03:17:08",
+            "id": "ezdkv60",
+            "is_submitter": false,
+            "link_id": "t3_d0h5ek",
+            "parent_id": "t1_ezb1u5f",
+            "score": 1,
+            "stickied": false,
+            "author_name": "chetanbhasin"
+        },
+        "ezb1u5f": {
+            "comment": "Me three",
+            "timeStamp": "2019/09/06-16:12:43",
+            "id": "ezb1u5f",
+            "is_submitter": false,
+            "link_id": "t3_d0h5ek",
+            "parent_id": "t1_ezayw91",
+            "score": 1,
+            "stickied": false,
+            "author_name": "carribus"
+        },
+        "ezayw91": {
+            "comment": "Me too!",
+            "timeStamp": "2019/09/06-15:47:37",
+            "id": "ezayw91",
+            "is_submitter": false,
+            "link_id": "t3_d0h5ek",
+            "parent_id": "t1_ezad13l",
+            "score": 1,
+            "stickied": false,
+            "author_name": "n0manarmy"
+        },
+        "ezapeao": {
+            "comment": "I\u2019d like those links too, please.",
+            "timeStamp": "2019/09/06-14:29:00",
+            "id": "ezapeao",
+            "is_submitter": false,
+            "link_id": "t3_d0h5ek",
+            "parent_id": "t1_ezad13l",
+            "score": 1,
+            "stickied": false,
+            "author_name": "raulign"
+        },
+        "ezad13l": {
+            "comment": "Thank you! I will grab a few links and send you over the weekend (ping me if I forget :)",
+            "timeStamp": "2019/09/06-12:45:53",
+            "id": "ezad13l",
+            "is_submitter": true,
+            "link_id": "t3_d0h5ek",
+            "parent_id": "t1_ezacwy0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "guitmz"
+        },
+        "ezacwy0": {
+            "comment": "Looks like a great little writeup and blog too! I only had a skim read but i'll look at it properly later, bookmarked.\nI oughta find more little malware analysis blogs like yours, any suggestions?",
+            "timeStamp": "2019/09/06-12:44:46",
+            "id": "ezacwy0",
+            "is_submitter": false,
+            "link_id": "t3_d0h5ek",
+            "parent_id": "t1_ezaccvt",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Manifest122"
+        },
+        "ezaccvt": {
+            "comment": "\ud83d\ude04",
+            "timeStamp": "2019/09/06-12:39:33",
+            "id": "ezaccvt",
+            "is_submitter": true,
+            "link_id": "t3_d0h5ek",
+            "parent_id": "t1_ezacb4d",
+            "score": 1,
+            "stickied": false,
+            "author_name": "guitmz"
+        },
+        "ezacb4d": {
+            "comment": "Now there's a headline that grabs your attention",
+            "timeStamp": "2019/09/06-12:39:06",
+            "id": "ezacb4d",
+            "is_submitter": false,
+            "link_id": "t3_d0h5ek",
+            "parent_id": "t3_d0h5ek",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Manifest122"
+        }
+    }
+}

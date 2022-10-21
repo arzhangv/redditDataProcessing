@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "eBay has no plans to fix \u201csevere\u201d bug that allows malware distribution [Updated]",
+        "score": 21,
+        "id": "444ma1",
+        "commsNum": 2,
+        "timeStamp": "2016/02/04-01:46:46",
+        "author_name": "j4v",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://arstechnica.com/security/2016/02/ebay-has-no-plans-to-fix-severe-bug-that-allows-malware-distribution/"
+    },
+    "posts": {}
+}

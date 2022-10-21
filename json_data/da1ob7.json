@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Divergent: \"Fileless\" NodeJS Malware Burrows Deep Within the Host",
+        "score": 1,
+        "id": "da1ob7",
+        "commsNum": 0,
+        "timeStamp": "2019/09/27-08:03:20",
+        "author_name": "bishnumu",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://blog.talosintelligence.com/2019/09/divergent-analysis.html"
+    },
+    "posts": {}
+}

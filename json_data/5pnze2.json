@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "From a fake wallet to a JRAT",
+        "score": 15,
+        "id": "5pnze2",
+        "commsNum": 2,
+        "timeStamp": "2017/01/23-02:54:39",
+        "author_name": "alanforts",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://blog.malwarebytes.com/cybercrime/2017/01/from-a-fake-wallet-to-a-java-rat/"
+    },
+    "posts": {}
+}

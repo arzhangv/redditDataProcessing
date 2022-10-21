@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Patch This Vulnerability Now to Avoid WannaCry Style Malware Attack",
+        "score": 0,
+        "id": "c4ltvo",
+        "commsNum": 1,
+        "timeStamp": "2019/06/24-04:10:36",
+        "author_name": "arssal786",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.spamtitan.com/blog/patch-this-vulnerability-now-to-avoid-wannacry-style-malware-attack/"
+    },
+    "posts": {
+        "erxoud4": {
+            "comment": "CVE-2019-0708\n\nFor anyone else that just wants to know what it is.",
+            "timeStamp": "2019/06/24-08:27:51",
+            "id": "erxoud4",
+            "is_submitter": false,
+            "link_id": "t3_c4ltvo",
+            "parent_id": "t3_c4ltvo",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Hambushed"
+        }
+    }
+}

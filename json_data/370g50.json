@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "How one one start this? I know that in order to retrieve a dynamic analysis of potential malware one must throw the file at a sandbox and log the activity. \n\nIs using the [online version of Anubis](http://anubis.iseclab.org/) a good place to start?  \n\nOr will I need to run a sandbox locally? I tried QEMU for virtualization and Zero Wine for the environment + behavior logging....but the result was me having a ton of logs without knowing what they meant. \n\nEDIT: While I've discovered that malware behavioral analysis tools like Cuckoo will provide a log of system calls, I'm looking for a more complete picture given by a System Dependence Graph as shown here: http://www.domagoj-babic.com/index.php/ResearchProjects/MalwareAnalysis\n\nThe sample SDGs created in the link above were made with WUSSTrace, an application that I haven't been able to compile. The author also made Qtrace (a plugin from QEMU) but I've been having a difficult time getting that working as well. ",
+        "title": "Creating a System Dependence Graph (SDG) from dynamic analysis",
+        "score": 2,
+        "id": "370g50",
+        "commsNum": 3,
+        "timeStamp": "2015/05/23-11:35:05",
+        "author_name": "[deleted]",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/370g50/creating_a_system_dependence_graph_sdg_from/"
+    },
+    "posts": {}
+}

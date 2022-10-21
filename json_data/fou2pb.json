@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Is there any documents out there that compare the two, or at least how to go forward with one or the other?\n\nReverse engineering malware has a lot of definition now a days, but I want to understand how malware runs down to the CPU layer.",
+        "title": "Reverse Engineer Malware X86 vs ARM (Documentation)",
+        "score": 1,
+        "id": "fou2pb",
+        "commsNum": 1,
+        "timeStamp": "2020/03/25-10:14:26",
+        "author_name": "sloppynipsnyc",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/fou2pb/reverse_engineer_malware_x86_vs_arm_documentation/"
+    },
+    "posts": {
+        "fm1rayp": {
+            "comment": "[removed]",
+            "timeStamp": "2020/03/31-12:39:59",
+            "id": "fm1rayp",
+            "is_submitter": false,
+            "link_id": "t3_fou2pb",
+            "parent_id": "t3_fou2pb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Turned off MMS last night. I've seen this come through on my own phone, and another phone. Unknown number, sending a very small mms message. Both were within 10 minutes of each other, with the same sender.\n\nCould this be the stagefright vulnerability in the wild?\n\nAnyone seen any reports of this yet? I can't find any information about instances of stagefright attacks anywhere...\n\nThe messages don't show up on my carrier's message history which is also odd.\n\nApologies if this doesn't fit the subreddit... I'm not sure where to find info on this, and I can't find anything elsewhere online.\n\nEDIT: Figured out who this is. I know her. It was a group message.",
+        "title": "Stagefright in the wild? Any reports of this vulnerability exploited yet? Saw something very strange...",
+        "score": 28,
+        "id": "3f466m",
+        "commsNum": 2,
+        "timeStamp": "2015/07/29-20:14:00",
+        "author_name": "[deleted]",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/3f466m/stagefright_in_the_wild_any_reports_of_this/"
+    },
+    "posts": {}
+}

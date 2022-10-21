@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I know that APT stands for Advanced Persistent Threat, but I want to learn what is its relation to malware? Is APT a specific kind of malware, like trojan, worm, etc., or it is a set of attacks that range from malware to other things too?",
+        "title": "What is an APT?",
+        "score": 8,
+        "id": "41wpz2",
+        "commsNum": 22,
+        "timeStamp": "2016/01/20-14:22:20",
+        "author_name": "HighCode",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 22,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/41wpz2/what_is_an_apt/"
+    },
+    "posts": {}
+}

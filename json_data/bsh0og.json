@@ -1,0 +1,187 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "From Here:  [https://pastebin.com/p4jen38n](https://pastebin.com/p4jen38n) \n\n \n\n1. Mario Multiverse - Should you trust it?\n2. If you're reading this, you're likely a fan of Mario. You likely enjoy Super Mario Maker, or if not, it's fangame equivalents.\n3. There's many. Super Mario Remaker, Super Mario UniMaker, and so on. But one of them that rose to popularity recently is Mario Multiverse.\n4. Mario Multiverse, while in beta, has been promoted very much via the method of Youtube Videos. The game has spread quite a bit because of this.\n5. Despite being in a beta, it's quite impressive. A full level editor, many themes, assets, as well as a full online system for sharing Super Mario courses.\n6. You can obtain this impressive, expansive fangame, not through a website, not through a download link, but by sending an email.\n7. By sending an email, you probably won't acknowledge, but will benefit from the fact that you likely won't get a reply. It can be days, weeks, or longer until you get a response.\n8. But when you do, you won't get a download link, however, you WILL get a discord server invite.\n9. This discord server is the Gateway server, where you will insert the reason why you want to get into the game. The way it gets chosen is not by how well you can beta test, but if you want to get in. The game accepts anyone who applies, undetermined by whether you can actually test a product out. After the gateway server, you will get sent a link in Direct Messages (which means you will have to enable DMs for the server) to the main server, but your adventures are not done yet.\n10. The process to play the game is strange. For starters, you will need to go to a channel and write your country and timezone.\n11. Next, you'll need to go through a google form. It'll need your e-mail address, ask what method you came to the game, who told you or invited you to play the game, your real name, your discord name, your age, your country, the reason you want to become a beta tester, and what you'll do as beta tester.\n12. When you're done with this, you'll want to ask a moderator to check it, or the creator. After they check, you'll become a beta tester!\n13. Next, you can download the game! Hooray! A bit of work, huh? At least it's about to be all worth it.\n14. When you download the game and run it, insert your information, and you'll obtain a.. registration ticket and the game asks you for a code.\n15. Next step is to send the developer the ticket, and they'll give you a code. Insert the code, and the game will autoupdate and be functional.\n16. ...man, that was quite a bit\n17. If you're still reading, congratulations. Now it gets interesting.\n18. In rules, it's specified that you should \"not try to hack the game's memory by using external tools\", and \"the game will detect it and then you'll use your account.\"\n19. Huh?? You may be asking how this will make you lose your account. Well. The activation process ties into this. When you play the game, it gathers your Discord user data, caches it in an encrypted json file, and utilizes it to play the game. If the game cannot verify a discord account connection, it will utilize the cache.\n20. From the generated log file.\n21. 22:37:59\\]\\[ \\] =============================================================\n22. \\[22:37:59\\]\\[ \\] Hello!\n23. \\[22:37:59\\]\\[ \\] - Version = 5.8.0.3461\n24. \\[22:37:59\\]\\[ \\] - RootDir = C:\\\\Users\\\\&lt;REDACTED FOR PRIVACY&gt;\\\\Desktop\\\\Games\\\\Mario Multiverse\n25. \\[22:38:01\\]\\[ \\] Joystick enabled: false\n26. \\[22:38:03\\]\\[ \\] \\[00000\\]\\[Game\\] InitState: \\[7\\]Logo\n27. \\[22:39:06\\]\\[ \\] \\[Auth\\] Discord connection failed!\n28. \\[22:39:06\\]\\[ \\] \\[OldAuth\\] Get ticket.\n29. \\[22:39:07\\]\\[ \\] \\[OldAuth\\] Load user from cache.\n30. \\[22:39:07\\]\\[ \\] \\[OldAuth\\] User's permission: 1\n31. \\[22:39:07\\]\\[ \\] \\[OldAuth\\] Updating some user info.\n32. \\[22:39:07\\]\\[ \\] \\[OldAuth\\] Checking users cache.\n33. \\[22:39:07\\]\\[ \\] \\[OldAuth\\] Done.\n34. In addition, if you change your password, your discord token (pretty much the key to obtaining your discord account) will change. If this happens, Mario Multiverse will detect this.\n35. From the generated log file.\n36. \\[15:09:25\\]\\[E\\] \\[Auth\\] User ID mismatch! (Auth != Config) &lt;Auth=&lt;nope&gt;, Config=&gt;\\[15:09:25\\]\\[ \\] \\[00146\\]\\[Game\\] ChangeState: Logo -&gt; RegisterUser\n37. \\[15:09:25\\]\\[ \\] \\[00146\\]\\[Game\\] InitState: \\[16\\]RegisterUser\n38. \\[15:09:25\\]\\[ \\] \\[Register\\] Checking ticket\n39. \\[15:09:25\\]\\[ \\] \\[Register\\] Registering user (Updating permission) &lt;LoadedUid=, Ticket.Uid=&lt;nope&gt;&gt;\n40. \\[15:09:25\\]\\[ \\] \\[Register\\] (Case2) Updating permission\n41. \\[15:09:26\\]\\[ \\] \\[00187\\]\\[Game\\] ChangeState: RegisterUser -&gt; Logo\n42. \\[15:09:26\\]\\[ \\] \\[00187\\]\\[Game\\] InitState: \\[7\\]Logo\n43. But Wait! IT GETS WORSE!\n44. Imagine the setting. Power outage. Everything's black, you head for your laptop in the dark for some games for some entertainment until the lights return. \"Hmmm,\" You think. \"I think I'll play some Mario Multiverse!\" You load the game, and.. it doesn't work.\n45. DRM.\n46. If your discord account or internet is not available for whatever reason, Mario Multiverse will not function. It seems, somewhat understandable. After all, if someone just decided to leak the game, there's nothing stopping someone from just playing it, right? Well, not quite. That whole lengthy activation process? This was it's purpose. It requires your discord account to function properly. Not only that! It scans your entire Discord Server list, checking for Multiverse's server, and then it checks if you have the beta tester role. If you don't, the game won't function, because you're not authorized. This can be proven by looking at the first Mario Multiverse log file also known as the one you get when you download the game for the first time.\n47. From the generated log file.\n48. \\[00:38:19\\]\\[ \\] \\[Auth\\] Beta Tester confirmed.\n49. \\[00:38:20\\]\\[ \\] \\[Auth\\] Cannot find AuthInfo, checking ticket.\n50. When it says that Beta Tester is confirmed, that means that it has successfully found that you are in the server. But how so? It checked your discord client server listing. To add proof to this, the game didn't ask for your discord ID until later on in the process\n51. When it says that it cannot find AuthInfo, it means that it couldn't find the verification code.\n52. However, remember that about leaking? What if you DID leak the game? Well, let's just say, well, according to the creator, that they can \"find you.\" It's unclear if this means the creator will identify who you are by Discord account or real life location.\n53. It doesn't end at Discord data.\n54. What if you installed a program one day, and it randomly started attempting to write to system32? Weird, right? Wait, why am I mentioning this? put the pieces together, yes, Mario Multiverse's exe file did attempt this.\n55. https://media.discordapp.net/attachments/318573709948485632/567909548497567744/unknown.png\n56. In the creators' words,\n57. \"Game doesn't write file into your system directory\n58. it's supposed to write game folder.\n59. but with your privilige, some system API returned wrong path\".\n60. Not only this. Imagine if you closed a program, and it seemed to do so, but it lingered in the background, watching, but you found it in task manager? That also happened. (I would post proof, but the user was too freaked out and panicked and killed the process.)\n61. The game also scans folders, and will detect if one has been modified. Lets say you had all your stuff at C:\\\\Users\\\\MarioMultiverseUser\\\\Desktop\\\\MarioMultiverse\\\\minimal and you moved it all to C:\\\\Users\\\\MarioMultiverseUser\\\\organize\\\\MarioMultiverse. The game will detect that and give you the following error\n62. \\[18:01:44\\]\\[ \\] \\[!FIX!\\] Invalid filetime detected: C:\\\\Users\\\\MarioMultiverseUser\\\\Desktop\\\\MarioMultiverse\\\\minimal\\\\D3DX9\\_42.dll\n63. In addition, the creator states that in a newer version of the game, titled the \"minimal package\", that it will \"have more information about you\".\n64. The game also requires admin permissions to work properly, plus, despite gathering information, does not have a privacy policy.\n65. proof: https://cdn.discordapp.com/attachments/371531450182402081/581356433501585408/unknown.png\n66. Hey! Remember that encrypted json that stores user data? With the game pretty much gathering your discord token, IP address, discord server list, discord roles, and likely MUCH more personal data, it should be noted you won't be able to decrypt that json. It is encrypted in a format that only the creator, neoarc, knows how to decrypt. Which means that the game is obtaining your personal private data, encrypting it in an unknown format, and doing god know's what with it. And if Sonic Gather Battle is any example, there's nothing stopping neoarc from uploading it to a server and keeping it there, and using it for unknown purposes. (It should be noted neoarc DOES own a server for game courses, etc.)\n67. If you're still reading this, congratulations. I shouldn't have to tell you this, but please, DO NOT DOWNLOAD THIS GAME. As if all of this wasn't enough, I ask you for your own privacy to not download the game.\n68. Thank you for reading this.",
+        "title": "DO NOT DOWNLOAD MARIO MULTIVERSE!!!",
+        "score": 33,
+        "id": "bsh0og",
+        "commsNum": 15,
+        "timeStamp": "2019/05/24-06:36:21",
+        "author_name": "WowINeedVirusHalp",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 15,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/bsh0og/do_not_download_mario_multiverse/"
+    },
+    "posts": {
+        "es19otw": {
+            "comment": "**Why removed?**",
+            "timeStamp": "2019/06/25-12:48:20",
+            "id": "es19otw",
+            "is_submitter": false,
+            "link_id": "t3_bsh0og",
+            "parent_id": "t3_bsh0og",
+            "score": 1,
+            "stickied": false,
+            "author_name": "123igor321"
+        },
+        "eopthwp": {
+            "comment": "[deleted]",
+            "timeStamp": "2019/05/25-02:08:06",
+            "id": "eopthwp",
+            "is_submitter": false,
+            "link_id": "t3_bsh0og",
+            "parent_id": "t3_bsh0og",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "eopks2m": {
+            "comment": "Sounds like the creator of Mario Multiverse is deliberately writing malicious code without advising the user, a crime punishable under cyber law in most countries.",
+            "timeStamp": "2019/05/24-23:54:01",
+            "id": "eopks2m",
+            "is_submitter": false,
+            "link_id": "t3_bsh0og",
+            "parent_id": "t3_bsh0og",
+            "score": -1,
+            "stickied": false,
+            "author_name": "kirashi3"
+        },
+        "eoo8cf9": {
+            "comment": "pretty easy to null-route this one, just report to nintendo :)\n\nand as much as I am in for exposing malware, this does not seem like malware, just bad practice in development.",
+            "timeStamp": "2019/05/24-14:07:27",
+            "id": "eoo8cf9",
+            "is_submitter": false,
+            "link_id": "t3_bsh0og",
+            "parent_id": "t3_bsh0og",
+            "score": 6,
+            "stickied": false,
+            "author_name": "tandulim"
+        },
+        "eonrv2i": {
+            "comment": "Or it brute forces part of the key on startup. It's anti reverse engineering technique.\n\nJust a technical nitpicking, in most cases you're correct.",
+            "timeStamp": "2019/05/24-10:46:46",
+            "id": "eonrv2i",
+            "is_submitter": false,
+            "link_id": "t3_bsh0og",
+            "parent_id": "t1_eonh9oy",
+            "score": 3,
+            "stickied": false,
+            "author_name": "NotAFinnishLawyer"
+        },
+        "eonrp9r": {
+            "comment": "I mean this is a sub for analysing malware, of course we will download it.",
+            "timeStamp": "2019/05/24-10:44:51",
+            "id": "eonrp9r",
+            "is_submitter": false,
+            "link_id": "t3_bsh0og",
+            "parent_id": "t3_bsh0og",
+            "score": 6,
+            "stickied": false,
+            "author_name": "NotAFinnishLawyer"
+        },
+        "eonkozq": {
+            "comment": "Ah, it's all good. Yeah, if that were the case, it'd definitely be a much trickier situation.",
+            "timeStamp": "2019/05/24-09:21:36",
+            "id": "eonkozq",
+            "is_submitter": false,
+            "link_id": "t3_bsh0og",
+            "parent_id": "t1_eonj7qe",
+            "score": 3,
+            "stickied": false,
+            "author_name": "k_x90"
+        },
+        "eonj7qe": {
+            "comment": "Sorry, you're right. I mis-read the OP. I didn't realise that this data was used again by the game client, I just thought that it was being sent off to the developer.",
+            "timeStamp": "2019/05/24-09:04:09",
+            "id": "eonj7qe",
+            "is_submitter": false,
+            "link_id": "t3_bsh0og",
+            "parent_id": "t1_eonh9oy",
+            "score": 4,
+            "stickied": false,
+            "author_name": "asymptotically508"
+        },
+        "eonh9oy": {
+            "comment": "I'm aware that public key cryptography exists and have used it fairly extensively. If the program is decrypting the data *locally*, then obviously the decryption key is local. This is true for aes, chacha, rsa, salsa, you name it.",
+            "timeStamp": "2019/05/24-08:41:19",
+            "id": "eonh9oy",
+            "is_submitter": false,
+            "link_id": "t3_bsh0og",
+            "parent_id": "t1_eonfsj9",
+            "score": 13,
+            "stickied": false,
+            "author_name": "k_x90"
+        },
+        "eonfsj9": {
+            "comment": "&gt; Except that it fetches that info locally, without a network connection. Which means the key must be local, alongside the decryption code. \n\n[Public-key cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography)",
+            "timeStamp": "2019/05/24-08:24:01",
+            "id": "eonfsj9",
+            "is_submitter": false,
+            "link_id": "t3_bsh0og",
+            "parent_id": "t1_eondl74",
+            "score": 0,
+            "stickied": false,
+            "author_name": "asymptotically508"
+        },
+        "eonehf9": {
+            "comment": "The way this is written out is slightly confusing, but anyways thanks for the heads up I guess.",
+            "timeStamp": "2019/05/24-08:08:34",
+            "id": "eonehf9",
+            "is_submitter": false,
+            "link_id": "t3_bsh0og",
+            "parent_id": "t3_bsh0og",
+            "score": 7,
+            "stickied": false,
+            "author_name": "jether-"
+        },
+        "eondl74": {
+            "comment": "&gt; it should be noted you won't be able to decrypt that json. It is encrypted in a format that only the creator, neoarc, knows how to decrypt.\n\nExcept that it fetches that info locally, without a network connection. Which means the key must be local, alongside the decryption code. Also, if handrolled cryptography tends to be absolutely fucking abysmal, so if he actually did roll his own crypto, someone competent at crypto attacks could probably break it without even needing the local key.\n\nIt sounds like they've implemented rudimentary anti dynamic analysis measures, but those can be circumvented by detecting the code that causes the negative condition and then doing a binary patch to skip those instructions. Anti dynamic analysis measures also don't do anything against static analysis.\n\nAll in all, I have a feeling that the devs didn't actually protect their shit as well as they think they did. I probably won't download it in order to poke it because I have other stuff to work on though.",
+            "timeStamp": "2019/05/24-07:57:49",
+            "id": "eondl74",
+            "is_submitter": false,
+            "link_id": "t3_bsh0og",
+            "parent_id": "t3_bsh0og",
+            "score": 29,
+            "stickied": false,
+            "author_name": "k_x90"
+        },
+        "eoncrmk": {
+            "comment": "So it\u2019s not malware and it contains a bunch of ways to detect modification. Not seeing an issue here. Play it in a vm with no personal data using a burner email address.",
+            "timeStamp": "2019/05/24-07:48:46",
+            "id": "eoncrmk",
+            "is_submitter": false,
+            "link_id": "t3_bsh0og",
+            "parent_id": "t3_bsh0og",
+            "score": 7,
+            "stickied": false,
+            "author_name": "sephstorm"
+        },
+        "eon7wfg": {
+            "comment": "Really well done, good on you for exposing this scam of a game.",
+            "timeStamp": "2019/05/24-06:59:05",
+            "id": "eon7wfg",
+            "is_submitter": false,
+            "link_id": "t3_bsh0og",
+            "parent_id": "t3_bsh0og",
+            "score": 1,
+            "stickied": false,
+            "author_name": "WitchyDragon"
+        },
+        "eon7sjs": {
+            "comment": "Well of course I'm gonna download it now...",
+            "timeStamp": "2019/05/24-06:58:01",
+            "id": "eon7sjs",
+            "is_submitter": false,
+            "link_id": "t3_bsh0og",
+            "parent_id": "t3_bsh0og",
+            "score": 9,
+            "stickied": false,
+            "author_name": "Hateblade"
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Outbyte PC Repair - another scareware detects NordVPN as a virus lol",
+        "score": 1,
+        "id": "hoot95",
+        "commsNum": 2,
+        "timeStamp": "2020/07/10-06:20:08",
+        "author_name": "Neepx",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.youtube.com/watch?v=oV3UScMigGo"
+    },
+    "posts": {
+        "fy51kr0": {
+            "comment": "[removed]",
+            "timeStamp": "2020/07/15-05:59:32",
+            "id": "fy51kr0",
+            "is_submitter": false,
+            "link_id": "t3_hoot95",
+            "parent_id": "t3_hoot95",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fxkaiiz": {
+            "comment": "Well since Nord is owned by tesonet I'd say that the AV was correct in detecting it as a PuP",
+            "timeStamp": "2020/07/10-12:44:16",
+            "id": "fxkaiiz",
+            "is_submitter": false,
+            "link_id": "t3_hoot95",
+            "parent_id": "t3_hoot95",
+            "score": 1,
+            "stickied": false,
+            "author_name": "kokiprik"
+        }
+    }
+}

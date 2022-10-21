@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[https://securityaffairs.co/wordpress/78920/hacking/magellan-rce-flaw-in-sqlite-potentially-affects-billions-of-apps.html](https://securityaffairs.co/wordpress/78920/hacking/magellan-rce-flaw-in-sqlite-potentially-affects-billions-of-apps.html)",
+        "title": "Magellan RCE flaw in SQLite potentially affects billions of apps",
+        "score": 1,
+        "id": "a6ffex",
+        "commsNum": 0,
+        "timeStamp": "2018/12/15-06:06:24",
+        "author_name": "vickiearse",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/a6ffex/magellan_rce_flaw_in_sqlite_potentially_affects/"
+    },
+    "posts": {}
+}

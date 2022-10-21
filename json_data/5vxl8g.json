@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi all,\n\nI recently came across an attachment sample that ended up being a credential harvesting type web page in html format. Nothing interesting/special about what it does but I am interested in how it was encoded. The page source was obfuscated and the first layer can be revealed via JavaScript unescape and eval. It reveals a function that shows how it decodes the second layer of obfuscation. The function is as below:\n\nfunction s8ca722db(s) {\n\tvar r = \"\";\n\tvar tmp = s.split(\"10340045\");\n\ts = unescape(tmp[0]);\n\tk = unescape(tmp[1] + \"679204\");\n\tfor( var i = 0; i &lt; s.length; i++) {\n\t\tr += String.fromCharCode((parseInt(k.charAt(i%k.length))^s.charCodeAt(i))+9);\n\t}\n\treturn r;\n}\n\nDoing a bit of research, I was able to figure out the key to be 7500912679204. Using the key, I was able to manually reveal the obfuscated text. For example, a snippet of the obfuscated page in hex was converted to ASCII as shown below:\n\n%34%1d%3b%46%33%4a%52 in hex was converted to  &lt;!DOCTY in ASCII\n\nI'm not a particularly strong scripter so I was hoping to get a few pointers to developing something that would iterate automatically through the entire page. Any helpful comments would be appreciated!\n\nEdit 1: Corrected Hex to Ascii conversion \n\n",
+        "title": "Reversing multibyte XOR obfuscation with known key?",
+        "score": 7,
+        "id": "5vxl8g",
+        "commsNum": 5,
+        "timeStamp": "2017/02/24-06:02:45",
+        "author_name": "o_dub9",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5vxl8g/reversing_multibyte_xor_obfuscation_with_known_key/"
+    },
+    "posts": {}
+}

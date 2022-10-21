@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Researchers spotted a new malware in the wild, the Saturn Ransomware",
+        "score": 1,
+        "id": "7y5m7l",
+        "commsNum": 0,
+        "timeStamp": "2018/02/17-00:51:59",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/69183/malware/saturn-ransomware.html"
+    },
+    "posts": {}
+}

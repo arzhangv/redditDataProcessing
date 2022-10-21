@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Report: Malware which infects Microsoft edge (other browsers possibly) , only visible symptom is Microsoft edge suddenly stops responding to inputs (like when you have a pop up ad) , and specific videos are being watched on you tube by someone else.\n\n&amp;#x200B;\n\nIt still is happening , main videos its watching are crypto shills and k-pop ....",
+        "title": "Report: Malware which infects Microsoft edge (other browsers possibly) , only visible symptom is Microsoft edge suddenly stops responding to inputs (like when you have a pop up ad) , and specific videos are being watched on you tube by someone else.",
+        "score": 1,
+        "id": "wbuduq",
+        "commsNum": 0,
+        "timeStamp": "2022/07/30-03:25:48",
+        "author_name": "Totallynotshaft",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/wbuduq/report_malware_which_infects_microsoft_edge_other/"
+    },
+    "posts": {
+        "ijl2qr3": {
+            "comment": "I purged my device and it stopped temporarily but it happening again.\n\nMeant my password was shared already .\n\nPurged device changed password and use 2fa. Solved.",
+            "timeStamp": "2022/08/09-07:40:05",
+            "id": "ijl2qr3",
+            "is_submitter": true,
+            "link_id": "t3_wbuduq",
+            "parent_id": "t1_ijktdh9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Totallynotshaft"
+        },
+        "ijktdh9": {
+            "comment": "Did you find the malware? What was it named? What evidence other than those two symptoms did you identify?",
+            "timeStamp": "2022/08/09-06:35:11",
+            "id": "ijktdh9",
+            "is_submitter": false,
+            "link_id": "t3_wbuduq",
+            "parent_id": "t3_wbuduq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "PapaSyntax"
+        },
+        "iia5m37": {
+            "comment": "It began 2 weeks ago and took me till now to notice it, I most likely had my password given to someone and my account added to a bot farm",
+            "timeStamp": "2022/07/30-10:46:41",
+            "id": "iia5m37",
+            "is_submitter": true,
+            "link_id": "t3_wbuduq",
+            "parent_id": "t1_iia1i50",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Totallynotshaft"
+        },
+        "iia1i50": {
+            "comment": "Hey do you have an article on this? Or more information on this?",
+            "timeStamp": "2022/07/30-10:16:35",
+            "id": "iia1i50",
+            "is_submitter": false,
+            "link_id": "t3_wbuduq",
+            "parent_id": "t3_wbuduq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "dkayem"
+        }
+    }
+}

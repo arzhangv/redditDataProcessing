@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "So I got an email from the guy at the agency that did my tenant reference a few months ago, however the email was not very personal (started with hey, as opposed to the previous friendlier emails) and contained a PDF called 'new doc 1-11-2017.pdf), so I got suspicious. \n\nAbout an hour later when I got home, I run the pdf through some online scanners (https://www.hybrid-analysis.com/sample/f925ddcfc1d3aad24b68eddc6c282b3f391087eacd205be31b266d5914e1ddb4?environmentId=100), got a bit.ly url, and managed to track it down to this scammy looking domain : hxxp://gbv.com.co. The site's DNS records looks like they are hosted by hxxp://websitewelcome.com, which according to google is a bit dodgy.\n\nAfter WGET'ing some pages from the site and reading through the JS, the site doesn't looks like some EK delivery, just a simple phishing place that's not trying very hard either.\n\nI've sent the guy who sent me the email an email telling him to verify the previous email (will also call tomorrow), but what else can I do so that the phishing site can die a horrible death?\n\nCheers!",
+        "title": "I think I found a phishing site, but unsure how to proceed.",
+        "score": 1,
+        "id": "639ny3",
+        "commsNum": 2,
+        "timeStamp": "2017/04/03-14:18:27",
+        "author_name": "diosio",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/639ny3/i_think_i_found_a_phishing_site_but_unsure_how_to/"
+    },
+    "posts": {}
+}

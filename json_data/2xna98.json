@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Well, tonight I was quickly looking for a winders cd ripping app and downloaded one from the past from sourceforge.\n\nExecuting the installer popped up a VERY ODD question as to express or custom and recalling elsewhere that sourceforge is now malware central, I clicked on custom only to be presented with c. 6 or so more similar queries ALL of which hid their malware behind express installs.\n\nNow, I haven't vetted whether or not the install honored my choice of custom and opting out of malware infection, I happen to have a handily recently purchase new SSD on which I FULLY intend to perform the EXTREMELY PAINFUL process of installing a FRESH copy of the malware that is Windows to begin with and then \"repair\" my linux install.\n\nHilarious item is that the first piece of malware wanted to hmmm.... change my search engine to the useless POS that bing is...\n\nObviously this is not news, but FFS this shit has GOT TO STOP! OR at least they need to put the malware behind the custom install instead of peppering you with express, well assuming that they didn't just go ahead and install other malware that they never asked about or ignored the \"custom\" settings for which would HARDLY surprise me...",
+        "title": "sourceforge malware central",
+        "score": 0,
+        "id": "2xna98",
+        "commsNum": 1,
+        "timeStamp": "2015/03/01-22:48:17",
+        "author_name": "cutterjohn42",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2xna98/sourceforge_malware_central/"
+    },
+    "posts": {}
+}

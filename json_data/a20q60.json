@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi I know this sub is not for malware removal but honestly I think this is a bit too advanced for a sub like /r/techsupport.\n\nI'll try to keep it short.\n\nI dumped my firmware on my Macbook with Darwin Dumper and uploaded the .rom [file](https://www.virustotal.com/en/file/186e26e7dda1c20a98d3473a6e3ebbfb7fc09153a47154075eceb85045ee6def/analysis/) to Virus Total and it says there are many bad PE32 images (File detail tab).\n\nThe weirdest thing is that 3 days ago a [file](https://www.virustotal.com/en/file/9ae8ae668cbd3bd8de5d851cd13ded7f64be24d227a2e5b68d08c2fc8ae70e2f/analysis/) with identical finding was uploaded there. Same Macbook model, ROM, EFI version, ROM Bios files names and warnings.\n\n\nCan someone explain to me what do these findings even mean?  I'm also really worried about the identical file a few days ago, aren't firmware dumps unique for each system? Or same model machines have same firmware dumps i.e. all MB Pros Mid-2012 will have the same dump?\n\n\nThanks!",
+        "title": "Potential UEFI malware",
+        "score": 1,
+        "id": "a20q60",
+        "commsNum": 0,
+        "timeStamp": "2018/11/30-22:27:21",
+        "author_name": "curiousscared",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/a20q60/potential_uefi_malware/"
+    },
+    "posts": {}
+}

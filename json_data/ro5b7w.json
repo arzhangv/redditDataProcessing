@@ -1,0 +1,242 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I have some malware samples that drop some files and delete them afterwards, but they do it in some sneaky ways which sometimes just debugging them and setting bps takes too long to find all the dropped files.\n\nSo is there any analysis tool that basically scans the system during a period of time and saves every single dropped file, no matter who wrote/dropped it?",
+        "title": "Analysis tool that saves every dropped file during a period of time",
+        "score": 1,
+        "id": "ro5b7w",
+        "commsNum": 0,
+        "timeStamp": "2021/12/24-23:50:09",
+        "author_name": "Ro0o0otkit",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ro5b7w/analysis_tool_that_saves_every_dropped_file/"
+    },
+    "posts": {
+        "hrer8fb": {
+            "comment": "[removed]",
+            "timeStamp": "2022/01/05-13:50:16",
+            "id": "hrer8fb",
+            "is_submitter": false,
+            "link_id": "t3_ro5b7w",
+            "parent_id": "t3_ro5b7w",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hr41r6o": {
+            "comment": "Cool, thanks again for following up on this.  No hurry.",
+            "timeStamp": "2022/01/03-11:37:13",
+            "id": "hr41r6o",
+            "is_submitter": false,
+            "link_id": "t3_ro5b7w",
+            "parent_id": "t1_hr2w97c",
+            "score": 1,
+            "stickied": false,
+            "author_name": "crimpshrine"
+        },
+        "hr2w97c": {
+            "comment": "Yes it is very handy! I think it may be coupled with SysAnalyzer cause everything I see has them together, give me a few hours to finish at work and i'll ask to find it for you!\n\nYoure welcome! If you have any other questions let me know",
+            "timeStamp": "2022/01/03-07:13:25",
+            "id": "hr2w97c",
+            "is_submitter": false,
+            "link_id": "t3_ro5b7w",
+            "parent_id": "t1_hr2t5mj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Tyyphoon9"
+        },
+        "hr2t5mj": {
+            "comment": "Oh really? That sounds handy, please let me know what you find.  Thank you very much!",
+            "timeStamp": "2022/01/03-06:50:11",
+            "id": "hr2t5mj",
+            "is_submitter": false,
+            "link_id": "t3_ro5b7w",
+            "parent_id": "t1_hr2nrq8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "crimpshrine"
+        },
+        "hr2nrq8": {
+            "comment": "Yes I was always aware it was in that suite but maybe it isn't!\n\nLet me ask my work colleagues and get back to you how about that? \n\nI personally prefer DirWatch over CaptureBAT. \nDirWatch runs in real time and can save files created, even if they are created and deleted 0.1 seconds later. It also shows whether the file is created, modified or deleted. \n\nAlso if you get a Flare VM it will have it contained in it as I was told",
+            "timeStamp": "2022/01/03-06:07:11",
+            "id": "hr2nrq8",
+            "is_submitter": false,
+            "link_id": "t3_ro5b7w",
+            "parent_id": "t1_hr1b706",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Tyyphoon9"
+        },
+        "hr1b706": {
+            "comment": "Thanks, is this the SysAnalyzer you are referring to? http://sandsprite.com/iDef/SysAnalyzer/\n\nIf so, the source is here: https://github.com/dzzie/SysAnalyzer/\n\nAnd I don't see anything within this called Dirwatch.\n\nWhen you said SysAnalyzer Suite of tools, is there some website that has that coupled with this dirwatch?\n\nI also found this: http://sandsprite.com/tools.php?id=13  Which does not even seem to list Dirwatch.\n\nI was just interested in seeing how it works compared to captureBAT.\n\nThanks",
+            "timeStamp": "2022/01/02-21:03:04",
+            "id": "hr1b706",
+            "is_submitter": false,
+            "link_id": "t3_ro5b7w",
+            "parent_id": "t1_hqzy3t1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "crimpshrine"
+        },
+        "hqzy3t1": {
+            "comment": "Anytime man. \n\nShould be the one in SysAnalyzer Suite of Tools, what specifically are you looking for in regards to the different programs?",
+            "timeStamp": "2022/01/02-15:12:37",
+            "id": "hqzy3t1",
+            "is_submitter": false,
+            "link_id": "t3_ro5b7w",
+            "parent_id": "t1_hqzxpdd",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Tyyphoon9"
+        },
+        "hqzxpdd": {
+            "comment": "&gt; Dirwatch\n\nCan you link to which Dirwatch you are referring to? Looks like there are a few different programs named this.\n\nThanks",
+            "timeStamp": "2022/01/02-15:09:57",
+            "id": "hqzxpdd",
+            "is_submitter": false,
+            "link_id": "t3_ro5b7w",
+            "parent_id": "t1_hpz4msm",
+            "score": 1,
+            "stickied": false,
+            "author_name": "crimpshrine"
+        },
+        "hqffp9n": {
+            "comment": "[removed]",
+            "timeStamp": "2021/12/29-08:53:49",
+            "id": "hqffp9n",
+            "is_submitter": false,
+            "link_id": "t3_ro5b7w",
+            "parent_id": "t1_hpx9pnx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hq6en5d": {
+            "comment": "Nope. That's outside its remit. It's just a before-and-after comparator that lets you know of system changes. What you do with that knowledge is up to you.",
+            "timeStamp": "2021/12/27-10:50:53",
+            "id": "hq6en5d",
+            "is_submitter": false,
+            "link_id": "t3_ro5b7w",
+            "parent_id": "t1_hq4qg0a",
+            "score": 1,
+            "stickied": false,
+            "author_name": "nspectre"
+        },
+        "hq4qg0a": {
+            "comment": "But regshot cannot save the dropped and deleted files tho, right?",
+            "timeStamp": "2021/12/27-01:55:37",
+            "id": "hq4qg0a",
+            "is_submitter": true,
+            "link_id": "t3_ro5b7w",
+            "parent_id": "t1_hpyw6e7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Ro0o0otkit"
+        },
+        "hpz4msm": {
+            "comment": "CaptureBAT or Dirwatch",
+            "timeStamp": "2021/12/25-17:10:27",
+            "id": "hpz4msm",
+            "is_submitter": false,
+            "link_id": "t3_ro5b7w",
+            "parent_id": "t3_ro5b7w",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Tyyphoon9"
+        },
+        "hpyxxcx": {
+            "comment": "FileGrab https://sourceforge.net/projects/filegrab/",
+            "timeStamp": "2021/12/25-16:13:15",
+            "id": "hpyxxcx",
+            "is_submitter": false,
+            "link_id": "t3_ro5b7w",
+            "parent_id": "t3_ro5b7w",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ftabr"
+        },
+        "hpyw6e7": {
+            "comment": "For Windows, I have long loved Regshot.\n\nIt takes a snapshot of your file system and the Windows Registry, then stops and waits for you to do whatever it is you want to do, then it takes another snapshot and compares them.\n\nIt then shows you all of the files and directories and Windows keys that have been created, changed and deleted.\n\nAn oldie but still a goody.",
+            "timeStamp": "2021/12/25-15:58:18",
+            "id": "hpyw6e7",
+            "is_submitter": false,
+            "link_id": "t3_ro5b7w",
+            "parent_id": "t3_ro5b7w",
+            "score": 1,
+            "stickied": false,
+            "author_name": "nspectre"
+        },
+        "hpyktye": {
+            "comment": "Also I dont believe CaptureBAT works in 64bit VM's.....I think a similar tool in a 64 bit VM would be CapturePY",
+            "timeStamp": "2021/12/25-14:22:37",
+            "id": "hpyktye",
+            "is_submitter": false,
+            "link_id": "t3_ro5b7w",
+            "parent_id": "t1_hpxwpea",
+            "score": 1,
+            "stickied": false,
+            "author_name": "naptown21403"
+        },
+        "hpxy90e": {
+            "comment": "No, i usually run procmon and capturebat at the same time.",
+            "timeStamp": "2021/12/25-11:11:25",
+            "id": "hpxy90e",
+            "is_submitter": false,
+            "link_id": "t3_ro5b7w",
+            "parent_id": "t1_hpxwpea",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TParis00ap"
+        },
+        "hpxwpea": {
+            "comment": "&gt;Wait so ProcMon also saves deleted files? I had no idea, how can i get them?",
+            "timeStamp": "2021/12/25-10:58:33",
+            "id": "hpxwpea",
+            "is_submitter": true,
+            "link_id": "t3_ro5b7w",
+            "parent_id": "t1_hpx2og4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Ro0o0otkit"
+        },
+        "hpx9pnx": {
+            "comment": "If your system is too new for CaptureBAT to work (I think it kinda doesn\u2019t work great on newer OSes), look into CapturePy.",
+            "timeStamp": "2021/12/25-07:35:14",
+            "id": "hpx9pnx",
+            "is_submitter": false,
+            "link_id": "t3_ro5b7w",
+            "parent_id": "t3_ro5b7w",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ldjarmin"
+        },
+        "hpx2og4": {
+            "comment": "100% for basic dynamic analysis.   Make sure to run everything on a vm.",
+            "timeStamp": "2021/12/25-06:24:15",
+            "id": "hpx2og4",
+            "is_submitter": false,
+            "link_id": "t3_ro5b7w",
+            "parent_id": "t1_hpwcm02",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TParis00ap"
+        },
+        "hpwcm02": {
+            "comment": "CaptureBAT",
+            "timeStamp": "2021/12/25-00:05:23",
+            "id": "hpwcm02",
+            "is_submitter": false,
+            "link_id": "t3_ro5b7w",
+            "parent_id": "t3_ro5b7w",
+            "score": 1,
+            "stickied": false,
+            "author_name": "naptown21403"
+        }
+    }
+}

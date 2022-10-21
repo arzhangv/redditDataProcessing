@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Now VirusTotal can scan your firmware image for bad executables",
+        "score": 1,
+        "id": "43ifcx",
+        "commsNum": 0,
+        "timeStamp": "2016/01/31-00:52:32",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/44097/malware/virustotal-firmware-scan.html"
+    },
+    "posts": {}
+}

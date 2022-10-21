@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "[Blog] DLL Fixer leads to Cyrat Ransomware",
+        "score": 1,
+        "id": "ikk3ay",
+        "commsNum": 1,
+        "timeStamp": "2020/09/01-06:18:42",
+        "author_name": "Struppigel",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.gdatasoftware.com/blog/cyrat-ransomware"
+    },
+    "posts": {
+        "g3mmxug": {
+            "comment": "[removed]",
+            "timeStamp": "2020/09/01-12:15:29",
+            "id": "g3mmxug",
+            "is_submitter": false,
+            "link_id": "t3_ikk3ay",
+            "parent_id": "t3_ikk3ay",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

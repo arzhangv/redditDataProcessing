@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Official public release of Malware Analysis by RPISEC",
+        "score": 36,
+        "id": "4194ro",
+        "commsNum": 2,
+        "timeStamp": "2016/01/16-08:46:53",
+        "author_name": "Aidielse",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://github.com/RPISEC/Malware"
+    },
+    "posts": {}
+}

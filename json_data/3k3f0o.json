@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Attacking Diffie-Hellman protocol implementation in the Angler Exploit Kit",
+        "score": 14,
+        "id": "3k3f0o",
+        "commsNum": 0,
+        "timeStamp": "2015/09/08-06:58:23",
+        "author_name": "K1llAllHumans",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://securelist.com/blog/research/72097/attacking-diffie-hellman-protocol-implementation-in-the-angler-exploit-kit/"
+    },
+    "posts": {}
+}

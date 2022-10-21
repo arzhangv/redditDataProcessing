@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Generating ClamAV Signatures with IDAPython and MySQL",
+        "score": 17,
+        "id": "1xqf6h",
+        "commsNum": 1,
+        "timeStamp": "2014/02/12-11:42:06",
+        "author_name": "__GG",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://blog.clamav.net/2014/02/generating-clamav-signatures-with.html"
+    },
+    "posts": {}
+}

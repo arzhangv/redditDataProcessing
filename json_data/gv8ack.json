@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "In-depth analysis of the new Team9 malware family",
+        "score": 2,
+        "id": "gv8ack",
+        "commsNum": 1,
+        "timeStamp": "2020/06/02-07:26:58",
+        "author_name": "digicat",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://research.nccgroup.com/2020/06/02/in-depth-analysis-of-the-new-team9-malware-family/"
+    },
+    "posts": {
+        "fsps424": {
+            "comment": "Lol it only process hollows if it\u2019s 32 bit?",
+            "timeStamp": "2020/06/02-22:01:22",
+            "id": "fsps424",
+            "is_submitter": false,
+            "link_id": "t3_gv8ack",
+            "parent_id": "t3_gv8ack",
+            "score": 1,
+            "stickied": false,
+            "author_name": "FCVAR_CLIENTDLL"
+        }
+    }
+}

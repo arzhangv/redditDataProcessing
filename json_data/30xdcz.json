@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Dyre/Dyreza: An Analysis to Discover the DGA",
+        "score": 11,
+        "id": "30xdcz",
+        "commsNum": 0,
+        "timeStamp": "2015/03/31-07:06:07",
+        "author_name": "craiwill",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://blogs.cisco.com/talos/threat-spotlight-dyre"
+    },
+    "posts": {}
+}

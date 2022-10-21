@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Detecting malware with 57 antivirus engines at once - ProcessExplorer and Autoruns integrate with VirusTotal",
+        "score": 1,
+        "id": "2wsdou",
+        "commsNum": 0,
+        "timeStamp": "2015/02/22-11:37:37",
+        "author_name": "SecDef",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.infoworld.com/article/2883958/antimalware/how-to-detect-malware-infection-in-9-easy-steps.html"
+    },
+    "posts": {}
+}

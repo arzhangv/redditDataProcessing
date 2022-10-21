@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Why malware like the Samsam ransomware are so dangerous for hospitals?",
+        "score": 1,
+        "id": "4db9eh",
+        "commsNum": 0,
+        "timeStamp": "2016/04/04-07:20:53",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/45974/malware/samsam-ransomware.html"
+    },
+    "posts": {}
+}

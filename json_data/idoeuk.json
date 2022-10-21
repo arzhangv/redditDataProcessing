@@ -1,0 +1,99 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hello I am interested in learning how modern malware is created and what techniques the authors use for persistence, to remain hidden/undetected etc but I am having a hard time finding the resources to learn. If you could share any related resources, that would be appreciated.",
+        "title": "Learning Resources",
+        "score": 1,
+        "id": "idoeuk",
+        "commsNum": 7,
+        "timeStamp": "2020/08/20-19:34:59",
+        "author_name": "Thelordputin12",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/idoeuk/learning_resources/"
+    },
+    "posts": {
+        "g2dduqx": {
+            "comment": "I cannot stress how good [Learning Malware Analysis](https://www.amazon.co.uk/Learning-Malware-Analysis-techniques-investigate-ebook/dp/B073D49Q6W) by Monappa and [Practical Malware Analysis](https://www.amazon.co.uk/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901) by Honig and Sikorski were as resources when I began learning about Malware Analysis. They provide a comprehensive and ground-up perspective on the topic, outlining the setting up of a secure analysis environment as well as basic and advanced static/ dynamic analysis techniques.\n\nFor getting samples, you'll have to do some digging for the hashes of the samples you want (if there are any in particular). Some great resources are [theZoo](https://github.com/ytisf/theZoo), [Hybrid Analysis](https://www.hybrid-analysis.com/) and [VirusShare](https://virusshare.com/) (the latter two require a brief vetting process).\n \nA brief warning however, _do not_ undergo analysis without first securing your environment. Even if your it is 100% static, there are risks that could have some pretty serious consequences (i.e. the 'Oh Sh*t Double Click').",
+            "timeStamp": "2020/08/21-14:56:52",
+            "id": "g2dduqx",
+            "is_submitter": false,
+            "link_id": "t3_idoeuk",
+            "parent_id": "t3_idoeuk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Fizzcarzi"
+        },
+        "g2bispk": {
+            "comment": "To add on to what others said, I would recommend checking out the Zoo. It's a collection of live malware that may help you study modern malware.\n\n[https://github.com/ytisf/theZoo](https://github.com/ytisf/theZoo)",
+            "timeStamp": "2020/08/21-05:42:36",
+            "id": "g2bispk",
+            "is_submitter": false,
+            "link_id": "t3_idoeuk",
+            "parent_id": "t3_idoeuk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Fluffyeater09"
+        },
+        "g2b44sq": {
+            "comment": "You can find some interesting papers here:  [https://vxug.fakedoma.in/index.html](https://vxug.fakedoma.in/index.html)",
+            "timeStamp": "2020/08/21-01:55:41",
+            "id": "g2b44sq",
+            "is_submitter": false,
+            "link_id": "t3_idoeuk",
+            "parent_id": "t3_idoeuk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "blinhond"
+        },
+        "g2atshv": {
+            "comment": "Malware analysis for hedgehogs on YouTube.",
+            "timeStamp": "2020/08/20-23:04:09",
+            "id": "g2atshv",
+            "is_submitter": false,
+            "link_id": "t3_idoeuk",
+            "parent_id": "t3_idoeuk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Kryptomeister"
+        },
+        "g2aoms9": {
+            "comment": "Most of the No Starch Press books are amazing.",
+            "timeStamp": "2020/08/20-21:55:30",
+            "id": "g2aoms9",
+            "is_submitter": false,
+            "link_id": "t3_idoeuk",
+            "parent_id": "t1_g2an2h0",
+            "score": 3,
+            "stickied": false,
+            "author_name": "WadeEffingWilson"
+        },
+        "g2anvp5": {
+            "comment": "Are you looking to understand how various types of malware can achieve those goals or are you wanting a how-to guide for implementation?\n\nFor the former, there are sites like VirusTotal and Hybrid-Analysis that host samples and dynamic analysis reports along with MITRE ATT&amp;CK designators for known tactics, techniques, and procedures. There are also countless malware repos on GitHub and, if you'd like the challenge, you could even trawl the waters of PasteBin to analyze (a bit tricky for beginners as it usually requires deobfuscation and static analysis). If you deal with any malicious code, you need to understand the potential risks if you mishandle it--sometimes an errant double click or Enter is all it takes to get yourself compromised.\n\nIf you're wanting the latter, you probably need to look elsewhere, as this sub is for malware analysis and discussions, not for hosting, advertising, trading, or solicitations.\n\nIn a broad sense, there's no absolute detection avoidance. It's only a matter of time before malware is found in the wild, analyzed, and reported on so signatures and detection strategies can be created. There are ways of making detection difficult but never impossible (at least not permanently).\n\nIf you want to better understand the kinds of things most types of malware do, familiarize yourself with the MITRE ATT&amp;CK framework. It's more of a categorization tool for identifying typical malware behavior but that will be a good starting point to pivot around and see the different ways certain things are accomplished.\n\nI'm a security engineer (SE/SRE specializing in detection, malware analysis, and RE), so if you have specific questions, I can do my best to answer them or point you in the right direction.",
+            "timeStamp": "2020/08/20-21:46:31",
+            "id": "g2anvp5",
+            "is_submitter": false,
+            "link_id": "t3_idoeuk",
+            "parent_id": "t3_idoeuk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "WadeEffingWilson"
+        },
+        "g2an2h0": {
+            "comment": "The book Rootkits and Bootkits is an excellent resource for the more advanced malware techniques",
+            "timeStamp": "2020/08/20-21:36:51",
+            "id": "g2an2h0",
+            "is_submitter": false,
+            "link_id": "t3_idoeuk",
+            "parent_id": "t3_idoeuk",
+            "score": 2,
+            "stickied": false,
+            "author_name": "aatate98"
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I am familiar with C# and have used it for years. I enjoy making fairly simple malware to increase my skills both offensively and defensively. I now have a good understanding of malware and how I should move forward in that regard. I'm now curious if the advantages of C++ is worthy of me leaving C# in favor of a lower level language.\nEssentially, how do you all feel about the comparison of writing malware in both C# vs C++",
+        "title": "C# or C++",
+        "score": 5,
+        "id": "8460wy",
+        "commsNum": 15,
+        "timeStamp": "2018/03/13-10:33:44",
+        "author_name": "Reburg_snah",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 15,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8460wy/c_or_c/"
+    },
+    "posts": {
+        "iepy0aq": {
+            "comment": "[removed]",
+            "timeStamp": "2022/07/03-10:34:46",
+            "id": "iepy0aq",
+            "is_submitter": false,
+            "link_id": "t3_8460wy",
+            "parent_id": "t3_8460wy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "dyoukkc": {
+            "comment": "C++ conventions when you need to, namespaces, templates.\n\nC for everything else, oh and if you need help. I used to make YouTube videos, here's a link to my channel: https://youtube.com/channel/UCq13Y-mjnU19oBU-kceePIg\n\nKeep in mind, constructors and destructors are cool but can be replaced with proper memory management. After All, that is key if you are practising defensively/offensively against malware.\n\nC# is trash in that it can be recompiled, and provides unneeded overhead for any obfuscation.",
+            "timeStamp": "2018/05/09-02:28:28",
+            "id": "dyoukkc",
+            "is_submitter": false,
+            "link_id": "t3_8460wy",
+            "parent_id": "t3_8460wy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "CoderGuy95"
+        },
+        "dyoufn4": {
+            "comment": "Dreambot leaked? Oh, I hope you're not mistaking it for Gozi, it's a modification after all.",
+            "timeStamp": "2018/05/09-02:22:59",
+            "id": "dyoufn4",
+            "is_submitter": false,
+            "link_id": "t3_8460wy",
+            "parent_id": "t1_dvoe4be",
+            "score": 1,
+            "stickied": false,
+            "author_name": "CoderGuy95"
+        },
+        "dwlu41i": {
+            "comment": "I lost some of my code due to a hardware failure so I've simply been rebuilding. It was originally written in C# so I'm rebuilding in that for now. Hoping to make some improvements and rewrite in C++ next. I've only dabbled on C++ so it will take some time to get up to speed.\nDo you have any specialties or areas you like?",
+            "timeStamp": "2018/03/31-18:07:17",
+            "id": "dwlu41i",
+            "is_submitter": true,
+            "link_id": "t3_8460wy",
+            "parent_id": "t1_dwladvn",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Reburg_snah"
+        }
+    }
+}

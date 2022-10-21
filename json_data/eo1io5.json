@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "My first write up on analyzing a fake installer. Trying malware analysis as a hobby and so far found it fun!",
+        "score": 1,
+        "id": "eo1io5",
+        "commsNum": 2,
+        "timeStamp": "2020/01/13-00:38:23",
+        "author_name": "Chengers",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "/r/Optifine/comments/eo1hq5/a_dive_into_the_fake_optifine_variant_planet/"
+    },
+    "posts": {
+        "febcpqw": {
+            "comment": "This took me just under a week to find the right tools, experiment with and double check the results. I might try and get the whole video editing thing sorted and make a video.",
+            "timeStamp": "2020/01/13-15:18:59",
+            "id": "febcpqw",
+            "is_submitter": true,
+            "link_id": "t3_eo1io5",
+            "parent_id": "t1_fe8lwaf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Chengers"
+        },
+        "fe8lwaf": {
+            "comment": "You should still consider making a video! I would love to watch the progress you make over time with analysis.",
+            "timeStamp": "2020/01/13-07:01:25",
+            "id": "fe8lwaf",
+            "is_submitter": false,
+            "link_id": "t3_eo1io5",
+            "parent_id": "t3_eo1io5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ImAtWorkRightNowSry"
+        }
+    }
+}

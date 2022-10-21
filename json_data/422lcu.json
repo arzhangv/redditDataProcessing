@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "For a while now, actors have been distributing the Kovter click-fraud malware in e-mails via JavaScript attachments",
+        "score": 1,
+        "id": "422lcu",
+        "commsNum": 0,
+        "timeStamp": "2016/01/21-15:03:47",
+        "author_name": "Roccaa2Janiyah3_",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://blogs.forcepoint.com/security-labs/kovter-actors-now-turning-machines-zombies"
+    },
+    "posts": {}
+}

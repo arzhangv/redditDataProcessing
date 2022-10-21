@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "PHP ransomware attacks blogs, websites, content managers and more\u2026",
+        "score": 25,
+        "id": "48sv3u",
+        "commsNum": 0,
+        "timeStamp": "2016/03/03-09:03:28",
+        "author_name": "peter_mack",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://nakedsecurity.sophos.com/2016/03/02/php-ransomware-attacks-blogs-websites-content-managers-and-more/"
+    },
+    "posts": {}
+}

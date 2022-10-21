@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Askubuntu Trojan Scan with ClamAV",
+        "score": 6,
+        "id": "5jbc4t",
+        "commsNum": 4,
+        "timeStamp": "2016/12/19-20:43:52",
+        "author_name": "HackSpirit",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://askubuntu.com/questions/682822/scanning-with-clamav-returns-10820-errors-infected-joomla-site-with-trojan-ifr"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "WinDBG Anti-RootKit Extension",
+        "score": 7,
+        "id": "2r19oa",
+        "commsNum": 0,
+        "timeStamp": "2015/01/01-12:59:45",
+        "author_name": "sh3dow",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://github.com/swwwolf/wdbgark"
+    },
+    "posts": {}
+}

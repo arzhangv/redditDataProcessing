@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "[removed]",
+        "title": "Information about malwares and how to prevent them",
+        "score": 1,
+        "id": "j65akf",
+        "commsNum": 1,
+        "timeStamp": "2020/10/06-06:44:39",
+        "author_name": "Demyoinc",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/j65akf/information_about_malwares_and_how_to_prevent_them/"
+    },
+    "posts": {
+        "g7w732g": {
+            "comment": "[removed]",
+            "timeStamp": "2020/10/06-06:48:01",
+            "id": "g7w732g",
+            "is_submitter": false,
+            "link_id": "t3_j65akf",
+            "parent_id": "t3_j65akf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

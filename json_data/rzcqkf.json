@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Can someone point out good frida material that has worked for you  especially for Android malware analysis ? When I search, I find a ton of things and sometimes its a bit too overwhelming. Would appreciate if someone can point me in the right direction.",
+        "title": "Frida for android malware analysis",
+        "score": 1,
+        "id": "rzcqkf",
+        "commsNum": 0,
+        "timeStamp": "2022/01/08-15:05:16",
+        "author_name": "Nephylym",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/rzcqkf/frida_for_android_malware_analysis/"
+    },
+    "posts": {
+        "hsgknhm": {
+            "comment": "https://frenchyeti.github.io/dexcalibur-doc/Installation-guide.html",
+            "timeStamp": "2022/01/12-23:18:34",
+            "id": "hsgknhm",
+            "is_submitter": false,
+            "link_id": "t3_rzcqkf",
+            "parent_id": "t3_rzcqkf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "rienjabura"
+        },
+        "hrzw0dp": {
+            "comment": "you're welcome :)",
+            "timeStamp": "2022/01/09-17:10:21",
+            "id": "hrzw0dp",
+            "is_submitter": false,
+            "link_id": "t3_rzcqkf",
+            "parent_id": "t1_hrzo568",
+            "score": 1,
+            "stickied": false,
+            "author_name": "faucetfailure_0"
+        },
+        "hrzo568": {
+            "comment": "thank you for this :) i will look into it.",
+            "timeStamp": "2022/01/09-16:19:40",
+            "id": "hrzo568",
+            "is_submitter": true,
+            "link_id": "t3_rzcqkf",
+            "parent_id": "t1_hrzaz7e",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Nephylym"
+        },
+        "hrzaz7e": {
+            "comment": "https://11x256.github.io/\n\nhttps://alyagomaa.github.io/blog/Using-Frida-to-call-unused-android-methods/",
+            "timeStamp": "2022/01/09-14:57:27",
+            "id": "hrzaz7e",
+            "is_submitter": false,
+            "link_id": "t3_rzcqkf",
+            "parent_id": "t3_rzcqkf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "faucetfailure_0"
+        }
+    }
+}

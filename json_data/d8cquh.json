@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "antivmdetection: Script to create templates to use with VirtualBox to make vm detection harder",
+        "score": 28,
+        "id": "d8cquh",
+        "commsNum": 1,
+        "timeStamp": "2019/09/23-13:53:49",
+        "author_name": "g0relics",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://github.com/nsmfoo/antivmdetection"
+    },
+    "posts": {
+        "f19g99b": {
+            "comment": "Alternative:  [https://github.com/hfiref0x/VBoxHardenedLoader](https://github.com/hfiref0x/VBoxHardenedLoader)",
+            "timeStamp": "2019/09/23-13:54:23",
+            "id": "f19g99b",
+            "is_submitter": true,
+            "link_id": "t3_d8cquh",
+            "parent_id": "t3_d8cquh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "g0relics"
+        }
+    }
+}

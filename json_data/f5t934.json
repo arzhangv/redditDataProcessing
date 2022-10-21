@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "DNS Tunneling Series, Part 3: The Siren Song of RogueRobin (x-post from /r/ReverseEngineering)",
+        "score": 1,
+        "id": "f5t934",
+        "commsNum": 0,
+        "timeStamp": "2020/02/18-07:15:57",
+        "author_name": "apreverser",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://ironnet.com/blog/dns-tunneling-series-part-3-the-siren-song-of-roguerobin/"
+    },
+    "posts": {}
+}

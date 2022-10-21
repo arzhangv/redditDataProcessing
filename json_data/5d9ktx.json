@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "A news website redirected me to it and it pretended to be a Chrome update with Chrome logo.  It downloaded as a zip file with runme.js inside, and code that appears to be encrypted. I pasted it in paste2 http://paste2.org/G6WF5yZk",
+        "title": "Unknown Javascript Malware I came across today.",
+        "score": 8,
+        "id": "5d9ktx",
+        "commsNum": 6,
+        "timeStamp": "2016/11/16-06:54:50",
+        "author_name": "okeanun",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5d9ktx/unknown_javascript_malware_i_came_across_today/"
+    },
+    "posts": {}
+}

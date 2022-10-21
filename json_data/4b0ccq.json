@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi,\n\nI'm a beginner in RE malware analysis, I have a lot of resources to download samples but almost all come in bin files, I don't know how to convert this samples in the original format for example I want to analyze a BIN sample that original was a RTF, my job is analyze the behavior of the samples reason why I need the original format and execute them in a VM, thanks in advance.",
+        "title": "Bin samples, how to convert them to the original format to analyze",
+        "score": 6,
+        "id": "4b0ccq",
+        "commsNum": 4,
+        "timeStamp": "2016/03/18-14:32:38",
+        "author_name": "rvasquezgt",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/4b0ccq/bin_samples_how_to_convert_them_to_the_original/"
+    },
+    "posts": {}
+}

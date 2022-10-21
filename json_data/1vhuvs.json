@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "POS Malware - Yara Signature",
+        "score": 4,
+        "id": "1vhuvs",
+        "commsNum": 0,
+        "timeStamp": "2014/01/17-18:16:25",
+        "author_name": "chubbymaggie",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://github.com/sysforensics/Yara/blob/master/pos/pos_malware.yara"
+    },
+    "posts": {}
+}

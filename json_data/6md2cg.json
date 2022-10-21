@@ -1,0 +1,143 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I'm attempting to do this but I am unable to get WinDbg hooked into my Virtualbox VM using a COM pipe. WinDbg just says the pipe is in use every time. I'm wondering if anyone else has actually done this successfully because info online about WinDbg with Virtualbox is very very slim. I don't personally know anyone with this experience and even people on the Microsoft boards haven't known the answer. I've done the BCEdit baudrate, debug on, serial port 1 thing, got a GUID and rebooted into kernel debug mode but still can't get a connection.\n\nIs there another way to do this without the COM pipe entirely? I've heard of USB as well but not sure how that would work with a VM. The whole thing just seems kinda ancient.",
+        "title": "Who's debugged Windows Kernel Malware?",
+        "score": 17,
+        "id": "6md2cg",
+        "commsNum": 10,
+        "timeStamp": "2017/07/10-00:56:08",
+        "author_name": "null_endian",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 10,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6md2cg/whos_debugged_windows_kernel_malware/"
+    },
+    "posts": {
+        "dl65nzb": {
+            "comment": "The only problem with this is that this works only on Windows Host. If you're on Linux host, you can't install two VMs:\n\n- Windows Host VM: The only which will run the WinDbg and debug the guest VM. This is also where the VirtualKD would be installed if it was possible.\n- Windows Guest VM: The debuggee.\n\nTherefore, this is possible only if host system is Windows, but doesn't work if host system is Linux with 2 VMs.",
+            "timeStamp": "2017/08/04-11:58:19",
+            "id": "dl65nzb",
+            "is_submitter": false,
+            "link_id": "t3_6md2cg",
+            "parent_id": "t1_dk1sekn",
+            "score": 1,
+            "stickied": false,
+            "author_name": "dlukan"
+        },
+        "dk7axpu": {
+            "comment": "I'm gettin my butt handed to me right now by VKD/VBox. I got it pretty close to working but VKD is giving me strange errors about some file called VBoxKD64.dll which is not even in the download package. Anyone else ever used this thing with VirtualBox?",
+            "timeStamp": "2017/07/13-23:26:25",
+            "id": "dk7axpu",
+            "is_submitter": true,
+            "link_id": "t3_6md2cg",
+            "parent_id": "t1_dk0p03o",
+            "score": 1,
+            "stickied": false,
+            "author_name": "null_endian"
+        },
+        "dk4syxc": {
+            "comment": "Its actually a file which wont load but it is confirmed malware. So Im trying to find out why it wont load. Doing so led me into kernel debug because it doesnt even reach the PE loader!",
+            "timeStamp": "2017/07/12-12:20:20",
+            "id": "dk4syxc",
+            "is_submitter": true,
+            "link_id": "t3_6md2cg",
+            "parent_id": "t1_dk0pa16",
+            "score": 1,
+            "stickied": false,
+            "author_name": "null_endian"
+        },
+        "dk4sx1p": {
+            "comment": "&gt; budget\n\nOh this is awesome, I'll check it out tonight thanks!",
+            "timeStamp": "2017/07/12-12:19:27",
+            "id": "dk4sx1p",
+            "is_submitter": true,
+            "link_id": "t3_6md2cg",
+            "parent_id": "t1_dk1sekn",
+            "score": 1,
+            "stickied": false,
+            "author_name": "null_endian"
+        },
+        "dk1sekn": {
+            "comment": "I seriously can't recommend VirtualKD enough for Windows Kernel debugging. If your on a budget, checkout VMware Workstation player. Looks like it is still free and plays nicely with VirtualKD. Using VMware Workstation Pro and VirtualKD is the only way I do kernel debugging these days.",
+            "timeStamp": "2017/07/10-16:35:30",
+            "id": "dk1sekn",
+            "is_submitter": false,
+            "link_id": "t3_6md2cg",
+            "parent_id": "t3_6md2cg",
+            "score": 2,
+            "stickied": false,
+            "author_name": "hacker_sam"
+        },
+        "dk1kh1u": {
+            "comment": "[deleted]",
+            "timeStamp": "2017/07/10-13:56:48",
+            "id": "dk1kh1u",
+            "is_submitter": false,
+            "link_id": "t3_6md2cg",
+            "parent_id": "t3_6md2cg",
+            "score": -1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "dk0q1fn": {
+            "comment": "Debug over network. Much faster than COM and no need to fiddle around with VirtualKD.\n\nCaveat: Only works on Win 8 targets and above (iirc).\n\nhttps://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/setting-up-a-network-debugging-connection",
+            "timeStamp": "2017/07/10-02:27:29",
+            "id": "dk0q1fn",
+            "is_submitter": false,
+            "link_id": "t3_6md2cg",
+            "parent_id": "t3_6md2cg",
+            "score": 9,
+            "stickied": false,
+            "author_name": "f00l"
+        },
+        "dk0pkdm": {
+            "comment": "Yeah but I was trying to do a debug w/ the host computer in the controlling position. Risky?",
+            "timeStamp": "2017/07/10-02:03:34",
+            "id": "dk0pkdm",
+            "is_submitter": true,
+            "link_id": "t3_6md2cg",
+            "parent_id": "t1_dk0p9ap",
+            "score": 2,
+            "stickied": false,
+            "author_name": "null_endian"
+        },
+        "dk0pa16": {
+            "comment": "Also, which malware do you plan on analyzing? sounds interesting!",
+            "timeStamp": "2017/07/10-01:49:11",
+            "id": "dk0pa16",
+            "is_submitter": false,
+            "link_id": "t3_6md2cg",
+            "parent_id": "t1_dk0p9ap",
+            "score": 1,
+            "stickied": false,
+            "author_name": "0x1F3A21EFD"
+        },
+        "dk0p9ap": {
+            "comment": "https://hshrzd.wordpress.com/2017/05/28/starting-with-windows-kernel-exploitation-part-1-setting-up-the-lab/\n\nCheck this out if you haven't seen it, are you using two VMs?",
+            "timeStamp": "2017/07/10-01:48:09",
+            "id": "dk0p9ap",
+            "is_submitter": false,
+            "link_id": "t3_6md2cg",
+            "parent_id": "t3_6md2cg",
+            "score": 5,
+            "stickied": false,
+            "author_name": "0x1F3A21EFD"
+        },
+        "dk0p03o": {
+            "comment": "I've never tried what you're doing, but VirtualKD integrates with WinDbg and last time I tried worked very well with VirtualBox. I'd give that route a go. ",
+            "timeStamp": "2017/07/10-01:35:37",
+            "id": "dk0p03o",
+            "is_submitter": false,
+            "link_id": "t3_6md2cg",
+            "parent_id": "t3_6md2cg",
+            "score": 3,
+            "stickied": false,
+            "author_name": "forwardstrike"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Reverse Engineering of the Anubis Malware",
+        "score": 1,
+        "id": "9tw32a",
+        "commsNum": 0,
+        "timeStamp": "2018/11/03-10:45:24",
+        "author_name": "agathocles111",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://medium.com/@fs0c131y/reverse-engineering-of-the-anubis-malware-part-1-741e12f5a6bd"
+    },
+    "posts": {}
+}

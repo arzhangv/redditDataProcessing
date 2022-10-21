@@ -1,0 +1,110 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "What software do you guys recommend for malware protection, antivirus, and firewall? I'm kind of out of the loop on who's who with this stuff anymore.",
+        "title": "Software recommendations",
+        "score": 0,
+        "id": "6o4bsr",
+        "commsNum": 5,
+        "timeStamp": "2017/07/18-15:37:48",
+        "author_name": "mofeus305",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6o4bsr/software_recommendations/"
+    },
+    "posts": {
+        "dkh4luq": {
+            "comment": "Sorry, forgot to put an /s next to it.   \nWas mocking that mentality.  \nAd-blockers, script blockers, app whitelisting policies, and AV all play their part. Just like common sense. \n\nWe see too many people who think \"I don't click things or do porn\" will keep them clean",
+            "timeStamp": "2017/07/20-07:17:09",
+            "id": "dkh4luq",
+            "is_submitter": false,
+            "link_id": "t3_6o4bsr",
+            "parent_id": "t1_dkgry11",
+            "score": 1,
+            "stickied": false,
+            "author_name": "StantonMick"
+        },
+        "dkgry11": {
+            "comment": "While I agree with your statement, that common sense will protect you to a significant margin, humans are bound to make mistakes one way or another. Having a couple of layers of security will prevent issues, in the rare scenario that you do make one. You can never be too careful!",
+            "timeStamp": "2017/07/19-23:43:28",
+            "id": "dkgry11",
+            "is_submitter": false,
+            "link_id": "t3_6o4bsr",
+            "parent_id": "t1_dkfyzys",
+            "score": 2,
+            "stickied": false,
+            "author_name": "JoshRosserino"
+        },
+        "dkg2avk": {
+            "comment": "lol",
+            "timeStamp": "2017/07/19-13:54:22",
+            "id": "dkg2avk",
+            "is_submitter": false,
+            "link_id": "t3_6o4bsr",
+            "parent_id": "t1_dkf81s4",
+            "score": 0,
+            "stickied": false,
+            "author_name": "SpotOnTheRug"
+        },
+        "dkfyzys": {
+            "comment": "The best antivirus is common sense. ",
+            "timeStamp": "2017/07/19-12:58:08",
+            "id": "dkfyzys",
+            "is_submitter": false,
+            "link_id": "t3_6o4bsr",
+            "parent_id": "t1_dkf81s4",
+            "score": 0,
+            "stickied": false,
+            "author_name": "StantonMick"
+        },
+        "dkf81s4": {
+            "comment": "Indeed, people are going to be very biased towards certain products and unreasonably aggressive against other. The best rule is, if you have Windows, Windows Defender is the way to go for anti-virus. Windows default Firewall is also strong and does the job well. As for anti-malware, you will probably want to go for Malwarebytes, ADWCleaner or Hitman Pro or anything else from trusted providers really. But for a more in-depth answer, refer to the Reddit above!",
+            "timeStamp": "2017/07/19-04:27:53",
+            "id": "dkf81s4",
+            "is_submitter": false,
+            "link_id": "t3_6o4bsr",
+            "parent_id": "t1_dkehh4k",
+            "score": 1,
+            "stickied": false,
+            "author_name": "JoshRosserino"
+        },
+        "dkeo3qc": {
+            "comment": "[deleted]",
+            "timeStamp": "2017/07/18-18:01:46",
+            "id": "dkeo3qc",
+            "is_submitter": false,
+            "link_id": "t3_6o4bsr",
+            "parent_id": "t1_dkenhgp",
+            "score": 2,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "dkenhgp": {
+            "comment": "[deleted]",
+            "timeStamp": "2017/07/18-17:48:29",
+            "id": "dkenhgp",
+            "is_submitter": false,
+            "link_id": "t3_6o4bsr",
+            "parent_id": "t1_dkehh4k",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "dkehh4k": {
+            "comment": "You're going to want to ask in /r/antivirus/ instead of here. And be prepared for a lot of baseless opinions and pontificating.",
+            "timeStamp": "2017/07/18-15:42:37",
+            "id": "dkehh4k",
+            "is_submitter": false,
+            "link_id": "t3_6o4bsr",
+            "parent_id": "t3_6o4bsr",
+            "score": 10,
+            "stickied": false,
+            "author_name": "Negative1"
+        }
+    }
+}

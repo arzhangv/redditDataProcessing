@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Adventures in the land of BumbleBee \u2013 a new malicious loader",
+        "score": 1,
+        "id": "uekstd",
+        "commsNum": 0,
+        "timeStamp": "2022/04/29-05:26:38",
+        "author_name": "digicat",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://research.nccgroup.com/2022/04/29/adventures-in-the-land-of-bumblebee-a-new-malicious-loader/"
+    },
+    "posts": {
+        "i6oj012": {
+            "comment": "I love the name!",
+            "timeStamp": "2022/04/29-09:06:18",
+            "id": "i6oj012",
+            "is_submitter": false,
+            "link_id": "t3_uekstd",
+            "parent_id": "t3_uekstd",
+            "score": 1,
+            "stickied": false,
+            "author_name": "darksieth99"
+        }
+    }
+}

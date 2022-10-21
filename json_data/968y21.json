@@ -1,0 +1,99 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "[removed]",
+        "title": "Every computer on my network....",
+        "score": 3,
+        "id": "968y21",
+        "commsNum": 7,
+        "timeStamp": "2018/08/10-10:23:57",
+        "author_name": "MinerJA3",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/968y21/every_computer_on_my_network/"
+    },
+    "posts": {
+        "e422iiy": {
+            "comment": "From a cursory Google:\n\n\"According to comScore, websites elect to take part in the company's market research. The website owners place ScorecardResearch web beacons into the pages of their website.\n\nWhen a browser loads a page that contains a ScorecardResearch web beacon, a cookie will be set. This, says comScore, allows it to observe \"browser-level\" behaviour, i.e. how often you return to a website or if, having visited one website, you go to another one that is related.\"\n\nSo Web beacons...",
+            "timeStamp": "2018/08/12-05:49:42",
+            "id": "e422iiy",
+            "is_submitter": false,
+            "link_id": "t3_968y21",
+            "parent_id": "t3_968y21",
+            "score": 1,
+            "stickied": false,
+            "author_name": "harrybarracuda"
+        },
+        "e40y8cg": {
+            "comment": "Love it. Unfortunately I don\u2019t have a lot of time to play, but I have been using it for several years at home and it\u2019s very stable/reliable.  I also have a few corporate clients that we installed untangle for and it\u2019s been rock solid in a business environment for years.  A couple of them have been set up for years and have never called even once with a networking issue.  It seems to be extra efficient at routing large volumes of traffic - things just seem faster even with huge number of sessions going.  At one business it is used for public WiFi and is able to smoothly handle hundreds of clients simultaneously.  Of course, aside from stable/efficient routing, there\u2019s all the advanced features, add-on modules, controls and reporting that make it such a great product. ",
+            "timeStamp": "2018/08/11-13:58:07",
+            "id": "e40y8cg",
+            "is_submitter": true,
+            "link_id": "t3_968y21",
+            "parent_id": "t1_e3yq2p2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MinerJA3"
+        },
+        "e40xoql": {
+            "comment": "My untangle is lighting up like this as well and just started, all devices including phones. I'm thinking it might be google ads as well and not just microsoft. 2x samsung phones and 3x windows computers. one of them a clean image as of about a week ago.",
+            "timeStamp": "2018/08/11-13:48:35",
+            "id": "e40xoql",
+            "is_submitter": false,
+            "link_id": "t3_968y21",
+            "parent_id": "t3_968y21",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Zerv"
+        },
+        "e3ys16e": {
+            "comment": "iPhones and Android devices display ads too.",
+            "timeStamp": "2018/08/10-11:45:37",
+            "id": "e3ys16e",
+            "is_submitter": false,
+            "link_id": "t3_968y21",
+            "parent_id": "t1_e3ypfsj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mhurron"
+        },
+        "e3yq2p2": {
+            "comment": "Windows 10 ads, as u/the-n0bf said. How do you like Untangle? I've been looking to upgrade my home network security and was looking into them recently.",
+            "timeStamp": "2018/08/10-11:19:17",
+            "id": "e3yq2p2",
+            "is_submitter": false,
+            "link_id": "t3_968y21",
+            "parent_id": "t3_968y21",
+            "score": 1,
+            "stickied": false,
+            "author_name": "FrankThe1st"
+        },
+        "e3ypfsj": {
+            "comment": "I hadn\u2019t considered that.  Good point but these devices include 3 iPhones and a Samsung phone. ",
+            "timeStamp": "2018/08/10-11:10:47",
+            "id": "e3ypfsj",
+            "is_submitter": true,
+            "link_id": "t3_968y21",
+            "parent_id": "t1_e3ypbjl",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MinerJA3"
+        },
+        "e3ypbjl": {
+            "comment": "Scorecardresearch is a huge ad provider. Windows 10 comes with advertisements enabled so it's possible that it is normal traffic. Not necessarily benign mind you, I don't think all the ad traffic these days is good at all but certainly common.",
+            "timeStamp": "2018/08/10-11:09:12",
+            "id": "e3ypbjl",
+            "is_submitter": false,
+            "link_id": "t3_968y21",
+            "parent_id": "t3_968y21",
+            "score": 1,
+            "stickied": false,
+            "author_name": "the-n0bf"
+        }
+    }
+}

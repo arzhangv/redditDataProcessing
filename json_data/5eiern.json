@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Loffice - Analyzing malicious documents using WinDbg | Some new features",
+        "score": 5,
+        "id": "5eiern",
+        "commsNum": 0,
+        "timeStamp": "2016/11/23-09:11:46",
+        "author_name": "tehsyntx",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://thembits.blogspot.se/2016/11/loffice-gets-makeover-gives-insight.html"
+    },
+    "posts": {}
+}

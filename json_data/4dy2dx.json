@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "We are running out of options and need help if anyone is willing to help please contact me.\n\nOur company got hit with the Ransomware called Samas 3/31. We payed ransom for 3 servers because our NAS backups got wiped as well. Received the key's and the decrypt tool but turns out the tool doesn't work very well.\n\nSince the scammers aren't willing to cooperate we are trying to get this out to prevent others to become victims of this Scam.\n\nFile extension left behind: \"justbtcwillhelpyou\"\n\nRansom files left behind: \"HOW_TO_DECRYPT_FILE\"\n\nTool does decrypt the file with the provided RSAkeyvalue.xml file but the data is scrabled. I compared few files in HxD to originals and the difference between decrypted and original are 16bytes at address 0x002800 then it repeats again at 0x005000, 0x007800 etc. We have tried on computers with .Net framework 2.0 as instructed by scammers with same results.\n\nThank you in advance.\n\nI uploaded few files at the following site for review: Original, Encrypted, Decrypted\nhttp://www.bleepingcomputer.com/forums/t/607818/samas-ransomware-support-and-help-topic-help-decrypttxt-encedrsa/page-3#entry3974391\n\n\nDecrypt S/W and key located here: \nhttp://s000.tinyupload.com/?file_id=79508851336225742100\n\nUPDATE - 4/10/16\nTHIS HAS BEEN SOLVED THANKS TO USER \"ROOTJACKER\", YOU ROCK!!!",
+        "title": "Samas Ransomware help",
+        "score": 12,
+        "id": "4dy2dx",
+        "commsNum": 14,
+        "timeStamp": "2016/04/08-12:45:52",
+        "author_name": "D15eL",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 14,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/4dy2dx/samas_ransomware_help/"
+    },
+    "posts": {}
+}

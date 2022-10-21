@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Unpatched Vulnerability (0day) in Flash Player is being exploited by Angler EK",
+        "score": 1,
+        "id": "2t6ol7",
+        "commsNum": 0,
+        "timeStamp": "2015/01/21-08:49:24",
+        "author_name": "NattyBroh",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://malware.dontneedcoffee.com/2015/01/unpatched-vulnerability-0day-in-flash.html"
+    },
+    "posts": {}
+}

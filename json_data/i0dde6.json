@@ -1,0 +1,99 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": " Something i been thinking about today, if office and pdf files never existed, would malware become so much less relevant that it is today due to those being the primary delivery mechanism of malware... what are your thoughts",
+        "title": "Malware Landscape without Office/pdf files",
+        "score": 1,
+        "id": "i0dde6",
+        "commsNum": 7,
+        "timeStamp": "2020/07/29-18:48:17",
+        "author_name": "Ali_Alnuaimi",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/i0dde6/malware_landscape_without_officepdf_files/"
+    },
+    "posts": {
+        "fzqxfyg": {
+            "comment": "No. Malware would just arrive by other means.",
+            "timeStamp": "2020/07/30-10:13:19",
+            "id": "fzqxfyg",
+            "is_submitter": false,
+            "link_id": "t3_i0dde6",
+            "parent_id": "t3_i0dde6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Struppigel"
+        },
+        "fzqcg6t": {
+            "comment": "I see all sorts of malicious e-mail attachments that aren't Office or PDF files. Lots of malicious scripts and jar files and pif files and things sometimes inside zip files so they're more likely to make it through the mail scanner.\n\nThe truth is bad guys would weaponize any common file format that people use for business. PDF and Office just happens to be the de facto standard in business so it's the most common. \n\nAlso, there are other ways to get infected. The heyday of the Exploit Kit and drive-by download was only 5 years ago. We had to tell people not to click links in e-mails if they don't know the sender. Worms were more prevalent in the past. The current state of malware is just a step in the evolution. Figure out where's it's going next and you'll be a very valuable person.",
+            "timeStamp": "2020/07/30-07:25:44",
+            "id": "fzqcg6t",
+            "is_submitter": false,
+            "link_id": "t3_i0dde6",
+            "parent_id": "t3_i0dde6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "LeftHandedGraffiti"
+        },
+        "fzpxc67": {
+            "comment": "[removed]",
+            "timeStamp": "2020/07/30-04:43:46",
+            "id": "fzpxc67",
+            "is_submitter": false,
+            "link_id": "t3_i0dde6",
+            "parent_id": "t3_i0dde6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fzp04yg": {
+            "comment": "Yes, it would be different. \n\nWord, for example, can have macros embedded in the .doc or .docx file. A Word document can and has been malware in and of itself. Most other word processors had macros in separate files, so a two-file virus or worm would be possible, but somewhat less likely due to difficulty. And lets not spare Outlook any scorn. I was around when Outlook was introduced: emails with active components had been considered (NeXTMail) and rejected in the past. Nobody but Microsoft could have introduced something that obviously bad. Internet Explorer has gone by the wayside, but let's not forget the security horror that was ActiveX....\n\nI don't think PDF in and of itself would have been a big issue, PDF is harder to do malware in than PostScript which is a full-featured programming language as well as a document description. Acrobat Reader used to be able to interpret embedded JavaScript in PDF. Even without the programming issues that Adobe had with Acrobat Reader, that was just a bad idea.\n\nWithout Word and Outlook, Internet Explorer and a few other Microsoft design problems, the world would be a far different place, with respect to malware.",
+            "timeStamp": "2020/07/29-20:37:59",
+            "id": "fzp04yg",
+            "is_submitter": false,
+            "link_id": "t3_i0dde6",
+            "parent_id": "t3_i0dde6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "bediger4000"
+        },
+        "fzoz6gk": {
+            "comment": "Well exploit kits, tradition trojan horses (setup.exe, packed with malware), and network vulnerabilities are still avenues of malware to find its way on a system. So if documents of all types didn't exist, I would think those means would \"fill the gap\".",
+            "timeStamp": "2020/07/29-20:27:49",
+            "id": "fzoz6gk",
+            "is_submitter": false,
+            "link_id": "t3_i0dde6",
+            "parent_id": "t3_i0dde6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mikiozen"
+        },
+        "fzovbfb": {
+            "comment": "malware existed since dos computer days. the first computer was made in 1946, PDF by adobe was first introduced in 1990. I dont know about office though.",
+            "timeStamp": "2020/07/29-19:48:47",
+            "id": "fzovbfb",
+            "is_submitter": false,
+            "link_id": "t3_i0dde6",
+            "parent_id": "t3_i0dde6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Interesting-Bus-5370"
+        },
+        "fzord9u": {
+            "comment": "The money is not in office, they are just the vector. If they didn't exist another vector would be found/used.",
+            "timeStamp": "2020/07/29-19:10:20",
+            "id": "fzord9u",
+            "is_submitter": false,
+            "link_id": "t3_i0dde6",
+            "parent_id": "t3_i0dde6",
+            "score": 2,
+            "stickied": false,
+            "author_name": "hacksauce"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hello all!\n\nNoobish question here: i have two c++ vtable in IDA: vtableA and vtableB. What does a statement like that mean? \n\n**(Obj-&gt;vtableA - Obj-&gt;vtableB) &gt;&gt; 2**???? \n\nWhy performing the shift of two bytes in a vtable's addresses difference?\n\nRegards",
+        "title": "Vtables differences with shift",
+        "score": 5,
+        "id": "6bibke",
+        "commsNum": 6,
+        "timeStamp": "2017/05/16-08:57:23",
+        "author_name": "edenroz",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6bibke/vtables_differences_with_shift/"
+    },
+    "posts": {}
+}

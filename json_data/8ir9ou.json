@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "So, the laptop got attacked with the ransomware, immediately downloaded the decryptor created by Emsisoft\n\nfollowed the instructions\n\nfor the tool to work, a file which is encrypted and unencrypted and greater than 128KB needs to be dragged and dropped to the decryptor\n\nI did the exact same thing and the tool asks for the files to be dragged and dropped again\n\ndon't know how to proceed, any help would be appreciated",
+        "title": "got attacked with the Crypton Ransomware.",
+        "score": 0,
+        "id": "8ir9ou",
+        "commsNum": 4,
+        "timeStamp": "2018/05/11-14:11:00",
+        "author_name": "houston_wehaveaprblm",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8ir9ou/got_attacked_with_the_crypton_ransomware/"
+    },
+    "posts": {
+        "dyumnjw": {
+            "comment": "Im so sorry , i thought im posting to ransomware subreddit, didnt see sub name",
+            "timeStamp": "2018/05/11-22:50:24",
+            "id": "dyumnjw",
+            "is_submitter": true,
+            "link_id": "t3_8ir9ou",
+            "parent_id": "t1_dytz6f2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "houston_wehaveaprblm"
+        },
+        "dyu9c3r": {
+            "comment": "Thanks, removed.",
+            "timeStamp": "2018/05/11-17:35:58",
+            "id": "dyu9c3r",
+            "is_submitter": false,
+            "link_id": "t3_8ir9ou",
+            "parent_id": "t1_dyu16i8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mjuad"
+        },
+        "dyu16i8": {
+            "comment": "&gt; A place for malware reports and information. This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware\nYou might also be interested i",
+            "timeStamp": "2018/05/11-14:56:25",
+            "id": "dyu16i8",
+            "is_submitter": false,
+            "link_id": "t3_8ir9ou",
+            "parent_id": "t3_8ir9ou",
+            "score": 2,
+            "stickied": false,
+            "author_name": "edward_snowedin"
+        },
+        "dytz6f2": {
+            "comment": "Try /r/techsupport or /r/ransomware/ ",
+            "timeStamp": "2018/05/11-14:21:10",
+            "id": "dytz6f2",
+            "is_submitter": false,
+            "link_id": "t3_8ir9ou",
+            "parent_id": "t3_8ir9ou",
+            "score": 2,
+            "stickied": false,
+            "author_name": "unnecessary_axiom"
+        }
+    }
+}

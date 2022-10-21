@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I wish to do malware analysis on ATM malware. What are good resources to simulate an ATM environment where such malware can execute properly?",
+        "title": "ATM Malware Analysis",
+        "score": 7,
+        "id": "5eiehl",
+        "commsNum": 16,
+        "timeStamp": "2016/11/23-09:10:32",
+        "author_name": "alonslotky",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 16,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5eiehl/atm_malware_analysis/"
+    },
+    "posts": {}
+}

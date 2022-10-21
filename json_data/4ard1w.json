@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "TeslaCrypt 3.0 found in compromised major ad networks - thousands infected in last 24 hours",
+        "score": 1,
+        "id": "4ard1w",
+        "commsNum": 2,
+        "timeStamp": "2016/03/16-20:47:13",
+        "author_name": "Tuono_Rider",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.pcper.com/news/General-Tech/Ransomware-Spreading-Through-Major-Websites-Infected-Ad-Servers"
+    },
+    "posts": {}
+}

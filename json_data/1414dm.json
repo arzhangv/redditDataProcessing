@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hello,\nI am just getting started in Malware Research and everyone seems to recommend IDA. However, the free version only seems to be a Windows executable. Should I use that over wine or is there a native Linux free version?",
+        "title": "Using IDA Free in Linux",
+        "score": 6,
+        "id": "1414dm",
+        "commsNum": 11,
+        "timeStamp": "2012/11/29-18:33:10",
+        "author_name": "CurrentLunchWinner",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 11,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/1414dm/using_ida_free_in_linux/"
+    },
+    "posts": {}
+}

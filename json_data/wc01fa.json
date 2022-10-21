@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hi everyone, I'm trying to configure Cuckoo sandbox to route traffic through a VPN, however, I'm getting the following error\n\nhttps://preview.redd.it/yqn0zoja4qe91.png?width=1298&amp;format=png&amp;auto=webp&amp;s=48d03c745fdd201bac34ce4fd1d07c7257386c7d\n\nI have followed all the steps in the Cuckoo documentation to set up the VPN and have configured tun0 in both the VPN .conf file and in the rt\\_tables. Therefore, what is going on here and how may I fix it?",
+        "title": "Issue trying to route Cuckoo traffic through a VPN",
+        "score": 1,
+        "id": "wc01fa",
+        "commsNum": 0,
+        "timeStamp": "2022/07/30-08:28:26",
+        "author_name": "jefazo92",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/wc01fa/issue_trying_to_route_cuckoo_traffic_through_a_vpn/"
+    },
+    "posts": {}
+}

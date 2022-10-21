@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "A collected list of awesome security talks",
+        "score": 15,
+        "id": "41tetl",
+        "commsNum": 2,
+        "timeStamp": "2016/01/20-00:03:39",
+        "author_name": "meirwah",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://github.com/PaulSec/awesome-sec-talks"
+    },
+    "posts": {}
+}

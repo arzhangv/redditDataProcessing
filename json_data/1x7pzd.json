@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Here it is in Chrome http://i.imgur.com/h2meKSG.png\n\nI've spent hours trying to get this thing disabled. Due to the \"Installed by enterprise policy,\" I can't simply delete it through chrome, it's forced on. I've tried going into the \n\n    C:\\Users\\\"user name\"\\AppData\\Local\\Google\\Chrome\\UserData\\Default\\Extensions\n\ndirectory and deleting all files in there, but it still persists in Chrome. After that I went in to regedit.exe under \n\n    Computer\\HKEY_CURRENT_USER\\Software\\Google\\Chrome\\Extensions\n\nand deleting any extension files in the registry, but it still persists in Chrome. The only way I've been able to neutralize it is with Avast! By using the browser cleanup tool I was able to only disable the extension, but again, it still persists in Chrome, but in a neutralized state I suppose. Has anyone else had any luck with removing these rogue Chrome extensions that are installed by enterprise policy?",
+        "title": "Any help with a stubborn chrome malware extension would be great.",
+        "score": 1,
+        "id": "1x7pzd",
+        "commsNum": 3,
+        "timeStamp": "2014/02/06-13:33:06",
+        "author_name": "fupa16",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/1x7pzd/any_help_with_a_stubborn_chrome_malware_extension/"
+    },
+    "posts": {}
+}

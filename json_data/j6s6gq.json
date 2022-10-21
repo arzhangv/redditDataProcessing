@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 0.99,
+        "selftext": "",
+        "title": "Some dude posted this on r/memes, so spread it.",
+        "score": 1,
+        "id": "j6s6gq",
+        "commsNum": 1,
+        "timeStamp": "2020/10/07-07:47:56",
+        "author_name": "ChekeredList71",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://i.redd.it/w21sb4ulmor51.jpg"
+    },
+    "posts": {
+        "g80a6dz": {
+            "comment": "Hey thanks for reposting my post\nAppreciate it",
+            "timeStamp": "2020/10/07-07:53:55",
+            "id": "g80a6dz",
+            "is_submitter": false,
+            "link_id": "t3_j6s6gq",
+            "parent_id": "t3_j6s6gq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "PartyWalaBandar"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "So, I work at the government of an European country. I was snooping around on one of our servers, looking for a certain file to continue my work. Searching for it wasn't an option since nor I nor my coworkers knew how the file was called. \n\nSo, then I found an .exe that looked rather, well, out of place. \n\nIt came from 2009. September 2009. Because I didn't trust it, I ran it in VirusTotal and came up nearly empty handed with only one AV detecting it as a Trojan.Downloader. Curious, I placed the file on my USB stick and took it home.\n\nWhen I tested it in a VM at home, I was surprised. It acted like an adware installer without showing the user anything. Looking at it through a HEX Editor made it even worse, where some hints to spyware showed. \n\nThen I uploaded at Hybrid Analysis, and it came back as malicious. When I posted it at a popular malware forum, only 1 AV detected it. And it wasn't even a well known one, it was a Chinese AV. \n\nThanks to the efforts of that forum, the malware now gets detected by almost every major AV. In the end, it was a Trojan that stole private account data, had some traces of a banker trojan, some traces of spyware and was able to shutdown, reboot and do various other shizzle. \n\nWhat happened was that the file was downloaded in a location where the user wasn't able to find it. So, it never launched and it was dormant. So, yeah. It slipped under the radar. ",
+        "title": "Story to share - Unknown sample of 2009.",
+        "score": 0,
+        "id": "3gc4io",
+        "commsNum": 9,
+        "timeStamp": "2015/08/09-02:56:48",
+        "author_name": "NekoJonez",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 9,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/3gc4io/story_to_share_unknown_sample_of_2009/"
+    },
+    "posts": {}
+}

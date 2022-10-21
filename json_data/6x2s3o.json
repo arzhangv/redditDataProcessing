@@ -1,0 +1,99 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Understand my trepidation in reporting this, but none the less;\n\nGot a warning/pop up that was half explicit pictures, half warning that it was illegal to posses child pornography with the FBI logo somewhere on it, of course nothing about it looked legitimate. I didn't spend too much time looking at it or reading it. I was unable to close the window so I preformed a hard reboot. I eventually connected my internet connection to my phone where it will remain, since I'm actually moving out of my place on the 31st.\n\nAfter I checked my browser history, and it registered several dozen hits to the same website (same time stamp on all hits), which I'd rather not check to see if it was real or not since it had a really blunt name to it.\n\nChanged some passwords and such.\n\nConsidering it locked up my browser, was this a malicious pop up or a hack?",
+        "title": "Got a child pornography warning pop up, only window open was Chrome on Reddit",
+        "score": 5,
+        "id": "6x2s3o",
+        "commsNum": 12,
+        "timeStamp": "2017/08/30-15:30:05",
+        "author_name": "Australiancattledog1",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 12,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6x2s3o/got_a_child_pornography_warning_pop_up_only/"
+    },
+    "posts": {
+        "dmebm6c": {
+            "comment": "[removed]",
+            "timeStamp": "2017/08/31-14:56:37",
+            "id": "dmebm6c",
+            "is_submitter": false,
+            "link_id": "t3_6x2s3o",
+            "parent_id": "t3_6x2s3o",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "dme8yg1": {
+            "comment": "Well, I just woke up and I imagine it's been a whole new deal for 18 hours, but this is a whole new deal...",
+            "timeStamp": "2017/08/31-14:06:46",
+            "id": "dme8yg1",
+            "is_submitter": false,
+            "link_id": "t3_6x2s3o",
+            "parent_id": "t1_dme2j6d",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TheChance"
+        },
+        "dme2j6d": {
+            "comment": "Yes, it had spammed by browser history to the same site with a child pornography specific (graphic) name with the same time stamp the pop up occurred.",
+            "timeStamp": "2017/08/31-12:15:11",
+            "id": "dme2j6d",
+            "is_submitter": true,
+            "link_id": "t3_6x2s3o",
+            "parent_id": "t1_dmcx11c",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Australiancattledog1"
+        },
+        "dmcx11c": {
+            "comment": "There's a new *thing* unfolding [here](https://www.reddit.com/r/techsupport/comments/6x34xi/someone_tried_to_look_up_child_porn_on_my_computer/) in /r/techsupport wherein Chrome users are seeing many searches for CP in their history, as well as a particular company's domain name (which is odd.)\n\nDid you see that domain name, or any strange searches in your search history?",
+            "timeStamp": "2017/08/30-19:15:47",
+            "id": "dmcx11c",
+            "is_submitter": false,
+            "link_id": "t3_6x2s3o",
+            "parent_id": "t3_6x2s3o",
+            "score": 6,
+            "stickied": false,
+            "author_name": "TheChance"
+        },
+        "dmcu82r": {
+            "comment": "\"Scare-ware\" is the new term these days for these tactics. Ad blockers and regular malware scans can keep you from accidentally being redirected to these.",
+            "timeStamp": "2017/08/30-18:13:03",
+            "id": "dmcu82r",
+            "is_submitter": false,
+            "link_id": "t3_6x2s3o",
+            "parent_id": "t1_dmcmgdf",
+            "score": 6,
+            "stickied": false,
+            "author_name": "1armsteve"
+        },
+        "dmcmkcy": {
+            "comment": "Thanks",
+            "timeStamp": "2017/08/30-15:33:36",
+            "id": "dmcmkcy",
+            "is_submitter": true,
+            "link_id": "t3_6x2s3o",
+            "parent_id": "t1_dmcmgdf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Australiancattledog1"
+        },
+        "dmcmgdf": {
+            "comment": "It's a malicious pop up intended to scare people and scam them out of money",
+            "timeStamp": "2017/08/30-15:31:24",
+            "id": "dmcmgdf",
+            "is_submitter": false,
+            "link_id": "t3_6x2s3o",
+            "parent_id": "t3_6x2s3o",
+            "score": 14,
+            "stickied": false,
+            "author_name": "okmokmz"
+        }
+    }
+}

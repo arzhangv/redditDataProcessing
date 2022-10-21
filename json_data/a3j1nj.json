@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Under the SEA - A Look at the Syrian Electronic Army's Mobile Tooling",
+        "score": 1,
+        "id": "a3j1nj",
+        "commsNum": 2,
+        "timeStamp": "2018/12/05-17:29:20",
+        "author_name": "jdrch",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.blackhat.com/eu-18/briefings/schedule/#under-the-sea---a-look-at-the-syrian-electronic-armys-mobile-tooling-12952"
+    },
+    "posts": {
+        "eb7wwpr": {
+            "comment": "Check the researchers' website/blog/Twitter.",
+            "timeStamp": "2018/12/06-07:58:39",
+            "id": "eb7wwpr",
+            "is_submitter": true,
+            "link_id": "t3_a3j1nj",
+            "parent_id": "t1_eb7f0ty",
+            "score": 1,
+            "stickied": false,
+            "author_name": "jdrch"
+        },
+        "eb7f0ty": {
+            "comment": "Is the presentation anywhere?",
+            "timeStamp": "2018/12/06-02:53:50",
+            "id": "eb7f0ty",
+            "is_submitter": false,
+            "link_id": "t3_a3j1nj",
+            "parent_id": "t3_a3j1nj",
+            "score": 3,
+            "stickied": false,
+            "author_name": "siriuslyred"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I am in search of automated malware analysis tools in order to list and evaluate/benchmark, but I can't find solutions that work as a standalone. Most of what I found is online or requires buying a corporate license, something that I can not do as the research is intended for acedemic purposes. Mainly my search results have been proposals of solutions in scientific publications that cannot be tested. I would be grateful if someone could suggest solutions such as Cuckoo Sandbox or sources that list such software.\n\nThank you in advance",
+        "title": "Automated Malware Analysis Tools as a Standalone",
+        "score": 8,
+        "id": "5dbo5y",
+        "commsNum": 3,
+        "timeStamp": "2016/11/16-12:57:10",
+        "author_name": "Crookedpenguin",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5dbo5y/automated_malware_analysis_tools_as_a_standalone/"
+    },
+    "posts": {}
+}

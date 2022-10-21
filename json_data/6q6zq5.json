@@ -1,0 +1,99 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi guys, first time posting in this sub.\n\nI think my PC has become a botnet zombie. The lookup websites (e. g. Kaspersky) aren't showing it, but over the last few days I'm seeing a few symptoms:\n\n- download speed has decreased significantly\n\n- geolocation has changed - whatismyip-type websites are showing my location in Amsterdam, whereas I'm actually in Poland\n\n- I'm seeing a number of weird processes in Task Manager (I'm running Windows 8 on a Dell Inspiron laptop): COM Surrogate, DCCService, Device Association Framework Provider Host, Disc Soft Bus Service, hkcmd Module, IAStorDataSVC, IAStorIcon, igfxsrvc Module, igfxTray Module, persistence Module, WMI Provider Host, utcsvc\n\nI have scanned my PC using Microsoft Support Emergency Response Tool, but it only showed one infected file and deleting it didn't help. Do you guys have any suggestions on how I should fix this? Do any of the above processes look suspicious to you? All advice is highly appreciated.\n\n",
+        "title": "Help needed - I think my PC is part of a botnet",
+        "score": 0,
+        "id": "6q6zq5",
+        "commsNum": 6,
+        "timeStamp": "2017/07/28-14:42:55",
+        "author_name": "gallez",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6q6zq5/help_needed_i_think_my_pc_is_part_of_a_botnet/"
+    },
+    "posts": {
+        "dkv9ke8": {
+            "comment": "You can usually google those applications to determine if they are malware. Do the same for the file you couldn't delete. Also use other AV or other applications like hitman pro, malwarebytes, avira to further search your computer. ",
+            "timeStamp": "2017/07/28-17:57:18",
+            "id": "dkv9ke8",
+            "is_submitter": false,
+            "link_id": "t3_6q6zq5",
+            "parent_id": "t3_6q6zq5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "manak69"
+        },
+        "dkv3ard": {
+            "comment": "From what you are saying it might actually be a case of your ISP now routing your traffic through a different location for whatever reason.\n\nThe processes are most likely legitimate and really depend purely on any software you have installed that could be spawning processes. Bare in mind that process names can easily be fakes so don't be too sure.\n\nBest advice might just be to do a clean reinstall if you're paranoid about it",
+            "timeStamp": "2017/07/28-15:32:35",
+            "id": "dkv3ard",
+            "is_submitter": false,
+            "link_id": "t3_6q6zq5",
+            "parent_id": "t3_6q6zq5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Tinoooooooo"
+        },
+        "dkv1tqb": {
+            "comment": "[deleted]",
+            "timeStamp": "2017/07/28-15:01:10",
+            "id": "dkv1tqb",
+            "is_submitter": false,
+            "link_id": "t3_6q6zq5",
+            "parent_id": "t1_dkv1tf8",
+            "score": 0,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "dkv1tf8": {
+            "comment": "thank you very much and apologies for posting this in the wrong sub. I'll repost in /r/techsupport",
+            "timeStamp": "2017/07/28-15:01:00",
+            "id": "dkv1tf8",
+            "is_submitter": true,
+            "link_id": "t3_6q6zq5",
+            "parent_id": "t1_dkv1oyp",
+            "score": 5,
+            "stickied": false,
+            "author_name": "gallez"
+        },
+        "dkv1p46": {
+            "comment": "\"A place for malware reports and information. This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware\"",
+            "timeStamp": "2017/07/28-14:58:30",
+            "id": "dkv1p46",
+            "is_submitter": false,
+            "link_id": "t3_6q6zq5",
+            "parent_id": "t3_6q6zq5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Intrexa"
+        },
+        "dkv1oyp": {
+            "comment": "/r/techsupport would be a better subreddit for help. This subreddit is for malware reports and information.\n\nThere are many reasons why your download speed could decrease significantly, from network outages to throttling.\n\nGeolocation is not the most accurate and can give wrong locations if IP blocks change hands between different ISPs. \n\nNone of the processes you listed are a clear indicator of compromise, as malware can show up in the process list however it wants, it is unlikely anyone here can help you with this little information. \n\n",
+            "timeStamp": "2017/07/28-14:58:25",
+            "id": "dkv1oyp",
+            "is_submitter": false,
+            "link_id": "t3_6q6zq5",
+            "parent_id": "t3_6q6zq5",
+            "score": 7,
+            "stickied": false,
+            "author_name": "4e4f5045"
+        },
+        "dkv1ag8": {
+            "comment": "-Slow download speeds can be a number of issues.\n-Geolocation of IP blocks is highly inaccurate as these blocks are sold or your IP might have changed due to a renewed DHCP lease from the ISP.\n-Those are normal services.",
+            "timeStamp": "2017/07/28-14:50:07",
+            "id": "dkv1ag8",
+            "is_submitter": false,
+            "link_id": "t3_6q6zq5",
+            "parent_id": "t3_6q6zq5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "packetstorms"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "According to the report, experts from a United States company Flashpoint carried out a linguistic analysis of the code and found out that the wannacry malware had been written by native Chinese-speaking people with southern accents.",
+        "score": 1,
+        "id": "6eb8z4",
+        "commsNum": 0,
+        "timeStamp": "2017/05/30-16:59:31",
+        "author_name": "agenta_37",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://pppfocus.com/2017/05/30/forensic-linguistic-analysis-of-wannacry-points-to-southern-china/"
+    },
+    "posts": {}
+}

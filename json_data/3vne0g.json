@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "So I bought a pc from my friend.The pc had some kind of pc cleaner on it.The cleaner was actually a virus/adware.I deleted it and all files that were leftover.But there is still a icon in the right bottom corner of my screen.The icon: http://imgur.com/T8q6mwL .The program is called Tencent PC Manager.When I screenshot in windows, it doesn't show the icon.Also the program blocks Malwarebytes.exe from launching, probably in the registry.When I try to delete the adware with different programs, the adware disappears but it comes back the next day somehow.In the picture there is a red line on the refresh icon thingy.The red line is only sometimes there.The icon is even present in games.I can't click on it or do anything with it.The program isn't found anywhere. Can somebody help me remove this adware? Is there a program that can fix registry errors?(programs blocking other programs from launching). Feel free to ask more spesific questions about the adware/virus.",
+        "title": "Adware icon not going away.",
+        "score": 0,
+        "id": "3vne0g",
+        "commsNum": 6,
+        "timeStamp": "2015/12/06-03:05:26",
+        "author_name": "COOKIEOMIND",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/3vne0g/adware_icon_not_going_away/"
+    },
+    "posts": {}
+}

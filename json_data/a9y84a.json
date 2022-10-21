@@ -1,0 +1,110 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "RARE MALWARE DISCOVERED BY YOUTUBE WATCH HISTORY!",
+        "score": 1,
+        "id": "a9y84a",
+        "commsNum": 8,
+        "timeStamp": "2018/12/27-02:44:42",
+        "author_name": "johnjohnjohnnycake",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 8,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/youtube/comments/a9y59n/rare_malware_discovered_by_youtube_watch_history/"
+    },
+    "posts": {
+        "ecoll7i": {
+            "comment": "thank you. I think I'll go with this option",
+            "timeStamp": "2018/12/27-13:09:23",
+            "id": "ecoll7i",
+            "is_submitter": true,
+            "link_id": "t3_a9y84a",
+            "parent_id": "t1_ecol90u",
+            "score": 1,
+            "stickied": false,
+            "author_name": "johnjohnjohnnycake"
+        },
+        "ecol90u": {
+            "comment": "Yeah, if you're not interested in going down the rabbit hole, the safe option in *any* virus/malware case is to just wipe and re-install. ",
+            "timeStamp": "2018/12/27-13:05:30",
+            "id": "ecol90u",
+            "is_submitter": false,
+            "link_id": "t3_a9y84a",
+            "parent_id": "t1_ecokwkv",
+            "score": 2,
+            "stickied": false,
+            "author_name": "ase1590"
+        },
+        "ecokwkv": {
+            "comment": "Well, I admire your advice in this situation, but I do want to let you know I am just part of the general public, I know not about any of this shit, and this is a learning experience for me. I apologize for making the post too dramatic for you, but I was in desperation because, I legitimately could find very few examples of my problem and I thought it was a rarity.\n\nThat being said, I think I will do a clean wipe of my PC, I planned it earlier, but hesitated due to uncertainty of the repercussions of such actions, but I did take the time to backup my important files, so I think I'll just do that",
+            "timeStamp": "2018/12/27-13:01:28",
+            "id": "ecokwkv",
+            "is_submitter": true,
+            "link_id": "t3_a9y84a",
+            "parent_id": "t1_ecok49f",
+            "score": 1,
+            "stickied": false,
+            "author_name": "johnjohnjohnnycake"
+        },
+        "ecok49f": {
+            "comment": "&gt; because anti-malware programs can't find it, even though it is clearly malware\n\nthis is not hard to do. There are even automated programs to make any file mostly undetectable now. That's why anyone serious in security knows that anti-virus and anti-malware is mostly useless except for low effort or old programs. \n\n\n&gt;i say rare because it's not a problem i commonly hear,\n\nIt happens a lot, especially when opening e-mail attachments or running sketchy .exe files. The attacker either keylogs you and plays with your accounts, takes control via remote desktop, or adds your PC to their botnet.  \n\nThere's really nothing interesting about this. You should just do a total PC wipe and re-install. \n\nIf you're *actually* dedicated, you could trace down whatever process is running on your computer and grab the .exe file as well as any additional files it has and package them up so someone can have a look at them, as well as possibly submit it to an antivirus database. ",
+            "timeStamp": "2018/12/27-12:52:32",
+            "id": "ecok49f",
+            "is_submitter": false,
+            "link_id": "t3_a9y84a",
+            "parent_id": "t1_ecojji6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ase1590"
+        },
+        "ecojokh": {
+            "comment": "k",
+            "timeStamp": "2018/12/27-12:47:27",
+            "id": "ecojokh",
+            "is_submitter": true,
+            "link_id": "t3_a9y84a",
+            "parent_id": "t1_ecnedp3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "johnjohnjohnnycake"
+        },
+        "ecojji6": {
+            "comment": "i say rare because it's not a problem i commonly hear, and i say undetectable because anti-malware programs can't find it, even though it is clearly malware",
+            "timeStamp": "2018/12/27-12:45:41",
+            "id": "ecojji6",
+            "is_submitter": true,
+            "link_id": "t3_a9y84a",
+            "parent_id": "t1_ecngfo1",
+            "score": 0,
+            "stickied": false,
+            "author_name": "johnjohnjohnnycake"
+        },
+        "ecngfo1": {
+            "comment": "This is stupid.\n\nIt's not 'rare', nor is it hard to make malware 'undetectable' by popular antivirus programs. ",
+            "timeStamp": "2018/12/27-03:57:15",
+            "id": "ecngfo1",
+            "is_submitter": false,
+            "link_id": "t3_a9y84a",
+            "parent_id": "t3_a9y84a",
+            "score": 6,
+            "stickied": false,
+            "author_name": "ase1590"
+        },
+        "ecnedp3": {
+            "comment": "as LAME as you",
+            "timeStamp": "2018/12/27-03:18:10",
+            "id": "ecnedp3",
+            "is_submitter": false,
+            "link_id": "t3_a9y84a",
+            "parent_id": "t3_a9y84a",
+            "score": 2,
+            "stickied": false,
+            "author_name": "ragupal"
+        }
+    }
+}

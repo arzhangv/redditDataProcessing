@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi \n\nI don't know if it's the good place to ask this kind of question. but i'll ask it anyway :)\n\nAs you see in the picture, the malware opens the file, check its existence, opens it again and read from it ! \n\nhttp://picpaste.com/zz-A9tWc8Pf.png\n\nI don't find it logical !\nCan it be an obfuscation method ?",
+        "title": "who does it open several times the same file ?",
+        "score": 0,
+        "id": "3ehaji",
+        "commsNum": 2,
+        "timeStamp": "2015/07/24-12:28:15",
+        "author_name": "virus_123",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/3ehaji/who_does_it_open_several_times_the_same_file/"
+    },
+    "posts": {}
+}

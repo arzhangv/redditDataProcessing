@@ -1,0 +1,198 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": " \n\nHi everyone,\n\nI have a client that was infected with ReVil/sodinokibi. He had backups but they were network-attached (already told him how that is not useful).\n\nSo at this point, with no public decryption tools available, I am investigating other options. I have heard of services that offer to be mediators in ransomware payments where you only pay if the decryption is successful.\n\nHas anyone had experience with any of these companies?\n\nI have also read that with sodinokibi, the outcome for decryption is nearly 100% successful because the decryption website is automated. Is this true? Any first hand experience?\n\nThank you!",
+        "title": "Ransomeware Mediating Companies",
+        "score": 1,
+        "id": "ec0w2h",
+        "commsNum": 16,
+        "timeStamp": "2019/12/17-11:50:40",
+        "author_name": "Cicicicico",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 16,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ec0w2h/ransomeware_mediating_companies/"
+    },
+    "posts": {
+        "fckoeba": {
+            "comment": "Hmm I did a long reply to this yesterday... it either didn\u2019t savewhen I posted it or was removed by a mod, \n\nShort answer is Kaspersky Endpoint AV did not find it &amp; Malwarebytes scannner didn\u2019t see it.\n\nThe only one to catch it was Sophos intercept X.\n\nMy confidence in the to mentioned products is shake . Neither offer great protection Imo in 2019..\n\nSide note, I am logging the Sophos web console for managing multiple companies. The Kaspersky one has to be installed at every site and never really worked properly. Leaving some machines un-updated..",
+            "timeStamp": "2019/12/30-10:15:10",
+            "id": "fckoeba",
+            "is_submitter": false,
+            "link_id": "t3_ec0w2h",
+            "parent_id": "t1_fch3cq7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RaNdMViLnCE"
+        },
+        "fch3cq7": {
+            "comment": "How did you find the ransomware on the recycle bin after the recovery? Were the backups affected?",
+            "timeStamp": "2019/12/29-11:14:27",
+            "id": "fch3cq7",
+            "is_submitter": false,
+            "link_id": "t3_ec0w2h",
+            "parent_id": "t1_fba8rak",
+            "score": 1,
+            "stickied": false,
+            "author_name": "socalccna"
+        },
+        "fba8rak": {
+            "comment": "One of my clients got hit with sodinokibi 2 weeks ago, entire network of PCs &amp; servers all encrypted. \nWe were lucky and were using windows server backup (as well as axtape drive) which removed the drive letter from the backup usb drive. I think this was our only saving grace.. \nI was able to set the server up in a new VM and remediate all the infections on the PCs. \nKaspersky endpoint security11.2  did not  stop or even impede the virus.. we moved onto Sophos AV, which immediately found all the nasty bits so we could clean or format the machines.\n\n1 side note,  I actually had to recover the server twice.. the first restored version which I thought was clean, ended up having sodinokibi hidden and protected in VSS recycle bin... major piss off. All good 2 weeks in now.\n\nGl man. This one kinda sucks.",
+            "timeStamp": "2019/12/18-03:54:39",
+            "id": "fba8rak",
+            "is_submitter": false,
+            "link_id": "t3_ec0w2h",
+            "parent_id": "t3_ec0w2h",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RaNdMViLnCE"
+        },
+        "fb9kp6w": {
+            "comment": "[removed]",
+            "timeStamp": "2019/12/17-19:53:19",
+            "id": "fb9kp6w",
+            "is_submitter": false,
+            "link_id": "t3_ec0w2h",
+            "parent_id": "t3_ec0w2h",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fb8w2zb": {
+            "comment": "[removed]",
+            "timeStamp": "2019/12/17-14:53:37",
+            "id": "fb8w2zb",
+            "is_submitter": false,
+            "link_id": "t3_ec0w2h",
+            "parent_id": "t3_ec0w2h",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fb8ne57": {
+            "comment": "Yea this makes no sense what OP is saying. Currently there is no decryption mechanism for Sodinokibi. Unfortunately that means waiting until hopefully there is.",
+            "timeStamp": "2019/12/17-13:20:57",
+            "id": "fb8ne57",
+            "is_submitter": false,
+            "link_id": "t3_ec0w2h",
+            "parent_id": "t1_fb8gfam",
+            "score": 1,
+            "stickied": false,
+            "author_name": "_W0z"
+        },
+        "fb8jacq": {
+            "comment": "Coveware is one i would recommend.",
+            "timeStamp": "2019/12/17-12:39:13",
+            "id": "fb8jacq",
+            "is_submitter": false,
+            "link_id": "t3_ec0w2h",
+            "parent_id": "t3_ec0w2h",
+            "score": 1,
+            "stickied": false,
+            "author_name": "lawrenceabrams"
+        },
+        "fb8j0ab": {
+            "comment": "No problem at all, no point in having the knowledge if you can't share it.\n\nThese days ransoms can generally be negotiated down significantly. For example the numbers I'm looking at are saying the average initial demand for sodinokibi is around $170,000 with the average amount paid after negotiation being $85,000. Generally the fees come in as well under the difference there and they're very up front on the pricing.\n\nPayment is made up front and is still made at your own risk.",
+            "timeStamp": "2019/12/17-12:36:23",
+            "id": "fb8j0ab",
+            "is_submitter": false,
+            "link_id": "t3_ec0w2h",
+            "parent_id": "t1_fb8ifoq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "netsec1355"
+        },
+        "fb8ifoq": {
+            "comment": "I had no idea that the ransom was open for negotiation. In your experience is the cost of the services substantially higher than the ransom being requested? Also, do you know when payment is made? Is it the kind of thing where payment is only made if the decryption was successful?\n\nSorry for all the questions, I've just never run into this problem before.",
+            "timeStamp": "2019/12/17-12:30:39",
+            "id": "fb8ifoq",
+            "is_submitter": true,
+            "link_id": "t3_ec0w2h",
+            "parent_id": "t1_fb8hpi2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Cicicicico"
+        },
+        "fb8hpi2": {
+            "comment": "Coveware is the name of the people we deal with.\n\nIR was incident response.\n\nThe main benefits of dealing with an intermediary are that they are usually better at negotiating down the ransom and also they have accounts already setup to buy crypto currency in the amount necessary which can be a bit of a problem with money laundering regulations in most countries.",
+            "timeStamp": "2019/12/17-12:23:18",
+            "id": "fb8hpi2",
+            "is_submitter": false,
+            "link_id": "t3_ec0w2h",
+            "parent_id": "t1_fb8fx5y",
+            "score": 1,
+            "stickied": false,
+            "author_name": "netsec1355"
+        },
+        "fb8gfam": {
+            "comment": "Like decryption tools? I was under the impression soldinokibi had no decryption available.",
+            "timeStamp": "2019/12/17-12:09:31",
+            "id": "fb8gfam",
+            "is_submitter": true,
+            "link_id": "t3_ec0w2h",
+            "parent_id": "t1_fb8g65j",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Cicicicico"
+        },
+        "fb8g65j": {
+            "comment": "Oh they might be able to point you to appropriate tools. Usually family names varies by av vendors. I'd err on the side of protecting your client's privacy.",
+            "timeStamp": "2019/12/17-12:06:42",
+            "id": "fb8g65j",
+            "is_submitter": false,
+            "link_id": "t3_ec0w2h",
+            "parent_id": "t1_fb8fpab",
+            "score": 1,
+            "stickied": false,
+            "author_name": "meglomania"
+        },
+        "fb8fx5y": {
+            "comment": "Do you mind if I ask which company you have dealt with? Also, what is IR? (excuse my ignorance)",
+            "timeStamp": "2019/12/17-12:04:00",
+            "id": "fb8fx5y",
+            "is_submitter": true,
+            "link_id": "t3_ec0w2h",
+            "parent_id": "t1_fb8fmy1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Cicicicico"
+        },
+        "fb8fpab": {
+            "comment": "How is that helpful to yall? Just curious because I'd rather not violate privacy unless its beneficial for the community or for the client.",
+            "timeStamp": "2019/12/17-12:01:40",
+            "id": "fb8fpab",
+            "is_submitter": true,
+            "link_id": "t3_ec0w2h",
+            "parent_id": "t1_fb8fi8k",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Cicicicico"
+        },
+        "fb8fmy1": {
+            "comment": "Yep, I work in IR and partner with one of these companies to do the negotiation and work as payment intermediary. They have good numbers on payment to decryption outcomes for most common strains of ransomware. The process is very transactional.",
+            "timeStamp": "2019/12/17-12:00:57",
+            "id": "fb8fmy1",
+            "is_submitter": false,
+            "link_id": "t3_ec0w2h",
+            "parent_id": "t3_ec0w2h",
+            "score": 1,
+            "stickied": false,
+            "author_name": "netsec1355"
+        },
+        "fb8fi8k": {
+            "comment": "You might want to share a representative hash (if that's contractually possible).",
+            "timeStamp": "2019/12/17-11:59:37",
+            "id": "fb8fi8k",
+            "is_submitter": false,
+            "link_id": "t3_ec0w2h",
+            "parent_id": "t3_ec0w2h",
+            "score": 1,
+            "stickied": false,
+            "author_name": "meglomania"
+        }
+    }
+}

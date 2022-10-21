@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Her name is (Android/Adware.MobiDash)\n\nFirst off, you must be wondering how I met this bitch.\nWell it's pretty simple, I'm a fucking dumbass. I love to download APK files and I mean I love to. Of course I was taught the ABC of downloading shit but even that couldn't stop my idiocy. \n\nAnyways, I was trying to torrent a free mod of the Google play library.(mistake#1, it's impossible) I like any good idiot clicked on the first link cuz why not\ud83e\udd37(mistake#2). Then once on the site, I saw a big green button with FREE DOWNLOAD written on it. So what do I do? I fucking clicked it(mistake#3). It then redirected me to an ad page with the usual are you sure you want to download message from Google at the bottom. Of course I didn't see the huge Red flags so I motherfucking clicked yes. It took 15 seconds to download and as soon as it did, I opened the download manager to install it. It finished installing and guess what Happened when I went to check if it worked. Yup you guessed it right. fucking nothing, nada. Ok this is where any sound individual would uninstall the program and just find a new one. Well I'm not a sound individual. I had already fucked up but what ensued next is next level retardness. Lik",
+        "title": "Let me present you the biggest BITCH i have encountered.",
+        "score": 0,
+        "id": "93xbt7",
+        "commsNum": 6,
+        "timeStamp": "2018/08/02-00:53:08",
+        "author_name": "ottomandis",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/93xbt7/let_me_present_you_the_biggest_bitch_i_have/"
+    },
+    "posts": {
+        "e3h2mhk": {
+            "comment": "Meh people always have opinions on AV, its a complex issue. I believe there was some industry testing done on mobile AV's.\n\nhttps://www.av-test.org/en/antivirus/mobile-devices/\n\nhttps://www.av-comparatives.org/consumer/test-results/android-mobile/\n\nLooking at the ratings, you may want to consider bitdefender over Avira.",
+            "timeStamp": "2018/08/02-07:09:55",
+            "id": "e3h2mhk",
+            "is_submitter": false,
+            "link_id": "t3_93xbt7",
+            "parent_id": "t1_e3gyt2n",
+            "score": 2,
+            "stickied": false,
+            "author_name": "sephstorm"
+        },
+        "e3gyt2n": {
+            "comment": "I've heard over the years that android antivirus are trash and a rip-off. Do you have any data that indicate that they are useful?\n(I don't claim they are or aren't, i'm just looking for an answer)",
+            "timeStamp": "2018/08/02-06:09:24",
+            "id": "e3gyt2n",
+            "is_submitter": false,
+            "link_id": "t3_93xbt7",
+            "parent_id": "t1_e3gq06c",
+            "score": 1,
+            "stickied": false,
+            "author_name": "416D6974"
+        },
+        "e3gxraa": {
+            "comment": "Boot to recovery and perform a full wipe. Save nothing. \n\nOnce that's done, throw it in the nearest fire. \n",
+            "timeStamp": "2018/08/02-05:50:07",
+            "id": "e3gxraa",
+            "is_submitter": false,
+            "link_id": "t3_93xbt7",
+            "parent_id": "t3_93xbt7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Xapisity"
+        },
+        "e3gv4wb": {
+            "comment": "&gt; Her name is (Android/**Adware**.MobiDash) \n\nnah shitpost",
+            "timeStamp": "2018/08/02-04:56:46",
+            "id": "e3gv4wb",
+            "is_submitter": false,
+            "link_id": "t3_93xbt7",
+            "parent_id": "t3_93xbt7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ragupal"
+        },
+        "e3gq06c": {
+            "comment": "&gt;A place for malware reports and information. This is NOT a place for help with malware removal or various other end-user questions.\n\n&gt;Please redirect questions related to malware removal to /r/antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware.\n\nAlso if you had already had AV on your phone this might not have happened. In any case, I would throw the thing away but its up to you.",
+            "timeStamp": "2018/08/02-02:33:26",
+            "id": "e3gq06c",
+            "is_submitter": false,
+            "link_id": "t3_93xbt7",
+            "parent_id": "t3_93xbt7",
+            "score": 6,
+            "stickied": false,
+            "author_name": "sephstorm"
+        },
+        "e3gnl5o": {
+            "comment": "?",
+            "timeStamp": "2018/08/02-01:10:28",
+            "id": "e3gnl5o",
+            "is_submitter": false,
+            "link_id": "t3_93xbt7",
+            "parent_id": "t3_93xbt7",
+            "score": 7,
+            "stickied": false,
+            "author_name": "StevenC21"
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "My entire calendar was flooded with some Cyrillic (Russian) words with malicious (I'm certain) links. I deleted the entire event from my calendar in two taps. Is there anything I should be aware of?",
+        "title": "calendar flooded",
+        "score": 1,
+        "id": "eho3d5",
+        "commsNum": 4,
+        "timeStamp": "2019/12/30-08:22:25",
+        "author_name": "A-Frosty-day",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/eho3d5/calendar_flooded/"
+    },
+    "posts": {
+        "fckksns": {
+            "comment": "[removed]",
+            "timeStamp": "2019/12/30-09:38:14",
+            "id": "fckksns",
+            "is_submitter": false,
+            "link_id": "t3_eho3d5",
+            "parent_id": "t3_eho3d5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fckkg2k": {
+            "comment": "Yeah, Google auto-accepts calendar invites by default.   \nYou can turn that feature off, but I find that I'm far more likely to miss meetings.  - still haven't turned it on yet, but I've been tempted to.",
+            "timeStamp": "2019/12/30-09:34:36",
+            "id": "fckkg2k",
+            "is_submitter": false,
+            "link_id": "t3_eho3d5",
+            "parent_id": "t1_fckjj49",
+            "score": 1,
+            "stickied": false,
+            "author_name": "hacksauce"
+        },
+        "fckjj49": {
+            "comment": "I've a 2-step verification on my Google account, tied to my Calendar. Other emails were also attached in the malicious event's description, marked as the participants, including me, myself. I think some website which had my email got its data stolen and spam emails are being sent to the addresses?",
+            "timeStamp": "2019/12/30-09:25:09",
+            "id": "fckjj49",
+            "is_submitter": true,
+            "link_id": "t3_eho3d5",
+            "parent_id": "t1_fckh8wt",
+            "score": 1,
+            "stickied": false,
+            "author_name": "A-Frosty-day"
+        },
+        "fckh8wt": {
+            "comment": "Not sure which calendar you are talking about (google, apple, other) but I'd change your passwords right away.",
+            "timeStamp": "2019/12/30-09:01:25",
+            "id": "fckh8wt",
+            "is_submitter": false,
+            "link_id": "t3_eho3d5",
+            "parent_id": "t3_eho3d5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "stephenmjay"
+        }
+    }
+}

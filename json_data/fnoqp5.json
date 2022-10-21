@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I\u2019m looking to analyze a binary for a click-fraud Trojan that commonly is called Redyms or Ramdo, but can\u2019t find anywhere to download it online. I\u2019ve found hashes for a sample (from the analysis is the article [here](https://unit42.paloaltonetworks.com/unit42-ramdo/)) but can\u2019t find an actual sample. Does anyone know where or how I could find one?",
+        "title": "Looking for Redyms malware sample.",
+        "score": 1,
+        "id": "fnoqp5",
+        "commsNum": 1,
+        "timeStamp": "2020/03/23-11:10:28",
+        "author_name": "scarletfire78",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/fnoqp5/looking_for_redyms_malware_sample/"
+    },
+    "posts": {
+        "flc70p8": {
+            "comment": "I found a sample on the Malware Analysis Center, it's not the exact file from the report but Anti-virus engines are detecting it as \"Ramdo\". Here is the Virus Total report: [**https://www.virustotal.com/gui/file/41411fe02e7fd60b4728e8601860e125bb71850275a3175fb606a9de820d218f/detection**](https://www.virustotal.com/gui/file/41411fe02e7fd60b4728e8601860e125bb71850275a3175fb606a9de820d218f/detection)\n\n&amp;#x200B;\n\nYou can download it here: [https://practicalsecurityanalytics.com/malware-analysis-center/downloads/](https://practicalsecurityanalytics.com/malware-analysis-center/downloads/) the database of malware in the Malware Analysis Center is incredible, you just need to know some basic queries: [https://practicalsecurityanalytics.com/searching/](https://practicalsecurityanalytics.com/searching/) and create an account (just email [admin@practicalsecurityanalytics.com](mailto:admin@practicalsecurityanalytics.com), also can email if you have any questions). Also I would recommend installing this on Windows 10 because Windows 7 I have had some issues getting this going. I hope this helps. \n\n##",
+            "timeStamp": "2020/03/23-20:46:14",
+            "id": "flc70p8",
+            "is_submitter": false,
+            "link_id": "t3_fnoqp5",
+            "parent_id": "t3_fnoqp5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "dkaye_mal_anst18"
+        }
+    }
+}

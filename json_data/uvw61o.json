@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "malware or just a shitty scam? this is the 5th person that's been a victim of this $500 scam this month",
+        "score": 1,
+        "id": "uvw61o",
+        "commsNum": 0,
+        "timeStamp": "2022/05/23-02:16:39",
+        "author_name": "itguy_tyson",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/gallery/uvw61o"
+    },
+    "posts": {
+        "i9nxcse": {
+            "comment": "[removed]",
+            "timeStamp": "2022/05/23-02:21:46",
+            "id": "i9nxcse",
+            "is_submitter": false,
+            "link_id": "t3_uvw61o",
+            "parent_id": "t1_i9nxbxh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "i9nxbxh": {
+            "comment": "So I work as an i.t computer repairer, people are being targeted by the very common Microsoft scam pop up ad. Then ringing the number getting team viewer or anydesk installed on their computer and getting this software installed, they then offer them a life time support service for $500 normally there is a third program aswell, this is about the 5th one this month which has me worried, I've been solving by just doing format reloads but if there is any info on what exactly this stuff is and if a format reload is required that would be great it seems to edit some stuff in the registry to add notes in the task bar ect, sorry if this ain't the right place to post but I was thinking you guys might have come across it.\n\nThe company I've heard a few times referred to as smart net",
+            "timeStamp": "2022/05/23-02:21:23",
+            "id": "i9nxbxh",
+            "is_submitter": true,
+            "link_id": "t3_uvw61o",
+            "parent_id": "t3_uvw61o",
+            "score": 1,
+            "stickied": false,
+            "author_name": "itguy_tyson"
+        }
+    }
+}

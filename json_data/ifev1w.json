@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "I just finished installing titan fall 2 and this popped up, should I be worried",
+        "score": 1,
+        "id": "ifev1w",
+        "commsNum": 5,
+        "timeStamp": "2020/08/23-17:36:54",
+        "author_name": "FoulRookie",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://i.redd.it/tkh65g6yiui51.png"
+    },
+    "posts": {
+        "g2q5il3": {
+            "comment": "honestly I would not recommend a third party AV. Like I mentioned, just windows defender will do the trick. If you want extra protection, Malwarebytes is a good all-around defense application. Those 2 together would be all you need",
+            "timeStamp": "2020/08/24-13:00:44",
+            "id": "g2q5il3",
+            "is_submitter": false,
+            "link_id": "t3_ifev1w",
+            "parent_id": "t1_g2omi9b",
+            "score": 1,
+            "stickied": false,
+            "author_name": "NLonSec"
+        },
+        "g2omi9b": {
+            "comment": "you were actually very correct with that, I didnt want to uninstall avast because its the antivirus that my dad trusted but I literally had to uninstall it just install the game on my computer so im just gonna find a different one",
+            "timeStamp": "2020/08/24-05:09:37",
+            "id": "g2omi9b",
+            "is_submitter": true,
+            "link_id": "t3_ifev1w",
+            "parent_id": "t1_g2n6lsq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "FoulRookie"
+        },
+        "g2n6lsq": {
+            "comment": "The real malware here is avast. Uninstall it and just use windows defender, it's plenty good these days. Just practice smart browsing and don't click on fishy links",
+            "timeStamp": "2020/08/23-17:47:02",
+            "id": "g2n6lsq",
+            "is_submitter": false,
+            "link_id": "t3_ifev1w",
+            "parent_id": "t3_ifev1w",
+            "score": 3,
+            "stickied": false,
+            "author_name": "NLonSec"
+        },
+        "g2n63ug": {
+            "comment": "Ok thx",
+            "timeStamp": "2020/08/23-17:42:15",
+            "id": "g2n63ug",
+            "is_submitter": true,
+            "link_id": "t3_ifev1w",
+            "parent_id": "t1_g2n5xvv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "FoulRookie"
+        },
+        "g2n5xvv": {
+            "comment": "unlikely it\u2019s actual malware, more like an errant signature, especially considering it\u2019s from Steam.  If it were a torrent or other sketchy means, I\u2019d be more worried.",
+            "timeStamp": "2020/08/23-17:40:42",
+            "id": "g2n5xvv",
+            "is_submitter": false,
+            "link_id": "t3_ifev1w",
+            "parent_id": "t3_ifev1w",
+            "score": 2,
+            "stickied": false,
+            "author_name": "chadillac83"
+        }
+    }
+}

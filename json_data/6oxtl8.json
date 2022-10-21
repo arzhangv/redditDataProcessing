@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[removed]",
+        "title": "Untitled app may be a virus?",
+        "score": 0,
+        "id": "6oxtl8",
+        "commsNum": 4,
+        "timeStamp": "2017/07/22-15:21:06",
+        "author_name": "SassyDay",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6oxtl8/untitled_app_may_be_a_virus/"
+    },
+    "posts": {
+        "dkldtmm": {
+            "comment": "I've had much success using the Symantec forceful removal tool...",
+            "timeStamp": "2017/07/22-20:34:30",
+            "id": "dkldtmm",
+            "is_submitter": false,
+            "link_id": "t3_6oxtl8",
+            "parent_id": "t1_dkl569b",
+            "score": 2,
+            "stickied": false,
+            "author_name": "iCkerous"
+        },
+        "dkl569b": {
+            "comment": "I've never had success with anything from Symantec",
+            "timeStamp": "2017/07/22-17:01:15",
+            "id": "dkl569b",
+            "is_submitter": false,
+            "link_id": "t3_6oxtl8",
+            "parent_id": "t1_dkl54fy",
+            "score": 17,
+            "stickied": false,
+            "author_name": "boli99"
+        },
+        "dkl54fy": {
+            "comment": "Get out of here with your semantics bro",
+            "timeStamp": "2017/07/22-17:00:05",
+            "id": "dkl54fy",
+            "is_submitter": false,
+            "link_id": "t3_6oxtl8",
+            "parent_id": "t1_dkl1ae6",
+            "score": -2,
+            "stickied": false,
+            "author_name": "dayz_ike"
+        },
+        "dkl1ae6": {
+            "comment": " A virus attaches itself to other code/programs. That's not what you seem to be describing.\n\nWhat you are describing currently just sounds like 'an unknown program'\n\nHave you considered installing and scanning with some antivirus? Or how about sending the exe  virustotal? Or perhaps install process explorer and let it crosscheck running executables with virustotal.",
+            "timeStamp": "2017/07/22-15:31:37",
+            "id": "dkl1ae6",
+            "is_submitter": false,
+            "link_id": "t3_6oxtl8",
+            "parent_id": "t3_6oxtl8",
+            "score": 3,
+            "stickied": false,
+            "author_name": "boli99"
+        }
+    }
+}

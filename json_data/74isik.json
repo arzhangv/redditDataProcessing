@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Experts discovered a SYSCON Backdoor using FTP Server as C",
+        "score": 1,
+        "id": "74isik",
+        "commsNum": 0,
+        "timeStamp": "2017/10/05-13:39:17",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/63873/malware/syscon-backdoor-ftp.html"
+    },
+    "posts": {}
+}

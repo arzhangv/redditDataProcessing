@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Static Detection of Portable Executable Files",
+        "score": 1,
+        "id": "ikr1zz",
+        "commsNum": 0,
+        "timeStamp": "2020/09/01-12:30:22",
+        "author_name": "jack_ullrich",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://winternl.com/static-detection-of-portable-executable-files/"
+    },
+    "posts": {}
+}

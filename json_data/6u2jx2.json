@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hello,\nIn order to have a balanced data set, I would need to know where I could find collections of goodware to analyze. Specifically good executables. There are no problems for good docs, images or other files, but it seems the only way to find good executables are to try and either collect it on your computer or collect it by hand, or some other ways (like having paid VT account and have only good executables to be downloaded). Are there any other thoughts?\nThank you\nL.",
+        "title": "Goodware sources for malware analysis",
+        "score": 11,
+        "id": "6u2jx2",
+        "commsNum": 4,
+        "timeStamp": "2017/08/16-07:54:03",
+        "author_name": "Levukas",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6u2jx2/goodware_sources_for_malware_analysis/"
+    },
+    "posts": {
+        "dlr4i1j": {
+            "comment": "https://github.com/krmaxwell/maltrieve",
+            "timeStamp": "2017/08/17-07:51:04",
+            "id": "dlr4i1j",
+            "is_submitter": false,
+            "link_id": "t3_6u2jx2",
+            "parent_id": "t3_6u2jx2",
+            "score": 0,
+            "stickied": false,
+            "author_name": "31ric"
+        },
+        "dlpou8w": {
+            "comment": "[deleted]",
+            "timeStamp": "2017/08/16-11:05:43",
+            "id": "dlpou8w",
+            "is_submitter": false,
+            "link_id": "t3_6u2jx2",
+            "parent_id": "t3_6u2jx2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "dlpfo25": {
+            "comment": "Thank you. Yes, this is an issue in fact. ",
+            "timeStamp": "2017/08/16-08:32:03",
+            "id": "dlpfo25",
+            "is_submitter": true,
+            "link_id": "t3_6u2jx2",
+            "parent_id": "t1_dlpev34",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Levukas"
+        },
+        "dlpev34": {
+            "comment": "Clean sample collections are very expensive to compile, so I don't know of anything that would be available for free.\n\nVT access and downloading against some known whitelist such as NSRL probably makes the most sense. Just the fact that there are no detections is not strong enough indication of a sample being clean.",
+            "timeStamp": "2017/08/16-08:18:14",
+            "id": "dlpev34",
+            "is_submitter": false,
+            "link_id": "t3_6u2jx2",
+            "parent_id": "t3_6u2jx2",
+            "score": 4,
+            "stickied": false,
+            "author_name": "4745454B"
+        }
+    }
+}

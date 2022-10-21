@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "[removed]",
+        "title": "gnucash",
+        "score": 1,
+        "id": "i1zesc",
+        "commsNum": 1,
+        "timeStamp": "2020/08/01-13:42:09",
+        "author_name": "humbleoverlord",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/i1zesc/gnucash/"
+    },
+    "posts": {
+        "g00rm8m": {
+            "comment": "[removed]",
+            "timeStamp": "2020/08/01-13:44:23",
+            "id": "g00rm8m",
+            "is_submitter": false,
+            "link_id": "t3_i1zesc",
+            "parent_id": "t3_i1zesc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

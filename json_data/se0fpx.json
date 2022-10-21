@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hey everybody, recently joined this sub but have been messing around with Malware for about 6 months now. Wondering if I could get advice or anything from more experienced users on malware lab setup \n\nCurrent SetUp:\n\nHost- Windows10 (trying to get a Mac or Linux OS for safety) \n\nVirtualBox Environment: \n\nWindows 10 VM with most security settings disabled\n\nRemnux VM for network analysis \n\n(Both on an internal network disconnected from the internet and can only communicate with each other) \n\nVirtualBox Guest Additions installed \nNo shared folders with host\n\nTo add a sample to Windows VM I simply drag and drop from host (sample is compressed with password) \n\n\nAny cracks in my setup? Are Guest additions generally a risk? And of course I\u2019m mindful of any malware that has ability to escape VMs. \n\nThanks",
+        "title": "Opinions on SetUp",
+        "score": 1,
+        "id": "se0fpx",
+        "commsNum": 0,
+        "timeStamp": "2022/01/27-07:04:18",
+        "author_name": "slatticus",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/se0fpx/opinions_on_setup/"
+    },
+    "posts": {
+        "huh5ini": {
+            "comment": "Check out retoolkit for some minimal tools for Windows (https://github.com/mentebinaria/retoolkit) \nIf you learn a little about inno setup you can modify his and build your custom pack of tools. Other than those learn more about REMnux by going over the new docs (docs.remnux.org), it has basically everything you need for static analysis.\nFor dynamic, you'll probably want to have the sysinternals suite, Fiddler 4 Classic, and an API logger like APIMiner or APIMonitor. You can just use procmon and run it through ProcDOT for visualization, but it's a bit tedious to filter out noise there.",
+            "timeStamp": "2022/01/27-11:02:22",
+            "id": "huh5ini",
+            "is_submitter": false,
+            "link_id": "t3_se0fpx",
+            "parent_id": "t3_se0fpx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "lakitustanfield"
+        },
+        "hugcoub": {
+            "comment": "Second flareVM. Comes with most of the tools you'll need.",
+            "timeStamp": "2022/01/27-08:10:48",
+            "id": "hugcoub",
+            "is_submitter": false,
+            "link_id": "t3_se0fpx",
+            "parent_id": "t1_hug7q2i",
+            "score": 1,
+            "stickied": false,
+            "author_name": "confusedbeaver"
+        },
+        "hug7q2i": {
+            "comment": "FlareVM is also a good integration",
+            "timeStamp": "2022/01/27-07:39:43",
+            "id": "hug7q2i",
+            "is_submitter": false,
+            "link_id": "t3_se0fpx",
+            "parent_id": "t3_se0fpx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "canofspam2020"
+        }
+    }
+}

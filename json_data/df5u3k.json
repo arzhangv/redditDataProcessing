@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Munin: Online hash checker for Virustotal, HybridAnalysis, Any.Run, URLhaus ...",
+        "score": 34,
+        "id": "df5u3k",
+        "commsNum": 3,
+        "timeStamp": "2019/10/08-13:36:55",
+        "author_name": "g0relics",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://github.com/Neo23x0/munin"
+    },
+    "posts": {
+        "f33v18p": {
+            "comment": "Yeah - extremely bad naming on this one.",
+            "timeStamp": "2019/10/09-11:28:21",
+            "id": "f33v18p",
+            "is_submitter": false,
+            "link_id": "t3_df5u3k",
+            "parent_id": "t1_f31j0fb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TheDarthSnarf"
+        },
+        "f32faxn": {
+            "comment": "Excellent work! I'm working on a similar tool that does this, as well submitting other IOC's to the same sites.",
+            "timeStamp": "2019/10/09-00:31:47",
+            "id": "f32faxn",
+            "is_submitter": false,
+            "link_id": "t3_df5u3k",
+            "parent_id": "t3_df5u3k",
+            "score": 1,
+            "stickied": false,
+            "author_name": "koeningyou666"
+        },
+        "f31j0fb": {
+            "comment": "Oh fuck, i hate name collisions.  \n\nhttp://munin-monitoring.org/ is very well established and is still one of the easiest ways to get very detailed monitoring of your network &amp; hosts in just a few minutes to set up, with dead simple flow for making your own plugins.",
+            "timeStamp": "2019/10/08-16:17:13",
+            "id": "f31j0fb",
+            "is_submitter": false,
+            "link_id": "t3_df5u3k",
+            "parent_id": "t3_df5u3k",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Slateclean"
+        }
+    }
+}

@@ -1,0 +1,198 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "So basically i have several .efdc files which have been encrypted due to a ransomeware which is djvu most probably looking on the text provided, I'm just concerned with getting back some jpeg files. I've tried to find possible ways but still in vain.  \nWould be really glad if the community can help me out with this.  \nI'm fine with scripting if it comes to that.",
+        "title": "DJVU Ransomeware(Possibly) data extraction",
+        "score": 1,
+        "id": "ptstmu",
+        "commsNum": 16,
+        "timeStamp": "2021/09/23-04:05:47",
+        "author_name": "MalwarePerseus",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 16,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ptstmu/djvu_ransomewarepossibly_data_extraction/"
+    },
+    "posts": {
+        "hfyulou": {
+            "comment": "If you don't have backups, then yes.",
+            "timeStamp": "2021/10/09-03:43:11",
+            "id": "hfyulou",
+            "is_submitter": false,
+            "link_id": "t3_ptstmu",
+            "parent_id": "t1_hfyu9k9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "coconut_dot_jpg"
+        },
+        "hfyu9k9": {
+            "comment": "They have requested 0.01 btc for decryption and the files are important, should i pay",
+            "timeStamp": "2021/10/09-03:38:54",
+            "id": "hfyu9k9",
+            "is_submitter": false,
+            "link_id": "t3_ptstmu",
+            "parent_id": "t1_hfytt8u",
+            "score": 1,
+            "stickied": false,
+            "author_name": "broooomq"
+        },
+        "hfytt8u": {
+            "comment": "All I know is ransomware makers hate getting a bad rep.\n\nIf there were rumors floating around the internet that they don't honor their end of the deal, nobody would pay their ransom.\n\nBut this is also why its important to see if there's a way to decrypt it, or prevent getting it in the first place.",
+            "timeStamp": "2021/10/09-03:33:03",
+            "id": "hfytt8u",
+            "is_submitter": false,
+            "link_id": "t3_ptstmu",
+            "parent_id": "t1_hfytj8x",
+            "score": 1,
+            "stickied": false,
+            "author_name": "coconut_dot_jpg"
+        },
+        "hfytj8x": {
+            "comment": "What are the chances of getting data back after paying the ransom. Just got infected with the tisc version",
+            "timeStamp": "2021/10/09-03:29:24",
+            "id": "hfytj8x",
+            "is_submitter": false,
+            "link_id": "t3_ptstmu",
+            "parent_id": "t1_hdz1oen",
+            "score": 1,
+            "stickied": false,
+            "author_name": "broooomq"
+        },
+        "heo2w2r": {
+            "comment": "If you have a JPEG shot with same camera: [https://youtu.be/x-6W9nsnbys](https://youtu.be/x-6W9nsnbys).\n\nOr send them to me (including reference file from same camera), joep@disktuna.com",
+            "timeStamp": "2021/09/28-18:20:18",
+            "id": "heo2w2r",
+            "is_submitter": false,
+            "link_id": "t3_ptstmu",
+            "parent_id": "t3_ptstmu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "magnificent_starfish"
+        },
+        "heia6z9": {
+            "comment": "[removed]",
+            "timeStamp": "2021/09/27-12:40:34",
+            "id": "heia6z9",
+            "is_submitter": false,
+            "link_id": "t3_ptstmu",
+            "parent_id": "t1_hdz1oen",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "he4csgd": {
+            "comment": "Check here maybe\nhttps://www.nomoreransom.org/en/decryption-tools.html",
+            "timeStamp": "2021/09/24-11:18:48",
+            "id": "he4csgd",
+            "is_submitter": false,
+            "link_id": "t3_ptstmu",
+            "parent_id": "t1_he42qhd",
+            "score": 1,
+            "stickied": false,
+            "author_name": "hotmagnet"
+        },
+        "he42qhd": {
+            "comment": "Hey! Which ones, if you can specify?",
+            "timeStamp": "2021/09/24-10:08:20",
+            "id": "he42qhd",
+            "is_submitter": true,
+            "link_id": "t3_ptstmu",
+            "parent_id": "t1_hdzgk86",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MalwarePerseus"
+        },
+        "he42npw": {
+            "comment": "Hey, tbh I didn't get infected but I was running a malware analysis test on some of my files. And I pretty much found the script which coverts the normal jpeg file into an efdc djvu based file. \n\nThanks for the link tho, tried it all, turns out all ways stated online are either outdated to just scam.",
+            "timeStamp": "2021/09/24-10:07:47",
+            "id": "he42npw",
+            "is_submitter": true,
+            "link_id": "t3_ptstmu",
+            "parent_id": "t1_hdzhtfu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MalwarePerseus"
+        },
+        "he0f2od": {
+            "comment": "[removed]",
+            "timeStamp": "2021/09/23-14:06:07",
+            "id": "he0f2od",
+            "is_submitter": false,
+            "link_id": "t3_ptstmu",
+            "parent_id": "t3_ptstmu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hdzhtfu": {
+            "comment": "Maybe this will help: https://geeksadvice.com/decrypt-files-locked-by-stop-djvu-ransomware-virus/amp/\n\nHow did you get infected?",
+            "timeStamp": "2021/09/23-10:09:22",
+            "id": "hdzhtfu",
+            "is_submitter": false,
+            "link_id": "t3_ptstmu",
+            "parent_id": "t3_ptstmu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Aadsterken"
+        },
+        "hdzgk86": {
+            "comment": "There are decryptors for djvu family, try them",
+            "timeStamp": "2021/09/23-10:00:50",
+            "id": "hdzgk86",
+            "is_submitter": false,
+            "link_id": "t3_ptstmu",
+            "parent_id": "t3_ptstmu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "hotmagnet"
+        },
+        "hdzcqw6": {
+            "comment": "If that wasn't obvious XD Thanks tho.",
+            "timeStamp": "2021/09/23-09:34:58",
+            "id": "hdzcqw6",
+            "is_submitter": true,
+            "link_id": "t3_ptstmu",
+            "parent_id": "t1_hdyn8j2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MalwarePerseus"
+        },
+        "hdzckyl": {
+            "comment": "Hmm alright, thanks!",
+            "timeStamp": "2021/09/23-09:33:51",
+            "id": "hdzckyl",
+            "is_submitter": true,
+            "link_id": "t3_ptstmu",
+            "parent_id": "t1_hdz1oen",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MalwarePerseus"
+        },
+        "hdz1oen": {
+            "comment": "DJVU is a particularly nasty modern ransomware, with online randomly generated keys that 90% of the time, even those ransomware recovery tools from say, Emsisoft and the like, don't even have the capability to undo yet.\n\nYou can consult other people on how to find backups after ransomware attacks but normally ransomware aims to overwrite or completely erase shadow copies as well.\n\nSadly as much as I disdain it, I recommend paying the ransom and, remembering this as a life lesson for the future.\n\nRealistically, you can't brute force an unknown ransomware key, especially a modern one such as this.",
+            "timeStamp": "2021/09/23-08:17:52",
+            "id": "hdz1oen",
+            "is_submitter": false,
+            "link_id": "t3_ptstmu",
+            "parent_id": "t3_ptstmu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "coconut_dot_jpg"
+        },
+        "hdyn8j2": {
+            "comment": "The easiest way to do it is pay the ransom",
+            "timeStamp": "2021/09/23-06:33:14",
+            "id": "hdyn8j2",
+            "is_submitter": false,
+            "link_id": "t3_ptstmu",
+            "parent_id": "t3_ptstmu",
+            "score": 3,
+            "stickied": false,
+            "author_name": "Trolling_turd"
+        }
+    }
+}

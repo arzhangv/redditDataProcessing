@@ -1,0 +1,121 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I noticed that when I was searching with the built in new tab homescreen that if you went away from the tab you just used to search and opened a new tab, the tab you used to search auto-directed to bing. I was like... \"hmmm, that's strange, I didn't change my default search engine\", after some googling, apparently this add-on was hijacked with malware. I quickly went to remove the plugin, which worked seemingly enough, but in the process it opened up a new tab with some russian language, I quickly closed it and made sure to run a scan with Malwarebytes.   \n\n\nBe careful, everyone. Safe browsing to all.",
+        "title": "Google Chrome Extension Dark Theme Facebook Plug-In Is Infected!",
+        "score": 1,
+        "id": "dxq1cl",
+        "commsNum": 9,
+        "timeStamp": "2019/11/17-10:09:34",
+        "author_name": "NewWorld89",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 9,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/dxq1cl/google_chrome_extension_dark_theme_facebook/"
+    },
+    "posts": {
+        "f83w6ht": {
+            "comment": "&gt;Its been taken down now.  \"**Dark Theme for Facebook and Other Websites\"**  \n[https://chrome.google.com/webstore/detail/dark-theme-for-facebook-a/fkfobiagdiioemjmpdecklcjaplpljdo?hl=he](https://chrome.google.com/webstore/detail/dark-theme-for-facebook-a/fkfobiagdiioemjmpdecklcjaplpljdo?hl=he)",
+            "timeStamp": "2019/11/19-20:03:55",
+            "id": "f83w6ht",
+            "is_submitter": false,
+            "link_id": "t3_dxq1cl",
+            "parent_id": "t1_f7xdc2w",
+            "score": 1,
+            "stickied": false,
+            "author_name": "headinhands"
+        },
+        "f83uqbb": {
+            "comment": "I was getting Yahoo search redirects from \"**Dark Theme for Facebook and Other Websites\"**  \n[https://chrome.google.com/webstore/detail/dark-theme-for-facebook-a/fkfobiagdiioemjmpdecklcjaplpljdo?hl=he](https://chrome.google.com/webstore/detail/dark-theme-for-facebook-a/fkfobiagdiioemjmpdecklcjaplpljdo?hl=he)   \nWhich is now a 404, I'd only installed it a few weeks ago.",
+            "timeStamp": "2019/11/19-19:44:34",
+            "id": "f83uqbb",
+            "is_submitter": false,
+            "link_id": "t3_dxq1cl",
+            "parent_id": "t3_dxq1cl",
+            "score": 1,
+            "stickied": false,
+            "author_name": "headinhands"
+        },
+        "f80qj88": {
+            "comment": "Confirmed. I found an obscure post on google support forums about removing extensions one by one and sure enough this fixed it.\n\n&amp;#x200B;\n\nThe specific symptoms were that when you perform a Google search it completes as usual. Then when you open a new tab or click a result link from the normal google results you just got the original Chrome tab you searched in redirects to a bing search for the same search phrase or keyword while you're not looking.",
+            "timeStamp": "2019/11/18-19:52:50",
+            "id": "f80qj88",
+            "is_submitter": false,
+            "link_id": "t3_dxq1cl",
+            "parent_id": "t3_dxq1cl",
+            "score": 1,
+            "stickied": false,
+            "author_name": "g0stsec"
+        },
+        "f7y20nl": {
+            "comment": "It is amazing that people still trust things that have the word Facebook in them",
+            "timeStamp": "2019/11/18-05:35:24",
+            "id": "f7y20nl",
+            "is_submitter": false,
+            "link_id": "t3_dxq1cl",
+            "parent_id": "t3_dxq1cl",
+            "score": 1,
+            "stickied": false,
+            "author_name": "starbearer92"
+        },
+        "f7xpuro": {
+            "comment": "\\+1 for this - it's infected with malware that works as you described. When you uninstall it, it opens a russian \"why did you uninstall this?\" survey page.",
+            "timeStamp": "2019/11/18-01:23:14",
+            "id": "f7xpuro",
+            "is_submitter": false,
+            "link_id": "t3_dxq1cl",
+            "parent_id": "t3_dxq1cl",
+            "score": 1,
+            "stickied": false,
+            "author_name": "QuizmasterJ"
+        },
+        "f7xpea3": {
+            "comment": "OP in case you need a replacement extension try out Sauron extension.",
+            "timeStamp": "2019/11/18-01:11:37",
+            "id": "f7xpea3",
+            "is_submitter": false,
+            "link_id": "t3_dxq1cl",
+            "parent_id": "t3_dxq1cl",
+            "score": 1,
+            "stickied": false,
+            "author_name": "pesky_psycho"
+        },
+        "f7xpcfb": {
+            "comment": "iirc bing brings in $4B every year for Microsoft",
+            "timeStamp": "2019/11/18-01:10:20",
+            "id": "f7xpcfb",
+            "is_submitter": false,
+            "link_id": "t3_dxq1cl",
+            "parent_id": "t1_f7wzqmw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "pesky_psycho"
+        },
+        "f7xdc2w": {
+            "comment": "What's the extension id?",
+            "timeStamp": "2019/11/17-21:03:47",
+            "id": "f7xdc2w",
+            "is_submitter": false,
+            "link_id": "t3_dxq1cl",
+            "parent_id": "t3_dxq1cl",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ontheprowl"
+        },
+        "f7wzqmw": {
+            "comment": "&gt;search auto-directed to bing\n\nMicrosoft desperately trying to get people to keep Bing search relevant in 2019..",
+            "timeStamp": "2019/11/17-18:00:20",
+            "id": "f7wzqmw",
+            "is_submitter": false,
+            "link_id": "t3_dxq1cl",
+            "parent_id": "t3_dxq1cl",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Schnitzel725"
+        }
+    }
+}

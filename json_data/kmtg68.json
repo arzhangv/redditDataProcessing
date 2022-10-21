@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hey all. Looking into setting up a honey pot on something like digital ocean so I can capture malware to practice analysis on. Does anyone have an recommendations for free/open source solutions to transfer potentially malicious from the honey pot to my lab environment?   \n\n\nObviously trying to avoid any direct network connections. Was thinking of using a cloud storage like google drive but wanted to see if there were better options available / what people recommend.\n\n&amp;#x200B;\n\nLastly any recommendations on setting up a malware honey pot would be greatly appreciated!!",
+        "title": "Safely Transferring Files from Malware Honeypot",
+        "score": 1,
+        "id": "kmtg68",
+        "commsNum": 2,
+        "timeStamp": "2020/12/29-18:57:27",
+        "author_name": "wakester25",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/kmtg68/safely_transferring_files_from_malware_honeypot/"
+    },
+    "posts": {
+        "ghjwzyz": {
+            "comment": "If your main focus is getting malware samples to practice reverse engineering, I would highly recommend using free repositories so you can find good samples and not be reliant on just what your honeypot collects.\n\nIf you're not familiar with the different free malware repositories, I have a section just for that in my malware analysis resources blog post, [https://agdcservices.com/blog/resources-for-learning-malware-analysis/](https://agdcservices.com/blog/resources-for-learning-malware-analysis/)",
+            "timeStamp": "2020/12/30-16:02:22",
+            "id": "ghjwzyz",
+            "is_submitter": false,
+            "link_id": "t3_kmtg68",
+            "parent_id": "t3_kmtg68",
+            "score": 2,
+            "stickied": false,
+            "author_name": "AGDCservices"
+        },
+        "ghhh0ic": {
+            "comment": "If you want to practice analysis just take a look at some writeups, grab the hashes and download the samples.\n\nIf you're new to analysis there isn't much point running a honeypot.",
+            "timeStamp": "2020/12/30-01:20:39",
+            "id": "ghhh0ic",
+            "is_submitter": false,
+            "link_id": "t3_kmtg68",
+            "parent_id": "t3_kmtg68",
+            "score": 1,
+            "stickied": false,
+            "author_name": "thehunter699"
+        }
+    }
+}

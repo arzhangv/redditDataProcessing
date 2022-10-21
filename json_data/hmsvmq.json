@@ -1,0 +1,143 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hi All,\n\nI request your help, How to perform reverse engineering with malware sample. I used to import the malware with the tool X64 debugger but it contains the assembly language. I am not that much strong in assembly language. Request your valuable suggestion.",
+        "title": "Malware Analysis - Reverse engineering",
+        "score": 1,
+        "id": "hmsvmq",
+        "commsNum": 11,
+        "timeStamp": "2020/07/07-04:34:38",
+        "author_name": "vyasarvenkat",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 11,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/hmsvmq/malware_analysis_reverse_engineering/"
+    },
+    "posts": {
+        "fxf753e": {
+            "comment": "[removed]",
+            "timeStamp": "2020/07/09-06:48:39",
+            "id": "fxf753e",
+            "is_submitter": false,
+            "link_id": "t3_hmsvmq",
+            "parent_id": "t1_fx85tmb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fxf6r10": {
+            "comment": "[removed]",
+            "timeStamp": "2020/07/09-06:44:52",
+            "id": "fxf6r10",
+            "is_submitter": false,
+            "link_id": "t3_hmsvmq",
+            "parent_id": "t3_hmsvmq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fxbp4vd": {
+            "comment": "Thank you",
+            "timeStamp": "2020/07/08-09:04:09",
+            "id": "fxbp4vd",
+            "is_submitter": true,
+            "link_id": "t3_hmsvmq",
+            "parent_id": "t1_fx79js8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "vyasarvenkat"
+        },
+        "fxbp4if": {
+            "comment": "Thank you",
+            "timeStamp": "2020/07/08-09:04:04",
+            "id": "fxbp4if",
+            "is_submitter": true,
+            "link_id": "t3_hmsvmq",
+            "parent_id": "t1_fx7os0j",
+            "score": 1,
+            "stickied": false,
+            "author_name": "vyasarvenkat"
+        },
+        "fxbp44s": {
+            "comment": "Thank you",
+            "timeStamp": "2020/07/08-09:03:59",
+            "id": "fxbp44s",
+            "is_submitter": true,
+            "link_id": "t3_hmsvmq",
+            "parent_id": "t1_fx85tmb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "vyasarvenkat"
+        },
+        "fxay94s": {
+            "comment": "[removed]",
+            "timeStamp": "2020/07/08-04:47:42",
+            "id": "fxay94s",
+            "is_submitter": false,
+            "link_id": "t3_hmsvmq",
+            "parent_id": "t3_hmsvmq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fxaxb6x": {
+            "comment": "I am Malware Reseacher and will soon post entire reverse engineering tutorials with would helo guys like you and also entire security industry. be in touch",
+            "timeStamp": "2020/07/08-04:34:59",
+            "id": "fxaxb6x",
+            "is_submitter": false,
+            "link_id": "t3_hmsvmq",
+            "parent_id": "t3_hmsvmq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "jiapia174"
+        },
+        "fx85tmb": {
+            "comment": "Lena tutorials",
+            "timeStamp": "2020/07/07-10:47:45",
+            "id": "fx85tmb",
+            "is_submitter": false,
+            "link_id": "t3_hmsvmq",
+            "parent_id": "t3_hmsvmq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Hiepnotiq"
+        },
+        "fx802jp": {
+            "comment": "[removed]",
+            "timeStamp": "2020/07/07-10:02:57",
+            "id": "fx802jp",
+            "is_submitter": false,
+            "link_id": "t3_hmsvmq",
+            "parent_id": "t3_hmsvmq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fx7os0j": {
+            "comment": "This free course will help:\n\n [https://hackaday.io/project/172292-introduction-to-reverse-engineering-with-ghidra](https://hackaday.io/project/172292-introduction-to-reverse-engineering-with-ghidra)",
+            "timeStamp": "2020/07/07-08:30:32",
+            "id": "fx7os0j",
+            "is_submitter": false,
+            "link_id": "t3_hmsvmq",
+            "parent_id": "t3_hmsvmq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "BadMoles"
+        },
+        "fx79js8": {
+            "comment": "You will need to learn that assembly language",
+            "timeStamp": "2020/07/07-06:08:20",
+            "id": "fx79js8",
+            "is_submitter": false,
+            "link_id": "t3_hmsvmq",
+            "parent_id": "t3_hmsvmq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ptchinster"
+        }
+    }
+}

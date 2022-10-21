@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "[removed]",
+        "title": "ANYBODY still using AVAST, CCLEANER or AVG? Uninstall taking hours with High Upload Traffic!",
+        "score": 1,
+        "id": "hpdxvt",
+        "commsNum": 1,
+        "timeStamp": "2020/07/11-10:28:09",
+        "author_name": "MalwareHuntsman",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/hpdxvt/anybody_still_using_avast_ccleaner_or_avg/"
+    },
+    "posts": {
+        "fxpk6a1": {
+            "comment": "[removed]",
+            "timeStamp": "2020/07/11-10:35:54",
+            "id": "fxpk6a1",
+            "is_submitter": false,
+            "link_id": "t3_hpdxvt",
+            "parent_id": "t3_hpdxvt",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Brazilian underground is the first in spreading cross-platform malware",
+        "score": 1,
+        "id": "49ta3z",
+        "commsNum": 0,
+        "timeStamp": "2016/03/10-04:47:06",
+        "author_name": "swtt",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://securelist.com/blog/research/74051/first-step-in-cross-platform-trojan-bankers-from-brazil-done/"
+    },
+    "posts": {}
+}

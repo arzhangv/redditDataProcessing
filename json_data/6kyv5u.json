@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Are the sample programs(not the labs; I got them from the book website) that are used in the practical malware analysis book when explaining a specific concept or approach available for download somewhere? I couldn't find them along with the labs nor on the internet.",
+        "title": "Are sample programs(not labs) used in Practical Malware Analysis available for download?",
+        "score": 4,
+        "id": "6kyv5u",
+        "commsNum": 3,
+        "timeStamp": "2017/07/03-02:17:19",
+        "author_name": "dehriva",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6kyv5u/are_sample_programsnot_labs_used_in_practical/"
+    },
+    "posts": {
+        "djympsf": {
+            "comment": "[removed]",
+            "timeStamp": "2017/07/08-14:43:49",
+            "id": "djympsf",
+            "is_submitter": false,
+            "link_id": "t3_6kyv5u",
+            "parent_id": "t3_6kyv5u",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

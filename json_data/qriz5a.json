@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hello everyone,   \nI  have a spare dell server and planning to store the malware and index those (based on variants) offline. I  am looking for an open-source solution like a database application for storage (CMS could be awesome). Please share with me any solution in your mind. I am all ears.    \n\n\nThanking you very much in advance :)",
+        "title": "Looking for Recommendation: Onsite Malware Database Storing Solution; CMS/ Open Source Application",
+        "score": 1,
+        "id": "qriz5a",
+        "commsNum": 1,
+        "timeStamp": "2021/11/11-03:09:54",
+        "author_name": "samchoe2002",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/qriz5a/looking_for_recommendation_onsite_malware/"
+    },
+    "posts": {
+        "hos9hn5": {
+            "comment": "[removed]",
+            "timeStamp": "2021/12/16-06:41:49",
+            "id": "hos9hn5",
+            "is_submitter": false,
+            "link_id": "t3_qriz5a",
+            "parent_id": "t3_qriz5a",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hk7dffq": {
+            "comment": "[removed]",
+            "timeStamp": "2021/11/11-06:19:16",
+            "id": "hk7dffq",
+            "is_submitter": false,
+            "link_id": "t3_qriz5a",
+            "parent_id": "t3_qriz5a",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

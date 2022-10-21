@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[https://arxiv.org/abs/1810.08280](https://arxiv.org/abs/1810.08280)",
+        "title": "Exploring Adversarial Examples in Malware Detection",
+        "score": 1,
+        "id": "a6kfab",
+        "commsNum": 0,
+        "timeStamp": "2018/12/15-16:18:19",
+        "author_name": "vickiearse",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/a6kfab/exploring_adversarial_examples_in_malware/"
+    },
+    "posts": {}
+}

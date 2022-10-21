@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Qakbot aka QBot levels up with new obfuscation techniques",
+        "score": 19,
+        "id": "bk9fcr",
+        "commsNum": 0,
+        "timeStamp": "2019/05/03-07:58:33",
+        "author_name": "DrinkMoreCodeMore",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://blog.talosintelligence.com/2019/05/qakbot-levels-up-with-new-obfuscation.html"
+    },
+    "posts": {}
+}

@@ -1,0 +1,187 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "How to make Memz virus in C# - Remake of Viruses #1",
+        "score": 23,
+        "id": "doev5q",
+        "commsNum": 15,
+        "timeStamp": "2019/10/28-13:33:32",
+        "author_name": "sonfisilti",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 15,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.youtube.com/watch?v=8r_ntRdPUsk&amp;feature=youtu.be"
+    },
+    "posts": {
+        "fhfaszy": {
+            "comment": "sick",
+            "timeStamp": "2020/02/12-12:34:39",
+            "id": "fhfaszy",
+            "is_submitter": false,
+            "link_id": "t3_doev5q",
+            "parent_id": "t1_f60qe2t",
+            "score": 1,
+            "stickied": false,
+            "author_name": "panic-at-the-party1"
+        },
+        "f60wobg": {
+            "comment": "Thanks!",
+            "timeStamp": "2019/11/01-10:02:26",
+            "id": "f60wobg",
+            "is_submitter": false,
+            "link_id": "t3_doev5q",
+            "parent_id": "t1_f60qe2t",
+            "score": 1,
+            "stickied": false,
+            "author_name": "YmFzZTY0dXNlcm5hbWU_"
+        },
+        "f60qe2t": {
+            "comment": " [https://github.com/eren-erver/Memz-Payloads-C-Sharp](https://github.com/eren-erver/Memz-Payloads-C-Sharp)",
+            "timeStamp": "2019/11/01-08:52:41",
+            "id": "f60qe2t",
+            "is_submitter": true,
+            "link_id": "t3_doev5q",
+            "parent_id": "t1_f5p8scc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sonfisilti"
+        },
+        "f5sejqc": {
+            "comment": "I will do it 4 hours later I'm not able to access the code right now",
+            "timeStamp": "2019/10/30-02:00:42",
+            "id": "f5sejqc",
+            "is_submitter": true,
+            "link_id": "t3_doev5q",
+            "parent_id": "t1_f5sb8k7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sonfisilti"
+        },
+        "f5sb8k7": {
+            "comment": "please do",
+            "timeStamp": "2019/10/30-00:30:32",
+            "id": "f5sb8k7",
+            "is_submitter": false,
+            "link_id": "t3_doev5q",
+            "parent_id": "t1_f5pe8ju",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Crono_"
+        },
+        "f5pe8ju": {
+            "comment": "ok I will post the link here",
+            "timeStamp": "2019/10/29-06:52:41",
+            "id": "f5pe8ju",
+            "is_submitter": true,
+            "link_id": "t3_doev5q",
+            "parent_id": "t1_f5pciwg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sonfisilti"
+        },
+        "f5pciwg": {
+            "comment": "I'd certainly be interested in exploring that if you do.",
+            "timeStamp": "2019/10/29-06:31:06",
+            "id": "f5pciwg",
+            "is_submitter": false,
+            "link_id": "t3_doev5q",
+            "parent_id": "t1_f5pbgog",
+            "score": 1,
+            "stickied": false,
+            "author_name": "YmFzZTY0dXNlcm5hbWU_"
+        },
+        "f5pbgog": {
+            "comment": "no but I can upload",
+            "timeStamp": "2019/10/29-06:16:59",
+            "id": "f5pbgog",
+            "is_submitter": true,
+            "link_id": "t3_doev5q",
+            "parent_id": "t1_f5p8scc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sonfisilti"
+        },
+        "f5p8scc": {
+            "comment": "Is the source on GitHub?",
+            "timeStamp": "2019/10/29-05:38:24",
+            "id": "f5p8scc",
+            "is_submitter": false,
+            "link_id": "t3_doev5q",
+            "parent_id": "t3_doev5q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "YmFzZTY0dXNlcm5hbWU_"
+        },
+        "f5ou97e": {
+            "comment": "no its only visual",
+            "timeStamp": "2019/10/29-00:02:30",
+            "id": "f5ou97e",
+            "is_submitter": true,
+            "link_id": "t3_doev5q",
+            "parent_id": "t1_f5ou6hm",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sonfisilti"
+        },
+        "f5ou6hm": {
+            "comment": "This has to be my all time favorite \"Just for fun\" malware. \n\nDoes this one also overwrite the MBR with Nyancat?",
+            "timeStamp": "2019/10/29-00:00:30",
+            "id": "f5ou6hm",
+            "is_submitter": false,
+            "link_id": "t3_doev5q",
+            "parent_id": "t3_doev5q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "itsbentheboy"
+        },
+        "f5ors5m": {
+            "comment": "For those who can't see the codes I am going to make a second one with bigger font",
+            "timeStamp": "2019/10/28-23:00:28",
+            "id": "f5ors5m",
+            "is_submitter": true,
+            "link_id": "t3_doev5q",
+            "parent_id": "t3_doev5q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sonfisilti"
+        },
+        "f5oqup1": {
+            "comment": "I'm sorry I will repost it.",
+            "timeStamp": "2019/10/28-22:39:19",
+            "id": "f5oqup1",
+            "is_submitter": true,
+            "link_id": "t3_doev5q",
+            "parent_id": "t1_f5nh5pl",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sonfisilti"
+        },
+        "f5obi6e": {
+            "comment": "Can't see shit, captain.",
+            "timeStamp": "2019/10/28-18:56:07",
+            "id": "f5obi6e",
+            "is_submitter": false,
+            "link_id": "t3_doev5q",
+            "parent_id": "t3_doev5q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "0x3fff0000"
+        },
+        "f5nh5pl": {
+            "comment": "Oh please use AutoIT for small shitz",
+            "timeStamp": "2019/10/28-15:02:38",
+            "id": "f5nh5pl",
+            "is_submitter": false,
+            "link_id": "t3_doev5q",
+            "parent_id": "t3_doev5q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "infinitylord"
+        }
+    }
+}

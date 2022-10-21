@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Everyone hates Ransomware, no doubt about it. The only way to stop Ransomware from happening is 3 ideas:\n\n1) Get rid of bitcoin, or at least track payments; Bitcoin is digital currency, and because you can't track the payments, this is what hackers to get your money. I would say either get rid of it entirely or track payments so that way we can figure out  who creates these malware.\n\n2) Either destroy encryption, or ask permission before anything encrypts files; simple enough, either get rid of encryption that you can code , or whenever something tries to encrypt any files, it displays a message saying 'Something.exe wants to encrypt 5,000 files. Proceed?', with a yes or no option, and as well to see which files it would encrypt.\n\n3) ask before *any* exe file starts (Not critical, like explorer.exe); This might get annoying after a while, but this will probably stop *all* malware attacks.\n\n4) make code that decrypts files even with no key, and a software to use said code; most likely the best option, you have to prove your files were encrypted by ransomware before it de-crypts, so if someone steals encrypted files from anthor computer, and they don't have proof that they were encrypted by ransomware, so you don't get files. Also, this might get some criminals out, so yeah. Make this one reality.\n\nI hope Microsoft sees this, so Windows 10 will be safe, at least from ransomware.",
+        "title": "How to destroy Ransomware",
+        "score": 0,
+        "id": "daq66z",
+        "commsNum": 4,
+        "timeStamp": "2019/09/28-20:42:16",
+        "author_name": "hunterrocks77",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/daq66z/how_to_destroy_ransomware/"
+    },
+    "posts": {
+        "f1tow6s": {
+            "comment": "wow",
+            "timeStamp": "2019/09/29-02:00:10",
+            "id": "f1tow6s",
+            "is_submitter": false,
+            "link_id": "t3_daq66z",
+            "parent_id": "t3_daq66z",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TailSpinBowler"
+        },
+        "f1tm39d": {
+            "comment": "How long did it take you to come up with these?",
+            "timeStamp": "2019/09/29-01:40:08",
+            "id": "f1tm39d",
+            "is_submitter": false,
+            "link_id": "t3_daq66z",
+            "parent_id": "t3_daq66z",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sorrow123444"
+        },
+        "f1spn6e": {
+            "comment": "Just sounds like someone who doesn't understand the inner workings, no need to flame him.",
+            "timeStamp": "2019/09/28-21:44:10",
+            "id": "f1spn6e",
+            "is_submitter": false,
+            "link_id": "t3_daq66z",
+            "parent_id": "t1_f1sl4e2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "SpookyWA"
+        },
+        "f1sl4e2": {
+            "comment": "you are a very bad troll.",
+            "timeStamp": "2019/09/28-21:13:15",
+            "id": "f1sl4e2",
+            "is_submitter": false,
+            "link_id": "t3_daq66z",
+            "parent_id": "t3_daq66z",
+            "score": 3,
+            "stickied": false,
+            "author_name": "apatrid"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "This has global implications.\n\n[https://securityaffairs.co/wordpress/78884/hacking/operation-sharpshooter.html](https://securityaffairs.co/wordpress/78884/hacking/operation-sharpshooter.html)\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;",
+        "title": "'Sharpshooter' malware and its targets",
+        "score": 1,
+        "id": "a601hj",
+        "commsNum": 1,
+        "timeStamp": "2018/12/13-17:29:52",
+        "author_name": "vickiearse",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/a601hj/sharpshooter_malware_and_its_targets/"
+    },
+    "posts": {
+        "ebsa0hb": {
+            "comment": "&gt; The current campaign os targeting nuclear, defense, energy, and financial companies, experts believe attackers are gather intelligence to prepare future attacks. \n\nOh, this is a wee bit terrifying.  It's not like they are out there just skimming credit cards or something benign like that. ",
+            "timeStamp": "2018/12/14-08:39:04",
+            "id": "ebsa0hb",
+            "is_submitter": false,
+            "link_id": "t3_a601hj",
+            "parent_id": "t3_a601hj",
+            "score": 4,
+            "stickied": false,
+            "author_name": "BeerJunky"
+        }
+    }
+}

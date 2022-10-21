@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Smith &amp; Wesson Web Site Hacked to Steal Customer Payment Info",
+        "score": 1,
+        "id": "e64qj3",
+        "commsNum": 2,
+        "timeStamp": "2019/12/04-11:52:09",
+        "author_name": "DrinkMoreCodeMore",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.bleepingcomputer.com/news/security/smith-and-wesson-web-site-hacked-to-steal-customer-payment-info/"
+    },
+    "posts": {
+        "f9q5rdf": {
+            "comment": "You don't need a fancy website to sell liberty.  'Merica.",
+            "timeStamp": "2019/12/05-06:21:02",
+            "id": "f9q5rdf",
+            "is_submitter": false,
+            "link_id": "t3_e64qj3",
+            "parent_id": "t1_f9ots0m",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TParis00ap"
+        },
+        "f9ots0m": {
+            "comment": "This article is poorly written. TL;DR, they had stored xss. They don't even mention xss in the article. No surprise, all of the gun sights feel sketchy and poorly written.",
+            "timeStamp": "2019/12/04-18:36:18",
+            "id": "f9ots0m",
+            "is_submitter": false,
+            "link_id": "t3_e64qj3",
+            "parent_id": "t3_e64qj3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "randomperson83"
+        }
+    }
+}

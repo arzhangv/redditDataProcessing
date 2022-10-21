@@ -1,0 +1,99 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Sounds weird, but I like malware on virtual machines\n\nVxheaven does not work\n\nVirusshare is very confusing",
+        "title": "Pages to download malware?",
+        "score": 0,
+        "id": "6wk2j1",
+        "commsNum": 8,
+        "timeStamp": "2017/08/28-08:24:08",
+        "author_name": "iTzDrK_",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 8,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6wk2j1/pages_to_download_malware/"
+    },
+    "posts": {
+        "dmbcrgj": {
+            "comment": "Click on links in YouTube descriptions on how to watch free movies online or in the comments of YouTube videos can work too.",
+            "timeStamp": "2017/08/29-21:15:31",
+            "id": "dmbcrgj",
+            "is_submitter": false,
+            "link_id": "t3_6wk2j1",
+            "parent_id": "t1_dm8lvgg",
+            "score": 2,
+            "stickied": false,
+            "author_name": "TheKeyboardKid"
+        },
+        "dma58r0": {
+            "comment": "You can try Virus Total for malware samples, plenty of great approaches. Also, participate in malware research forums, they usually have plenty of materials for people to work with and will guide you correct pathways.",
+            "timeStamp": "2017/08/29-07:14:02",
+            "id": "dma58r0",
+            "is_submitter": false,
+            "link_id": "t3_6wk2j1",
+            "parent_id": "t3_6wk2j1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "JoshRosserino"
+        },
+        "dm991ft": {
+            "comment": "Stop everything\n\nI have realized that I can search the MD5s of vxheaven in virusshare\n\nthanks anyway",
+            "timeStamp": "2017/08/28-15:53:53",
+            "id": "dm991ft",
+            "is_submitter": true,
+            "link_id": "t3_6wk2j1",
+            "parent_id": "t3_6wk2j1",
+            "score": -1,
+            "stickied": false,
+            "author_name": "iTzDrK_"
+        },
+        "dm8zmy2": {
+            "comment": "Malware Samples and Traffic:\nhttp://malware-traffic-analysis.net\nAlso join VT community \nhttps://www.virustotal.com/en/community/\n,you can find a lot of samples here.\nEdit: More sources.\nhttp://dasmalwerk.eu _ http://openmalware.org _ http://www.kernelmode.info/forum/viewforum.php?f=16 _ http://thezoo.morirt.com _ http://vxvault.net/ViriList.php",
+            "timeStamp": "2017/08/28-12:57:13",
+            "id": "dm8zmy2",
+            "is_submitter": false,
+            "link_id": "t3_6wk2j1",
+            "parent_id": "t3_6wk2j1",
+            "score": 3,
+            "stickied": false,
+            "author_name": "brokercx"
+        },
+        "dm8w74e": {
+            "comment": "the fuck is your problem",
+            "timeStamp": "2017/08/28-11:56:05",
+            "id": "dm8w74e",
+            "is_submitter": false,
+            "link_id": "t3_6wk2j1",
+            "parent_id": "t1_dm8lpwy",
+            "score": 2,
+            "stickied": false,
+            "author_name": "molisimi"
+        },
+        "dm8lvgg": {
+            "comment": "Google for religious websites and click ALL the links.",
+            "timeStamp": "2017/08/28-08:52:36",
+            "id": "dm8lvgg",
+            "is_submitter": false,
+            "link_id": "t3_6wk2j1",
+            "parent_id": "t3_6wk2j1",
+            "score": 5,
+            "stickied": false,
+            "author_name": "WOLF3D_exe"
+        },
+        "dm8lpwy": {
+            "comment": "[deleted]",
+            "timeStamp": "2017/08/28-08:49:44",
+            "id": "dm8lpwy",
+            "is_submitter": false,
+            "link_id": "t3_6wk2j1",
+            "parent_id": "t3_6wk2j1",
+            "score": -2,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

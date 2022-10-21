@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Symantec Offers Financial Malware Insights | PYMNTS.com",
+        "score": 1,
+        "id": "6fe663",
+        "commsNum": 0,
+        "timeStamp": "2017/06/05-06:31:10",
+        "author_name": "wellerfruge",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.pymnts.com/news/security-and-risk/2017/symantec-says-malware-tops-ransomware-as-financial-institution-cybersecurity-threat/"
+    },
+    "posts": {}
+}

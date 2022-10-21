@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Anybody have any malware samples that can override or disable an administrator account?",
+        "title": "Malware Sample",
+        "score": 1,
+        "id": "e5lc7s",
+        "commsNum": 2,
+        "timeStamp": "2019/12/03-10:30:15",
+        "author_name": "TheDominantSpecies",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/e5lc7s/malware_sample/"
+    },
+    "posts": {
+        "fhfaelt": {
+            "comment": "thanks",
+            "timeStamp": "2020/02/12-12:30:50",
+            "id": "fhfaelt",
+            "is_submitter": false,
+            "link_id": "t3_e5lc7s",
+            "parent_id": "t1_f9ki4tc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "panic-at-the-party1"
+        },
+        "f9ki4tc": {
+            "comment": "If for Windows: I copied/wrote [this self elevating batch script](https://gist.github.com/sleepless-p03t/83edd5ffeded635516a5a751e7c07462) \n\nNot sure if this is exactly what you're looking for, but the things that can be done with it, if the victim accepts the UAC prompt would all have admin privilege. \n\nDisclaimer: This is an elevation technique I found when searching for ways to easily run something as admin without having to right click-&gt;run as or set file permissions\n\nNot only does this sample do self elevation, it also creates an admin level scheduled task, which MalwareBytes currently only flags as a PUP. I'm currently looking into ways of falsifying scheduled task legitimacy, for educational/PoC purposes of course\n\nDLL dropins and DLL hijacking are two other methods of exploitation that can result in compromising admin, but I can't think of any particular malware samples that use these techniques off the top of my head\n\nNote: I take no responsibility for any illegal or otherwise unethical usage of what I linked to",
+            "timeStamp": "2019/12/03-11:22:17",
+            "id": "f9ki4tc",
+            "is_submitter": false,
+            "link_id": "t3_e5lc7s",
+            "parent_id": "t3_e5lc7s",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sleepless-p03t"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "CVE-2015-1641 and CVE-2015-2545 Prevail in Microsoft Office Malware",
+        "score": 3,
+        "id": "4tlkz4",
+        "commsNum": 0,
+        "timeStamp": "2016/07/19-08:06:10",
+        "author_name": "consistentt",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://sensorstechforum.com/cve-2015-1641-cve-2015-2545-microsoft-office-malware/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "TwitchViewBot.exe (aka NanoCore) Analysis",
+        "score": 1,
+        "id": "eyzbst",
+        "commsNum": 3,
+        "timeStamp": "2020/02/04-15:27:15",
+        "author_name": "dkaye_mal_anst18",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.dropbox.com/s/e8792e0qj663lq4/TwitchViewBot_AnalysisPaper.pdf?dl=0"
+    },
+    "posts": {
+        "fgloy8i": {
+            "comment": "Shameless self promotion ; \n\nhttps://github.com/MikeZeDev/NanocoreDecoder\n\nDrag the binary on the window.",
+            "timeStamp": "2020/02/05-04:47:01",
+            "id": "fgloy8i",
+            "is_submitter": false,
+            "link_id": "t3_eyzbst",
+            "parent_id": "t3_eyzbst",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RCEdude"
+        },
+        "fgkzgw5": {
+            "comment": "I would definitely recommend making an account on this site so you can download this file and many other samples by using the filter feature they have available. But here is the link to the file where I got this sample from:\n\n[https://app.any.run/tasks/4078f683-181d-4ca4-ba0b-c233f47cfaf8/](https://app.any.run/tasks/4078f683-181d-4ca4-ba0b-c233f47cfaf8/)",
+            "timeStamp": "2020/02/04-20:38:02",
+            "id": "fgkzgw5",
+            "is_submitter": true,
+            "link_id": "t3_eyzbst",
+            "parent_id": "t1_fgkthxs",
+            "score": 1,
+            "stickied": false,
+            "author_name": "dkaye_mal_anst18"
+        },
+        "fgkthxs": {
+            "comment": "Could someone send me a link to this file? Pretty please!",
+            "timeStamp": "2020/02/04-19:27:27",
+            "id": "fgkthxs",
+            "is_submitter": false,
+            "link_id": "t3_eyzbst",
+            "parent_id": "t3_eyzbst",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ElectromagneticHeat"
+        }
+    }
+}

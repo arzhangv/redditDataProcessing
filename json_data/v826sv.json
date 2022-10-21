@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hey everyone, we just launched a free tool that might be relevant to a lot of you here.\n\nWhat is it? - this lookup tool enables you to search for domains and see how many compromised employees &amp; users they have from our cybercrime database.\n\nThe data you will see is strictly from computers infected with info-stealers worldwide (over 5,300,000 and counting) and not from database leaks or scrapes, each compromised computer is really a data breach on it's own because of the amount of data that is retrieved from it, and is abused by hackers.\n\nYou can query any domain here - [https://www.hudsonrock.com/are-you-compromised](https://www.hudsonrock.com/are-you-compromised)\n\nThis can be useful for several reasons:\n\n1. Risk assessment - looking up a company and seeing they have a lot of compromised employees can indicate the company is not up to date with proper security measures, each compromised employee indicates that someone in the company downloaded and executed an info-stealing malware and had all their corporate credentials, cookies, documents, etc stolen by hackers who are using the credentials as an initial attack vector.\n2. Pre-breach intel - if you work at a company and see we have data relating to it, please ask us for a free ethical disclosure, we are happy to help preventing attacks and have provided hundreds of ethical disclosures regarding compromised credentials which are in the hands of hackers as a result of employees/clients having their computers infected. It is important to note that even with 2FA set in place, when a computer gets infected with an info-stealer they also have their cookies stolen which are then used to steal sessions and bypass 2FA, and that documents containing 2FA backup codes stored anywhere on the computer get captured by the info-stealer and allows the hacker to revoke phone-based 2FA.\n3. Assets discovery - we show the top 5 URLs that compromised employees &amp; clients had credentials to, often times these URLs are not attainable anywhere else because internal URLs accessed by clients/employees are not indexed anywhere and cannot be scraped.\n\nWhat is it not? - this is not a tool that provides a full overview around who the employees and users that got compromised are, or how they got compromised. We cannot provide this data publicly as it is very sensitive and is only given as an ethical disclosure to the cybersecurity team of the company.\n\nThanks for reading all that, if you liked this tool please share it!",
+        "title": "Free tool to discover if your company or supply chain has employees and clients infected with info-stealing malwares",
+        "score": 1,
+        "id": "v826sv",
+        "commsNum": 0,
+        "timeStamp": "2022/06/08-15:49:08",
+        "author_name": "Malwarebeasts",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/v826sv/free_tool_to_discover_if_your_company_or_supply/"
+    },
+    "posts": {
+        "ibo5crs": {
+            "comment": "Absolutely, thanks for the comment and I'm glad you liked it!\n\nWe have definitely seen a massive increase in computers infected with infostealers (redline mostly) since COVID hit.\n\nWe also noticed a sharp increase in people accessing sensitive infrastructure URLs with corporate credentials due to working from home, and we know that credentials and cookies from stealers are the most prominent attack vector right now among ransomware groups &amp; sophisticated threat actors.",
+            "timeStamp": "2022/06/08-16:38:41",
+            "id": "ibo5crs",
+            "is_submitter": true,
+            "link_id": "t3_v826sv",
+            "parent_id": "t1_ibo4spq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Malwarebeasts"
+        },
+        "ibo4spq": {
+            "comment": "The most invasive malware out there are stealers. With work-from-home, businesses and personal users alike should be paying close attention.  Great concept.",
+            "timeStamp": "2022/06/08-16:33:57",
+            "id": "ibo4spq",
+            "is_submitter": false,
+            "link_id": "t3_v826sv",
+            "parent_id": "t3_v826sv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ChineseAPTsEatBabies"
+        }
+    }
+}

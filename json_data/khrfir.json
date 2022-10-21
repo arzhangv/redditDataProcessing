@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "picswe.net is a malware site which hosted images stolen from other websites. They claim to download them, but it let's you visit scam websites and download porn games and malware instead. Currently it's like a typosquatting website which redirects you to scams and advertisements. Do not visit the site! User beware!",
+        "title": "Picswe - a malware site stealing photos. (do not visit!)",
+        "score": 1,
+        "id": "khrfir",
+        "commsNum": 2,
+        "timeStamp": "2020/12/21-14:04:26",
+        "author_name": "yuki93920noirnoggat",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/khrfir/picswe_a_malware_site_stealing_photos_do_not_visit/"
+    },
+    "posts": {
+        "ggmnz9k": {
+            "comment": "It also has picswe.com.",
+            "timeStamp": "2020/12/21-14:05:34",
+            "id": "ggmnz9k",
+            "is_submitter": false,
+            "link_id": "t3_khrfir",
+            "parent_id": "t3_khrfir",
+            "score": 2,
+            "stickied": false,
+            "author_name": "yuki93920noirnoggat"
+        }
+    }
+}

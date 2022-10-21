@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Magnitude EK authors are integrating exploit code for CVE-2016-4117 Adobe flaw",
+        "score": 1,
+        "id": "4kng03",
+        "commsNum": 0,
+        "timeStamp": "2016/05/23-04:11:14",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/47598/malware/magnitude-ek-cve-2016-4117.html"
+    },
+    "posts": {}
+}

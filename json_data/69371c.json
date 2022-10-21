@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Undetected Jscript Dropper Installs Sage Ransomware 2.2",
+        "score": 1,
+        "id": "69371c",
+        "commsNum": 0,
+        "timeStamp": "2017/05/03-14:06:43",
+        "author_name": "tboro1",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.vmray.com/blog/undetected-jscript-dropper-executes-sage-ransomware/"
+    },
+    "posts": {}
+}

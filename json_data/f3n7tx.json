@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Title explains it pretty much... is it possible for hackers to monitor my trades or activity? I have norton 360 but I feel as though I need a packet sniffer?",
+        "title": "Paranoid about intrusion... I\u2019m a daytrader and I\u2019m paranoid that hackers may somehow be monitoring my computer like teamviewer",
+        "score": 1,
+        "id": "f3n7tx",
+        "commsNum": 6,
+        "timeStamp": "2020/02/13-20:59:44",
+        "author_name": "lonelygod242",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/f3n7tx/paranoid_about_intrusion_im_a_daytrader_and_im/"
+    },
+    "posts": {
+        "fjjeirc": {
+            "comment": "and open rdp ports so i can check the whole pc for malware :-)",
+            "timeStamp": "2020/03/04-23:16:14",
+            "id": "fjjeirc",
+            "is_submitter": false,
+            "link_id": "t3_f3n7tx",
+            "parent_id": "t1_fhk2cdy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "jenso1337"
+        },
+        "fhm3pgx": {
+            "comment": "This. Wipe your computer or get a new one if you are paranoid.",
+            "timeStamp": "2020/02/14-11:20:27",
+            "id": "fhm3pgx",
+            "is_submitter": false,
+            "link_id": "t3_f3n7tx",
+            "parent_id": "t1_fhk0dui",
+            "score": 1,
+            "stickied": false,
+            "author_name": "loudblanketshark"
+        },
+        "fhkitk1": {
+            "comment": "Let me ask..if you installed a [packet sniffer](https://www.wireshark.org/), then what would you do? From your posting history I can't determine if you can understand what you would be seeing. The  advice you received in the other thread is very good.\n\nIf you are really concerned, I would recommend doing two additional things:\n\n* Download and run another AV on your computer. If you have any modern version of Windows, you'll have Windows Defender already installed. Scan you computer with it. Also download and run [MalwareBytes](https://www.malwarebytes.com/mwb-download/). Understand that this won't pick up things like teamviewer, only malware that it can detect.\n* Run the free tool [autoruns](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns) on your computer (right-click and run it as \"Run as Administrator\"). This program scans your computer and finds most of the programs that will start when you start up or log in. Look for anything unusual or anything that shouldn't be there.\n\nUnderstand that the two items above aren't going to detect everything; but there isn't one thing that will detect everything. Incident responders/computer forensics people go through a lot of different processes and they still don't detect everything. But, start with those and see if you see anything.\n\nAlso, you didn't say, is there any evidence to feel that you are being monitored? The other thread stated you got hacked 10 years ago, but what about recently? \n\nOne last thing you can do is make sure all your important accounts have multi-factor authentication turned on. Then, even if someone sees you logging in somewhere or gets your password, they'll still need to get access to your phone to log in...which is much more difficult.",
+            "timeStamp": "2020/02/14-04:50:57",
+            "id": "fhkitk1",
+            "is_submitter": false,
+            "link_id": "t3_f3n7tx",
+            "parent_id": "t3_f3n7tx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "trevlix"
+        },
+        "fhk38ja": {
+            "comment": "[removed]",
+            "timeStamp": "2020/02/13-23:21:07",
+            "id": "fhk38ja",
+            "is_submitter": false,
+            "link_id": "t3_f3n7tx",
+            "parent_id": "t3_f3n7tx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fhk2cdy": {
+            "comment": "Give me your IP address and I'll check if your network is safe from hackers :\\^)",
+            "timeStamp": "2020/02/13-23:03:19",
+            "id": "fhk2cdy",
+            "is_submitter": false,
+            "link_id": "t3_f3n7tx",
+            "parent_id": "t3_f3n7tx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "master-hacker"
+        },
+        "fhk0dui": {
+            "comment": "is it possible? yes\n\nis it happening? who knows. maybe they installed a keylogger years ago. maybe they didnt.\n\nif you dont trust your computer, then wipe it and start again from scratch. wipe everything. firewall it with an external firewall. make sure nobody is allowed near it. bin your wireless keyboard. bin your wireless mouse. turn off wifi. turn off bluetooth.\n\n...and so on.",
+            "timeStamp": "2020/02/13-22:26:40",
+            "id": "fhk0dui",
+            "is_submitter": false,
+            "link_id": "t3_f3n7tx",
+            "parent_id": "t3_f3n7tx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "boli99"
+        }
+    }
+}

@@ -1,0 +1,132 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Taking the GREM in a couple weeks, did Security east, any tips or insight anyone here can give? not asking for a brain dump or anything. just some advice on what points i should be studying harder or any gotchas i should be looking for, thx.",
+        "title": "Taking GREM soon",
+        "score": 12,
+        "id": "8dsx8r",
+        "commsNum": 10,
+        "timeStamp": "2018/04/20-19:19:24",
+        "author_name": "gcbroomfield",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 10,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8dsx8r/taking_grem_soon/"
+    },
+    "posts": {
+        "e016jpj": {
+            "comment": "[removed]",
+            "timeStamp": "2018/06/03-00:54:04",
+            "id": "e016jpj",
+            "is_submitter": false,
+            "link_id": "t3_8dsx8r",
+            "parent_id": "t1_dz5p1lb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "dz5p1lb": {
+            "comment": "Update: passed, it was not an easy win....read the questions carefully ",
+            "timeStamp": "2018/05/17-16:12:12",
+            "id": "dz5p1lb",
+            "is_submitter": true,
+            "link_id": "t3_8dsx8r",
+            "parent_id": "t3_8dsx8r",
+            "score": 1,
+            "stickied": false,
+            "author_name": "gcbroomfield"
+        },
+        "dy7jfsj": {
+            "comment": "Could you share some links to the sites? Would like to see whats out there :)",
+            "timeStamp": "2018/04/30-05:46:49",
+            "id": "dy7jfsj",
+            "is_submitter": false,
+            "link_id": "t3_8dsx8r",
+            "parent_id": "t1_dy2y0m4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ZiggyPredicts"
+        },
+        "dy2y0m4": {
+            "comment": "I just recently passed the GREM this past December. The one piece of advice that I think reflecting back was to do labs over and over\n\nI know for me in the way I learn, Index helped a LOT to reference what was already on my mind but the questions for me were a lot about practical use-cases. \n\nThe test was tough, but with enough of playing with the labs and you doing some hands on it becomes way easier. I look back and think about the test itself, and I just remember how bad I wanted to bang my head against the desk that I didn't do the labs more often and understand why the tools or tricks were used in each circumstance. \n\nGood luck! \n\n\nAlso some pretty cool websites that offer now interactive lessons on REM, learning some of the topics that are on the test\n",
+            "timeStamp": "2018/04/27-13:49:23",
+            "id": "dy2y0m4",
+            "is_submitter": false,
+            "link_id": "t3_8dsx8r",
+            "parent_id": "t3_8dsx8r",
+            "score": 1,
+            "stickied": false,
+            "author_name": "cloudy_ft"
+        },
+        "dy1oaux": {
+            "comment": "Interesting, after taking my practice exams, I didn't feel like all the material was in the books but my experience differs from the others here. Guess I just didn't absorb it all. It's the only GIAC test I didn't take after buying it.",
+            "timeStamp": "2018/04/26-22:37:28",
+            "id": "dy1oaux",
+            "is_submitter": false,
+            "link_id": "t3_8dsx8r",
+            "parent_id": "t3_8dsx8r",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sephstorm"
+        },
+        "dxxv29k": {
+            "comment": "My index was about 60 pages long. I also stayed up 48 hours prior to exam day going over each book, front to back, over and over again and practicing all of the labs.\n\nCome exam day, I am red-eyed and tired, but I hardly used the books/references. Apparently all the studying actually made me memorize most of it. Paid off big time in the long term as well, can't forget it now lol.\n\nBTW - didn't use the practice exams at all so I can't give a reference. Also make sure you know assembly...",
+            "timeStamp": "2018/04/25-06:12:18",
+            "id": "dxxv29k",
+            "is_submitter": false,
+            "link_id": "t3_8dsx8r",
+            "parent_id": "t3_8dsx8r",
+            "score": 2,
+            "stickied": false,
+            "author_name": "invest0rman"
+        },
+        "dxtshq5": {
+            "comment": "I've completed 3 SANS exams including GREM, Index is everything, but don't try and adopt someone else's style if it doesn't work for you.\n\nEveryone has different learning and testing styles so figure out what works best for you.\n\nDon't forget to take your practice exams.  I use the first practice exam as a gauge on how my index is built.  If I come across questions that I cannot find the answers to in my index, I make a note of it and improve my index.  Second practice exam I take the day before the exam with my updated index.\n\nDon't be ashamed to use the \"show all answers\" on the practice exam.  Use those to learn.\n\nGood Luck!  ",
+            "timeStamp": "2018/04/23-06:21:56",
+            "id": "dxtshq5",
+            "is_submitter": false,
+            "link_id": "t3_8dsx8r",
+            "parent_id": "t1_dxqfwpn",
+            "score": 1,
+            "stickied": false,
+            "author_name": "icon0clast6"
+        },
+        "dxr22y5": {
+            "comment": "I haven't done the GREM, but I did take a grad course that was modeled after it.  I had previously read through and done the labs in \"Practical Malware Analysis\" and it didn't seem tough. ",
+            "timeStamp": "2018/04/21-15:10:17",
+            "id": "dxr22y5",
+            "is_submitter": false,
+            "link_id": "t3_8dsx8r",
+            "parent_id": "t3_8dsx8r",
+            "score": 2,
+            "stickied": false,
+            "author_name": "plinc666"
+        },
+        "dxqfwpn": {
+            "comment": "Thanks. sorta in line with what i was thinking. helps to hear a 2nd opinion. ",
+            "timeStamp": "2018/04/21-08:09:09",
+            "id": "dxqfwpn",
+            "is_submitter": true,
+            "link_id": "t3_8dsx8r",
+            "parent_id": "t1_dxq3xc1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "gcbroomfield"
+        },
+        "dxq3xc1": {
+            "comment": "Sans course? If so, I don't have specific advice about this test but sans courses in general. Your index is everything. Go page by page over the course material and put together a comprehensive index that you understand well. Use your first pretest to gauge the quality and efficiency of your index, make and tweaks needed and take the second pretest. If you can pass the pretests, you can pass the real test. Good luck!",
+            "timeStamp": "2018/04/21-01:49:21",
+            "id": "dxq3xc1",
+            "is_submitter": false,
+            "link_id": "t3_8dsx8r",
+            "parent_id": "t3_8dsx8r",
+            "score": 7,
+            "stickied": false,
+            "author_name": "ootuoyetahi"
+        }
+    }
+}

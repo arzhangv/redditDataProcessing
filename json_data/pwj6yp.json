@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "i need to store the exploit kits and malware in my windows host machine  i got it from the pcap analysis time.  i heard it somewhere that we can change its extension for stop sudden exicutions( that means if i press it its not execute) .is it possible ?  how ?",
+        "title": "Malware analysis",
+        "score": 1,
+        "id": "pwj6yp",
+        "commsNum": 2,
+        "timeStamp": "2021/09/27-08:13:53",
+        "author_name": "NANDUZZZZZ",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/pwj6yp/malware_analysis/"
+    },
+    "posts": {
+        "heigpgb": {
+            "comment": "[removed]",
+            "timeStamp": "2021/09/27-13:29:28",
+            "id": "heigpgb",
+            "is_submitter": false,
+            "link_id": "t3_pwj6yp",
+            "parent_id": "t3_pwj6yp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hehm3sq": {
+            "comment": "In Windows file explorer, I believe it's under the 'View' tab there's an option to see file extensions. When you rename the file it will let you edit the extension",
+            "timeStamp": "2021/09/27-09:36:20",
+            "id": "hehm3sq",
+            "is_submitter": false,
+            "link_id": "t3_pwj6yp",
+            "parent_id": "t3_pwj6yp",
+            "score": 2,
+            "stickied": false,
+            "author_name": "TheOnlineRando"
+        }
+    }
+}

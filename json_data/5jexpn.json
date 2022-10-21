@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I downloaded many dos viruses to run them in dosbox and i had them on linux. Now i transfered them in windows 10. Didnt execute. Just transfer. Now my windows defender says that i have 120 status: active viruses. Dos viruses. Is it possible that dos viruses became active on windows 10 without executing them? Maybe that active status is something else. But im scared right now :D.  I just wanted to see how they work in dosbox. Why windows defender says active?\n\nscreenshot:   http://i.imgur.com/T9HpH4K.jpg?1\n\ndownloaded from http://vxheaven.org/vl.php?dir=Virus.DOS",
+        "title": "Help. I made a mistake.",
+        "score": 18,
+        "id": "5jexpn",
+        "commsNum": 21,
+        "timeStamp": "2016/12/20-10:43:19",
+        "author_name": "0x377a",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 21,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5jexpn/help_i_made_a_mistake/"
+    },
+    "posts": {}
+}

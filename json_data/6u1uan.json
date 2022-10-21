@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Decoding Complex Malware - Step-by-Step",
+        "score": 1,
+        "id": "6u1uan",
+        "commsNum": 0,
+        "timeStamp": "2017/08/16-05:57:10",
+        "author_name": "boincl",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://blog.sucuri.net/2017/08/malware-decoding-step-step-guide.html"
+    },
+    "posts": {}
+}

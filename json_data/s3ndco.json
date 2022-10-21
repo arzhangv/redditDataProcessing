@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "[removed]",
+        "title": "Job or Masters ?",
+        "score": 1,
+        "id": "s3ndco",
+        "commsNum": 1,
+        "timeStamp": "2022/01/14-00:24:40",
+        "author_name": "xxwranglerxx",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/s3ndco/job_or_masters/"
+    },
+    "posts": {
+        "hswbbwr": {
+            "comment": "In my opinion, at least in the AV/EDR industry based on my experience, the most important thing is having good knowledge. \n\nI dont care if person x has a PhD from Stanford or just have a high school diploma when hiring, if he/she has a deep understanding of windows internals and knows how to code or reverse, he/she is hired on the spot. \n\nBut if we have two people, both with very little knowledge, and one has a better degree, obviously we gonna hire the latter. \n\n&amp;#x200B;\n\nThe funny thing is that at least in the case of kernel developers/researches that are working in many of the top AV companies (look up their linkedin), most of them don't have a crazy degree. Why? because most of the stuff that is required for you to know is not taught in universities..  \n\n&amp;#x200B;\n\nSo if you want my advice, if you are really determined to work on this field, whether coding usermode or kernel or reversing, you are better off spending that 2 year studying everything related to this field instead of wasting your time on university courses. \n\n&amp;#x200B;\n\nP.S i have a master's degree on Information security, and if i go back in time, i spend that 2-3 years studying malware related stuff instead of going to university courses, 100%.",
+            "timeStamp": "2022/01/16-05:21:19",
+            "id": "hswbbwr",
+            "is_submitter": false,
+            "link_id": "t3_s3ndco",
+            "parent_id": "t3_s3ndco",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Ro0o0otkit"
+        },
+        "hspnn3i": {
+            "comment": "Master's will open a lot of doors, to higher paying jobs and possibly to the U.S., if that's interesting to you. That said try to visualize yourself 10 years in the future and work backwards. Try to get some idea of what companies would sponsor you to work for them overseas. I'm sure you've researched companies in your country but check again, maybe under some other job titles, like detection engineer, reverse engineer, security researcher. Game companies are also hiring people to protect their IP and test their DRM. Once you understand broadly your possibilities and options, what you can and can't achieve without a master's, you can go from there and list the pros and cons. Cause it can be a lot of debt. Reason I say this is because there are a lot of people doing RE/malware in the field without advanced degrees and nobody seems to expect you to have one. That said, I'm from the US so take it all with a grain of salt.",
+            "timeStamp": "2022/01/14-18:11:48",
+            "id": "hspnn3i",
+            "is_submitter": false,
+            "link_id": "t3_s3ndco",
+            "parent_id": "t3_s3ndco",
+            "score": 1,
+            "stickied": false,
+            "author_name": "lakitustanfield"
+        },
+        "hslsjj1": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators **and be sure to include the link to the post** - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2022/01/14-00:24:41",
+            "id": "hslsjj1",
+            "is_submitter": false,
+            "link_id": "t3_s3ndco",
+            "parent_id": "t3_s3ndco",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[removed]",
+        "title": "IPv6 Capable Malware?",
+        "score": 10,
+        "id": "bgkngv",
+        "commsNum": 4,
+        "timeStamp": "2019/04/23-12:36:24",
+        "author_name": "piffey",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/bgkngv/ipv6_capable_malware/"
+    },
+    "posts": {
+        "eloinn9": {
+            "comment": "Good point, further IPv6 doesn't require NATting and therefore the filtering that comes with forwarding rulesets. This is exactly why so many routers by default drop IPv6: if misconfigured, it'll be unrestricted access to the local subnets",
+            "timeStamp": "2019/04/24-12:10:30",
+            "id": "eloinn9",
+            "is_submitter": false,
+            "link_id": "t3_bgkngv",
+            "parent_id": "t1_elo5dd6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "0x3fff0000"
+        },
+        "elo5dd6": {
+            "comment": "If hardware does support it, it could be common for the enterprise networks not have ipv6 firewall rules in place. Not many are aware to disable it or apply the same scrutiny that ipv4 gets.",
+            "timeStamp": "2019/04/24-09:58:23",
+            "id": "elo5dd6",
+            "is_submitter": false,
+            "link_id": "t3_bgkngv",
+            "parent_id": "t1_elmedru",
+            "score": 2,
+            "stickied": false,
+            "author_name": "MadSprite"
+        },
+        "elmedru": {
+            "comment": "I doubt you'll find many controllers that use IPv6-only addressing, since that will make the malware ineffective against machines that do not have routeable IPv6 interfaces. \n\nThis problem isn't unique to malware either, and is a big reason that many hosts resolve DNS to IPv4 (and optionally IPv6).",
+            "timeStamp": "2019/04/23-18:28:24",
+            "id": "elmedru",
+            "is_submitter": false,
+            "link_id": "t3_bgkngv",
+            "parent_id": "t3_bgkngv",
+            "score": 3,
+            "stickied": false,
+            "author_name": "0x3fff0000"
+        },
+        "elljdao": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2019/04/23-12:36:25",
+            "id": "elljdao",
+            "is_submitter": false,
+            "link_id": "t3_bgkngv",
+            "parent_id": "t3_bgkngv",
+            "score": -5,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

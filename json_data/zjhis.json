@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Camouflage in Malware: from Encryption to Metamorphism (x-post from /r/ReverseEngineering) [PDF]",
+        "score": 11,
+        "id": "zjhis",
+        "commsNum": 3,
+        "timeStamp": "2012/09/07-20:30:19",
+        "author_name": "0xDD3446C5",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://paper.ijcsns.org/07_book/201208/20120813.pdf"
+    },
+    "posts": {}
+}

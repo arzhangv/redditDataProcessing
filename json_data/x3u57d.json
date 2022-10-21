@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": " my system idle process has max cpu usage and theres a bunch of ips connected like **yyz10s17-in-f3:https**. When I go into process explorer those weird ips are connected to system idle process. someone let me know if im tripping or i got some type of malware cus from the research ive done its not supposed to be like this and how can i remove it (ive done the basic scans like malwarebytes n ccleaner)",
+        "title": "system idle process malware",
+        "score": 1,
+        "id": "x3u57d",
+        "commsNum": 0,
+        "timeStamp": "2022/09/01-23:20:13",
+        "author_name": "arielatkap",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/x3u57d/system_idle_process_malware/"
+    },
+    "posts": {
+        "imsaafn": {
+            "comment": "Though I cannot vouch for the IPs connected (which I believe are Microsoft, though you can verify this with Wireshark) System Idle Process is made to take max CPU when the device is, well, idle. The more idle your CPU is, the more CPU that System Idle Process will show itself using. This means you have max (95% - 97%) of your CPU available to use on other programs - so it must be quite strong!",
+            "timeStamp": "2022/09/02-04:55:26",
+            "id": "imsaafn",
+            "is_submitter": false,
+            "link_id": "t3_x3u57d",
+            "parent_id": "t3_x3u57d",
+            "score": 1,
+            "stickied": false,
+            "author_name": "WiIdCherryPepsi"
+        },
+        "imsa8kk": {
+            "comment": "that 'ip' is google. \n\nthe system idle process is not a real process, it counts all the cpu usage that isn't used and can't be infected with malware. you can't diagnose malware through cpu usage. \n\nThe process explorer TCP connections on the idle proccess are just a dumping ground for closed connections, look at it in process hacker and there aren't any",
+            "timeStamp": "2022/09/02-04:54:57",
+            "id": "imsa8kk",
+            "is_submitter": false,
+            "link_id": "t3_x3u57d",
+            "parent_id": "t3_x3u57d",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Krombuchar2"
+        }
+    }
+}

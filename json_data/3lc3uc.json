@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Disassemble bad stuff right from your browser with this bookmarklet",
+        "score": 15,
+        "id": "3lc3uc",
+        "commsNum": 1,
+        "timeStamp": "2015/09/17-11:59:49",
+        "author_name": "konigstein1",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://williammahler.github.io/Capstone.js-bookmarklet/"
+    },
+    "posts": {}
+}

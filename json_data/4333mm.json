@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Manalyzer: A static analyzer for PE files",
+        "score": 7,
+        "id": "4333mm",
+        "commsNum": 7,
+        "timeStamp": "2016/01/28-04:33:41",
+        "author_name": "bartblaze",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://manalyzer.org/"
+    },
+    "posts": {}
+}

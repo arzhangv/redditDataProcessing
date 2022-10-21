@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I've been learning more and more about reverse engineering. I am really having a hard time with agent tesla. When putting a sample onto anyrun it unpacks right away and makes the amazon check ip callout right way but I'm having to wait sometimes hours on my vm. I've tried things like turning of vmtools. It runs just fine but it doesnt connect forever. ( I understand I could just through it on anyrun but I want to figure this out I've exhausted about all my resources researching this)",
+        "title": "AgentTesla",
+        "score": 2,
+        "id": "ds5m8s",
+        "commsNum": 6,
+        "timeStamp": "2019/11/05-13:09:57",
+        "author_name": "Wouldratherplaymtg",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ds5m8s/agenttesla/"
+    },
+    "posts": {
+        "f6o2n4x": {
+            "comment": "Awesome I will check it out thank you!",
+            "timeStamp": "2019/11/05-18:10:14",
+            "id": "f6o2n4x",
+            "is_submitter": true,
+            "link_id": "t3_ds5m8s",
+            "parent_id": "t1_f6o2kie",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Wouldratherplaymtg"
+        },
+        "f6o2kie": {
+            "comment": "Sleep function something like  Sleep(large number)",
+            "timeStamp": "2019/11/05-18:09:24",
+            "id": "f6o2kie",
+            "is_submitter": false,
+            "link_id": "t3_ds5m8s",
+            "parent_id": "t1_f6o0cpo",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Fraidnot"
+        },
+        "f6o0cpo": {
+            "comment": "Awesome good info what would I be looking for",
+            "timeStamp": "2019/11/05-17:43:07",
+            "id": "f6o0cpo",
+            "is_submitter": true,
+            "link_id": "t3_ds5m8s",
+            "parent_id": "t1_f6npn4d",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Wouldratherplaymtg"
+        },
+        "f6npn4d": {
+            "comment": "If I had to guess it calls sleep for a few hours the anyrun environment probably has that function hooked and doesn't sleep at all when it gets called. Open it up with ghidra take a look...",
+            "timeStamp": "2019/11/05-15:35:47",
+            "id": "f6npn4d",
+            "is_submitter": false,
+            "link_id": "t3_ds5m8s",
+            "parent_id": "t3_ds5m8s",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Fraidnot"
+        },
+        "f6nogj9": {
+            "comment": "I've tried quite a bit from any.run I can get you a link if you want",
+            "timeStamp": "2019/11/05-15:22:20",
+            "id": "f6nogj9",
+            "is_submitter": true,
+            "link_id": "t3_ds5m8s",
+            "parent_id": "t1_f6noe31",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Wouldratherplaymtg"
+        },
+        "f6noe31": {
+            "comment": "It\u2019s probably detecting the analysis environment and hanging.\n\nDo you have a download link/hash of the specific one you are trying to run?",
+            "timeStamp": "2019/11/05-15:21:33",
+            "id": "f6noe31",
+            "is_submitter": false,
+            "link_id": "t3_ds5m8s",
+            "parent_id": "t3_ds5m8s",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Hackers-are-bad"
+        }
+    }
+}

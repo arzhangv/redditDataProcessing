@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Analysis: How Malware Creators Use Spam to Maximize Their Impact",
+        "score": 1,
+        "id": "3px13k",
+        "commsNum": 0,
+        "timeStamp": "2015/10/23-08:30:11",
+        "author_name": "alinvlad",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://heimdalsecurity.com/blog/analysis-how-malware-creators-use-spam-to-maximize-their-impact/"
+    },
+    "posts": {}
+}

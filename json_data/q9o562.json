@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I don't know if I am in the right place, sorry if I am not but today when i did my avast virus scan as you do i noticed a weird program called \"win64:malware-gen\" located in \"C:\\$recycle.bin\\\" when i tried to move it into the chest it said it moved them however when I redid the test it showed the same file then when i went to the location it was empty. Could it be a file in my sandboxie sandbox and should I be worried?",
+        "title": "win64 malware gen",
+        "score": 1,
+        "id": "q9o562",
+        "commsNum": 1,
+        "timeStamp": "2021/10/16-17:33:27",
+        "author_name": "TheSlime_",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/q9o562/win64_malware_gen/"
+    },
+    "posts": {
+        "hgxfvfo": {
+            "comment": "i didnt understand what you were asking but anyway id reformulate your details and ask in /r/techsupport",
+            "timeStamp": "2021/10/16-17:58:12",
+            "id": "hgxfvfo",
+            "is_submitter": false,
+            "link_id": "t3_q9o562",
+            "parent_id": "t3_q9o562",
+            "score": 2,
+            "stickied": false,
+            "author_name": "blabbities"
+        }
+    }
+}

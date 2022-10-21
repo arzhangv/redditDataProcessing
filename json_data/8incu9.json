@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "TreasureHunter PoS Malware Source Code Published!",
+        "score": 1,
+        "id": "8incu9",
+        "commsNum": 1,
+        "timeStamp": "2018/05/11-05:30:31",
+        "author_name": "ZomaIslam3",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.osradar.com/treasurehunter-pos-malware-source-code-published/"
+    },
+    "posts": {
+        "dyt1pbs": {
+            "comment": "[removed]",
+            "timeStamp": "2018/05/11-05:30:39",
+            "id": "dyt1pbs",
+            "is_submitter": false,
+            "link_id": "t3_8incu9",
+            "parent_id": "t3_8incu9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

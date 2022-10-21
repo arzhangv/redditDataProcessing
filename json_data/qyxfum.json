@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hello, just a few minutes ago I shared a Facebook post, and within the first minute a stranger commented on it saying something \"You have won 10,000USD etc.\" the usual scammer post. Can this be the result of me having a malware ? I have a MacBook Pro and I downloaded from torrent 2 apps, but when I scan them with CleanMyMac X, the malware detections says is all clean.",
+        "title": "Random comments on Facebook",
+        "score": 1,
+        "id": "qyxfum",
+        "commsNum": 6,
+        "timeStamp": "2021/11/21-07:36:38",
+        "author_name": "letcanuadelin",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/qyxfum/random_comments_on_facebook/"
+    },
+    "posts": {
+        "hluctda": {
+            "comment": "No malware, probably just a hacked FB account that made it into my friends list",
+            "timeStamp": "2021/11/23-17:10:47",
+            "id": "hluctda",
+            "is_submitter": false,
+            "link_id": "t3_qyxfum",
+            "parent_id": "t1_hlsfdn8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "edwin989"
+        },
+        "hlsfdn8": {
+            "comment": "Because of the malware ?",
+            "timeStamp": "2021/11/23-09:15:36",
+            "id": "hlsfdn8",
+            "is_submitter": true,
+            "link_id": "t3_qyxfum",
+            "parent_id": "t1_hlrrnny",
+            "score": 1,
+            "stickied": false,
+            "author_name": "letcanuadelin"
+        },
+        "hlrrnny": {
+            "comment": "Yes I received those as well",
+            "timeStamp": "2021/11/23-06:32:32",
+            "id": "hlrrnny",
+            "is_submitter": false,
+            "link_id": "t3_qyxfum",
+            "parent_id": "t3_qyxfum",
+            "score": 1,
+            "stickied": false,
+            "author_name": "edwin989"
+        },
+        "hlk6yru": {
+            "comment": "You're welcome. Never hurts to ask.",
+            "timeStamp": "2021/11/21-13:37:52",
+            "id": "hlk6yru",
+            "is_submitter": false,
+            "link_id": "t3_qyxfum",
+            "parent_id": "t1_hliuyff",
+            "score": 1,
+            "stickied": false,
+            "author_name": "gofuckarabbit"
+        },
+        "hliuyff": {
+            "comment": "Thank you",
+            "timeStamp": "2021/11/21-08:16:30",
+            "id": "hliuyff",
+            "is_submitter": true,
+            "link_id": "t3_qyxfum",
+            "parent_id": "t1_hliqvvs",
+            "score": 0,
+            "stickied": false,
+            "author_name": "letcanuadelin"
+        },
+        "hliqvvs": {
+            "comment": "No. Those are bots that either randomly comment or are searching for a keyword you used.\n\nUnless your account is being used to send comments/messages/posts then it's unlikely to be malware on your machine.",
+            "timeStamp": "2021/11/21-07:48:34",
+            "id": "hliqvvs",
+            "is_submitter": false,
+            "link_id": "t3_qyxfum",
+            "parent_id": "t3_qyxfum",
+            "score": 6,
+            "stickied": false,
+            "author_name": "gofuckarabbit"
+        }
+    }
+}

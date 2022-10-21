@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "someone on discord sent me to a website  [https://cheating.win/](https://cheating.win/)  and i clicked it and it told me to hold space or something for 3 seconds and i  did it then a bunch of stuff popped up including two images that downloaded (which i deleted right away and deleted from my recycle bin) chrome also said something about multiple downloads and pressing allow however i didn't press allow. i quickly closed the website however there was a pop out window playing a video that was bouncing around my screen until i closed it i have ran many anti virus scans and ran it through virus total with nothing that popped up. is there anything else i can do to make sure whatever it is off my computer?",
+        "title": "I just clicked on a sketchy site and it did weird stuff what should i do.",
+        "score": 1,
+        "id": "ihnv4q",
+        "commsNum": 3,
+        "timeStamp": "2020/08/27-09:09:32",
+        "author_name": "noahatholm",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ihnv4q/i_just_clicked_on_a_sketchy_site_and_it_did_weird/"
+    },
+    "posts": {
+        "g31m3ok": {
+            "comment": "Autoruns should unmask some in common areas like scheduled tasks, autorun keys, startup items. \n\n\nhttps://docs.microsoft.com/en-us/sysinternals/downloads/autoruns\n\nPerhaps it\u2019s just low-level stuff like commodity malware. Malwarebytes should pick it all up. \n\nThere might be new services created that you need to look at. I\u2019d look at the Windows event logs for new services being created by finding the corresponding event number for service creation and searching around the time you did this. \n\nRundll32 is often used for bad things, see: https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns\n\nYou may have badness in programdata, appdata\\loca, temp dirs. You\u2019ll need to sus it out. \n\nTbh, this is what you get for trusting things.\n\nYou also hack games online and make them less fun, so fuck you.",
+            "timeStamp": "2020/08/27-10:45:48",
+            "id": "g31m3ok",
+            "is_submitter": false,
+            "link_id": "t3_ihnv4q",
+            "parent_id": "t1_g31kase",
+            "score": 1,
+            "stickied": false,
+            "author_name": "safebrowseatwork"
+        },
+        "g31kase": {
+            "comment": "im sorry im not to good with this stuff how can i remove those?",
+            "timeStamp": "2020/08/27-10:32:27",
+            "id": "g31kase",
+            "is_submitter": true,
+            "link_id": "t3_ihnv4q",
+            "parent_id": "t1_g31j6yy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "noahatholm"
+        },
+        "g31j6yy": {
+            "comment": "Those images might have actually been dlls and you maybe have some persistence mechanisms on your endpoint. Buuuuuut this isn\u2019t the forum for that.",
+            "timeStamp": "2020/08/27-10:23:53",
+            "id": "g31j6yy",
+            "is_submitter": false,
+            "link_id": "t3_ihnv4q",
+            "parent_id": "t3_ihnv4q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "safebrowseatwork"
+        }
+    }
+}

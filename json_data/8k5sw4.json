@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Brutal cryptocurrency mining malware crashes your PC when discovered",
+        "score": 50,
+        "id": "8k5sw4",
+        "commsNum": 2,
+        "timeStamp": "2018/05/17-09:56:20",
+        "author_name": "WhooisWhoo",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.zdnet.com/article/brutal-cryptominer-crashes-your-pc-when-discovered/"
+    },
+    "posts": {
+        "dz6v1c1": {
+            "comment": "Yikes!",
+            "timeStamp": "2018/05/18-08:29:16",
+            "id": "dz6v1c1",
+            "is_submitter": false,
+            "link_id": "t3_8k5sw4",
+            "parent_id": "t3_8k5sw4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ieatolio"
+        },
+        "dz6iy5d": {
+            "comment": "&gt;As 360 Total Security writes\n\nI thought 360 Total Security was malware itself.",
+            "timeStamp": "2018/05/18-04:50:27",
+            "id": "dz6iy5d",
+            "is_submitter": false,
+            "link_id": "t3_8k5sw4",
+            "parent_id": "t3_8k5sw4",
+            "score": 5,
+            "stickied": false,
+            "author_name": "WOLF3D_exe"
+        }
+    }
+}

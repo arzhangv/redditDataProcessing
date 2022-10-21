@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "In a Maldoc she received as an attachment Friday. My team and I quickly blew the box away, ran the sample in both in a sandbox and lab environment to gather indicators and used them to search the environment 10X over. I think we're good. \n\nI'm trying to get through analyzing the sample to see what this thing was planning to do but I'm at a wall. Apparently it's packed and encrypted. I've done basic reversing in the past but this is beyond me. Is there anyone out there that can give me a few pointers? \n\nAccording to the VT comments the first 8 bytes are the XOR key and then I have to lznt1 decode it. Every time I try (using a number of random tools i found in google) the output doesn't look like an executable. I'd really like to understand the process of unencrypring this and then decompressing it so I can be self sufficient. If anyone knows of a write up or has done this before let me know. \n\nhttps://www.virustotal.com/sv/file/7a1f3341c0fe13ed47c0998497b2b4521fe21695662d6ff529692d5fc6271dbc/analysis/\n\nThanks!!!",
+        "title": "End user enabled macros...",
+        "score": 9,
+        "id": "5wc1e5",
+        "commsNum": 7,
+        "timeStamp": "2017/02/26-11:59:11",
+        "author_name": "i_lie_to_girls",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5wc1e5/end_user_enabled_macros/"
+    },
+    "posts": {}
+}

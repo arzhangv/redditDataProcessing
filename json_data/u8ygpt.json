@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": " hello guys, I'm trying to build a Linux user space backdoor with data exfiltration capabilities but I'm thinking about the data loss prevention softwares ,dlp (endpoint protection).\n\nmy question is ,how to overcome this protection?\n\nand if someone has resources about a topic similar to mine can you help?",
+        "title": "malware analysis project",
+        "score": 1,
+        "id": "u8ygpt",
+        "commsNum": 0,
+        "timeStamp": "2022/04/21-14:46:53",
+        "author_name": "Mind-Thief1122",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/u8ygpt/malware_analysis_project/"
+    },
+    "posts": {
+        "i5p32jn": {
+            "comment": "Depending on the endpoint and network protections (i.e. not doing NGF deep packet inspection type ssl stripping) then doing something encrypted like ssh/sftp/https would probably work fine. maybe encode (base64 or other) the data so it's not just straight SSNs or whatever going across the wire. If you want to be sneakier and they allow outbound ping (ICMP) or DNS then you can make a covert channel over either protocol. Good luck!",
+            "timeStamp": "2022/04/21-18:54:26",
+            "id": "i5p32jn",
+            "is_submitter": false,
+            "link_id": "t3_u8ygpt",
+            "parent_id": "t3_u8ygpt",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Evening-Researcher"
+        },
+        "i5p2wb2": {
+            "comment": "Encode| encrypt most dlp solutions are just regex| string matching.",
+            "timeStamp": "2022/04/21-18:53:06",
+            "id": "i5p2wb2",
+            "is_submitter": false,
+            "link_id": "t3_u8ygpt",
+            "parent_id": "t3_u8ygpt",
+            "score": 1,
+            "stickied": false,
+            "author_name": "HomeGrownCoder"
+        }
+    }
+}

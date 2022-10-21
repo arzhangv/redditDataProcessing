@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "reveng_rtkit is a Linux Kernel mode (aka LKM) based rootkit targeting Linux Kernel: 5.11.0-49-generic as it was only tested on it till now. This project is heavily inspired by Heroin by Runar Jensen and Diamorphine by @m0nadlabs open source LKM rootkit projects. Especially, the Syscall interception mechanism section was totally taken from Diamorphine by @m0nadlabs repo and rest of the functionalities are also the same but with a different approach: IOCTL.\n\nLINK: https://github.com/reveng007/reveng_rtkit",
+        "title": "LKM based Rootkit: reveng_rtkit",
+        "score": 1,
+        "id": "t1xwhj",
+        "commsNum": 2,
+        "timeStamp": "2022/02/26-06:08:16",
+        "author_name": "BabanSoumyanil",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/t1xwhj/lkm_based_rootkit_reveng_rtkit/"
+    },
+    "posts": {
+        "hyl5lu8": {
+            "comment": "Yupp, My bad....\nIt should Linux loadable Kernel Module....",
+            "timeStamp": "2022/02/26-17:17:53",
+            "id": "hyl5lu8",
+            "is_submitter": true,
+            "link_id": "t3_t1xwhj",
+            "parent_id": "t3_t1xwhj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "BabanSoumyanil"
+        },
+        "hykhgar": {
+            "comment": "[removed]",
+            "timeStamp": "2022/02/26-14:19:25",
+            "id": "hykhgar",
+            "is_submitter": false,
+            "link_id": "t3_t1xwhj",
+            "parent_id": "t3_t1xwhj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

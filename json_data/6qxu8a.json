@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": null,
+        "title": "Can anyone Identify this variant? I have been looking and have not seen any screen like this.",
+        "score": 1,
+        "id": "6qxu8a",
+        "commsNum": 1,
+        "timeStamp": "2017/08/01-10:35:02",
+        "author_name": "Dashihawk",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://i.redd.it/j5iuvtzjw5dz.png"
+    },
+    "posts": {
+        "dl0sp4l": {
+            "comment": "It is a MBR crypto that starts on boot of the VM. Cannot even get to setup. I am trying to identify the variant to make sure i can identify where it came from. I have scanned all the computers with Webroot as well as Malwarebytes and found no remnants on any computers. I have not been able to boot the server so i cannot scan that. ",
+            "timeStamp": "2017/08/01-10:48:44",
+            "id": "dl0sp4l",
+            "is_submitter": true,
+            "link_id": "t3_6qxu8a",
+            "parent_id": "t3_6qxu8a",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Dashihawk"
+        }
+    }
+}

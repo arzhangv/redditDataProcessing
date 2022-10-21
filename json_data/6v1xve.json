@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hello. I have been tasked with getting hold of some malware and demonstrating it for my security class at university and have run into some difficulties, that I would kindly ask for some assistance on.\n\nSo after great pains (as a newbie to security and the like) I was able to set up a honeypot (dionaea) which I left running and was able to catch several sets of malware.\n\nI caught many copies of what I assume to be wannaCry trojans, as I uploaded them into VirusTotal with 45 out of 60 hits for a trojan, several stating wannacry. I then set up a virtual machine with windows 7 x64 (only thing I have a copy of sadly) up and copied the binaries to the machine. Isolated it from any network and this is where my problem comes in as the files, as saved by Dionaea, have no executable and are a series of character strings, I was unsure as to how to execute the thing. So I renamed it and added an '.exe' and then '.dll' and the like. I also renamed it mssecsvc.exe and moved it to the VMs windows directory. Each time being met with it not being a valid x32 executable.\n\nusing Pev in Linux I reviewed the file and ascertained it was in fact targeting win 32 Intel machines and needed windows to run and several locations stated that it was indeed an executable image. \n\nMy problem is now how to get it to encrypt my virtual machine for demonstration purposes. Do i in fact have something that is not in fact the wannaCry trojan but just an infected file of some sort? The file is fairly large at around 5.3 mbs. Sorry Im really new to all this and have only been able to make as much progress as I have by using a book I have, malware cook book (which is painfully out of date). So I would greatly appreciate any help. Thanks.",
+        "title": "Got a copy of WannaCry for class, I think?",
+        "score": 2,
+        "id": "6v1xve",
+        "commsNum": 2,
+        "timeStamp": "2017/08/21-03:00:55",
+        "author_name": "Xenic",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6v1xve/got_a_copy_of_wannacry_for_class_i_think/"
+    },
+    "posts": {
+        "dlx3b6t": {
+            "comment": "The honeypot was my selected method as I wanted to explore and learn more about malware and how to go about dealing with it and investigating it, WannaCry just turned up a lot in the binaries I collected so I thought it would be the most prudent to demonstrate as its still lurking around on the botnet (So basically I made a lot more work for myself XD). Thank you very much for the link though, this gives me a control!",
+            "timeStamp": "2017/08/21-03:49:39",
+            "id": "dlx3b6t",
+            "is_submitter": true,
+            "link_id": "t3_6v1xve",
+            "parent_id": "t1_dlx30r2",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Xenic"
+        },
+        "dlx30r2": {
+            "comment": "It's unclear whether your class requires you to obtain a sample through a honeypot or whether the task is \"acquire malware\" and a honeypot was your selected method.\n\nIf you want a sample of WannaCry for demonstration purposes, it can be acquired from https://github.com/ytisf/theZoo/tree/master/malwares/Binaries/Ransomware.WannaCry",
+            "timeStamp": "2017/08/21-03:36:47",
+            "id": "dlx30r2",
+            "is_submitter": false,
+            "link_id": "t3_6v1xve",
+            "parent_id": "t3_6v1xve",
+            "score": 9,
+            "stickied": false,
+            "author_name": "JoshBrodieNZ"
+        }
+    }
+}

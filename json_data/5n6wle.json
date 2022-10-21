@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Can external DVD/Blu-Ray burner transfer malware? (through it\u2019s firmware or internal memory - not the disc)\n\nI have an offline machine which is isolated from the internet. Would it be safe to use an external DVD/Blu-ray both on my offline and online PC (which might be compromised)? \n\nI know that USB keys can transfer viruses (see Stuxnet), and I'd like to know if the same thing is technically possible with DVD/Blu-Ray burners.",
+        "title": "Can external DVD/Blu-Ray burner transfer malware?",
+        "score": 3,
+        "id": "5n6wle",
+        "commsNum": 5,
+        "timeStamp": "2017/01/10-11:00:23",
+        "author_name": "hwtu",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5n6wle/can_external_dvdbluray_burner_transfer_malware/"
+    },
+    "posts": {}
+}

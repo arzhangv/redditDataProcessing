@@ -1,0 +1,154 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "One of my friends on telegram randomly added me to a group named EPIC with an image of Linus Tech Tips. I used my phone to open the group but I did not click the image. I'm almost certain these images contain malware and such, however, can I receive the malware if I don't click on the image?\n\nThanks",
+        "title": "Telegram viruses implanted through images",
+        "score": 1,
+        "id": "rlssw7",
+        "commsNum": 0,
+        "timeStamp": "2021/12/21-16:50:26",
+        "author_name": "SniperSUX",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/rlssw7/telegram_viruses_implanted_through_images/"
+    },
+    "posts": {
+        "hpiuv6r": {
+            "comment": "No problem and good luck \ud83d\udc4d",
+            "timeStamp": "2021/12/21-21:30:39",
+            "id": "hpiuv6r",
+            "is_submitter": false,
+            "link_id": "t3_rlssw7",
+            "parent_id": "t1_hpiu99x",
+            "score": 1,
+            "stickied": false,
+            "author_name": "cuntpeddler"
+        },
+        "hpiu99x": {
+            "comment": "Ok will do, Thank you for everything!",
+            "timeStamp": "2021/12/21-21:24:39",
+            "id": "hpiu99x",
+            "is_submitter": true,
+            "link_id": "t3_rlssw7",
+            "parent_id": "t1_hpiu325",
+            "score": 1,
+            "stickied": false,
+            "author_name": "SniperSUX"
+        },
+        "hpiu325": {
+            "comment": "No problem, man! Happy to help. \n\n\n1st step is to take every possible route to verify it was your friend\u2019s account that sent the message\u2026 idk much about telegram from this perspective, but you should be able to look at the account and at least see if it\u2019s the same#/acct messaging you. \n\n\nIf it is, contact your friend from some other account and make sure the message was legit\n\nIf it wasn\u2019t, you have your answer. It was just a bot or something dumb trying to get you to follow a malicious link",
+            "timeStamp": "2021/12/21-21:22:57",
+            "id": "hpiu325",
+            "is_submitter": false,
+            "link_id": "t3_rlssw7",
+            "parent_id": "t1_hpitka2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "cuntpeddler"
+        },
+        "hpitka2": {
+            "comment": "That's understandable, Thank you. What do you think happened to my friend, was his telegram account compromised?",
+            "timeStamp": "2021/12/21-21:18:01",
+            "id": "hpitka2",
+            "is_submitter": true,
+            "link_id": "t3_rlssw7",
+            "parent_id": "t1_hpisqns",
+            "score": 1,
+            "stickied": false,
+            "author_name": "SniperSUX"
+        },
+        "hpisqns": {
+            "comment": "This is from that site and let me explain it:\n\u201cYou cannot receive or send viruses through images that include jpegs, .gifs, etc. but can you send or receive viruses through executable files like .exe, .scrg, etc\u201d\n\nYou can take a nasty virus.exe and send it to someone just by renaming it to virus.jpg. However, the very act of changing the file extension \u201cinoculates\u201d the virus.jpg. You would have to manually change it to virus.exe, virus.scr, virus.bat, etc to make it actually executable",
+            "timeStamp": "2021/12/21-21:10:10",
+            "id": "hpisqns",
+            "is_submitter": false,
+            "link_id": "t3_rlssw7",
+            "parent_id": "t1_hpis3fb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "cuntpeddler"
+        },
+        "hpis3fb": {
+            "comment": "I understand what you are saying, and I'm not trying to be hostile.   \nHere is one link that relates to this\n\n  \n[https://www.linuxhelp.com/news/malware-laced-images-may-lead-to-hacking-of-whatsapp-and-telegram](https://www.linuxhelp.com/news/malware-laced-images-may-lead-to-hacking-of-whatsapp-and-telegram)\n\nThanks",
+            "timeStamp": "2021/12/21-21:04:16",
+            "id": "hpis3fb",
+            "is_submitter": true,
+            "link_id": "t3_rlssw7",
+            "parent_id": "t1_hpirv7z",
+            "score": 1,
+            "stickied": false,
+            "author_name": "SniperSUX"
+        },
+        "hpirv7z": {
+            "comment": "Please, I\u2019m not trying to be a dick, link me the article where it says telegram images can exploit a system.\n\n\nIdk why your friend would add you to a group.. have you screenshotted this and asked your friend? Could be a bot impersonating your friend, which is **very** possible. An image compromising your system is better than nation-state level hacking tools, and unless you\u2019re 007, I promise you, you aren\u2019t worth it.",
+            "timeStamp": "2021/12/21-21:02:10",
+            "id": "hpirv7z",
+            "is_submitter": false,
+            "link_id": "t3_rlssw7",
+            "parent_id": "t1_hpir4t9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "cuntpeddler"
+        },
+        "hpirfsi": {
+            "comment": "Read the sidebar. head to /r/techsupport for tech support.",
+            "timeStamp": "2021/12/21-20:58:13",
+            "id": "hpirfsi",
+            "is_submitter": false,
+            "link_id": "t3_rlssw7",
+            "parent_id": "t3_rlssw7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "punkonjunk"
+        },
+        "hpir4t9": {
+            "comment": "Because, that particular friend isn't one to joke around ever. Why would they add me to this group, post a picture of Linus tech tips and then leave? Obviously they must of been compromised by telegram malware or some sorts. Considering they are probably infected, there has to be a reason and purpose to the group creation and image sending. Doing some simple googling, has shown that telegram malware sent via images is a realistic thing. This is why I have my suspicions.",
+            "timeStamp": "2021/12/21-20:55:26",
+            "id": "hpir4t9",
+            "is_submitter": true,
+            "link_id": "t3_rlssw7",
+            "parent_id": "t1_hpiivo1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "SniperSUX"
+        },
+        "hpiivo1": {
+            "comment": "Let\u2019s start with why you\u2019re almost certain images contain malware? Otherwise knowledgeable people won\u2019t even look into your claim.\n\n\nJust so you know, having an image open on your device and exploit your system is much harder than it is to imagine. The very nature and structure of filetypes protects the operating system from this kind of attack. \n\n\nAlso on a semi-related note I had a college roommate who made similar claims (which I entertained with \u201cmaybes\u201d and \u201cyes it possibles\u201d) but unbeknownst to me he was in the midst of bipolar mania. Take care of yourself!",
+            "timeStamp": "2021/12/21-19:44:13",
+            "id": "hpiivo1",
+            "is_submitter": false,
+            "link_id": "t3_rlssw7",
+            "parent_id": "t3_rlssw7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "cuntpeddler"
+        },
+        "hpifeqp": {
+            "comment": "[removed]",
+            "timeStamp": "2021/12/21-19:16:27",
+            "id": "hpifeqp",
+            "is_submitter": false,
+            "link_id": "t3_rlssw7",
+            "parent_id": "t1_hphy7ky",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hphy7ky": {
+            "comment": "Nobody here will really be able to help you without the details or the sample. However I'm doubtful that 1) there's some zero-day exploit in image processing in telegram or modern phone browsers or that 2) someone would have wasted a million dollar exploit on a random attack like this. You're right to be cautious but the threat doesn't seem too plausible. Obviously don't click any links but I'm sure you're fine.",
+            "timeStamp": "2021/12/21-17:06:13",
+            "id": "hphy7ky",
+            "is_submitter": false,
+            "link_id": "t3_rlssw7",
+            "parent_id": "t3_rlssw7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "lakitustanfield"
+        }
+    }
+}

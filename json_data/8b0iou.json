@@ -1,0 +1,99 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I recently ran an executable from a dodgy site, resulting in a **** ton of malware infecting my system. I have removed most of it, but this one piece of adware still lingers.\nWhen I switch tab to Chrome, I am redirected in a new tab to some dodgy websites, pop-ups, porn sites, etc.\nI have tried:\n- Scanning with Malwarebytes and removing anything detected\n- Scanning with AVG and removing anything detected\n- Scanning with adwcleaner and removing anything detected\n- Checking through recently installed programs\n- Checking through system tasks\n- Checking through the registry\n- Checking processes in Task Manager\n\nCould anyone help me with this?",
+        "title": "Removing persistent adware",
+        "score": 0,
+        "id": "8b0iou",
+        "commsNum": 7,
+        "timeStamp": "2018/04/09-11:02:16",
+        "author_name": "rotmgisgay",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8b0iou/removing_persistent_adware/"
+    },
+    "posts": {
+        "dx3d5bk": {
+            "comment": "Have you tried a rootkit?",
+            "timeStamp": "2018/04/09-14:43:09",
+            "id": "dx3d5bk",
+            "is_submitter": false,
+            "link_id": "t3_8b0iou",
+            "parent_id": "t3_8b0iou",
+            "score": 0,
+            "stickied": false,
+            "author_name": "chull2058"
+        },
+        "dx35k6y": {
+            "comment": "This subreddit is for malware news and analysis, for help with removing malware go to /r/techsupport like the sidebar says",
+            "timeStamp": "2018/04/09-12:50:15",
+            "id": "dx35k6y",
+            "is_submitter": false,
+            "link_id": "t3_8b0iou",
+            "parent_id": "t3_8b0iou",
+            "score": 7,
+            "stickied": false,
+            "author_name": "GenericPolarBear"
+        },
+        "dx35jkv": {
+            "comment": "You got the Filetour adware bundle then.\n\nLot's of Russian based adware, hijackers, etc. Try Zemana as well.",
+            "timeStamp": "2018/04/09-12:50:00",
+            "id": "dx35jkv",
+            "is_submitter": false,
+            "link_id": "t3_8b0iou",
+            "parent_id": "t1_dx33ywo",
+            "score": -2,
+            "stickied": false,
+            "author_name": "lawrenceabrams"
+        },
+        "dx34mok": {
+            "comment": "Definitely check your installed programs look for anything that was installed in the last couple weeks.. Also check your proxy settings ",
+            "timeStamp": "2018/04/09-12:36:18",
+            "id": "dx34mok",
+            "is_submitter": false,
+            "link_id": "t3_8b0iou",
+            "parent_id": "t3_8b0iou",
+            "score": -1,
+            "stickied": false,
+            "author_name": "Mulletmanaustin"
+        },
+        "dx33yy0": {
+            "comment": "Format your drive and reinstall windows",
+            "timeStamp": "2018/04/09-12:26:27",
+            "id": "dx33yy0",
+            "is_submitter": false,
+            "link_id": "t3_8b0iou",
+            "parent_id": "t3_8b0iou",
+            "score": 4,
+            "stickied": false,
+            "author_name": "jyggorath"
+        },
+        "dx33ywo": {
+            "comment": "I have checked Chrome extensions, yes. I downloaded an .exe file from skidrowgamesreloaded, a video game piracy site.",
+            "timeStamp": "2018/04/09-12:26:26",
+            "id": "dx33ywo",
+            "is_submitter": true,
+            "link_id": "t3_8b0iou",
+            "parent_id": "t1_dx33p5g",
+            "score": -2,
+            "stickied": false,
+            "author_name": "rotmgisgay"
+        },
+        "dx33p5g": {
+            "comment": "You check chrome extensions?\n\nAlso what site did you download the exec?",
+            "timeStamp": "2018/04/09-12:22:24",
+            "id": "dx33p5g",
+            "is_submitter": false,
+            "link_id": "t3_8b0iou",
+            "parent_id": "t3_8b0iou",
+            "score": -2,
+            "stickied": false,
+            "author_name": "lawrenceabrams"
+        }
+    }
+}

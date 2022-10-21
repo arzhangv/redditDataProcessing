@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Tigress is a highly diversifying obfuscator for the C language that\nsupports many defenses against reverse engineering attacks. It is \navailable for download from\n    [https://tigress.wtf](https://tigress.wtf)\n\nTigress provides a large collection of obfuscating code transformations, including virtualization, dynamic obfuscation, self-modifying code, and control flow flattening. It also provides transformations designed to thwart particular static and dynamic analyses, such as alias analysis, dynamic taint analysis, and branch analysis. All transformations are randomized and can be freely combined to transform a single program into a large collection of diverse variants of arbitrary complexity. \n\nTigress have been used to generate reverse engineering challenges for students in security classes, in academic research, and in industrial settings to protect production code.\n\nFor examples of Tigress obfuscation scripts and generated code, see: [https://tigress.wtf/recipes.html](https://tigress.wtf/recipes.html)",
+        "title": "Tigress C Obfuscator v3.1 - now with self-modifying code",
+        "score": 1,
+        "id": "f3y89l",
+        "commsNum": 1,
+        "timeStamp": "2020/02/14-12:28:29",
+        "author_name": "ua-tigress",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/f3y89l/tigress_c_obfuscator_v31_now_with_selfmodifying/"
+    },
+    "posts": {
+        "fhmgh5l": {
+            "comment": "I wonder how stringent they are regarding the source code process. Maybe it's possible to just hack some random professor and claim to have a legitimate research need.",
+            "timeStamp": "2020/02/14-12:34:04",
+            "id": "fhmgh5l",
+            "is_submitter": false,
+            "link_id": "t3_f3y89l",
+            "parent_id": "t3_f3y89l",
+            "score": 1,
+            "stickied": false,
+            "author_name": "PhisherPrice"
+        }
+    }
+}

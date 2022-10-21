@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Anyone has a working sample of Linux.Encoder ransomware ?\n\nThe samples in the zoo : https://github.com/ytisf/theZoo/tree/master/malwares/Binaries \n\ndoesn't seem to work ",
+        "title": "Anyone have a working Linux.encoder sample ?",
+        "score": 9,
+        "id": "6f0335",
+        "commsNum": 2,
+        "timeStamp": "2017/06/03-00:57:04",
+        "author_name": "kre80r",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6f0335/anyone_have_a_working_linuxencoder_sample/"
+    },
+    "posts": {}
+}

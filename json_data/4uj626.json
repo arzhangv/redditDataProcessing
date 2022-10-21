@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "CTB-Faker Ransomware Uses WinRAR to Lock Data in Password-Protected ZIP Files",
+        "score": 1,
+        "id": "4uj626",
+        "commsNum": 0,
+        "timeStamp": "2016/07/25-08:30:35",
+        "author_name": "VincentLaurent",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://news.softpedia.com/news/ctb-faker-ransomware-uses-winrar-to-lock-data-in-password-protected-zip-files-506578.shtml"
+    },
+    "posts": {}
+}

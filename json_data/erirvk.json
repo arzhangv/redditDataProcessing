@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "So I am a college student with a major that deals with penetration testing.  In class one day, I was given software from a shady source and was told that it had malware in it, get rid of it and successfully run the program.  I believe I have done so by running superantispyware and windows defender then manually deleting it.  Yes, I am a dumbass for not putting it in the VM but the current question is should I at this point feel at ease enough to run the program?",
+        "title": "Should I test my luck and trust SuperAntiSpyware with my system security?",
+        "score": 1,
+        "id": "erirvk",
+        "commsNum": 0,
+        "timeStamp": "2020/01/20-12:06:44",
+        "author_name": "iamveryducky",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/erirvk/should_i_test_my_luck_and_trust_superantispyware/"
+    },
+    "posts": {}
+}

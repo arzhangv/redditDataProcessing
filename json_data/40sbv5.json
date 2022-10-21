@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "The Android Bankosy malware steals banking OTPs",
+        "score": 1,
+        "id": "40sbv5",
+        "commsNum": 0,
+        "timeStamp": "2016/01/13-06:50:05",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/43564/malware/android-bankosy-steals-otps.html"
+    },
+    "posts": {}
+}

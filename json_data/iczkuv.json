@@ -1,0 +1,121 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hey, I'm a long time lurker and I've enjoyed scrolling through this subreddit for years. There's a lot of great resources here and interesting discussions that I think are valuable, and a lot of times hard to find elsewhere. \n\nBUT, over the past few weeks the amount of \"how do i hack a pdf\" or \"hOW cAn i iNstaLl kEyLogGer\" posts have just gotten too damn high.\n\nMaybe we could add more content to the wiki, and direct basic posts asking for help to there? I'm here to seriously research and discuss new malware emerging in the world, not participate in random hacking discussions. If someone wants to ask a specific question about the making of some piece of malware, sure, that's awesome, but this is not r/HowToHack.\n\nJust my .02",
+        "title": "The state of this subreddit",
+        "score": 1,
+        "id": "iczkuv",
+        "commsNum": 9,
+        "timeStamp": "2020/08/19-17:01:09",
+        "author_name": "project21124",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 9,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/iczkuv/the_state_of_this_subreddit/"
+    },
+    "posts": {
+        "g2kjpaj": {
+            "comment": "Thats to be expected. People see malware and either want their pc to be cleaned or wants to do bad things.\n\nOn the other hand, i tried to get help to deobfuscate some .net crap and automod rejected the message :D",
+            "timeStamp": "2020/08/23-03:25:41",
+            "id": "g2kjpaj",
+            "is_submitter": false,
+            "link_id": "t3_iczkuv",
+            "parent_id": "t3_iczkuv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RCEdude"
+        },
+        "g28ac9g": {
+            "comment": "How often are you seeing that? I went back through the last month of content on my pages and saw none of it. In comparison to many subs, this one has very few postings, and all were relevant.\n\nCan you provide examples?",
+            "timeStamp": "2020/08/20-09:52:31",
+            "id": "g28ac9g",
+            "is_submitter": false,
+            "link_id": "t3_iczkuv",
+            "parent_id": "t3_iczkuv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "LightningRurik"
+        },
+        "g27mrsi": {
+            "comment": "man this place is for sure going downhill, this is pretty normal on reddit though once a sub gets past a certain state of maturity. thank god it hasn't turned into /r/funny out of nowhere yet.",
+            "timeStamp": "2020/08/20-06:41:58",
+            "id": "g27mrsi",
+            "is_submitter": false,
+            "link_id": "t3_iczkuv",
+            "parent_id": "t3_iczkuv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "madm0use"
+        },
+        "g271n0z": {
+            "comment": "Because their preference for night mode and/or reddit enhancement suite is the correct preference, clearly.\n\nOr maybe they use the horrible \"new reddit\". Doh, here we go again!",
+            "timeStamp": "2020/08/20-01:50:55",
+            "id": "g271n0z",
+            "is_submitter": false,
+            "link_id": "t3_iczkuv",
+            "parent_id": "t1_g26gjgl",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mjuad"
+        },
+        "g270fbo": {
+            "comment": "[removed]",
+            "timeStamp": "2020/08/20-01:29:28",
+            "id": "g270fbo",
+            "is_submitter": false,
+            "link_id": "t3_iczkuv",
+            "parent_id": "t3_iczkuv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "g26rroh": {
+            "comment": "It's been a problem for years. Mods aren't super active afaik",
+            "timeStamp": "2020/08/19-23:10:33",
+            "id": "g26rroh",
+            "is_submitter": false,
+            "link_id": "t3_iczkuv",
+            "parent_id": "t3_iczkuv",
+            "score": 4,
+            "stickied": false,
+            "author_name": "bong-rips-for-jesus"
+        },
+        "g26gjgl": {
+            "comment": "Why?",
+            "timeStamp": "2020/08/19-20:53:17",
+            "id": "g26gjgl",
+            "is_submitter": false,
+            "link_id": "t3_iczkuv",
+            "parent_id": "t1_g261spn",
+            "score": 2,
+            "stickied": false,
+            "author_name": "SpookyWA"
+        },
+        "g261spn": {
+            "comment": "oh god that's awful",
+            "timeStamp": "2020/08/19-18:31:10",
+            "id": "g261spn",
+            "is_submitter": false,
+            "link_id": "t3_iczkuv",
+            "parent_id": "t1_g2606dv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "madm0use"
+        },
+        "g2606dv": {
+            "comment": "https://imgur.com/a/29DfDeO\n\nthis is my front page of r/malware. what does yours look like?",
+            "timeStamp": "2020/08/19-18:16:39",
+            "id": "g2606dv",
+            "is_submitter": false,
+            "link_id": "t3_iczkuv",
+            "parent_id": "t3_iczkuv",
+            "score": 5,
+            "stickied": false,
+            "author_name": "edward_snowedin"
+        }
+    }
+}

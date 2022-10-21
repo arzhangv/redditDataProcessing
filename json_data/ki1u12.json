@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "  \n\nI have seen a lot of YouTube videos and tutorials. In Udemy, hackers are using tools like searchsploit to get the latest payloads that can bypass AV and firewalls. I have personally tried the tool to get the latest payload for android 10. There were some results.\n\nOne thing is that they were marked as 2019 and Android 9 or below. Secondly, what to do next? How to use that exploit? There are no links or anything. Just some paths are printed that's all.",
+        "title": "searchsploit",
+        "score": 1,
+        "id": "ki1u12",
+        "commsNum": 2,
+        "timeStamp": "2020/12/22-01:06:15",
+        "author_name": "jamesmiller9048",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ki1u12/searchsploit/"
+    },
+    "posts": {
+        "ggop2da": {
+            "comment": "[removed]",
+            "timeStamp": "2020/12/22-04:21:10",
+            "id": "ggop2da",
+            "is_submitter": false,
+            "link_id": "t3_ki1u12",
+            "parent_id": "t3_ki1u12",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ggoe87h": {
+            "comment": "[removed]",
+            "timeStamp": "2020/12/22-01:14:11",
+            "id": "ggoe87h",
+            "is_submitter": false,
+            "link_id": "t3_ki1u12",
+            "parent_id": "t3_ki1u12",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

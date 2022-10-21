@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "A case of Polymorphic in ELF malware (reversing/debugging/forensics)",
+        "score": 5,
+        "id": "3lbi8k",
+        "commsNum": 2,
+        "timeStamp": "2015/09/17-09:31:49",
+        "author_name": "mmd0xFF",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://blog.malwaremustdie.org/2015/09/mmd-0042-2015-polymorphic-in-elf.html"
+    },
+    "posts": {}
+}

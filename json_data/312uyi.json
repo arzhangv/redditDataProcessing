@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": ".NET Injection with Mono.Cecil",
+        "score": 1,
+        "id": "312uyi",
+        "commsNum": 0,
+        "timeStamp": "2015/04/01-10:08:23",
+        "author_name": "[deleted]",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://vx.thomazi.me/posts/net-injection-cecil"
+    },
+    "posts": {}
+}

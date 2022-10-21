@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Can anyone help me with this? I ran a system scan of my system using bitedefender but it skipped     libde265.dll since its password protected. This is the directory that is skipped \"C:\\\\Program  Files\\\\WindowsApps\\\\AdobeSystemsIncorporated.AdobeLightroom\\_5.4.21325.0\\_x64\\_\\_ynb6jyjzte8ga\\\\libde265.dat=&gt;libde265.dll\". I lack the experience to manually fix this so if anyone could help me that would be great.",
+        "title": "libde265.dll",
+        "score": 1,
+        "id": "w77cxb",
+        "commsNum": 0,
+        "timeStamp": "2022/07/24-15:07:43",
+        "author_name": "-SiomaiRice-",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/w77cxb/libde265dll/"
+    },
+    "posts": {
+        "ihice9l": {
+            "comment": "After googling... [It's a video codex](https://github.com/strukturag/libde265)",
+            "timeStamp": "2022/07/24-16:15:31",
+            "id": "ihice9l",
+            "is_submitter": false,
+            "link_id": "t3_w77cxb",
+            "parent_id": "t3_w77cxb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Rmcsherry19327"
+        },
+        "ihi3c12": {
+            "comment": "Should I just uninstall adobe light room?",
+            "timeStamp": "2022/07/24-15:08:22",
+            "id": "ihi3c12",
+            "is_submitter": true,
+            "link_id": "t3_w77cxb",
+            "parent_id": "t3_w77cxb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "-SiomaiRice-"
+        }
+    }
+}

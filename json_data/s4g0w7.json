@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Just curious if anyone has a (virtualized) malware lab hosted by a mac mini. I was going to get one but I remember hearing vmware fusion was really difficult to get networking working in MacOS big sur.",
+        "title": "Building a malware analysis lab on a mac mini (intel chip)",
+        "score": 1,
+        "id": "s4g0w7",
+        "commsNum": 0,
+        "timeStamp": "2022/01/15-00:46:05",
+        "author_name": "MajorUrsa2",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/s4g0w7/building_a_malware_analysis_lab_on_a_mac_mini/"
+    },
+    "posts": {
+        "hssqn2v": {
+            "comment": "[removed]",
+            "timeStamp": "2022/01/15-10:49:35",
+            "id": "hssqn2v",
+            "is_submitter": false,
+            "link_id": "t3_s4g0w7",
+            "parent_id": "t3_s4g0w7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hsr0agl": {
+            "comment": "I'd check out proxmox for that.",
+            "timeStamp": "2022/01/15-02:20:02",
+            "id": "hsr0agl",
+            "is_submitter": false,
+            "link_id": "t3_s4g0w7",
+            "parent_id": "t3_s4g0w7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Buttforprez"
+        }
+    }
+}

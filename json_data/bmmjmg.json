@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Update , Paradise ransomware has officially fucked my computer, everything is encrypted except a few programs like chrome n steam , windows defender is disabled by them and I have tried an antivirus which just does not detect the ransomware, Tommorow I'm just going to do a full windows reset .",
+        "score": 1,
+        "id": "bmmjmg",
+        "commsNum": 6,
+        "timeStamp": "2019/05/09-10:23:24",
+        "author_name": "karolvpanus",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://i.redd.it/81wb4owgz7x21.jpg"
+    },
+    "posts": {
+        "emxsftc": {
+            "comment": "Fair point",
+            "timeStamp": "2019/05/09-10:39:07",
+            "id": "emxsftc",
+            "is_submitter": false,
+            "link_id": "t3_bmmjmg",
+            "parent_id": "t1_emxs93v",
+            "score": 1,
+            "stickied": false,
+            "author_name": "karolvpanus"
+        },
+        "emxs93v": {
+            "comment": "This post is not relevant to anyone other than you.",
+            "timeStamp": "2019/05/09-10:37:21",
+            "id": "emxs93v",
+            "is_submitter": false,
+            "link_id": "t3_bmmjmg",
+            "parent_id": "t1_emxr52t",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Pilate"
+        },
+        "emxr52t": {
+            "comment": "This is not a question it's an update, if it where a question it would have a question mark. Fix automod please",
+            "timeStamp": "2019/05/09-10:27:12",
+            "id": "emxr52t",
+            "is_submitter": true,
+            "link_id": "t3_bmmjmg",
+            "parent_id": "t1_emxqpv7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "karolvpanus"
+        },
+        "emxr19k": {
+            "comment": "Also from what I figured the data is not recoverable because lots of disk space has been freed and also I didn't bother contacting them as I fucked with the files trying to figure out how to uninstall it , and it states on the pop up that If I fuck with the files data don't be recovered .",
+            "timeStamp": "2019/05/09-10:26:15",
+            "id": "emxr19k",
+            "is_submitter": true,
+            "link_id": "t3_bmmjmg",
+            "parent_id": "t3_bmmjmg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "karolvpanus"
+        },
+        "emxqpv7": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2019/05/09-10:23:25",
+            "id": "emxqpv7",
+            "is_submitter": false,
+            "link_id": "t3_bmmjmg",
+            "parent_id": "t3_bmmjmg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

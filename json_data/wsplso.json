@@ -1,0 +1,198 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Today, I noticed in the downloads tab of Chrome that it says \"Your browser is managed by your organisation\" on my desktop PC. This notification does not appear on my phone or either of my two laptops that run the same version of Chrome using the same account.\n\nI do not believe this is genuine. As the organisation I am part of does not have access to my personal Google account and wouldn't need to monitor the account even if they did. Chrome also does not tell me any more information other than \"your device is managed\", therefore I am led to believe that this is a malware infection of some kind.\n\nI am currently in the process of perfoming a full system scan using Norton Antivirus, however upon the eventuality that this does not provide any meaningful results, what do I do?\n\nThe only things I have downloaded recently are:\n\n\\- PCSX2 PS2 emulator\n\n\\- RPCS3 PS3 emulator\n\n\\- God of War PS2 ROM\n\n\\- Spyro Dawn of the Dragon PS3 ROM (I was having a nostalgia kick)\n\nI assume that this has derived from one of these files, however the emulators seem very safe and legitimate and both the ROM files scanned and came back fine.\n\nI haven't noticed any strange behaviour on my device since this appeared, and nothing strange seems to have happened with my details or anything. So how do I remove this management profile?",
+        "title": "\"Your browser is managed by your organisation\" on Chrome",
+        "score": 1,
+        "id": "wsplso",
+        "commsNum": 0,
+        "timeStamp": "2022/08/19-14:33:35",
+        "author_name": "Sentinel_2539",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/wsplso/your_browser_is_managed_by_your_organisation_on/"
+    },
+    "posts": {
+        "il0oslt": {
+            "comment": "[removed]",
+            "timeStamp": "2022/08/19-19:28:15",
+            "id": "il0oslt",
+            "is_submitter": false,
+            "link_id": "t3_wsplso",
+            "parent_id": "t1_ikztffp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ikzyugh": {
+            "comment": "I understand your concern, but I'm not sure if this is even still a thing. The only IOC I noticed is gone and there doesn't seem to be anything else dodgy on the system, if this malware is sophisticated enough to move laterally through my network and *not* picked up by sig based AV, I'd be very shocked. Surely if it was that clever, someone would've reported it before.",
+            "timeStamp": "2022/08/19-16:06:52",
+            "id": "ikzyugh",
+            "is_submitter": true,
+            "link_id": "t3_wsplso",
+            "parent_id": "t1_ikzxo13",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Sentinel_2539"
+        },
+        "ikzxo13": {
+            "comment": "As you know, there are plenty of ways to hide from an OS malware scan.  It got past your AV on install already.\n\n\nEven if this system had none of my main accounts, I'd be wary of having that system on a network with systems that do.  \n\nBut you do you.",
+            "timeStamp": "2022/08/19-15:58:10",
+            "id": "ikzxo13",
+            "is_submitter": false,
+            "link_id": "t3_wsplso",
+            "parent_id": "t1_ikzwsgu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "S7ark1"
+        },
+        "ikzwsgu": {
+            "comment": "I've done a full system scan of over 1,000,000 files that came back clean, done a cleanup of any PUPs, and changed any passwords that I had linked to my Google account.\n\nAs for the system itself, I only use it for gaming. I don't use it for banking or youtube or emails or anything else besides playing games, that's why I'm not really too bothered if there's some browser hijacker sitting in the wings.\n\nThe only IOC I have noticed is the \"managed by organisation\" notification which has since disappeared and hasn't returned. I have uninstalled the emulators and the games and won't run them again (although I was having a *lot* of fun on God of War...)\n\nIf this PC was at all connected to me personally, I'd be significantly more worried, this is an annoyance if anything. I always take my due diligence when installing and always perform a system scan after installing or downloading anything at all.",
+            "timeStamp": "2022/08/19-15:51:47",
+            "id": "ikzwsgu",
+            "is_submitter": true,
+            "link_id": "t3_wsplso",
+            "parent_id": "t1_ikzvwz0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Sentinel_2539"
+        },
+        "ikzvwz0": {
+            "comment": "You are in cyber security and aren't just wiping your system?  For real?  How can you possibly feel comfortable doing anything financial or using your primary email(the one that can reset all your PWs) on that system?\n\nYes it's a PITA, and that is why it is a valuable lesson to sandbox downloads first.\n\nAt the very least do a boot up malware scan.",
+            "timeStamp": "2022/08/19-15:45:27",
+            "id": "ikzvwz0",
+            "is_submitter": false,
+            "link_id": "t3_wsplso",
+            "parent_id": "t1_ikzrruv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "S7ark1"
+        },
+        "ikzu7c4": {
+            "comment": "I looked in AppData, nothing sketchy in there\n\nLooking in Task Scheduler too, but there doesn't seem to be anything odd in here either",
+            "timeStamp": "2022/08/19-15:33:11",
+            "id": "ikzu7c4",
+            "is_submitter": true,
+            "link_id": "t3_wsplso",
+            "parent_id": "t1_ikzsf2c",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Sentinel_2539"
+        },
+        "ikztffp": {
+            "comment": "If there was anything and it became active again, wouldn't I notice it because my Chrome account would say \"managed by your organisation\" again?",
+            "timeStamp": "2022/08/19-15:27:37",
+            "id": "ikztffp",
+            "is_submitter": true,
+            "link_id": "t3_wsplso",
+            "parent_id": "t1_ikzsf2c",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Sentinel_2539"
+        },
+        "ikzsv30": {
+            "comment": "[removed]",
+            "timeStamp": "2022/08/19-15:23:32",
+            "id": "ikzsv30",
+            "is_submitter": false,
+            "link_id": "t3_wsplso",
+            "parent_id": "t3_wsplso",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ikzsf2c": {
+            "comment": "Look for scheduled tasks, exes in AppData Local, and base64 encoded blobs in the registry that have been modified since you downloaded the ROMs. These things are using more and more methods to survive eradication.",
+            "timeStamp": "2022/08/19-15:20:25",
+            "id": "ikzsf2c",
+            "is_submitter": false,
+            "link_id": "t3_wsplso",
+            "parent_id": "t1_ikzrruv",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sumdude1849"
+        },
+        "ikzrruv": {
+            "comment": "I deleted my Chrome registry keys and it's gone\n\nI'll assume that's problem solved\n\nIronic, isn't it? I'm a cyber security incident response analyst. This sort of stuff is usually what I'm looking at saying \"yeah, insider threat installing bad shit\"\n\nThis time, *I was the insider threat*",
+            "timeStamp": "2022/08/19-15:15:50",
+            "id": "ikzrruv",
+            "is_submitter": true,
+            "link_id": "t3_wsplso",
+            "parent_id": "t1_ikzr41q",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Sentinel_2539"
+        },
+        "ikzr41q": {
+            "comment": "You can try, but you'll need to find all the ways it's currently hooked into your system. That will require a non-trivial amount of work, as it is likely also taking measures to prevent you from doing so. The safest path is reimage.",
+            "timeStamp": "2022/08/19-15:11:03",
+            "id": "ikzr41q",
+            "is_submitter": false,
+            "link_id": "t3_wsplso",
+            "parent_id": "t1_ikzolv1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sumdude1849"
+        },
+        "ikzq3n7": {
+            "comment": "i will start by checking if your windows activated, if yes, check your default browser settings",
+            "timeStamp": "2022/08/19-15:03:54",
+            "id": "ikzq3n7",
+            "is_submitter": false,
+            "link_id": "t3_wsplso",
+            "parent_id": "t1_ikzompp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "United-General-2000"
+        },
+        "ikzompp": {
+            "comment": "Any specific setting?",
+            "timeStamp": "2022/08/19-14:53:30",
+            "id": "ikzompp",
+            "is_submitter": true,
+            "link_id": "t3_wsplso",
+            "parent_id": "t1_ikznsis",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Sentinel_2539"
+        },
+        "ikzolv1": {
+            "comment": "Is there no way to just remove the browser hijacker?",
+            "timeStamp": "2022/08/19-14:53:21",
+            "id": "ikzolv1",
+            "is_submitter": true,
+            "link_id": "t3_wsplso",
+            "parent_id": "t1_ikzo0cq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Sentinel_2539"
+        },
+        "ikzo0cq": {
+            "comment": "These types of browser hijackers usually use several methods for persistence. You should wipe the machine.",
+            "timeStamp": "2022/08/19-14:49:12",
+            "id": "ikzo0cq",
+            "is_submitter": false,
+            "link_id": "t3_wsplso",
+            "parent_id": "t3_wsplso",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sumdude1849"
+        },
+        "ikznsis": {
+            "comment": "it's not malware, check your os settings",
+            "timeStamp": "2022/08/19-14:47:43",
+            "id": "ikznsis",
+            "is_submitter": false,
+            "link_id": "t3_wsplso",
+            "parent_id": "t3_wsplso",
+            "score": 1,
+            "stickied": false,
+            "author_name": "United-General-2000"
+        }
+    }
+}

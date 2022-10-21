@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "[PDF]Detection and Analysis of Drive-by-Download Attacks and Malicious JavaScript Code",
+        "score": 7,
+        "id": "rldh4",
+        "commsNum": 0,
+        "timeStamp": "2012/03/30-12:47:49",
+        "author_name": "g0dmoney",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": null,
+        "url": "http://www.cs.ucsb.edu/~vigna/publications/2010_cova_kruegel_vigna_Wepawet.pdf"
+    },
+    "posts": {}
+}

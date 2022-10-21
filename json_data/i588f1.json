@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hey all,\n\nWould anyone be aware of a RAT for an older version of windows (preferably old but newer ones work too) that I can analyze for my final year Uni Project? \n\nTo be more specific, I am looking for something that may be brought onto the host system via any means, but uses some sort of privilege escalation to gain admin rights. It would also be preferable if the RAT has not been widely studied, as I would like my research to be influenced as little as possible.\n\nThanks in advanced!",
+        "title": "Requesting Old Windows RAT",
+        "score": 1,
+        "id": "i588f1",
+        "commsNum": 4,
+        "timeStamp": "2020/08/06-22:39:32",
+        "author_name": "Mr10_",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/i588f1/requesting_old_windows_rat/"
+    },
+    "posts": {
+        "g7wrn8r": {
+            "comment": "[removed]",
+            "timeStamp": "2020/10/06-09:45:58",
+            "id": "g7wrn8r",
+            "is_submitter": false,
+            "link_id": "t3_i588f1",
+            "parent_id": "t1_g1yvr32",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "g1yvr32": {
+            "comment": "There was bifrost. I think its not that popular but more on the popular side. I dont want to spread false information but i believe it was based on poison ivy but extended it with rootkit functionality.",
+            "timeStamp": "2020/08/18-03:39:50",
+            "id": "g1yvr32",
+            "is_submitter": false,
+            "link_id": "t3_i588f1",
+            "parent_id": "t3_i588f1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Erarnitox"
+        },
+        "g0p0165": {
+            "comment": "Some collections:\n\n* https://github.com/rainkin1993/Remote-Access-Trojan-Database\n* https://github.com/pr0code/RAT-collection\n* https://github.com/AJMartel/MeGa-RAT-Pack",
+            "timeStamp": "2020/08/07-09:16:09",
+            "id": "g0p0165",
+            "is_submitter": false,
+            "link_id": "t3_i588f1",
+            "parent_id": "t3_i588f1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "lofiharvey"
+        },
+        "g0nprhb": {
+            "comment": "[removed]",
+            "timeStamp": "2020/08/07-02:22:41",
+            "id": "g0nprhb",
+            "is_submitter": false,
+            "link_id": "t3_i588f1",
+            "parent_id": "t3_i588f1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "For some reason while using malwarebytes i found this and the uninstaller was a virus, just wondering if anyone knows what this is",
+        "title": "What is feelsgooddoveryw",
+        "score": 1,
+        "id": "tuywsn",
+        "commsNum": 0,
+        "timeStamp": "2022/04/02-19:37:59",
+        "author_name": "SansDreamYT",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/tuywsn/what_is_feelsgooddoveryw/"
+    },
+    "posts": {
+        "i37dm08": {
+            "comment": "Not a support subreddit",
+            "timeStamp": "2022/04/03-02:17:38",
+            "id": "i37dm08",
+            "is_submitter": false,
+            "link_id": "t3_tuywsn",
+            "parent_id": "t3_tuywsn",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Rakanisheu"
+        }
+    }
+}

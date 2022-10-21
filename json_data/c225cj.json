@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Post: https://twitter.com/bbotezatu/status/1140531361809358848\n\n[BDGandCrabDecryptTool.exe](http://download.bitdefender.com/am/malware_removal/BDGandCrabDecryptTool.exe)\n\nWindows 10 users can easily avoid getting their files encrypted in the future by simply having Windows Defender SmartScreen enabled.\n\nOther than that, you should always [scan for virus with Windows Defender any .exe files or apks](https://i.imgur.com/aCX8EZc.jpg). As well as scanning with [VirusTotal](https://www.virustotal.com/#/home/upload) online.\n\nDownloading cracked programs / apks from pirate sites, even from trusted users (or even from google) can get you infected with serious viruses. So always scan before running.",
+        "title": "Good day! GandGrab (v5.2) Decryption tool by Bitdefender has been released!",
+        "score": 27,
+        "id": "c225cj",
+        "commsNum": 1,
+        "timeStamp": "2019/06/18-06:17:38",
+        "author_name": "_Black_Sails",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/c225cj/good_day_gandgrab_v52_decryption_tool_by/"
+    },
+    "posts": {
+        "erh6ub2": {
+            "comment": "No way! Finally. I have been checking every week! Let's see if it works. Thanks for posting ;\\_))",
+            "timeStamp": "2019/06/18-07:36:45",
+            "id": "erh6ub2",
+            "is_submitter": false,
+            "link_id": "t3_c225cj",
+            "parent_id": "t3_c225cj",
+            "score": -1,
+            "stickied": false,
+            "author_name": "ruairib"
+        }
+    }
+}

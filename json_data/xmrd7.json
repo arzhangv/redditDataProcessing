@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Joe DD - Joe Document Dissector - Analyses / detects malicious Office and PDF Documents",
+        "score": 2,
+        "id": "xmrd7",
+        "commsNum": 0,
+        "timeStamp": "2012/08/03-11:29:13",
+        "author_name": "joe4security",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": null,
+        "url": "http://joedd.joesecurity.org"
+    },
+    "posts": {}
+}

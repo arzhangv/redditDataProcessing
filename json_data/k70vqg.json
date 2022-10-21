@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": 0.5,
+        "selftext": "[removed]",
+        "title": "Two McAffee detections",
+        "score": 0,
+        "id": "k70vqg",
+        "commsNum": 10,
+        "timeStamp": "2020/12/04-20:18:15",
+        "author_name": "_Gianluksos155_",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 10,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/k70vqg/two_mcaffee_detections/"
+    },
+    "posts": {
+        "geobgza": {
+            "comment": "Aggred if you bought these from a know good source id say the likely hood of it being a false positive is extremely high",
+            "timeStamp": "2020/12/04-21:41:06",
+            "id": "geobgza",
+            "is_submitter": false,
+            "link_id": "t3_k70vqg",
+            "parent_id": "t1_geo5de3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Wouldratherplaymtg"
+        },
+        "geo5v1r": {
+            "comment": "Suspect or Generic means that it matched some rule in an automated system. Likely no human has looked at it. The code after the \"!\" is a partial hash of the file, and would only be useful to the antivirus developer.\n\nQuick guide on getting it to the people who can research it more:\nhttps://www.reddit.com/r/antivirus/comments/hls4q3/to_the_people_asking_for_opinions_on_a_specific/",
+            "timeStamp": "2020/12/04-20:34:17",
+            "id": "geo5v1r",
+            "is_submitter": false,
+            "link_id": "t3_k70vqg",
+            "parent_id": "t3_k70vqg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "rainrat"
+        },
+        "geo5de3": {
+            "comment": "If you brought them legally from a known safe download source mcaffe is probably just screwing up",
+            "timeStamp": "2020/12/04-20:28:49",
+            "id": "geo5de3",
+            "is_submitter": false,
+            "link_id": "t3_k70vqg",
+            "parent_id": "t1_geo4vre",
+            "score": 2,
+            "stickied": false,
+            "author_name": "bruh-man0"
+        },
+        "geo4vre": {
+            "comment": "See, I'm afraid all of the programs I have installed were bought legally. I didn't have a single problem with them up until now.",
+            "timeStamp": "2020/12/04-20:23:20",
+            "id": "geo4vre",
+            "is_submitter": true,
+            "link_id": "t3_k70vqg",
+            "parent_id": "t1_geo4le8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "_Gianluksos155_"
+        },
+        "geo4le8": {
+            "comment": "Don't illegality download next time and take your pc to a shop",
+            "timeStamp": "2020/12/04-20:20:07",
+            "id": "geo4le8",
+            "is_submitter": false,
+            "link_id": "t3_k70vqg",
+            "parent_id": "t3_k70vqg",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Wouldratherplaymtg"
+        }
+    }
+}

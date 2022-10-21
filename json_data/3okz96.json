@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Whitepaper: Writing Cisco IOS Rootkits [XPOST from r/netsec]",
+        "score": 15,
+        "id": "3okz96",
+        "commsNum": 1,
+        "timeStamp": "2015/10/13-06:09:14",
+        "author_name": "sly117",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://grid32.com/bb095447484a76e5c74d10f604b716f8/cisco_ios_rootkits.pdf"
+    },
+    "posts": {}
+}

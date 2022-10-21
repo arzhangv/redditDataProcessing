@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "[removed]",
+        "title": "Help figuring out what a Powershell based malware was trying to do.",
+        "score": 1,
+        "id": "r0sl8b",
+        "commsNum": 6,
+        "timeStamp": "2021/11/23-17:15:44",
+        "author_name": "NextNurofen",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/r0sl8b/help_figuring_out_what_a_powershell_based_malware/"
+    },
+    "posts": {
+        "hmeee32": {
+            "comment": "[removed]",
+            "timeStamp": "2021/11/28-05:48:01",
+            "id": "hmeee32",
+            "is_submitter": false,
+            "link_id": "t3_r0sl8b",
+            "parent_id": "t3_r0sl8b",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hlxrmls": {
+            "comment": "This looks like cobalt strike with its reflective dll injection. If this has been executed I would try and run 1768 on it to see if you can get any other beacon information from it.  I will also link a few other things.  I'm just a blue teamer just trying to help. Don't roast me if I am 100% off. \n\n1768.py:\n\n[https://github.com/DidierStevens/DidierStevensSuite/blob/master/1768.py](https://github.com/DidierStevens/DidierStevensSuite/blob/master/1768.py)\n\nCobalt Strike breakdown:\n\n[https://mez0.cc/posts/cobaltstrike-powershell-exec/](https://mez0.cc/posts/cobaltstrike-powershell-exec/) \n\nps.ps1\n\n[https://www.hybrid-analysis.com/sample/890746fdbea080fc3c42d8c2f485fa387eb38e2a92d9fb3f0c4004dc84d49c63/5ee5e7c361acad696a42de84](https://www.hybrid-analysis.com/sample/890746fdbea080fc3c42d8c2f485fa387eb38e2a92d9fb3f0c4004dc84d49c63/5ee5e7c361acad696a42de84)",
+            "timeStamp": "2021/11/24-11:23:44",
+            "id": "hlxrmls",
+            "is_submitter": false,
+            "link_id": "t3_r0sl8b",
+            "parent_id": "t3_r0sl8b",
+            "score": 1,
+            "stickied": false,
+            "author_name": "anotherfakeassdude"
+        },
+        "hlxgrht": {
+            "comment": "Just to add to the other comment, what you thought was a hexdump ist the actual shellcode that is executed. The script does the following using native API calls: allocate read-write-execute memory (VirtualAllocEx), copy the shellcode to that memory location (RtlMoveMemory) and execute it by creating a new thread (CreateThread). To know what that actual payload is, you have to analyze the shellcode. Maybe I'll take a look at it later when I find the time.",
+            "timeStamp": "2021/11/24-10:13:15",
+            "id": "hlxgrht",
+            "is_submitter": false,
+            "link_id": "t3_r0sl8b",
+            "parent_id": "t3_r0sl8b",
+            "score": 1,
+            "stickied": false,
+            "author_name": "rickuf"
+        },
+        "hlvip1z": {
+            "comment": "Looks like you found what you were looking for. As a future reference the second you see stuff about invoking system DLLs or assemblies (especially reference to kernel32) just know that it's calling the windows API directly so all those weird functions are api calls. And anytime you see reference to VirtualAlloc you're probably going to be dealing with it injecting shellcode into memory. So it's always a quick spot",
+            "timeStamp": "2021/11/23-23:25:02",
+            "id": "hlvip1z",
+            "is_submitter": false,
+            "link_id": "t3_r0sl8b",
+            "parent_id": "t3_r0sl8b",
+            "score": 26,
+            "stickied": false,
+            "author_name": "micropeenandproud"
+        },
+        "hludg6t": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators **and be sure to include the link to the post** - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2021/11/23-17:15:48",
+            "id": "hludg6t",
+            "is_submitter": false,
+            "link_id": "t3_r0sl8b",
+            "parent_id": "t3_r0sl8b",
+            "score": -11,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

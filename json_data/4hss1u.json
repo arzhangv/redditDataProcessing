@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I somehow ended up on a the subreddit /r/kundalini (I have no clue what it is), but then avast said a threat was detected. I just want to know what actually happened, and here is the message I got from avast:\n\nhttp://imgur.com/m0X4jGx",
+        "title": "Avast detected malware from /r/kundalini",
+        "score": 0,
+        "id": "4hss1u",
+        "commsNum": 2,
+        "timeStamp": "2016/05/03-20:49:16",
+        "author_name": "Anthrax97",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/4hss1u/avast_detected_malware_from_rkundalini/"
+    },
+    "posts": {}
+}

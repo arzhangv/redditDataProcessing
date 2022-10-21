@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hey /r/Malware , I'm fairly new to analysing malware (and pretty terrible at it too), but I wanted to share some findings I had with you guys. \n\n NOTE: By fairly new, this was the 6th malware I've looked at, and the first that I typed up a partial analysis, so go easy on me.\n\n[virustotal](https://www.virustotal.com/en/file/37d54e3d5e8b838f366b9c202f75fa264611a12444e62ae759c31a0d041aa6e4/analysis/)\n\nmd5:f67b65b9346ee75a26f491b70bf6091b\n\nName: CrashOverride\n\nAfter looking at my objdump, I saw that the malware was editing the following dlls: SHLWAPI.DLL\n\tWINHTTP.DLL\n\turlmon.DLL\n\tKERNEL32.DLL\n\tUSER32.DLL\n\tADVAPI32.DLL\n\tSHELL32.DLL\n\nBecause I'm very new to Malware Analysis, I didn't get very far in disassembling it, however I did find some interesting things, such as the function in ADVAPI.dll, ImpersonateLogged0nUser, which then calls to GetTokenInformation, before it jumped to ntdll\n\nI also noticed that it makes a lot of calls in sub_4023A8 to imapi and looks to be saving some files there\n\nI also analyzed a Pcap that I recorded of the malware.  Inside the disassembled code, the malware lists 2 IPs,  5.39.218.212 in sub_402174 and 10.15.1.69:3128 in sub_40204D.  However, in my Pcap, I only saw 10.15.1.69:3128, could be an http tunnel to 5.39.218.212.\n\nThe most interesting thing I noticed in the Pcap was the appearance of 2 IPs, 195.154.164.243 and 62.210.92.11.  These 2 IP's only appeared when both the malware and a web browser were open.  The first IP is a tor exit node, while the second IP was reported twice for email spam and running a port scan.\n\nObtainUserAgentString was imported by urlmon.dll and used to set a TopLevelFilter.\n\n\nI'm still very new to this, but hopefully I can get better with some feedback.\n\n\n[tree from dump](https://ghostbin.com/paste/cvnxh)\n\n[objdump](https://ghostbin.com/paste/x2y7f)\n\n[strings](https://ghostbin.com/paste/qvmtc)\n",
+        "title": "an awful (partial) analysis of CrashOverride",
+        "score": 25,
+        "id": "6j99lc",
+        "commsNum": 13,
+        "timeStamp": "2017/06/24-10:09:51",
+        "author_name": "DeathByHugz",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 13,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6j99lc/an_awful_partial_analysis_of_crashoverride/"
+    },
+    "posts": {}
+}

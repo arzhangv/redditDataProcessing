@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "LockBit Ransomware Side-loads Cobalt Strike Beacon with Legitimate VMware Utility",
+        "score": 1,
+        "id": "udn4ce",
+        "commsNum": 0,
+        "timeStamp": "2022/04/27-21:51:50",
+        "author_name": "paran0ide",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.sentinelone.com/labs/lockbit-ransomware-side-loads-cobalt-strike-beacon-with-legitimate-vmware-utility/"
+    },
+    "posts": {}
+}

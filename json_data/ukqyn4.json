@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "So I let an mmr download a game because there was no other way to get it and it says all the time \"malware detected, we are going to try cleaning it\" but If I uninstall the mmr I won't get access anymore to that game.. so what I should do? It is safe to just keep the mmr in my laptop?",
+        "title": "desktop malware",
+        "score": 1,
+        "id": "ukqyn4",
+        "commsNum": 0,
+        "timeStamp": "2022/05/07-18:14:07",
+        "author_name": "Worried_Freedom_6430",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ukqyn4/desktop_malware/"
+    },
+    "posts": {
+        "i7remf7": {
+            "comment": "Wrong sub also wtf is mmr",
+            "timeStamp": "2022/05/07-21:23:09",
+            "id": "i7remf7",
+            "is_submitter": false,
+            "link_id": "t3_ukqyn4",
+            "parent_id": "t3_ukqyn4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DirtCrazykid"
+        },
+        "i7qyzhd": {
+            "comment": "This isn\u2019t a tech support page.",
+            "timeStamp": "2022/05/07-19:00:45",
+            "id": "i7qyzhd",
+            "is_submitter": false,
+            "link_id": "t3_ukqyn4",
+            "parent_id": "t3_ukqyn4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "canofspam2020"
+        }
+    }
+}

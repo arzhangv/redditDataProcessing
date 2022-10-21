@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Alex Ionescue: Dynamic Tracing in Windows 10",
+        "score": 4,
+        "id": "9agksn",
+        "commsNum": 1,
+        "timeStamp": "2018/08/26-08:59:45",
+        "author_name": "edward_snowedin",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.alex-ionescu.com/?p=358"
+    },
+    "posts": {
+        "e4v8uxu": {
+            "comment": "While not directly malware related, readers of the article will note that Alex has outlined how one can leverage the new kernel callback **KeSetSystemServiceCallback** to monitor system-wide API calls.\n\nWhat should be possible then, is to setup a sandbox environment that disables PatchGuard, enable debug tracing by setting the kernel variable, loop through a list of NT API calls (calling KeSetSystemServiceCallback), and then using said sandbox to run malware samples which have obfuscated their system calls. \n\nObviously not a plug-and-play solution in its current state, but a good project for teams who want to spend less time in IDA fixing up a sample's IAT.",
+            "timeStamp": "2018/08/26-09:07:58",
+            "id": "e4v8uxu",
+            "is_submitter": true,
+            "link_id": "t3_9agksn",
+            "parent_id": "t3_9agksn",
+            "score": 2,
+            "stickied": false,
+            "author_name": "edward_snowedin"
+        }
+    }
+}

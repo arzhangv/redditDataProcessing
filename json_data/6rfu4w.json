@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Here is the [Link](https://www.reddit.com/r/tails/comments/6qsdaz/a_very_interesting_case_regarding_malware_that/?st=J5WY0ERR&sh=b1df0f1a) to the original post. And I thought it was a very interesting piece of malware because the OP claims that the malware affected his/her windows machine and tails Linux USB drive. Also what was being described in the comments reminded me of machine learning. The OP has since contained the malware and is looking to have the drive shipped off to an an analysis lab. Is there any malware lab that will take USB drives via mail any help is appreciated.",
+        "title": "A redditor has a virus on a USB drive that affected a windows and tails Linux USB drive and wants to mail it to a malware analysis lab",
+        "score": 5,
+        "id": "6rfu4w",
+        "commsNum": 3,
+        "timeStamp": "2017/08/03-14:53:12",
+        "author_name": "uCrEdU4dqgZotBubcVvT",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6rfu4w/a_redditor_has_a_virus_on_a_usb_drive_that/"
+    },
+    "posts": {
+        "dl7p49k": {
+            "comment": "[deleted]",
+            "timeStamp": "2017/08/05-13:08:18",
+            "id": "dl7p49k",
+            "is_submitter": false,
+            "link_id": "t3_6rfu4w",
+            "parent_id": "t3_6rfu4w",
+            "score": 3,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "dl63hl3": {
+            "comment": "Can't say with 100% certainty, but my gut feeling is that the OP knows just enough about computers to be dangerous.  Between him calling out primary Windows functions (csrss.exe, for example) as malicious and the seemingly random screenshots, I don't trust a great deal of what he has said as reliable.\n\nFurthermore there's tons of easy ways to transmit this \"malware\" safely that don't require physically mailing a USB drive or something.  Boot into a Kali linux live disc in forensic mode, dd the whole drive if you need, it'll be mounted read only.  Tada, you have a soft copy that you can freely transport without worry of anything executing by it's own accord.",
+            "timeStamp": "2017/08/04-11:19:51",
+            "id": "dl63hl3",
+            "is_submitter": false,
+            "link_id": "t3_6rfu4w",
+            "parent_id": "t3_6rfu4w",
+            "score": 5,
+            "stickied": false,
+            "author_name": "SpotOnTheRug"
+        },
+        "dl5ryw9": {
+            "comment": "I'm pretty skeptical, I'm leaning more towards thinking the OP is just paranoid. He could try reaching out to Symantec, Kaspersky etc. and see if they are interested in receiving a sample but I imagine they would also think OP is misinterpreting legitimate things as being malware. ",
+            "timeStamp": "2017/08/04-08:00:29",
+            "id": "dl5ryw9",
+            "is_submitter": false,
+            "link_id": "t3_6rfu4w",
+            "parent_id": "t3_6rfu4w",
+            "score": 5,
+            "stickied": false,
+            "author_name": "4e4f5045"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "An In-Depth Analysis of Samsam Ransomware and BOSS SPIDER",
+        "score": 28,
+        "id": "8l9e5g",
+        "commsNum": 1,
+        "timeStamp": "2018/05/22-04:53:55",
+        "author_name": "edward_snowedin",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.crowdstrike.com/blog/an-in-depth-analysis-of-samsam-ransomware-and-boss-spider/"
+    },
+    "posts": {
+        "dzews8n": {
+            "comment": "Excellent write up. I really enjoyed it, thanks for sharing",
+            "timeStamp": "2018/05/22-16:02:28",
+            "id": "dzews8n",
+            "is_submitter": false,
+            "link_id": "t3_8l9e5g",
+            "parent_id": "t3_8l9e5g",
+            "score": 3,
+            "stickied": false,
+            "author_name": "Grendel84"
+        }
+    }
+}

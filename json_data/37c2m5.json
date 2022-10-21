@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hello guys and girls.\n\nIs it me or does the OS actually matter for some malware? I was watching one of Danooct1's videos and I wanted to test out the Maldal virus. \n\nIt makes a ton of copies of itself and keeps copying until the hard drive is full. \n\nBecause I didn't had a Win98 VM set-up at the time, I tested out on XP. Maybe I got another variant but the maldal sample I ran, was extremely destructive and killed all my files on the VM. \n\nSo, curious if I got the wrong sample, I ran it on a Win98 VM (after I got it set up) ... yet, it did it's payload of copying files. \n\nI have seen this happening with other malware as well. Sometimes the payload slightly differs. Like the Gruel worm. (Oh yes, one of the worst worms EVER.) It displayed more stuff on Windows 8, 8.1 and 10 then it did on Windows 7 and XP.\n\nIs this normal or am I doing something wrong in my research here? ",
+        "title": "Different version of OS = different payload?",
+        "score": 3,
+        "id": "37c2m5",
+        "commsNum": 7,
+        "timeStamp": "2015/05/26-08:04:44",
+        "author_name": "NekoJonez",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/37c2m5/different_version_of_os_different_payload/"
+    },
+    "posts": {}
+}

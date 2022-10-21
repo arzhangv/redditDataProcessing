@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Malware Must Die!: Linux ELF bash 0day: The fun has only just begun... New sample, this time the Chinese crook is also starts to play it.",
+        "score": 20,
+        "id": "2hiect",
+        "commsNum": 4,
+        "timeStamp": "2014/09/26-01:03:20",
+        "author_name": "mmd0xFF",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://blog.malwaremustdie.org/2014/09/linux-elf-bash-0day-fun-has-only-just.html"
+    },
+    "posts": {}
+}

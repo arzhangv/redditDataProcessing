@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "When i went on, there was a virus called URL//:Blacklist from a domain called \"browserr. top\"\n\nSounds sketchy enough.\n\nI didn't want you to click it, so i spaced the dot.",
+        "title": "Ok so i recently checked my grandparent's old PC",
+        "score": 1,
+        "id": "fg29pc",
+        "commsNum": 4,
+        "timeStamp": "2020/03/09-14:30:39",
+        "author_name": "Epic_Doge_Boi",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/fg29pc/ok_so_i_recently_checked_my_grandparents_old_pc/"
+    },
+    "posts": {
+        "fk42jac": {
+            "comment": "Ok, thanks!",
+            "timeStamp": "2020/03/10-07:52:28",
+            "id": "fk42jac",
+            "is_submitter": true,
+            "link_id": "t3_fg29pc",
+            "parent_id": "t1_fk2qa07",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Epic_Doge_Boi"
+        },
+        "fk2qa07": {
+            "comment": "I\u2019m gonna check this out on a vm",
+            "timeStamp": "2020/03/09-19:17:57",
+            "id": "fk2qa07",
+            "is_submitter": false,
+            "link_id": "t3_fg29pc",
+            "parent_id": "t3_fg29pc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "1711frgtn"
+        },
+        "fk2iro4": {
+            "comment": "[removed]",
+            "timeStamp": "2020/03/09-17:59:27",
+            "id": "fk2iro4",
+            "is_submitter": false,
+            "link_id": "t3_fg29pc",
+            "parent_id": "t3_fg29pc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fk2dgoc": {
+            "comment": "[removed]",
+            "timeStamp": "2020/03/09-17:03:14",
+            "id": "fk2dgoc",
+            "is_submitter": false,
+            "link_id": "t3_fg29pc",
+            "parent_id": "t3_fg29pc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "[removed]",
+        "title": "Questionable program detecting on Virus total but not Kaspersky",
+        "score": 1,
+        "id": "ritgh8",
+        "commsNum": 1,
+        "timeStamp": "2021/12/17-15:14:04",
+        "author_name": "its_SE7",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ritgh8/questionable_program_detecting_on_virus_total_but/"
+    },
+    "posts": {
+        "hozdirf": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators **and be sure to include the link to the post** - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2021/12/17-15:14:05",
+            "id": "hozdirf",
+            "is_submitter": false,
+            "link_id": "t3_ritgh8",
+            "parent_id": "t3_ritgh8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

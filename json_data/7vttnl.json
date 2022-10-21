@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi.\nI'm wondering how safe private trackers really are when it comes to R.A.T's and malware... They are all FUD (Fully undetectable) if it's a new torrent i'm guessing, and perhaps have rootkits and all. I'm no expert in this at all. Or maybe allot of sites are clean, and i'm just being paranoid.\n\nBut are there any good sites to run malware and get a good Malware analysis? I found Hybrid Analysis, and that site seems to be very good! Any other similar sites? \nI'm thinking about testing some torrents in a virtual machine before trying it on my own. Wireshark and all, or a better alternative as Hybrid analysis. Feels like one can never be safe when it comes to malware and viruses these days.\n\nAlso, any advice on how to not get virus or malware on lets say a windows machine overall? Deep freeze or similar might be a good option.. Thanks",
+        "title": "How safe are private trackers torrents? And can i get some good sites with analysis of files? Thanks!",
+        "score": 0,
+        "id": "7vttnl",
+        "commsNum": 6,
+        "timeStamp": "2018/02/06-21:14:58",
+        "author_name": "shpr0ink",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/7vttnl/how_safe_are_private_trackers_torrents_and_can_i/"
+    },
+    "posts": {}
+}

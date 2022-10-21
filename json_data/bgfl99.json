@@ -1,0 +1,121 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Carbanak Malware Source Code Leak",
+        "score": 40,
+        "id": "bgfl99",
+        "commsNum": 9,
+        "timeStamp": "2019/04/23-05:07:23",
+        "author_name": "EQT_STRIKE",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 9,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://twitter.com/ItsReallyNick/status/1120410950430089224"
+    },
+    "posts": {
+        "em9uw8r": {
+            "comment": "what a strange name",
+            "timeStamp": "2019/05/01-17:19:15",
+            "id": "em9uw8r",
+            "is_submitter": false,
+            "link_id": "t3_bgfl99",
+            "parent_id": "t1_eln1nmz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RoonyHD"
+        },
+        "elyctzx": {
+            "comment": "What string overlaps you see?",
+            "timeStamp": "2019/04/27-19:00:32",
+            "id": "elyctzx",
+            "is_submitter": false,
+            "link_id": "t3_bgfl99",
+            "parent_id": "t1_elnfwxo",
+            "score": 1,
+            "stickied": false,
+            "author_name": "thehoodedidiot"
+        },
+        "elyc84c": {
+            "comment": "Github source code linked below",
+            "timeStamp": "2019/04/27-18:51:38",
+            "id": "elyc84c",
+            "is_submitter": false,
+            "link_id": "t3_bgfl99",
+            "parent_id": "t1_elm1u5t",
+            "score": 2,
+            "stickied": false,
+            "author_name": "thehoodedidiot"
+        },
+        "elnfwxo": {
+            "comment": "Anyone has idea why this shares so many strings with with the IOC's described in the FireEye articles?\n\nhxxp://165.22.67.232/c/Doc33.doc\nhttps://www.virustotal.com/#/file/aef703b3c0222fae2afdbdf558cfef1aa327c06608d4c583a9c1a6dcaa169c47/detection",
+            "timeStamp": "2019/04/24-05:28:11",
+            "id": "elnfwxo",
+            "is_submitter": false,
+            "link_id": "t3_bgfl99",
+            "parent_id": "t3_bgfl99",
+            "score": 1,
+            "stickied": false,
+            "author_name": "NicolasVega"
+        },
+        "eln1nmz": {
+            "comment": " [https://github.com/Aekras1a/Updated-Carbanak-Source-with-Plugins](https://github.com/Aekras1a/Updated-Carbanak-Source-with-Plugins)",
+            "timeStamp": "2019/04/24-00:23:55",
+            "id": "eln1nmz",
+            "is_submitter": true,
+            "link_id": "t3_bgfl99",
+            "parent_id": "t1_ell3phc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "EQT_STRIKE"
+        },
+        "elm1u5t": {
+            "comment": "I assumed the archives are for executables, but i'll look into it, thanks.",
+            "timeStamp": "2019/04/23-15:57:30",
+            "id": "elm1u5t",
+            "is_submitter": false,
+            "link_id": "t3_bgfl99",
+            "parent_id": "t1_ellgw4o",
+            "score": 2,
+            "stickied": false,
+            "author_name": "sephstorm"
+        },
+        "ellgw4o": {
+            "comment": "The tweet provided the hash to download the archives off of virustotal.  They even put it on virusbay for people who dont have paid accounts on VT. Hope that helps and happy hunting!",
+            "timeStamp": "2019/04/23-12:10:33",
+            "id": "ellgw4o",
+            "is_submitter": false,
+            "link_id": "t3_bgfl99",
+            "parent_id": "t1_elkv6j0",
+            "score": 6,
+            "stickied": false,
+            "author_name": "r3v3rs3r"
+        },
+        "ell3phc": {
+            "comment": "Fork!!! Link to (github) repo?",
+            "timeStamp": "2019/04/23-09:53:20",
+            "id": "ell3phc",
+            "is_submitter": false,
+            "link_id": "t3_bgfl99",
+            "parent_id": "t3_bgfl99",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MrsPenguinz"
+        },
+        "elkv6j0": {
+            "comment": "I'm guessing that they aren't releasing the code itself?",
+            "timeStamp": "2019/04/23-08:26:10",
+            "id": "elkv6j0",
+            "is_submitter": false,
+            "link_id": "t3_bgfl99",
+            "parent_id": "t3_bgfl99",
+            "score": 6,
+            "stickied": false,
+            "author_name": "sephstorm"
+        }
+    }
+}

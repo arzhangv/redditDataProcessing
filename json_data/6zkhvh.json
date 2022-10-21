@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi\n\nI'm trying to learn about ransomware that doesn't encrypt anything on your drive, but is posting internet history publicly , similar to this kenzero malware I was reading about.\n\nhttps://www.computerworld.com.au/article/360876/trojan_monitors_your_porn_surfing_habits/\n\nDoes anybody know of any other examples of this kind of malware? Is it a popular method for cyber criminals?",
+        "title": "infostealer.kenzero and malware similar to it..",
+        "score": 3,
+        "id": "6zkhvh",
+        "commsNum": 0,
+        "timeStamp": "2017/09/11-20:34:26",
+        "author_name": "Thrones33",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6zkhvh/infostealerkenzero_and_malware_similar_to_it/"
+    },
+    "posts": {}
+}

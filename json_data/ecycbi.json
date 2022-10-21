@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Powershell for exploitation and post exploitation",
+        "score": 1,
+        "id": "ecycbi",
+        "commsNum": 1,
+        "timeStamp": "2019/12/19-11:49:38",
+        "author_name": "Z3r0s3c4",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.peerlyst.com/posts/powershell-for-exploitation-and-post-exploitation-david-dunmore?trk=search_page_search_result"
+    },
+    "posts": {
+        "fbegjsi": {
+            "comment": "Go spam your blog elsewhere",
+            "timeStamp": "2019/12/19-11:53:27",
+            "id": "fbegjsi",
+            "is_submitter": false,
+            "link_id": "t3_ecycbi",
+            "parent_id": "t3_ecycbi",
+            "score": 1,
+            "stickied": false,
+            "author_name": "No2Bencil"
+        }
+    }
+}

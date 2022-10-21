@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "[WEBINAR/VIDEO] Talos Quarterly Threat Briefing -Live Tues Feb. 27 w/ video replay after",
+        "score": 1,
+        "id": "7yykcl",
+        "commsNum": 0,
+        "timeStamp": "2018/02/20-11:15:46",
+        "author_name": "WorksAtCisco",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://blog.talosintelligence.com/2018/02/talos-quarterly-threat-briefing-winter.html"
+    },
+    "posts": {}
+}

@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Can I use remnux on dual boot?  What are the things to look for when using this way?",
+        "title": "REMNUX",
+        "score": 1,
+        "id": "q15o5u",
+        "commsNum": 6,
+        "timeStamp": "2021/10/04-06:41:36",
+        "author_name": "NANDUZZZZZ",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/q15o5u/remnux/"
+    },
+    "posts": {
+        "hfg5u50": {
+            "comment": "[removed]",
+            "timeStamp": "2021/10/04-22:42:11",
+            "id": "hfg5u50",
+            "is_submitter": false,
+            "link_id": "t3_q15o5u",
+            "parent_id": "t1_hff3kxp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hffs5za": {
+            "comment": "Its very slow",
+            "timeStamp": "2021/10/04-20:18:00",
+            "id": "hffs5za",
+            "is_submitter": true,
+            "link_id": "t3_q15o5u",
+            "parent_id": "t1_hfdfa48",
+            "score": 0,
+            "stickied": false,
+            "author_name": "NANDUZZZZZ"
+        },
+        "hff3kxp": {
+            "comment": "Yea you can. If you do it this way tho you just have to worry about the same issues with any Linux dual booting with Windows install. Mainly that Windows may to wipe MBRs/GPTs so you have to sometime go in there and have to figure out how to add Linux to your boot up.\n\nAlso I think the newer machines have UEFI and Secureboot which you have ot figure out how to disable if you want to dual boot .....or so i hear. I havent owned a personal new device that I dual boot in years",
+            "timeStamp": "2021/10/04-16:50:14",
+            "id": "hff3kxp",
+            "is_submitter": false,
+            "link_id": "t3_q15o5u",
+            "parent_id": "t3_q15o5u",
+            "score": 3,
+            "stickied": false,
+            "author_name": "blabbities"
+        },
+        "hfenirt": {
+            "comment": "[removed]",
+            "timeStamp": "2021/10/04-14:45:12",
+            "id": "hfenirt",
+            "is_submitter": false,
+            "link_id": "t3_q15o5u",
+            "parent_id": "t1_hfdfa48",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hfdfa48": {
+            "comment": "just use vm",
+            "timeStamp": "2021/10/04-10:13:17",
+            "id": "hfdfa48",
+            "is_submitter": false,
+            "link_id": "t3_q15o5u",
+            "parent_id": "t3_q15o5u",
+            "score": 5,
+            "stickied": false,
+            "author_name": "ParkingMobile2095"
+        },
+        "hfcvar2": {
+            "comment": "[removed]",
+            "timeStamp": "2021/10/04-07:58:46",
+            "id": "hfcvar2",
+            "is_submitter": false,
+            "link_id": "t3_q15o5u",
+            "parent_id": "t3_q15o5u",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

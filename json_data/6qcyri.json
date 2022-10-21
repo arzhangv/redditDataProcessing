@@ -1,0 +1,121 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Exclusive: Congress asks U.S. agencies for Kaspersky Lab cyber documents",
+        "score": 30,
+        "id": "6qcyri",
+        "commsNum": 9,
+        "timeStamp": "2017/07/29-12:40:26",
+        "author_name": "A_Lazko",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 9,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reuters.com/article/us-usa-kasperskylab-probe-idUSKBN1AD2H0"
+    },
+    "posts": {
+        "dkwipih": {
+            "comment": "Didn't even think of that really, but thats's a really logical response",
+            "timeStamp": "2017/07/29-15:49:52",
+            "id": "dkwipih",
+            "is_submitter": false,
+            "link_id": "t3_6qcyri",
+            "parent_id": "t1_dkwimv3",
+            "score": 4,
+            "stickied": false,
+            "author_name": "ilukis"
+        },
+        "dkwimv3": {
+            "comment": "Having more endpoints to collect and send samples of potentially malicious files back to their corporate network gives them an advantage in writing signatures for their enterprise software/appliances. ",
+            "timeStamp": "2017/07/29-15:48:07",
+            "id": "dkwimv3",
+            "is_submitter": false,
+            "link_id": "t3_6qcyri",
+            "parent_id": "t1_dkwdm82",
+            "score": 14,
+            "stickied": false,
+            "author_name": "williamshowalter"
+        },
+        "dkwf747": {
+            "comment": "Can you provide more info about this please? ",
+            "timeStamp": "2017/07/29-14:26:26",
+            "id": "dkwf747",
+            "is_submitter": false,
+            "link_id": "t3_6qcyri",
+            "parent_id": "t1_dkwd89n",
+            "score": 4,
+            "stickied": false,
+            "author_name": "hexc0de1"
+        },
+        "dkwey55": {
+            "comment": "**Pssst, hey, kid! Wanna buy some *drugs*? F I R S T  R I D E ' S  F R E E**\n\nIt's how they reel you in, sadly..",
+            "timeStamp": "2017/07/29-14:20:30",
+            "id": "dkwey55",
+            "is_submitter": false,
+            "link_id": "t3_6qcyri",
+            "parent_id": "t1_dkwe0kk",
+            "score": 0,
+            "stickied": false,
+            "author_name": "ilukis"
+        },
+        "dkwe0kk": {
+            "comment": "well, if they somehow make you pay for upgrade or something of a kind, it does",
+            "timeStamp": "2017/07/29-13:58:29",
+            "id": "dkwe0kk",
+            "is_submitter": true,
+            "link_id": "t3_6qcyri",
+            "parent_id": "t1_dkwdm82",
+            "score": 2,
+            "stickied": false,
+            "author_name": "A_Lazko"
+        },
+        "dkwdm82": {
+            "comment": "Yeah but, in the official way, it doesn't make any sense right?",
+            "timeStamp": "2017/07/29-13:49:13",
+            "id": "dkwdm82",
+            "is_submitter": false,
+            "link_id": "t3_6qcyri",
+            "parent_id": "t1_dkwciht",
+            "score": 3,
+            "stickied": false,
+            "author_name": "ilukis"
+        },
+        "dkwd89n": {
+            "comment": "Kasperky code integration into Nutanix should be a concern since Nutanix is running all across Federal Civilian and DoD agencies. ",
+            "timeStamp": "2017/07/29-13:40:09",
+            "id": "dkwd89n",
+            "is_submitter": false,
+            "link_id": "t3_6qcyri",
+            "parent_id": "t3_6qcyri",
+            "score": 11,
+            "stickied": false,
+            "author_name": "Maximillian666"
+        },
+        "dkwciht": {
+            "comment": "access to some info I guess",
+            "timeStamp": "2017/07/29-13:23:26",
+            "id": "dkwciht",
+            "is_submitter": true,
+            "link_id": "t3_6qcyri",
+            "parent_id": "t1_dkwbyij",
+            "score": 5,
+            "stickied": false,
+            "author_name": "A_Lazko"
+        },
+        "dkwbyij": {
+            "comment": "&gt;launched a free version of it's antivirus software, saying \"It will help protect the whole world\"\n\nI don't really get it, **what's in it for them?**",
+            "timeStamp": "2017/07/29-13:10:38",
+            "id": "dkwbyij",
+            "is_submitter": false,
+            "link_id": "t3_6qcyri",
+            "parent_id": "t3_6qcyri",
+            "score": 7,
+            "stickied": false,
+            "author_name": "ilukis"
+        }
+    }
+}

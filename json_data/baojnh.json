@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[removed]",
+        "title": "Strictly speaking, what's the difference between Malware and Malicious Code?",
+        "score": 1,
+        "id": "baojnh",
+        "commsNum": 4,
+        "timeStamp": "2019/04/07-19:54:31",
+        "author_name": "TheTinker112263",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/baojnh/strictly_speaking_whats_the_difference_between/"
+    },
+    "posts": {
+        "ekjflcy": {
+            "comment": "There isn't - the definition of malware is malicious code...",
+            "timeStamp": "2019/04/10-04:28:05",
+            "id": "ekjflcy",
+            "is_submitter": false,
+            "link_id": "t3_baojnh",
+            "parent_id": "t3_baojnh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Invinciblex"
+        },
+        "ekft8am": {
+            "comment": "Malware is typically an application of its own. Malicious code is embedded within other legitimate code (injected into an HTML page), or a script run at a prompt.",
+            "timeStamp": "2019/04/08-18:44:02",
+            "id": "ekft8am",
+            "is_submitter": false,
+            "link_id": "t3_baojnh",
+            "parent_id": "t3_baojnh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "JulienneDelphiki"
+        },
+        "ekd269x": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2019/04/07-19:54:32",
+            "id": "ekd269x",
+            "is_submitter": false,
+            "link_id": "t3_baojnh",
+            "parent_id": "t3_baojnh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

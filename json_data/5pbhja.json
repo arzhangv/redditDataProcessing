@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hello Security Researchers/Malware Researcher, \n\nI am building a database of malicious url and spam emails so just need help to know how to collect those malicious URL Sources from where I should go for this I know malwaretraffic, URL Query, clean-mx and few more sites. \nI just want to know how to collect these kind of malicious URL. \nPlease help if you know. \n\nThanks ",
+        "title": "How to build database of malicious URL",
+        "score": 15,
+        "id": "5pbhja",
+        "commsNum": 10,
+        "timeStamp": "2017/01/21-08:48:58",
+        "author_name": "anonymouszm",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 10,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5pbhja/how_to_build_database_of_malicious_url/"
+    },
+    "posts": {}
+}

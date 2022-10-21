@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "San Francisco 49ers hit by BlackByte ransomware attack",
+        "score": 1,
+        "id": "ss4d24",
+        "commsNum": 3,
+        "timeStamp": "2022/02/13-22:56:57",
+        "author_name": "Jamie_Pulseway",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.thecybersecuritytimes.com/san-francisco-49ers-hit-by-blackbyte-ransomware-attack/"
+    },
+    "posts": {
+        "hwz851s": {
+            "comment": "I may or may not have worked for a company that they bought a security/ransomware protection tool from and they didnt want to renew it.... Sports teams are notoriously cheap and say \"we will by this from you for 100K, but want 300K in sponsorship spend\"",
+            "timeStamp": "2022/02/14-17:11:38",
+            "id": "hwz851s",
+            "is_submitter": false,
+            "link_id": "t3_ss4d24",
+            "parent_id": "t1_hwy5bpm",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ak00n"
+        },
+        "hwy5bpm": {
+            "comment": "TF are you talking about?",
+            "timeStamp": "2022/02/14-12:01:21",
+            "id": "hwy5bpm",
+            "is_submitter": false,
+            "link_id": "t3_ss4d24",
+            "parent_id": "t1_hwx490a",
+            "score": 1,
+            "stickied": false,
+            "author_name": "virtualroofie"
+        },
+        "hwx490a": {
+            "comment": "Should have paid their renewal.... Karma for wanting everything for free",
+            "timeStamp": "2022/02/14-07:49:42",
+            "id": "hwx490a",
+            "is_submitter": false,
+            "link_id": "t3_ss4d24",
+            "parent_id": "t3_ss4d24",
+            "score": 0,
+            "stickied": false,
+            "author_name": "ak00n"
+        }
+    }
+}

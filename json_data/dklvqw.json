@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "So what is the most common way for encryption? i assume using asymmetric will take much longer specially for larger files, but couldn't find any stat for this\n\n\nalso  the downside of using symmetric is the risk of getting reversed correct? if so how do malware writers solve this issue?",
+        "title": "Do most ransomwares use asymmetric encryption or symmetric?",
+        "score": 1,
+        "id": "dklvqw",
+        "commsNum": 1,
+        "timeStamp": "2019/10/20-09:27:57",
+        "author_name": "WhatZeFuuck",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/dklvqw/do_most_ransomwares_use_asymmetric_encryption_or/"
+    },
+    "posts": {
+        "f4h7my6": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2019/10/20-09:27:57",
+            "id": "f4h7my6",
+            "is_submitter": false,
+            "link_id": "t3_dklvqw",
+            "parent_id": "t3_dklvqw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

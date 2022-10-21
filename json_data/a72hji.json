@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Understanding Linux Malware [PDF]",
+        "score": 1,
+        "id": "a72hji",
+        "commsNum": 1,
+        "timeStamp": "2018/12/17-10:36:14",
+        "author_name": "mjuad",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/ReverseEngineering/comments/a6yhbe/understanding_linux_malware_pdf/"
+    },
+    "posts": {
+        "ebzz584": {
+            "comment": "The talk is about a web tool, Padawan, for ELF analysis: [https://padawan.s3.eurecom.fr/](https://padawan.s3.eurecom.fr/)",
+            "timeStamp": "2018/12/17-12:19:09",
+            "id": "ebzz584",
+            "is_submitter": false,
+            "link_id": "t3_a72hji",
+            "parent_id": "t3_a72hji",
+            "score": 5,
+            "stickied": false,
+            "author_name": "rjzak"
+        }
+    }
+}

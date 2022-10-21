@@ -1,0 +1,110 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Today there was a number of businesses around Central Connecticut, US today that we\u2019re hit with a new variation of the Makop ransomware. It is a particularly nasty ransomware encrypting all users data with a AES and RSA encryption as well as covers all of its traces and lock most functions of windows regularly used remedy the problem. I am currently working in a decrypt key. As we know it is found in the memory dumped the decrypt function is called. If anyone was infected and has locked file extension of .mkp let me know!",
+        "title": "Makop ransomware New Variant .mkp",
+        "score": 1,
+        "id": "skpq9p",
+        "commsNum": 3,
+        "timeStamp": "2022/02/04-14:04:12",
+        "author_name": "doyle884",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/skpq9p/makop_ransomware_new_variant_mkp/"
+    },
+    "posts": {
+        "ikjwanx": {
+            "comment": "[removed]",
+            "timeStamp": "2022/08/16-11:25:27",
+            "id": "ikjwanx",
+            "is_submitter": false,
+            "link_id": "t3_skpq9p",
+            "parent_id": "t3_skpq9p",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "igqz6wb": {
+            "comment": "[removed]",
+            "timeStamp": "2022/07/19-00:10:01",
+            "id": "igqz6wb",
+            "is_submitter": false,
+            "link_id": "t3_skpq9p",
+            "parent_id": "t3_skpq9p",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "i4z84ow": {
+            "comment": "[removed]",
+            "timeStamp": "2022/04/16-10:07:51",
+            "id": "i4z84ow",
+            "is_submitter": false,
+            "link_id": "t3_skpq9p",
+            "parent_id": "t3_skpq9p",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "i44qvbk": {
+            "comment": "i have some lock files of this extension, in a folder, but not all computer files seemed to be infected",
+            "timeStamp": "2022/04/09-22:50:47",
+            "id": "i44qvbk",
+            "is_submitter": false,
+            "link_id": "t3_skpq9p",
+            "parent_id": "t3_skpq9p",
+            "score": 1,
+            "stickied": false,
+            "author_name": "l4cky"
+        },
+        "hz4kexs": {
+            "comment": "[removed]",
+            "timeStamp": "2022/03/02-17:32:54",
+            "id": "hz4kexs",
+            "is_submitter": false,
+            "link_id": "t3_skpq9p",
+            "parent_id": "t3_skpq9p",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hx7w46k": {
+            "comment": "Only the public key can be decrypted, its and Ase key encrypted with RSA so unfortunately it\u2019s impossible. After preliminary analysis, the code is rock solid and there doesn\u2019t seem to be any holes. They know what they were doing. They only way to decrypt is to pay and they are good about giving you the key because they went through great lengths to implement a decryption process.",
+            "timeStamp": "2022/02/16-12:33:28",
+            "id": "hx7w46k",
+            "is_submitter": true,
+            "link_id": "t3_skpq9p",
+            "parent_id": "t3_skpq9p",
+            "score": 1,
+            "stickied": false,
+            "author_name": "doyle884"
+        },
+        "hx75ugy": {
+            "comment": "[removed]",
+            "timeStamp": "2022/02/16-09:39:33",
+            "id": "hx75ugy",
+            "is_submitter": false,
+            "link_id": "t3_skpq9p",
+            "parent_id": "t3_skpq9p",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hw6zu3f": {
+            "comment": "[removed]",
+            "timeStamp": "2022/02/08-22:32:10",
+            "id": "hw6zu3f",
+            "is_submitter": false,
+            "link_id": "t3_skpq9p",
+            "parent_id": "t3_skpq9p",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

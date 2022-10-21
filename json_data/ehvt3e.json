@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi -\n\nIt has been years and years since I have had anything to do with malware analysis. Most of the sites I remember either are gone or they are there but data was last updated prior to 2010. When I search, I mostly get the old URL's and nothing current.\n\nWould someone please post links to places I can download daily bad URL's of infected site. I am looking for something similar to the following example.\n\nAS#, DATE-TIME,BadUrl\n\n\"281402\",\"2019-12-31 01:06:03\",\"[https://pastebin.com/raw/YF8FyTqr](https://pastebin.com/raw/YF8FyTqr)\"\n\nThank you in advance,\n\nKeith",
+        "title": "Looking for Bad Malware Domains / URLS Lists",
+        "score": 1,
+        "id": "ehvt3e",
+        "commsNum": 3,
+        "timeStamp": "2019/12/30-17:40:51",
+        "author_name": "studysession",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ehvt3e/looking_for_bad_malware_domains_urls_lists/"
+    },
+    "posts": {
+        "fe02g96": {
+            "comment": "Threatfeeds.io has a good list of options",
+            "timeStamp": "2020/01/11-19:56:38",
+            "id": "fe02g96",
+            "is_submitter": false,
+            "link_id": "t3_ehvt3e",
+            "parent_id": "t3_ehvt3e",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mikiozen"
+        },
+        "fdldue4": {
+            "comment": "Thanks - that one is useful and looking for more.\n\nSorry I did not reply sooner, I have been working long hours and did not have a chance to get back on here till now.",
+            "timeStamp": "2020/01/08-14:18:22",
+            "id": "fdldue4",
+            "is_submitter": true,
+            "link_id": "t3_ehvt3e",
+            "parent_id": "t1_fclw9kk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "studysession"
+        },
+        "fclw9kk": {
+            "comment": "https://urlhaus.abuse.ch/\n\nExactly what you need I think",
+            "timeStamp": "2019/12/30-18:06:47",
+            "id": "fclw9kk",
+            "is_submitter": false,
+            "link_id": "t3_ehvt3e",
+            "parent_id": "t3_ehvt3e",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Loggedinasroot"
+        }
+    }
+}

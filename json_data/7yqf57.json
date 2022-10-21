@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Threat Spotlight: URSNIF Infostealer Malware",
+        "score": 1,
+        "id": "7yqf57",
+        "commsNum": 0,
+        "timeStamp": "2018/02/19-13:38:39",
+        "author_name": "Hack_Manone",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.cylance.com/en_us/blog/threat-spotlight-ursnif-infostealer-malware.html"
+    },
+    "posts": {}
+}

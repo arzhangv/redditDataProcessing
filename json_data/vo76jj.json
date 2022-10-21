@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Tdsshark.xyz. I\u2019m new here and i needed some help, I was on my phone and decided to look at my screentime. i saw this app that i didnt recognise called tdshark.xyz and i searched online and it said that it was malware. Now i\u2019m here and i\u2019m wondering if theres any way i can get rid of it on IPhone?",
+        "score": 1,
+        "id": "vo76jj",
+        "commsNum": 1,
+        "timeStamp": "2022/06/30-05:27:47",
+        "author_name": "ShrekklDoodledoo",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://i.redd.it/id246os75r891.jpg"
+    },
+    "posts": {
+        "ieb6gc8": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators **and be sure to include the link to the post** - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2022/06/30-05:27:48",
+            "id": "ieb6gc8",
+            "is_submitter": false,
+            "link_id": "t3_vo76jj",
+            "parent_id": "t3_vo76jj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I've been looking up various rootkits and reading about how they worked to try to gain an understanding of their activity, and one that's stumped me is phide2.\n\nI understand that it uses DKOM to hide itself, that it unlinks itself from the EPROCESS list like the FU rootkit, that it unlinks itself from the ETHREAD list as well, and that it implements a private thread scheduler to keep its process running despite being unlinked from the thread lists the scheduler uses to determine process running time, but I'm not sure exactly how it implements that privae scheduler.\n\nMy current best guess is that it runs an additional, non-hidden thread which periodically tells the scheduler to execute the hidden threads and keeps those threads off the ETHREAD list for the rest of the time.  But doesn't this break the rootkit?  If it's running a thread that can't be hidden to implement a private scheduler, what's the point of hiding its hidden threads?  There's still a non hidden thread running.\n\nAlso, is the Clock Locking Beats rootkit implemented by m0nk (see link, start at 22:00) related to this rootkit?  They both seem to do the same thing.\n\nhttps://youtu.be/gKUleWyfut0",
+        "title": "How did the phide2 rootkit work?",
+        "score": 12,
+        "id": "4j3smw",
+        "commsNum": 0,
+        "timeStamp": "2016/05/12-17:34:54",
+        "author_name": "pa1nkill3r",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/4j3smw/how_did_the_phide2_rootkit_work/"
+    },
+    "posts": {}
+}

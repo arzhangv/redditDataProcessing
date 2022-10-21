@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "The SocialFixer for Facebook Chrome Plugin updated YESTERDAY is injecting javascript packages downloaded from unpkg.com in all the web pages you visit. You can check your browser logs, if infected it will contain something like : Installed:1499086582338 insertion.js:192 Installed ms:92830927 insertion.js:195 Now insertion.js:203 14 insertion.js:207 4-7-2017 insertion.js:211 sf109ad06b86e6be8f0c3e94d5e4893f47",
+        "title": "DISABLE SocialFixer for Facebook chrome plugin ASAP",
+        "score": 16,
+        "id": "6l8whl",
+        "commsNum": 3,
+        "timeStamp": "2017/07/04-11:45:03",
+        "author_name": "pvdyck",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6l8whl/disable_socialfixer_for_facebook_chrome_plugin/"
+    },
+    "posts": {
+        "djsyi3e": {
+            "comment": "CONFIRMED BY SOCIALFIXER: https://www.facebook.com/socialfixer/posts/10155109803749342&amp;width=500",
+            "timeStamp": "2017/07/05-04:46:14",
+            "id": "djsyi3e",
+            "is_submitter": false,
+            "link_id": "t3_6l8whl",
+            "parent_id": "t3_6l8whl",
+            "score": 3,
+            "stickied": false,
+            "author_name": "splice42"
+        },
+        "djsiw0j": {
+            "comment": "I'm really glad I did the same. Will have to do that quick at work tomorrow..",
+            "timeStamp": "2017/07/04-19:36:39",
+            "id": "djsiw0j",
+            "is_submitter": false,
+            "link_id": "t3_6l8whl",
+            "parent_id": "t1_djryn3k",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Flalaski"
+        },
+        "djryn3k": {
+            "comment": "Saw that it was asking for updated permissions, read and modify data to all websites I visited, so I noped the hell out of that update.",
+            "timeStamp": "2017/07/04-11:55:43",
+            "id": "djryn3k",
+            "is_submitter": false,
+            "link_id": "t3_6l8whl",
+            "parent_id": "t3_6l8whl",
+            "score": 3,
+            "stickied": false,
+            "author_name": "splice42"
+        }
+    }
+}

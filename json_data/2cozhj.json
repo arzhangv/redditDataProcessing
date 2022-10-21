@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I am looking mainly for web pages which exploits browser/java and infected pdf/doc documents. I am not interested in metasploit/exploit-db/1337day stuff, I want some real-world malware examples. Does anywhere exist some collection or links to these webpages/files?",
+        "title": "Any sources for real use of exploits in the wild?",
+        "score": 2,
+        "id": "2cozhj",
+        "commsNum": 7,
+        "timeStamp": "2014/08/05-08:06:01",
+        "author_name": "wbenny",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2cozhj/any_sources_for_real_use_of_exploits_in_the_wild/"
+    },
+    "posts": {}
+}

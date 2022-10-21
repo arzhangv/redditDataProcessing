@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi all,\n\nI am a Java developer by day, experimenter/tinkerer by night. I'd really love to get into the malware analysis space, especially for Android. \n\nI've read that malware analysis is very broad and can get very specific to a certain OS ( and understandably so), so if possible, I'd like to get off on the right track geared towards android (I'd prefer not to go down a rabbit hole and end up in Antarctica studying OSX if possible). \n\nI was looking at picking up the Practical Malware Analysis book (this isnt too dated?) to get some basic principles down, then move slowly into Android. Do you think this would be a good approach?",
+        "title": "Looking to get into Android malware analysis",
+        "score": 11,
+        "id": "3hb3dh",
+        "commsNum": 3,
+        "timeStamp": "2015/08/17-05:24:27",
+        "author_name": "musclefed",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/3hb3dh/looking_to_get_into_android_malware_analysis/"
+    },
+    "posts": {}
+}

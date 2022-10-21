@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Wikipedia article about MEMZ, a trojan originally made by Leurak for danooct1's Viewer Made Malware-series, which was later featured by Vargskelethor, a member of Vinesauce.",
+        "score": 1,
+        "id": "khsv1n",
+        "commsNum": 6,
+        "timeStamp": "2020/12/21-15:21:06",
+        "author_name": "yuki93920noirnoggat",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://en.wikipedia.org/wiki/MEMZ"
+    },
+    "posts": {
+        "ggusrdk": {
+            "comment": "That was during the x64 transition, windows internals have changed dramatically from 7-8-10",
+            "timeStamp": "2020/12/23-17:23:20",
+            "id": "ggusrdk",
+            "is_submitter": false,
+            "link_id": "t3_khsv1n",
+            "parent_id": "t1_ggn2ku7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "bong-rips-for-jesus"
+        },
+        "ggpk005": {
+            "comment": "I remember watching a Vinesauce video showing Vargskelethor damage a Windows computer using malware. It's funny and looked pretty cool.",
+            "timeStamp": "2020/12/22-09:30:31",
+            "id": "ggpk005",
+            "is_submitter": true,
+            "link_id": "t3_khsv1n",
+            "parent_id": "t1_ggn2za6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "yuki93920noirnoggat"
+        },
+        "ggn2za6": {
+            "comment": "yeah, just doesn\u2019t feel like that long ago. Good times!",
+            "timeStamp": "2020/12/21-16:18:31",
+            "id": "ggn2za6",
+            "is_submitter": false,
+            "link_id": "t3_khsv1n",
+            "parent_id": "t1_ggn2oxi",
+            "score": 1,
+            "stickied": false,
+            "author_name": "inoculan2"
+        },
+        "ggn2oxi": {
+            "comment": "It's kinda relevant, but still old.",
+            "timeStamp": "2020/12/21-16:15:48",
+            "id": "ggn2oxi",
+            "is_submitter": true,
+            "link_id": "t3_khsv1n",
+            "parent_id": "t1_ggn2ku7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "yuki93920noirnoggat"
+        },
+        "ggn2ku7": {
+            "comment": "old? yeah I guess nearly five years is an eternity on the internet, isn\u2019t it?",
+            "timeStamp": "2020/12/21-16:14:43",
+            "id": "ggn2ku7",
+            "is_submitter": false,
+            "link_id": "t3_khsv1n",
+            "parent_id": "t1_ggmwqq6",
+            "score": 2,
+            "stickied": false,
+            "author_name": "inoculan2"
+        },
+        "ggmwqq6": {
+            "comment": "I know it's a old trojan, but Wikipedia has an article about MEMZ. Hope it's informative. (Can't post youtube videos because the bots see them as a question.)",
+            "timeStamp": "2020/12/21-15:23:27",
+            "id": "ggmwqq6",
+            "is_submitter": true,
+            "link_id": "t3_khsv1n",
+            "parent_id": "t3_khsv1n",
+            "score": 1,
+            "stickied": false,
+            "author_name": "yuki93920noirnoggat"
+        }
+    }
+}

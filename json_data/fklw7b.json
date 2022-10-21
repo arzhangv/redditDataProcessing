@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": " \n\nThere is a coronavirus spread, and you should stay home. However, that does not mean that you should be bored and can't work on yourself. We got for you discount on our information security course on Udemy:\n\n\\- Malware analysis and reverse engineering - \n\nhttps://www.udemy.com/course/malware-analysis-and-reverse-engineering/?couponCode=CORONASTAYHOME\n\n\\- Information security - https://www.udemy.com/course/practical-information-security/?couponCode=CORONASTAYHOME",
+        "title": "Stay home with infosec courses",
+        "score": 1,
+        "id": "fklw7b",
+        "commsNum": 1,
+        "timeStamp": "2020/03/18-00:50:37",
+        "author_name": "dreadknight011",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/fklw7b/stay_home_with_infosec_courses/"
+    },
+    "posts": {
+        "fkuz1ow": {
+            "comment": "@Fox0x01 has put together a great list here also:\n\n\nhttps://twitter.com/fox0x01/status/1238636233649250304?s=21",
+            "timeStamp": "2020/03/18-12:13:40",
+            "id": "fkuz1ow",
+            "is_submitter": false,
+            "link_id": "t3_fklw7b",
+            "parent_id": "t3_fklw7b",
+            "score": 1,
+            "stickied": false,
+            "author_name": "grub5000"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "&amp;#x200B;\n\n*Processing img bgfbbwehal531...*",
+        "title": "email containing .gz file with .exe inside - anyone else seen something like this",
+        "score": 1,
+        "id": "c32nlw",
+        "commsNum": 1,
+        "timeStamp": "2019/06/20-15:41:27",
+        "author_name": "tech90001",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/c32nlw/email_containing_gz_file_with_exe_inside_anyone/"
+    },
+    "posts": {
+        "ero7u4j": {
+            "comment": "[https://imgur.com/a/PckbMLp](https://imgur.com/a/PckbMLp)",
+            "timeStamp": "2019/06/20-15:44:15",
+            "id": "ero7u4j",
+            "is_submitter": true,
+            "link_id": "t3_c32nlw",
+            "parent_id": "t3_c32nlw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "tech90001"
+        }
+    }
+}

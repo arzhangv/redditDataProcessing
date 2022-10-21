@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Statically Extracting Malware C2s Using Capstone Engine",
+        "score": 4,
+        "id": "2j86is",
+        "commsNum": 0,
+        "timeStamp": "2014/10/14-09:11:12",
+        "author_name": "Horgh",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.arbornetworks.com/asert/2014/10/mindshare-statically-extracting-malware-c2s-using-capstone-engine/"
+    },
+    "posts": {}
+}

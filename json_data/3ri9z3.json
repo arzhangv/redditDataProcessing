@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I got sent some malware by a guy saying he needed me to run it to help his minecraft server. Of course i uploaded it to Jotti and VirusTotal. I also uploaded it to malwr. The virus is in a Zip file with some txt files. The txt files are not malware and they are actually badly misspelled. One of the files is called \"Why your anti-virus picks this up\" and it says if you are using \"Malware Bytes, Windows Defender or Nortan\" I started laughing at Nortan.\n\nVirus with Other Files from Zip: https://mega.nz/#!r11DXASb!X98F7wgpPHTL-ogDwsuMeNGoVsUD_iB3kX3QVsmY1qY\n\nVirusTotal: https://www.virustotal.com/en/file/759411ec6aea7075c893460c8893a09a34858e074b12c4354c8c04352c2978af/analysis/1446651895/\n\nMalwr: https://malwr.com/analysis/NmE5ZWM2ZTdmMjE4NDlkOTgyMWE4MDJiYTc5YTNkMTQ/\n\nJotti: https://virusscan.jotti.org/en-US/filescanjob/4ay1divf8g",
+        "title": "Sample of Malware. Anyone know what it does?",
+        "score": 18,
+        "id": "3ri9z3",
+        "commsNum": 45,
+        "timeStamp": "2015/11/04-08:16:31",
+        "author_name": "river58",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 45,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/3ri9z3/sample_of_malware_anyone_know_what_it_does/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,99 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hey everyone, \n\nI've got my first experience of malware and was wondering if you guys could help out. I had something called bloom.exe show up on my task manager so went into safe mode and deleted all the related files, along with a few things that seemed to come along with the download. I can't see anything suspicious in my task manager anymore, my CPU usage is 1% and memory is 9%. There don't seem to be any real performance issues, but the thing that still worries me is that my idle temps have jumped from 36-40c to 45-50c, and when I boot I get a black screen for 5 seconds after the login screen. I've run malware bytes, adwcleaner and HitmanPro, but nothing seems to get rid of whatever is messing with my PC. Please let me know any suggestions for what I can do.",
+        "title": "Problems after Malware",
+        "score": 1,
+        "id": "txsd3j",
+        "commsNum": 0,
+        "timeStamp": "2022/04/06-11:09:54",
+        "author_name": "srcare",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/txsd3j/problems_after_malware/"
+    },
+    "posts": {
+        "i3smomg": {
+            "comment": "Glad I could help!",
+            "timeStamp": "2022/04/07-11:33:22",
+            "id": "i3smomg",
+            "is_submitter": false,
+            "link_id": "t3_txsd3j",
+            "parent_id": "t1_i3rpz05",
+            "score": 1,
+            "stickied": false,
+            "author_name": "rddt_jbm"
+        },
+        "i3rqo61": {
+            "comment": "nice yeah u/rddt_jbm had the same suggestion. I didn't have a system image or anything, but my boot drive and storage drive are seperate so it was pretty easy to just cut my losses on the boot drive and just reinstall all the apps on there. I was a little sketched to keep anything from there and not too familiar with this stuff. thanks for the response!",
+            "timeStamp": "2022/04/07-08:02:10",
+            "id": "i3rqo61",
+            "is_submitter": true,
+            "link_id": "t3_txsd3j",
+            "parent_id": "t1_i3pyfmn",
+            "score": 1,
+            "stickied": false,
+            "author_name": "srcare"
+        },
+        "i3rpz05": {
+            "comment": "Brilliant, I took your advice and my PC is back idling around 35 again. thanks!",
+            "timeStamp": "2022/04/07-07:57:10",
+            "id": "i3rpz05",
+            "is_submitter": true,
+            "link_id": "t3_txsd3j",
+            "parent_id": "t1_i3qr0js",
+            "score": 1,
+            "stickied": false,
+            "author_name": "srcare"
+        },
+        "i3qr0js": {
+            "comment": "The bootable drive will be enough!",
+            "timeStamp": "2022/04/07-02:44:31",
+            "id": "i3qr0js",
+            "is_submitter": false,
+            "link_id": "t3_txsd3j",
+            "parent_id": "t1_i3otblb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "rddt_jbm"
+        },
+        "i3pyfmn": {
+            "comment": "Do you back up your files often? I recommend wiping your OS and then restoring a backup, I'd make sure none of your files have been compromised before restoring though.",
+            "timeStamp": "2022/04/06-20:54:46",
+            "id": "i3pyfmn",
+            "is_submitter": false,
+            "link_id": "t3_txsd3j",
+            "parent_id": "t3_txsd3j",
+            "score": 1,
+            "stickied": false,
+            "author_name": "jlgd18"
+        },
+        "i3otblb": {
+            "comment": "ok, probably the best thing to do, bummer. I have a boot drive, a storage drive, and an external that's been plugged in for quite some time. Would I have to clean all those drives? thanks for the response",
+            "timeStamp": "2022/04/06-15:34:43",
+            "id": "i3otblb",
+            "is_submitter": true,
+            "link_id": "t3_txsd3j",
+            "parent_id": "t1_i3oe0ux",
+            "score": 1,
+            "stickied": false,
+            "author_name": "srcare"
+        },
+        "i3oe0ux": {
+            "comment": "1.\tBackup your files\n2.\tReinstall your OS\n\nOnly way to make sure nothing malicious is left.",
+            "timeStamp": "2022/04/06-13:52:54",
+            "id": "i3oe0ux",
+            "is_submitter": false,
+            "link_id": "t3_txsd3j",
+            "parent_id": "t3_txsd3j",
+            "score": 1,
+            "stickied": false,
+            "author_name": "rddt_jbm"
+        }
+    }
+}

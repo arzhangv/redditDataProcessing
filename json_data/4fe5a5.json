@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "As the title suggests- how does one scan a website for Malware apart from using online tools or services such as https://www.virusscore.com/\n\nIf I am web dev that uses 3rd party hosting services to host the applications, how can I perform malware scans to make sure my websites do not contain malware or malicious code? I do not want to use third-party online applications for this\n\nDo I download the website files, once or twice a week and perform malware scans?\n\nI am more interested in the techniques used for scanning web applications for malware etc. \n\nPlease advice. Cheers.\n\nP.S: If this is the wrong subreddit, kindly please let me know where to appropriately post this. Thank you. ",
+        "title": "How does online services scan for Malware?",
+        "score": 5,
+        "id": "4fe5a5",
+        "commsNum": 12,
+        "timeStamp": "2016/04/18-14:24:01",
+        "author_name": "6uRu0fSh1vA",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 12,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/4fe5a5/how_does_online_services_scan_for_malware/"
+    },
+    "posts": {}
+}

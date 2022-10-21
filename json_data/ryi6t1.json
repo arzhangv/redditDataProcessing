@@ -1,0 +1,220 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Whenever I delete system64.exe in appdata/roaming/microsoft, powershell reinstalls it. Powershell opens up right after I delete it and then it closes after a few seconds and I see the system64.exe file just reappear. I know its a virus because I did a MalwareBytes scan and it said it was a virus, plus its disguising itself and VLC Media player inside of task manager when I don't even have that installed. I'm pretty sure its a bitcoin miner. How do I uninstall it? Also sorry if this is the wrong place to be posting.",
+        "title": "Powershell keeps installing System64.exe",
+        "score": 1,
+        "id": "ryi6t1",
+        "commsNum": 0,
+        "timeStamp": "2022/01/07-13:17:14",
+        "author_name": "hiimstyxx",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ryi6t1/powershell_keeps_installing_system64exe/"
+    },
+    "posts": {
+        "hrsdgaa": {
+            "comment": "[removed]",
+            "timeStamp": "2022/01/08-07:46:03",
+            "id": "hrsdgaa",
+            "is_submitter": false,
+            "link_id": "t3_ryi6t1",
+            "parent_id": "t3_ryi6t1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hrq5rit": {
+            "comment": "[removed]",
+            "timeStamp": "2022/01/07-18:30:39",
+            "id": "hrq5rit",
+            "is_submitter": false,
+            "link_id": "t3_ryi6t1",
+            "parent_id": "t1_hrpo4o5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hrpo4o5": {
+            "comment": "Well I did get rid of it. It would open VLC Media player as miner and eat my cpu or gpu or whichever one it was but now that doesnt happen.",
+            "timeStamp": "2022/01/07-16:23:52",
+            "id": "hrpo4o5",
+            "is_submitter": true,
+            "link_id": "t3_ryi6t1",
+            "parent_id": "t1_hrpn5rg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "hiimstyxx"
+        },
+        "hrpn5rg": {
+            "comment": "Just reinstall man, if I had a virus and I \"got rid of it\", I'd be forever paranoid that it's still there.",
+            "timeStamp": "2022/01/07-16:17:12",
+            "id": "hrpn5rg",
+            "is_submitter": false,
+            "link_id": "t3_ryi6t1",
+            "parent_id": "t3_ryi6t1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Little-Contribution2"
+        },
+        "hrpaozl": {
+            "comment": "Read up on Autoruns by Sysinternals then. You can also see that there are multiple files dropped in that Behavior tab.\n\n&amp;#x200B;\n\nGood luck.",
+            "timeStamp": "2022/01/07-14:52:54",
+            "id": "hrpaozl",
+            "is_submitter": false,
+            "link_id": "t3_ryi6t1",
+            "parent_id": "t1_hrp94py",
+            "score": 1,
+            "stickied": false,
+            "author_name": "toop4"
+        },
+        "hrp94py": {
+            "comment": "For some reason, I dont see the \"system64.exe\" in the Task Scheduler Library",
+            "timeStamp": "2022/01/07-14:42:45",
+            "id": "hrp94py",
+            "is_submitter": true,
+            "link_id": "t3_ryi6t1",
+            "parent_id": "t1_hrp88z9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "hiimstyxx"
+        },
+        "hrp88z9": {
+            "comment": "Click on Behavior and then you'll see `\"cmd\" /c schtasks /create /f /sc onlogon /rl highest /tn \"system64\" /tr \"%USERPROFILE%\\AppData\\Roaming\\Microsoft\\system64.exe\"`\n\n&amp;#x200B;\n\n&amp;#x200B;\n\nRemove scheduled task: [https://winaero.com/how-to-delete-scheduled-task-in-windows-10/](https://winaero.com/how-to-delete-scheduled-task-in-windows-10/)\n\n&amp;#x200B;\n\nIt's still best to just reinstall Windows though :)",
+            "timeStamp": "2022/01/07-14:37:01",
+            "id": "hrp88z9",
+            "is_submitter": false,
+            "link_id": "t3_ryi6t1",
+            "parent_id": "t1_hrp7ett",
+            "score": 1,
+            "stickied": false,
+            "author_name": "toop4"
+        },
+        "hrp846a": {
+            "comment": "This isn't a support subreddit. Please check the sidebar.",
+            "timeStamp": "2022/01/07-14:36:10",
+            "id": "hrp846a",
+            "is_submitter": false,
+            "link_id": "t3_ryi6t1",
+            "parent_id": "t3_ryi6t1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Rakanisheu"
+        },
+        "hrp7ett": {
+            "comment": "Right my bad lol\n\nhttps://www.virustotal.com/gui/file/af3b5846f8945f04752bb66255271fa0a1dd8d07dc5ef37af956eef1e605fb54/detection",
+            "timeStamp": "2022/01/07-14:31:39",
+            "id": "hrp7ett",
+            "is_submitter": true,
+            "link_id": "t3_ryi6t1",
+            "parent_id": "t1_hrp7ba4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "hiimstyxx"
+        },
+        "hrp7ba4": {
+            "comment": "Share the link please",
+            "timeStamp": "2022/01/07-14:31:00",
+            "id": "hrp7ba4",
+            "is_submitter": false,
+            "link_id": "t3_ryi6t1",
+            "parent_id": "t1_hrp744p",
+            "score": 1,
+            "stickied": false,
+            "author_name": "toop4"
+        },
+        "hrp744p": {
+            "comment": "I ran it and I'm seeing stuff saying it was a trojan",
+            "timeStamp": "2022/01/07-14:29:40",
+            "id": "hrp744p",
+            "is_submitter": true,
+            "link_id": "t3_ryi6t1",
+            "parent_id": "t1_hrp6i6e",
+            "score": 1,
+            "stickied": false,
+            "author_name": "hiimstyxx"
+        },
+        "hrp6i6e": {
+            "comment": "Upload the file to virus total",
+            "timeStamp": "2022/01/07-14:25:42",
+            "id": "hrp6i6e",
+            "is_submitter": false,
+            "link_id": "t3_ryi6t1",
+            "parent_id": "t1_hrp5xyp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "toop4"
+        },
+        "hrp5xyp": {
+            "comment": "I checked registry auto runs and found nothing. Idk how to check scheduled services. I looked up system64.exe on google and I havent found anything about it.",
+            "timeStamp": "2022/01/07-14:22:04",
+            "id": "hrp5xyp",
+            "is_submitter": true,
+            "link_id": "t3_ryi6t1",
+            "parent_id": "t1_hrp1934",
+            "score": 1,
+            "stickied": false,
+            "author_name": "hiimstyxx"
+        },
+        "hrp1xnn": {
+            "comment": "\ud83d\ude10",
+            "timeStamp": "2022/01/07-13:56:26",
+            "id": "hrp1xnn",
+            "is_submitter": true,
+            "link_id": "t3_ryi6t1",
+            "parent_id": "t1_hrp1iry",
+            "score": 1,
+            "stickied": false,
+            "author_name": "hiimstyxx"
+        },
+        "hrp1iry": {
+            "comment": "You could have done it by now",
+            "timeStamp": "2022/01/07-13:53:50",
+            "id": "hrp1iry",
+            "is_submitter": false,
+            "link_id": "t3_ryi6t1",
+            "parent_id": "t1_hroxa6k",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Krombuchar2"
+        },
+        "hrp1934": {
+            "comment": "Been a while since I've removed malware but you usually can use the name that Malwarebytes gave you and find a virus removal guide online. Bleeping computer runs a forum and you can sometimes find previous posts there too.",
+            "timeStamp": "2022/01/07-13:52:09",
+            "id": "hrp1934",
+            "is_submitter": false,
+            "link_id": "t3_ryi6t1",
+            "parent_id": "t3_ryi6t1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "toop4"
+        },
+        "hroxa6k": {
+            "comment": "Is that really gonna be necessary though? I feel like there might be something easier than that to fix this",
+            "timeStamp": "2022/01/07-13:27:14",
+            "id": "hroxa6k",
+            "is_submitter": true,
+            "link_id": "t3_ryi6t1",
+            "parent_id": "t1_hrox1n9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "hiimstyxx"
+        },
+        "hrox1n9": {
+            "comment": "Reinstall windows",
+            "timeStamp": "2022/01/07-13:25:44",
+            "id": "hrox1n9",
+            "is_submitter": false,
+            "link_id": "t3_ryi6t1",
+            "parent_id": "t3_ryi6t1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "hiveface"
+        }
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "My fiend got sent a link through one his friends compromised accounts, the link was a link to a \u201cgame\u201d that was being tested. https://www.athen.world\n\nPlease spread the word of this malware and logger",
+        "title": "Athen.world",
+        "score": 1,
+        "id": "ulaeu2",
+        "commsNum": 0,
+        "timeStamp": "2022/05/08-13:28:08",
+        "author_name": "Terasecond",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ulaeu2/athenworld/"
+    },
+    "posts": {
+        "i7uk0h1": {
+            "comment": "thank you, it amazes me that only kaspersky detected something",
+            "timeStamp": "2022/05/08-15:05:20",
+            "id": "i7uk0h1",
+            "is_submitter": false,
+            "link_id": "t3_ulaeu2",
+            "parent_id": "t1_i7ucwhd",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mackenzie29"
+        },
+        "i7ucwhd": {
+            "comment": "For researchers, here are links to VirusTotal.\n\nhttps://www.virustotal.com/gui/file/e80d5500e8c55b1e8e8bc0e13d7b05e0f8deab780146038377e3462413f7d2d9\n\nhttps://www.virustotal.com/gui/file/94cd5b87324be1bf8a9959d0971dafa2d27b0435b1d0206641ee6ca1511385b7\n\nThere are two .zip downloads offered. Each contains one .exe. These links are to the exes.\n\nThere is one detection on one of the files and none on the other. However, the actions behaviour tab looks very suspicious, so I believe the warning is credible.",
+            "timeStamp": "2022/05/08-14:13:53",
+            "id": "i7ucwhd",
+            "is_submitter": false,
+            "link_id": "t3_ulaeu2",
+            "parent_id": "t3_ulaeu2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "rainrat"
+        },
+        "i7uc8v6": {
+            "comment": "Virus total doesn\u2019t show anything when scanning the malware. Never used the other one though",
+            "timeStamp": "2022/05/08-14:09:09",
+            "id": "i7uc8v6",
+            "is_submitter": true,
+            "link_id": "t3_ulaeu2",
+            "parent_id": "t1_i7ubc88",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Terasecond"
+        },
+        "i7uc3oi": {
+            "comment": "My bad. I\u2019ll be sure to fix that and not do it again on other posts",
+            "timeStamp": "2022/05/08-14:08:05",
+            "id": "i7uc3oi",
+            "is_submitter": true,
+            "link_id": "t3_ulaeu2",
+            "parent_id": "t1_i7ubc88",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Terasecond"
+        },
+        "i7ubc88": {
+            "comment": "Thank you for sharing about this threat and what it does.  Thank you for being a good neighbor!\n\nI do have some suggestions that might be helpful to make things safer for everyone.\n\nIf you are sharing a link that's potentially malicious, the best way to do it is surround the period(s) with square brackets \\[.\\] or parenthesis (.).  This breaks the ability for some to click on a link and prevents the site from loading if someone copy/paste link into browser. If the person removes the brackets/parenthesis to go to the site, that's on them then.  \n\nExample:  https://disney\\[.\\]com\n\nA resource you can use and share with friends to get an idea if something might be malicious is to use Virus Total (Owned by Google/Alphabet)  [https://www.virustotal.com/gui/home/upload](https://www.virustotal.com/gui/home/upload) or ThreatMiner [https://www.threatminer.org/](https://www.threatminer.org/)",
+            "timeStamp": "2022/05/08-14:02:24",
+            "id": "i7ubc88",
+            "is_submitter": false,
+            "link_id": "t3_ulaeu2",
+            "parent_id": "t3_ulaeu2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "inf0s33k3r"
+        }
+    }
+}

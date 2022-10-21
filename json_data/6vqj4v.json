@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "OSX.Pwnet.A \u2013 CS: GO Hack and Sneaky Miner",
+        "score": 7,
+        "id": "6vqj4v",
+        "commsNum": 3,
+        "timeStamp": "2017/08/24-05:31:43",
+        "author_name": "melomac",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://sentinelone.com/blog/osx-pwnet-a-csgo-hack-and-sneaky-miner/"
+    },
+    "posts": {
+        "ds5hobs": {
+            "comment": "well this miner has been removed.....and it didn't do shit to begin with.",
+            "timeStamp": "2018/01/03-15:28:51",
+            "id": "ds5hobs",
+            "is_submitter": false,
+            "link_id": "t3_6vqj4v",
+            "parent_id": "t1_dmyuim1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "kiwiburd419"
+        },
+        "dm3ummo": {
+            "comment": "Unsurprisingly, CS: GO hacks is such an easy bait for people. And whats funnier is that users have to buy and get themselves infected. This is the peak of human ignorance and inability to commit to developing skills.",
+            "timeStamp": "2017/08/25-05:56:07",
+            "id": "dm3ummo",
+            "is_submitter": false,
+            "link_id": "t3_6vqj4v",
+            "parent_id": "t3_6vqj4v",
+            "score": 1,
+            "stickied": false,
+            "author_name": "JoshRosserino"
+        }
+    }
+}

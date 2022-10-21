@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "well. after someone hacked my skype, i decided to clean up and found that zoek was recommended by my friends, the thing is, its cleaning the temp and is on \"Empty Temp\" for almost an entire day, and i dont wanna let this shit running on my pc while i sleep, i need to save energy.. but this shit wont close not even with taskmanager, i dont understand a lot of computer, soo, if someone knows a way for me to close this shit without having to download another program, it would be great, if not, just say about which program should i download.. ",
+        "title": "Zoek is still running after a entire day and wont close",
+        "score": 0,
+        "id": "8ae48a",
+        "commsNum": 6,
+        "timeStamp": "2018/04/06-16:34:37",
+        "author_name": "Bobnini",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8ae48a/zoek_is_still_running_after_a_entire_day_and_wont/"
+    },
+    "posts": {
+        "dwz1xjp": {
+            "comment": "Boot in safe mode. Remove program in safe mode",
+            "timeStamp": "2018/04/07-09:54:44",
+            "id": "dwz1xjp",
+            "is_submitter": false,
+            "link_id": "t3_8ae48a",
+            "parent_id": "t1_dwy14z7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "trendy_ass_poser"
+        },
+        "dwykmwm": {
+            "comment": "You can close the computer and boot live USB/CD and delete the malwares contact application.",
+            "timeStamp": "2018/04/07-02:33:38",
+            "id": "dwykmwm",
+            "is_submitter": false,
+            "link_id": "t3_8ae48a",
+            "parent_id": "t3_8ae48a",
+            "score": 1,
+            "stickied": false,
+            "author_name": "tiger6700"
+        },
+        "dwy14z7": {
+            "comment": "the program closed after restarting, i knew it would.. but damm.. 19h deleting temp? there is something wrong.. but i got something good from it, i was vexed because i couldnt open chrome and everything keeps scrolling down each 20 segs, even the volume mixer if i let it open, it was infuriating, but i got to know a lot of new programs to help.. like ZoneAlarm, filehippo, uncheky and sysinternal process explorer that is better than taskmanager.. but anyway, my worst fear was to loose everything on the google and have to waste hours openning and remembering my 40 tabs , but i got everything back thank god... this thread is no longer necessary i think.. but if someone that is reading this, know a program that could help with problems that zoek would resolve, it would be nice.. thanks guys",
+            "timeStamp": "2018/04/06-17:54:50",
+            "id": "dwy14z7",
+            "is_submitter": true,
+            "link_id": "t3_8ae48a",
+            "parent_id": "t1_dwy03zw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Bobnini"
+        },
+        "dwy03zw": {
+            "comment": "Did you try restarting the computer?",
+            "timeStamp": "2018/04/06-17:34:49",
+            "id": "dwy03zw",
+            "is_submitter": false,
+            "link_id": "t3_8ae48a",
+            "parent_id": "t1_dwxzr7o",
+            "score": 2,
+            "stickied": false,
+            "author_name": "fSneaks"
+        },
+        "dwxzr7o": {
+            "comment": "well. im trying for about 1 hour to close this guy.. not even taksmanager, cmd or process explorer works. this fucking thing reopen everytime.. do you know some way to help it?",
+            "timeStamp": "2018/04/06-17:28:02",
+            "id": "dwxzr7o",
+            "is_submitter": true,
+            "link_id": "t3_8ae48a",
+            "parent_id": "t1_dwxz8ev",
+            "score": 2,
+            "stickied": false,
+            "author_name": "Bobnini"
+        },
+        "dwxz8ev": {
+            "comment": "Probably should just download/run malwarebytes. ",
+            "timeStamp": "2018/04/06-17:18:12",
+            "id": "dwxz8ev",
+            "is_submitter": false,
+            "link_id": "t3_8ae48a",
+            "parent_id": "t3_8ae48a",
+            "score": 3,
+            "stickied": false,
+            "author_name": "fSneaks"
+        }
+    }
+}

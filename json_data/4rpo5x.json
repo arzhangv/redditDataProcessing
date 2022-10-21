@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "An XP machine that sits behind me on my work network started spinning up the hard drive for an unusually prolonged time (about a minute vs a couple seconds).  At about the same time I went to access a file on that machine from my PC.  I noticed that several of the files in the folder I was accessing were updated from FileName.ext to FileName.ext.crypted.  I immediately turned around and unplugged it from the power strip to keep it from locking up any more files.\n  \nWe rebooted it after unplugging it from the network.  Now, most of the files we need are crypted but there's no ransom note to figure out which version of the virus it is.  Is there a way to figure this out?\n   \nEDIT:  Solution found!  Thank you /u/imccompany for the link to this http://www.bleepingcomputer.com/news/security/decryptor-released-for-the-nemucod-trojans-crypted-ransomware/",
+        "title": "Stopped crypto malware mid-infection by turning off the PC. How do I figure out which virus/crypto locker is on it?",
+        "score": 0,
+        "id": "4rpo5x",
+        "commsNum": 9,
+        "timeStamp": "2016/07/07-10:05:58",
+        "author_name": "CG_Ops",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 9,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/4rpo5x/stopped_crypto_malware_midinfection_by_turning/"
+    },
+    "posts": {}
+}

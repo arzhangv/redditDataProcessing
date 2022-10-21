@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Android banking trojan campaign active since October 2021, targets 8 Malaysian banks",
+        "score": 1,
+        "id": "ty77rg",
+        "commsNum": 0,
+        "timeStamp": "2022/04/06-23:57:37",
+        "author_name": "Jaded_Membership_939",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.welivesecurity.com/2022/04/06/fake-eshops-prowl-banking-credentials-android-malware/"
+    },
+    "posts": {}
+}

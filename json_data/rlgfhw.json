@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Writeup of a fairly basic credential stealer trojan",
+        "score": 1,
+        "id": "rlgfhw",
+        "commsNum": 0,
+        "timeStamp": "2021/12/21-07:00:22",
+        "author_name": "divbyda0",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://brianstadnicki.github.io/posts/malware-face-brain-credential-stealer/"
+    },
+    "posts": {}
+}

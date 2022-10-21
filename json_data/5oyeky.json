@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Newer malware might not be detected, but if files are older, is it more likely they are clean when scanned with anti-malware scanners that have newer updates?\n\nFor example files that are few months old and files that are several years old?\n\nHow likely is that some old malware might still lurk in them and even newer updated scanners won't detect anything?\n",
+        "title": "Is it true that the older the files are, the more likely it is they are clean if new scanners won't detect anything?",
+        "score": 10,
+        "id": "5oyeky",
+        "commsNum": 10,
+        "timeStamp": "2017/01/19-10:48:32",
+        "author_name": "Haccccku",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 10,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/5oyeky/is_it_true_that_the_older_the_files_are_the_more/"
+    },
+    "posts": {}
+}

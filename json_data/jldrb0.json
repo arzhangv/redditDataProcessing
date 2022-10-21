@@ -1,0 +1,242 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I purchased a 500gb Kesu HDD from Amazon. I plugged it in and immediately got those 2 virus pop-ups from AVG:\n\nThese are the files (in quarantine):\n\n&amp;#x200B;\n\nhttps://preview.redd.it/z5bibg6dkdw51.jpg?width=833&amp;format=pjpg&amp;auto=webp&amp;s=999c16a4e997c03b4a1b6b77cf4ddd871f82d221\n\n&amp;#x200B;\n\nI ran a Malwarebytes scan and found these 2 files:\n\nhttps://preview.redd.it/8gjwtd0zkdw51.jpg?width=1217&amp;format=pjpg&amp;auto=webp&amp;s=f7933c4b338877fad03d789e85fd6904afd1868c\n\n&amp;#x200B;\n\nIs my computer safe? Should I throw the HDD away and let Amazon know?",
+        "title": "Plugged in a New Extremal HDD - AVG Virus Pop-Up",
+        "score": 1,
+        "id": "jldrb0",
+        "commsNum": 20,
+        "timeStamp": "2020/10/30-23:36:32",
+        "author_name": "7_Leaf_Clover",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 20,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/jldrb0/plugged_in_a_new_extremal_hdd_avg_virus_popup/"
+    },
+    "posts": {
+        "gar4rx4": {
+            "comment": "&gt;Is it even worth the risk?\n\nNo, but that's the wrong  question. \"Should I allow the scammer to keep my money?\" is the right question. Return it. You paid for a new, uninfected, drive.",
+            "timeStamp": "2020/10/31-18:45:25",
+            "id": "gar4rx4",
+            "is_submitter": false,
+            "link_id": "t3_jldrb0",
+            "parent_id": "t1_gapfpoq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Remo_253"
+        },
+        "gar3xpo": {
+            "comment": "[removed]",
+            "timeStamp": "2020/10/31-18:36:12",
+            "id": "gar3xpo",
+            "is_submitter": false,
+            "link_id": "t3_jldrb0",
+            "parent_id": "t3_jldrb0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "gar3drz": {
+            "comment": "Now I gotta go back and check my Kesu..",
+            "timeStamp": "2020/10/31-18:29:50",
+            "id": "gar3drz",
+            "is_submitter": false,
+            "link_id": "t3_jldrb0",
+            "parent_id": "t3_jldrb0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ForSquirel"
+        },
+        "gapwtr9": {
+            "comment": "Very common. I would suggest just buying from reliable brand.",
+            "timeStamp": "2020/10/31-11:19:38",
+            "id": "gapwtr9",
+            "is_submitter": false,
+            "link_id": "t3_jldrb0",
+            "parent_id": "t1_gaohzgy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ZenDendou"
+        },
+        "gapmvru": {
+            "comment": "I assume it's safe and that there was no compromise at the hardware level (or else there would be no auto-run trick in place to blow the whole scheme). You can mount this device with auto-run disabled on your computer and perform a \"zero fill\" on it (just Google search the term... There are many tutorials and tools out there for this).",
+            "timeStamp": "2020/10/31-09:50:32",
+            "id": "gapmvru",
+            "is_submitter": false,
+            "link_id": "t3_jldrb0",
+            "parent_id": "t1_gapfpoq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "EONRaider"
+        },
+        "gapkr7v": {
+            "comment": "Thank you, I did that.",
+            "timeStamp": "2020/10/31-09:30:51",
+            "id": "gapkr7v",
+            "is_submitter": true,
+            "link_id": "t3_jldrb0",
+            "parent_id": "t1_gaphwes",
+            "score": 1,
+            "stickied": false,
+            "author_name": "7_Leaf_Clover"
+        },
+        "gaphwes": {
+            "comment": "Reverse order:\n\nThe hard drive should be fine.\n\nDo a full scan, from either an account with \"Admin\" privileges or run the AV as administrator.  Just make sure that the signatures are up to date.\n\nFor Win10, go to your \"AutoPlay\" settings and change it to your preference.  I prefer \"Ask Every Time\" as I have different media for different functions (photos, music storage, file storage, ect).",
+            "timeStamp": "2020/10/31-09:03:53",
+            "id": "gaphwes",
+            "is_submitter": false,
+            "link_id": "t3_jldrb0",
+            "parent_id": "t1_gapfahe",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Farstone"
+        },
+        "gapfpoq": {
+            "comment": "Brand new out of the package, it happens the first time I plugged it in last night.\n\nI wouldn't be surprised if it's all of them... It's a random Chinese brand.\n\nSo you think it's still usable? How can I make sure I \"clean\" it without damaging my pc? Is it even worth the risk?",
+            "timeStamp": "2020/10/31-08:43:02",
+            "id": "gapfpoq",
+            "is_submitter": true,
+            "link_id": "t3_jldrb0",
+            "parent_id": "t1_gaoqgtc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "7_Leaf_Clover"
+        },
+        "gapfahe": {
+            "comment": "Thank you! I did some research online and it seems that you're right about the SillyDc worm. Is there a way to make sure that Win10 won't run any files without my permission (is that even necessary?).\n\nAlso what would be signs that my computer is infected? Still worried about that part...\n\nAnd lastly is this hdd still usable?",
+            "timeStamp": "2020/10/31-08:39:00",
+            "id": "gapfahe",
+            "is_submitter": true,
+            "link_id": "t3_jldrb0",
+            "parent_id": "t1_gaopzqg",
+            "score": 1,
+            "stickied": false,
+            "author_name": "7_Leaf_Clover"
+        },
+        "gapbed8": {
+            "comment": "Definitely recommend leaving a review",
+            "timeStamp": "2020/10/31-08:00:43",
+            "id": "gapbed8",
+            "is_submitter": false,
+            "link_id": "t3_jldrb0",
+            "parent_id": "t3_jldrb0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sierrafourteen"
+        },
+        "gaoqgtc": {
+            "comment": "Is this device supposed to be new? If so I can only see a few options... You got scammed by the seller (who declares the product is new), the seller was scammed by his supplier (who declared the product was new) or everyone was true to their word and the manufacturer was compromised either by a weak security posture or a supply-chain attack.\n\nWhich one could it be?\n\nBy the way just disable autorun and zero-fill the device.",
+            "timeStamp": "2020/10/31-03:14:57",
+            "id": "gaoqgtc",
+            "is_submitter": false,
+            "link_id": "t3_jldrb0",
+            "parent_id": "t3_jldrb0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "EONRaider"
+        },
+        "gaopzqg": {
+            "comment": "It looks to be a variant of W32/SillyDC worm.  The .INF file probably points to the .EXE to make it execute when AutoRun is enabled on a system.\n\nThe initial infect occurs when the host has AutoRun enabled and an infected drive is connected.  AutoRun executes the instructions in the .INF file to execute the worm; infecting the host.  The worm then infects all USB media plugged into the host.  This will continue until the malware process is killed and the files are deleted.\n\nAVG does a good job with older worms like this.  The screen shot leads me to believe that the worm did not run and infect your system.\n\nThe uTorrent hit looks to be a bundled software package.  Either uTorrent was downloaded from a third party site and the Potentially Unwanted Program (PUP) was added or it is a downloader renamed to uTorrent.  If you use uTorrent make sure you download from either source or a known good hosting site.",
+            "timeStamp": "2020/10/31-03:05:38",
+            "id": "gaopzqg",
+            "is_submitter": false,
+            "link_id": "t3_jldrb0",
+            "parent_id": "t3_jldrb0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Farstone"
+        },
+        "gaohzgy": {
+            "comment": "Wonder how common this is.  Perhaps new and cheap disks should be examined first on a machine booted with a live USB like tails. At least you'd know that the autorun stuff would not have kicked in.",
+            "timeStamp": "2020/10/31-00:21:18",
+            "id": "gaohzgy",
+            "is_submitter": false,
+            "link_id": "t3_jldrb0",
+            "parent_id": "t3_jldrb0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "xkcd__386"
+        },
+        "gaohoud": {
+            "comment": "Just don't put anything you download from the internet in C:\\\\ since system files are there.",
+            "timeStamp": "2020/10/31-00:15:33",
+            "id": "gaohoud",
+            "is_submitter": false,
+            "link_id": "t3_jldrb0",
+            "parent_id": "t1_gaogr4v",
+            "score": 1,
+            "stickied": false,
+            "author_name": "GaRenZhaYo"
+        },
+        "gaoguiw": {
+            "comment": "That's what it seems to me, so unless something else auto ran, it should be good.",
+            "timeStamp": "2020/10/30-23:59:29",
+            "id": "gaoguiw",
+            "is_submitter": false,
+            "link_id": "t3_jldrb0",
+            "parent_id": "t1_gaogr4v",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Nomey9"
+        },
+        "gaogr4v": {
+            "comment": "I did a deep scan (after quarantining those 2 files) and found nothing. Anything else I should do? If I got those pop-ups from AVG can I assume that it stopped the Autorun file from running when I plugged it in?",
+            "timeStamp": "2020/10/30-23:57:43",
+            "id": "gaogr4v",
+            "is_submitter": true,
+            "link_id": "t3_jldrb0",
+            "parent_id": "t1_gaogito",
+            "score": 1,
+            "stickied": false,
+            "author_name": "7_Leaf_Clover"
+        },
+        "gaogito": {
+            "comment": "UTorrent itself isn't bad but the fact there is an autorun.inf and a directory already on it means this was intentionally done by the seller or a used unit that was returned. Either way, I would suggest returning it and reporting it to Amazon then doing deep scans of your PC.",
+            "timeStamp": "2020/10/30-23:53:22",
+            "id": "gaogito",
+            "is_submitter": false,
+            "link_id": "t3_jldrb0",
+            "parent_id": "t1_gaogbqf",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Nomey9"
+        },
+        "gaogbqf": {
+            "comment": " It was definitely cheap:  \n[https://www.amazon.com/gp/product/B07DKCJB48?ref=ppx\\_pt2\\_dt\\_b\\_prod\\_image](https://www.amazon.com/gp/product/B07DKCJB48?ref=ppx_pt2_dt_b_prod_image)",
+            "timeStamp": "2020/10/30-23:49:45",
+            "id": "gaogbqf",
+            "is_submitter": true,
+            "link_id": "t3_jldrb0",
+            "parent_id": "t1_gaofxh1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "7_Leaf_Clover"
+        },
+        "gaogbba": {
+            "comment": "[deleted]",
+            "timeStamp": "2020/10/30-23:49:31",
+            "id": "gaogbba",
+            "is_submitter": false,
+            "link_id": "t3_jldrb0",
+            "parent_id": "t3_jldrb0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "gaofxh1": {
+            "comment": "Do you have the listing you got this from?  It's not uncommon for extremely cheap, non name brand storage devices to be either fake or pre infected.",
+            "timeStamp": "2020/10/30-23:42:20",
+            "id": "gaofxh1",
+            "is_submitter": false,
+            "link_id": "t3_jldrb0",
+            "parent_id": "t3_jldrb0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Nomey9"
+        }
+    }
+}

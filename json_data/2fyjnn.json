@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "One of our clients was infected with cryptolocker. He got an email with a link to this page where he downloaded it:\n\nhttp://auspost-tracking24.biz/general.php?id=4076320921732184963116813720498884306297\n\nThought you guys might want to fiddle with it. I also have a backup of the downloaded zip file in case that page goes down.",
+        "title": "Cryptolocker in the wild",
+        "score": 1,
+        "id": "2fyjnn",
+        "commsNum": 0,
+        "timeStamp": "2014/09/09-17:20:06",
+        "author_name": "odoprasm",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2fyjnn/cryptolocker_in_the_wild/"
+    },
+    "posts": {}
+}

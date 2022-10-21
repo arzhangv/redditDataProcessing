@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "i  have 2 samples of malware and i am doing a tracert to their C&amp;C\n\nI found that both are going to  a specific city, and then to a private ip, probably their default gate ([172.21.13.1](https://172.25.113.1))\n\nWhat can i do? i have lat and lon, zip code, ISP and their malware is very recurrent in our organization",
+        "title": "Malware and C&amp;C",
+        "score": 1,
+        "id": "ekzl2p",
+        "commsNum": 5,
+        "timeStamp": "2020/01/06-12:15:13",
+        "author_name": "Alexis201249",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ekzl2p/malware_and_cc/"
+    },
+    "posts": {
+        "fpod0c4": {
+            "comment": "[removed]",
+            "timeStamp": "2020/05/06-09:26:56",
+            "id": "fpod0c4",
+            "is_submitter": false,
+            "link_id": "t3_ekzl2p",
+            "parent_id": "t3_ekzl2p",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fdf50gt": {
+            "comment": "that IP is a private address and is on your LAN, not the internet",
+            "timeStamp": "2020/01/06-15:30:51",
+            "id": "fdf50gt",
+            "is_submitter": false,
+            "link_id": "t3_ekzl2p",
+            "parent_id": "t3_ekzl2p",
+            "score": 0,
+            "stickied": false,
+            "author_name": "Trolling_turd"
+        },
+        "fdeonlr": {
+            "comment": "The IP address could be a forwarding proxy decoupling the command and control server from the malware implant.\n\nYou cannot assume this is a C2 server. It could be a compromised router/modem.\n\nIn other words there is nothing you can do.",
+            "timeStamp": "2020/01/06-12:43:37",
+            "id": "fdeonlr",
+            "is_submitter": false,
+            "link_id": "t3_ekzl2p",
+            "parent_id": "t3_ekzl2p",
+            "score": 3,
+            "stickied": false,
+            "author_name": "ntoskernel"
+        },
+        "fdeml2v": {
+            "comment": "thank you  so much for reply, i'll keep it in mind",
+            "timeStamp": "2020/01/06-12:23:20",
+            "id": "fdeml2v",
+            "is_submitter": true,
+            "link_id": "t3_ekzl2p",
+            "parent_id": "t1_fdelwvy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Alexis201249"
+        },
+        "fdelwvy": {
+            "comment": "You should patch or harden your systems so that malware can't infect them. This isn't the wild west where you show up on your horse and take out the bad guy yourself. Might not even be a system that's owned by the criminals, could just be compromised.",
+            "timeStamp": "2020/01/06-12:16:42",
+            "id": "fdelwvy",
+            "is_submitter": false,
+            "link_id": "t3_ekzl2p",
+            "parent_id": "t3_ekzl2p",
+            "score": 4,
+            "stickied": false,
+            "author_name": "No2Bencil"
+        }
+    }
+}

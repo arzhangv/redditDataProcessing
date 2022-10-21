@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hello, I am using windows defender Antivirus.\n\nI wanted to download nox android emulator but I did it from the wrong site.\n\nI noticed strange installation process and I received  an error and nothing was installed as far as I could see.\n\nI have found a TXT log file of some of the installation which said:  \n\n\n1,\"fusion\",\"GAC\",0\n\n3,\"C:\\\\Windows\\\\assembly\\\\NativeImages\\_v2.0.50727\\_32\\\\System\\\\e174b53f30801b5836c47881e646c80e\\\\System.ni.dll\",0\n\n3,\"C:\\\\Windows\\\\assembly\\\\NativeImages\\_v2.0.50727\\_32\\\\System.Drawing\\\\2c2faaeb810b28ad2d2d72999fc96900\\\\System.Drawing.ni.dll\",0\n\n3,\"C:\\\\Windows\\\\assembly\\\\NativeImages\\_v2.0.50727\\_32\\\\System.Windows.Forms\\\\526c2035d9b7a5c79decda6877ba14be\\\\System.Windows.Forms.ni.dll\",0\n\n3,\"C:\\\\Windows\\\\assembly\\\\NativeImages\\_v2.0.50727\\_32\\\\System.Configuration\\\\8823dbbec7a3b08debcb790bf1d9fbf6\\\\System.Configuration.ni.dll\",0\n\n3,\"C:\\\\Windows\\\\assembly\\\\NativeImages\\_v2.0.50727\\_32\\\\System.Xml\\\\1099cdb8c15e2b6f9341f4200255ed8d\\\\System.Xml.ni.dll\",0\n\n&amp;#x200B;\n\n\\--------------------------------------------------------------\n\nI did System Restore to yesterday.\n\nShould I worry, should I reinstall Windows?\n\nHere is the scan of the exe file.\n\n [https://www.virustotal.com/gui/file/97f594e1c2885b07290df28cc6419e9278818d81f50f44611fd47b63b5924c64/behavior/VirusTotal%20Cuckoofork](https://www.virustotal.com/gui/file/97f594e1c2885b07290df28cc6419e9278818d81f50f44611fd47b63b5924c64/behavior/VirusTotal%20Cuckoofork)",
+        "title": "What should I do after I installed malware by mistake?",
+        "score": 1,
+        "id": "dflxs4",
+        "commsNum": 1,
+        "timeStamp": "2019/10/09-12:21:21",
+        "author_name": "vladi963",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/dflxs4/what_should_i_do_after_i_installed_malware_by/"
+    },
+    "posts": {
+        "f341977": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2019/10/09-12:21:22",
+            "id": "f341977",
+            "is_submitter": false,
+            "link_id": "t3_dflxs4",
+            "parent_id": "t3_dflxs4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

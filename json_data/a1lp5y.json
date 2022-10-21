@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Understanding Fileless Malware Infections \u2013 The Full Guide",
+        "score": 1,
+        "id": "a1lp5y",
+        "commsNum": 6,
+        "timeStamp": "2018/11/29-13:36:08",
+        "author_name": "Z3r0s3c4",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.peerlyst.com/posts/understanding-fileless-malware-infections-the-full-guide-andra-zaharia?trk=search_page_search_result"
+    },
+    "posts": {
+        "eas2os9": {
+            "comment": "After reading the article, I fully agree with you and wanted to post something similar. This article is just full of nonsense (the links to keywords for no reason, the reference to a company called 'here', the random question marks which are supposed to be apostrophes and the general layout is messy) and is misinforming users of the actual definition of fileless malware (which is lately a rather big hype). \n\nPeople tend to see fileless malware as malware that does not drop an executable or is not a 'known' file (like the article describing a rootkit as 'fileless'), which is wrong. I hope your explanation clears it up for at least some people.",
+            "timeStamp": "2018/11/30-02:33:21",
+            "id": "eas2os9",
+            "is_submitter": false,
+            "link_id": "t3_a1lp5y",
+            "parent_id": "t1_earlooi",
+            "score": 2,
+            "stickied": false,
+            "author_name": "ThisIsLibra"
+        },
+        "earxp5o": {
+            "comment": "That article you linked literally contains this quote from 2001:\n&gt; \u201cMalicious code that is not file based but exists in memory only\u2026 More particularly, fileless malicious code \u2026 appends itself to an active process in memory\u2026\u201d  \n\nTHAT is the correct definition of fileless malware.\n\nIn fact that entire article does a fairly good job of only describing actual fileless malware, but their definition:\n&gt; Fileless malware is malware that operates without placing malicious executables on the file system.\n\n^ This is just plain wrong\n\nNobody calls a bootkit \"fileless malware\". Nobody calls firmware malware \"fileless malware\". Just because malware drops files in a place other than the traditional filesystem doesn't make it fileless. This includes not just the registry, but bootloaders, firmware, peripheral devices, and I'm sure theres more I'm not including (microcode? Alternate data streams?)\n\nTheres been a wave of misunderstanding about the term and it just rubs me the wrong way.",
+            "timeStamp": "2018/11/30-00:12:06",
+            "id": "earxp5o",
+            "is_submitter": false,
+            "link_id": "t3_a1lp5y",
+            "parent_id": "t1_earuxbg",
+            "score": 3,
+            "stickied": false,
+            "author_name": "port443"
+        },
+        "earuxbg": {
+            "comment": "Lots of fileless malware stores code to inject a process and \"reinfect\" in malformed registry entries. Otherwise it would vanish on reboot.\n\n\"2014: Powerliks,\u00a0Angler, Phase Bot\"\n\nThe malicious programs outlined above\u00a0stayed purely memory-resident without leaving any direct footprints on the file systems. As the result of this volatility,\u00a0they\u00a0disappeared once the system was rebooted. In contrast, 2014 brought us\u00a0Poweliks malware,\u00a0which G Data\u2019s\u00a0Paul Rascagn\u00e8res described\u00a0as \u201cpersistent malware without a file.\u201d This specimen\u00a0found its way onto the system by exploiting a Microsoft Word vulnerability. It used PowerShell and JavaScript along with shellcode to jumpstart its in-memory execution. \u00a0Kevin Gossett at Symantec\u00a0described its persistence\u00a0mechanism\u00a0like this:\n\n\u201cNormally, malware will place an entry in the Run subkey that points to a malicious executable which is then executed. Poweliks makes the Run subkey call rundll32.exe, a legitimate Windows executable used to load DLLs, and passes in several parameters. These parameters include JavaScript code that eventually results in Poweliks being loaded into memory and executed.\u201d\n\nhttps://zeltser.com/fileless-malware-beyond-buzzword/\n\n",
+            "timeStamp": "2018/11/29-23:06:42",
+            "id": "earuxbg",
+            "is_submitter": false,
+            "link_id": "t3_a1lp5y",
+            "parent_id": "t1_earlooi",
+            "score": 2,
+            "stickied": false,
+            "author_name": "edisun"
+        },
+        "earlooi": {
+            "comment": "This articles all over the place and contradicts itself in several spots. I don't like it.\n\nFileless malware is memory-resident malware. If a memory-resident malware drops configuration and/or executable information in the registry, guess what, it's not fileless.\n\nFileless malware:\n\n1. Exploit code run on target in a user process (ie firefox/chrome)\n2. Shellcode alloc's spaceand calls out to C2\n3. Download stage2 from server and places it into alloc'd space\n4. Pass execution to alloc'd space. Maybe it does process hollowing, maybe it allocs and CreateRemoteThread into another running process, maybe it does a reflective load into current process and executes there. Lots of options.\n5. Malware is now executing outside of original process it was run in (or in the process depending), in memory, and has not touched disk.\n\nNot fileless:\n6. Malware writes to disk",
+            "timeStamp": "2018/11/29-20:22:38",
+            "id": "earlooi",
+            "is_submitter": false,
+            "link_id": "t3_a1lp5y",
+            "parent_id": "t3_a1lp5y",
+            "score": 5,
+            "stickied": false,
+            "author_name": "port443"
+        },
+        "eariaax": {
+            "comment": "They probably used some Unicode character that looked like a \u2018 and isn\u2019t supported",
+            "timeStamp": "2018/11/29-19:35:48",
+            "id": "eariaax",
+            "is_submitter": false,
+            "link_id": "t3_a1lp5y",
+            "parent_id": "t1_ear15qh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "perolan"
+        },
+        "ear15qh": {
+            "comment": "' = ? apparently",
+            "timeStamp": "2018/11/29-15:27:33",
+            "id": "ear15qh",
+            "is_submitter": false,
+            "link_id": "t3_a1lp5y",
+            "parent_id": "t3_a1lp5y",
+            "score": 4,
+            "stickied": false,
+            "author_name": "Googs22"
+        }
+    }
+}

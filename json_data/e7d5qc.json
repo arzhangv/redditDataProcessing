@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "hello ,\n\ni am trying to restaure a files inffected by ransomware add an extension to my file ( nam-of-file . kdog) but i did not have possiblity to solve this probleme .\n\nplease if someone know any anti malware or anti ransomeware that can solve this probleme and descrypt this files !",
+        "title": "can not restaure my files",
+        "score": 1,
+        "id": "e7d5qc",
+        "commsNum": 3,
+        "timeStamp": "2019/12/07-03:11:16",
+        "author_name": "mariorac19",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/e7d5qc/can_not_restaure_my_files/"
+    },
+    "posts": {
+        "fa4umq7": {
+            "comment": "[removed]",
+            "timeStamp": "2019/12/08-04:38:01",
+            "id": "fa4umq7",
+            "is_submitter": false,
+            "link_id": "t3_e7d5qc",
+            "parent_id": "t3_e7d5qc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "f9yjh0v": {
+            "comment": "maybe i have to wait for nws soon from this company !",
+            "timeStamp": "2019/12/07-06:38:22",
+            "id": "f9yjh0v",
+            "is_submitter": true,
+            "link_id": "t3_e7d5qc",
+            "parent_id": "t1_f9xtm9k",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mariorac19"
+        },
+        "f9xtm9k": {
+            "comment": "There is currently no way to decrypt your files. There is more information at the following link:\n\nhttps://support.emsisoft.com/topic/32274-help-my-files-are-encrypted-kodg/",
+            "timeStamp": "2019/12/07-03:27:23",
+            "id": "f9xtm9k",
+            "is_submitter": false,
+            "link_id": "t3_e7d5qc",
+            "parent_id": "t3_e7d5qc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "bustaphatty"
+        }
+    }
+}

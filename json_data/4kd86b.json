@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[deleted]",
+        "title": "How RTF malware evades static signature-based detection",
+        "score": 14,
+        "id": "4kd86b",
+        "commsNum": 0,
+        "timeStamp": "2016/05/21-04:41:23",
+        "author_name": "[deleted]",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.fireeye.com/blog/threat-research/2016/05/how_rtf_malware_evad.html"
+    },
+    "posts": {}
+}

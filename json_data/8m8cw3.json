@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "mquery: Blazingly fast Yara queries for malware analysts",
+        "score": 2,
+        "id": "8m8cw3",
+        "commsNum": 0,
+        "timeStamp": "2018/05/25-23:37:46",
+        "author_name": "digicat",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://github.com/CERT-Polska/mquery"
+    },
+    "posts": {}
+}

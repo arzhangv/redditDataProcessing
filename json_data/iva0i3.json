@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I've been trying to find a list of areas where to monitor windows registry for malware, backdoors, ect... and was wondering if anyknow knew or had a list for that? \n\nSo far the only thing I've found is this:\n\n [https://static1.squarespace.com/static/552092d5e4b0661088167e5c/t/5a3187b4419202f0fb8b2dd1/1513195444728/Windows+Splunk+Logging+Cheat+Sheet+v2.2.pdf](https://static1.squarespace.com/static/552092d5e4b0661088167e5c/t/5a3187b4419202f0fb8b2dd1/1513195444728/Windows+Splunk+Logging+Cheat+Sheet+v2.2.pdf)",
+        "title": "Monitoring registry for malware",
+        "score": 1,
+        "id": "iva0i3",
+        "commsNum": 5,
+        "timeStamp": "2020/09/18-10:02:47",
+        "author_name": "ttrreeyy",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/iva0i3/monitoring_registry_for_malware/"
+    },
+    "posts": {
+        "g5wwq3n": {
+            "comment": "[removed]",
+            "timeStamp": "2020/09/19-19:49:07",
+            "id": "g5wwq3n",
+            "is_submitter": false,
+            "link_id": "t3_iva0i3",
+            "parent_id": "t3_iva0i3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "g5qner2": {
+            "comment": "Find where malware writes to, and monitor those places.",
+            "timeStamp": "2020/09/18-13:34:11",
+            "id": "g5qner2",
+            "is_submitter": false,
+            "link_id": "t3_iva0i3",
+            "parent_id": "t3_iva0i3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "wmassingham"
+        },
+        "g5qgbpo": {
+            "comment": "There is some good stuff here:\n\n[https://www.sans.org/security-resources/posters/windows-forensic-analysis/170/download](https://www.sans.org/security-resources/posters/windows-forensic-analysis/170/download)\n\n[https://www.jaiminton.com/cheatsheet/DFIR/](https://www.jaiminton.com/cheatsheet/DFIR/#t1038-dll-search-order-hijacking)",
+            "timeStamp": "2020/09/18-12:40:31",
+            "id": "g5qgbpo",
+            "is_submitter": false,
+            "link_id": "t3_iva0i3",
+            "parent_id": "t3_iva0i3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "quincynotwincy"
+        },
+        "g5q2evg": {
+            "comment": "[removed]",
+            "timeStamp": "2020/09/18-10:41:47",
+            "id": "g5q2evg",
+            "is_submitter": false,
+            "link_id": "t3_iva0i3",
+            "parent_id": "t3_iva0i3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "g5q11wx": {
+            "comment": "[removed]",
+            "timeStamp": "2020/09/18-10:30:58",
+            "id": "g5q11wx",
+            "is_submitter": false,
+            "link_id": "t3_iva0i3",
+            "parent_id": "t3_iva0i3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

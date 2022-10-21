@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I was randomly browsing when this page popped up and it instantly installed a file (.html). I deleted the file html manually and then deleted it from the recycle bin. I looked through the programs installed in the PC and everything was fine. Should I be concerned? I scanned the PC with McAfee too and it said it didn't find anything wrong.",
+        "title": "Your computer has been BLOCKED",
+        "score": 1,
+        "id": "flaevd",
+        "commsNum": 1,
+        "timeStamp": "2020/03/19-06:56:13",
+        "author_name": "zanet1427",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/flaevd/your_computer_has_been_blocked/"
+    },
+    "posts": {
+        "fkxenhu": {
+            "comment": "your account has been BANNED",
+            "timeStamp": "2020/03/19-07:00:47",
+            "id": "fkxenhu",
+            "is_submitter": false,
+            "link_id": "t3_flaevd",
+            "parent_id": "t3_flaevd",
+            "score": 1,
+            "stickied": false,
+            "author_name": "edward_snowedin"
+        }
+    }
+}

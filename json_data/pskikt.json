@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "New Capoae Malware Infiltrates WordPress Sites and Installs Backdoored Plugin",
+        "score": 1,
+        "id": "pskikt",
+        "commsNum": 0,
+        "timeStamp": "2021/09/21-08:01:09",
+        "author_name": "ksr_malware",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://thehackernews.com/2021/09/new-capoae-malware-infiltrates.html"
+    },
+    "posts": {}
+}

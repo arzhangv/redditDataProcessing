@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I have a paper to write on why the IRC protocol is dead (for malware, at least). Would anyone like to help me elaborate on why it is dying / dead?",
+        "title": "Reasons why IRC botnets are dead",
+        "score": 6,
+        "id": "zkcn7",
+        "commsNum": 20,
+        "timeStamp": "2012/09/08-11:25:50",
+        "author_name": "[deleted]",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 20,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/zkcn7/reasons_why_irc_botnets_are_dead/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "A few months ago, I received some information pertaining to \"the latest Angler variant\" that used a URI structure involving four randomly generated words separated by dashes or underscores and then a slash and exactly 18 digits.  Shortly thereafter, I received information about a three-word variant that was followed by a slash and 15 digits.\n\n    GET /correct_horse_battery_staple/123456789012345678\n    GET /horse-battery-staple/123456789012345\n\nThing is, I now can't seem to find any information pertaining to these Angler variants.  I lost the information I was given (months ago) and searching hasn't yielded any results as of yet.\n\nHas anyone else seen something similar?",
+        "title": "Trying to find information on Angler 3 or 4 word URI variants",
+        "score": 3,
+        "id": "3khd14",
+        "commsNum": 2,
+        "timeStamp": "2015/09/10-17:54:00",
+        "author_name": "RavenDT",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/3khd14/trying_to_find_information_on_angler_3_or_4_word/"
+    },
+    "posts": {}
+}

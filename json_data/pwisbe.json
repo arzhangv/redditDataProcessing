@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Deobfuscating PowerShell Malware Droppers",
+        "score": 1,
+        "id": "pwisbe",
+        "commsNum": 3,
+        "timeStamp": "2021/09/27-07:54:36",
+        "author_name": "Ryancor",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://ryancor.medium.com/deobfuscating-powershell-malware-droppers-b6c34499e41d"
+    },
+    "posts": {
+        "hfhdchp": {
+            "comment": "Love it, thanks dude!",
+            "timeStamp": "2021/10/05-07:24:05",
+            "id": "hfhdchp",
+            "is_submitter": false,
+            "link_id": "t3_pwisbe",
+            "parent_id": "t3_pwisbe",
+            "score": 2,
+            "stickied": false,
+            "author_name": "cea1990"
+        },
+        "hehy5ac": {
+            "comment": "Thank you so much!",
+            "timeStamp": "2021/09/27-11:09:12",
+            "id": "hehy5ac",
+            "is_submitter": true,
+            "link_id": "t3_pwisbe",
+            "parent_id": "t1_hehw70x",
+            "score": 3,
+            "stickied": false,
+            "author_name": "Ryancor"
+        },
+        "hehw70x": {
+            "comment": "What a fantastic article! Bravo! Nice work!",
+            "timeStamp": "2021/09/27-10:54:16",
+            "id": "hehw70x",
+            "is_submitter": false,
+            "link_id": "t3_pwisbe",
+            "parent_id": "t3_pwisbe",
+            "score": 5,
+            "stickied": false,
+            "author_name": "1Maccabee"
+        }
+    }
+}

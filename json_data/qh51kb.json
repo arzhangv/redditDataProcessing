@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Updated Ransomware Group Sites Directory [for infosec bros]",
+        "score": 1,
+        "id": "qh51kb",
+        "commsNum": 2,
+        "timeStamp": "2021/10/27-12:53:40",
+        "author_name": "FadedinInk",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://eur02.safelinks.protection.outlook.com/?url=http%3A%2F%2Fransomwr3tsydeii4q43vazm7wofla5ujdajquitomtd47cxjtfgwyyd.onion%2F&amp;data=04%7C01%7CConor.MacNamara%40controlrisks.com%7Ca59a8dcfa3ee47f33e4c08d99981c86e%7Ceeb1419663dc45aaac420a4583b12590%7C0%7C0%7C637709604983901229%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=RI63sdL%2BgDAo9l2zIncLjW%2FBGcxmxS9Ub1RqEWPf7qU%3D&amp;reserved=0"
+    },
+    "posts": {
+        "hiajfg0": {
+            "comment": "Why would you post an onion link than a web url? Pls repost with a web URL..",
+            "timeStamp": "2021/10/27-13:23:26",
+            "id": "hiajfg0",
+            "is_submitter": false,
+            "link_id": "t3_qh51kb",
+            "parent_id": "t1_hiaf2yt",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Odd-Feed-9797"
+        },
+        "hiaf2yt": {
+            "comment": "A few months ago a Good Samaritan posted a directory of ransomware group sites, making the jobs of us in the infosec community that much easier. Seeing as that post is now outdated, with an active comment section looking for fresh links, I have stepped up to grace you with fresh URLs.",
+            "timeStamp": "2021/10/27-12:55:56",
+            "id": "hiaf2yt",
+            "is_submitter": true,
+            "link_id": "t3_qh51kb",
+            "parent_id": "t3_qh51kb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "FadedinInk"
+        }
+    }
+}

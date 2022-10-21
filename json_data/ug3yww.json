@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I recently found a wild Trojan that calls itself \"valkyria\". I analized it and it turns out it puts itself into your startup folder and spams you (so fast sometimes can crash) with meme alerts. Context shows this was a meme and wasn't trying to be destructive. If you wondered how I did this, and who, I do have answers. This was made by one of my friends, as it was purposefully emailed to me from a spam Discord that I use to talk to my friends. I just wanted to help document this as I think it was interesting\n\n[Link shared](https://anonfiles.com/h6eah3c3y9/Valkyria_exe)",
+        "title": "Found wild Malware",
+        "score": 1,
+        "id": "ug3yww",
+        "commsNum": 0,
+        "timeStamp": "2022/05/01-09:48:50",
+        "author_name": "DeepBlve",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ug3yww/found_wild_malware/"
+    },
+    "posts": {
+        "i79w9kw": {
+            "comment": "Thanks, my friend.",
+            "timeStamp": "2022/05/04-03:16:34",
+            "id": "i79w9kw",
+            "is_submitter": true,
+            "link_id": "t3_ug3yww",
+            "parent_id": "t1_i70r6c8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DeepBlve"
+        },
+        "i70r6c8": {
+            "comment": "I'm just passing by, but the word is spelled \"ANALYZED\".   \n\n\n\\-Cheers my  friend, I Hope you were using protection.",
+            "timeStamp": "2022/05/02-05:34:57",
+            "id": "i70r6c8",
+            "is_submitter": false,
+            "link_id": "t3_ug3yww",
+            "parent_id": "t3_ug3yww",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ArmsCart"
+        },
+        "i6zz7si": {
+            "comment": "[removed]",
+            "timeStamp": "2022/05/01-23:33:56",
+            "id": "i6zz7si",
+            "is_submitter": false,
+            "link_id": "t3_ug3yww",
+            "parent_id": "t3_ug3yww",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "What platform and virtualization software is the best for a beginner to start learning about malware analysis? Any rationale for your suggestion would be appreciated.\n\nThank You,\n\nHost platform: Windows, OSX, Linux\n\nVirtualization: Vmware, Paralells, Virtualbox",
+        "title": "Beginner - Suggested Platform &amp; Virtualization",
+        "score": 1,
+        "id": "a0ycph",
+        "commsNum": 8,
+        "timeStamp": "2018/11/27-11:54:25",
+        "author_name": "seag33k",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 8,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/a0ycph/beginner_suggested_platform_virtualization/"
+    },
+    "posts": {
+        "eamgv6p": {
+            "comment": "And to add, only play around with known samples with predictable behaviour. VM escape methods are rare but exist",
+            "timeStamp": "2018/11/27-21:50:58",
+            "id": "eamgv6p",
+            "is_submitter": false,
+            "link_id": "t3_a0ycph",
+            "parent_id": "t1_ealp48k",
+            "score": 4,
+            "stickied": false,
+            "author_name": "Whiskeyfueledhemi"
+        },
+        "eamgpw3": {
+            "comment": "Your focus needs to be on your network structure if that is your concern. They will all provide the basic interface for setting it up, but your configuration needs to be air right from the outside, and understand the exploits that you will be interacting with. ",
+            "timeStamp": "2018/11/27-21:47:48",
+            "id": "eamgpw3",
+            "is_submitter": false,
+            "link_id": "t3_a0ycph",
+            "parent_id": "t1_ealquqa",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Whiskeyfueledhemi"
+        },
+        "ealz7hh": {
+            "comment": "Host platform Linux, preferably with a baremetals hypervisor like proxmox. If you don't want to go that route then virtuabox is the best free option as it doesn't lock advanced features behind a paywall",
+            "timeStamp": "2018/11/27-17:04:27",
+            "id": "ealz7hh",
+            "is_submitter": false,
+            "link_id": "t3_a0ycph",
+            "parent_id": "t3_a0ycph",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TheCrowGrandfather"
+        },
+        "ealquqa": {
+            "comment": "I've used them all.  I was more concerned about if one provided better internal isolation and security between the host and guest.",
+            "timeStamp": "2018/11/27-15:02:37",
+            "id": "ealquqa",
+            "is_submitter": true,
+            "link_id": "t3_a0ycph",
+            "parent_id": "t1_ealpxr4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "seag33k"
+        },
+        "ealpxr4": {
+            "comment": "I think virtual box is easy to use for beginners. It lets you save snapshots and is completely free. ",
+            "timeStamp": "2018/11/27-14:50:34",
+            "id": "ealpxr4",
+            "is_submitter": false,
+            "link_id": "t3_a0ycph",
+            "parent_id": "t3_a0ycph",
+            "score": 3,
+            "stickied": false,
+            "author_name": "Arc-ansas"
+        },
+        "ealp48k": {
+            "comment": "Just remember to switch to host only network before launching any malware. You dont want it scanning your personal network for open shares or going out to contact external servers.",
+            "timeStamp": "2018/11/27-14:39:52",
+            "id": "ealp48k",
+            "is_submitter": false,
+            "link_id": "t3_a0ycph",
+            "parent_id": "t1_ealoydh",
+            "score": 3,
+            "stickied": false,
+            "author_name": "joe_bogan"
+        },
+        "ealoydh": {
+            "comment": "Joe - thanks for the feedback.  Sure is a scary feeling downloading and executing real malware so I wanted to make sure I am taking as many precautions as necessary.",
+            "timeStamp": "2018/11/27-14:37:45",
+            "id": "ealoydh",
+            "is_submitter": true,
+            "link_id": "t3_a0ycph",
+            "parent_id": "t1_ealmjdu",
+            "score": 2,
+            "stickied": false,
+            "author_name": "seag33k"
+        },
+        "ealmjdu": {
+            "comment": "Platform doesnt matter, however if you are running lots of virtuals, a Mac might not cut it or it will cost you $$ if you are running 32GB ram, multi-threaded CPUs and storage. \n\nAs for the hypervisor, VMware is obviously the world leader but workstation is not free and the player has limited functions. Virtualbox has most of the features of workstation like snapshots but I find it a bit clunky - but totally fine for running a test environment. ",
+            "timeStamp": "2018/11/27-14:05:35",
+            "id": "ealmjdu",
+            "is_submitter": false,
+            "link_id": "t3_a0ycph",
+            "parent_id": "t3_a0ycph",
+            "score": 3,
+            "stickied": false,
+            "author_name": "joe_bogan"
+        }
+    }
+}

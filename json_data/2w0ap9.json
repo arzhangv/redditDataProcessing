@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "hi \nI analyze malware, but there are some malware  discovers it under virtual environment like vmware how i can  Prevent these malware from detect vmware",
+        "title": "how hardening vmware from detect by malware",
+        "score": 0,
+        "id": "2w0ap9",
+        "commsNum": 5,
+        "timeStamp": "2015/02/15-13:29:35",
+        "author_name": "sh3dow",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2w0ap9/how_hardening_vmware_from_detect_by_malware/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "The name of this bug shows as \"RespectSale\" though it also showed as something called \"Deal4Me\" or \"Deal4You\" (not sure honestly, don't remember) as a rouge Chrome extension.  After the first couple of cleanings it now shows as \"RespectSale.\"\n\nThis one is driving me nuts.  I've been fighting malware for over a decade and I cannot shake this thing.  It causes highlight text on pages, pop over windows, inserts ad-windows onto pages and modifies search results.\n\nI've reset every browser, searched the registry, cleared all temp files, and run CCleaner, Combofix, and Malwarebytes multiple times.  They all come up clean and the only thing that chases it away momentarily is to reset Chrome (my browser of choice, and the only one I use).\n\nIt use to show up as a renegade extension in Chrome but now comes back without showing a single sign of itself.  Any help getting rid of this thing would be greatly appreciated it, it's really pissing me off.  The only thing I can find on Google are the bullshit removal software blog posts that all lead to you downloading their wonder malware removal tool.",
+        "title": "RespectSale",
+        "score": 0,
+        "id": "34sbnf",
+        "commsNum": 1,
+        "timeStamp": "2015/05/03-20:26:51",
+        "author_name": "[deleted]",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/34sbnf/respectsale/"
+    },
+    "posts": {}
+}

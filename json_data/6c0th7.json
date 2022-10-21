@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Can anyone suggest a tool or website to dump a csv or txt file full of process information, and see if any uploaded processes are known bad?  Our asset management tool inventories all running processes on all of our systems and it would be nice to upload that file for a sanity check.  AV is reporting all systems are clean, but would just like to cross check for good measure. \n\n",
+        "title": "Process Dump",
+        "score": 4,
+        "id": "6c0th7",
+        "commsNum": 4,
+        "timeStamp": "2017/05/18-19:06:50",
+        "author_name": "jaywalker8",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6c0th7/process_dump/"
+    },
+    "posts": {}
+}

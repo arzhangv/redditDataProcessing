@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Annotating Malware Disassembly Functions Using Neural Machine Translation",
+        "score": 1,
+        "id": "ud1xa7",
+        "commsNum": 0,
+        "timeStamp": "2022/04/27-05:02:30",
+        "author_name": "paran0ide",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.mandiant.com/resources/annotating-malware-disassembly-functions"
+    },
+    "posts": {}
+}

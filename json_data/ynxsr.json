@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Making IDA ::1 Part One \u2013 YARA Signature Creation",
+        "score": 11,
+        "id": "ynxsr",
+        "commsNum": 1,
+        "timeStamp": "2012/08/22-16:09:33",
+        "author_name": "g0dmoney",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": null,
+        "url": "http://blog.accuvantlabs.com/blog/case-b/making-ida-1-part-one-\u2013-yara-signature-creation-1"
+    },
+    "posts": {}
+}

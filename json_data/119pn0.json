@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Mac OS X rootkit - Support multiple kernel versions and gives root privileges - Penetration Testing and Security Tools",
+        "score": 1,
+        "id": "119pn0",
+        "commsNum": 0,
+        "timeStamp": "2012/10/10-13:05:55",
+        "author_name": "unixroot",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://toolsyard.thehackernews.com/2012/10/mac-os-x-rootkit-support-multiple.html"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "So I am wondering how Ransomware work, as far as I know\u206f Ransomware encrypts all files with AES-256 and after that Encrypt AES key with public RSA-key.",
+        "title": "How does Ransomware Work?",
+        "score": 4,
+        "id": "4u2wgr",
+        "commsNum": 8,
+        "timeStamp": "2016/07/22-07:04:18",
+        "author_name": "QSCFE",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 8,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/4u2wgr/how_does_ransomware_work/"
+    },
+    "posts": {}
+}

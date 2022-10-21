@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Exploit kits: summer 2019 review",
+        "score": 20,
+        "id": "cjuw24",
+        "commsNum": 0,
+        "timeStamp": "2019/07/30-10:18:01",
+        "author_name": "DrinkMoreCodeMore",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://blog.malwarebytes.com/threat-analysis/2019/07/exploit-kits-summer-2019-review/"
+    },
+    "posts": {}
+}

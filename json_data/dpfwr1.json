@@ -1,0 +1,110 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "This New Android Malware Can Survive a Factory Reset",
+        "score": 30,
+        "id": "dpfwr1",
+        "commsNum": 8,
+        "timeStamp": "2019/10/30-17:46:38",
+        "author_name": "tyw7",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 8,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://lifehacker.com/this-new-android-malware-can-survive-a-factory-reset-1839471462"
+    },
+    "posts": {
+        "f60ra8w": {
+            "comment": "I don't know really. My experience is with android malware.",
+            "timeStamp": "2019/11/01-09:02:41",
+            "id": "f60ra8w",
+            "is_submitter": false,
+            "link_id": "t3_dpfwr1",
+            "parent_id": "t1_f60nkrx",
+            "score": 1,
+            "stickied": false,
+            "author_name": "NotAFinnishLawyer"
+        },
+        "f60nkrx": {
+            "comment": "Does Apple's iOS \"reset all settings\" option overwrite the system apps partition?",
+            "timeStamp": "2019/11/01-08:21:02",
+            "id": "f60nkrx",
+            "is_submitter": false,
+            "link_id": "t3_dpfwr1",
+            "parent_id": "t1_f5w5yz9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "yankeesfan01x"
+        },
+        "f5yq2hr": {
+            "comment": "Haha :D",
+            "timeStamp": "2019/10/31-15:14:41",
+            "id": "f5yq2hr",
+            "is_submitter": false,
+            "link_id": "t3_dpfwr1",
+            "parent_id": "t1_f5y35j4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "americaneagle98"
+        },
+        "f5y35j4": {
+            "comment": "I used Cerberus on my android phone it got stolen and have been factory reset countless times. I still have remote access to it ....",
+            "timeStamp": "2019/10/31-12:28:52",
+            "id": "f5y35j4",
+            "is_submitter": false,
+            "link_id": "t3_dpfwr1",
+            "parent_id": "t3_dpfwr1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "thisistherythmof"
+        },
+        "f5y2nuk": {
+            "comment": "Not all vendors seem to supply flashing tools.",
+            "timeStamp": "2019/10/31-12:25:27",
+            "id": "f5y2nuk",
+            "is_submitter": false,
+            "link_id": "t3_dpfwr1",
+            "parent_id": "t1_f5w5yz9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "urwrang"
+        },
+        "f5xme2r": {
+            "comment": "Probably not that many. But it certainly isn't new stuff.",
+            "timeStamp": "2019/10/31-10:29:49",
+            "id": "f5xme2r",
+            "is_submitter": false,
+            "link_id": "t3_dpfwr1",
+            "parent_id": "t1_f5xgwi6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "NotAFinnishLawyer"
+        },
+        "f5xgwi6": {
+            "comment": "While I agree that flashing an image would erase it, what percent of average users are capable of doing so?",
+            "timeStamp": "2019/10/31-09:51:16",
+            "id": "f5xgwi6",
+            "is_submitter": false,
+            "link_id": "t3_dpfwr1",
+            "parent_id": "t1_f5w5yz9",
+            "score": 1,
+            "stickied": false,
+            "author_name": "EatMyPoopiePies"
+        },
+        "f5w5yz9": {
+            "comment": "I don't really understand why this is new.\n\nThe android factory reset does not overwrite the system apps partition. So if the malware can root the phone, mount the system partition as rw, they can install the malware there.\n\nTo get rid of it, just flash full image using the flashing tool your vendor provides.",
+            "timeStamp": "2019/10/31-02:45:46",
+            "id": "f5w5yz9",
+            "is_submitter": false,
+            "link_id": "t3_dpfwr1",
+            "parent_id": "t3_dpfwr1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "NotAFinnishLawyer"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "A Look Inside The TrickBot Botnet - Lumen",
+        "score": 1,
+        "id": "ja0uxc",
+        "commsNum": 0,
+        "timeStamp": "2020/10/12-15:16:17",
+        "author_name": "5sidedfistagon",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://blog.lumen.com/a-look-inside-the-trickbot-botnet/"
+    },
+    "posts": {}
+}

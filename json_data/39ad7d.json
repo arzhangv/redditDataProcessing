@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hi, guys.\nFirst time posting here, be gentle. I recently started a new job in threat intelligence analysis and a large part of that work revolves around Maltego for visualisation. Does anyone here have any experience in writing your own transforms for it?\n\n I have found a  really cool tool by Cymru that can be found here - http://www.team-cymru.org/MHR.html\nI want to be able to write a Maltego transform that allows me to take a file signature and check it against their known hash database via DNS, returning information such as if it's been detected before, and if so, when. Does anyone have any sort of experience in this?\n\n Not sure if this is the right sub, but since its malware based, I thought a few people here might have the experience. \n\n\nI'd be happy to release the transform as open source once it's done, what is useful to me will probably be useful to others!\nCheers",
+        "title": "Maltego Malware hash query transform.",
+        "score": 5,
+        "id": "39ad7d",
+        "commsNum": 5,
+        "timeStamp": "2015/06/10-04:56:14",
+        "author_name": "Tomtoise",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/39ad7d/maltego_malware_hash_query_transform/"
+    },
+    "posts": {}
+}

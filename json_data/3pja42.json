@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hey guys\n\n\n\nMy experience is mostly as a digital forensics investigator whose dabbled in some malware analysis on the side. I've slowly been getting more involved in the malware analysis process through work over the past few years and I've getting to the point where I really just need to start diving into Reversing.\n\n\n\nMy question is, what are the best tutorials/resources to begin learning reversing engineering (mainly for Windows PE files). I'm aware of the Lena tutorials online, but any other good recommendations?\n\n\n\nAlso, I've played around in OllyDBG before, but I've never really known exactly how to set it up properly, or used any plugins for it. Any suggestions on a good setup and plugins to use with it? Or do any of you suggest a different tool? I don't have a license for IDA Pro, unfortunately.\n\n\n\nAny help/recommendations would be greatly appreciated. Thanks!",
+        "title": "Getting Started in Reversing",
+        "score": 16,
+        "id": "3pja42",
+        "commsNum": 5,
+        "timeStamp": "2015/10/20-12:50:26",
+        "author_name": "Index_Dot_Zach",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/3pja42/getting_started_in_reversing/"
+    },
+    "posts": {}
+}

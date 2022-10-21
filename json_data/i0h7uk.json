@@ -1,0 +1,198 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "So I am going to be upfront. I tend to go to those sketchy streaming sites, as well as watch adult entertainment online. I want to protect my computer and hopefully clean up anything that might have gotten in so far. Am willing to pay for a high quality product if it is actually worth it.",
+        "title": "Best Antivirus for Windows 10 (paid or free)",
+        "score": 1,
+        "id": "i0h7uk",
+        "commsNum": 16,
+        "timeStamp": "2020/07/29-23:38:48",
+        "author_name": "davros333ai",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 16,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/i0h7uk/best_antivirus_for_windows_10_paid_or_free/"
+    },
+    "posts": {
+        "g0dvyfq": {
+            "comment": "Not quite, a vm (virtual machine) is like an operating system within an operating system (if you're familiar with Bluestacks and how it lets your windows/mac run android and use apps made for android). VMs (i.e. via VMware, VirtualBox, Parallels (Mac)) let you run another OS while running your normal/host OS. \n\nThe VM should keep apps running in the VM contained in only the VM (if configured correctly). So if you download something into the VM and it's malware, (most of the time) it will keep it from infecting your host machine. So you can just power down the VM, dump and restart it from the old checkpoint. \n\nA Virtual Private Network (VPN) in the usual sense is to allow your network traffic to go to another server before it goes to where you want to go. (In a sort of bad example) if you imagine your web traffic like you want to go to buy a pizza and your house is your host/computer, the pizza shop is your destination, you might stop at the nearby bank to draw some money out, you can sort of think of the bank as the VPN/server that your traffic goes to before it goes to your destination website/pizza shop.",
+            "timeStamp": "2020/08/04-15:46:03",
+            "id": "g0dvyfq",
+            "is_submitter": false,
+            "link_id": "t3_i0h7uk",
+            "parent_id": "t1_g0dv32p",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Schnitzel725"
+        },
+        "g0dv32p": {
+            "comment": "what is a vm? Is that like a vpn?",
+            "timeStamp": "2020/08/04-15:38:40",
+            "id": "g0dv32p",
+            "is_submitter": true,
+            "link_id": "t3_i0h7uk",
+            "parent_id": "t1_fzr3zp5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "davros333ai"
+        },
+        "g0cc3g0": {
+            "comment": "[removed]",
+            "timeStamp": "2020/08/04-09:31:00",
+            "id": "g0cc3g0",
+            "is_submitter": false,
+            "link_id": "t3_i0h7uk",
+            "parent_id": "t3_i0h7uk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "g04qva6": {
+            "comment": "[removed]",
+            "timeStamp": "2020/08/02-12:07:47",
+            "id": "g04qva6",
+            "is_submitter": false,
+            "link_id": "t3_i0h7uk",
+            "parent_id": "t3_i0h7uk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fzvvjze": {
+            "comment": "Morphisec is specifically targeting in-memory attacks. Defender can do *some* of that if you have ATP, but Morphisec does it in really interesting ways. \n\nThey're sort of an AV feature looking for a product. Expensive and can provide some extra protection, but they're more focused on enterprise customers and really need to be supported by a NGAV.",
+            "timeStamp": "2020/07/31-10:05:50",
+            "id": "fzvvjze",
+            "is_submitter": false,
+            "link_id": "t3_i0h7uk",
+            "parent_id": "t1_fzq18nu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "alcon835"
+        },
+        "fzvdq3r": {
+            "comment": "Sophia home is best",
+            "timeStamp": "2020/07/31-08:12:44",
+            "id": "fzvdq3r",
+            "is_submitter": false,
+            "link_id": "t3_i0h7uk",
+            "parent_id": "t3_i0h7uk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Specific-Layer"
+        },
+        "fzr3zp5": {
+            "comment": "Run your shady internet stuff through a vm. install all your needed software (that are not infected) and make a snapshot. When it gets infected, dump it and start it back to the snapshot.\n\nAlso, windows defender knows what its doing nowadays.",
+            "timeStamp": "2020/07/30-10:56:32",
+            "id": "fzr3zp5",
+            "is_submitter": false,
+            "link_id": "t3_i0h7uk",
+            "parent_id": "t3_i0h7uk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Schnitzel725"
+        },
+        "fzq9ace": {
+            "comment": "I would advise using:\n\nTrend, ESET, Kaspersky or BitDefender for detection.\n\nUse a paid for unlimited VPN.",
+            "timeStamp": "2020/07/30-06:56:54",
+            "id": "fzq9ace",
+            "is_submitter": false,
+            "link_id": "t3_i0h7uk",
+            "parent_id": "t3_i0h7uk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "CGKL25"
+        },
+        "fzq1muy": {
+            "comment": "ESET Internet Security, or Windows Defender for the free option.",
+            "timeStamp": "2020/07/30-05:38:17",
+            "id": "fzq1muy",
+            "is_submitter": false,
+            "link_id": "t3_i0h7uk",
+            "parent_id": "t3_i0h7uk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "PapaSyntax"
+        },
+        "fzq18nu": {
+            "comment": "I like defender because it\u2019s easy and I\u2019ve never had issues with it. Has anybody ever used Morphisec? They claim to be a bolt on for defender to add next-gen AV capabilities to it but it seems expensive for what it is.",
+            "timeStamp": "2020/07/30-05:33:42",
+            "id": "fzq18nu",
+            "is_submitter": false,
+            "link_id": "t3_i0h7uk",
+            "parent_id": "t3_i0h7uk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "tedchambers1"
+        },
+        "fzpwk84": {
+            "comment": "Add a addblocker to your browser or use brave. Ublock origin is my favorite, besides that, you could add a raspberry pi + pi-hole to your entire network to get rid of lot unnecessary requests. Gl",
+            "timeStamp": "2020/07/30-04:33:04",
+            "id": "fzpwk84",
+            "is_submitter": false,
+            "link_id": "t3_i0h7uk",
+            "parent_id": "t3_i0h7uk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "darkfroggy"
+        },
+        "fzpw0sn": {
+            "comment": "Don\u2019t use defender unless you can pay Microsoft for the privilege of their backend ML capabilities. \n\nIf this is personal use and you\u2019re actively going to sketchy sites, pick up something like MalwareBytes or CylancePROTECT. Neither are a sure thing, but Cylance is one of the best anti viruses out there for personal use and MalwareBytes has all the extra features you\u2019re looking for to help protect your internet browsing. \n\nPersonally, I\u2019d do MalwareBytes for home use until Microsoft decides to give all windows 10 users the kind of AV protection it gives its business customers.",
+            "timeStamp": "2020/07/30-04:25:21",
+            "id": "fzpw0sn",
+            "is_submitter": false,
+            "link_id": "t3_i0h7uk",
+            "parent_id": "t3_i0h7uk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "alcon835"
+        },
+        "fzpvmbi": {
+            "comment": "Defender aided by Clam",
+            "timeStamp": "2020/07/30-04:19:29",
+            "id": "fzpvmbi",
+            "is_submitter": false,
+            "link_id": "t3_i0h7uk",
+            "parent_id": "t3_i0h7uk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "r3dderik"
+        },
+        "fzplotm": {
+            "comment": "Defender for sure.",
+            "timeStamp": "2020/07/30-01:34:47",
+            "id": "fzplotm",
+            "is_submitter": false,
+            "link_id": "t3_i0h7uk",
+            "parent_id": "t3_i0h7uk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Oscar_Geare"
+        },
+        "fzpj0tg": {
+            "comment": "Windows defender they're doing it right these days.",
+            "timeStamp": "2020/07/30-00:50:22",
+            "id": "fzpj0tg",
+            "is_submitter": false,
+            "link_id": "t3_i0h7uk",
+            "parent_id": "t3_i0h7uk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MTK911"
+        },
+        "fzpib5y": {
+            "comment": "Windows Defenders and practicing smart internet browsing habits",
+            "timeStamp": "2020/07/30-00:38:41",
+            "id": "fzpib5y",
+            "is_submitter": false,
+            "link_id": "t3_i0h7uk",
+            "parent_id": "t3_i0h7uk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Charlesfloss"
+        }
+    }
+}

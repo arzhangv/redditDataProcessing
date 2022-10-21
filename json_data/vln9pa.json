@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "CopperStealer Malware is Spreading Through Fake Cracks | Cyware Hacker News",
+        "score": 1,
+        "id": "vln9pa",
+        "commsNum": 0,
+        "timeStamp": "2022/06/26-21:45:56",
+        "author_name": "techietraveller84",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://cyware.com/news/copperstealer-malware-is-spreading-through-fake-cracks-13c88a3f"
+    },
+    "posts": {
+        "igwpztz": {
+            "comment": "And that's why you stick to Fitgirl and YIFY.",
+            "timeStamp": "2022/07/20-05:30:11",
+            "id": "igwpztz",
+            "is_submitter": false,
+            "link_id": "t3_vln9pa",
+            "parent_id": "t3_vln9pa",
+            "score": 1,
+            "stickied": false,
+            "author_name": "I_Collect_Viruses"
+        }
+    }
+}

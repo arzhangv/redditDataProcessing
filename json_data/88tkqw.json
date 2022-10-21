@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Malware like that can\u2019t steal my ID from my phone unless I click on something, yeah?",
+        "title": "So, my phone opened a Deloton link by mistake. I closed it before the page could load. Am I safe?",
+        "score": 0,
+        "id": "88tkqw",
+        "commsNum": 1,
+        "timeStamp": "2018/04/01-13:03:04",
+        "author_name": "Dragonage2ftw",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/88tkqw/so_my_phone_opened_a_deloton_link_by_mistake_i/"
+    },
+    "posts": {
+        "dwrgx1b": {
+            "comment": "if you simply opened a link then closed it, you are fine.",
+            "timeStamp": "2018/04/03-16:50:16",
+            "id": "dwrgx1b",
+            "is_submitter": false,
+            "link_id": "t3_88tkqw",
+            "parent_id": "t3_88tkqw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ProfessionalZebra"
+        }
+    }
+}

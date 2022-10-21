@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Malware sandbox evasion in x64 assembly by checking ram size - Part 1",
+        "score": 1,
+        "id": "wnmsik",
+        "commsNum": 0,
+        "timeStamp": "2022/08/13-12:39:40",
+        "author_name": "AccidentalRebel",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.accidentalrebel.com/malware-sandbox-evasion-in-x64-assembly-by-checking-ram-size-part-1.html"
+    },
+    "posts": {
+        "ikes9i9": {
+            "comment": "One of the more common techniques of malware to check the environment... thanks",
+            "timeStamp": "2022/08/15-10:52:08",
+            "id": "ikes9i9",
+            "is_submitter": false,
+            "link_id": "t3_wnmsik",
+            "parent_id": "t3_wnmsik",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Nesher86"
+        }
+    }
+}

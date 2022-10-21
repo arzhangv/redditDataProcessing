@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Awesome list about PE/ELF/DEX/Mach-O packing",
+        "score": 1,
+        "id": "sm6z1x",
+        "commsNum": 0,
+        "timeStamp": "2022/02/06-12:42:18",
+        "author_name": "r4gn4r0x",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://github.com/dhondta/awesome-executable-packing"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I am thinking of setting up a cuckoo sandbox for malware analysis in my company. I have installed Cuckoo sandbox previously in my home lab VM. I need to know Dos/Donts of setting up the sandbox at an enterprise level. Has any done this before over here? Please let me know steps taken to isolate the sandbox from rest of your network. \n\nThanks in Advance.",
+        "title": "Cuckoo Sandbox network setup?",
+        "score": 4,
+        "id": "46x3kt",
+        "commsNum": 7,
+        "timeStamp": "2016/02/21-12:27:43",
+        "author_name": "red_devillz",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/46x3kt/cuckoo_sandbox_network_setup/"
+    },
+    "posts": {}
+}

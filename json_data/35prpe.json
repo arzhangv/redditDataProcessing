@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Win32.Liora.B: GoLang PE infector",
+        "score": 8,
+        "id": "35prpe",
+        "commsNum": 0,
+        "timeStamp": "2015/05/12-07:41:45",
+        "author_name": "guitmz",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://vx.thomazi.me/posts/win32-liora-b"
+    },
+    "posts": {}
+}

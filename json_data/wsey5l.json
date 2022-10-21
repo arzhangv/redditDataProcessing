@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "What would cause android factory or cloned factory apps to have the Bolonyokte YARA signature?",
+        "title": "YARA Signature Bolonyokte",
+        "score": 1,
+        "id": "wsey5l",
+        "commsNum": 0,
+        "timeStamp": "2022/08/19-07:08:07",
+        "author_name": "Awkward-Divide736",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/wsey5l/yara_signature_bolonyokte/"
+    },
+    "posts": {
+        "il2fxoj": {
+            "comment": "The factory apps scanned into sandbox and come back as this YARA have 3 of the banking indicators. None of the apps are banking apps or would even use any banking credentials.",
+            "timeStamp": "2022/08/20-07:00:30",
+            "id": "il2fxoj",
+            "is_submitter": true,
+            "link_id": "t3_wsey5l",
+            "parent_id": "t1_ikzogq7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Awkward-Divide736"
+        },
+        "ikzogq7": {
+            "comment": "Read the YARA rule, then search for matching strings in your application. Pay attention to the conditions of the rule at the bottom since a single match in that rule does not necessarily indicate a detection.\n\nhttps://github.com/DarkenCode/yara-rules/blob/master/malware/Bolonyokte.yar",
+            "timeStamp": "2022/08/19-14:52:22",
+            "id": "ikzogq7",
+            "is_submitter": false,
+            "link_id": "t3_wsey5l",
+            "parent_id": "t3_wsey5l",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Nugsly"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "A Technical Analysis of the Petya Ransomworm",
+        "score": 36,
+        "id": "6k7d52",
+        "commsNum": 3,
+        "timeStamp": "2017/06/29-03:03:24",
+        "author_name": "brokercx",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://blog.fortinet.com/2017/06/28/a-technical-analysis-of-the-petya-ransomworm"
+    },
+    "posts": {}
+}

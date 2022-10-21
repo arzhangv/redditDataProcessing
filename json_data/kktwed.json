@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hi,\n\n i have been using UT Video codec for a while now. Now Virustotal says that it's a virus. I'm conflicted.\n\n&amp;#x200B;\n\n [https://www.virustotal.com/gui/file/658ac55003457b2e76d17961e5db87f144309f5e80a43793929442716df697ba/detection/f-658ac55003457b2e76d17961e5db87f144309f5e80a43793929442716df697ba-1608283625](https://www.virustotal.com/gui/file/658ac55003457b2e76d17961e5db87f144309f5e80a43793929442716df697ba/detection/f-658ac55003457b2e76d17961e5db87f144309f5e80a43793929442716df697ba-1608283625)",
+        "title": "UT Video and Virustotal results",
+        "score": 1,
+        "id": "kktwed",
+        "commsNum": 1,
+        "timeStamp": "2020/12/26-16:57:30",
+        "author_name": "CairoMarquez",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/kktwed/ut_video_and_virustotal_results/"
+    },
+    "posts": {
+        "gh4j0ag": {
+            "comment": "[removed]",
+            "timeStamp": "2020/12/26-17:44:11",
+            "id": "gh4j0ag",
+            "is_submitter": false,
+            "link_id": "t3_kktwed",
+            "parent_id": "t3_kktwed",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

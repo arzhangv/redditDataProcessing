@@ -1,0 +1,99 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Is there anything out there? Would like to start up some virtual machines, with different anti virus vendors, and test some attacks against them.",
+        "title": "Software for testing Anti Virus Capabilities",
+        "score": 5,
+        "id": "6qp485",
+        "commsNum": 7,
+        "timeStamp": "2017/07/31-08:25:31",
+        "author_name": "arexxis",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 7,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6qp485/software_for_testing_anti_virus_capabilities/"
+    },
+    "posts": {
+        "dkzze1x": {
+            "comment": "https://github.com/joxeankoret/multiav\n\nhttp://irma.quarkslab.com/index.html",
+            "timeStamp": "2017/07/31-21:31:28",
+            "id": "dkzze1x",
+            "is_submitter": false,
+            "link_id": "t3_6qp485",
+            "parent_id": "t3_6qp485",
+            "score": 2,
+            "stickied": false,
+            "author_name": "aydiosmio"
+        },
+        "dkzuuc0": {
+            "comment": "Although using VMs is a good idea, executing malware might not be necessary for what you're looking to do. AVs are signature based and will scan files before they're executed. Once you install the AVs in the VM, you can just download a bunch of malware from virusshare or any similar website and just scan the whole directory. Doing that using multiple AVs on a directory with lets say 10k malware samples, you can probably figure out which AVs will miss which malware samples. ",
+            "timeStamp": "2017/07/31-19:37:56",
+            "id": "dkzuuc0",
+            "is_submitter": false,
+            "link_id": "t3_6qp485",
+            "parent_id": "t3_6qp485",
+            "score": 1,
+            "stickied": false,
+            "author_name": "iamaforinvg"
+        },
+        "dkzt8d0": {
+            "comment": "&gt; Cuckoo box\n\nI wish it had static client for OS's that don't have python on. ",
+            "timeStamp": "2017/07/31-19:02:18",
+            "id": "dkzt8d0",
+            "is_submitter": false,
+            "link_id": "t3_6qp485",
+            "parent_id": "t1_dkz3kv4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "PirateGrievous"
+        },
+        "dkzl38v": {
+            "comment": "Pretty much any known malware will be detected by 95% of AVs. If you really want to test it, you're going to have to write your own malware. You could also try running known malware through packers/obfuscators.",
+            "timeStamp": "2017/07/31-16:12:33",
+            "id": "dkzl38v",
+            "is_submitter": false,
+            "link_id": "t3_6qp485",
+            "parent_id": "t1_dkz28jb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Name0fTheUser"
+        },
+        "dkz3kv4": {
+            "comment": "May be worth setting up a Cuckoo box and firing samples at that. \n\nUsually these things are detected statically, by means of Yara rules / hashes / strings. \n\nAlso by heuristics such as checking for functions from API calls. E.g. CreateSnapshot32, processFirst, ProcessNext (enumerating running processes), virtualAllocEX (maybe process injection), NTUnmapSection (maybe hollowing), sleep and so on. \n\n\nGood luck. \n\nThe formatting of this might turn out garbage, 10/10 phone skills. ",
+            "timeStamp": "2017/07/31-10:52:23",
+            "id": "dkz3kv4",
+            "is_submitter": false,
+            "link_id": "t3_6qp485",
+            "parent_id": "t1_dkz28jb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Nexus87626"
+        },
+        "dkz28jb": {
+            "comment": "&gt; virustotal.com\n\nid like to inject viruses, and look how the different antivirus software reacts. not upload samples",
+            "timeStamp": "2017/07/31-10:28:58",
+            "id": "dkz28jb",
+            "is_submitter": true,
+            "link_id": "t3_6qp485",
+            "parent_id": "t1_dkyweht",
+            "score": 2,
+            "stickied": false,
+            "author_name": "arexxis"
+        },
+        "dkyweht": {
+            "comment": "Isn't that what virustotal.com do?",
+            "timeStamp": "2017/07/31-08:44:40",
+            "id": "dkyweht",
+            "is_submitter": false,
+            "link_id": "t3_6qp485",
+            "parent_id": "t3_6qp485",
+            "score": 3,
+            "stickied": false,
+            "author_name": "aronivars"
+        }
+    }
+}

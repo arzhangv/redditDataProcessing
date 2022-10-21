@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Essentials for Security Incident Response Teams",
+        "score": 1,
+        "id": "3npwbi",
+        "commsNum": 0,
+        "timeStamp": "2015/10/06-08:45:28",
+        "author_name": "hamilton_the_animal",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://blog.gaborszathmari.me/2015/10/05/checklist-for-incident-response-teams/"
+    },
+    "posts": {}
+}

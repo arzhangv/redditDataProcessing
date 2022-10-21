@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Just a PSA - I had to do a quick video conversion. I've used Freemake in the past and been happy with it. During installation it tried to install 3 different programs that I did not want. I unchecked all the boxes for all those programs. And still, after it installed, I got some Pluto.tv crap installed that I never asked for. Who knows what else may have gotten installed that I haven't noticed yet. Running Malwarebytes right now. Avoid Freemake at all costs!",
+        "title": "Warning - Do not use Freemake Video Converter",
+        "score": 2,
+        "id": "41ghfo",
+        "commsNum": 9,
+        "timeStamp": "2016/01/17-17:02:52",
+        "author_name": "mjackl",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 9,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/41ghfo/warning_do_not_use_freemake_video_converter/"
+    },
+    "posts": {
+        "ifrlra2": {
+            "comment": "[removed]",
+            "timeStamp": "2022/07/11-13:14:39",
+            "id": "ifrlra2",
+            "is_submitter": false,
+            "link_id": "t3_41ghfo",
+            "parent_id": "t3_41ghfo",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

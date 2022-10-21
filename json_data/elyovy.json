@@ -1,0 +1,132 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Just had to factory reset my computer bc this thing called WinZip wanted me to PAY 30$ to extract files from a zip.",
+        "score": 1,
+        "id": "elyovy",
+        "commsNum": 10,
+        "timeStamp": "2020/01/08-12:52:28",
+        "author_name": "edog37",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 10,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://i.redd.it/zhe4dd87bm941.jpg"
+    },
+    "posts": {
+        "fdq05w0": {
+            "comment": "jfc",
+            "timeStamp": "2020/01/10-01:25:17",
+            "id": "fdq05w0",
+            "is_submitter": false,
+            "link_id": "t3_elyovy",
+            "parent_id": "t3_elyovy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "McNline"
+        },
+        "fdln3jk": {
+            "comment": "[removed]",
+            "timeStamp": "2020/01/08-15:56:12",
+            "id": "fdln3jk",
+            "is_submitter": false,
+            "link_id": "t3_elyovy",
+            "parent_id": "t1_fdll9tm",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fdll9tm": {
+            "comment": "I legitimately thought this post was a joke until I opened up the comments.",
+            "timeStamp": "2020/01/08-15:36:12",
+            "id": "fdll9tm",
+            "is_submitter": false,
+            "link_id": "t3_elyovy",
+            "parent_id": "t3_elyovy",
+            "score": 2,
+            "stickied": false,
+            "author_name": "justablankslate"
+        },
+        "fdlkw5f": {
+            "comment": "...it was a winrar joke. not a what ever this is joke.. \nthis malware was supposed to be the bad guys in the joke.....",
+            "timeStamp": "2020/01/08-15:32:03",
+            "id": "fdlkw5f",
+            "is_submitter": false,
+            "link_id": "t3_elyovy",
+            "parent_id": "t1_fdliz9z",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ei-krem"
+        },
+        "fdliz9z": {
+            "comment": "You can't decline it. Also did you downvote this?just don't get it but whatever.",
+            "timeStamp": "2020/01/08-15:11:02",
+            "id": "fdliz9z",
+            "is_submitter": true,
+            "link_id": "t3_elyovy",
+            "parent_id": "t1_fdlhm3o",
+            "score": 0,
+            "stickied": false,
+            "author_name": "edog37"
+        },
+        "fdlhm3o": {
+            "comment": "i meant like you know you can always decline paying for winrar and you still have full version. so it was a joke about winrar sending some other bad guys to force you to pay for opening zip files :P\n\nbaddum tss",
+            "timeStamp": "2020/01/08-14:56:40",
+            "id": "fdlhm3o",
+            "is_submitter": false,
+            "link_id": "t3_elyovy",
+            "parent_id": "t1_fdlc3m0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ei-krem"
+        },
+        "fdlcv7x": {
+            "comment": "Yeah well it changed that. I checked.",
+            "timeStamp": "2020/01/08-14:08:29",
+            "id": "fdlcv7x",
+            "is_submitter": true,
+            "link_id": "t3_elyovy",
+            "parent_id": "t1_fdlctn4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "edog37"
+        },
+        "fdlctn4": {
+            "comment": "but windows natively supports unzipping files..,",
+            "timeStamp": "2020/01/08-14:08:03",
+            "id": "fdlctn4",
+            "is_submitter": false,
+            "link_id": "t3_elyovy",
+            "parent_id": "t3_elyovy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "robotnikman"
+        },
+        "fdlc3m0": {
+            "comment": "What?\n\nEdit: I forgot to say, I never downloaded it willingly. I tried deleting it, didn't work. It's practically malware",
+            "timeStamp": "2020/01/08-14:00:46",
+            "id": "fdlc3m0",
+            "is_submitter": true,
+            "link_id": "t3_elyovy",
+            "parent_id": "t1_fdl61yc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "edog37"
+        },
+        "fdl61yc": {
+            "comment": "lmao winrar goons commin for you for never paying",
+            "timeStamp": "2020/01/08-13:07:36",
+            "id": "fdl61yc",
+            "is_submitter": false,
+            "link_id": "t3_elyovy",
+            "parent_id": "t3_elyovy",
+            "score": 2,
+            "stickied": false,
+            "author_name": "ei-krem"
+        }
+    }
+}

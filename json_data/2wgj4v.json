@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Don\u2019t Buy Lenovo, They Pre-Install Malware. Lenovo PCs ship with man-in-the-middle adware that breaks HTTPS connections.",
+        "score": 2,
+        "id": "2wgj4v",
+        "commsNum": 0,
+        "timeStamp": "2015/02/19-11:03:25",
+        "author_name": "ucccft",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://arstechnica.com/security/2015/02/lenovo-pcs-ship-with-man-in-the-middle-adware-that-breaks-https-connections/"
+    },
+    "posts": {}
+}

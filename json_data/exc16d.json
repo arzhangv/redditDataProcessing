@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I was finally able to get some really stubborn root kit file after having it first infect my computer on the first of November. I used all of the top malware, altivirus, and rootkit programs and, believe it or not, it couldn't find it. Finally I ran Bitdefender in the rescue environment before it came across [Rtkhdasetting.zip](https://Rtkhdasetting.zip) in the System32 folder, which was password protected so as to not get scanned and discovered, and a few scattered bits of infected Realtek audio drivers, which I reinstalled. The only lingering effects are my trackpad still goes off and on from time to time so I think the driver itself may still have problems. I just found the files and had Bitdefender shred them or just dragged them to the trash can and deleted them. So far Windows 10 is able to operate fine, I think, without too much getting messed-up.\n\nBack in November I did do a fresh reinstall, yes from a USB drive, and this still stayed in the system folder, inexplicably. It was so frustrating because I thought I had it then 2 weeks later I would be using a banking app on the computer and my mouse would go crazy trying to click around the site after high-jacking my mouse. \n\nTook all of the .zip files out from the system folder and anything password protected from the Rescue Environment so I think I'm okay, for now. Is there any way to know for sure that it's gone. I spent a few hours going line by line through the Task Manager for active and background processes and it all looked okay, but I was fooled by thinking that, as rootkits do, what I was seeing was a normal corrupted Windows process.",
+        "title": "Stubbern Rootkit Trojan Rtkhdasetting",
+        "score": 1,
+        "id": "exc16d",
+        "commsNum": 2,
+        "timeStamp": "2020/02/01-12:24:41",
+        "author_name": "EnglishEditor",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/exc16d/stubbern_rootkit_trojan_rtkhdasetting/"
+    },
+    "posts": {
+        "hlvbi0g": {
+            "comment": "ik this is a year old but I\u2019ve had this pop up in a bit defender scan but apparently it\u2019s just the payload to install Realtek and not harmful?",
+            "timeStamp": "2021/11/23-22:05:16",
+            "id": "hlvbi0g",
+            "is_submitter": false,
+            "link_id": "t3_exc16d",
+            "parent_id": "t3_exc16d",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Hompible"
+        },
+        "fjwmltg": {
+            "comment": "[removed]",
+            "timeStamp": "2020/03/07-20:19:07",
+            "id": "fjwmltg",
+            "is_submitter": false,
+            "link_id": "t3_exc16d",
+            "parent_id": "t3_exc16d",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fgqu7ta": {
+            "comment": "Update. We installing windows 10. Long story.",
+            "timeStamp": "2020/02/06-15:26:32",
+            "id": "fgqu7ta",
+            "is_submitter": true,
+            "link_id": "t3_exc16d",
+            "parent_id": "t3_exc16d",
+            "score": 1,
+            "stickied": false,
+            "author_name": "EnglishEditor"
+        }
+    }
+}

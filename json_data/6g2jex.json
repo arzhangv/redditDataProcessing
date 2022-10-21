@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hello,\n\nDoes anyone have a list of known BitSight sinkholes? A customer of ours paid them for one of their scorecard thingies, and we got an \"F\" in malware because they didn't discriminate between corporate infrastructure (which is secured), and our guest network we dump onto the internet and doesn't touch our corporate areas without passing through secure infrastructure like firewalls.\n\nAnd since their sinkholes viewed some infections (some ended 3 months ago, nothing more recent) only from our NAT, we're trying to figure out how to track down these \"Guest\" systems, and ensure no corporate ones are running w/o Anti-Virus... Our India network (which this reported on for the most part) is like the wild west, and their guest network is probably like Doom.\n\nI'm trying to make sure we can identify hosts that phone home in the future and deal with them, since any host with such malware doesn't have our A/V on it....\n\nAnybody have any links? If no, no worries!\n\nEDIT: without ANTI-VIRUS!!! Ensure they're not running without anti-virus! Not malware!! :-P",
+        "title": "BitSight Sinkhole List?",
+        "score": 10,
+        "id": "6g2jex",
+        "commsNum": 3,
+        "timeStamp": "2017/06/08-10:47:51",
+        "author_name": "Sam-Gunn",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/6g2jex/bitsight_sinkhole_list/"
+    },
+    "posts": {}
+}

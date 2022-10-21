@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Malware Alert again !! It can control all your device : GhostCtrl",
+        "score": 3,
+        "id": "6nvetr",
+        "commsNum": 1,
+        "timeStamp": "2017/07/17-12:29:53",
+        "author_name": "karanvaghasiya",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.cyberinject.com/malware-alert-can-control-device/"
+    },
+    "posts": {
+        "dkchmh2": {
+            "comment": "[removed]",
+            "timeStamp": "2017/07/17-12:31:26",
+            "id": "dkchmh2",
+            "is_submitter": false,
+            "link_id": "t3_6nvetr",
+            "parent_id": "t3_6nvetr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

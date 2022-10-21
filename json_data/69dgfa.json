@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Threat actors leverage the KONNI Malware to target organizations linked to North Korea",
+        "score": 1,
+        "id": "69dgfa",
+        "commsNum": 0,
+        "timeStamp": "2017/05/05-01:24:01",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/58755/malware/konni-malware-campaigns.html"
+    },
+    "posts": {}
+}

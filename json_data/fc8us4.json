@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Since 2019, various industries around the world have been affected by massive cyber attacks by the TA505 threat group.\n\n\\* TA505(Threat Actor 505) : The threat group that has attacked foreign financial institutions by using malwares, ransomwares and remote-controlled malwares since 2014.\n\nBased on the information gathered by the Financial Security Institute for about a year, this report contains the TA505 threat group's tactics, techniques, procedures and recent trends.\n\n[Link](https://www.fsec.or.kr/user/bbs/fsec/163/344/bbsDataView/1382.do?page=1&amp;column=&amp;search=&amp;searchSDate=&amp;searchEDate=&amp;bbsDataCategory=)",
+        "title": "[Intelligence Report] Profiling of TA505 Threat Group",
+        "score": 1,
+        "id": "fc8us4",
+        "commsNum": 4,
+        "timeStamp": "2020/03/02-00:01:36",
+        "author_name": "montouesto",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/fc8us4/intelligence_report_profiling_of_ta505_threat/"
+    },
+    "posts": {
+        "fpo929h": {
+            "comment": "[removed]",
+            "timeStamp": "2020/05/06-08:54:47",
+            "id": "fpo929h",
+            "is_submitter": false,
+            "link_id": "t3_fc8us4",
+            "parent_id": "t1_fja0zhj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "fjb7gtw": {
+            "comment": "Hmmmm\n\nhttps://i.imgur.com/Yn3sJ8I.png",
+            "timeStamp": "2020/03/02-14:26:51",
+            "id": "fjb7gtw",
+            "is_submitter": false,
+            "link_id": "t3_fc8us4",
+            "parent_id": "t1_fj9zc1y",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TheCrowGrandfather"
+        },
+        "fja0zhj": {
+            "comment": "Looks legit.",
+            "timeStamp": "2020/03/02-07:48:01",
+            "id": "fja0zhj",
+            "is_submitter": false,
+            "link_id": "t3_fc8us4",
+            "parent_id": "t1_fj9zc1y",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sephstorm"
+        },
+        "fj9zc1y": {
+            "comment": "Just click that link to find out how........",
+            "timeStamp": "2020/03/02-07:31:07",
+            "id": "fj9zc1y",
+            "is_submitter": false,
+            "link_id": "t3_fc8us4",
+            "parent_id": "t3_fc8us4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TeddyCJ"
+        }
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I recently noticed an unfamiliar extension I don't remember downloading, it's called \"Search in Tabs\" and chrome says it contains malware, how do I get rid of it, since I can't see the remove button for it.\n\nhttps://preview.redd.it/ujdt46vn2lx71.png?width=1920&amp;format=png&amp;auto=webp&amp;s=6197dd342f5fa98c7cd9a0502b2c54b46abde430",
+        "title": "How do I get rid \"Search in Tabs\" Malware Extension",
+        "score": 1,
+        "id": "qml0nb",
+        "commsNum": 5,
+        "timeStamp": "2021/11/04-06:50:30",
+        "author_name": "pretaswift",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 5,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/qml0nb/how_do_i_get_rid_search_in_tabs_malware_extension/"
+    },
+    "posts": {
+        "hjafqnx": {
+            "comment": "Malwarebytes ADWCleaner",
+            "timeStamp": "2021/11/04-08:03:28",
+            "id": "hjafqnx",
+            "is_submitter": false,
+            "link_id": "t3_qml0nb",
+            "parent_id": "t3_qml0nb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "kzintech"
+        },
+        "hjaet9z": {
+            "comment": "[removed]",
+            "timeStamp": "2021/11/04-07:57:17",
+            "id": "hjaet9z",
+            "is_submitter": false,
+            "link_id": "t3_qml0nb",
+            "parent_id": "t1_hjab610",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "hjab610": {
+            "comment": "1. run an antivirus\n2. delete chrome\n3. install brave or firefox",
+            "timeStamp": "2021/11/04-07:32:48",
+            "id": "hjab610",
+            "is_submitter": false,
+            "link_id": "t3_qml0nb",
+            "parent_id": "t3_qml0nb",
+            "score": 0,
+            "stickied": false,
+            "author_name": "ROGguy08"
+        },
+        "hjab0ju": {
+            "comment": "shut up",
+            "timeStamp": "2021/11/04-07:31:46",
+            "id": "hjab0ju",
+            "is_submitter": false,
+            "link_id": "t3_qml0nb",
+            "parent_id": "t1_hja6q8x",
+            "score": -4,
+            "stickied": false,
+            "author_name": "ROGguy08"
+        },
+        "hja6q8x": {
+            "comment": "/r/techsupport",
+            "timeStamp": "2021/11/04-07:01:14",
+            "id": "hja6q8x",
+            "is_submitter": false,
+            "link_id": "t3_qml0nb",
+            "parent_id": "t3_qml0nb",
+            "score": 5,
+            "stickied": false,
+            "author_name": "Wouldratherplaymtg"
+        }
+    }
+}

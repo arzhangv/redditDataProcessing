@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hello /r/Malware! I have come in contact with a file that i know for a fact has a virus on it. It is an exe,or as the description says a \"Application\". I have it in a virtual machine with no connection to the host computer(shared folders is off, virtual network), any suggestions on how i can dissect this and see how it works for educational purposes? Thanks in advanced. ",
+        "title": "Help needed with dissecting a piece of Malware?",
+        "score": 7,
+        "id": "2yirka",
+        "commsNum": 10,
+        "timeStamp": "2015/03/09-20:32:33",
+        "author_name": "[deleted]",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 10,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/2yirka/help_needed_with_dissecting_a_piece_of_malware/"
+    },
+    "posts": {}
+}

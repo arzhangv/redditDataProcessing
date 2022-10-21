@@ -1,0 +1,132 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Autoruns is a great tool to do forensic on a Windows machine and find persistent executables/dlls/drivers. \n\nSo is there any Equivalent tool in Linux that does the same thing?",
+        "title": "Autoruns Equivalent in Linux for forensic",
+        "score": 1,
+        "id": "vyw2qy",
+        "commsNum": 0,
+        "timeStamp": "2022/07/14-06:36:12",
+        "author_name": "Ro0o0otkit",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/vyw2qy/autoruns_equivalent_in_linux_for_forensic/"
+    },
+    "posts": {
+        "ig9322m": {
+            "comment": "No.",
+            "timeStamp": "2022/07/15-04:43:18",
+            "id": "ig9322m",
+            "is_submitter": false,
+            "link_id": "t3_vyw2qy",
+            "parent_id": "t3_vyw2qy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "blabbities"
+        },
+        "ig813hd": {
+            "comment": "There's some linux enum scripts that are used for priv esc that would work well for this ironically. Just Google Linux priv esc and you'll find em.",
+            "timeStamp": "2022/07/14-21:10:21",
+            "id": "ig813hd",
+            "is_submitter": false,
+            "link_id": "t3_vyw2qy",
+            "parent_id": "t3_vyw2qy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "concmap"
+        },
+        "ig7ngpj": {
+            "comment": "So start from the ground and work your way up. If one does not exist you can write your own.\n\nThere is a pdf that goes over Linux artifacts and there locations.\n\nShamim also works on Linux now so you could easily install reboot capture the data\u2026 reboot again capture the data\u2026 and repeat as needed to determine what services start on every boot.\n\nMaybe even start with the Linux comparable for the tabs listed in autoruns. Map those and then sort through the locations on disk.\n\nSo even if one does exist you need to be able to ensure it is as complete and comprehensible as possible. Understanding how things work is harder but will pay back dividends in the long run.\n\nBest of luck with your research.",
+            "timeStamp": "2022/07/14-19:16:09",
+            "id": "ig7ngpj",
+            "is_submitter": false,
+            "link_id": "t3_vyw2qy",
+            "parent_id": "t3_vyw2qy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "HomeGrownCoder"
+        },
+        "ig5y16d": {
+            "comment": "[removed]",
+            "timeStamp": "2022/07/14-12:03:30",
+            "id": "ig5y16d",
+            "is_submitter": false,
+            "link_id": "t3_vyw2qy",
+            "parent_id": "t1_ig5ois0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ig5ois0": {
+            "comment": "Yes but there are a lot of more persistence techniques in Linux than those three.",
+            "timeStamp": "2022/07/14-11:03:18",
+            "id": "ig5ois0",
+            "is_submitter": true,
+            "link_id": "t3_vyw2qy",
+            "parent_id": "t1_ig4wukk",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Ro0o0otkit"
+        },
+        "ig562zg": {
+            "comment": "Dope. \n\nThank you.",
+            "timeStamp": "2022/07/14-09:06:49",
+            "id": "ig562zg",
+            "is_submitter": false,
+            "link_id": "t3_vyw2qy",
+            "parent_id": "t1_ig4pbgt",
+            "score": 1,
+            "stickied": false,
+            "author_name": "M1904Trading"
+        },
+        "ig4yc8r": {
+            "comment": "Maybe an elf file, if you cannot modify existing init files?",
+            "timeStamp": "2022/07/14-08:17:31",
+            "id": "ig4yc8r",
+            "is_submitter": false,
+            "link_id": "t3_vyw2qy",
+            "parent_id": "t3_vyw2qy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Randomteen03"
+        },
+        "ig4wukk": {
+            "comment": "Do you mean find all the running services that start automatically on Linux boxes?  Like stuff started by init.d and rc.local and cron.d and such?  Those locations are pretty well documented but vary by distribution.",
+            "timeStamp": "2022/07/14-08:07:53",
+            "id": "ig4wukk",
+            "is_submitter": false,
+            "link_id": "t3_vyw2qy",
+            "parent_id": "t3_vyw2qy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "venerable4bede"
+        },
+        "ig4s9q1": {
+            "comment": "[removed]",
+            "timeStamp": "2022/07/14-07:37:56",
+            "id": "ig4s9q1",
+            "is_submitter": false,
+            "link_id": "t3_vyw2qy",
+            "parent_id": "t3_vyw2qy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ig4pbgt": {
+            "comment": "Sans.org has a whole list of free vms most of wich are linux based \n\nhttps://www.sans.org/tools/?msc=main-nav",
+            "timeStamp": "2022/07/14-07:18:04",
+            "id": "ig4pbgt",
+            "is_submitter": false,
+            "link_id": "t3_vyw2qy",
+            "parent_id": "t3_vyw2qy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "hungeryhoovy"
+        }
+    }
+}

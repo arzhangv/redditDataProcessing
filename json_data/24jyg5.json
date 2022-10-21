@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Dragos Ruiu discover of BadBIOS found that BadBIOS uses TT (TrueType) font. \"It is said to use TTF (font) files, apparently in large numbers, as a vector when spreading. Don\u2019t know details of the internals of TTF files, but they should certainly have enough space.\" http://blogs.securiteam.com/index.php/archives/2261\n\nI too found that BadBIOS uses fonts. Msec is Mandriva Security Package. Meiga and PCLinuxOS are forks of Mandriva. Msec is preinstalled in these linux distros.\n\nOffline, I booted to a live Meiga DVD. The msec security log reported eight world writable files including /tmp.font-unix. The log is below. \n\nWorld Writable files are files that the owner, group and other can write to.  \"World-writable files, particularly system files, can be a security hole if a cracker gains access to your system and modifies them. Additionally, world-writable directories are dangerous, since they allow a cracker to add or delete files as he wishes. To locate all world-writable files on your system, use the following command: root# find / -perm -2 ! -type l -ls and be sure you know why those files are writable.\" http://tldp.org/HOWTO/Security-HOWTO/file-security.html\n\nThat was the first and last time I was able to read a msec log. Thereafter, I was denied the file permissions to read msec log in live Mageia DVDs and PCLinuxOS DVD purchased from OSDisc.com. This morning, I booted offline to live PCLinuxOS FullMonty DVD from OSDisc.com. I did not have the file permission to read the file. File permissions of /var/log/msec.log:\n\nOwner: read and write\nGroup: read\nOthers: forbidden\nUser: root\nGroup: root\n\nLogging in as root does not grant me actual root privileges. Logging in as root is fakeroot. \"fakeroot provides a fake root environment by means of LD_PRELOAD and SYSV IPC (or TCP) trickery.\" http://fakeroot.alioth.debian.org/\n\nFor file permissions of other security logs (/var/log/security.log, var/log/squid and /var/log/rkhunter-cronjob) and file permissions of removable media and personal files, see thread titled 'BadBIOS hijacks File Permissions.'\n\nBadBIOS starts up FontMatrix and gFTP to download over 200 fonts. BadBIOS starts up TeX to use TeX font metric (TFM). See http://www.reddit.com/r/Malware/comments/23fxaa/badbios_live_linux_dvds_persistent_storage/\n\n*** Security Check, Nov 22 20:02:23 ***\n*** Check type: weekly ***\n*** Check executed from: /etc/cron.weekly/msec ***\nReport summary:\nTest started: Nov 22 20:02:23\nTest finished: Nov 22 20:02:35\nTotal of Suid Root files: 28\nTotal of Sgid files: 13\nTotal of World Writable files: 8\nTotal of Un-owned files: 0\nTotal of Un-owned group files: 0\nTotal of SUID files with controlled MD5 checksum: 28\nTotal of installed packages: 1278\nChkrootkit check: skipped (chkrootkit not found)\n\nDetailed report:\n\nSecurity Warning: World Writable files found :\n- /tmp/.font-unix\n- /tmp/.ICE-unix\n- /tmp/systemd-namespace-a21Wif/private\n- /tmp/.Test-unix\n- /tmp/.X11-unix\n- /tmp/.XIM-unix\n- /var/lib/lock/sane\n- /var/lib/xkb\n\nChkrootkit check skipped: chkrootkit not found=\n\nCould BadBIOS infected Redditors please ascertain whether they can read their msec log and other security logs and whether /tmp/.font-unix is world writeable? If so, can you change the file permissions? Are your font applications (FontMatrix, TeX, etc.) downloading fonts via gFTP?",
+        "title": "BadBIOS font evidence",
+        "score": 0,
+        "id": "24jyg5",
+        "commsNum": 0,
+        "timeStamp": "2014/05/02-09:54:55",
+        "author_name": "BadBiosvictim",
+        "is_self": true,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://www.reddit.com/r/Malware/comments/24jyg5/badbios_font_evidence/"
+    },
+    "posts": {}
+}

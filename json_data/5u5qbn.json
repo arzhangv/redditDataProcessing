@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "BitDefender found the first MAC OS version of the X-Agent used by the APT28",
+        "score": 1,
+        "id": "5u5qbn",
+        "commsNum": 0,
+        "timeStamp": "2017/02/14-21:53:26",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/56299/apt/x-agent-apt-28.html"
+    },
+    "posts": {}
+}

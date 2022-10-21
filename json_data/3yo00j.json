@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I've got several hundred computers with a centrally managed AV (engine provided by Vipre), and recently I've got two machines that are displaying some odd behavior. Several times throughout the day, the AV will detect (on-access, not via a scan) about a dozen instances of the EICAR test file, and successfully quarantine it. The files are in the format\n\n    C:\\Windows\\Temp\\tmp000060e4\\tmp00000003\n\nI've already had my tech go onsite once to run some basic MBAM scans etc, but nothing came up so far. I'm about to schedule him to do some more in-depth analysis, but so far I've never seen action like this from malware. Have you ever run into any malware (or other software, for that matter) that repeatedly drops the EICAR file?",
+        "title": "Malware or other tools repeatedly dropping the EICAR file?",
+        "score": 6,
+        "id": "3yo00j",
+        "commsNum": 12,
+        "timeStamp": "2015/12/29-08:03:54",
+        "author_name": "DraugTheWhopper",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 12,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/3yo00j/malware_or_other_tools_repeatedly_dropping_the/"
+    },
+    "posts": {}
+}

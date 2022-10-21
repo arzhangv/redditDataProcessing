@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[removed]",
+        "title": "Nvd3d9wrap.dll calling VirtualAlloc instead of the exe?",
+        "score": 1,
+        "id": "ejz4g2",
+        "commsNum": 2,
+        "timeStamp": "2020/01/04-09:02:00",
+        "author_name": "EvilSapphire",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ejz4g2/nvd3d9wrapdll_calling_virtualalloc_instead_of_the/"
+    },
+    "posts": {
+        "fd3dsef": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2020/01/04-09:02:00",
+            "id": "fd3dsef",
+            "is_submitter": false,
+            "link_id": "t3_ejz4g2",
+            "parent_id": "t3_ejz4g2",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I found this executable on one of my family members computer called 'Network Security 2.2 Ver.exe' It claims to be an 'Internal Network Firewall' from Microsoft Corporation (is not signed though). When you run it, it starts the 'Batch to Exe Converter' ASCII intro animation from ([https://www.battoexeconverter.com/](https://www.battoexeconverter.com/)). Then it starts a batch script that looks like this ([https://pastebin.com/RNtNLRkQ](https://pastebin.com/RNtNLRkQ)). I am certain that this is malware. I haven't found that much reference to  it though, only two web pages [This Microsoft Forum](https://answers.microsoft.com/en-us/windows/forum/windows_10-security/microsoft-network-security-22-update/a6ef7703-cf82-495e-86ef-743f8e00aece) and [This Herd Project Page.](https://www.herdprotect.com/knowledgebase_resource.aspx?sha1=0f7303ceaf2637443f5f6607a2e798adca4efa67) \n\nDoes anyone recognize this piece of malware? And what tools can I use to further investigate it?",
+        "title": "'Network Security 2.2 Ver 2.2.exe'",
+        "score": 0,
+        "id": "ddvmp3",
+        "commsNum": 6,
+        "timeStamp": "2019/10/05-17:03:00",
+        "author_name": "TissueBox_Major",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/ddvmp3/network_security_22_ver_22exe/"
+    },
+    "posts": {
+        "f2obtzj": {
+            "comment": "You are correct. I ran it in [any.run (link here)](https://app.any.run/tasks/98f3c5ec-ec74-4ab3-9103-181cbc57b991/) and it appears that the program doesn't change the computer except for a few temporary files. It's a dummy program. As for how my family member got it, I have no idea, and probably will never know (he's old, won't remember). If he payed money, I'm sure he would have said something to me since I'm the \"tech guy\". Probably downloaded it by mistake, somehow got onto his desktop.",
+            "timeStamp": "2019/10/05-18:36:32",
+            "id": "f2obtzj",
+            "is_submitter": true,
+            "link_id": "t3_ddvmp3",
+            "parent_id": "t1_f2nzr37",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TissueBox_Major"
+        },
+        "f2oas7y": {
+            "comment": "Thank You. [any.run](https://any.run) helped me a lot GREAT SITE!",
+            "timeStamp": "2019/10/05-18:29:03",
+            "id": "f2oas7y",
+            "is_submitter": true,
+            "link_id": "t3_ddvmp3",
+            "parent_id": "t1_f2ny0j1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "TissueBox_Major"
+        },
+        "f2nzr37": {
+            "comment": "I concur with this , the Batch file is harmless and all it does to fool people to think some software is installed and ask money to manage it . yet you to check who it got in the system first ? did you family member click any online proclaiming their system was infected ? hope they haven't paid some scammers money",
+            "timeStamp": "2019/10/05-17:23:41",
+            "id": "f2nzr37",
+            "is_submitter": false,
+            "link_id": "t3_ddvmp3",
+            "parent_id": "t1_f2nyqfo",
+            "score": 3,
+            "stickied": false,
+            "author_name": "vinumsv"
+        },
+        "f2nyqfo": {
+            "comment": "Maybe not malware specifically, but looks like the output in Pastebin is from the TREE command, which just spits out a directory listing of the drive or folder it's run from. Chances are this is just a self-extracting way for scammers to run some commands via batch scripting without having to type them.\n\nScammers usually do this to make their \"service\" seem legit when calling unsuspecting victims in order to convince them to pay. Ask the family member of they received a scam call from anyone claiming to be from Microsoft, and more importantly, as if they provided ANY personal details or payment information.\n\nScanning the computer using MBAM in hopes that it finds and removes stuff is a good start, however, if the family member isn't too tech savvy and can't remember what they did to get this EXE file, the only way to be 100% sure the machine is clean is to pave and nuke Windows.",
+            "timeStamp": "2019/10/05-17:18:38",
+            "id": "f2nyqfo",
+            "is_submitter": false,
+            "link_id": "t3_ddvmp3",
+            "parent_id": "t3_ddvmp3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "kirashi3"
+        },
+        "f2ny0j1": {
+            "comment": "You could try detonating it in any.run. I\u2019ve heard great things about that website and maybe throw it into VirusTotal. For static analysis, I would start with strings then move from there",
+            "timeStamp": "2019/10/05-17:15:12",
+            "id": "f2ny0j1",
+            "is_submitter": false,
+            "link_id": "t3_ddvmp3",
+            "parent_id": "t3_ddvmp3",
+            "score": 2,
+            "stickied": false,
+            "author_name": "ra1der_"
+        },
+        "f2nwd3b": {
+            "comment": "[removed]",
+            "timeStamp": "2019/10/05-17:07:10",
+            "id": "f2nwd3b",
+            "is_submitter": false,
+            "link_id": "t3_ddvmp3",
+            "parent_id": "t3_ddvmp3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hi All,\n\nRecently I have read an article , How to get some basic information from wireshark on suspicious traffic. In Hypertext Transfer Protocol field under data section, below information I have observed.\n\nExample:\n\nData: 1200270000000a0000005858585858313131313101000600\u2026\n\n&amp;#x200B;\n\nMeaning:\n\n1200 - it was specified as lokibot\n\n  27 implies Exfiltrate \n\nand then\n\n  28 implies Get C2 commands \n\nPlease let me know any resources available to refer what is the actual meaning for this kind of hex value example (27 means Exfiltrate , 28 means Get C2 commands, 2b means Exfiltrate Keylogger Data   ).\n\n&amp;#x200B;\n\nThanks in advance.",
+        "title": "Wireshark_Hypertext Transfer Protocol",
+        "score": 1,
+        "id": "id4z1x",
+        "commsNum": 4,
+        "timeStamp": "2020/08/19-23:13:28",
+        "author_name": "vyasarvenkat",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/id4z1x/wireshark_hypertext_transfer_protocol/"
+    },
+    "posts": {
+        "g2h9g0b": {
+            "comment": "Thanks",
+            "timeStamp": "2020/08/22-08:14:39",
+            "id": "g2h9g0b",
+            "is_submitter": false,
+            "link_id": "t3_id4z1x",
+            "parent_id": "t1_g26u2g7",
+            "score": 1,
+            "stickied": false,
+            "author_name": "macgeek89"
+        },
+        "g26won9": {
+            "comment": "Take a look at page 131/132 in the SANS paper on LokiBot: [https://www.sans.org/reading-room/whitepapers/malicious/loki-bot-information-stealer-keylogger-more-37850](https://www.sans.org/reading-room/whitepapers/malicious/loki-bot-information-stealer-keylogger-more-37850)\n\nIt has a pretty comprehensive table of the C2 traffic packet structure.",
+            "timeStamp": "2020/08/20-00:26:12",
+            "id": "g26won9",
+            "is_submitter": false,
+            "link_id": "t3_id4z1x",
+            "parent_id": "t3_id4z1x",
+            "score": 1,
+            "stickied": false,
+            "author_name": "dont_ban_me_bruh"
+        },
+        "g26u2g7": {
+            "comment": "You can have a look from the book \"Hands on Network forensics\" from Packt publication page no. 169",
+            "timeStamp": "2020/08/19-23:45:06",
+            "id": "g26u2g7",
+            "is_submitter": true,
+            "link_id": "t3_id4z1x",
+            "parent_id": "t1_g26s7lh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "vyasarvenkat"
+        },
+        "g26s7lh": {
+            "comment": "Can you provide the article for better context ?",
+            "timeStamp": "2020/08/19-23:17:11",
+            "id": "g26s7lh",
+            "is_submitter": false,
+            "link_id": "t3_id4z1x",
+            "parent_id": "t3_id4z1x",
+            "score": 1,
+            "stickied": false,
+            "author_name": "macgeek89"
+        }
+    }
+}

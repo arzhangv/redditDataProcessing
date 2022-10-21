@@ -1,0 +1,66 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Hi all. As the title suggests, I'm looking for an old variant of the LovGate mass emailing worm from 2003-2004. I tracked down an MD5 for the file in question; 42ab20ee5f4757a44edff753bc508840 but I haven't been able to find any hits on VirusShare, AnyRun or VX Vault. I reckon this is down to the age of the malware. I can't afford a VirusTotal Intelligence package even though they have the file I need. I am a malware analyst by trade but I cannot remove samples from the office for obvious reasons. Any help would be appreciated.",
+        "title": "I'm looking for an old LovGate sample, circa '03-'04.",
+        "score": 1,
+        "id": "hsc2i1",
+        "commsNum": 4,
+        "timeStamp": "2020/07/16-08:53:17",
+        "author_name": "reverse_or_forward",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 4,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/hsc2i1/im_looking_for_an_old_lovgate_sample_circa_0304/"
+    },
+    "posts": {
+        "fyc5wix": {
+            "comment": "&gt;42ab20ee5f4757a44edff753bc508840 \n\nSounds good, you can message me if you still need it.",
+            "timeStamp": "2020/07/17-00:09:26",
+            "id": "fyc5wix",
+            "is_submitter": false,
+            "link_id": "t3_hsc2i1",
+            "parent_id": "t1_fyandsb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mmorgens82"
+        },
+        "fyb29ff": {
+            "comment": "You can PM me.",
+            "timeStamp": "2020/07/16-16:40:03",
+            "id": "fyb29ff",
+            "is_submitter": false,
+            "link_id": "t3_hsc2i1",
+            "parent_id": "t3_hsc2i1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "iamforgettable"
+        },
+        "fyandsb": {
+            "comment": "Teaching malware analysis at a boot camp. It's a pretty decent first sample to reverse engineer.",
+            "timeStamp": "2020/07/16-14:27:59",
+            "id": "fyandsb",
+            "is_submitter": true,
+            "link_id": "t3_hsc2i1",
+            "parent_id": "t1_fyak6pq",
+            "score": 1,
+            "stickied": false,
+            "author_name": "reverse_or_forward"
+        },
+        "fyak6pq": {
+            "comment": "What do you need it for?",
+            "timeStamp": "2020/07/16-14:02:03",
+            "id": "fyak6pq",
+            "is_submitter": false,
+            "link_id": "t3_hsc2i1",
+            "parent_id": "t3_hsc2i1",
+            "score": 1,
+            "stickied": false,
+            "author_name": "mmorgens82"
+        }
+    }
+}

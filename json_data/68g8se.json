@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[deleted]",
+        "title": "outis is a custom Remote Administration Tool (RAT) or something like that. Think Meterpreter or Empire-Agent. However, the focus of this tool is neither an exploit toolkit (there are no exploits) nor persistent management of targets...",
+        "score": 1,
+        "id": "68g8se",
+        "commsNum": 0,
+        "timeStamp": "2017/04/30-09:14:41",
+        "author_name": "[deleted]",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://github.com/SySS-Research/outis"
+    },
+    "posts": {}
+}

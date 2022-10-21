@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Someone posted about this on /r/3Dprinting yesterday, where the included FTD USB drivers are being detected as having [Win.Virus.Sality-6824005-0 from ClamAV](https://www.virustotal.com/gui/file/3b0129a0fcd4f5ca649444358afdf852c878a2f539be897bf0519d07e8561413/detection).\n\nNothing else has picked it up so it's probably a false positive, however the person that discovered it reported that it \"did seem to open a series of dll files in system32, write a bunch of registry edits, generated mutexes, and created a number of runtime modules\".\n\nThis is probably not a big concern, but this is one of the most popular 3D Printers on the market and it has definitely raised some alarm. Someone from the ClamAV team said they would check it out, but figured it may be of interest here. I'm hosting it on my personal site for now if anyone wants to check it out.\n\n[FTDIUNIN.exe download](https://letsprint3d.net/FTDIUNIN.exe)",
+        "title": "3D Printer SD Card being distributed with potential malware",
+        "score": 21,
+        "id": "c6ndg4",
+        "commsNum": 6,
+        "timeStamp": "2019/06/28-10:58:19",
+        "author_name": "DinnerMilk",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/c6ndg4/3d_printer_sd_card_being_distributed_with/"
+    },
+    "posts": {
+        "esbycgy": {
+            "comment": "There's a few instances of this popping up. I'm due a blog post to write on the topic, but in the case of a CR-10 printer it was a false positive. It alerted because it used a very niche Chinese programming language as the installer. That same language was used years ago in a fairly wide malware campaign, so AV engines decided that everything using that language was bad.",
+            "timeStamp": "2019/06/29-06:41:12",
+            "id": "esbycgy",
+            "is_submitter": false,
+            "link_id": "t3_c6ndg4",
+            "parent_id": "t3_c6ndg4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "LightningRurik"
+        },
+        "esaiqfc": {
+            "comment": "Excellent analysis, thank you!",
+            "timeStamp": "2019/06/28-15:22:52",
+            "id": "esaiqfc",
+            "is_submitter": true,
+            "link_id": "t3_c6ndg4",
+            "parent_id": "t1_esag275",
+            "score": 1,
+            "stickied": false,
+            "author_name": "DinnerMilk"
+        },
+        "esag275": {
+            "comment": "Its a ClamAV false positive :\n\n&amp;#x200B;\n\nClam AV is checking for following string mainly (PDB path left in by compiler)\n\n`c:\\Development\\Util\\Unin\\4.00.04\\Release\\FTDIUNIN.pdb`\n\n&amp;#x200B;\n\n[Originally some Sality samples](https://www.virustotal.com/gui/file/ec1c45aa748b497d3c78f28b54455543fc01079454fd65d8bc0a99d718142cf8/details) injected code into the uninstaller. You can look at the infected Sality sample with [rsrc section with high entropy](https://imgur.com/3Z9HXln) meaning the malware code likely is packed in there. [Compare it to current file](https://imgur.com/of3bHvo) in question which is clean.",
+            "timeStamp": "2019/06/28-14:52:59",
+            "id": "esag275",
+            "is_submitter": false,
+            "link_id": "t3_c6ndg4",
+            "parent_id": "t3_c6ndg4",
+            "score": 4,
+            "stickied": false,
+            "author_name": "NinjaYoda"
+        },
+        "esa8dvm": {
+            "comment": "Absolutely, only 1 of 72 actually picked this up so it definitely seems like a false positive. Just better to be safe than sorry and figured I would throw the file up here to see if anyone wanted to check it out. Thousands of these are being distributed and Chinese 3D Printer manufacturers aren't exactly known for doing their due diligence.",
+            "timeStamp": "2019/06/28-13:31:11",
+            "id": "esa8dvm",
+            "is_submitter": true,
+            "link_id": "t3_c6ndg4",
+            "parent_id": "t1_esa3rbi",
+            "score": 2,
+            "stickied": false,
+            "author_name": "DinnerMilk"
+        },
+        "esa3rbi": {
+            "comment": "All I know is antivirus false positives are very common and more people need to know this. As a software developer, it is a huge headache!",
+            "timeStamp": "2019/06/28-12:40:37",
+            "id": "esa3rbi",
+            "is_submitter": false,
+            "link_id": "t3_c6ndg4",
+            "parent_id": "t3_c6ndg4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "CodeExplode"
+        },
+        "es9yahw": {
+            "comment": "Found the Virustotal report  [https://www.virustotal.com/gui/file/3b0129a0fcd4f5ca649444358afdf852c878a2f539be897bf0519d07e8561413/behavior/Tencent%20HABO](https://www.virustotal.com/gui/file/3b0129a0fcd4f5ca649444358afdf852c878a2f539be897bf0519d07e8561413/behavior/Tencent%20HABO)",
+            "timeStamp": "2019/06/28-11:41:10",
+            "id": "es9yahw",
+            "is_submitter": false,
+            "link_id": "t3_c6ndg4",
+            "parent_id": "t3_c6ndg4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Cypher848"
+        }
+    }
+}

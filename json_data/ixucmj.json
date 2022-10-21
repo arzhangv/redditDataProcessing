@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Emotet double blunder: fake \u2018Windows 10 Mobile\u2019 and outdated messages",
+        "score": 1,
+        "id": "ixucmj",
+        "commsNum": 1,
+        "timeStamp": "2020/09/22-12:25:38",
+        "author_name": "DrinkMoreCodeMore",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.bleepingcomputer.com/news/security/emotet-double-blunder-fake-windows-10-mobile-and-outdated-messages/"
+    },
+    "posts": {
+        "g698506": {
+            "comment": "\"Trying to trick users into enabling macros to see documents created on a different operating system may be a convincing stratagem but using Windows 10 Mobile (since the beginning of the month) is a blunder since the OS reached end of life in January 2020.\"\n\nHow many average users know that Windows 10 Mobile reached end of life in January? And how many would click it anyway? \n\nBit of a stretch to call it a blunder",
+            "timeStamp": "2020/09/22-14:30:48",
+            "id": "g698506",
+            "is_submitter": false,
+            "link_id": "t3_ixucmj",
+            "parent_id": "t3_ixucmj",
+            "score": 2,
+            "stickied": false,
+            "author_name": "uvxt90"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "This of course happened at the best possible time, when I, the only system admin for my 400+ person organization is out sick, and the one helpdesk guy (also serving the same population) is alone to handle it all! lol\n\nNo, seriously. I saw an e-mail about some weird locky files and a _HELP_instructions.txt file in a bunch of directories. First thing was to look at the files and determine who created them. Found the user in a few seconds, sent a message to our one helpdesk guy, and he unplugged the whole machine after running over to him. His machine was a total loss, but that's not why I am writing this... the locky virus did a number on our systems, but it wasn't easily obvious.\n\nWe have lots of mapped drives on all the users, and lots of users have full access to these drives. Yeah I know, something I inherited, need to fix, but anyways... I go looking for files and notice nothing in our main drives are encrypted which I thought was really strange.\n\nI had no idea how strange until I started talking to my manager. Apparently the virus somehow got into his \"personal\" hidden $share for his files, even though the user DID NOT have rights, was not a domain admin, and would have been incapable of adding files to his folder, it did it. It picked a random 3 users and encrypted all their stuff.\n\nThe virus then picked another completely random server and share, and started encrypting. I think I had a special kind of good luck here because the virus picked a remote share, which tied it up for a good couple  hours of the 4 hours it ran. I'll take it. \n\nThe locky virus specifically targeted text files and access databases. It would jump using shares it found through the SMB protocol, not the mapped drive letters. Rights to the files didn't seem to matter to the virus, it just did whatever it wanted, even though the user shouldn't have had the rights.\n\nFinally the mayhem stopped and we were able to catch our breaths. Restores all  around to the affected files, but I still can't get over the selectiveness of this locky virus. It would skip over full directories of files, only encrypt one or two files, and move on. I believe this variant may have had patterns it searched for to sabotage the highest value target on the share.\n\nWe are going to block the files from executing in the temp folder locations, along with talking to Malware Bytes about their software which is boasting of a protection against these kinds of viruses.\n\nHope this is helpful to someone. Good luck.",
+        "title": "My Locky Ransom ware experience",
+        "score": 12,
+        "id": "4bvadm",
+        "commsNum": 22,
+        "timeStamp": "2016/03/24-21:54:58",
+        "author_name": "Rad-min",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 22,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/4bvadm/my_locky_ransom_ware_experience/"
+    },
+    "posts": {}
+}

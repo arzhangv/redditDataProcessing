@@ -1,0 +1,220 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Yesterday, I ran a pirated file and my computer started running really hot. When I went into the windows defender it found \"Win32/Tiggre!rfn\" it was quarantined but not deleted. Before the virus was deleted I completely wiped my computer and did a \"remove everything\" format. Now my mouse cursor slows down randomly and my temperatures go up randomly while the computer slows down sometimes randomly. How do I delete this if WD cannot find it, Malwarebytes cannot find it, and karspersky cannot find it either?",
+        "title": "Win32/Tiggre!rfn",
+        "score": 1,
+        "id": "vpbtct",
+        "commsNum": 0,
+        "timeStamp": "2022/07/01-14:42:08",
+        "author_name": "Shitass10",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/vpbtct/win32tiggrerfn/"
+    },
+    "posts": {
+        "ifkt543": {
+            "comment": "as far as i know, you should wipe your hard drive completely and do a fresh install of windows via usb/cd instead of reinstalling windows from factory reset as that doesn\u2019t exactly remove everything. also, if your doing a lot of downloading, you should use a third party antivirus since windows defender isn\u2019t exactly great at catching malware. find an alternative like AVAST, Malwarebytes or Bitdefender.",
+            "timeStamp": "2022/07/10-02:26:16",
+            "id": "ifkt543",
+            "is_submitter": false,
+            "link_id": "t3_vpbtct",
+            "parent_id": "t3_vpbtct",
+            "score": 1,
+            "stickied": false,
+            "author_name": "GoodGooseThingit"
+        },
+        "ieokbjw": {
+            "comment": "what?",
+            "timeStamp": "2022/07/03-03:21:22",
+            "id": "ieokbjw",
+            "is_submitter": false,
+            "link_id": "t3_vpbtct",
+            "parent_id": "t1_iek3iwr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Confident_Night9622"
+        },
+        "iek4jnn": {
+            "comment": "? Im just asking where you found the information about frying a gpu with xmrig.\n\nPretty sure my rockets are not in my basement, lol",
+            "timeStamp": "2022/07/02-02:21:33",
+            "id": "iek4jnn",
+            "is_submitter": false,
+            "link_id": "t3_vpbtct",
+            "parent_id": "t1_iek3iwr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Aadsterken"
+        },
+        "iek3iwr": {
+            "comment": "All your man your an expert and I'm on xmr very well. Younseemntonknnownoy all somhave at it. I love guys who build rocket inntgierbbasements claiming to be elon. You seem to have foole we'll under control.",
+            "timeStamp": "2022/07/02-02:06:48",
+            "id": "iek3iwr",
+            "is_submitter": false,
+            "link_id": "t3_vpbtct",
+            "parent_id": "t1_iek0eaj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "NoAssumption205"
+        },
+        "iek0eaj": {
+            "comment": "I cant find any info abt broken cpu's. Please let me know if you do. It could theoretically damage a gpu but a proper miner will lower its calculations if the gpu gets too hot so this seems unlikely for a professional miner like XMrig",
+            "timeStamp": "2022/07/02-01:23:01",
+            "id": "iek0eaj",
+            "is_submitter": false,
+            "link_id": "t3_vpbtct",
+            "parent_id": "t1_ieiirxa",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Aadsterken"
+        },
+        "iejzqnh": {
+            "comment": "A cooked cpu wont boot your pc anymore. If its a proper miner its not gonna cook anything. That would reneder the zombie device useless. They rather keep it working since broken devices cant mine for them. If they are idiots they made a miner that screwed your gpu but i think thats also highly unlikely for the same reason",
+            "timeStamp": "2022/07/02-01:13:49",
+            "id": "iejzqnh",
+            "is_submitter": false,
+            "link_id": "t3_vpbtct",
+            "parent_id": "t1_ieiv89e",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Aadsterken"
+        },
+        "iejza80": {
+            "comment": "You cant fully format you disk without a usb. I think what you did was a windows repair. You should really create a usb installer. Then when you boot from it you should, as someone else mentioned, delete all available drives/spaces when it asks you which drive you want to use for the installation. Up till the point that there is only 1 block of unallocated space.",
+            "timeStamp": "2022/07/02-01:07:24",
+            "id": "iejza80",
+            "is_submitter": false,
+            "link_id": "t3_vpbtct",
+            "parent_id": "t1_ieilmh0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Aadsterken"
+        },
+        "iejr2eq": {
+            "comment": "It's not",
+            "timeStamp": "2022/07/01-23:18:06",
+            "id": "iejr2eq",
+            "is_submitter": false,
+            "link_id": "t3_vpbtct",
+            "parent_id": "t1_ieiv89e",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Tear-Sensitive"
+        },
+        "iejqwa9": {
+            "comment": "Idk why people are saying it cooked your cpu. If that was the case the pc wouldn't turn on. You mistakenly ran a silent cryptominer, which will use your computer resources to mine cryptocurrency for the bad guys. It's easy to find these programs, as they will be taxing your cpu and are often run with specific command line arguments. I suggest task manager to find out which program is mining and manually deleting the program. Otherwise a fresh install is best. Let me know how it goes :)",
+            "timeStamp": "2022/07/01-23:15:57",
+            "id": "iejqwa9",
+            "is_submitter": false,
+            "link_id": "t3_vpbtct",
+            "parent_id": "t3_vpbtct",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Tear-Sensitive"
+        },
+        "ieiv89e": {
+            "comment": "The cpu seems to work as normal, but how do I know that it's burnt?",
+            "timeStamp": "2022/07/01-18:02:38",
+            "id": "ieiv89e",
+            "is_submitter": true,
+            "link_id": "t3_vpbtct",
+            "parent_id": "t1_ieirhpi",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Shitass10"
+        },
+        "ieirleg": {
+            "comment": "Probably was xmrrig",
+            "timeStamp": "2022/07/01-17:31:28",
+            "id": "ieirleg",
+            "is_submitter": false,
+            "link_id": "t3_vpbtct",
+            "parent_id": "t1_ieilepb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "NoAssumption205"
+        },
+        "ieirhpi": {
+            "comment": "Depend on miner hidden in the malware code",
+            "timeStamp": "2022/07/01-17:30:37",
+            "id": "ieirhpi",
+            "is_submitter": false,
+            "link_id": "t3_vpbtct",
+            "parent_id": "t1_ieilepb",
+            "score": 1,
+            "stickied": false,
+            "author_name": "NoAssumption205"
+        },
+        "ieilmh0": {
+            "comment": "I did not reinstall windows with a USB, I just went to settings and then went to the recovery options and just formatted it and deleted everything. (I deleted and reinstalled windows from the cloud)",
+            "timeStamp": "2022/07/01-16:41:42",
+            "id": "ieilmh0",
+            "is_submitter": true,
+            "link_id": "t3_vpbtct",
+            "parent_id": "t1_ieijomr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Shitass10"
+        },
+        "ieilepb": {
+            "comment": "How do I know that it cooked the cpu?",
+            "timeStamp": "2022/07/01-16:39:56",
+            "id": "ieilepb",
+            "is_submitter": true,
+            "link_id": "t3_vpbtct",
+            "parent_id": "t1_ieiirxa",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Shitass10"
+        },
+        "ieijomr": {
+            "comment": "Either that or the way you reinstalled Windows didn't wipe the drive. At the install screen you would want to select \"custom\" and then press delete until all you have is unallocated space, then press \"new\" to make a new partition. That's what I would consider a completely fresh install.",
+            "timeStamp": "2022/07/01-16:26:01",
+            "id": "ieijomr",
+            "is_submitter": false,
+            "link_id": "t3_vpbtct",
+            "parent_id": "t1_ieie5jw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Nugsly"
+        },
+        "ieiirxa": {
+            "comment": "That or it cooked the gpu or CPU.",
+            "timeStamp": "2022/07/01-16:18:47",
+            "id": "ieiirxa",
+            "is_submitter": false,
+            "link_id": "t3_vpbtct",
+            "parent_id": "t3_vpbtct",
+            "score": 1,
+            "stickied": false,
+            "author_name": "NoAssumption205"
+        },
+        "ieie5jw": {
+            "comment": "So the problems that the computer is having right now are just a coincidence?",
+            "timeStamp": "2022/07/01-15:42:32",
+            "id": "ieie5jw",
+            "is_submitter": true,
+            "link_id": "t3_vpbtct",
+            "parent_id": "t1_ieid9bw",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Shitass10"
+        },
+        "ieid9bw": {
+            "comment": "Not a tech support subreddit.\n\nIf you actually formatted your drive and reinstalled Windows, that infection is no longer on your machine. It's a \"cryptominer\", not a rootkit/bootkit, it will not survive a reformat that is done correctly. \n\nhttps://malwiki.org/index.php?title=Tiggre!rfn",
+            "timeStamp": "2022/07/01-15:35:42",
+            "id": "ieid9bw",
+            "is_submitter": false,
+            "link_id": "t3_vpbtct",
+            "parent_id": "t3_vpbtct",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Nugsly"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Java-based malware driving DDoS botnet infects Windows, Mac, Linux devices",
+        "score": 19,
+        "id": "1wfemc",
+        "commsNum": 1,
+        "timeStamp": "2014/01/28-18:11:08",
+        "author_name": "antdude",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://arstechnica.com/security/2014/01/java-based-malware-driving-ddos-botnet-infects-windows-mac-linux-devices/"
+    },
+    "posts": {}
+}

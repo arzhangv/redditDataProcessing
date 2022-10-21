@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "[removed]",
+        "title": "Help",
+        "score": 1,
+        "id": "995vlr",
+        "commsNum": 2,
+        "timeStamp": "2018/08/21-11:51:47",
+        "author_name": "sour7666",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/995vlr/help/"
+    },
+    "posts": {
+        "e4prus8": {
+            "comment": "[deleted]",
+            "timeStamp": "2018/08/23-13:47:17",
+            "id": "e4prus8",
+            "is_submitter": false,
+            "link_id": "t3_995vlr",
+            "parent_id": "t3_995vlr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "e4prte1": {
+            "comment": "Fuck me. Talking to my self\ud83d\ude1e\ud83d\ude2e",
+            "timeStamp": "2018/08/23-13:46:43",
+            "id": "e4prte1",
+            "is_submitter": true,
+            "link_id": "t3_995vlr",
+            "parent_id": "t3_995vlr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sour7666"
+        },
+        "e4prrrf": {
+            "comment": "Is this malware????? Need some fucking help ... does not pull up in any browser. ",
+            "timeStamp": "2018/08/23-13:46:05",
+            "id": "e4prrrf",
+            "is_submitter": true,
+            "link_id": "t3_995vlr",
+            "parent_id": "t3_995vlr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sour7666"
+        }
+    }
+}

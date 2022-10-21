@@ -1,0 +1,176 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Regarding malware development, is using Windows 10 safe? With all the privacy risks that come with Windows 10 - what operating systems are used when developing?",
+        "title": "Windows 10",
+        "score": 0,
+        "id": "dkikgc",
+        "commsNum": 14,
+        "timeStamp": "2019/10/20-04:43:31",
+        "author_name": "poezda",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 14,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/dkikgc/windows_10/"
+    },
+    "posts": {
+        "f4newkq": {
+            "comment": "[removed]",
+            "timeStamp": "2019/10/21-13:12:23",
+            "id": "f4newkq",
+            "is_submitter": false,
+            "link_id": "t3_dkikgc",
+            "parent_id": "t3_dkikgc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "f4gg3p7": {
+            "comment": "If you were writing malware that you don't want to get caught and signaturized, then the best way to develop is within a virtual environment where you can control network access. I would probably develop on the same type of system that the malware is intended to run on.\n\nFor myself, I set up a virtual environment using VMware workstation. I use a PFsense firewall to connect to my local area network. Then I have a couple of windows and Ubuntu virtual machines that are connected to the internal side of that PFsense firewall. I disable antivirus on my development VM, but I leave them enabled on the test machines in the same virtual network.\n\nI then use firewall rules to control network access in prevent the AV solutions from reaching out to the cloud.\n\nwhen I'm done testing, I revert the virtual machines that I tested them out on so that in the future, if those VMs connect to the network, they would not have a sample of the malware that is in development.\n\nDisclaimer: This is a good way to set up your development environment if you are developing custom tools to support your penetration testing efforts.",
+            "timeStamp": "2019/10/20-07:13:15",
+            "id": "f4gg3p7",
+            "is_submitter": false,
+            "link_id": "t3_dkikgc",
+            "parent_id": "t3_dkikgc",
+            "score": 2,
+            "stickied": false,
+            "author_name": "FusionCarcass"
+        },
+        "f4gcbkm": {
+            "comment": "I do a bit of Windows based malware development in Windows 10 focused mostly on evasion and trying to find ways around security implementations not present in Windows 7. I imagine that if you're writing malware that isn't version dependent, you should have backwards compatibility with Windows 7 to some degree. If you write specifically for Windows 7, there's a greater chance it won't be forward compatible.",
+            "timeStamp": "2019/10/20-06:52:53",
+            "id": "f4gcbkm",
+            "is_submitter": false,
+            "link_id": "t3_dkikgc",
+            "parent_id": "t1_f4g9oxs",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sleepless-p03t"
+        },
+        "f4g9oxs": {
+            "comment": "Now really. Just Windows based.",
+            "timeStamp": "2019/10/20-06:41:59",
+            "id": "f4g9oxs",
+            "is_submitter": true,
+            "link_id": "t3_dkikgc",
+            "parent_id": "t1_f4g9mx3",
+            "score": 1,
+            "stickied": false,
+            "author_name": "poezda"
+        },
+        "f4g9mx3": {
+            "comment": "Any particular type of malware?",
+            "timeStamp": "2019/10/20-06:41:37",
+            "id": "f4g9mx3",
+            "is_submitter": false,
+            "link_id": "t3_dkikgc",
+            "parent_id": "t1_f4fo0nh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sleepless-p03t"
+        },
+        "f4fwyt8": {
+            "comment": "[removed]",
+            "timeStamp": "2019/10/20-05:42:39",
+            "id": "f4fwyt8",
+            "is_submitter": false,
+            "link_id": "t3_dkikgc",
+            "parent_id": "t1_f4fo0nh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "f4fvp8v": {
+            "comment": "[removed]",
+            "timeStamp": "2019/10/20-05:36:29",
+            "id": "f4fvp8v",
+            "is_submitter": false,
+            "link_id": "t3_dkikgc",
+            "parent_id": "t3_dkikgc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "f4fqx16": {
+            "comment": "Then buy a laptop/pc which can",
+            "timeStamp": "2019/10/20-05:11:23",
+            "id": "f4fqx16",
+            "is_submitter": false,
+            "link_id": "t3_dkikgc",
+            "parent_id": "t1_f4fqu2b",
+            "score": 1,
+            "stickied": false,
+            "author_name": "kenig0x33"
+        },
+        "f4fqu2b": {
+            "comment": "Honestly don't think my laptop can run a VM",
+            "timeStamp": "2019/10/20-05:10:45",
+            "id": "f4fqu2b",
+            "is_submitter": true,
+            "link_id": "t3_dkikgc",
+            "parent_id": "t1_f4fqj5w",
+            "score": 1,
+            "stickied": false,
+            "author_name": "poezda"
+        },
+        "f4fqj5w": {
+            "comment": "If u want to write malware for windows set up a windows vm and code there",
+            "timeStamp": "2019/10/20-05:08:25",
+            "id": "f4fqj5w",
+            "is_submitter": false,
+            "link_id": "t3_dkikgc",
+            "parent_id": "t1_f4fo0nh",
+            "score": 1,
+            "stickied": false,
+            "author_name": "kenig0x33"
+        },
+        "f4fo0nh": {
+            "comment": "To write malware.",
+            "timeStamp": "2019/10/20-04:54:58",
+            "id": "f4fo0nh",
+            "is_submitter": true,
+            "link_id": "t3_dkikgc",
+            "parent_id": "t1_f4fny9g",
+            "score": 1,
+            "stickied": false,
+            "author_name": "poezda"
+        },
+        "f4fny9g": {
+            "comment": "What's your goal exactly?",
+            "timeStamp": "2019/10/20-04:54:31",
+            "id": "f4fny9g",
+            "is_submitter": false,
+            "link_id": "t3_dkikgc",
+            "parent_id": "t1_f4fns42",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sleepless-p03t"
+        },
+        "f4fns42": {
+            "comment": "What I meant was, of I was developing malware would it be better to use Windows 7 or 10?",
+            "timeStamp": "2019/10/20-04:53:16",
+            "id": "f4fns42",
+            "is_submitter": true,
+            "link_id": "t3_dkikgc",
+            "parent_id": "t1_f4fnlb0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "poezda"
+        },
+        "f4fnlb0": {
+            "comment": "Ideally, you want to test on a number of platforms. Windows 10 seems safe to test on, at least from my experience. Some things to consider though: Windows 10 does make certain well known exploits/tactics more difficult to implement due to improved security compared to say Windows 7. There's nothing wrong with targeting older systems as there are still a huge number of older machines out there that don't all have the latest patches/upgrades/security implementations",
+            "timeStamp": "2019/10/20-04:51:55",
+            "id": "f4fnlb0",
+            "is_submitter": false,
+            "link_id": "t3_dkikgc",
+            "parent_id": "t3_dkikgc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "sleepless-p03t"
+        }
+    }
+}

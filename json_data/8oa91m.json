@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Dear colleagues, \n\nFollowing are the slides from BSIDES 2018 \\- Sao Paulo: \n\n[http://www.blackstormsecurity.com/docs/BSIDES\\_2018\\_RELEASE.pdf](http://www.blackstormsecurity.com/docs/BSIDES_2018_RELEASE.pdf)\n\nIt is a presentation about few ring\\+3 malwares  tricks, but it might help somebody.\n\nHave an excellent day. \n\nAlexandre Borges.",
+        "title": "Slides from BSIDES 2018 - Sao Paulo (Ring +3 malwares: few tricks)",
+        "score": 16,
+        "id": "8oa91m",
+        "commsNum": 3,
+        "timeStamp": "2018/06/03-10:46:29",
+        "author_name": "alexandreborges",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8oa91m/slides_from_bsides_2018_sao_paulo_ring_3_malwares/"
+    },
+    "posts": {
+        "e459bnc": {
+            "comment": "I am sorry for delay in replying. Unfortunately, there is not because the BSIDES SAO PAULO usually does not record talks. \n\nI am sorry.\n\nHave an amazing day.\n\nAlexandre Borges.",
+            "timeStamp": "2018/08/13-17:30:48",
+            "id": "e459bnc",
+            "is_submitter": true,
+            "link_id": "t3_8oa91m",
+            "parent_id": "t1_e278l15",
+            "score": 1,
+            "stickied": false,
+            "author_name": "alexandreborges"
+        },
+        "e278l15": {
+            "comment": "Is there any video available for this ?",
+            "timeStamp": "2018/07/11-09:49:01",
+            "id": "e278l15",
+            "is_submitter": false,
+            "link_id": "t3_8oa91m",
+            "parent_id": "t3_8oa91m",
+            "score": 1,
+            "stickied": false,
+            "author_name": "pizzarulzz"
+        },
+        "e035uyl": {
+            "comment": "Thanks for contributing Alex. Question for you: do you know if the idea of process hollowing could work with kernel drivers ?",
+            "timeStamp": "2018/06/04-05:01:06",
+            "id": "e035uyl",
+            "is_submitter": false,
+            "link_id": "t3_8oa91m",
+            "parent_id": "t3_8oa91m",
+            "score": 1,
+            "stickied": false,
+            "author_name": "edward_snowedin"
+        }
+    }
+}

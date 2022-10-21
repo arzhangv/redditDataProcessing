@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Wix.Com DOM Based XSS Vulnerability Put 86 Million Websites At Risk!",
+        "score": 1,
+        "id": "5b2ujo",
+        "commsNum": 0,
+        "timeStamp": "2016/11/04-03:42:04",
+        "author_name": "CDI_Consulting-Blog",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.cyberintelligence.in/Wix.com-Vulnerable-DOM-Based-XSS-Vulnerability-Matt-Austin/"
+    },
+    "posts": {}
+}

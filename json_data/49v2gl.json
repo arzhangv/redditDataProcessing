@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Sorry if this is the wrong forum, but after uninstalling Chrome, Chromes.exe keeps showing up in Process Explorer and it keeps accessing the internet.  VirusTotal says it's clean.  I'm guessing something I have installed uses the Google/Chrome APIs to access \"something\".  Any ideas?",
+        "title": "Why does Chromes.exe keep pinging the internet?",
+        "score": 17,
+        "id": "49v2gl",
+        "commsNum": 52,
+        "timeStamp": "2016/03/10-11:39:24",
+        "author_name": "landfallco",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 52,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/49v2gl/why_does_chromesexe_keep_pinging_the_internet/"
+    },
+    "posts": {}
+}

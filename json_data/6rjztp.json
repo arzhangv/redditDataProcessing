@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": null,
+        "title": "Cerber Ransomware Evolves Again, Now Steals From Bitcoin Wallets",
+        "score": 17,
+        "id": "6rjztp",
+        "commsNum": 6,
+        "timeStamp": "2017/08/04-05:00:32",
+        "author_name": "brokercx",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 6,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://blog.trendmicro.com/trendlabs-security-intelligence/cerber-ransomware-evolves-now-steals-bitcoin-wallets/"
+    },
+    "posts": {
+        "dla19ck": {
+            "comment": "My apologies for misinformation :)",
+            "timeStamp": "2017/08/07-04:22:42",
+            "id": "dla19ck",
+            "is_submitter": false,
+            "link_id": "t3_6rjztp",
+            "parent_id": "t1_dl7ifa0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "JoshRosserino"
+        },
+        "dl7ifa0": {
+            "comment": "They're just fighting it, but nobody has taken it down.",
+            "timeStamp": "2017/08/05-10:37:22",
+            "id": "dl7ifa0",
+            "is_submitter": false,
+            "link_id": "t3_6rjztp",
+            "parent_id": "t1_dl70p1e",
+            "score": 1,
+            "stickied": false,
+            "author_name": "hypervis0r"
+        },
+        "dl77l6d": {
+            "comment": "Have you notice, at every historical spike in the price of BTC, we have a BTC-earning ransomware on the loose.",
+            "timeStamp": "2017/08/05-06:13:22",
+            "id": "dl77l6d",
+            "is_submitter": false,
+            "link_id": "t3_6rjztp",
+            "parent_id": "t3_6rjztp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Nearchoscretan"
+        },
+        "dl70p1e": {
+            "comment": "Well, theoretically entire anti-malware community. Vendors, anti-malware developers, found specific signatures and they are blocking it to a certain effectiveness.",
+            "timeStamp": "2017/08/05-00:55:53",
+            "id": "dl70p1e",
+            "is_submitter": false,
+            "link_id": "t3_6rjztp",
+            "parent_id": "t1_dl5u50e",
+            "score": 0,
+            "stickied": false,
+            "author_name": "JoshRosserino"
+        },
+        "dl5u50e": {
+            "comment": "Who has ever shut down Cerber before?",
+            "timeStamp": "2017/08/04-08:38:38",
+            "id": "dl5u50e",
+            "is_submitter": false,
+            "link_id": "t3_6rjztp",
+            "parent_id": "t1_dl5jzrw",
+            "score": 2,
+            "stickied": false,
+            "author_name": "hypervis0r"
+        },
+        "dl5jzrw": {
+            "comment": "Oh boy..... here we go again... Hopefully, this time we can shut it down far faster than before. The development and advancements of these evolutions are scary...",
+            "timeStamp": "2017/08/04-05:09:12",
+            "id": "dl5jzrw",
+            "is_submitter": false,
+            "link_id": "t3_6rjztp",
+            "parent_id": "t3_6rjztp",
+            "score": 1,
+            "stickied": false,
+            "author_name": "JoshRosserino"
+        }
+    }
+}

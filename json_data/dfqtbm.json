@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "I'm in the process of trying to get to the bottom of some strange outgoing network connections on a system. Through the magic of sysmon I tracked down a process id, which is linked to Chrome. By exploring that id it seemed to relate to the crashpad service inside chrome.\n\nI am still doing more probing but I do wonder, is it a thing for some kind of malware to change the crashpad upload url's maliciously? And if so, where might I find a setting like that stored?\n\nThanks all.",
+        "title": "Can Chrome's crashpad upload url be hijacked?",
+        "score": 1,
+        "id": "dfqtbm",
+        "commsNum": 1,
+        "timeStamp": "2019/10/09-18:26:19",
+        "author_name": "QuerulousPanda",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/dfqtbm/can_chromes_crashpad_upload_url_be_hijacked/"
+    },
+    "posts": {
+        "f35840o": {
+            "comment": "It looks like you are posting a question, possibly looking for technical support. \n\nThis subreddit\u2019s purpose is to discuss malware internals and technical details. *This is NOT a place for help with malware removal or various other end-user questions. Please redirect questions related to malware removal to /r/Antivirus or /r/techsupport. Ransomware related questions can be directed to /r/ransomware*\n\nIf this was removed in error, please message the moderators - we love reading quality content just as much as you do!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Malware) if you have any questions or concerns.*",
+            "timeStamp": "2019/10/09-18:26:20",
+            "id": "f35840o",
+            "is_submitter": false,
+            "link_id": "t3_dfqtbm",
+            "parent_id": "t3_dfqtbm",
+            "score": 1,
+            "stickied": false,
+            "author_name": "AutoModerator"
+        }
+    }
+}

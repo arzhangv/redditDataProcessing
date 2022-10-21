@@ -1,0 +1,88 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "Can you guys help me with this file? it is malware?\n\nif it is malware what is the malware's purpose? what is it doing to the pc?\n\n&amp;#x200B;\n\n [Free Automated Malware Analysis Service - powered by Falcon Sandbox - Viewing online file analysis results for 'Compat\\_mail\\_sample.exe' (hybrid-analysis.com)](https://www.hybrid-analysis.com/sample/cb598da3f0be06a997f323fb018ad164b83f417e547449856706e0528bace94c/5fe0573fa5e1903f1a10576e)",
+        "title": "Check for malware in the file",
+        "score": 1,
+        "id": "v4p6aj",
+        "commsNum": 0,
+        "timeStamp": "2022/06/04-06:43:54",
+        "author_name": "Floziko",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/v4p6aj/check_for_malware_in_the_file/"
+    },
+    "posts": {
+        "idrgrq5": {
+            "comment": "Hey I can look at the file if you want. Just need to get the sample.",
+            "timeStamp": "2022/06/25-19:53:30",
+            "id": "idrgrq5",
+            "is_submitter": false,
+            "link_id": "t3_v4p6aj",
+            "parent_id": "t3_v4p6aj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "dkayem"
+        },
+        "ibe7k2q": {
+            "comment": "It actually says:\n\n* Remote Access\n   * Reads terminal service related keys (often RDP related)\n* Persistence Writes data to a remote process\n* Fingerprint Queries sensitive IE security settings Reads the active computer name\n* Evasive Marks file for deletion\n* Spreading Opens the MountPointManager (often used to detect additional infection locations\n\nGrr my editor just messed everything up. Yes a VT collection says it's part of BatchWiper.\n\nWritten in Pure Basic. Whhhhat?",
+            "timeStamp": "2022/06/06-11:19:21",
+            "id": "ibe7k2q",
+            "is_submitter": false,
+            "link_id": "t3_v4p6aj",
+            "parent_id": "t1_ib5ftgz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Artistic-Structure17"
+        },
+        "ib7foz4": {
+            "comment": "Sandbox it",
+            "timeStamp": "2022/06/04-18:35:56",
+            "id": "ib7foz4",
+            "is_submitter": false,
+            "link_id": "t3_v4p6aj",
+            "parent_id": "t1_ib5ftgz",
+            "score": 1,
+            "stickied": false,
+            "author_name": "fsereicikas"
+        },
+        "ib6a9jl": {
+            "comment": "[removed]",
+            "timeStamp": "2022/06/04-12:21:12",
+            "id": "ib6a9jl",
+            "is_submitter": false,
+            "link_id": "t3_v4p6aj",
+            "parent_id": "t3_v4p6aj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "ib5ftgz": {
+            "comment": "I but it only says it trojan and it opens wscript.exe process and outlook.exe.\n\nI want to know what kind of trojan it is and what the purpose of this malware is.\n\n&amp;#x200B;\n\ncan it be a batchwiper?",
+            "timeStamp": "2022/06/04-07:49:40",
+            "id": "ib5ftgz",
+            "is_submitter": true,
+            "link_id": "t3_v4p6aj",
+            "parent_id": "t1_ib5de4k",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Floziko"
+        },
+        "ib5de4k": {
+            "comment": "read the results of the webpage you posted. Everything is in there.",
+            "timeStamp": "2022/06/04-07:26:37",
+            "id": "ib5de4k",
+            "is_submitter": false,
+            "link_id": "t3_v4p6aj",
+            "parent_id": "t3_v4p6aj",
+            "score": 1,
+            "stickied": false,
+            "author_name": "myredac"
+        }
+    }
+}

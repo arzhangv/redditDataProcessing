@@ -1,0 +1,132 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Ok.. I'm officially freaking out. I had youtube running in the background with some random video while I was doing something else on my laptop. Then out of nowhere, I heard a short beep. I checked all my open tabs in mozilla to see if anything caused the beep, but there was nothing interesting. A few moments later, the video on youtube was interruped and I heard through my speakers someone saying \"You're more handsome in your photo\".  It caught my attention cause it was a different voice. I checked youtube to see maybe it was a line in the video, but nope. Also no ads open in any of the tabs. I proceeded to cover the laptop camera immediately. WTF just happened? Should I be worried?",
+        "title": "Heard a voice through my laptop speaker",
+        "score": 0,
+        "id": "bfr9iy",
+        "commsNum": 10,
+        "timeStamp": "2019/04/21-10:28:47",
+        "author_name": "ImAdrivan",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 10,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/bfr9iy/heard_a_voice_through_my_laptop_speaker/"
+    },
+    "posts": {
+        "elg4b7o": {
+            "comment": "This is what you get for running Windows and not covering your laptop camera",
+            "timeStamp": "2019/04/21-13:19:49",
+            "id": "elg4b7o",
+            "is_submitter": false,
+            "link_id": "t3_bfr9iy",
+            "parent_id": "t3_bfr9iy",
+            "score": 0,
+            "stickied": false,
+            "author_name": "tonythegoose"
+        },
+        "elfxxw5": {
+            "comment": "And tell them what?\n\nNo, OP needs to do a dull malware scan and, I would honestly just format and reinstall.",
+            "timeStamp": "2019/04/21-12:01:56",
+            "id": "elfxxw5",
+            "is_submitter": false,
+            "link_id": "t3_bfr9iy",
+            "parent_id": "t1_elfrhf5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Spajtastic"
+        },
+        "elfx3c2": {
+            "comment": "Get out of here with your puns, Rusty Nipple Clamps!",
+            "timeStamp": "2019/04/21-11:51:17",
+            "id": "elfx3c2",
+            "is_submitter": false,
+            "link_id": "t3_bfr9iy",
+            "parent_id": "t1_elfwzf2",
+            "score": 2,
+            "stickied": false,
+            "author_name": "crusec"
+        },
+        "elfwzf2": {
+            "comment": "\"sound\" advice. I see what you did there....",
+            "timeStamp": "2019/04/21-11:49:55",
+            "id": "elfwzf2",
+            "is_submitter": false,
+            "link_id": "t3_bfr9iy",
+            "parent_id": "t1_elfwskn",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RustyNippleclamps_01"
+        },
+        "elfwskn": {
+            "comment": "The only sound advice here is to sweep your device for malicious software and clean up your internet hygiene. Computers do not compromise themselves. You open the door yourself through poor security practices \n\nhttps://www.crusec.com/single-post/2018/01/20/Advanced-Malware-Removal-on-Windows-Devices\n\nhttps://www.crusec.com/single-post/2018/12/07/Your-Digital-Footprint-Looks-A-Lot-Like-You\n\nAwareness and education is key here, people. Your local police department is not going to help you with petty cyber crime.",
+            "timeStamp": "2019/04/21-11:47:34",
+            "id": "elfwskn",
+            "is_submitter": false,
+            "link_id": "t3_bfr9iy",
+            "parent_id": "t3_bfr9iy",
+            "score": 0,
+            "stickied": false,
+            "author_name": "crusec"
+        },
+        "elfuec2": {
+            "comment": "of course you should be worried",
+            "timeStamp": "2019/04/21-11:18:49",
+            "id": "elfuec2",
+            "is_submitter": false,
+            "link_id": "t3_bfr9iy",
+            "parent_id": "t3_bfr9iy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "no8iboy"
+        },
+        "elftle3": {
+            "comment": "netstat -ab from cmd line (as administrator) will list network connections and associated apps. See if somethings hinky in there maybe...",
+            "timeStamp": "2019/04/21-11:09:09",
+            "id": "elftle3",
+            "is_submitter": false,
+            "link_id": "t3_bfr9iy",
+            "parent_id": "t3_bfr9iy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "alsoDivergent"
+        },
+        "elft0di": {
+            "comment": "same thing happened to me last year.  As unlikely as it sounds, it turned out to be my speaker hardware picking up radio signals and the voices were truck drivers on CB.  I got new speakers and it never happened again.",
+            "timeStamp": "2019/04/21-11:02:05",
+            "id": "elft0di",
+            "is_submitter": false,
+            "link_id": "t3_bfr9iy",
+            "parent_id": "t3_bfr9iy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "for_my_next_trick"
+        },
+        "elfrm4v": {
+            "comment": "I recommend doing a malware scan and check for spyware someone may have compromised your webcam. If someone is spying on you from your webcam report it it's a crime that is punishable by law.",
+            "timeStamp": "2019/04/21-10:45:39",
+            "id": "elfrm4v",
+            "is_submitter": false,
+            "link_id": "t3_bfr9iy",
+            "parent_id": "t3_bfr9iy",
+            "score": 1,
+            "stickied": false,
+            "author_name": "cyrptedras"
+        },
+        "elfrhf5": {
+            "comment": "I would call the police.",
+            "timeStamp": "2019/04/21-10:44:04",
+            "id": "elfrhf5",
+            "is_submitter": false,
+            "link_id": "t3_bfr9iy",
+            "parent_id": "t3_bfr9iy",
+            "score": -1,
+            "stickied": false,
+            "author_name": "undeadcookie456"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "I created this fun, CTF-style challenge to teach how to de-obfuscate malware infested network traffic without leaving you in front of your computer glossy-eyed for 8 hours. Enjoy! Just published the walkthrough with it too!",
+        "score": 1,
+        "id": "r7ddn4",
+        "commsNum": 1,
+        "timeStamp": "2021/12/02-10:08:46",
+        "author_name": "Rebel_Ye11",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://github.com/RoseSecurity/Obfusc8ted"
+    },
+    "posts": {
+        "hn3ta8u": {
+            "comment": "[removed]",
+            "timeStamp": "2021/12/03-11:37:57",
+            "id": "hn3ta8u",
+            "is_submitter": false,
+            "link_id": "t3_r7ddn4",
+            "parent_id": "t3_r7ddn4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        }
+    }
+}

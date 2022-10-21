@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "Hello,\n\ni heard that there is ransomware out there, which _after_ doing encryption will start to bruteforce RDP's within a network. Havent found any sources. Anyone else heard this kind of ransomware?",
+        "title": "RDP Bruteforce (ransomware)",
+        "score": 7,
+        "id": "4blluz",
+        "commsNum": 8,
+        "timeStamp": "2016/03/23-00:44:58",
+        "author_name": "juon4",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 8,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/4blluz/rdp_bruteforce_ransomware/"
+    },
+    "posts": {}
+}

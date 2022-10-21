@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Malware Analysis Tutorial 17: Infecting Driver Files (Part I: Randomly Select a System Module)",
+        "score": 14,
+        "id": "pxmmh",
+        "commsNum": 0,
+        "timeStamp": "2012/02/20-01:51:03",
+        "author_name": "pwnwaffe",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": null,
+        "url": "http://fumalwareanalysis.blogspot.com/2012/02/malware-analysis-tutorial-17-infecting.html"
+    },
+    "posts": {}
+}

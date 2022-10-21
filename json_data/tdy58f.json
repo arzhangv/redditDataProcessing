@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "",
+        "title": "Links from YouTube video captions are being used to hide password-stealing malware",
+        "score": 1,
+        "id": "tdy58f",
+        "commsNum": 0,
+        "timeStamp": "2022/03/14-07:00:04",
+        "author_name": "MathMadd0x",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.androidpolice.com/links-from-youtube-video-captions-are-being-used-to-hide-password-stealing-malware/"
+    },
+    "posts": {
+        "i5ok0j7": {
+            "comment": "https://www.bleepingcomputer.com/news/security/fake-valorant-cheats-on-youtube-infect-you-with-redline-stealer\n\nAlso I was on the Genshin Hacked sub and there's a bunch of people who download those cheats.\n\nI ran one in Intezer\n\nhttps://analyze.intezer.com/analyses/8b4045b2-f98b-48f4-b80a-27dd44a38482/sub/289d65be-f158-4182-a086-c647546efcba\n\nhttps://imgur.com/a/adzTOSc\n\nhttps://imgur.com/a/XP51zHW\n\nThis takes me back to the days of those gold generators for runescape lol.",
+            "timeStamp": "2022/04/21-16:27:14",
+            "id": "i5ok0j7",
+            "is_submitter": false,
+            "link_id": "t3_tdy58f",
+            "parent_id": "t3_tdy58f",
+            "score": 1,
+            "stickied": false,
+            "author_name": "crowruin"
+        },
+        "i1tyeig": {
+            "comment": "I have recently been a victim of this. Thankfully, they didn't lock me out of my hacked accounts.",
+            "timeStamp": "2022/03/23-11:58:46",
+            "id": "i1tyeig",
+            "is_submitter": false,
+            "link_id": "t3_tdy58f",
+            "parent_id": "t3_tdy58f",
+            "score": 1,
+            "stickied": false,
+            "author_name": "MileTailsPrower"
+        },
+        "i0mz52s": {
+            "comment": "If you're desperate enough to do this, you're the target they're looking for. Enjoy the game and have fun. No needs to tale it serious if you don't plan to go professional.",
+            "timeStamp": "2022/03/14-10:03:14",
+            "id": "i0mz52s",
+            "is_submitter": false,
+            "link_id": "t3_tdy58f",
+            "parent_id": "t3_tdy58f",
+            "score": 1,
+            "stickied": false,
+            "author_name": "ZenDendou"
+        }
+    }
+}

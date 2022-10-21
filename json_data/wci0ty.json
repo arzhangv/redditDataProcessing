@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": " Check domains for free across our database of over 6,200,000 computers compromised with info-stealers world wide - [https://www.hudsonrock.com/are-you-compromised](https://www.hudsonrock.com/are-you-compromised)\n\nWhat is it? - this free tool enables you to search for domains and see how many compromised employees &amp; users they have from our continuously augmented cybercrime database, this can be useful for several reasons:\n\n1. Risk assessment - looking up a company and seeing they have a lot of compromised employees can indicate the company is not up to date with proper security measures, each compromised employee indicates that someone in the company downloaded and executed an info-stealing malware and had all their corporate credentials, cookies, documents, etc stolen by hackers who are using the credentials as an initial attack vector.\n2. Pre-breach intel - if you work at a company and see we have data relating to its compromised employees &amp; clients. It is important to note that even with 2FA set in place, when a computer gets infected with an info-stealer it also has the cookies stolen which are then used to steal sessions and bypass 2FA, and that documents containing 2FA backup codes stored anywhere on the computer get captured by the info-stealer and allow the hacker to revoke phone-based 2FA.\n3. Assets discovery - we show the top 5 URLs that compromised employees &amp; clients had credentials for, often these URLs are not attainable anywhere else because internal URLs accessed by clients &amp; employees are not indexed anywhere and cannot be scraped.\n\nWhat is it not? - this is not a tool that provides a full overview around who the employees and users that got compromised are, or how they got compromised. We cannot provide this data publicly as it is very sensitive and is only given as an ethical disclosure to the cybersecurity team of the company.\n\nOur high-fidelity cybercrime intelligence data is sourced directly from threat actors \u2014 not from database leaks or scrapes.\n\nIf you liked this tool please share it, it is also accessible through API along with other free tools we provide such as checking if your own computer was compromised at some point (Preview API - [https://cavalier.hudsonrock.com/docs](https://cavalier.hudsonrock.com/docs))",
+        "title": "Free cybercrime intelligence tool - check any company domain and see how many of their employees and clients were compromised by info-stealers",
+        "score": 1,
+        "id": "wci0ty",
+        "commsNum": 0,
+        "timeStamp": "2022/07/30-23:22:37",
+        "author_name": "Malwarebeasts",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/wci0ty/free_cybercrime_intelligence_tool_check_any/"
+    },
+    "posts": {
+        "iieqn4l": {
+            "comment": "I feel like this was posted earlier",
+            "timeStamp": "2022/07/31-11:07:36",
+            "id": "iieqn4l",
+            "is_submitter": false,
+            "link_id": "t3_wci0ty",
+            "parent_id": "t3_wci0ty",
+            "score": 1,
+            "stickied": false,
+            "author_name": "learnie"
+        },
+        "iie2eo8": {
+            "comment": "https://i.imgur.com/Jy7NtOA.jpg",
+            "timeStamp": "2022/07/31-08:16:56",
+            "id": "iie2eo8",
+            "is_submitter": false,
+            "link_id": "t3_wci0ty",
+            "parent_id": "t3_wci0ty",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Administratr"
+        }
+    }
+}

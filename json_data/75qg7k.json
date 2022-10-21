@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Macro-less Word Doc. uses DDE to execute Powershell and download DLL files (VirusTotal 1/59)",
+        "score": 1,
+        "id": "75qg7k",
+        "commsNum": 0,
+        "timeStamp": "2017/10/11-10:03:19",
+        "author_name": "tboro1",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.vmray.com/analyses/macro-less-word-doc-dde-analysis/report/overview.html"
+    },
+    "posts": {}
+}

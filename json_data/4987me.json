@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "This information were on Transmission's website:\n\"Everyone running 2.90 on OS X should immediately upgrade to 2.91 or delete their copy of 2.90, as they may have downloaded a malware-infected file.\n\nUsing \u201cActivity Monitor\u201d preinstalled in OS X, check whether any process named \u201ckernel_service\u201d is running. If so, double check the process, choose the \u201cOpen Files and Ports\u201d and check whether there is a file name like \u201c/Users//Library/kernel_service\u201d. If so, the process is KeRanger\u2019s main process. We suggest terminating it with \u201cQuit -&gt; Force Quit\u201d.\"\n\n",
+        "title": "Transmisson 2.9 for Mac OS may be malware-infected",
+        "score": 36,
+        "id": "4987me",
+        "commsNum": 8,
+        "timeStamp": "2016/03/06-09:24:08",
+        "author_name": "error631",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 8,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/4987me/transmisson_29_for_mac_os_may_be_malwareinfected/"
+    },
+    "posts": {}
+}

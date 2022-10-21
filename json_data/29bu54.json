@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "EMOTET the banking malware which uses network sniffing",
+        "score": 1,
+        "id": "29bu54",
+        "commsNum": 0,
+        "timeStamp": "2014/06/28-09:13:35",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "http://securityaffairs.co/wordpress/26173/cyber-crime/emotet-banking-malware.html"
+    },
+    "posts": {}
+}

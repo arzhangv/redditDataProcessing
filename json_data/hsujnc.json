@@ -1,0 +1,44 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "I'm a hobbyist malware dev and into security, recently I made a crypter. I  tested with message box program and it's clean, then I tested with known  payload it gets detected instantly, I wonder how antivirus can detect  an encrypted malware?\n\nI encrypted  the binary with xor and caesar cipher, so I could say that it is a  unique algorithm that antivirus cannot bruteforce, it really blows my  mind that antivirus can detect encrypted malware now??\n\nMy  second theory is it scans memory for known malware memory signature,  however it seems like a waste of time for them to implement because it's  very easy to bypass.",
+        "title": "Antivirus encrypted malware detection",
+        "score": 1,
+        "id": "hsujnc",
+        "commsNum": 2,
+        "timeStamp": "2020/07/17-05:09:09",
+        "author_name": "malwareMaker",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 2,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/hsujnc/antivirus_encrypted_malware_detection/"
+    },
+    "posts": {
+        "fycr9y5": {
+            "comment": "On virustotal",
+            "timeStamp": "2020/07/17-05:44:39",
+            "id": "fycr9y5",
+            "is_submitter": true,
+            "link_id": "t3_hsujnc",
+            "parent_id": "t1_fycqith",
+            "score": 1,
+            "stickied": false,
+            "author_name": "malwareMaker"
+        },
+        "fycqith": {
+            "comment": "How did you scan them?\nWere the detections AI based?",
+            "timeStamp": "2020/07/17-05:36:00",
+            "id": "fycqith",
+            "is_submitter": false,
+            "link_id": "t3_hsujnc",
+            "parent_id": "t3_hsujnc",
+            "score": 1,
+            "stickied": false,
+            "author_name": "tekproxy"
+        }
+    }
+}

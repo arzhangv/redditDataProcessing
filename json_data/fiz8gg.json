@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "BlackWater, a malware that uses Cloudflare Workers for C2 Communication",
+        "score": 1,
+        "id": "fiz8gg",
+        "commsNum": 0,
+        "timeStamp": "2020/03/15-03:12:52",
+        "author_name": "securityaffairs",
+        "is_self": false,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://securityaffairs.co/wordpress/99640/malware/covid-19-attack-cloudflare-c2.html"
+    },
+    "posts": {}
+}

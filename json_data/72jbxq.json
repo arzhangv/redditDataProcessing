@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "A popular PC-cleaning software used by over 130 million people put users at risk after hackers were able to insert malware into legitimate downloads.\n\nAccording to Avast, around 2.27 million users had the affected software installed on 32-bit Windows machines, which was delivered via a hacked server.\n\nHow to Remove Malware From Your PC?\n\nAffected users are strongly recommended to update their CCleaner software to version 5.34 or higher, in order to protect their computers from being compromised. The latest version is available for download.\n",
+        "title": "Warning: CCleaner Was Hacked With Malware Over 2.3 Million Users Infected",
+        "score": 0,
+        "id": "72jbxq",
+        "commsNum": 3,
+        "timeStamp": "2017/09/26-02:56:45",
+        "author_name": "Wensosolutions",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/72jbxq/warning_ccleaner_was_hacked_with_malware_over_23/"
+    },
+    "posts": {}
+}

@@ -1,0 +1,21 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Maltrieve: a tool to retrieve malware directly from the source for security researchers.",
+        "score": 10,
+        "id": "260ten",
+        "commsNum": 1,
+        "timeStamp": "2014/05/20-04:40:00",
+        "author_name": "paran0ide",
+        "is_self": false,
+        "locked": null,
+        "num_comments": 1,
+        "over_18": false,
+        "spoiler": null,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://github.com/technoskald/maltrieve"
+    },
+    "posts": {}
+}

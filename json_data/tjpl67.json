@@ -1,0 +1,220 @@
+{
+    "op": {
+        "upvote_ratio": 1.0,
+        "selftext": "What are some common malware attacks? For example if you click on a link and all of a sudden a punch of small windows pop up and flash really fast on your screen to then disappear. That seems like an attack to me right?",
+        "title": "Common malware attacks",
+        "score": 1,
+        "id": "tjpl67",
+        "commsNum": 0,
+        "timeStamp": "2022/03/21-16:49:53",
+        "author_name": "amphibian303",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 0,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/tjpl67/common_malware_attacks/"
+    },
+    "posts": {
+        "i7f47ny": {
+            "comment": "[removed]",
+            "timeStamp": "2022/05/05-05:51:13",
+            "id": "i7f47ny",
+            "is_submitter": false,
+            "link_id": "t3_tjpl67",
+            "parent_id": "t3_tjpl67",
+            "score": 1,
+            "stickied": false,
+            "author_name": "[deleted]"
+        },
+        "i1xh493": {
+            "comment": "With the cost of Chrome and Firefox zero-days in the millions these days, we aren't seeing large-scale random exploitation of the browser. \n\nHowever, attackers are commonly turning to other weak points like \n\n* malicious or weak browser extensions \n* malicious scripts like XSS vulnerabilities that can provide your password or session to attackers\n* and its still possible to get attacked in watering-hole attack especially if you are exposing yourself to risky websites like hacking forums. \n\nI'd say maintaining an up-to-date browser, good ad-blocker, minimizing scripts (NoScript), and only visiting shady websites in a hardened virtual machine are the digital hygiene tools that will deal with 99% of what is out there.",
+            "timeStamp": "2022/03/24-06:44:40",
+            "id": "i1xh493",
+            "is_submitter": false,
+            "link_id": "t3_tjpl67",
+            "parent_id": "t1_i1wpv7e",
+            "score": 1,
+            "stickied": false,
+            "author_name": "nickc"
+        },
+        "i1wpv7e": {
+            "comment": "So i am right when i tell people that \"dont click on this link you'll be hacked\" are just mostly dumb assumption, and they should just calm down ? \n\nI know about browser crashing and remote code execution or drive by attack, so there is always a thin possibility of course.\n\nI think people most likely doesnt risk anything nowaday except if they fell for the phishing website behind the said link but that goes beyond just \"clicking on the link\".",
+            "timeStamp": "2022/03/24-01:56:59",
+            "id": "i1wpv7e",
+            "is_submitter": false,
+            "link_id": "t3_tjpl67",
+            "parent_id": "t1_i1ls3zn",
+            "score": 1,
+            "stickied": false,
+            "author_name": "RCEdude"
+        },
+        "i1pzug5": {
+            "comment": "Good point",
+            "timeStamp": "2022/03/22-15:31:03",
+            "id": "i1pzug5",
+            "is_submitter": false,
+            "link_id": "t3_tjpl67",
+            "parent_id": "t1_i1lmwcr",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Wouldratherplaymtg"
+        },
+        "i1lsub4": {
+            "comment": "https://arcticwolf.com/resources/blog/8-types-of-malware",
+            "timeStamp": "2022/03/21-18:05:47",
+            "id": "i1lsub4",
+            "is_submitter": false,
+            "link_id": "t3_tjpl67",
+            "parent_id": "t3_tjpl67",
+            "score": 1,
+            "stickied": false,
+            "author_name": "gbdavidx"
+        },
+        "i1ls3zn": {
+            "comment": "I think you are looking to learn about different drive-by attacks, read this article from the MITRE ATT&amp;CK framework to learn some different attacks that can happen when you visit malicious websites: [https://attack.mitre.org/techniques/T1189/](https://attack.mitre.org/techniques/T1189/). \n\nRegarding your experience of windows popping up when visiting a shady website, from the limited amount of information you shared I wouldn't be too concerned. If you are using a modern browser like Chrome or Firefox, they do a good job of blocking most attacks and sandboxing each webpage. Most likely you were seeing a lot of pop-under ads, but if you are using a good adblocker, most of them were likely blocked and closed.",
+            "timeStamp": "2022/03/21-18:00:17",
+            "id": "i1ls3zn",
+            "is_submitter": false,
+            "link_id": "t3_tjpl67",
+            "parent_id": "t3_tjpl67",
+            "score": 1,
+            "stickied": false,
+            "author_name": "nickc"
+        },
+        "i1lpy4a": {
+            "comment": "Alright so highly unlikely any malware got on your system. However you should be careful as some info can be stolen through links (cookies, login tokens, etc.)",
+            "timeStamp": "2022/03/21-17:43:53",
+            "id": "i1lpy4a",
+            "is_submitter": false,
+            "link_id": "t3_tjpl67",
+            "parent_id": "t1_i1lpmq4",
+            "score": 1,
+            "stickied": false,
+            "author_name": "foeyloozer"
+        },
+        "i1lpvfo": {
+            "comment": "DM me if you would like to as well",
+            "timeStamp": "2022/03/21-17:43:19",
+            "id": "i1lpvfo",
+            "is_submitter": false,
+            "link_id": "t3_tjpl67",
+            "parent_id": "t1_i1lpps6",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Tyyphoon9"
+        },
+        "i1lpps6": {
+            "comment": "Ok thanks",
+            "timeStamp": "2022/03/21-17:42:08",
+            "id": "i1lpps6",
+            "is_submitter": true,
+            "link_id": "t3_tjpl67",
+            "parent_id": "t1_i1lpjxu",
+            "score": 1,
+            "stickied": false,
+            "author_name": "amphibian303"
+        },
+        "i1lpmq4": {
+            "comment": "Nah it wasn\u2019t a terminal or anything, just small browser windows",
+            "timeStamp": "2022/03/21-17:41:29",
+            "id": "i1lpmq4",
+            "is_submitter": true,
+            "link_id": "t3_tjpl67",
+            "parent_id": "t1_i1lpfe8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "amphibian303"
+        },
+        "i1lpjxu": {
+            "comment": "So I would check task manager to see what is running, screenshot and post a Imgur link to it.\n\nAlso if you *can* download Process Explorer from SysInternals or Microsoft itself and see what the browser tree shows, or process tress and tag an imgur of that too pls",
+            "timeStamp": "2022/03/21-17:40:55",
+            "id": "i1lpjxu",
+            "is_submitter": false,
+            "link_id": "t3_tjpl67",
+            "parent_id": "t1_i1lpamt",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Tyyphoon9"
+        },
+        "i1lpfe8": {
+            "comment": "Were they black/blue windows ? Mightve been the command prompt/powershell. Although I highly highly doubt 123movies is hosting some browser exploit, those are usually targeted.",
+            "timeStamp": "2022/03/21-17:39:57",
+            "id": "i1lpfe8",
+            "is_submitter": false,
+            "link_id": "t3_tjpl67",
+            "parent_id": "t1_i1losa5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "foeyloozer"
+        },
+        "i1lpamt": {
+            "comment": "No I don\u2019t have the url path. It was just like a flash of small browser windows after I clicked on a movie that I wanted to watch",
+            "timeStamp": "2022/03/21-17:38:58",
+            "id": "i1lpamt",
+            "is_submitter": true,
+            "link_id": "t3_tjpl67",
+            "parent_id": "t1_i1loxk8",
+            "score": 1,
+            "stickied": false,
+            "author_name": "amphibian303"
+        },
+        "i1loxk8": {
+            "comment": "Can you give a URL path? I would check VirusTotal for the link you used but can you describe the windows?",
+            "timeStamp": "2022/03/21-17:36:14",
+            "id": "i1loxk8",
+            "is_submitter": false,
+            "link_id": "t3_tjpl67",
+            "parent_id": "t1_i1losa5",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Tyyphoon9"
+        },
+        "i1losa5": {
+            "comment": "123movies. Lol I clicked on a movie I wanted to watch and all these little windows popped up and then disappeared",
+            "timeStamp": "2022/03/21-17:35:08",
+            "id": "i1losa5",
+            "is_submitter": true,
+            "link_id": "t3_tjpl67",
+            "parent_id": "t1_i1lo79j",
+            "score": 1,
+            "stickied": false,
+            "author_name": "amphibian303"
+        },
+        "i1lo79j": {
+            "comment": "Yes? I'm confused what you are asking\n\nThere are at least 10 different types OF malware, but there are hundreds of attacks one can wage against a user\n\nIf you are more specific I can help, but yeah your example *could* be a phishing attack depending on where the link was",
+            "timeStamp": "2022/03/21-17:30:47",
+            "id": "i1lo79j",
+            "is_submitter": false,
+            "link_id": "t3_tjpl67",
+            "parent_id": "t3_tjpl67",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Tyyphoon9"
+        },
+        "i1lmwcr": {
+            "comment": "Counterpoint: yes",
+            "timeStamp": "2022/03/21-17:21:03",
+            "id": "i1lmwcr",
+            "is_submitter": false,
+            "link_id": "t3_tjpl67",
+            "parent_id": "t1_i1lmoso",
+            "score": 1,
+            "stickied": false,
+            "author_name": "bunby_heli"
+        },
+        "i1lmoso": {
+            "comment": "No",
+            "timeStamp": "2022/03/21-17:19:29",
+            "id": "i1lmoso",
+            "is_submitter": false,
+            "link_id": "t3_tjpl67",
+            "parent_id": "t3_tjpl67",
+            "score": 1,
+            "stickied": false,
+            "author_name": "Wouldratherplaymtg"
+        }
+    }
+}

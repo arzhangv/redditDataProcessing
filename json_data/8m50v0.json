@@ -1,0 +1,55 @@
+{
+    "op": {
+        "upvote_ratio": null,
+        "selftext": "",
+        "title": "Will post this on r/scifi, but first, how is malicious code produced in the future? Is genetic- and evolutionary programming a thing?",
+        "score": 1,
+        "id": "8m50v0",
+        "commsNum": 3,
+        "timeStamp": "2018/05/25-13:50:12",
+        "author_name": "lintujen_sukulainen",
+        "is_self": true,
+        "locked": false,
+        "num_comments": 3,
+        "over_18": false,
+        "spoiler": false,
+        "subreddit": "malware",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/Malware/comments/8m50v0/will_post_this_on_rscifi_but_first_how_is/"
+    },
+    "posts": {
+        "dzkwg0n": {
+            "comment": "Much as how the bleeding edge in malware analysis, detection, and remediation is all machine learning models, the bleeding edge in malware creation is also trending that direction. Polymorphic malware has been a thing for years, but expect to see more malware that performs on the fly \"mutation\" to evade classifiers in the future. Think AI purpose built to evade other AI classifiers.\n\nA lot of companies are working on a lot of interesting stuff in this area, but as you can imagine much of it is secret. Start sniffing around though and I'm sure you'll learn more. \n",
+            "timeStamp": "2018/05/25-14:28:39",
+            "id": "dzkwg0n",
+            "is_submitter": false,
+            "link_id": "t3_8m50v0",
+            "parent_id": "t3_8m50v0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "afschuld"
+        },
+        "dzkwelw": {
+            "comment": "This post is not relevant to this subreddit and has been removed ",
+            "timeStamp": "2018/05/25-14:27:57",
+            "id": "dzkwelw",
+            "is_submitter": false,
+            "link_id": "t3_8m50v0",
+            "parent_id": "t3_8m50v0",
+            "score": 1,
+            "stickied": true,
+            "author_name": "edward_snowedin"
+        },
+        "dzkvofz": {
+            "comment": "What are wondering about about? The simple answer is yes. However you could expand on that answer **a lot** depending on what type of answer you are looking for.",
+            "timeStamp": "2018/05/25-14:14:59",
+            "id": "dzkvofz",
+            "is_submitter": false,
+            "link_id": "t3_8m50v0",
+            "parent_id": "t3_8m50v0",
+            "score": 1,
+            "stickied": false,
+            "author_name": "flaccidicus"
+        }
+    }
+}
